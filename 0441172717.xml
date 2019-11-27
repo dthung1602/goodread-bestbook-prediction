@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_isbn]]></method>
+  </Request>
+  <book>
+  <id>47173379</id>
+  <title>Dune</title>
+  <isbn><![CDATA[0441172717]]></isbn>
+  <isbn13><![CDATA[9780441172719]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573675767l/47173379._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573675767l/47173379._SY75_.jpg</small_image_url>
+  <publication_year>1990</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Ace Books</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In 1965, after being rejected by more than a dozen publishing houses, a book called "Dune" was brought out by the Chilton Book Company. Its respected author, journalist Frank Herbert, had written "Dune" with nothing more in mind than to entertain his readers with the telling of a particularly complex story, one which had occupied his thoughts for more than six years. No one - not Herbert, not Chilton, not the science fiction community at the time - had any idea that "Dune" would be adopted and read by successive generations with a fervor bordering on cult worship. Or that it would prove to be merely the first of what have now become five international bestsellers about a desert world of the future - the planet Arrakis, called Dune.]]></description>
+  <work>
+  <id type="integer">3634639</id>
+  <books_count type="integer">307</books_count>
+  <best_book_id type="integer">44767458</best_book_id>
+  <reviews_count type="integer">1091037</reviews_count>
+  <ratings_sum type="integer">2723749</ratings_sum>
+  <ratings_count type="integer">645559</ratings_count>
+  <text_reviews_count type="integer">17808</text_reviews_count>
+  <original_publication_year type="integer">1965</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Dune</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:327309|4:188961|3:87768|2:26535|1:14986|total:645559</rating_dist>
+  <desc_user_id type="integer">24333333</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.dzn2KcfMTbv4_Y7J--YkzQ</work_uri>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[535]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[110]]></ratings_count>
+  <text_reviews_count><![CDATA[7]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/47173379-dune]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/47173379-dune]]></link>
+  <authors>
+<author>
+<id>58</id>
+<name>Frank Herbert</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1168661521p5/58.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1168661521p2/58.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1123858</ratings_count>
+<text_reviews_count>28713</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/47173379-dune">Dune Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441172717&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/47173379-dune?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="360728"/>
+      <shelf name="currently-reading" count="26325"/>
+      <shelf name="science-fiction" count="11878"/>
+      <shelf name="sci-fi" count="10501"/>
+      <shelf name="favorites" count="7071"/>
+      <shelf name="fiction" count="5766"/>
+      <shelf name="fantasy" count="3501"/>
+      <shelf name="classics" count="2715"/>
+      <shelf name="scifi" count="2337"/>
+      <shelf name="owned" count="1954"/>
+      <shelf name="sci-fi-fantasy" count="1209"/>
+      <shelf name="sf" count="847"/>
+      <shelf name="books-i-own" count="777"/>
+      <shelf name="series" count="677"/>
+      <shelf name="classic" count="667"/>
+      <shelf name="dune" count="588"/>
+      <shelf name="audiobook" count="506"/>
+      <shelf name="scifi-fantasy" count="494"/>
+      <shelf name="fantasy-sci-fi" count="474"/>
+      <shelf name="space-opera" count="452"/>
+      <shelf name="default" count="433"/>
+      <shelf name="novels" count="413"/>
+      <shelf name="favourites" count="402"/>
+      <shelf name="audiobooks" count="393"/>
+      <shelf name="library" count="377"/>
+      <shelf name="kindle" count="347"/>
+      <shelf name="owned-books" count="329"/>
+      <shelf name="science-fiction-fantasy" count="310"/>
+      <shelf name="adventure" count="296"/>
+      <shelf name="to-buy" count="280"/>
+      <shelf name="abandoned" count="261"/>
+      <shelf name="speculative-fiction" count="250"/>
+      <shelf name="book-club" count="247"/>
+      <shelf name="audible" count="244"/>
+      <shelf name="adult" count="244"/>
+      <shelf name="re-read" count="241"/>
+      <shelf name="audio" count="222"/>
+      <shelf name="space" count="216"/>
+      <shelf name="epic" count="214"/>
+      <shelf name="novel" count="212"/>
+      <shelf name="great-american-read" count="208"/>
+      <shelf name="literature" count="202"/>
+      <shelf name="dnf" count="191"/>
+      <shelf name="frank-herbert" count="189"/>
+      <shelf name="science" count="188"/>
+      <shelf name="all-time-favorites" count="186"/>
+      <shelf name="ebook" count="186"/>
+      <shelf name="my-library" count="185"/>
+      <shelf name="sci-fi-and-fantasy" count="184"/>
+      <shelf name="fantasy-scifi" count="182"/>
+      <shelf name="my-books" count="176"/>
+      <shelf name="did-not-finish" count="175"/>
+      <shelf name="books" count="174"/>
+      <shelf name="unfinished" count="162"/>
+      <shelf name="american" count="158"/>
+      <shelf name="english" count="147"/>
+      <shelf name="sf-fantasy" count="143"/>
+      <shelf name="hugo-award" count="142"/>
+      <shelf name="20th-century" count="139"/>
+      <shelf name="favorite" count="138"/>
+      <shelf name="hugo" count="134"/>
+      <shelf name="sff" count="132"/>
+      <shelf name="wish-list" count="127"/>
+      <shelf name="on-hold" count="124"/>
+      <shelf name="adult-fiction" count="120"/>
+      <shelf name="reread" count="117"/>
+      <shelf name="recommended" count="116"/>
+      <shelf name="favorite-books" count="114"/>
+      <shelf name="the-great-american-read" count="113"/>
+      <shelf name="ciencia-ficción" count="111"/>
+      <shelf name="to-re-read" count="108"/>
+      <shelf name="religion" count="108"/>
+      <shelf name="audio-books" count="107"/>
+      <shelf name="tbr" count="103"/>
+      <shelf name="nebula-award" count="102"/>
+      <shelf name="i-own" count="101"/>
+      <shelf name="hugo-winners" count="100"/>
+      <shelf name="must-read" count="99"/>
+      <shelf name="dystopian" count="99"/>
+      <shelf name="science-fiction-and-fantasy" count="96"/>
+      <shelf name="nebula" count="95"/>
+      <shelf name="dystopia" count="95"/>
+      <shelf name="ebooks" count="94"/>
+      <shelf name="fantascienza" count="94"/>
+      <shelf name="to-reread" count="94"/>
+      <shelf name="own-it" count="94"/>
+      <shelf name="to-read-fiction" count="93"/>
+      <shelf name="sf-masterworks" count="92"/>
+      <shelf name="audio-book" count="92"/>
+      <shelf name="maybe" count="90"/>
+      <shelf name="sciencefiction" count="89"/>
+      <shelf name="war" count="86"/>
+      <shelf name="shelfari-favorites" count="81"/>
+      <shelf name="paperback" count="81"/>
+      <shelf name="politics" count="81"/>
+      <shelf name="have" count="80"/>
+      <shelf name="1960s" count="79"/>
+      <shelf name="bookshelf" count="79"/>
+      <shelf name="home-library" count="78"/>
+      <shelf name="classic-sci-fi" count="77"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>166801</id>
+<user_position>1</user_position>
+<series>
+<id>45935</id>
+<title>
+<![CDATA[
+    Dune
+]]>
+</title>
+<description>
+<![CDATA[
+    Also known as Dune Saga, Kroniki Diuny and Dyyni.
+    
+    • <a href="/series/49401-prelude-to-dune">Prelude to Dune</a>
+    • <a href="/series/45567-legends-of-dune">Legends of Dune</a>
+    • <a href="/series/49402-heroes-of-dune">Heroes of Dune</a>
+    • <a href="/series/104537-schools-of-dune">Schools of Dune</a>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>31</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>514666</id>
+<user_position>10</user_position>
+<series>
+<id>106170</id>
+<title>
+<![CDATA[
+    Dune Universe
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>25</series_works_count>
+<primary_work_count>22</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>375802</id>
+<title><![CDATA[Ender's Game (Ender's Saga, #1)]]></title>
+<title_without_series>Ender&apos;s Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/375802.Ender_s_Game]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY160_.jpg]]></image_url>
+<num_pages>324</num_pages>
+<work>
+<id>2422333</id>
+</work>
+<isbn>0812550706</isbn>
+<isbn13>9780812550702</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>386162</id>
+<title><![CDATA[The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)]]></title>
+<title_without_series><![CDATA[The Hitchhiker's Guide to the Galaxy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX98_.jpg]]></image_url>
+<num_pages>193</num_pages>
+<work>
+<id>3078186</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>4</id>
+<name>Douglas Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4.Douglas_Adams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29579</id>
+<title>Foundation (Foundation #1)</title>
+<title_without_series>Foundation</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29579.Foundation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX98_.jpg]]></image_url>
+<num_pages>244</num_pages>
+<work>
+<id>1783981</id>
+</work>
+<isbn>0553803719</isbn>
+<isbn13>9780553803716</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5907</id>
+<title><![CDATA[The Hobbit, or There and Back Again]]></title>
+<title_without_series><![CDATA[The Hobbit, or There and Back Again]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg]]></image_url>
+<num_pages>366</num_pages>
+<work>
+<id>1540236</id>
+</work>
+<isbn>0618260307</isbn>
+<isbn13>9780618260300</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99219</id>
+<title><![CDATA[The Butlerian Jihad (Legends of Dune, #1)]]></title>
+<title_without_series>The Butlerian Jihad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99219.The_Butlerian_Jihad]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505458671l/99219._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505458671l/99219._SX98_.jpg]]></image_url>
+<num_pages>684</num_pages>
+<work>
+<id>1278722</id>
+</work>
+<isbn>0765340771</isbn>
+<isbn13>9780765340771</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>56</id>
+<name>Brian Herbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/56.Brian_Herbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30013</id>
+<title>Prelude to Foundation</title>
+<title_without_series>Prelude to Foundation</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30013.Prelude_to_Foundation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782474l/30013._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782474l/30013._SY160_.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>1128436</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36402034</id>
+<title><![CDATA[Do Androids Dream of Electric Sheep?]]></title>
+<title_without_series><![CDATA[Do Androids Dream of Electric Sheep?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY160_.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>830939</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4764</id>
+<name>Philip K. Dick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4764.Philip_K_Dick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>70535</id>
+<title><![CDATA[2001: A Space Odyssey (Space Odyssey, #1)]]></title>
+<title_without_series>2001: A Space Odyssey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/70535.2001]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>297</num_pages>
+<work>
+<id>208362</id>
+</work>
+<isbn>0451457994</isbn>
+<isbn13>9780451457998</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7779</id>
+<name>Arthur C. Clarke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7779.Arthur_C_Clarke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77566</id>
+<title><![CDATA[Hyperion (Hyperion Cantos, #1)]]></title>
+<title_without_series>Hyperion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77566.Hyperion]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg]]></image_url>
+<num_pages>482</num_pages>
+<work>
+<id>1383900</id>
+</work>
+<isbn>0553283685</isbn>
+<isbn13>9780553283686</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2687</id>
+<name>Dan Simmons</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13496</id>
+<title><![CDATA[A Game of Thrones (A Song of Ice and Fire, #1)]]></title>
+<title_without_series>A Game of Thrones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13496.A_Game_of_Thrones]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg]]></image_url>
+<num_pages>835</num_pages>
+<work>
+<id>1466917</id>
+</work>
+<isbn>0553588486</isbn>
+<isbn13>9780553588484</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40961427</id>
+<title>1984</title>
+<title_without_series>1984</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40961427-1984]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX98_.jpg]]></image_url>
+<num_pages>237</num_pages>
+<work>
+<id>153313</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18007564</id>
+<title>The Martian</title>
+<title_without_series>The Martian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18007564-the-martian]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg]]></image_url>
+<num_pages>369</num_pages>
+<work>
+<id>21825181</id>
+</work>
+<isbn>0804139024</isbn>
+<isbn13>9780804139021</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>6540057</id>
+<name>Andy Weir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6540057.Andy_Weir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41804</id>
+<title>I, Robot (Robot, #0.1)</title>
+<title_without_series>I, Robot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41804.I_Robot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388321463l/41804._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388321463l/41804._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1796026</id>
+</work>
+<isbn>0553803700</isbn>
+<isbn13>9780553803709</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6088007</id>
+<title>Neuromancer (Sprawl, #1)</title>
+<title_without_series>Neuromancer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6088007-neuromancer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>909457</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9226</id>
+<name>William Gibson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9226.William_Gibson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17214</id>
+<title>Starship Troopers</title>
+<title_without_series>Starship Troopers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17214.Starship_Troopers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533117961l/17214._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533117961l/17214._SY160_.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>2534973</id>
+</work>
+<isbn>0441783589</isbn>
+<isbn13>9780441783588</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>205</id>
+<name>Robert A. Heinlein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/205.Robert_A_Heinlein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>350</id>
+<title>Stranger in a Strange Land</title>
+<title_without_series>Stranger in a Strange Land</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>908211</id>
+</work>
+<isbn>0441788386</isbn>
+<isbn13>9780441788385</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>205</id>
+<name>Robert A. Heinlein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/205.Robert_A_Heinlein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34</id>
+<title><![CDATA[The Fellowship of the Ring (The Lord of the Rings, #1)]]></title>
+<title_without_series>The Fellowship of the Ring</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34._SX98_.jpg]]></image_url>
+<num_pages>398</num_pages>
+<work>
+<id>3204327</id>
+</work>
+<isbn>0618346252</isbn>
+<isbn13>9780618346257</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2493</id>
+<title>The Time Machine</title>
+<title_without_series>The Time Machine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2493.The_Time_Machine]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SX98_.jpg]]></image_url>
+<num_pages>118</num_pages>
+<work>
+<id>3234863</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>645559</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
