@@ -24,10 +24,11 @@ def get_winner(year):
         print("  Done crawl")
         soup = BeautifulSoup(page.text, 'html.parser')
         nominees = soup.find_all(class_='js-tooltipTrigger tooltipTrigger')
+        num_of_votes_nominees = soup.find_all(class_='uitext result')
         print("  Done parsing")
         id_list = []
-        for book in nominees:
-            id_list.append(book['data-resource-id'])
+        for book, num in nominees, num_of_votes_nominees:
+            id_list.append((book['data-resource-id'], int(num.text.split('\n')[1].replace(",", ""))))
         genres_nominee[split[2]] = id_list
         print("  Done")
     best_of_year[year] = genres_nominee
