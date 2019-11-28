@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18295821</id>
+  <title><![CDATA[The Adventures of Beekle: The Unimaginary Friend]]></title>
+  <isbn><![CDATA[0316199982]]></isbn>
+  <isbn13><![CDATA[9780316199988]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This magical story begins on an island far away where an imaginary friend is born. He patiently waits his turn to be chosen by a real child, but when he is overlooked time and again, he sets off on an incredible journey to the bustling city, where he finally meets his perfect match and-at long last-is given his special name: Beekle.<br /><br /><i>New York Time</i>s bestselling and award-winning author and illustrator Dan Santat combines classic storytelling with breathtaking art, creating an unforgettable tale about friendship, imagination, and the courage to find one's place in the world.]]></description>
+  <work>
+  <id type="integer">25778595</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">18295821</best_book_id>
+  <reviews_count type="integer">17218</reviews_count>
+  <ratings_sum type="integer">44632</ratings_sum>
+  <ratings_count type="integer">10349</ratings_count>
+  <text_reviews_count type="integer">2262</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>The Adventures of Beekle: The Unimaginary Friend</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5170|4:3610|3:1265|2:243|1:61|total:10349</rating_dist>
+  <desc_user_id type="integer">659853</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.VG8rHrvuMAM62dDSOcsTUA</work_uri>
+</work>
+  <average_rating>4.31</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10151]]></ratings_count>
+  <text_reviews_count><![CDATA[2229]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18295821-the-adventures-of-beekle]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18295821-the-adventures-of-beekle]]></link>
+  <authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1565036904p5/1251403.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1565036904p2/1251403.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>67894</ratings_count>
+<text_reviews_count>11424</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18295821-the-adventures-of-beekle">The Adventures of Beekle Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316199982&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18295821-the-adventures-of-beekle?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4250"/>
+      <shelf name="picture-books" count="1382"/>
+      <shelf name="picture-book" count="405"/>
+      <shelf name="caldecott" count="336"/>
+      <shelf name="childrens" count="283"/>
+      <shelf name="fantasy" count="271"/>
+      <shelf name="friendship" count="258"/>
+      <shelf name="children-s-books" count="233"/>
+      <shelf name="children-s" count="181"/>
+      <shelf name="children" count="157"/>
+      <shelf name="imagination" count="145"/>
+      <shelf name="fiction" count="122"/>
+      <shelf name="kids" count="117"/>
+      <shelf name="favorites" count="112"/>
+      <shelf name="children-s-literature" count="92"/>
+      <shelf name="adventure" count="92"/>
+      <shelf name="childrens-books" count="83"/>
+      <shelf name="kids-books" count="73"/>
+      <shelf name="caldecott-medal" count="66"/>
+      <shelf name="caldecott-winners" count="63"/>
+      <shelf name="children-s-lit" count="62"/>
+      <shelf name="storytime" count="58"/>
+      <shelf name="picturebooks" count="52"/>
+      <shelf name="award-winners" count="50"/>
+      <shelf name="currently-reading" count="50"/>
+      <shelf name="caldecott-books" count="49"/>
+      <shelf name="children-s-picture-books" count="44"/>
+      <shelf name="picture" count="44"/>
+      <shelf name="childrens-picture-books" count="38"/>
+      <shelf name="caldecott-winner" count="36"/>
+      <shelf name="friends" count="36"/>
+      <shelf name="imaginary-friends" count="36"/>
+      <shelf name="read-aloud" count="35"/>
+      <shelf name="02-fantasy" count="34"/>
+      <shelf name="00-in-class" count="33"/>
+      <shelf name="read-in-2015" count="32"/>
+      <shelf name="library" count="32"/>
+      <shelf name="exploring-assignment" count="31"/>
+      <shelf name="childrens-lit" count="31"/>
+      <shelf name="award-winner" count="29"/>
+      <shelf name="humor" count="28"/>
+      <shelf name="preschool" count="27"/>
+      <shelf name="children-books" count="25"/>
+      <shelf name="caldecott-award" count="24"/>
+      <shelf name="exploring-caldecott" count="22"/>
+      <shelf name="classroom-library" count="22"/>
+      <shelf name="juvenile" count="22"/>
+      <shelf name="modern-fantasy" count="20"/>
+      <shelf name="childrens-literature" count="20"/>
+      <shelf name="07-modern-fantasy" count="20"/>
+      <shelf name="fantasy-4" count="19"/>
+      <shelf name="award-winning" count="19"/>
+      <shelf name="04-caldecott" count="19"/>
+      <shelf name="read-alouds" count="19"/>
+      <shelf name="favorite-picture-books" count="18"/>
+      <shelf name="read-in-2014" count="18"/>
+      <shelf name="randolph-caldecott-medal" count="17"/>
+      <shelf name="books-i-own" count="17"/>
+      <shelf name="picturebook" count="17"/>
+      <shelf name="creativity" count="16"/>
+      <shelf name="story-time" count="16"/>
+      <shelf name="00-exploring-1" count="15"/>
+      <shelf name="read-3090-books-1-10" count="15"/>
+      <shelf name="classroom" count="15"/>
+      <shelf name="kid-lit" count="15"/>
+      <shelf name="to-buy" count="15"/>
+      <shelf name="owned" count="14"/>
+      <shelf name="courage" count="14"/>
+      <shelf name="kid-s-books" count="14"/>
+      <shelf name="elementary" count="14"/>
+      <shelf name="kiddos" count="14"/>
+      <shelf name="edrd-390" count="12"/>
+      <shelf name="realistic-fiction" count="12"/>
+      <shelf name="caldecotts" count="12"/>
+      <shelf name="caldecott-medal-winners" count="12"/>
+      <shelf name="children-picture-books" count="12"/>
+      <shelf name="picture-books-read" count="12"/>
+      <shelf name="primary-picture-books" count="12"/>
+      <shelf name="award-winning-picture-books" count="11"/>
+      <shelf name="04-realistic-fiction" count="11"/>
+      <shelf name="emergent-picture-books" count="11"/>
+      <shelf name="caldecott-medal-winner" count="11"/>
+      <shelf name="great-illustrations" count="11"/>
+      <shelf name="storytime-books" count="11"/>
+      <shelf name="for-the-kids" count="11"/>
+      <shelf name="imaginary-friend" count="11"/>
+      <shelf name="classroombookaday" count="10"/>
+      <shelf name="award-caldecott" count="10"/>
+      <shelf name="default" count="10"/>
+      <shelf name="exploring-quality" count="10"/>
+      <shelf name="book-awards" count="10"/>
+      <shelf name="caldecott-award-winners" count="10"/>
+      <shelf name="read-2015" count="10"/>
+      <shelf name="children-s-book" count="10"/>
+      <shelf name="illustrated" count="10"/>
+      <shelf name="kid-books" count="10"/>
+      <shelf name="library-books" count="10"/>
+      <shelf name="pb" count="10"/>
+      <shelf name="read-2014" count="10"/>
+      <shelf name="1000-books-before-kindergarten" count="9"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>13531024</id>
+<title>This Is Not My Hat</title>
+<title_without_series>This Is Not My Hat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13531024-this-is-not-my-hat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360096324l/13531024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360096324l/13531024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19092692</id>
+</work>
+<isbn>0763655996</isbn>
+<isbn13>9780763655990</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>3118934</id>
+<name>Jon Klassen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118934.Jon_Klassen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7268995</id>
+<title>A Sick Day for Amos McGee</title>
+<title_without_series>A Sick Day for Amos McGee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7268995-a-sick-day-for-amos-mcgee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312019421l/7268995._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312019421l/7268995._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>8391024</id>
+</work>
+<isbn>1596434023</isbn>
+<isbn13>9781596434028</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4902018</id>
+<name>Philip C. Stead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4902018.Philip_C_Stead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24819508</id>
+<title><![CDATA[Finding Winnie: The True Story of the World's Most Famous Bear]]></title>
+<title_without_series><![CDATA[Finding Winnie: The True Story of the World's Most Famous Bear]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24819508-finding-winnie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453570693l/24819508._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453570693l/24819508._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>44460289</id>
+</work>
+<isbn>0316324906</isbn>
+<isbn13>9780316324908</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>13451720</id>
+<name>Lindsay Mattick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13451720.Lindsay_Mattick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29102937</id>
+<title>Wolf in the Snow</title>
+<title_without_series>Wolf in the Snow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29102937-wolf-in-the-snow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481158645l/29102937._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481158645l/29102937._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>49340957</id>
+</work>
+<isbn>1250076366</isbn>
+<isbn13>9781250076366</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2867601</id>
+<name>Matthew Cordell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2867601.Matthew_Cordell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17334578</id>
+<title>Locomotive</title>
+<title_without_series>Locomotive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17334578-locomotive]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391976469l/17334578._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391976469l/17334578._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>24065560</id>
+</work>
+<isbn>1416994157</isbn>
+<isbn13>9781416994152</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>584482</id>
+<name>Brian Floca</name>
+<link><![CDATA[https://www.goodreads.com/author/show/584482.Brian_Floca]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9703979</id>
+<title>A Ball for Daisy</title>
+<title_without_series>A Ball for Daisy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9703979-a-ball-for-daisy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577914l/9703979._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577914l/9703979._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>14592198</id>
+</work>
+<isbn>037585861X</isbn>
+<isbn13>9780375858611</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>28939</id>
+<name>Chris Raschka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28939.Chris_Raschka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>237665</id>
+<title>Kitten&apos;s First Full Moon</title>
+<title_without_series>Kitten&apos;s First Full Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/237665.Kitten_s_First_Full_Moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400866970l/237665._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400866970l/237665._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>330237</id>
+</work>
+<isbn>0060588284</isbn>
+<isbn13>9780060588281</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16963</id>
+<title>The Hello, Goodbye Window</title>
+<title_without_series>The Hello, Goodbye Window</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16963.The_Hello_Goodbye_Window]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327894695l/16963._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327894695l/16963._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18603</id>
+</work>
+<isbn>0786809140</isbn>
+<isbn13>9780786809141</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>214</id>
+<name>Norton Juster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/214.Norton_Juster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17262290</id>
+<title>Journey</title>
+<title_without_series>Journey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17262290-journey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552528957l/17262290._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552528957l/17262290._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>23859090</id>
+</work>
+<isbn>0763660531</isbn>
+<isbn13>9780763660536</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6897717</id>
+<name>Aaron Becker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6897717.Aaron_Becker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18552623</id>
+<title><![CDATA[Radiant Child: The Story of Young Artist Jean-Michel Basquiat]]></title>
+<title_without_series><![CDATA[Radiant Child: The Story of Young Artist Jean-Michel Basquiat]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18552623-radiant-child]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485976967l/18552623._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485976967l/18552623._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>26280285</id>
+</work>
+<isbn>0316213888</isbn>
+<isbn13>9780316213882</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>158005</id>
+<name>Javaka Steptoe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/158005.Javaka_Steptoe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23735067</id>
+<title>Waiting</title>
+<title_without_series>Waiting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23735067-waiting]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>43347119</id>
+</work>
+<isbn>0062368435</isbn>
+<isbn13>9780062368430</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138069</id>
+<title>The Three Pigs</title>
+<title_without_series>The Three Pigs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138069.The_Three_Pigs]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172092242l/138069._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172092242l/138069._SX98_.jpg]]></image_url>
+<num_pages>38</num_pages>
+<work>
+<id>133087</id>
+</work>
+<isbn>0618007016</isbn>
+<isbn13>9780618007011</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>16461</id>
+<name>David Wiesner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16461.David_Wiesner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20708761</id>
+<title>Sam and Dave Dig a Hole</title>
+<title_without_series>Sam and Dave Dig a Hole</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20708761-sam-and-dave-dig-a-hole]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>39789300</id>
+</work>
+<isbn>0763662291</isbn>
+<isbn13>9780763662295</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7224717</id>
+<title>City Dog, Country Frog</title>
+<title_without_series>City Dog, Country Frog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7224717-city-dog-country-frog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360569950l/7224717._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360569950l/7224717._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>8034304</id>
+</work>
+<isbn>1423103009</isbn>
+<isbn13>9781423103004</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20518948</id>
+<title>Viva Frida</title>
+<title_without_series>Viva Frida</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20518948-viva-frida]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481014347l/20518948._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481014347l/20518948._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>36426085</id>
+</work>
+<isbn>1596436034</isbn>
+<isbn13>9781596436039</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>118230</id>
+<title>My Friend Rabbit</title>
+<title_without_series>My Friend Rabbit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118230.My_Friend_Rabbit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317066989l/118230._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317066989l/118230._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2060302</id>
+</work>
+<isbn>031236752X</isbn>
+<isbn13>9780312367527</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>68537</id>
+<name>Eric Rohmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68537.Eric_Rohmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15791063</id>
+<title>Flora and the Flamingo</title>
+<title_without_series>Flora and the Flamingo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15791063-flora-and-the-flamingo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424309341l/15791063._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424309341l/15791063._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21512643</id>
+</work>
+<isbn>1452110069</isbn>
+<isbn13>9781452110066</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>10349</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2917253</id>
+<name>Molly Idle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2917253.Molly_Idle]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

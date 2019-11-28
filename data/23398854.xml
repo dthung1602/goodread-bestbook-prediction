@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23398854</id>
+  <title>I Regret Nothing</title>
+  <isbn><![CDATA[0451471075]]></isbn>
+  <isbn13><![CDATA[9780451471079]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421531010l/23398854._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421531010l/23398854._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>NAL</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>New York Times</i> bestselling author Jen Lancaster has lived a life based on re-invention and self-improvement. From <i>Bitter Is the New Black</i> to <i>The Tao of Martha</i>, she’s managed to document her (and her generation’s) attempts to shape up, grow up, and have it all—sometimes with disastrous results…<br /><br />Sure Jen has made mistakes. She spent all her money from a high-paying job on shoes, clothes, and spa treatments. She then carried a Prada bag to the unemployment office. She wrote a whole memoir about dieting…but didn’t lose weight. She embarked on a quest for cultural enlightenment that only cemented her love for John Hughes movies and Kraft American Singles. She tried to embrace everything Martha Stewart, while living with a menagerie of rescue cats and dogs. (Glitter…<i>everywhere</i>.)<br /><br />Mistakes are one thing; regrets are another.<br /><br />After a girls’ weekend in Savannah makes her realize that she is—yikes!—middle-aged (binge watching is so the new binge drinking), Jen decides to make a bucket list and seize the day, even if that means having her tattoo removed at one hundred times the cost of putting it on.<br /><br />From attempting a juice cleanse to studying Italian, from learning to ride a bike to starting a new business, and from sampling pasta in Rome to training for a 5K, Jen is turning a mid-life crisis into a mid-life opportunity, sharing her sometimes bumpy—but always hilarious—attempts to better her life…again.]]></description>
+  <work>
+  <id type="integer">42955375</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">23398854</best_book_id>
+  <reviews_count type="integer">14395</reviews_count>
+  <ratings_sum type="integer">20190</ratings_sum>
+  <ratings_count type="integer">5221</ratings_count>
+  <text_reviews_count type="integer">564</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>I Regret Nothing</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1500|4:2044|3:1280|2:277|1:120|total:5221</rating_dist>
+  <desc_user_id type="integer">7987431</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.xnFo-8Se1D1hgZvcCi9ZHQ</work_uri>
+</work>
+  <average_rating>3.87</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4400]]></ratings_count>
+  <text_reviews_count><![CDATA[504]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23398854-i-regret-nothing]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23398854-i-regret-nothing]]></link>
+  <authors>
+<author>
+<id>14577</id>
+<name>Jen Lancaster</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272347364p5/14577.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272347364p2/14577.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14577.Jen_Lancaster]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>185435</ratings_count>
+<text_reviews_count>16735</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23398854-i-regret-nothing">I Regret Nothing Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451471075&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23398854-i-regret-nothing?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1774"/>
+      <shelf name="currently-reading" count="164"/>
+      <shelf name="non-fiction" count="110"/>
+      <shelf name="memoir" count="101"/>
+      <shelf name="humor" count="89"/>
+      <shelf name="memoirs" count="53"/>
+      <shelf name="nonfiction" count="44"/>
+      <shelf name="read-in-2015" count="31"/>
+      <shelf name="chick-lit" count="28"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="biography" count="23"/>
+      <shelf name="audiobooks" count="16"/>
+      <shelf name="library" count="15"/>
+      <shelf name="biography-memoir" count="14"/>
+      <shelf name="read-2015" count="11"/>
+      <shelf name="kindle" count="11"/>
+      <shelf name="jen-lancaster" count="11"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="2015-books" count="9"/>
+      <shelf name="audio-books" count="9"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="adult" count="8"/>
+      <shelf name="2015-reads" count="8"/>
+      <shelf name="funny" count="8"/>
+      <shelf name="didn-t-finish" count="7"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="abandoned" count="6"/>
+      <shelf name="biographies" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="biographies-memoirs" count="5"/>
+      <shelf name="audible" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="humour" count="5"/>
+      <shelf name="borrowed" count="5"/>
+      <shelf name="bio-memoir" count="5"/>
+      <shelf name="essays" count="5"/>
+      <shelf name="comedy" count="5"/>
+      <shelf name="read-in-2018" count="4"/>
+      <shelf name="memoir-biography" count="4"/>
+      <shelf name="chicago" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="chic-lit" count="4"/>
+      <shelf name="books-read-in-2015" count="4"/>
+      <shelf name="2015-read" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="listened-to" count="4"/>
+      <shelf name="autobiography" count="4"/>
+      <shelf name="2015-books-read" count="4"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="biography-memoirs" count="4"/>
+      <shelf name="humorous" count="4"/>
+      <shelf name="first-reads" count="4"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="laugh-out-loud" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="2016-read" count="3"/>
+      <shelf name="adult-nonfiction" count="3"/>
+      <shelf name="non-fic" count="3"/>
+      <shelf name="meh" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="2015-reading-list" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="beach-reads" count="3"/>
+      <shelf name="funny-stuff" count="3"/>
+      <shelf name="bookclub" count="3"/>
+      <shelf name="memoir-bio" count="3"/>
+      <shelf name="2015-reading-challenge" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="memior" count="3"/>
+      <shelf name="03-words" count="2"/>
+      <shelf name="2017-books" count="2"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="lol" count="2"/>
+      <shelf name="read-2016" count="2"/>
+      <shelf name="2016-books" count="2"/>
+      <shelf name="memoirs-biographies" count="2"/>
+      <shelf name="2016-reads" count="2"/>
+      <shelf name="books-read-in-2016" count="2"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="favorite-authors" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="autobiographies" count="2"/>
+      <shelf name="travel" count="2"/>
+      <shelf name="up-next" count="2"/>
+      <shelf name="women" count="2"/>
+      <shelf name="summer-2015" count="2"/>
+      <shelf name="3-stars" count="2"/>
+      <shelf name="epl" count="2"/>
+      <shelf name="could-not-finish" count="2"/>
+      <shelf name="e-books" count="2"/>
+      <shelf name="women-writers" count="2"/>
+      <shelf name="chicklit" count="2"/>
+      <shelf name="pop-culture" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="non-fiction-memoirs" count="2"/>
+      <shelf name="bought" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>13186433</id>
+<title>Off the Menu</title>
+<title_without_series>Off the Menu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13186433-off-the-menu]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341334838l/13186433._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341334838l/13186433._SX98_.jpg]]></image_url>
+<num_pages>401</num_pages>
+<work>
+<id>18367265</id>
+</work>
+<isbn>042524766X</isbn>
+<isbn13>9780425247662</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>47231</id>
+<name>Stacey Ballis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47231.Stacey_Ballis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17166231</id>
+<title>Out to Lunch</title>
+<title_without_series>Out to Lunch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17166231-out-to-lunch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369822082l/17166231._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369822082l/17166231._SX98_.jpg]]></image_url>
+<num_pages>403</num_pages>
+<work>
+<id>23593038</id>
+</work>
+<isbn>0425265498</isbn>
+<isbn13>9780425265499</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>47231</id>
+<name>Stacey Ballis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47231.Stacey_Ballis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27245798</id>
+<title><![CDATA[Housebroken: Admissions of an Untidy Life]]></title>
+<title_without_series><![CDATA[Housebroken: Admissions of an Untidy Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27245798-housebroken]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467580075l/27245798._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467580075l/27245798._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>47294323</id>
+</work>
+<isbn>1101886099</isbn>
+<isbn13>9781101886090</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5098</id>
+<name>Laurie Notaro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5098.Laurie_Notaro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26067937</id>
+<title>Wedding Girl</title>
+<title_without_series>Wedding Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26067937-wedding-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453059563l/26067937._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453059563l/26067937._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>46003673</id>
+</work>
+<isbn>0425276619</isbn>
+<isbn13>9780425276617</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>47231</id>
+<name>Stacey Ballis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47231.Stacey_Ballis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22571603</id>
+<title>Recipe for Disaster</title>
+<title_without_series>Recipe for Disaster</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22571603-recipe-for-disaster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406508127l/22571603._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406508127l/22571603._SX98_.jpg]]></image_url>
+<num_pages>466</num_pages>
+<work>
+<id>42038072</id>
+</work>
+<isbn>0425265501</isbn>
+<isbn13>9780425265505</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>47231</id>
+<name>Stacey Ballis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47231.Stacey_Ballis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18668018</id>
+<title><![CDATA[Will Not Attend: Lively Stories of Detachment and Isolation]]></title>
+<title_without_series><![CDATA[Will Not Attend: Lively Stories of Detachment and Isolation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18668018-will-not-attend]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388958369l/18668018._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388958369l/18668018._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>26493681</id>
+</work>
+<isbn>0399160388</isbn>
+<isbn13>9780399160387</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3124258</id>
+<name>Adam Resnick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3124258.Adam_Resnick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>339189</id>
+<title><![CDATA[There's a (Slight) Chance I Might Be Going to Hell: A Novel of Sewer Pipes, Pageant Queens, and Big Trouble]]></title>
+<title_without_series><![CDATA[There's a (Slight) Chance I Might Be Going to Hell: A Novel of Sewer Pipes, Pageant Queens, and Big Trouble]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/339189.There_s_a_Slight_Chance_I_Might_Be_Going_to_Hell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>302</num_pages>
+<work>
+<id>10648</id>
+</work>
+<isbn>0812975723</isbn>
+<isbn13>9780812975727</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>5098</id>
+<name>Laurie Notaro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5098.Laurie_Notaro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33155461</id>
+<title>How to Change a Life</title>
+<title_without_series>How to Change a Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33155461-how-to-change-a-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496161976l/33155461._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496161976l/33155461._SX98_.jpg]]></image_url>
+<num_pages>370</num_pages>
+<work>
+<id>53848694</id>
+</work>
+<isbn>0425276627</isbn>
+<isbn13>9780425276624</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>47231</id>
+<name>Stacey Ballis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47231.Stacey_Ballis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>447105</id>
+<title>Dancing Barefoot</title>
+<title_without_series>Dancing Barefoot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/447105.Dancing_Barefoot]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>115</num_pages>
+<work>
+<id>2027717</id>
+</work>
+<isbn>0596006748</isbn>
+<isbn13>9780596006747</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>37075</id>
+<name>Wil Wheaton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37075.Wil_Wheaton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7529</id>
+<title><![CDATA[I Love Everybody (and Other Atrocious Lies)]]></title>
+<title_without_series>I Love Everybody</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7529.I_Love_Everybody]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>10643</id>
+</work>
+<isbn>0812969006</isbn>
+<isbn13>9780812969009</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5098</id>
+<name>Laurie Notaro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5098.Laurie_Notaro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7530</id>
+<title><![CDATA[Autobiography of a Fat Bride: True Tales of a Pretend Adulthood]]></title>
+<title_without_series><![CDATA[Autobiography of a Fat Bride: True Tales of a Pretend Adulthood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7530.Autobiography_of_a_Fat_Bride]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>10644</id>
+</work>
+<isbn>037576092X</isbn>
+<isbn13>9780375760921</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5098</id>
+<name>Laurie Notaro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5098.Laurie_Notaro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11868932</id>
+<title><![CDATA[Agorafabulous!: Dispatches from My Bedroom]]></title>
+<title_without_series><![CDATA[Agorafabulous!: Dispatches from My Bedroom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11868932-agorafabulous]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>255</num_pages>
+<work>
+<id>16826200</id>
+</work>
+<isbn>0062024418</isbn>
+<isbn13>9780062024411</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>4992850</id>
+<name>Sara Benincasa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4992850.Sara_Benincasa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17286666</id>
+<title><![CDATA[Rude Bitches Make Me Tired: Slightly Profane and Entirely Logical Answers to Modern Etiquette Dilemmas]]></title>
+<title_without_series><![CDATA[Rude Bitches Make Me Tired: Slightly Profane and Entirely Logical Answers to Modern Etiquette Dilemmas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17286666-rude-bitches-make-me-tired]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376362118l/17286666._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376362118l/17286666._SX98_.jpg]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>23906724</id>
+</work>
+<isbn>1250029236</isbn>
+<isbn13>9781250029232</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>114442</id>
+<name>Celia Rivenbark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114442.Celia_Rivenbark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24493732</id>
+<title>Solutions and Other Problems</title>
+<title_without_series>Solutions and Other Problems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24493732-solutions-and-other-problems]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433828491l/24493732._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433828491l/24493732._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>44089182</id>
+</work>
+<isbn>0224101285</isbn>
+<isbn13>9780224101288</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6984726</id>
+<name>Allie Brosh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6984726.Allie_Brosh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>82641</id>
+<title>The Spinster Sisters</title>
+<title_without_series>The Spinster Sisters</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/82641.The_Spinster_Sisters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>293</num_pages>
+<work>
+<id>79787</id>
+</work>
+<isbn>0425213560</isbn>
+<isbn13>9780425213568</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>47231</id>
+<name>Stacey Ballis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47231.Stacey_Ballis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7533</id>
+<title><![CDATA[We Thought You Would Be Prettier: True Tales of the Dorkiest Girl Alive]]></title>
+<title_without_series><![CDATA[We Thought You Would Be Prettier: True Tales of the Dorkiest Girl Alive]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7533.We_Thought_You_Would_Be_Prettier]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>223</num_pages>
+<work>
+<id>1199330</id>
+</work>
+<isbn>0812969014</isbn>
+<isbn13>9780812969016</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>5098</id>
+<name>Laurie Notaro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5098.Laurie_Notaro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42298087</id>
+<title><![CDATA[You've Been Volunteered: A Class Mom Novel]]></title>
+<title_without_series><![CDATA[You've Been Volunteered: A Class Mom Novel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42298087-you-ve-been-volunteered]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549424060l/42298087._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549424060l/42298087._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65947572</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16325235</id>
+<name>Laurie Gelman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325235.Laurie_Gelman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41880043</id>
+<title><![CDATA[The Ministry of Truth: The Biography of George Orwell's "1984"]]></title>
+<title_without_series><![CDATA[The Ministry of Truth: The Biography of George Orwell's "1984"]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41880043-the-ministry-of-truth]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542898290l/41880043._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542898290l/41880043._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>65371723</id>
+</work>
+<isbn>0385544057</isbn>
+<isbn13>9780385544054</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5221</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>1384338</id>
+<name>Dorian Lynskey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1384338.Dorian_Lynskey]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

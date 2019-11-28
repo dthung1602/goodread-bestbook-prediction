@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>30075662</id>
+  <title><![CDATA[Aurora Rising (The Aurora Cycle, #1)]]></title>
+  <isbn><![CDATA[1524720968]]></isbn>
+  <isbn13><![CDATA[9781524720964]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560056657l/30075662._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560056657l/30075662._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Knopf Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>From the internationally bestselling authors of THE ILLUMINAE FILES comes an epic new science fiction adventure.</b><br /><br />The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch…<br /><br />A cocky diplomat with a black belt in sarcasm<br />A sociopath scientist with a fondness for shooting her bunkmates<br />A smart-ass techwiz with the galaxy’s biggest chip on his shoulder<br />An alien warrior with anger management issues<br />A tomboy pilot who’s totally not into him, in case you were wondering<br /><br />And Ty’s squad isn’t even his biggest problem—that’d be Aurora Jie-Lin O’Malley, the girl he’s just rescued from interdimensional space. Trapped in cryo-sleep for two centuries, Auri is a girl out of time and out of her depth. But she could be the catalyst that starts a war millions of years in the making, and Tyler’s squad of losers, discipline-cases and misfits might just be the last hope for the entire galaxy.<br /><br /><b>
+  <i>They're not the heroes we deserve. They're just the ones we could find. Nobody panic.</i>
+</b>]]></description>
+  <work>
+  <id type="integer">50493990</id>
+  <books_count type="integer">20</books_count>
+  <best_book_id type="integer">30075662</best_book_id>
+  <reviews_count type="integer">63445</reviews_count>
+  <ratings_sum type="integer">58470</ratings_sum>
+  <ratings_count type="integer">13988</ratings_count>
+  <text_reviews_count type="integer">3719</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">6</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6226|4:5001|3:2013|2:549|1:199|total:13988</rating_dist>
+  <desc_user_id type="integer">82943879</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.fZPiUp0GADShJoU-rskzgw</work_uri>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[473]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12196]]></ratings_count>
+  <text_reviews_count><![CDATA[3248]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/30075662-aurora-rising]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/30075662-aurora-rising]]></link>
+  <authors>
+<author>
+<id>5360335</id>
+<name>Amie Kaufman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1478659853p5/5360335.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1478659853p2/5360335.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5360335.Amie_Kaufman]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>278005</ratings_count>
+<text_reviews_count>56844</text_reviews_count>
+</author>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310187120p5/4735144.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310187120p2/4735144.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>275578</ratings_count>
+<text_reviews_count>61785</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/30075662-aurora-rising">Aurora Rising Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1524720968&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/30075662-aurora-rising?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="45252"/>
+      <shelf name="currently-reading" count="1249"/>
+      <shelf name="sci-fi" count="969"/>
+      <shelf name="young-adult" count="773"/>
+      <shelf name="science-fiction" count="678"/>
+      <shelf name="ya" count="416"/>
+      <shelf name="2019-releases" count="413"/>
+      <shelf name="favorites" count="339"/>
+      <shelf name="fantasy" count="275"/>
+      <shelf name="read-in-2019" count="234"/>
+      <shelf name="books-i-own" count="223"/>
+      <shelf name="owned" count="187"/>
+      <shelf name="series" count="173"/>
+      <shelf name="2019-reads" count="138"/>
+      <shelf name="read-2019" count="134"/>
+      <shelf name="scifi" count="129"/>
+      <shelf name="fiction" count="114"/>
+      <shelf name="audiobook" count="111"/>
+      <shelf name="to-buy" count="95"/>
+      <shelf name="audiobooks" count="94"/>
+      <shelf name="2019-release" count="87"/>
+      <shelf name="space" count="87"/>
+      <shelf name="tbr" count="82"/>
+      <shelf name="romance" count="80"/>
+      <shelf name="dnf" count="79"/>
+      <shelf name="aliens" count="77"/>
+      <shelf name="adventure" count="64"/>
+      <shelf name="arc" count="56"/>
+      <shelf name="owned-books" count="54"/>
+      <shelf name="library" count="54"/>
+      <shelf name="favourites" count="52"/>
+      <shelf name="wish-list" count="52"/>
+      <shelf name="signed" count="47"/>
+      <shelf name="space-opera" count="45"/>
+      <shelf name="maybe" count="44"/>
+      <shelf name="audio" count="42"/>
+      <shelf name="2019-tbr" count="42"/>
+      <shelf name="2019-read" count="41"/>
+      <shelf name="2018-releases" count="41"/>
+      <shelf name="physical-tbr" count="40"/>
+      <shelf name="ya-sci-fi" count="39"/>
+      <shelf name="kindle" count="38"/>
+      <shelf name="ya-fantasy" count="36"/>
+      <shelf name="owned-tbr" count="35"/>
+      <shelf name="ebook" count="34"/>
+      <shelf name="5-stars" count="33"/>
+      <shelf name="ya-fiction" count="32"/>
+      <shelf name="sci-fi-fantasy" count="31"/>
+      <shelf name="teen" count="31"/>
+      <shelf name="ya-science-fiction" count="31"/>
+      <shelf name="2019-books" count="31"/>
+      <shelf name="arcs" count="30"/>
+      <shelf name="ya-scifi" count="30"/>
+      <shelf name="netgalley" count="29"/>
+      <shelf name="did-not-finish" count="28"/>
+      <shelf name="action" count="27"/>
+      <shelf name="illumicrate" count="27"/>
+      <shelf name="lgbtq" count="27"/>
+      <shelf name="on-my-shelf" count="26"/>
+      <shelf name="sf" count="25"/>
+      <shelf name="may-2019" count="24"/>
+      <shelf name="dystopian" count="24"/>
+      <shelf name="lgbt" count="23"/>
+      <shelf name="cover-love" count="23"/>
+      <shelf name="futuristic" count="23"/>
+      <shelf name="need-to-buy" count="23"/>
+      <shelf name="friendship" count="22"/>
+      <shelf name="fantasy-sci-fi" count="22"/>
+      <shelf name="best-of-2019" count="21"/>
+      <shelf name="mystery" count="21"/>
+      <shelf name="2019-favorites" count="20"/>
+      <shelf name="want-to-buy" count="20"/>
+      <shelf name="reviewed" count="19"/>
+      <shelf name="4-stars" count="19"/>
+      <shelf name="hardcover" count="19"/>
+      <shelf name="funny" count="19"/>
+      <shelf name="action-adventure" count="19"/>
+      <shelf name="2019-new-releases" count="19"/>
+      <shelf name="not-yet-released" count="19"/>
+      <shelf name="audible" count="18"/>
+      <shelf name="ebooks" count="18"/>
+      <shelf name="scifi-fantasy" count="18"/>
+      <shelf name="loveozya" count="18"/>
+      <shelf name="most-anticipated" count="18"/>
+      <shelf name="scribd" count="17"/>
+      <shelf name="my-books" count="17"/>
+      <shelf name="i-own" count="17"/>
+      <shelf name="5-star" count="17"/>
+      <shelf name="2019-may" count="17"/>
+      <shelf name="series-to-start" count="17"/>
+      <shelf name="2018-release" count="17"/>
+      <shelf name="3-stars" count="16"/>
+      <shelf name="all-time-favorites" count="16"/>
+      <shelf name="books-read-in-2019" count="16"/>
+      <shelf name="most-anticipated-2019" count="16"/>
+      <shelf name="first-in-a-series" count="16"/>
+      <shelf name="my-library" count="15"/>
+      <shelf name="read-in-english" count="15"/>
+      <shelf name="english" count="15"/>
+      <shelf name="2019-reading-challenge" count="15"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>913023</id>
+<user_position>1</user_position>
+<series>
+<id>179394</id>
+<title>
+<![CDATA[
+    The Aurora Cycle
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>42201395</id>
+<title>Sorcery of Thorns</title>
+<title_without_series>Sorcery of Thorns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42201395-sorcery-of-thorns]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541621322l/42201395._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541621322l/42201395._SX98_.jpg]]></image_url>
+<num_pages>456</num_pages>
+<work>
+<id>61425757</id>
+</work>
+<isbn>1481497618</isbn>
+<isbn13>9781481497619</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15455603</id>
+<name>Margaret  Rogerson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15455603.Margaret_Rogerson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40177770</id>
+<title>DEV1AT3 (Lifelike, #2)</title>
+<title_without_series>DEV1AT3</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40177770-dev1at3]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544101002l/40177770._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544101002l/40177770._SX98_.jpg]]></image_url>
+<num_pages>419</num_pages>
+<work>
+<id>62331822</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40024139</id>
+<title><![CDATA[Serpent & Dove (Serpent & Dove, #1)]]></title>
+<title_without_series>Serpent &amp; Dove</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40024139-serpent-dove]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549476128l/40024139._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549476128l/40024139._SX98_.jpg]]></image_url>
+<num_pages>513</num_pages>
+<work>
+<id>61991324</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>17999118</id>
+<name>Shelby Mahurin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17999118.Shelby_Mahurin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23264672</id>
+<title><![CDATA[Darkdawn (The Nevernight Chronicle, #3)]]></title>
+<title_without_series>Darkdawn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23264672-darkdawn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552521425l/23264672._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552521425l/23264672._SX98_.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>42805838</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42815556</id>
+<title><![CDATA[Spin the Dawn (The Blood of Stars, #1)]]></title>
+<title_without_series>Spin the Dawn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42815556-spin-the-dawn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542674036l/42815556._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542674036l/42815556._SX98_.jpg]]></image_url>
+<num_pages>392</num_pages>
+<work>
+<id>58477266</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6926374</id>
+<name>Elizabeth Lim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6926374.Elizabeth_Lim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36492488</id>
+<title><![CDATA[We Hunt the Flame (Sands of Arawiya, #1)]]></title>
+<title_without_series>We Hunt the Flame</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36492488-we-hunt-the-flame]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551185822l/36492488._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551185822l/36492488._SX98_.jpg]]></image_url>
+<num_pages>472</num_pages>
+<work>
+<id>58206540</id>
+</work>
+<isbn>0374311544</isbn>
+<isbn13>9780374311544</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>17276299</id>
+<name>Hafsah Faizal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17276299.Hafsah_Faizal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29456569</id>
+<title>LIFEL1K3 (Lifelike, #1)</title>
+<title_without_series>LIFEL1K3</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29456569-lifel1k3]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516369970l/29456569._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516369970l/29456569._SX98_.jpg]]></image_url>
+<num_pages>402</num_pages>
+<work>
+<id>49731905</id>
+</work>
+<isbn>1524713929</isbn>
+<isbn13>9781524713928</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43204703</id>
+<title><![CDATA[A Curse So Dark and Lonely (Cursebreakers, #1)]]></title>
+<title_without_series>A Curse So Dark and Lonely</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43204703-a-curse-so-dark-and-lonely]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574179523l/43204703._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574179523l/43204703._SX98_.jpg]]></image_url>
+<num_pages>484</num_pages>
+<work>
+<id>50519947</id>
+</work>
+<isbn>1681195089</isbn>
+<isbn13>9781681195087</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4629194</id>
+<name>Brigid Kemmerer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4629194.Brigid_Kemmerer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42133479</id>
+<title>Wicked Fox (Gumiho, #1)</title>
+<title_without_series>Wicked Fox</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42133479-wicked-fox]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561485441l/42133479._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561485441l/42133479._SX98_.jpg]]></image_url>
+<num_pages>429</num_pages>
+<work>
+<id>60305442</id>
+</work>
+<isbn>1984812343</isbn>
+<isbn13>9781984812346</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>17734732</id>
+<name>Kat Cho</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17734732.Kat_Cho]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39679076</id>
+<title>House of Salt and Sorrows</title>
+<title_without_series>House of Salt and Sorrows</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39679076-house-of-salt-and-sorrows]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544071699l/39679076._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544071699l/39679076._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>61277707</id>
+</work>
+<isbn>1984831925</isbn>
+<isbn13>9781984831927</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>17892078</id>
+<name>Erin A. Craig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17892078.Erin_A_Craig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36118682</id>
+<title><![CDATA[Wicked Saints (Something Dark and Holy, #1)]]></title>
+<title_without_series>Wicked Saints</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36118682-wicked-saints]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539378101l/36118682._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539378101l/36118682._SX98_.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>57709985</id>
+</work>
+<isbn>1250195667</isbn>
+<isbn13>9781250195661</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>15600590</id>
+<name>Emily A. Duncan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15600590.Emily_A_Duncan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43263680</id>
+<title>Ninth House (Alex Stern, #1)</title>
+<title_without_series>Ninth House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43263680-ninth-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553102141l/43263680._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553102141l/43263680._SX98_.jpg]]></image_url>
+<num_pages>458</num_pages>
+<work>
+<id>53348200</id>
+</work>
+<isbn>1250313074</isbn>
+<isbn13>9781250313072</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4575289</id>
+<name>Leigh Bardugo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4575289.Leigh_Bardugo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36483378</id>
+<title><![CDATA[The Merciful Crow (The Merciful Crow, #1)]]></title>
+<title_without_series>The Merciful Crow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36483378-the-merciful-crow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541789805l/36483378._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541789805l/36483378._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58194201</id>
+</work>
+<isbn>1250191920</isbn>
+<isbn13>9781250191922</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>17272080</id>
+<name>Margaret  Owen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17272080.Margaret_Owen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24909347</id>
+<title><![CDATA[Obsidio (The Illuminae Files, #3)]]></title>
+<title_without_series>Obsidio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24909347-obsidio]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501704611l/24909347._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501704611l/24909347._SX98_.jpg]]></image_url>
+<num_pages>615</num_pages>
+<work>
+<id>44560443</id>
+</work>
+<isbn>055349919X</isbn>
+<isbn13>9780553499193</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5360335</id>
+<name>Amie Kaufman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5360335.Amie_Kaufman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40381392</id>
+<title>Finale (Caraval, #3)</title>
+<title_without_series>Finale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40381392-finale]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540221721l/40381392._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540221721l/40381392._SX98_.jpg]]></image_url>
+<num_pages>478</num_pages>
+<work>
+<id>60623348</id>
+</work>
+<isbn>1250157668</isbn>
+<isbn13>9781250157669</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14137787</id>
+<name>Stephanie Garber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14137787.Stephanie_Garber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23264671</id>
+<title><![CDATA[Godsgrave (The Nevernight Chronicle, #2)]]></title>
+<title_without_series>Godsgrave</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23264671-godsgrave]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688862l/23264671._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688862l/23264671._SX98_.jpg]]></image_url>
+<num_pages>419</num_pages>
+<work>
+<id>42805837</id>
+</work>
+<isbn>1250073030</isbn>
+<isbn13>9781250073037</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35561260</id>
+<title><![CDATA[Nocturna (A Forgery of Magic, #1)]]></title>
+<title_without_series>Nocturna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35561260-nocturna]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550561697l/35561260._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550561697l/35561260._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>56989332</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>16994094</id>
+<name>Maya Motayne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16994094.Maya_Motayne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864907</id>
+<title>The Kingdom</title>
+<title_without_series>The Kingdom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864907-the-kingdom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547664423l/40864907._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547664423l/40864907._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>60837589</id>
+</work>
+<isbn>1250293855</isbn>
+<isbn13>9781250293855</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>13988</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3415819</id>
+<name>Jess Rothenberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3415819.Jess_Rothenberg]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

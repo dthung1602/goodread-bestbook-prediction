@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13792593</id>
+  <title>Open This Little Book</title>
+  <isbn><![CDATA[0811867838]]></isbn>
+  <isbn13><![CDATA[9780811867832]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346377042l/13792593._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346377042l/13792593._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Chronicle Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[What will you find when you open this little book? A fun story? Sweet characters? Enticing pictures? Yes! But much more. Open this book and you will find...another book...and another...and another. Debut author Jesse Klausmeier and master book creator Suzy Lee have combined their creative visions to craft a seemingly simple book about colors for the very youngest readers, an imaginative exploration of the art of book making for more sophisticated aficionados, and a charming story of friendship and the power of books for all.]]></description>
+  <work>
+  <id type="integer">19426469</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">13792593</best_book_id>
+  <reviews_count type="integer">4559</reviews_count>
+  <ratings_sum type="integer">10160</ratings_sum>
+  <ratings_count type="integer">2477</ratings_count>
+  <text_reviews_count type="integer">446</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Open This Little Book</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1024|4:852|3:460|2:111|1:30|total:2477</rating_dist>
+  <desc_user_id type="integer">6720768</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Pm6d3ZvVr3xVlINzEN1kwg</work_uri>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2457]]></ratings_count>
+  <text_reviews_count><![CDATA[438]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13792593-open-this-little-book]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13792593-open-this-little-book]]></link>
+  <authors>
+<author>
+<id>5862330</id>
+<name>Jesse Klausmeier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1345059920p5/5862330.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1345059920p2/5862330.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5862330.Jesse_Klausmeier]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<text_reviews_count>446</text_reviews_count>
+</author>
+<author>
+<id>397093</id>
+<name>Suzy Lee</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307331706p5/397093.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307331706p2/397093.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/397093.Suzy_Lee]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>9341</ratings_count>
+<text_reviews_count>1684</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13792593-open-this-little-book">Open This Little Book Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0811867838&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13792593-open-this-little-book?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="479"/>
+      <shelf name="picture-book" count="104"/>
+      <shelf name="childrens" count="62"/>
+      <shelf name="picture-books" count="53"/>
+      <shelf name="children-s" count="50"/>
+      <shelf name="animals" count="48"/>
+      <shelf name="children-s-books" count="44"/>
+      <shelf name="children" count="42"/>
+      <shelf name="colors" count="38"/>
+      <shelf name="books-about-books" count="30"/>
+      <shelf name="storytime" count="29"/>
+      <shelf name="kids" count="28"/>
+      <shelf name="fiction" count="26"/>
+      <shelf name="books" count="24"/>
+      <shelf name="favorites" count="22"/>
+      <shelf name="picturebooks" count="19"/>
+      <shelf name="reading" count="17"/>
+      <shelf name="childrens-books" count="16"/>
+      <shelf name="picture" count="16"/>
+      <shelf name="preschool" count="15"/>
+      <shelf name="read-aloud" count="13"/>
+      <shelf name="read-in-2013" count="13"/>
+      <shelf name="art" count="12"/>
+      <shelf name="interactive" count="12"/>
+      <shelf name="library" count="11"/>
+      <shelf name="kids-books" count="11"/>
+      <shelf name="picturebook" count="10"/>
+      <shelf name="children-s-lit" count="10"/>
+      <shelf name="children-s-picture-books" count="9"/>
+      <shelf name="childrens-picture-books" count="9"/>
+      <shelf name="friendship" count="9"/>
+      <shelf name="books-and-reading" count="8"/>
+      <shelf name="storytime-books" count="8"/>
+      <shelf name="story-time" count="8"/>
+      <shelf name="2013-picture-books" count="8"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="children-books" count="6"/>
+      <shelf name="currently-reading" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="picture-books-read" count="6"/>
+      <shelf name="edu-316" count="5"/>
+      <shelf name="for-kids" count="5"/>
+      <shelf name="meta" count="5"/>
+      <shelf name="kiddos" count="5"/>
+      <shelf name="color" count="5"/>
+      <shelf name="writing" count="5"/>
+      <shelf name="favorite-picture-books" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="children-s-literature" count="4"/>
+      <shelf name="edu316" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="books-on-books" count="4"/>
+      <shelf name="mock-caldecott-2014" count="4"/>
+      <shelf name="lift-the-flap" count="4"/>
+      <shelf name="2013-reads" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="pb" count="4"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="book" count="4"/>
+      <shelf name="illustrations" count="4"/>
+      <shelf name="literacy" count="4"/>
+      <shelf name="metafiction" count="4"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="concepts" count="4"/>
+      <shelf name="novelty" count="4"/>
+      <shelf name="edu-365" count="3"/>
+      <shelf name="bibliophilia" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="pbs" count="3"/>
+      <shelf name="edrd-314" count="3"/>
+      <shelf name="00-in-class" count="3"/>
+      <shelf name="imagination" count="3"/>
+      <shelf name="preschool-books" count="3"/>
+      <shelf name="children-fiction" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="read-2014" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="interactive-picture-books" count="3"/>
+      <shelf name="friends" count="3"/>
+      <shelf name="to-read-kids" count="3"/>
+      <shelf name="childrens-picture" count="3"/>
+      <shelf name="early-reader" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="family" count="3"/>
+      <shelf name="books-and-libraries" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="preschoolers" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="size" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="concept-book" count="3"/>
+      <shelf name="preschool-storytime" count="3"/>
+      <shelf name="childrensbooks" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="key-stage-1" count="2"/>
+      <shelf name="read-in-2018" count="2"/>
+      <shelf name="buy" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17773504</id>
+<title>The Snatchabook</title>
+<title_without_series>The Snatchabook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17773504-the-snatchabook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366556578l/17773504._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366556578l/17773504._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>24859796</id>
+</work>
+<isbn>1402290829</isbn>
+<isbn13>9781402290824</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7041051</id>
+<name>Helen Docherty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7041051.Helen_Docherty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39992292</id>
+<title>Another</title>
+<title_without_series>Another</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39992292-another]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625328l/39992292._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625328l/39992292._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>61930263</id>
+</work>
+<isbn>153442167X</isbn>
+<isbn13>9781534421677</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3240810</id>
+<name>Christian Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3240810.Christian_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15778384</id>
+<title>Ribbit!</title>
+<title_without_series>Ribbit!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15778384-ribbit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344369832l/15778384._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344369832l/15778384._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21491705</id>
+</work>
+<isbn>0307981460</isbn>
+<isbn13>9780307981462</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>524046</id>
+<name>Rodrigo Folgueira</name>
+<link><![CDATA[https://www.goodreads.com/author/show/524046.Rodrigo_Folgueira]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17383992</id>
+<title>Tap the Magic Tree</title>
+<title_without_series>Tap the Magic Tree</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17383992-tap-the-magic-tree]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362956074l/17383992._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362956074l/17383992._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24182136</id>
+</work>
+<isbn>0062274457</isbn>
+<isbn13>9780062274458</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16305094</id>
+<name>Christie  Matheson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16305094.Christie_Matheson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43387393</id>
+<title>A Stone Sat Still</title>
+<title_without_series>A Stone Sat Still</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43387393-a-stone-sat-still]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX98_.jpg]]></image_url>
+<num_pages>50</num_pages>
+<work>
+<id>67409570</id>
+</work>
+<isbn>1452173184</isbn>
+<isbn13>9781452173184</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>7126026</id>
+<name>Brendan Wenzel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126026.Brendan_Wenzel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43861612</id>
+<title><![CDATA[Stormy: A Story About Finding a Forever Home]]></title>
+<title_without_series><![CDATA[Stormy: A Story About Finding a Forever Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43861612-stormy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549431970l/43861612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549431970l/43861612._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>68246073</id>
+</work>
+<isbn>1524771767</isbn>
+<isbn13>9781524771768</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>9843219</id>
+<name>Guojing</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9843219.Guojing]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27206403</id>
+<title>It Came in the Mail</title>
+<title_without_series>It Came in the Mail</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27206403-it-came-in-the-mail]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466358565l/27206403._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466358565l/27206403._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>47247301</id>
+</work>
+<isbn>1481403605</isbn>
+<isbn13>9781481403603</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>5157577</id>
+<name>Ben Clanton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5157577.Ben_Clanton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40640808</id>
+<title><![CDATA[There Are No Bears in This Bakery]]></title>
+<title_without_series><![CDATA[There Are No Bears in This Bakery]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40640808-there-are-no-bears-in-this-bakery]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530017802l/40640808._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530017802l/40640808._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>63145519</id>
+</work>
+<isbn>0399556664</isbn>
+<isbn13>9780399556661</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>2445028</id>
+<name>Julia Sarcone-Roach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2445028.Julia_Sarcone_Roach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16250904</id>
+<title><![CDATA[Unicorn Thinks He's Pretty Great]]></title>
+<title_without_series><![CDATA[Unicorn Thinks He's Pretty Great]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16250904-unicorn-thinks-he-s-pretty-great]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22292082</id>
+</work>
+<isbn>1423159527</isbn>
+<isbn13>9781423159520</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13448343</id>
+<title>I&apos;m Bored</title>
+<title_without_series>I&apos;m Bored</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13448343-i-m-bored]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328099505l/13448343._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328099505l/13448343._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18967692</id>
+</work>
+<isbn>1442414030</isbn>
+<isbn13>9781442414037</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1233745</id>
+<name>Michael Ian Black</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1233745.Michael_Ian_Black]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35964765</id>
+<title>Sweety</title>
+<title_without_series>Sweety</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35964765-sweety]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540568473l/35964765._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540568473l/35964765._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57523959</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14208174</id>
+<name>Andrea Zuill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14208174.Andrea_Zuill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37863427</id>
+<title>The Dress and the Girl</title>
+<title_without_series>The Dress and the Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37863427-the-dress-and-the-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519636019l/37863427._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519636019l/37863427._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>59568555</id>
+</work>
+<isbn>1419731610</isbn>
+<isbn13>9781419731617</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>15309030</id>
+<name>Camille Andros</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15309030.Camille_Andros]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23197611</id>
+<title><![CDATA[Ballet Cat The Totally Secret Secret (Ballet Cat, #1)]]></title>
+<title_without_series><![CDATA[Ballet Cat The Totally Secret Secret]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23197611-ballet-cat-the-totally-secret-secret]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422323993l/23197611._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422323993l/23197611._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>42742524</id>
+</work>
+<isbn>1484713788</isbn>
+<isbn13>9781484713785</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43671848</id>
+<title>Just Because</title>
+<title_without_series>Just Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43671848-just-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67946194</id>
+</work>
+<isbn>0763696803</isbn>
+<isbn13>9780763696801</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25841808</id>
+<title>Der Besuch</title>
+<title_without_series>Der Besuch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25841808-der-besuch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435918664l/25841808._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435918664l/25841808._SX98_.jpg]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>45706018</id>
+</work>
+<isbn></isbn>
+<isbn13>9783895652950</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1020449</id>
+<name>Antje Damm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1020449.Antje_Damm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43208925</id>
+<title>The Scarecrow</title>
+<title_without_series>The Scarecrow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43208925-the-scarecrow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554068414l/43208925._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554068414l/43208925._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67049699</id>
+</work>
+<isbn>0062475762</isbn>
+<isbn13>9780062475763</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8393959</id>
+<name>Beth Ferry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8393959.Beth_Ferry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7747422</id>
+<title>It&apos;s a Book</title>
+<title_without_series>It&apos;s a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7747422-it-s-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737426l/7747422._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737426l/7747422._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>10577192</id>
+</work>
+<isbn>1596436069</isbn>
+<isbn13>9781596436060</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>23573</id>
+<name>Lane Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23573.Lane_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18465558</id>
+<title>The Midnight Library</title>
+<title_without_series>The Midnight Library</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18465558-the-midnight-library]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379985715l/18465558._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379985715l/18465558._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>26123535</id>
+</work>
+<isbn>1596439858</isbn>
+<isbn13>9781596439856</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2477</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1412518</id>
+<name>Kazuno Kohara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1412518.Kazuno_Kohara]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

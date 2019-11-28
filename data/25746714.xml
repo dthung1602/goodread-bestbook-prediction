@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25746714</id>
+  <title>The Type</title>
+  <isbn><![CDATA[031638660X]]></isbn>
+  <isbn13><![CDATA[9780316386609]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445190492l/25746714._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445190492l/25746714._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Hachette Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<strong>Sarah Kay's powerful spoken word poetry performances have gone viral, with more than 10 million online views and thousands more in global live audiences. In her second single-poem volume, Kay takes readers along a lyrical road toward empowerment, exploring the promise and complicated reality of being a woman. </strong><br /><br />During her spoken word poetry performances, audiences around the world have responded strongly to Sarah Kay's poem <em>The Type. </em>As Kay wrote in <em>The Huffington Post</em>: "Much media attention has been paid to what it means to 'be a woman,' but often the conversation focuses on what it means to be a woman in relation to others. I believe these relationships are important. I also think it is possible to define ourselves solely as individuals... We have the power to define ourselves: by telling our own stories, in our own words, with our own voices."<br /><br />Never-before-published in book form, <em>The Type</em> is illustrated throughout and perfect for gift-giving.]]></description>
+  <work>
+  <id type="integer">45587895</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">25746714</best_book_id>
+  <reviews_count type="integer">3523</reviews_count>
+  <ratings_sum type="integer">2973</ratings_sum>
+  <ratings_count type="integer">681</ratings_count>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>The Type</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:375|4:199|3:94|2:7|1:6|total:681</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.aWUGSdacUN-B55neuNeOgQ</work_uri>
+</work>
+  <average_rating>4.37</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[660]]></ratings_count>
+  <text_reviews_count><![CDATA[70]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25746714-the-type]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25746714-the-type]]></link>
+  <authors>
+<author>
+<id>11377</id>
+<name>Sarah Kay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327230533p5/11377.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327230533p2/11377.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11377.Sarah_Kay]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>13713</ratings_count>
+<text_reviews_count>1306</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25746714-the-type">The Type Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=031638660X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25746714-the-type?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2638"/>
+      <shelf name="poetry" count="204"/>
+      <shelf name="favorites" count="12"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="currently-reading" count="7"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="feminism" count="5"/>
+      <shelf name="poems" count="4"/>
+      <shelf name="to-read-poetry" count="4"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="poetry-to-read" count="3"/>
+      <shelf name="poetry-and-prose" count="3"/>
+      <shelf name="inspirational" count="3"/>
+      <shelf name="20-book-challenge" count="3"/>
+      <shelf name="2016-reads" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="picture-books" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="zzz-hachette-books" count="2"/>
+      <shelf name="pub-2016" count="2"/>
+      <shelf name="non-fiction" count="2"/>
+      <shelf name="short-books" count="2"/>
+      <shelf name="tbr-poetry" count="2"/>
+      <shelf name="2017-reads" count="2"/>
+      <shelf name="poesie" count="2"/>
+      <shelf name="poem" count="2"/>
+      <shelf name="to-get" count="2"/>
+      <shelf name="illustrated" count="2"/>
+      <shelf name="feel-good" count="2"/>
+      <shelf name="in-english" count="2"/>
+      <shelf name="netgalley" count="2"/>
+      <shelf name="prose" count="2"/>
+      <shelf name="giveaways" count="2"/>
+      <shelf name="signed" count="2"/>
+      <shelf name="aoc" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="pending" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="published-in-2010s" count="1"/>
+      <shelf name="our-shared-shelf" count="1"/>
+      <shelf name="fem-progressive-lit" count="1"/>
+      <shelf name="foundry" count="1"/>
+      <shelf name="asian" count="1"/>
+      <shelf name="the-good" count="1"/>
+      <shelf name="poetry-tbr" count="1"/>
+      <shelf name="our-shared-shelf-emma-watson" count="1"/>
+      <shelf name="all-my-books" count="1"/>
+      <shelf name="2016-releases" count="1"/>
+      <shelf name="englisch" count="1"/>
+      <shelf name="nicht-in-unserer-bücherei" count="1"/>
+      <shelf name="zza-hachette-audio" count="1"/>
+      <shelf name="zp-2016-a" count="1"/>
+      <shelf name="zo-n-a" count="1"/>
+      <shelf name="zformat-audiobook" count="1"/>
+      <shelf name="phyiscally-read" count="1"/>
+      <shelf name="2019-reads" count="1"/>
+      <shelf name="z-2016-6" count="1"/>
+      <shelf name="personal" count="1"/>
+      <shelf name="gca2016" count="1"/>
+      <shelf name="rereads-2019" count="1"/>
+      <shelf name="zp-2016-e" count="1"/>
+      <shelf name="by-women-or-about-women-feminism" count="1"/>
+      <shelf name="tbr-nf-poetry" count="1"/>
+      <shelf name="american" count="1"/>
+      <shelf name="sooner" count="1"/>
+      <shelf name="four-stars" count="1"/>
+      <shelf name="overdrive-wishlist" count="1"/>
+      <shelf name="poetry-and-i-want-to-cry-books" count="1"/>
+      <shelf name="4-stars" count="1"/>
+      <shelf name="future-buys" count="1"/>
+      <shelf name="zformat-ebook" count="1"/>
+      <shelf name="physical" count="1"/>
+      <shelf name="usa-poetry" count="1"/>
+      <shelf name="poetry-essays" count="1"/>
+      <shelf name="interlibrary-loan" count="1"/>
+      <shelf name="read-in-2018" count="1"/>
+      <shelf name="chapbook" count="1"/>
+      <shelf name="authors-of-color" count="1"/>
+      <shelf name="a-or-lit-asian-diaspora" count="1"/>
+      <shelf name="2018-reads" count="1"/>
+      <shelf name="finish-or-start" count="1"/>
+      <shelf name="_ebook_-own" count="1"/>
+      <shelf name="signed-copy" count="1"/>
+      <shelf name="hardcover" count="1"/>
+      <shelf name="gedichte" count="1"/>
+      <shelf name="p-o-e-m-s" count="1"/>
+      <shelf name="five-stars" count="1"/>
+      <shelf name="contemporary-tbr" count="1"/>
+      <shelf name="rainbow-green" count="1"/>
+      <shelf name="the-art-of-words" count="1"/>
+      <shelf name="recommendations-for-angel" count="1"/>
+      <shelf name="must-read" count="1"/>
+      <shelf name="poetry-and-short-stories" count="1"/>
+      <shelf name="poetry-faves" count="1"/>
+      <shelf name="read2018" count="1"/>
+      <shelf name="my-bookshelf" count="1"/>
+      <shelf name="library-books" count="1"/>
+      <shelf name="kindle" count="1"/>
+      <shelf name="poetry-i-want" count="1"/>
+      <shelf name="read-2018" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>39280484</id>
+<title><![CDATA[Shame Is an Ocean I Swim Across]]></title>
+<title_without_series><![CDATA[Shame Is an Ocean I Swim Across]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39280484-shame-is-an-ocean-i-swim-across]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522337533l/39280484._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522337533l/39280484._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>60837085</id>
+</work>
+<isbn>125019590X</isbn>
+<isbn13>9781250195906</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>54204</id>
+<name>Mary Lambert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54204.Mary_Lambert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39656140</id>
+<title>Date &amp; Time</title>
+<title_without_series>Date &amp; Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39656140-date-time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>61226487</id>
+</work>
+<isbn>1943735360</isbn>
+<isbn13>9781943735365</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6868681</id>
+<name>Phil Kaye</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6868681.Phil_Kaye]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41155087</id>
+<title><![CDATA[The Girl Who Could Move Sh*t with Her Mind]]></title>
+<title_without_series><![CDATA[The Girl Who Could Move Sh*t with Her Mind]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41155087-the-girl-who-could-move-sh-t-with-her-mind]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552347873l/41155087._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552347873l/41155087._SX98_.jpg]]></image_url>
+<num_pages>482</num_pages>
+<work>
+<id>64329208</id>
+</work>
+<isbn>0316519154</isbn>
+<isbn13>9780316519151</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>18306767</id>
+<name>Jackson Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18306767.Jackson_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43819413</id>
+<title>Aphrodite Made Me Do It</title>
+<title_without_series>Aphrodite Made Me Do It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43819413-aphrodite-made-me-do-it]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>68190011</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8382753</id>
+<name>Trista Mateer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8382753.Trista_Mateer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41825540</id>
+<title>Unfollowing You</title>
+<title_without_series>Unfollowing You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41825540-unfollowing-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545468800l/41825540._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545468800l/41825540._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>65280412</id>
+</work>
+<isbn>1449499600</isbn>
+<isbn13>9781449499600</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17261271</id>
+<name>Komal Kapoor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17261271.Komal_Kapoor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22151696</id>
+<title>Lullabies</title>
+<title_without_series>Lullabies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22151696-lullabies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SX98_.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>41496977</id>
+</work>
+<isbn>1449461077</isbn>
+<isbn13>9781449461072</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29059581</id>
+<title>Stuff Ive Been Feeling Lately</title>
+<title_without_series>Stuff Ive Been Feeling Lately</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29059581-stuff-ive-been-feeling-lately]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>49289043</id>
+</work>
+<isbn>1522949259</isbn>
+<isbn13>9781522949251</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7969405</id>
+<name>Alicia Cook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7969405.Alicia_Cook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36206132</id>
+<title>Honeybee</title>
+<title_without_series>Honeybee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36206132-honeybee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523863741l/36206132._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523863741l/36206132._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>42235766</id>
+</work>
+<isbn>1771681365</isbn>
+<isbn13>9781771681360</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8382753</id>
+<name>Trista Mateer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8382753.Trista_Mateer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36515260</id>
+<title>How to Love the Empty Air</title>
+<title_without_series>How to Love the Empty Air</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36515260-how-to-love-the-empty-air]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509540222l/36515260._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509540222l/36515260._SX98_.jpg]]></image_url>
+<num_pages>100</num_pages>
+<work>
+<id>58236346</id>
+</work>
+<isbn>1938912802</isbn>
+<isbn13>9781938912801</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>492712</id>
+<name>Cristin O&apos;Keefe Aptowicz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/492712.Cristin_O_Keefe_Aptowicz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38507175</id>
+<title><![CDATA[Pillow Thoughts II: Healing the Heart]]></title>
+<title_without_series><![CDATA[Pillow Thoughts II: Healing the Heart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38507175-pillow-thoughts-ii]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521370787l/38507175._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521370787l/38507175._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>60145419</id>
+</work>
+<isbn>1449495087</isbn>
+<isbn13>9781449495084</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14250517</id>
+<name>Courtney Peppernell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14250517.Courtney_Peppernell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36893848</id>
+<title>2am Thoughts</title>
+<title_without_series>2am Thoughts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36893848-2am-thoughts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516356477l/36893848._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516356477l/36893848._SX98_.jpg]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>58653815</id>
+</work>
+<isbn>1537186752</isbn>
+<isbn13>9781537186757</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>17417716</id>
+<name>Makenzie Campbell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17417716.Makenzie_Campbell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>351530</id>
+<title><![CDATA[What Do You Do With a Tail Like This?]]></title>
+<title_without_series><![CDATA[What Do You Do With a Tail Like This?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/351530.What_Do_You_Do_With_a_Tail_Like_This_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>692587</id>
+</work>
+<isbn>0439703840</isbn>
+<isbn13>9780439703840</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>27541</id>
+<name>Steve Jenkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27541.Steve_Jenkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40697430</id>
+<title>There Are Girls like Lions</title>
+<title_without_series>There Are Girls like Lions</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40697430-there-are-girls-like-lions]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538460532l/40697430._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538460532l/40697430._SX98_.jpg]]></image_url>
+<num_pages>99</num_pages>
+<work>
+<id>63296751</id>
+</work>
+<isbn>1452173451</isbn>
+<isbn13>9781452173450</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>86787</id>
+<name>Cole Swensen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86787.Cole_Swensen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25986828</id>
+<title>Today Means Amen</title>
+<title_without_series>Today Means Amen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25986828-today-means-amen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444688243l/25986828._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444688243l/25986828._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>45899538</id>
+</work>
+<isbn>144947411X</isbn>
+<isbn13>9781449474119</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3373437</id>
+<name>Sierra DeMulder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3373437.Sierra_DeMulder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23333016</id>
+<title>Pansy</title>
+<title_without_series>Pansy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23333016-pansy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425168295l/23333016._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425168295l/23333016._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>42885776</id>
+</work>
+<isbn>1938912985</isbn>
+<isbn13>9781938912986</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>457281</id>
+<name>Andrea Gibson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457281.Andrea_Gibson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29599121</id>
+<title>Counting Descent</title>
+<title_without_series>Counting Descent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29599121-counting-descent]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469415384l/29599121._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469415384l/29599121._SX98_.jpg]]></image_url>
+<num_pages>84</num_pages>
+<work>
+<id>49936361</id>
+</work>
+<isbn>1938912659</isbn>
+<isbn13>9781938912658</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>15855059</id>
+<name>Clint   Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15855059.Clint_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46139955</id>
+<title>Losing Myself Brought Me Here</title>
+<title_without_series>Losing Myself Brought Me Here</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46139955-losing-myself-brought-me-here]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71082159</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15214972</id>
+<name>Jennae Cecelia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15214972.Jennae_Cecelia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44313593</id>
+<title>Sad Birds Still Sing</title>
+<title_without_series>Sad Birds Still Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44313593-sad-birds-still-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557781847l/44313593._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557781847l/44313593._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>68854624</id>
+</work>
+<isbn>1771681837</isbn>
+<isbn13>9781771681834</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>18945492</id>
+<name>Faraway Poetry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18945492.Faraway_Poetry]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

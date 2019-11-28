@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>30037873</id>
+  <title>The Someday Birds</title>
+  <isbn><![CDATA[0062445766]]></isbn>
+  <isbn13><![CDATA[9780062445766]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467822821l/30037873._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467822821l/30037873._SY75_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>24</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Charlie wishes his life could be as predictable and simple as chicken nuggets.<br /><br />And it usually is. He has his clean room, his carefully organized bird books and art supplies, his favorite foods, and comfortable routines.<br /><br />But life has been unraveling since his war journalist father was injured in Afghanistan. And when Dad gets sent across country for medical treatment, Charlie must reluctantly travel to meet him. With his boy-crazy sister, unruly twin brothers, and a mysterious new family friend at the wheel, the journey looks anything but smooth.<br /><br />So Charlie decides to try and spot all the birds that he and his dad had been hoping to see together in the wild. If he can complete the Someday Birds list for Dad, then maybe, just maybe, things will turn out okay...<br /><br />Equal parts madcap road trip, coming-of-age story for an unusual boy, and portrait of a family overcoming a crisis.]]></description>
+  <work>
+  <id type="integer">46824110</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">26800718</best_book_id>
+  <reviews_count type="integer">7508</reviews_count>
+  <ratings_sum type="integer">7207</ratings_sum>
+  <ratings_count type="integer">1690</ratings_count>
+  <text_reviews_count type="integer">363</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">24</original_publication_day>
+  <original_title>The Someday Birds</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:772|4:650|3:220|2:39|1:9|total:1690</rating_dist>
+  <desc_user_id type="integer">12785148</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.OwGpYf-onesjHW4JJNpWsA</work_uri>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[327]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[264]]></ratings_count>
+  <text_reviews_count><![CDATA[54]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/30037873-the-someday-birds]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/30037873-the-someday-birds]]></link>
+  <authors>
+<author>
+<id>14417765</id>
+<name>Sally J. Pla</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496378760p5/14417765.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496378760p2/14417765.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14417765.Sally_J_Pla]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>2061</ratings_count>
+<text_reviews_count>470</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/30037873-the-someday-birds">The Someday Birds Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062445766&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/30037873-the-someday-birds?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5147"/>
+      <shelf name="currently-reading" count="109"/>
+      <shelf name="middle-grade" count="94"/>
+      <shelf name="realistic-fiction" count="60"/>
+      <shelf name="family" count="31"/>
+      <shelf name="fiction" count="26"/>
+      <shelf name="contemporary" count="25"/>
+      <shelf name="young-adult" count="24"/>
+      <shelf name="autism" count="23"/>
+      <shelf name="middle-school" count="18"/>
+      <shelf name="childrens" count="18"/>
+      <shelf name="ya" count="18"/>
+      <shelf name="children" count="17"/>
+      <shelf name="birds" count="16"/>
+      <shelf name="kids" count="13"/>
+      <shelf name="exploring-assignment" count="12"/>
+      <shelf name="favorites" count="12"/>
+      <shelf name="realistic" count="11"/>
+      <shelf name="library" count="11"/>
+      <shelf name="mock-newbery-2018" count="10"/>
+      <shelf name="war" count="10"/>
+      <shelf name="animals" count="10"/>
+      <shelf name="children-s-books" count="9"/>
+      <shelf name="juvenile-fiction" count="9"/>
+      <shelf name="coming-of-age" count="9"/>
+      <shelf name="middle-grades" count="8"/>
+      <shelf name="siblings" count="8"/>
+      <shelf name="juvenile" count="8"/>
+      <shelf name="2017-reads" count="8"/>
+      <shelf name="exploring-disability" count="7"/>
+      <shelf name="children-s-fiction" count="7"/>
+      <shelf name="children-s" count="7"/>
+      <shelf name="read-in-2017" count="7"/>
+      <shelf name="mg" count="7"/>
+      <shelf name="disability" count="7"/>
+      <shelf name="nature" count="6"/>
+      <shelf name="6th-grade" count="6"/>
+      <shelf name="families" count="6"/>
+      <shelf name="5th-grade" count="6"/>
+      <shelf name="tween" count="6"/>
+      <shelf name="childrens-books" count="6"/>
+      <shelf name="illness" count="6"/>
+      <shelf name="mental-health" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="children-s-literature" count="5"/>
+      <shelf name="travel" count="5"/>
+      <shelf name="adventure" count="5"/>
+      <shelf name="kids-books" count="5"/>
+      <shelf name="ocd" count="5"/>
+      <shelf name="disabilities" count="5"/>
+      <shelf name="middle-grade-books" count="5"/>
+      <shelf name="road-trip" count="5"/>
+      <shelf name="middle-grade-fiction" count="5"/>
+      <shelf name="dcf-2018-2019" count="4"/>
+      <shelf name="ber-2018" count="4"/>
+      <shelf name="grief" count="4"/>
+      <shelf name="4th-grade" count="4"/>
+      <shelf name="dogs" count="4"/>
+      <shelf name="new-books" count="4"/>
+      <shelf name="own-voices" count="4"/>
+      <shelf name="2017-releases" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="relationships" count="4"/>
+      <shelf name="harpercollins" count="4"/>
+      <shelf name="children-lit" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="road-trips" count="3"/>
+      <shelf name="middle-school-reads" count="3"/>
+      <shelf name="books-read-in-2018" count="3"/>
+      <shelf name="childrens-fiction" count="3"/>
+      <shelf name="classroom" count="3"/>
+      <shelf name="growing-up" count="3"/>
+      <shelf name="children-s-lit" count="3"/>
+      <shelf name="historical-fiction" count="3"/>
+      <shelf name="books-read-in-2017" count="3"/>
+      <shelf name="childrens-middle-grade" count="3"/>
+      <shelf name="loss" count="3"/>
+      <shelf name="special-needs" count="3"/>
+      <shelf name="ownvoices" count="3"/>
+      <shelf name="middle-grade-realistic-fiction" count="3"/>
+      <shelf name="friendship" count="3"/>
+      <shelf name="jan-2017" count="3"/>
+      <shelf name="arc" count="3"/>
+      <shelf name="2019-reads" count="2"/>
+      <shelf name="2019-read" count="2"/>
+      <shelf name="tbr-middle-grade" count="2"/>
+      <shelf name="covergoals" count="2"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="books-read-in-2019" count="2"/>
+      <shelf name="2019-books" count="2"/>
+      <shelf name="tbr" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="children-s-book" count="2"/>
+      <shelf name="ya-to-read" count="2"/>
+      <shelf name="male-protagonist" count="2"/>
+      <shelf name="abandoned" count="2"/>
+      <shelf name="fathers" count="2"/>
+      <shelf name="bes-2018-2019" count="2"/>
+      <shelf name="journey" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>29102841</id>
+<title>Forget Me Not</title>
+<title_without_series>Forget Me Not</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29102841-forget-me-not]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494949296l/29102841._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494949296l/29102841._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>45761468</id>
+</work>
+<isbn>1250096278</isbn>
+<isbn13>9781250096272</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>14157664</id>
+<name>Ellie Terry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14157664.Ellie_Terry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28186140</id>
+<title>A Long Pitch Home</title>
+<title_without_series>A Long Pitch Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28186140-a-long-pitch-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061363l/28186140._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061363l/28186140._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>48207943</id>
+</work>
+<isbn>1580897134</isbn>
+<isbn13>9781580897136</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5761276</id>
+<name>Natalie Dias Lorenzi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5761276.Natalie_Dias_Lorenzi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33931230</id>
+<title><![CDATA[The Secret Sheriff of Sixth Grade]]></title>
+<title_without_series><![CDATA[The Secret Sheriff of Sixth Grade]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33931230-the-secret-sheriff-of-sixth-grade]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486859288l/33931230._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486859288l/33931230._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>54900443</id>
+</work>
+<isbn>0545863201</isbn>
+<isbn13>9780545863209</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>183005</id>
+<name>Jordan Sonnenblick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/183005.Jordan_Sonnenblick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25337548</id>
+<title>The Ethan I Was Before</title>
+<title_without_series>The Ethan I Was Before</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25337548-the-ethan-i-was-before]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467148345l/25337548._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467148345l/25337548._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>45074389</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>13810480</id>
+<name>Ali Standish</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13810480.Ali_Standish]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31448946</id>
+<title>Clayton Byrd Goes Underground</title>
+<title_without_series>Clayton Byrd Goes Underground</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31448946-clayton-byrd-goes-underground]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486803166l/31448946._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486803166l/31448946._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>52151767</id>
+</work>
+<isbn>0062215949</isbn>
+<isbn13>9780062215949</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>123330</id>
+<name>Rita Williams-Garcia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/123330.Rita_Williams_Garcia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23529761</id>
+<title>The Safest Lie</title>
+<title_without_series>The Safest Lie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23529761-the-safest-lie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431108479l/23529761._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431108479l/23529761._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>43132314</id>
+</work>
+<isbn>0823433102</isbn>
+<isbn13>9780823433100</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4381371</id>
+<name>Angela Cerrito</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4381371.Angela_Cerrito]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25797017</id>
+<title><![CDATA[Playing Atari with Saddam Hussein]]></title>
+<title_without_series><![CDATA[Playing Atari with Saddam Hussein]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25797017-playing-atari-with-saddam-hussein]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492657439l/25797017._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492657439l/25797017._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>45649532</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>127176</id>
+<name>Jennifer Roy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127176.Jennifer_Roy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29847473</id>
+<title>Scar Island</title>
+<title_without_series>Scar Island</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29847473-scar-island]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464971051l/29847473._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464971051l/29847473._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>50207824</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7544723</id>
+<name>Dan Gemeinhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7544723.Dan_Gemeinhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30653839</id>
+<title>Chester and Gus</title>
+<title_without_series>Chester and Gus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30653839-chester-and-gus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478308725l/30653839._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478308725l/30653839._SX98_.jpg]]></image_url>
+<num_pages>249</num_pages>
+<work>
+<id>51198828</id>
+</work>
+<isbn>0062330683</isbn>
+<isbn13>9780062330680</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>36320</id>
+<name>Cammie McGovern</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36320.Cammie_McGovern]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31146810</id>
+<title>Ashes to Asheville</title>
+<title_without_series>Ashes to Asheville</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31146810-ashes-to-asheville]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471278223l/31146810._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471278223l/31146810._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>51776882</id>
+</work>
+<isbn>0399165045</isbn>
+<isbn13>9780399165047</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>3379106</id>
+<name>Sarah Dooley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3379106.Sarah_Dooley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25064686</id>
+<title>Star Scouts</title>
+<title_without_series>Star Scouts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25064686-star-scouts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483396439l/25064686._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483396439l/25064686._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>44748666</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>8395149</id>
+<name>Mike      Lawrence</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8395149.Mike_Lawrence]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30037874</id>
+<title>Train I Ride</title>
+<title_without_series>Train I Ride</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30037874-train-i-ride]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469031710l/30037874._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469031710l/30037874._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>50441866</id>
+</work>
+<isbn>0062455737</isbn>
+<isbn13>9780062455734</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7399794</id>
+<name>Paul   Mosier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7399794.Paul_Mosier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33986447</id>
+<title><![CDATA[Insignificant Events in the Life of a Cactus]]></title>
+<title_without_series><![CDATA[Insignificant Events in the Life of a Cactus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33986447-insignificant-events-in-the-life-of-a-cactus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520002885l/33986447._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520002885l/33986447._SX98_.jpg]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>54980101</id>
+</work>
+<isbn>1454923458</isbn>
+<isbn13>9781454923459</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5346515</id>
+<name>Dusti Bowling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5346515.Dusti_Bowling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30312547</id>
+<title>Amina&apos;s Voice</title>
+<title_without_series>Amina&apos;s Voice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30312547-amina-s-voice]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478818044l/30312547._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478818044l/30312547._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>50799344</id>
+</work>
+<isbn>1481492063</isbn>
+<isbn13>9781481492065</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>170644</id>
+<name>Hena Khan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170644.Hena_Khan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28114583</id>
+<title><![CDATA[Midnight Without a Moon (Rose Lee Carter #1)]]></title>
+<title_without_series>Midnight Without a Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28114583-midnight-without-a-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454608210l/28114583._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454608210l/28114583._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>48123874</id>
+</work>
+<isbn>054478510X</isbn>
+<isbn13>9780544785106</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>14987480</id>
+<name>Linda Williams Jackson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14987480.Linda_Williams_Jackson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25150366</id>
+<title>Stef Soto, Taco Queen</title>
+<title_without_series>Stef Soto, Taco Queen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25150366-stef-soto-taco-queen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459440226l/25150366._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459440226l/25150366._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>44851381</id>
+</work>
+<isbn>031630686X</isbn>
+<isbn13>9780316306867</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>15643675</id>
+<name>Jennifer    Torres</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15643675.Jennifer_Torres]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32623542</id>
+<title>Beyond the Bright Sea</title>
+<title_without_series>Beyond the Bright Sea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32623542-beyond-the-bright-sea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483641021l/32623542._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483641021l/32623542._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>53212454</id>
+</work>
+<isbn>1101994851</isbn>
+<isbn13>9781101994856</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>552351</id>
+<name>Lauren Wolk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/552351.Lauren_Wolk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25753099</id>
+<title>Me and Marvin Gardens</title>
+<title_without_series>Me and Marvin Gardens</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25753099-me-and-marvin-gardens]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468554741l/25753099._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468554741l/25753099._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>45595993</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1690</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>1651879</id>
+<name>A.S. King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1651879.A_S_King]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

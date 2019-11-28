@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17269361</id>
+  <title><![CDATA[Knock Knock: My Dad's Dream for Me]]></title>
+  <isbn><![CDATA[0316209171]]></isbn>
+  <isbn13><![CDATA[9780316209175]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369817794l/17269361._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369817794l/17269361._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Every morning, I play a game with my father.</i><br /><i>He goes knock knock on my door and I pretend to be asleep till he gets right next to the bed.</i><br /><i>And my papa, he tells me, "I love you."</i><br /><br />But what happens when, one day, that "knock knock" doesn't come? This powerful and inspiring book shows the love that an absent parent can leave behind, and the strength that children find in themselves as they grow up and follow their dreams.]]></description>
+  <work>
+  <id type="integer">23881593</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">17269361</best_book_id>
+  <reviews_count type="integer">3460</reviews_count>
+  <ratings_sum type="integer">7449</ratings_sum>
+  <ratings_count type="integer">1686</ratings_count>
+  <text_reviews_count type="integer">499</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Knock Knock: My Dad's Dream for Me</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:982|4:487|3:169|2:36|1:12|total:1686</rating_dist>
+  <desc_user_id type="integer">-46</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.kHBJaOGnzk3re1JbsqICpw</work_uri>
+</work>
+  <average_rating>4.42</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1681]]></ratings_count>
+  <text_reviews_count><![CDATA[499]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17269361-knock-knock]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17269361-knock-knock]]></link>
+  <authors>
+<author>
+<id>4966235</id>
+<name>Daniel Beaty</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4966235.Daniel_Beaty]]></link>
+<average_rating>4.41</average_rating>
+<ratings_count>1709</ratings_count>
+<text_reviews_count>500</text_reviews_count>
+</author>
+<author>
+<id>437910</id>
+<name>Bryan Collier</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1466776462p5/437910.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1466776462p2/437910.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/437910.Bryan_Collier]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>34631</ratings_count>
+<text_reviews_count>5707</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17269361-knock-knock">Knock Knock Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316209171&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17269361-knock-knock?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1358"/>
+      <shelf name="picture-books" count="272"/>
+      <shelf name="picture-book" count="81"/>
+      <shelf name="realistic-fiction" count="72"/>
+      <shelf name="family" count="57"/>
+      <shelf name="childrens" count="44"/>
+      <shelf name="multicultural" count="35"/>
+      <shelf name="african-american" count="35"/>
+      <shelf name="children-s-books" count="33"/>
+      <shelf name="children" count="28"/>
+      <shelf name="children-s" count="27"/>
+      <shelf name="children-s-literature" count="26"/>
+      <shelf name="diversity" count="21"/>
+      <shelf name="the-coretta-scott-king-book-awards" count="20"/>
+      <shelf name="currently-reading" count="20"/>
+      <shelf name="coretta-scott-king-award" count="19"/>
+      <shelf name="children-s-lit" count="18"/>
+      <shelf name="picturebooks" count="16"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="fathers" count="13"/>
+      <shelf name="read-in-2014" count="12"/>
+      <shelf name="poetry" count="12"/>
+      <shelf name="picture" count="11"/>
+      <shelf name="families" count="11"/>
+      <shelf name="childrens-books" count="10"/>
+      <shelf name="el-230" count="9"/>
+      <shelf name="childrens-lit" count="9"/>
+      <shelf name="kids-books" count="9"/>
+      <shelf name="loss" count="9"/>
+      <shelf name="kids" count="9"/>
+      <shelf name="children-s-picture-books" count="9"/>
+      <shelf name="juvenile" count="9"/>
+      <shelf name="coretta-scott-king" count="8"/>
+      <shelf name="book-selection" count="8"/>
+      <shelf name="exploring-assignment" count="7"/>
+      <shelf name="mc-literature" count="7"/>
+      <shelf name="incarceration" count="7"/>
+      <shelf name="realistic" count="7"/>
+      <shelf name="dads" count="7"/>
+      <shelf name="lae3005" count="6"/>
+      <shelf name="project-1" count="6"/>
+      <shelf name="edu-365" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="parents" count="6"/>
+      <shelf name="award-winners" count="6"/>
+      <shelf name="love" count="6"/>
+      <shelf name="realistic-fiction-5" count="5"/>
+      <shelf name="cont-realistic-fic" count="5"/>
+      <shelf name="childrens-literature" count="5"/>
+      <shelf name="2014-picture-books" count="5"/>
+      <shelf name="growing-up" count="5"/>
+      <shelf name="caldecott" count="5"/>
+      <shelf name="multi-cultural" count="5"/>
+      <shelf name="memoir" count="5"/>
+      <shelf name="social-issues" count="5"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="emergent-picture-books" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="kid-lit" count="4"/>
+      <shelf name="coretta-scott-king-award-winners" count="4"/>
+      <shelf name="pb" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="non-fiction" count="4"/>
+      <shelf name="contemporary" count="4"/>
+      <shelf name="life-lessons" count="4"/>
+      <shelf name="award-winner" count="4"/>
+      <shelf name="father-son" count="4"/>
+      <shelf name="grief" count="4"/>
+      <shelf name="fathers-and-sons" count="4"/>
+      <shelf name="prison" count="4"/>
+      <shelf name="el230" count="3"/>
+      <shelf name="repetition" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="family-structure" count="3"/>
+      <shelf name="classroombookaday" count="3"/>
+      <shelf name="life-stories" count="3"/>
+      <shelf name="picture_books" count="3"/>
+      <shelf name="coretta-scott" count="3"/>
+      <shelf name="11-african-american" count="3"/>
+      <shelf name="classroom-library" count="3"/>
+      <shelf name="lower-elementary" count="3"/>
+      <shelf name="top-20" count="3"/>
+      <shelf name="upper-elementary" count="3"/>
+      <shelf name="children-fiction" count="3"/>
+      <shelf name="t-l-307" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="inspirational" count="3"/>
+      <shelf name="multicultural-text-set" count="3"/>
+      <shelf name="cultural" count="3"/>
+      <shelf name="middle-school" count="3"/>
+      <shelf name="elementary" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="2nd-grade" count="3"/>
+      <shelf name="1st-grade" count="3"/>
+      <shelf name="absent-parent" count="3"/>
+      <shelf name="childrens-picture-books" count="3"/>
+      <shelf name="african-americans" count="3"/>
+      <shelf name="illustrations" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>20821347</id>
+<title>Firebird</title>
+<title_without_series>Firebird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20821347-firebird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398029183l/20821347._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398029183l/20821347._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>40167193</id>
+</work>
+<isbn>0399166157</isbn>
+<isbn13>9780399166150</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7155409</id>
+<name>Misty Copeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7155409.Misty_Copeland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22749711</id>
+<title><![CDATA[Drum Dream Girl: How One Girl's Courage Changed Music]]></title>
+<title_without_series><![CDATA[Drum Dream Girl: How One Girl's Courage Changed Music]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22749711-drum-dream-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407813960l/22749711._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407813960l/22749711._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>42295111</id>
+</work>
+<isbn>0544102290</isbn>
+<isbn13>9780544102293</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>103963</id>
+<name>Margarita Engle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103963.Margarita_Engle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18552623</id>
+<title><![CDATA[Radiant Child: The Story of Young Artist Jean-Michel Basquiat]]></title>
+<title_without_series><![CDATA[Radiant Child: The Story of Young Artist Jean-Michel Basquiat]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18552623-radiant-child]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485976967l/18552623._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485976967l/18552623._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>26280285</id>
+</work>
+<isbn>0316213888</isbn>
+<isbn13>9780316213882</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>158005</id>
+<name>Javaka Steptoe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/158005.Javaka_Steptoe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13588082</id>
+<title>Each Kindness</title>
+<title_without_series>Each Kindness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13588082-each-kindness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361368608l/13588082._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361368608l/13588082._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>19175480</id>
+</work>
+<isbn>0399246525</isbn>
+<isbn13>9780399246524</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39651067</id>
+<title>Dreamers</title>
+<title_without_series>Dreamers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39651067-dreamers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523445744l/39651067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523445744l/39651067._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>61220853</id>
+</work>
+<isbn>0823440559</isbn>
+<isbn13>9780823440559</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24727082</id>
+<title>Mango, Abuela, and Me</title>
+<title_without_series>Mango, Abuela, and Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24727082-mango-abuela-and-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426623207l/24727082._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426623207l/24727082._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>44353565</id>
+</work>
+<isbn>0763669008</isbn>
+<isbn13>9780763669003</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1373005</id>
+<name>Meg Medina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1373005.Meg_Medina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34144489</id>
+<title><![CDATA[Crown: An Ode to the Fresh Cut]]></title>
+<title_without_series><![CDATA[Crown: An Ode to the Fresh Cut]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34144489-crown]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55181311</id>
+</work>
+<isbn>1572842245</isbn>
+<isbn13>9781572842243</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>229556</id>
+<name>Derrick Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229556.Derrick_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23167689</id>
+<title>Trombone Shorty</title>
+<title_without_series>Trombone Shorty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23167689-trombone-shorty]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342547l/23167689._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342547l/23167689._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42713012</id>
+</work>
+<isbn>1419714651</isbn>
+<isbn13>9781419714658</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>8530735</id>
+<name>Troy Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8530735.Troy_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15953630</id>
+<title>Niño Wrestles the World</title>
+<title_without_series>Niño Wrestles the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15953630-ni-o-wrestles-the-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350328128l/15953630._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350328128l/15953630._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21705134</id>
+</work>
+<isbn>1596436042</isbn>
+<isbn13>9781596436046</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36711245</id>
+<title>We Are Grateful: Otsaliheliga</title>
+<title_without_series>We Are Grateful: Otsaliheliga</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36711245-we-are-grateful]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525825917l/36711245._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525825917l/36711245._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>58508012</id>
+</work>
+<isbn>1632896338</isbn>
+<isbn13>9781632896339</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>17385615</id>
+<name>Traci Sorell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17385615.Traci_Sorell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12962487</id>
+<title>I, Too, Am America</title>
+<title_without_series>I, Too, Am America</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12962487-i-too-am-america]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360594739l/12962487._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360594739l/12962487._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18120162</id>
+</work>
+<isbn>1442420081</isbn>
+<isbn13>9781442420083</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>36910</id>
+<name>Langston Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36910.Langston_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506301</id>
+<title>The Day You Begin</title>
+<title_without_series>The Day You Begin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59116604</id>
+</work>
+<isbn>0399246533</isbn>
+<isbn13>9780399246531</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41089856</id>
+<title>My Heart</title>
+<title_without_series>My Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41089856-my-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534149040l/41089856._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534149040l/41089856._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64200718</id>
+</work>
+<isbn>0735227934</isbn>
+<isbn13>9780735227934</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25785760</id>
+<title>Ida, Always</title>
+<title_without_series>Ida, Always</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25785760-ida-always]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45636447</id>
+</work>
+<isbn>1481426400</isbn>
+<isbn13>9781481426404</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>5573824</id>
+<name>Caron Levis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5573824.Caron_Levis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35257592</id>
+<title><![CDATA[When Angels Sing: The Story of Rock Legend Carlos Santana]]></title>
+<title_without_series><![CDATA[When Angels Sing: The Story of Rock Legend Carlos Santana]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35257592-when-angels-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535883124l/35257592._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535883124l/35257592._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>56609581</id>
+</work>
+<isbn>1534404139</isbn>
+<isbn13>9781534404137</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15064866</id>
+<name>Michael James Mahin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15064866.Michael_James_Mahin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35297368</id>
+<title>Mommy&apos;s Khimar</title>
+<title_without_series>Mommy&apos;s Khimar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35297368-mommy-s-khimar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509878603l/35297368._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509878603l/35297368._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56664211</id>
+</work>
+<isbn>1534400591</isbn>
+<isbn13>9781534400597</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>16917882</id>
+<name>Jamilah Thompkins-Bigelow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16917882.Jamilah_Thompkins_Bigelow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34137106</id>
+<title>A Different Pond</title>
+<title_without_series>A Different Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34137106-a-different-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55174398</id>
+</work>
+<isbn>1479597465</isbn>
+<isbn13>9781479597468</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1686</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5042071</id>
+<name>Bao Phi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5042071.Bao_Phi]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

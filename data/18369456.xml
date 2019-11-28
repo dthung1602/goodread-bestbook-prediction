@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18369456</id>
+  <title>Survival Songs</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377296062l/18369456._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377296062l/18369456._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>13</publication_day>
+  <publisher>Where Are You Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["Say girl now and we see ourselves in kitchens. See ourselves in graves. But still we read our horoscopes."<br /><br />Survival Songs is a rerelease of Meggie Royer's first collection of poems, which was a finalist in the GoodReads Choice Awards for the Best Poetry Book of 2013. This edition includes new work, including Royer's most popular poem, "The Morning After I Killed Myself." Royer's debut contains the lonely hunger that exists in the rest of her work and is as powerful as it was when it was first released. <br /><br />Meggie Royer is an artist from the Midwest. She is the founder of literary magazine Persephone’s Daughters and has had poems in Words Dance, The Harpoon Review, and more. In 2013, she won the Scholastic Art &amp; Writing Awards’ gold medal for poetry and the silver medal for her writing portfolio. She was also an Honorable Mention recipient of the 2015 Academy of American Poets Student Poetry Prize.]]></description>
+  <work>
+  <id type="integer">25977958</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">18369456</best_book_id>
+  <reviews_count type="integer">5490</reviews_count>
+  <ratings_sum type="integer">3385</ratings_sum>
+  <ratings_count type="integer">797</ratings_count>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Survival Songs</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:418|4:227|3:101|2:33|1:18|total:797</rating_dist>
+  <desc_user_id type="integer">16766755</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.vLh5h4binuMDbK18SKSQEg</work_uri>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[80]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[749]]></ratings_count>
+  <text_reviews_count><![CDATA[55]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18369456-survival-songs]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18369456-survival-songs]]></link>
+  <authors>
+<author>
+<id>7234401</id>
+<name>Meggie Royer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1377446713p5/7234401.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1377446713p2/7234401.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7234401.Meggie_Royer]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>1351</ratings_count>
+<text_reviews_count>109</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18369456-survival-songs">Survival Songs Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18369456-survival-songs?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4604"/>
+      <shelf name="poetry" count="222"/>
+      <shelf name="favorites" count="19"/>
+      <shelf name="currently-reading" count="18"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="mental-illness" count="6"/>
+      <shelf name="mental-health" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="poetry-to-read" count="4"/>
+      <shelf name="poetry-prose" count="3"/>
+      <shelf name="female-authors" count="3"/>
+      <shelf name="books-to-buy" count="3"/>
+      <shelf name="non-fiction" count="3"/>
+      <shelf name="poetry-and-prose" count="3"/>
+      <shelf name="to-read-poetry" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="nonfiction" count="3"/>
+      <shelf name="want-to-buy" count="2"/>
+      <shelf name="poems" count="2"/>
+      <shelf name="poetry-tbr" count="2"/>
+      <shelf name="moi" count="2"/>
+      <shelf name="read-in-2014" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="i-own" count="2"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="considering-to-read" count="1"/>
+      <shelf name="2016-reading-list" count="1"/>
+      <shelf name="fiction" count="1"/>
+      <shelf name="authors-of-colour" count="1"/>
+      <shelf name="2019-books-i-ve-read" count="1"/>
+      <shelf name="gca2013" count="1"/>
+      <shelf name="good-reviews" count="1"/>
+      <shelf name="fiction-poetry" count="1"/>
+      <shelf name="pub-2013" count="1"/>
+      <shelf name="zp-2013-p" count="1"/>
+      <shelf name="unavailable-like-everywhere" count="1"/>
+      <shelf name="ya" count="1"/>
+      <shelf name="unsorted" count="1"/>
+      <shelf name="want-to-purchase" count="1"/>
+      <shelf name="recommended" count="1"/>
+      <shelf name="not-at-library" count="1"/>
+      <shelf name="indie-publishers" count="1"/>
+      <shelf name="zformat-print" count="1"/>
+      <shelf name="fiction-read" count="1"/>
+      <shelf name="to-buy-soon" count="1"/>
+      <shelf name="zz-self-published" count="1"/>
+      <shelf name="disability-and-illness" count="1"/>
+      <shelf name="zph-y-p" count="1"/>
+      <shelf name="wtr" count="1"/>
+      <shelf name="my-library" count="1"/>
+      <shelf name="not-yet-mine" count="1"/>
+      <shelf name="college-and-after" count="1"/>
+      <shelf name="books-similar-to-mine" count="1"/>
+      <shelf name="can-t-find" count="1"/>
+      <shelf name="tbr-need-to-buy" count="1"/>
+      <shelf name="digtsamlinger" count="1"/>
+      <shelf name="2018-tbr" count="1"/>
+      <shelf name="finished-books" count="1"/>
+      <shelf name="read-in-2018" count="1"/>
+      <shelf name="psychology" count="1"/>
+      <shelf name="under-100-pages" count="1"/>
+      <shelf name="poetry-etc" count="1"/>
+      <shelf name="to-read-lit" count="1"/>
+      <shelf name="new-poetry" count="1"/>
+      <shelf name="interesting-books" count="1"/>
+      <shelf name="unread-books" count="1"/>
+      <shelf name="mental-health-mental-illness" count="1"/>
+      <shelf name="tbr-poetry" count="1"/>
+      <shelf name="american" count="1"/>
+      <shelf name="self-book" count="1"/>
+      <shelf name="feel-something" count="1"/>
+      <shelf name="z-cw-mental-health" count="1"/>
+      <shelf name="poetry_prose" count="1"/>
+      <shelf name="must_read" count="1"/>
+      <shelf name="a-tumblr-poet-author" count="1"/>
+      <shelf name="ya-contemporary" count="1"/>
+      <shelf name="to-read-ebook" count="1"/>
+      <shelf name="read-2013-and-before-gr" count="1"/>
+      <shelf name="poetry-verse" count="1"/>
+      <shelf name="poetry-essays" count="1"/>
+      <shelf name="poems2read" count="1"/>
+      <shelf name="eager-to-buy-borrow" count="1"/>
+      <shelf name="choice-awards-13" count="1"/>
+      <shelf name="not-nypl" count="1"/>
+      <shelf name="summer-reading" count="1"/>
+      <shelf name="to-read-english" count="1"/>
+      <shelf name="poetry-2-read" count="1"/>
+      <shelf name="books-owned-and-read" count="1"/>
+      <shelf name="unhauled-read" count="1"/>
+      <shelf name="writings-poetry-essays" count="1"/>
+      <shelf name="collections" count="1"/>
+      <shelf name="poetry-books" count="1"/>
+      <shelf name="buyme" count="1"/>
+      <shelf name="prose-and-poetry" count="1"/>
+      <shelf name="novels-to-read" count="1"/>
+      <shelf name="to-read-list-takedown" count="1"/>
+      <shelf name="read-in-my-24th-year" count="1"/>
+      <shelf name="read-in-2016" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17159513</id>
+<title><![CDATA[I Will Never Be Beautiful Enough to Make Us Beautiful Together]]></title>
+<title_without_series><![CDATA[I Will Never Be Beautiful Enough to Make Us Beautiful Together]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17159513-i-will-never-be-beautiful-enough-to-make-us-beautiful-together]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358313208l/17159513._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358313208l/17159513._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>23583607</id>
+</work>
+<isbn>0988839407</isbn>
+<isbn13>9780988839403</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6575300</id>
+<name>Mira González</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6575300.Mira_Gonz_lez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17729031</id>
+<title>The Anatomy of Being</title>
+<title_without_series>The Anatomy of Being</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17729031-the-anatomy-of-being]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365016469l/17729031._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365016469l/17729031._SX98_.jpg]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>24800666</id>
+</work>
+<isbn>1300631759</isbn>
+<isbn13>9781300631750</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6567403</id>
+<name>Shinji Moon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6567403.Shinji_Moon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18288210</id>
+<title>No Matter the Wreckage</title>
+<title_without_series>No Matter the Wreckage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18288210-no-matter-the-wreckage]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>143</num_pages>
+<work>
+<id>25768313</id>
+</work>
+<isbn>1938912489</isbn>
+<isbn13>9781938912481</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>11377</id>
+<name>Sarah Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11377.Sarah_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18003300</id>
+<title>Love &amp; Misadventure</title>
+<title_without_series>Love &amp; Misadventure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18003300-love-misadventure]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>25266150</id>
+</work>
+<isbn>0473235501</isbn>
+<isbn13>9780473235505</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>96259</id>
+<title>Crush</title>
+<title_without_series>Crush</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/96259.Crush]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422764050l/96259._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422764050l/96259._SX98_.jpg]]></image_url>
+<num_pages>62</num_pages>
+<work>
+<id>92779</id>
+</work>
+<isbn>0300107897</isbn>
+<isbn13>9780300107890</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>55349</id>
+<name>Richard Siken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55349.Richard_Siken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46281490</id>
+<title>Nejma</title>
+<title_without_series>Nejma</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46281490-nejma]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458937l/46281490._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458937l/46281490._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>41971787</id>
+</work>
+<isbn>1494493322</isbn>
+<isbn13>9781494493325</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7145613</id>
+<name>Nayyirah Waheed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7145613.Nayyirah_Waheed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12193298</id>
+<title>The Madness Vase</title>
+<title_without_series>The Madness Vase</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12193298-the-madness-vase]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335167331l/12193298._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335167331l/12193298._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>17165659</id>
+</work>
+<isbn>193590437X</isbn>
+<isbn13>9781935904373</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>457281</id>
+<name>Andrea Gibson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457281.Andrea_Gibson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35084223</id>
+<title>Bone</title>
+<title_without_series>Bone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35084223-bone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494857481l/35084223._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494857481l/35084223._SX98_.jpg]]></image_url>
+<num_pages>138</num_pages>
+<work>
+<id>42059068</id>
+</work>
+<isbn>014313261X</isbn>
+<isbn13>9780143132615</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6994016</id>
+<name>Yrsa Daley-Ward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6994016.Yrsa_Daley_Ward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23522212</id>
+<title>Mouthful of Forevers</title>
+<title_without_series>Mouthful of Forevers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23522212-mouthful-of-forevers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418614931l/23522212._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418614931l/23522212._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>43125314</id>
+</work>
+<isbn>1449470793</isbn>
+<isbn13>9781449470791</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7049028</id>
+<name>Clementine von Radics</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7049028.Clementine_von_Radics]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46281488</id>
+<title>Salt</title>
+<title_without_series>Salt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46281488-salt]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458908l/46281488._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458908l/46281488._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26323439</id>
+</work>
+<isbn>1492238287</isbn>
+<isbn13>9781492238287</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7145613</id>
+<name>Nayyirah Waheed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7145613.Nayyirah_Waheed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>289631</id>
+<title>Late Wife</title>
+<title_without_series>Late Wife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/289631.Late_Wife]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>54</num_pages>
+<work>
+<id>960408</id>
+</work>
+<isbn>0807130842</isbn>
+<isbn13>9780807130841</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>167809</id>
+<name>Claudia Emerson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/167809.Claudia_Emerson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23627418</id>
+<title>Dirty Pretty Things</title>
+<title_without_series>Dirty Pretty Things</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23627418-dirty-pretty-things]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417162557l/23627418._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417162557l/23627418._SX98_.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>43232745</id>
+</work>
+<isbn>047329950X</isbn>
+<isbn13>9780473299507</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>8248926</id>
+<name>Michael Faudet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8248926.Michael_Faudet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41219132</id>
+<title>Love Looks Pretty on You</title>
+<title_without_series>Love Looks Pretty on You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41219132-love-looks-pretty-on-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548799473l/41219132._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548799473l/41219132._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>64422394</id>
+</work>
+<isbn>144949935X</isbn>
+<isbn13>9781449499358</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9279177</id>
+<title>The Lover&apos;s Dictionary</title>
+<title_without_series>The Lover&apos;s Dictionary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9279177-the-lover-s-dictionary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312055996l/9279177._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312055996l/9279177._SX98_.jpg]]></image_url>
+<num_pages>211</num_pages>
+<work>
+<id>12922551</id>
+</work>
+<isbn>0374193681</isbn>
+<isbn13>9780374193683</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>11664</id>
+<name>David Levithan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11664.David_Levithan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34253376</id>
+<title><![CDATA[Wild Embers: Poems of Rebellion, Fire and Beauty]]></title>
+<title_without_series><![CDATA[Wild Embers: Poems of Rebellion, Fire and Beauty]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34253376-wild-embers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500579644l/34253376._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500579644l/34253376._SX98_.jpg]]></image_url>
+<num_pages>150</num_pages>
+<work>
+<id>55313483</id>
+</work>
+<isbn>1409173925</isbn>
+<isbn13>9781409173922</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>7757886</id>
+<name>Nikita Gill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7757886.Nikita_Gill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30075802</id>
+<title><![CDATA[The Princess Saves Herself in This One (Women Are Some Kind of Magic, #1)]]></title>
+<title_without_series><![CDATA[The Princess Saves Herself in This One]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30075802-the-princess-saves-herself-in-this-one]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462211636l/30075802._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462211636l/30075802._SX98_.jpg]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>50494177</id>
+</work>
+<isbn>1532913680</isbn>
+<isbn13>9781532913686</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>15225448</id>
+<name>Amanda Lovelace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15225448.Amanda_Lovelace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13123245</id>
+<title>B</title>
+<title_without_series>B</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13123245-b]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327437821l/13123245._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327437821l/13123245._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>18298894</id>
+</work>
+<isbn>1612182798</isbn>
+<isbn13>9781612182797</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>11377</id>
+<name>Sarah Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11377.Sarah_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20821097</id>
+<title><![CDATA[Chasers of the Light: Poems from the Typewriter Series]]></title>
+<title_without_series><![CDATA[Chasers of the Light: Poems from the Typewriter Series]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20821097-chasers-of-the-light]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025020l/20821097._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025020l/20821097._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>40166990</id>
+</work>
+<isbn>0399169733</isbn>
+<isbn13>9780399169731</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7075956</id>
+<name>Tyler Knott Gregson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7075956.Tyler_Knott_Gregson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

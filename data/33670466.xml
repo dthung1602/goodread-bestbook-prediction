@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>33670466</id>
+  <title><![CDATA[Paperbacks From Hell: The Twisted History of '70s and '80s Horror Fiction]]></title>
+  <isbn><![CDATA[1594749817]]></isbn>
+  <isbn13><![CDATA[9781594749810]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504436657l/33670466._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504436657l/33670466._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>19</publication_day>
+  <publisher>Quirk Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Written in dead letters... and covered in blood!<br /><br />Demonic possession! Haunted condominiums! Murderous babies! Man-eating moths! No plot was too ludicrous, no cover art too appalling, no evil too despicable for the <i>Paperbacks From Hell</i>.<br /><br />Where did they come from? Where did they go? Horror author Grady Hendrix risks his soul and sanity (not to mention yours) to relate the true, untold story of the <i>Paperbacks From Hell</i>.<br /><br />Shocking story summaries! Incredible cover art! And true tales of writers, artists, and publishers who violated every literary law but one: never be boring. All this awaits, if you dare experience the <i>Paperbacks From Hell</i>.]]></description>
+  <work>
+  <id type="integer">54542087</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">33670466</best_book_id>
+  <reviews_count type="integer">15403</reviews_count>
+  <ratings_sum type="integer">15549</ratings_sum>
+  <ratings_count type="integer">3582</ratings_count>
+  <text_reviews_count type="integer">792</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <original_title>Paperbacks from Hell: The Twisted History of '70s and '80s Horror Fiction</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1857|4:1239|3:382|2:58|1:46|total:3582</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.O6zOuhkMYC_wtLvxS66j9A</work_uri>
+</work>
+  <average_rating>4.34</average_rating>
+  <num_pages><![CDATA[254]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[1st Edition]]></edition_information>
+  <ratings_count><![CDATA[3247]]></ratings_count>
+  <text_reviews_count><![CDATA[719]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/33670466-paperbacks-from-hell]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/33670466-paperbacks-from-hell]]></link>
+  <authors>
+<author>
+<id>4826394</id>
+<name>Grady Hendrix</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542284521p5/4826394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542284521p2/4826394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4826394.Grady_Hendrix]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>50485</ratings_count>
+<text_reviews_count>9697</text_reviews_count>
+</author>
+<author>
+<id>17374495</id>
+<name>Will Errickson</name>
+<role>Afterword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1574530920p5/17374495.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1574530920p2/17374495.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17374495.Will_Errickson]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>3495</ratings_count>
+<text_reviews_count>781</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/33670466-paperbacks-from-hell">Paperbacks From Hell Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594749817&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/33670466-paperbacks-from-hell?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10733"/>
+      <shelf name="currently-reading" count="500"/>
+      <shelf name="horror" count="444"/>
+      <shelf name="non-fiction" count="349"/>
+      <shelf name="nonfiction" count="221"/>
+      <shelf name="history" count="87"/>
+      <shelf name="books-about-books" count="68"/>
+      <shelf name="favorites" count="46"/>
+      <shelf name="art" count="45"/>
+      <shelf name="books-i-own" count="25"/>
+      <shelf name="owned" count="21"/>
+      <shelf name="kindle" count="20"/>
+      <shelf name="pop-culture" count="20"/>
+      <shelf name="reference" count="20"/>
+      <shelf name="to-buy" count="18"/>
+      <shelf name="read-in-2017" count="15"/>
+      <shelf name="humor" count="15"/>
+      <shelf name="literary-criticism" count="15"/>
+      <shelf name="library" count="12"/>
+      <shelf name="books" count="11"/>
+      <shelf name="halloween" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="writing" count="10"/>
+      <shelf name="fiction" count="10"/>
+      <shelf name="read-in-2019" count="9"/>
+      <shelf name="read-2018" count="9"/>
+      <shelf name="read-in-2018" count="9"/>
+      <shelf name="books-on-books" count="9"/>
+      <shelf name="nonfic" count="9"/>
+      <shelf name="2018-reads" count="8"/>
+      <shelf name="2018-read" count="8"/>
+      <shelf name="ebook" count="8"/>
+      <shelf name="non-fic" count="8"/>
+      <shelf name="paperbacks-from-hell" count="7"/>
+      <shelf name="spooky" count="7"/>
+      <shelf name="historical" count="7"/>
+      <shelf name="horror-thriller" count="7"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="literature" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="tbr" count="6"/>
+      <shelf name="want-to-buy" count="6"/>
+      <shelf name="criticism" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="to-read-nonfiction" count="6"/>
+      <shelf name="arc" count="6"/>
+      <shelf name="netgalley" count="6"/>
+      <shelf name="read-2019" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="giveaways" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="cultural-studies" count="5"/>
+      <shelf name="2010s" count="5"/>
+      <shelf name="2017-reads" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="media" count="5"/>
+      <shelf name="first-reads" count="5"/>
+      <shelf name="nonfiction-to-read" count="5"/>
+      <shelf name="purchased" count="4"/>
+      <shelf name="1980s" count="4"/>
+      <shelf name="paranormal" count="4"/>
+      <shelf name="best-of-2017" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="literary-history" count="4"/>
+      <shelf name="publishing" count="4"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="shelved" count="4"/>
+      <shelf name="non-fiction-to-read" count="4"/>
+      <shelf name="literary-studies" count="4"/>
+      <shelf name="other" count="4"/>
+      <shelf name="anthology" count="4"/>
+      <shelf name="adult-nonfiction" count="4"/>
+      <shelf name="sociology" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="supernatural" count="3"/>
+      <shelf name="2019-books" count="3"/>
+      <shelf name="2019-reading-challenge" count="3"/>
+      <shelf name="creepy" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="audio" count="3"/>
+      <shelf name="1970s" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="misc" count="3"/>
+      <shelf name="my-ebooks" count="3"/>
+      <shelf name="owned-unread" count="3"/>
+      <shelf name="on-hold" count="3"/>
+      <shelf name="speculative-fiction" count="3"/>
+      <shelf name="culture" count="3"/>
+      <shelf name="humour" count="3"/>
+      <shelf name="americana" count="3"/>
+      <shelf name="cultural" count="3"/>
+      <shelf name="funny" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="mystery-thriller-horror" count="3"/>
+      <shelf name="80s" count="3"/>
+      <shelf name="books-read-in-2017" count="3"/>
+      <shelf name="nf" count="3"/>
+      <shelf name="american" count="3"/>
+      <shelf name="e-book" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>5499702</id>
+<title>The Nest</title>
+<title_without_series>The Nest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5499702-the-nest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225854716l/5499702._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225854716l/5499702._SY160_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>5573750</id>
+</work>
+<isbn>0890836620</isbn>
+<isbn13>9780890836620</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2382918</id>
+<name>Gregory A. Douglas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2382918.Gregory_A_Douglas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>868727</id>
+<title>When Darkness Loves Us</title>
+<title_without_series>When Darkness Loves Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/868727.When_Darkness_Loves_Us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373375529l/868727._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373375529l/868727._SX98_.jpg]]></image_url>
+<num_pages>249</num_pages>
+<work>
+<id>854113</id>
+</work>
+<isbn>0688041752</isbn>
+<isbn13>9780688041755</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15497</id>
+<name>Elizabeth Engstrom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15497.Elizabeth_Engstrom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2327295</id>
+<title>The Tribe</title>
+<title_without_series>The Tribe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2327295.The_Tribe]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344817815l/2327295._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344817815l/2327295._SY160_.jpg]]></image_url>
+<num_pages>339</num_pages>
+<work>
+<id>3004161</id>
+</work>
+<isbn>0451111044</isbn>
+<isbn13>9780451111043</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>473097</id>
+<name>Bari Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/473097.Bari_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2784797</id>
+<title>The Reaping</title>
+<title_without_series>The Reaping</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2784797-the-reaping]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265745563l/2784797._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265745563l/2784797._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2810559</id>
+</work>
+<isbn>084393283X</isbn>
+<isbn13>9780843932836</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>233667</id>
+<name>Bernard Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233667.Bernard_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2082154</id>
+<title><![CDATA[The Happy Man: A Tale of Horror]]></title>
+<title_without_series><![CDATA[The Happy Man: A Tale of Horror]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2082154.The_Happy_Man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468062137l/2082154._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468062137l/2082154._SX98_.jpg]]></image_url>
+<num_pages>166</num_pages>
+<work>
+<id>2087432</id>
+</work>
+<isbn>0312361858</isbn>
+<isbn13>9780312361853</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>944881</id>
+<name>Eric C. Higgs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/944881.Eric_C_Higgs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3857188</id>
+<title>The Spirit</title>
+<title_without_series>The Spirit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3857188-the-spirit]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3902292</id>
+</work>
+<isbn>0892560320</isbn>
+<isbn13>9780892560325</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14735050</id>
+<name>Thomas  Page</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14735050.Thomas_Page]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>923832</id>
+<title>The Auctioneer</title>
+<title_without_series>The Auctioneer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/923832.The_Auctioneer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367339675l/923832._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367339675l/923832._SX98_.jpg]]></image_url>
+<num_pages>260</num_pages>
+<work>
+<id>908849</id>
+</work>
+<isbn>1933618191</isbn>
+<isbn13>9781933618197</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>471520</id>
+<name>Joan Samson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/471520.Joan_Samson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>868730</id>
+<title>Black Ambrosia</title>
+<title_without_series>Black Ambrosia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/868730.Black_Ambrosia]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458593343l/868730._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458593343l/868730._SY160_.jpg]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>854116</id>
+</work>
+<isbn>0812517512</isbn>
+<isbn13>9780812517514</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15497</id>
+<name>Elizabeth Engstrom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15497.Elizabeth_Engstrom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>481428</id>
+<title>Pin</title>
+<title_without_series>Pin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/481428.Pin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>469796</id>
+</work>
+<isbn>0671415018</isbn>
+<isbn13>9780671415013</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>145370</id>
+<name>Andrew Neiderman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/145370.Andrew_Neiderman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2013314</id>
+<title>Toy Cemetery</title>
+<title_without_series>Toy Cemetery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2013314.Toy_Cemetery]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264131280l/2013314._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264131280l/2013314._SY160_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2017540</id>
+</work>
+<isbn>082172228X</isbn>
+<isbn13>9780821722282</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>20852</id>
+<name>William W. Johnstone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20852.William_W_Johnstone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44326161</id>
+<title><![CDATA[Monster, She Wrote: The Women Who Pioneered Horror and Speculative Fiction]]></title>
+<title_without_series><![CDATA[Monster, She Wrote: The Women Who Pioneered Horror and Speculative Fiction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44326161-monster-she-wrote]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68879371</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7092185</id>
+<name>Lisa Kröger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7092185.Lisa_Kr_ger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41212413</id>
+<title><![CDATA[Growing Things and Other Stories]]></title>
+<title_without_series><![CDATA[Growing Things and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41212413-growing-things-and-other-stories]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556906952l/41212413._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556906952l/41212413._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>64888211</id>
+</work>
+<isbn>0062679147</isbn>
+<isbn13>9780062679147</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>648612</id>
+<name>Paul Tremblay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/648612.Paul_Tremblay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>471412</id>
+<title>Elizabeth</title>
+<title_without_series>Elizabeth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/471412.Elizabeth]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561263049l/471412._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561263049l/471412._SY160_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>459708</id>
+</work>
+<isbn>1557850011</isbn>
+<isbn13>9781557850010</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>263950</id>
+<name>Jessica Hamilton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/263950.Jessica_Hamilton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43593384</id>
+<title><![CDATA[The Collected Pulp Horror: Volume One]]></title>
+<title_without_series><![CDATA[The Collected Pulp Horror: Volume One]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43593384-the-collected-pulp-horror]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67823739</id>
+</work>
+<isbn>1793987548</isbn>
+<isbn13>9781793987549</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15556532</id>
+<name>Justin Marriott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15556532.Justin_Marriott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>242692</id>
+<title>Maynard&apos;s House</title>
+<title_without_series>Maynard&apos;s House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/242692.Maynard_s_House]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334458580l/242692._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334458580l/242692._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>235118</id>
+</work>
+<isbn>0425050793</isbn>
+<isbn13>9780425050798</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>141972</id>
+<name>Herman Raucher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/141972.Herman_Raucher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32566170</id>
+<title><![CDATA[Are You in the House Alone?: A TV Movie Compendium 1964-1999]]></title>
+<title_without_series><![CDATA[Are You in the House Alone?: A TV Movie Compendium 1964-1999]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32566170-are-you-in-the-house-alone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499926071l/32566170._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499926071l/32566170._SX98_.jpg]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>53138737</id>
+</work>
+<isbn>1909394440</isbn>
+<isbn13>9781909394445</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13502187</id>
+<name>Amanda Reyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13502187.Amanda_Reyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22609349</id>
+<title><![CDATA[The Horror of It All: One Moviegoer's Love Affair with Masked Maniacs, Frightened Virgins, and the Living Dead...]]></title>
+<title_without_series><![CDATA[The Horror of It All: One Moviegoer's Love Affair with Masked Maniacs, Frightened Virgins, and the Living Dead...]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22609349-the-horror-of-it-all]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425611156l/22609349._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425611156l/22609349._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>42099352</id>
+</work>
+<isbn>1476761833</isbn>
+<isbn13>9781476761831</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>11279</id>
+<name>Adam Rockoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11279.Adam_Rockoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40093255</id>
+<title><![CDATA[Paperback Crush: The Totally Radical History of '80s and '90s Teen Fiction]]></title>
+<title_without_series><![CDATA[Paperback Crush: The Totally Radical History of '80s and '90s Teen Fiction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40093255-paperback-crush]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528396262l/40093255._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528396262l/40093255._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>62141050</id>
+</work>
+<isbn>1683690788</isbn>
+<isbn13>9781683690788</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>15343150</id>
+<name>Gabrielle Moss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15343150.Gabrielle_Moss]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

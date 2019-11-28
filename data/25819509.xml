@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25819509</id>
+  <title><![CDATA[Leonard: My Fifty-Year Friendship with a Remarkable Man]]></title>
+  <isbn><![CDATA[1250083311]]></isbn>
+  <isbn13><![CDATA[9781250083319]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449593516l/25819509._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449593516l/25819509._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>16</publication_day>
+  <publisher>Thomas Dunne Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Leonard Nimoy and William Shatner first crossed paths as actors on the set of <i>The Man</i> <i>from U.N.C.L.E.</i> Little did they know that their next roles, in a new science-fiction television series, would shape their lives in ways no one could have anticipated. In seventy-nine television episodes and six feature films, they grew to know each other more than most friends could ever imagine.<br /><br />Over the course of half a century, Shatner and Nimoy saw each other through personal and professional highs and lows. In this powerfully emotional book, Shatner tells the story of a man who was his friend for five decades, recounting anecdotes and untold stories of their lives on and off set, as well as gathering stories from others who knew Nimoy well, to present a full picture of a rich life.<br /><br />As much a biography of Nimoy as a story of their friendship, <i>Leonard</i> is a uniquely heartfelt book written by one legendary actor in celebration of another.]]></description>
+  <work>
+  <id type="integer">45676288</id>
+  <books_count type="integer">19</books_count>
+  <best_book_id type="integer">25819509</best_book_id>
+  <reviews_count type="integer">26301</reviews_count>
+  <ratings_sum type="integer">17642</ratings_sum>
+  <ratings_count type="integer">4659</ratings_count>
+  <text_reviews_count type="integer">845</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title>Leonard: My Fifty-Year Friendship with a Remarkable Man</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1114|4:1887|3:1322|2:222|1:114|total:4659</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.KNkYJQ2F1JXRc3Rw0doOBg</work_uri>
+</work>
+  <average_rating>3.79</average_rating>
+  <num_pages><![CDATA[278]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3763]]></ratings_count>
+  <text_reviews_count><![CDATA[692]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25819509-leonard]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25819509-leonard]]></link>
+  <authors>
+<author>
+<id>43972</id>
+<name>William Shatner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188355922p5/43972.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188355922p2/43972.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/43972.William_Shatner]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>31201</ratings_count>
+<text_reviews_count>3094</text_reviews_count>
+</author>
+<author>
+<id>4665656</id>
+<name>David   Fisher</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487784173p5/4665656.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487784173p2/4665656.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4665656.David_Fisher]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>24557</ratings_count>
+<text_reviews_count>3428</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25819509-leonard">Leonard Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250083311&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25819509-leonard?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="17654"/>
+      <shelf name="currently-reading" count="355"/>
+      <shelf name="biography" count="288"/>
+      <shelf name="non-fiction" count="286"/>
+      <shelf name="nonfiction" count="98"/>
+      <shelf name="memoir" count="58"/>
+      <shelf name="biographies" count="51"/>
+      <shelf name="audiobooks" count="46"/>
+      <shelf name="star-trek" count="42"/>
+      <shelf name="audiobook" count="42"/>
+      <shelf name="audio" count="35"/>
+      <shelf name="library" count="32"/>
+      <shelf name="owned" count="31"/>
+      <shelf name="memoirs" count="27"/>
+      <shelf name="biography-memoir" count="24"/>
+      <shelf name="biography-autobiography" count="18"/>
+      <shelf name="to-buy" count="16"/>
+      <shelf name="audio-books" count="15"/>
+      <shelf name="biographies-memoirs" count="15"/>
+      <shelf name="audio-book" count="14"/>
+      <shelf name="read-2017" count="13"/>
+      <shelf name="audible" count="11"/>
+      <shelf name="autobiography" count="11"/>
+      <shelf name="books-i-own" count="11"/>
+      <shelf name="bio" count="10"/>
+      <shelf name="history" count="10"/>
+      <shelf name="read-2016" count="10"/>
+      <shelf name="to-read-nonfiction" count="10"/>
+      <shelf name="read-in-2017" count="9"/>
+      <shelf name="read-in-2016" count="9"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="biographical" count="9"/>
+      <shelf name="favorites" count="9"/>
+      <shelf name="bios" count="8"/>
+      <shelf name="william-shatner" count="8"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="memoir-biography" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="biography-memoirs" count="7"/>
+      <shelf name="2017-reads" count="6"/>
+      <shelf name="science-fiction" count="6"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="ebook" count="6"/>
+      <shelf name="art" count="6"/>
+      <shelf name="2017-reading-challenge" count="5"/>
+      <shelf name="listened-to" count="5"/>
+      <shelf name="history-biography" count="5"/>
+      <shelf name="goodreads-choice-awards-2016" count="5"/>
+      <shelf name="autobiography-memoir" count="5"/>
+      <shelf name="calibre" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="biographies-and-memoirs" count="5"/>
+      <shelf name="movies" count="5"/>
+      <shelf name="misc" count="5"/>
+      <shelf name="sci-fi" count="5"/>
+      <shelf name="acting" count="5"/>
+      <shelf name="leonard-nimoy" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="2019-reading-list" count="4"/>
+      <shelf name="friendship" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="television" count="4"/>
+      <shelf name="memoirs-biographies" count="4"/>
+      <shelf name="non-fiction-to-read" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="people" count="4"/>
+      <shelf name="overdrive" count="4"/>
+      <shelf name="cinema-and-tv" count="4"/>
+      <shelf name="auto-biography" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="2016-reads" count="4"/>
+      <shelf name="autobiography-biography" count="4"/>
+      <shelf name="2016-reading-challenge" count="4"/>
+      <shelf name="entertainment" count="4"/>
+      <shelf name="audio_wanted" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="read-2018" count="3"/>
+      <shelf name="celebrities" count="3"/>
+      <shelf name="2017-books" count="3"/>
+      <shelf name="to-get" count="3"/>
+      <shelf name="kindle-books" count="3"/>
+      <shelf name="other" count="3"/>
+      <shelf name="to-purchase" count="3"/>
+      <shelf name="owned-to-read" count="3"/>
+      <shelf name="on-kindle" count="3"/>
+      <shelf name="fun" count="3"/>
+      <shelf name="interested-in" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="2016-releases" count="3"/>
+      <shelf name="2017-reading-list" count="3"/>
+      <shelf name="goodreads-choice-awards" count="3"/>
+      <shelf name="nonfiction-to-read" count="3"/>
+      <shelf name="biography-and-autobiography" count="3"/>
+      <shelf name="best-books-of-2016" count="3"/>
+      <shelf name="nonfiction-memoir" count="3"/>
+      <shelf name="listened" count="3"/>
+      <shelf name="film" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>77416</id>
+<title>I Am Spock</title>
+<title_without_series>I Am Spock</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77416.I_Am_Spock]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>74803</id>
+</work>
+<isbn>0786861827</isbn>
+<isbn13>9780786861828</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>43887</id>
+<name>Leonard Nimoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43887.Leonard_Nimoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28220993</id>
+<title><![CDATA[The Fifty-Year Mission: The Next 25 Years: From The Next Generation to J. J. Abrams: The Complete, Uncensored, and Unauthorized Oral History of Star Trek]]></title>
+<title_without_series><![CDATA[The Fifty-Year Mission: The Next 25 Years: From The Next Generation to J. J. Abrams: The Complete, Uncensored, and Unauthorized Oral History of Star Trek]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28220993-the-fifty-year-mission]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467578096l/28220993._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467578096l/28220993._SX98_.jpg]]></image_url>
+<num_pages>864</num_pages>
+<work>
+<id>48249602</id>
+</work>
+<isbn>1250089468</isbn>
+<isbn13>9781250089465</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>171930</id>
+<name>Mark A. Altman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/171930.Mark_A_Altman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>634911</id>
+<title>To the Stars</title>
+<title_without_series>To the Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/634911.To_the_Stars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1669220</id>
+</work>
+<isbn>0671890093</isbn>
+<isbn13>9780671890094</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>260482</id>
+<name>George Takei</name>
+<link><![CDATA[https://www.goodreads.com/author/show/260482.George_Takei]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26114151</id>
+<title><![CDATA[The Fifty-Year Mission: The Complete, Uncensored, Unauthorized Oral History of Star Trek-The First 25 Years]]></title>
+<title_without_series><![CDATA[The Fifty-Year Mission: The Complete, Uncensored, Unauthorized Oral History of Star Trek-The First 25 Years]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26114151-the-fifty-year-mission]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456692014l/26114151._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456692014l/26114151._SX98_.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>46061095</id>
+</work>
+<isbn>1250065844</isbn>
+<isbn13>9781250065841</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3388</id>
+<name>Edward Gross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3388.Edward_Gross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24484926</id>
+<title><![CDATA[The Autobiography of James T. Kirk]]></title>
+<title_without_series><![CDATA[The Autobiography of James T. Kirk]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24484926-the-autobiography-of-james-t-kirk]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>44079354</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6165468</id>
+<name>David A. Goodman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6165468.David_A_Goodman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43567971</id>
+<title><![CDATA[Star Trek: Discovery: The Enterprise War]]></title>
+<title_without_series><![CDATA[Star Trek: Discovery: The Enterprise War]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43567971-star-trek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564553303l/43567971._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564553303l/43567971._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67787091</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20028</id>
+<name>John Jackson Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20028.John_Jackson_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27036846</id>
+<title><![CDATA[Hidden Universe Travel Guides: Star Trek: Vulcan]]></title>
+<title_without_series><![CDATA[Hidden Universe Travel Guides: Star Trek: Vulcan]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27036846-hidden-universe-travel-guides]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467551926l/27036846._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467551926l/27036846._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>47078051</id>
+</work>
+<isbn>1608875202</isbn>
+<isbn13>9781608875207</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>56607</id>
+<name>Dayton Ward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/56607.Dayton_Ward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27209477</id>
+<title><![CDATA[The Star Trek Book: Strange New Worlds Boldly Explained]]></title>
+<title_without_series><![CDATA[The Star Trek Book: Strange New Worlds Boldly Explained]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27209477-the-star-trek-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460907980l/27209477._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460907980l/27209477._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>47250958</id>
+</work>
+<isbn>146545098X</isbn>
+<isbn13>9781465450982</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>22625</id>
+<name>Paul Ruditis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22625.Paul_Ruditis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35520947</id>
+<title><![CDATA[The Art of Star Trek: The Kelvin Timeline]]></title>
+<title_without_series><![CDATA[The Art of Star Trek: The Kelvin Timeline]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35520947-the-art-of-star-trek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503603846l/35520947._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503603846l/35520947._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>56936880</id>
+</work>
+<isbn>1785655841</isbn>
+<isbn13>9781785655845</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>848490</id>
+<name>Jeff Bond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/848490.Jeff_Bond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>580882</id>
+<title>I Am Not Spock</title>
+<title_without_series>I Am Not Spock</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/580882.I_Am_Not_Spock]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331448368l/580882._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331448368l/580882._SY160_.jpg]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>1042065</id>
+</work>
+<isbn>0345257197</isbn>
+<isbn13>9780345257192</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>11</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>43887</id>
+<name>Leonard Nimoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43887.Leonard_Nimoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>217541</id>
+<title>Doctor&apos;s Orders</title>
+<title_without_series>Doctor&apos;s Orders</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/217541.Doctor_s_Orders]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>1575981</id>
+</work>
+<isbn>0671661892</isbn>
+<isbn13>9780671661892</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11761</id>
+<name>Diane Duane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11761.Diane_Duane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7976460</id>
+<title>Economics</title>
+<title_without_series>Economics</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7976460-economics]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487298019l/7976460._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487298019l/7976460._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2703106</id>
+</work>
+<isbn>1598031287</isbn>
+<isbn13>9781598031287</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13734507</id>
+<name>Timothy Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13734507.Timothy_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39357090</id>
+<title><![CDATA[Star Trek Shipyards Star Trek Starships: 2151-2293 The Encyclopedia of Starfleet Ships]]></title>
+<title_without_series><![CDATA[Star Trek Shipyards Star Trek Starships: 2151-2293 The Encyclopedia of Starfleet Ships]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39357090-star-trek-shipyards-star-trek-starships]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529071785l/39357090._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529071785l/39357090._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61021464</id>
+</work>
+<isbn>1858755220</isbn>
+<isbn13>9781858755229</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2315498</id>
+<name>Ben Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2315498.Ben_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>511172</id>
+<title><![CDATA[Our First Revolution: The Remarkable British Upheaval That Inspired America's Founding Fathers]]></title>
+<title_without_series><![CDATA[Our First Revolution: The Remarkable British Upheaval That Inspired America's Founding Fathers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/511172.Our_First_Revolution]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1734172</id>
+</work>
+<isbn>1400097924</isbn>
+<isbn13>9781400097920</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>98227</id>
+<name>Michael Barone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/98227.Michael_Barone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1147988</id>
+<title><![CDATA[Prime Directive (Star Trek: Worlds in Collision, #2)]]></title>
+<title_without_series>Prime Directive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1147988.Prime_Directive]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>406</num_pages>
+<work>
+<id>1135450</id>
+</work>
+<isbn>0671744666</isbn>
+<isbn13>9780671744663</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>43973</id>
+<name>Judith Reeves-Stevens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43973.Judith_Reeves_Stevens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22710858</id>
+<title><![CDATA[Twitter for Writers: The Author's Guide to Tweeting Success (Writer's Craft Book 8)]]></title>
+<title_without_series><![CDATA[Twitter for Writers: The Author's Guide to Tweeting Success]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22710858-twitter-for-writers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42235396</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4451266</id>
+<name>Rayne Hall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4451266.Rayne_Hall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23016256</id>
+<title><![CDATA[Treated as Murder (Edith Horton Mysteries, #1)]]></title>
+<title_without_series>Treated as Murder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23016256-treated-as-murder]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526571350l/23016256._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526571350l/23016256._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42481671</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7490135</id>
+<name>Noreen Wainwright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7490135.Noreen_Wainwright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8541587</id>
+<title>Origins of the Human Mind</title>
+<title_without_series>Origins of the Human Mind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8541587-origins-of-the-human-mind]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13409236</id>
+</work>
+<isbn>1598036351</isbn>
+<isbn13>9781598036350</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4659</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4798158</id>
+<name>Stephen P. Hinshaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4798158.Stephen_P_Hinshaw]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

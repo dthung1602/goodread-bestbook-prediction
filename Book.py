@@ -9,14 +9,22 @@ def get_date(node, date_name):
 
 class Book:
     @staticmethod
-    def from_file(xml_file_name):
+    def from_file(xml_file_name, *args, **kwargs):
         with open(xml_file_name, 'r', encoding='utf8') as f:
-            return Book(f.read())
+            return Book(f.read(), *args, **kwargs)
 
     @classmethod
     def write_header_csv(cls, csv_writer):
         csv_writer.writerow(
             [
+                'book_id',
+                'year',
+                'genre',
+                'vote',
+                'rank',
+                'debut',
+                'debut_vote',
+                'debut_rank',
                 'title',
                 'publication_date',
                 'books_count',
@@ -42,7 +50,17 @@ class Book:
 
     shelves_names = []
 
-    def __init__(self, xml_content):
+    def __init__(self, xml_content, book_id, year, genre='', vote=0, rank=0,
+                 debut=0, debut_vote=0, debut_rank=0):
+        self.book_id = book_id
+        self.year = year
+        self.genre = genre
+        self.vote = vote
+        self.rank = rank
+        self.debut = debut
+        self.debut_vote = debut_vote
+        self.debut_rank = debut_rank
+
         root = ET.fromstring(xml_content)
 
         book = root.find('book')
@@ -89,7 +107,11 @@ class Book:
                 Book.shelves_names.append(name)
 
     def write_to_csv(self, csv_writer):
-        data = self.book_data[:]
+        data = [
+            self.book_id, self.year, self.genre, self.vote, self.rank,
+            self.debut, self.debut_vote, self.debut_rank,
+        ]
+        data += self.book_data
         for sh in Book.shelves_names:
             data.append(self.shelves_data.get(sh, 0))
 

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10414941</id>
+  <title><![CDATA[Catherine the Great: Portrait of a Woman]]></title>
+  <isbn><![CDATA[0679456724]]></isbn>
+  <isbn13><![CDATA[9780679456728]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403395276l/10414941._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403395276l/10414941._SY75_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Random House, Inc. (NY)</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Pulitzer Prize winner Massie offers the tale of a princess who went to Russia at 14 and became one of the most powerful women in history. Born into minor German nobility, she transformed herself into an empress by sheer determination. Possessing a brilliant, curious mind, she devoured the works of Enlightenment philosophers, and reaching the throne, tried using their principles to rule the vast, backward empire. She knew or corresponded with notable figures of her time: Voltaire, Diderot, Frederick the Great, Maria Theresa of Austria, Marie Antoinette &amp; John Paul Jones. Wanting to be the “benevolent despot” Montesquieu idealized, she contended with the deeply ingrained realities of Russian life, including serfdom. She persevered, and for 34 years the government, foreign policy, cultural development and welfare of the Russian people were in her hands. She dealt with domestic rebellion, wars &amp; the tides of political change and violence inspired by the French Revolution. Her reputation depended on the perspective of the speaker. She was praised by Voltaire as like the classical philosophers. She was condemned by enemies, mostly foreign, as “the Messalina of the north.” Her family, friends, ministers, generals, lovers and enemies are vividly described. These included her ambitious, scheming mother; her weak, bullying husband, Peter (who left her sexually untouched for nine years after their marriage); her unhappy son &amp; heir, Paul; her beloved grandchildren; and her favorites—the young men from whom she sought companionship and the recapture of youth as well as sex. Here, too, is Gregory Potemkin, her most significant lover &amp; possible husband, with whom she shared a correspondence of love &amp; separation, followed by 17 years of unparalleled mutual achievement. All the qualities that Massie brought to Nicholas &amp; Alexandra and Peter the Great are present: historical accuracy, deep understanding, felicity of style, mastery of detail, ability to shatter myth &amp; a genius for finding and expressing a human drama.]]></description>
+  <work>
+  <id type="integer">15319151</id>
+  <books_count type="integer">40</books_count>
+  <best_book_id type="integer">10414941</best_book_id>
+  <reviews_count type="integer">301623</reviews_count>
+  <ratings_sum type="integer">346711</ratings_sum>
+  <ratings_count type="integer">88653</ratings_count>
+  <text_reviews_count type="integer">3714</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Catherine the Great: Portrait of a Woman</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:31581|4:31493|3:16269|2:4717|1:4593|total:88653</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.W5Fbhh2tT44gmm1Gn56vXg</work_uri>
+</work>
+  <average_rating>3.91</average_rating>
+  <num_pages><![CDATA[625]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[First edition]]></edition_information>
+  <ratings_count><![CDATA[84155]]></ratings_count>
+  <text_reviews_count><![CDATA[3351]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10414941-catherine-the-great]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10414941-catherine-the-great]]></link>
+  <authors>
+<author>
+<id>40882</id>
+<name>Robert K. Massie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321494482p5/40882.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321494482p2/40882.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/40882.Robert_K_Massie]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>178846</ratings_count>
+<text_reviews_count>8166</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10414941-catherine-the-great">Catherine the Great Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679456724&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/10414941-catherine-the-great?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="207338"/>
+      <shelf name="currently-reading" count="3353"/>
+      <shelf name="history" count="1766"/>
+      <shelf name="biography" count="1540"/>
+      <shelf name="non-fiction" count="1238"/>
+      <shelf name="nonfiction" count="595"/>
+      <shelf name="russia" count="404"/>
+      <shelf name="biographies" count="302"/>
+      <shelf name="historical" count="188"/>
+      <shelf name="favorites" count="188"/>
+      <shelf name="biography-memoir" count="144"/>
+      <shelf name="historical-fiction" count="115"/>
+      <shelf name="audiobook" count="114"/>
+      <shelf name="kindle" count="104"/>
+      <shelf name="russian-history" count="99"/>
+      <shelf name="book-club" count="95"/>
+      <shelf name="library" count="95"/>
+      <shelf name="owned" count="89"/>
+      <shelf name="audio" count="87"/>
+      <shelf name="russian" count="85"/>
+      <shelf name="audiobooks" count="82"/>
+      <shelf name="royalty" count="80"/>
+      <shelf name="books-i-own" count="76"/>
+      <shelf name="to-buy" count="65"/>
+      <shelf name="bio" count="52"/>
+      <shelf name="18th-century" count="51"/>
+      <shelf name="memoir-biography" count="50"/>
+      <shelf name="european-history" count="49"/>
+      <shelf name="women" count="48"/>
+      <shelf name="ebook" count="45"/>
+      <shelf name="wish-list" count="42"/>
+      <shelf name="politics" count="41"/>
+      <shelf name="to-read-non-fiction" count="41"/>
+      <shelf name="europe" count="41"/>
+      <shelf name="biography-autobiography" count="40"/>
+      <shelf name="historical-non-fiction" count="36"/>
+      <shelf name="history-biography" count="35"/>
+      <shelf name="bio-memoir" count="34"/>
+      <shelf name="catherine-the-great" count="34"/>
+      <shelf name="to-read-history" count="33"/>
+      <shelf name="didn-t-finish" count="33"/>
+      <shelf name="biographies-memoirs" count="33"/>
+      <shelf name="did-not-finish" count="32"/>
+      <shelf name="adult" count="32"/>
+      <shelf name="ebooks" count="32"/>
+      <shelf name="audible" count="31"/>
+      <shelf name="to-read-nonfiction" count="31"/>
+      <shelf name="biographical" count="30"/>
+      <shelf name="bios" count="26"/>
+      <shelf name="default" count="25"/>
+      <shelf name="audio-book" count="25"/>
+      <shelf name="read-in-2012" count="25"/>
+      <shelf name="biography-and-memoir" count="25"/>
+      <shelf name="first-reads" count="24"/>
+      <shelf name="abandoned" count="22"/>
+      <shelf name="my-library" count="22"/>
+      <shelf name="memoir" count="22"/>
+      <shelf name="history-russia" count="22"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="world-history" count="21"/>
+      <shelf name="historical-nonfiction" count="21"/>
+      <shelf name="maybe" count="20"/>
+      <shelf name="non-fiction-history" count="20"/>
+      <shelf name="overdrive" count="19"/>
+      <shelf name="audio-books" count="18"/>
+      <shelf name="feminism" count="18"/>
+      <shelf name="non-fiction-to-read" count="18"/>
+      <shelf name="my-books" count="17"/>
+      <shelf name="unfinished" count="17"/>
+      <shelf name="e-book" count="17"/>
+      <shelf name="nonfiction-to-read" count="17"/>
+      <shelf name="history-books" count="17"/>
+      <shelf name="women-in-history" count="16"/>
+      <shelf name="bookclub" count="16"/>
+      <shelf name="listened-to" count="15"/>
+      <shelf name="history-nonfiction" count="15"/>
+      <shelf name="dnf" count="15"/>
+      <shelf name="i-own" count="15"/>
+      <shelf name="royals" count="15"/>
+      <shelf name="library-book" count="14"/>
+      <shelf name="adult-nonfiction" count="14"/>
+      <shelf name="biography-autobiography-memoir" count="14"/>
+      <shelf name="biographies-and-memoirs" count="14"/>
+      <shelf name="read-in-2015" count="13"/>
+      <shelf name="read-in-2013" count="13"/>
+      <shelf name="on-hold" count="13"/>
+      <shelf name="imperial-russia" count="13"/>
+      <shelf name="biography-memoirs" count="13"/>
+      <shelf name="memoir-and-biography" count="12"/>
+      <shelf name="read-in-2014" count="12"/>
+      <shelf name="historical-biography" count="12"/>
+      <shelf name="have" count="12"/>
+      <shelf name="memoir-bio" count="12"/>
+      <shelf name="memoirs-biographies" count="12"/>
+      <shelf name="book-group" count="12"/>
+      <shelf name="history-to-read" count="12"/>
+      <shelf name="elon-musk" count="11"/>
+      <shelf name="gave-up" count="11"/>
+      <shelf name="auto-biography" count="11"/>
+      <shelf name="nonfiction-history" count="11"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>7968243</id>
+<title>Cleopatra: A Life</title>
+<title_without_series>Cleopatra: A Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7968243-cleopatra]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294098301l/7968243._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294098301l/7968243._SX98_.jpg]]></image_url>
+<num_pages>302</num_pages>
+<work>
+<id>12020129</id>
+</work>
+<isbn>0316001929</isbn>
+<isbn13>9780316001922</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5741</id>
+<name>Stacy Schiff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5741.Stacy_Schiff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>381713</id>
+<title><![CDATA[Elizabeth and Mary: Cousins, Rivals, Queens]]></title>
+<title_without_series><![CDATA[Elizabeth and Mary: Cousins, Rivals, Queens]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/381713.Elizabeth_and_Mary]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>371491</id>
+</work>
+<isbn>0375708200</isbn>
+<isbn13>9780375708206</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>67300</id>
+<name>Jane Dunn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67300.Jane_Dunn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>255134</id>
+<title><![CDATA[Catherine de Medici: Renaissance Queen of France]]></title>
+<title_without_series><![CDATA[Catherine de Medici: Renaissance Queen of France]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/255134.Catherine_de_Medici]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407107291l/255134._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407107291l/255134._SX98_.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>247261</id>
+</work>
+<isbn>0060744936</isbn>
+<isbn13>9780060744939</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>149082</id>
+<name>Leonie Frieda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/149082.Leonie_Frieda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10211697</id>
+<title><![CDATA[Mary Boleyn: The Mistress of Kings]]></title>
+<title_without_series><![CDATA[Mary Boleyn: The Mistress of Kings]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10211697-mary-boleyn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298297175l/10211697._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298297175l/10211697._SX98_.jpg]]></image_url>
+<num_pages>364</num_pages>
+<work>
+<id>15111170</id>
+</work>
+<isbn>0345521331</isbn>
+<isbn13>9780345521330</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6583</id>
+<name>Alison Weir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6583.Alison_Weir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17149</id>
+<title><![CDATA[Love and Louis XIV: The Women in the Life of the Sun King]]></title>
+<title_without_series><![CDATA[Love and Louis XIV: The Women in the Life of the Sun King]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17149.Love_and_Louis_XIV]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>1188279</id>
+</work>
+<isbn>0385509847</isbn>
+<isbn13>9780385509848</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>6582</id>
+<name>Antonia Fraser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6582.Antonia_Fraser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2199</id>
+<title><![CDATA[Team of Rivals: The Political Genius of Abraham Lincoln]]></title>
+<title_without_series><![CDATA[Team of Rivals: The Political Genius of Abraham Lincoln]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2199.Team_of_Rivals]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347278868l/2199._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347278868l/2199._SX98_.jpg]]></image_url>
+<num_pages>916</num_pages>
+<work>
+<id>2861004</id>
+</work>
+<isbn>0743270754</isbn>
+<isbn13>9780743270755</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1476</id>
+<name>Doris Kearns Goodwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1476.Doris_Kearns_Goodwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6287100</id>
+<title><![CDATA[We Two: Victoria and Albert: Rulers, Partners, Rivals]]></title>
+<title_without_series><![CDATA[We Two: Victoria and Albert: Rulers, Partners, Rivals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6287100-we-two]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320502635l/6287100._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320502635l/6287100._SX98_.jpg]]></image_url>
+<num_pages>460</num_pages>
+<work>
+<id>6471370</id>
+</work>
+<isbn>0345484053</isbn>
+<isbn13>9780345484055</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>75635</id>
+<name>Gillian Gill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75635.Gillian_Gill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10883</id>
+<title><![CDATA[Benjamin Franklin: An American Life]]></title>
+<title_without_series><![CDATA[Benjamin Franklin: An American Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10883.Benjamin_Franklin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397772877l/10883._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397772877l/10883._SX98_.jpg]]></image_url>
+<num_pages>586</num_pages>
+<work>
+<id>750514</id>
+</work>
+<isbn>074325807X</isbn>
+<isbn13>9780743258074</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7111</id>
+<name>Walter Isaacson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7111.Walter_Isaacson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>111219</id>
+<title><![CDATA[Queen Isabella: Treachery, Adultery, and Murder in Medieval England]]></title>
+<title_without_series><![CDATA[Queen Isabella: Treachery, Adultery, and Murder in Medieval England]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/111219.Queen_Isabella]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577602l/111219._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577602l/111219._SX98_.jpg]]></image_url>
+<num_pages>490</num_pages>
+<work>
+<id>869535</id>
+</work>
+<isbn>0345453204</isbn>
+<isbn13>9780345453204</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6583</id>
+<name>Alison Weir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6583.Alison_Weir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8255917</id>
+<title>Washington: A Life</title>
+<title_without_series>Washington: A Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8255917-washington]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348969179l/8255917._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348969179l/8255917._SX98_.jpg]]></image_url>
+<num_pages>928</num_pages>
+<work>
+<id>13103688</id>
+</work>
+<isbn>1594202664</isbn>
+<isbn13>9781594202667</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>9950</id>
+<name>Ron Chernow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9950.Ron_Chernow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2785115</id>
+<title>Becoming Queen</title>
+<title_without_series>Becoming Queen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2785115-becoming-queen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320419727l/2785115._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320419727l/2785115._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>2810877</id>
+</work>
+<isbn>009179479X</isbn>
+<isbn13>9780091794798</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>16386</id>
+<name>Kate Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16386.Kate_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>252577</id>
+<title><![CDATA[Angela's Ashes (Frank McCourt, #1)]]></title>
+<title_without_series>Angela&apos;s Ashes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/252577.Angela_s_Ashes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>452</num_pages>
+<work>
+<id>2883783</id>
+</work>
+<isbn>0007205236</isbn>
+<isbn13>9780007205233</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3347</id>
+<name>Frank McCourt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3347.Frank_McCourt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2203</id>
+<title>John Adams</title>
+<title_without_series>John Adams</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2203.John_Adams]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478144278l/2203._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478144278l/2203._SX98_.jpg]]></image_url>
+<num_pages>751</num_pages>
+<work>
+<id>963375</id>
+</work>
+<isbn>0743223136</isbn>
+<isbn13>9780743223133</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>6281688</id>
+<name>David McCullough</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6281688.David_McCullough]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7501962</id>
+<title><![CDATA[Bonhoeffer: Pastor, Martyr, Prophet, Spy]]></title>
+<title_without_series><![CDATA[Bonhoeffer: Pastor, Martyr, Prophet, Spy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7501962-bonhoeffer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298218180l/7501962._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298218180l/7501962._SX98_.jpg]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>6801520</id>
+</work>
+<isbn>1595551387</isbn>
+<isbn13>9781595551382</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>32105</id>
+<name>Eric Metaxas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32105.Eric_Metaxas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8427894</id>
+<title>Theodore Roosevelt Trilogy</title>
+<title_without_series>Theodore Roosevelt Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8427894-theodore-roosevelt-trilogy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>2528</num_pages>
+<work>
+<id>19219960</id>
+</work>
+<isbn>0812958632</isbn>
+<isbn13>9780812958638</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>23013</id>
+<name>Edmund Morris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23013.Edmund_Morris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>52309</id>
+<title><![CDATA[The Autobiography of Benjamin Franklin]]></title>
+<title_without_series><![CDATA[The Autobiography of Benjamin Franklin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>598905</id>
+</work>
+<isbn>0743255062</isbn>
+<isbn13>9780743255066</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>289513</id>
+<name>Benjamin Franklin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/289513.Benjamin_Franklin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16130</id>
+<title>Alexander Hamilton</title>
+<title_without_series>Alexander Hamilton</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16130.Alexander_Hamilton]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>818</num_pages>
+<work>
+<id>1205304</id>
+</work>
+<isbn>0143034758</isbn>
+<isbn13>9780143034759</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>9950</id>
+<name>Ron Chernow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9950.Ron_Chernow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10884</id>
+<title><![CDATA[Einstein: His Life and Universe]]></title>
+<title_without_series><![CDATA[Einstein: His Life and Universe]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10884.Einstein]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SX98_.jpg]]></image_url>
+<num_pages>675</num_pages>
+<work>
+<id>985244</id>
+</work>
+<isbn>0743264738</isbn>
+<isbn13>9780743264730</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>88653</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7111</id>
+<name>Walter Isaacson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7111.Walter_Isaacson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

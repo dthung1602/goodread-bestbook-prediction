@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15953632</id>
+  <title>If You Want to See a Whale</title>
+  <isbn><![CDATA[1596437316]]></isbn>
+  <isbn13><![CDATA[9781596437319]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355111071l/15953632._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355111071l/15953632._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Roaring Brook Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[If you want to see a whale, you will need to know what not to look at.<br />Pink roses, pelicans, possible pirates . . .<br />If you want to see a whale, you have to keep your eyes on the sea, and wait . . .<br />and wait . . . and wait . . .<br />In this quiet and beautiful picture book by Julie Fogliano and Erin E. Stead, the team that created the Boston Globe-Horn Book Honor book And Then It's Spring, a boy learns exactly what it takes to catch a glimpse of an elusive whale.]]></description>
+  <work>
+  <id type="integer">21705136</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">15953632</best_book_id>
+  <reviews_count type="integer">4939</reviews_count>
+  <ratings_sum type="integer">9871</ratings_sum>
+  <ratings_count type="integer">2488</ratings_count>
+  <text_reviews_count type="integer">368</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>If You Want to See a Whale</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:867|4:876|3:574|2:139|1:32|total:2488</rating_dist>
+  <desc_user_id type="integer">2718349</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.LqKaOvXsb4Sd32vEtDTSjw</work_uri>
+</work>
+  <average_rating>3.97</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2452]]></ratings_count>
+  <text_reviews_count><![CDATA[361]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15953632-if-you-want-to-see-a-whale]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15953632-if-you-want-to-see-a-whale]]></link>
+  <authors>
+<author>
+<id>4999425</id>
+<name>Julie Fogliano</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429374002p5/4999425.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429374002p2/4999425.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4999425.Julie_Fogliano]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>11332</ratings_count>
+<text_reviews_count>1988</text_reviews_count>
+</author>
+<author>
+<id>4581894</id>
+<name>Erin E. Stead</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1381164347p5/4581894.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1381164347p2/4581894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4581894.Erin_E_Stead]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>29929</ratings_count>
+<text_reviews_count>4594</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15953632-if-you-want-to-see-a-whale">If You Want to See a Whale Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1596437316&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15953632-if-you-want-to-see-a-whale?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="picture-books" count="401"/>
+      <shelf name="to-read" count="223"/>
+      <shelf name="picture-book" count="114"/>
+      <shelf name="childrens" count="78"/>
+      <shelf name="children-s-books" count="49"/>
+      <shelf name="animals" count="41"/>
+      <shelf name="children-s" count="31"/>
+      <shelf name="kids" count="29"/>
+      <shelf name="picturebooks" count="27"/>
+      <shelf name="ocean" count="26"/>
+      <shelf name="poetry" count="25"/>
+      <shelf name="children" count="23"/>
+      <shelf name="whales" count="23"/>
+      <shelf name="storytime" count="21"/>
+      <shelf name="picture" count="19"/>
+      <shelf name="favorites" count="19"/>
+      <shelf name="patience" count="19"/>
+      <shelf name="fiction" count="18"/>
+      <shelf name="childrens-books" count="16"/>
+      <shelf name="imagination" count="16"/>
+      <shelf name="kids-books" count="15"/>
+      <shelf name="children-s-picture-books" count="14"/>
+      <shelf name="read-in-2013" count="14"/>
+      <shelf name="preschool" count="11"/>
+      <shelf name="nature" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="children-s-lit" count="10"/>
+      <shelf name="adventure" count="9"/>
+      <shelf name="art" count="8"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="children-s-literature" count="7"/>
+      <shelf name="read-aloud" count="7"/>
+      <shelf name="kindergarten" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="kids-picture-books" count="6"/>
+      <shelf name="pb" count="5"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="2013-picture-books" count="5"/>
+      <shelf name="illustrations" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="mock-caldecott-2014" count="5"/>
+      <shelf name="read-2013" count="5"/>
+      <shelf name="favorite-picture-books" count="5"/>
+      <shelf name="childrens-picture-books" count="5"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="children-s-fiction" count="4"/>
+      <shelf name="morris-seminar" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="sea" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="mindfulness" count="3"/>
+      <shelf name="read-to-the-kids" count="3"/>
+      <shelf name="kid-s-books" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="classroom" count="3"/>
+      <shelf name="mock-caldecott" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="kids-to-read" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="female-authors" count="3"/>
+      <shelf name="whale" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="storytime-books" count="3"/>
+      <shelf name="favorite" count="3"/>
+      <shelf name="realistic-fiction" count="3"/>
+      <shelf name="observation" count="3"/>
+      <shelf name="picture-books-read" count="3"/>
+      <shelf name="k-2nd" count="3"/>
+      <shelf name="2013-reads" count="3"/>
+      <shelf name="lyrical" count="3"/>
+      <shelf name="prek-k" count="3"/>
+      <shelf name="curiosity" count="3"/>
+      <shelf name="ocean-animals" count="3"/>
+      <shelf name="picture-books-to-read" count="3"/>
+      <shelf name="library-storytime" count="2"/>
+      <shelf name="children-s-library" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="k-1" count="2"/>
+      <shelf name="read-in-2018" count="2"/>
+      <shelf name="1-000-books-before-kindergarten" count="2"/>
+      <shelf name="favorite-children-s-books" count="2"/>
+      <shelf name="with-my-kids" count="2"/>
+      <shelf name="charlie" count="2"/>
+      <shelf name="picture-books-2016" count="2"/>
+      <shelf name="read-to-kids" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="five-stars" count="2"/>
+      <shelf name="children-picture" count="2"/>
+      <shelf name="toddler" count="2"/>
+      <shelf name="exploring-classics" count="2"/>
+      <shelf name="edrd-314" count="2"/>
+      <shelf name="gabriel" count="2"/>
+      <shelf name="summer" count="2"/>
+      <shelf name="personal-library" count="2"/>
+      <shelf name="hardcover" count="2"/>
+      <shelf name="amelia" count="2"/>
+      <shelf name="boats" count="2"/>
+      <shelf name="pbs" count="2"/>
+      <shelf name="d-summer-reading-2014" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>15926775</id>
+<title>Sophie&apos;s Squash</title>
+<title_without_series>Sophie&apos;s Squash</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15926775-sophie-s-squash]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404959958l/15926775._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404959958l/15926775._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21677370</id>
+</work>
+<isbn>0307978966</isbn>
+<isbn13>9780307978967</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6506402</id>
+<name>Pat Zietlow Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6506402.Pat_Zietlow_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17333265</id>
+<title>Mr. Tiger Goes Wild</title>
+<title_without_series>Mr. Tiger Goes Wild</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333265-mr-tiger-goes-wild]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24064569</id>
+</work>
+<isbn>0316200638</isbn>
+<isbn13>9780316200639</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15798648</id>
+<title>The Matchbox Diary</title>
+<title_without_series>The Matchbox Diary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15798648-the-matchbox-diary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213489l/15798648._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213489l/15798648._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21521589</id>
+</work>
+<isbn>0763646016</isbn>
+<isbn13>9780763646011</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>67810</id>
+<name>Paul Fleischman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67810.Paul_Fleischman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41542761</id>
+<title>My Papi Has a Motorcycle</title>
+<title_without_series>My Papi Has a Motorcycle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41542761-my-papi-has-a-motorcycle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544535511l/41542761._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544535511l/41542761._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>64812778</id>
+</work>
+<isbn>052555341X</isbn>
+<isbn13>9780525553410</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>8077763</id>
+<name>Isabel Quintero</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8077763.Isabel_Quintero]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18051355</id>
+<title>Some Bugs</title>
+<title_without_series>Some Bugs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18051355-some-bugs]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677320l/18051355._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415677320l/18051355._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>25334834</id>
+</work>
+<isbn>1442458801</isbn>
+<isbn13>9781442458802</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>507944</id>
+<name>Angela DiTerlizzi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/507944.Angela_DiTerlizzi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13170028</id>
+<title>Bear Has a Story to Tell</title>
+<title_without_series>Bear Has a Story to Tell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13170028-bear-has-a-story-to-tell]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362667189l/13170028._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362667189l/13170028._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18349343</id>
+</work>
+<isbn>1596437456</isbn>
+<isbn13>9781596437456</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4902018</id>
+<name>Philip C. Stead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4902018.Philip_C_Stead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16285053</id>
+<title>That Is Not a Good Idea!</title>
+<title_without_series>That Is Not a Good Idea!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>22400269</id>
+</work>
+<isbn>0062203096</isbn>
+<isbn13>9780062203090</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28008154</id>
+<title>The Uncorker of Ocean Bottles</title>
+<title_without_series>The Uncorker of Ocean Bottles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28008154-the-uncorker-of-ocean-bottles]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457293352l/28008154._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457293352l/28008154._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>48015689</id>
+</work>
+<isbn>0803738684</isbn>
+<isbn13>9780803738683</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>4832976</id>
+<name>Michelle Cuevas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4832976.Michelle_Cuevas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23310688</id>
+<title>Lenny &amp; Lucy</title>
+<title_without_series>Lenny &amp; Lucy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23310688-lenny-lucy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428046l/23310688._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428046l/23310688._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42864812</id>
+</work>
+<isbn>1596439327</isbn>
+<isbn13>9781596439320</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4902018</id>
+<name>Philip C. Stead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4902018.Philip_C_Stead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40847278</id>
+<title>Carl and the Meaning of Life</title>
+<title_without_series>Carl and the Meaning of Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40847278-carl-and-the-meaning-of-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531849415l/40847278._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531849415l/40847278._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>63610472</id>
+</work>
+<isbn>0451474988</isbn>
+<isbn13>9780451474988</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>401059</id>
+<name>Deborah Freedman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/401059.Deborah_Freedman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36959765</id>
+<title><![CDATA[Adrian Simcox Does NOT Have a Horse]]></title>
+<title_without_series><![CDATA[Adrian Simcox Does NOT Have a Horse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36959765-adrian-simcox-does-not-have-a-horse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519339061l/36959765._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519339061l/36959765._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>58759615</id>
+</work>
+<isbn>0735230374</isbn>
+<isbn13>9780735230378</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>17429847</id>
+<name>Marcy Campbell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17429847.Marcy_Campbell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35795921</id>
+<title>Mixed: A Colorful Story</title>
+<title_without_series>Mixed: A Colorful Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35795921-mixed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513408975l/35795921._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513408975l/35795921._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57295724</id>
+</work>
+<isbn>1250142733</isbn>
+<isbn13>9781250142733</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7268138</id>
+<name>Arree Chung</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7268138.Arree_Chung]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43387393</id>
+<title>A Stone Sat Still</title>
+<title_without_series>A Stone Sat Still</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43387393-a-stone-sat-still]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX98_.jpg]]></image_url>
+<num_pages>50</num_pages>
+<work>
+<id>67409570</id>
+</work>
+<isbn>1452173184</isbn>
+<isbn13>9781452173184</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>7126026</id>
+<name>Brendan Wenzel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126026.Brendan_Wenzel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42350073</id>
+<title>How to Read a Book</title>
+<title_without_series>How to Read a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42350073-how-to-read-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65997738</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15815400</id>
+<title>Exclamation Mark</title>
+<title_without_series>Exclamation Mark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15815400-exclamation-mark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350532222l/15815400._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350532222l/15815400._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>21541897</id>
+</work>
+<isbn>0545436796</isbn>
+<isbn13>9780545436793</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18296077</id>
+<title>If I Were a Book</title>
+<title_without_series>If I Were a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18296077-if-i-were-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391417271l/18296077._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391417271l/18296077._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>25474610</id>
+</work>
+<isbn></isbn>
+<isbn13>9781452121444</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1419770</id>
+<name>José Jorge Letria</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1419770.Jos_Jorge_Letria]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41089856</id>
+<title>My Heart</title>
+<title_without_series>My Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41089856-my-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534149040l/41089856._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534149040l/41089856._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64200718</id>
+</work>
+<isbn>0735227934</isbn>
+<isbn13>9780735227934</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37119048</id>
+<title>Where Are You From?</title>
+<title_without_series>Where Are You From?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37119048-where-are-you-from]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540526608l/37119048._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540526608l/37119048._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>58911638</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2488</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17449798</id>
+<name>Yamile Saied Méndez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17449798.Yamile_Saied_M_ndez]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

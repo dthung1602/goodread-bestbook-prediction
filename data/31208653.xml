@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>31208653</id>
+  <title>How to Murder Your Life</title>
+  <isbn><![CDATA[1476752273]]></isbn>
+  <isbn13><![CDATA[9781476752273]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288224l/31208653._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288224l/31208653._SY75_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>Simon  Schuster</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From Cat Marnell, “New York’s enfant terrible” (<i>The Telegraph</i>), a candid and darkly humorous memoir of prescription drug addiction and self-sabotage, set in the glamorous world of fashion magazines and downtown nightclubs.<br /><br />At twenty-six, Cat Marnell was an associate beauty editor at <i>Lucky</i>, one of the top fashion magazines in America—and that’s all most people knew about her. But she hid a secret life. She was a prescription drug addict. She was also a “doctor shopper” who manipulated Upper East Side psychiatrists for pills, pills, and more pills; a lonely bulimic who spent hundreds of dollars a week on binge foods; a promiscuous party girl who danced barefoot on banquets; a weepy and hallucination-prone insomniac who would take anything—<i>anything</i>—to sleep.<br /><br />This is a tale of self-loathing, self-sabotage, and yes, self-tanner. It begins at a posh New England prep school—and with a prescription for Attention Deficit Disorder medication Ritalin. It continues to New York, where we follow Marnell’s amphetamine-fueled rise from intern to editor through the beauty departments of <i>NYLON</i>, <i>Teen Vogue</i>, <i>Glamour</i>, and <i>Lucky</i>. We see her fight between ambition and addiction and how, inevitably, her disease threatens everything she worked so hard to achieve.<br /><br />From the Condé Nast building (where she rides the elevator alongside Anna Wintour) to seedy nightclubs, from doctors’ offices and mental hospitals, Marnell shows—like no one else can—what it is like to live in the wild, chaotic, often sinister world of a young female addict who can’t say <i>no</i>.<br /><br />Combining lightning-rod subject matter and bold literary aspirations, <i>How to Murder Your Life </i>is mesmerizing, revelatory, and necessary.]]></description>
+  <work>
+  <id type="integer">46252734</id>
+  <books_count type="integer">17</books_count>
+  <best_book_id type="integer">26254947</best_book_id>
+  <reviews_count type="integer">39400</reviews_count>
+  <ratings_sum type="integer">40704</ratings_sum>
+  <ratings_count type="integer">10727</ratings_count>
+  <text_reviews_count type="integer">1097</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>How to Murder Your Life</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3238|4:3678|3:2575|2:841|1:395|total:10727</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.HwSTPi3Yvswhj0mIpBgUow</work_uri>
+</work>
+  <average_rating>3.79</average_rating>
+  <num_pages><![CDATA[384]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[778]]></ratings_count>
+  <text_reviews_count><![CDATA[91]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/31208653-how-to-murder-your-life]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/31208653-how-to-murder-your-life]]></link>
+  <authors>
+<author>
+<id>8509174</id>
+<name>Cat Marnell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1481492747p5/8509174.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1481492747p2/8509174.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8509174.Cat_Marnell]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>10815</ratings_count>
+<text_reviews_count>1121</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/31208653-how-to-murder-your-life">How to Murder Your Life Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1476752273&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/31208653-how-to-murder-your-life?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="25317"/>
+      <shelf name="currently-reading" count="719"/>
+      <shelf name="memoir" count="221"/>
+      <shelf name="non-fiction" count="209"/>
+      <shelf name="nonfiction" count="104"/>
+      <shelf name="favorites" count="68"/>
+      <shelf name="memoirs" count="68"/>
+      <shelf name="biography" count="51"/>
+      <shelf name="read-in-2017" count="46"/>
+      <shelf name="addiction" count="31"/>
+      <shelf name="audiobooks" count="26"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="biography-memoir" count="23"/>
+      <shelf name="library" count="21"/>
+      <shelf name="kindle" count="21"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="mental-health" count="20"/>
+      <shelf name="read-2017" count="19"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="autobiography" count="19"/>
+      <shelf name="drugs" count="18"/>
+      <shelf name="read-in-2018" count="17"/>
+      <shelf name="to-buy" count="16"/>
+      <shelf name="netgalley" count="15"/>
+      <shelf name="book-club" count="14"/>
+      <shelf name="biographies" count="14"/>
+      <shelf name="audio" count="13"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="biographies-memoirs" count="12"/>
+      <shelf name="2017-books" count="12"/>
+      <shelf name="mental-illness" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="contemporary" count="11"/>
+      <shelf name="abandoned" count="10"/>
+      <shelf name="2017-reads" count="10"/>
+      <shelf name="memoir-biography" count="10"/>
+      <shelf name="maybe" count="10"/>
+      <shelf name="new-york" count="10"/>
+      <shelf name="memoirs-biographies" count="9"/>
+      <shelf name="did-not-finish" count="9"/>
+      <shelf name="books-read-in-2017" count="9"/>
+      <shelf name="fashion" count="9"/>
+      <shelf name="adult" count="9"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="non-fic" count="8"/>
+      <shelf name="memoir-autobiography" count="7"/>
+      <shelf name="fiction" count="7"/>
+      <shelf name="ebook" count="7"/>
+      <shelf name="2017-releases" count="7"/>
+      <shelf name="to-read-nonfiction" count="7"/>
+      <shelf name="nonfic" count="6"/>
+      <shelf name="biography-and-memoir" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="bios-memoirs" count="6"/>
+      <shelf name="favourites" count="6"/>
+      <shelf name="psychology" count="6"/>
+      <shelf name="bio-memoir" count="6"/>
+      <shelf name="nyc" count="6"/>
+      <shelf name="read-in-2019" count="5"/>
+      <shelf name="2018-books" count="5"/>
+      <shelf name="gave-up-on" count="5"/>
+      <shelf name="overdrive" count="5"/>
+      <shelf name="memoir-bio" count="5"/>
+      <shelf name="american" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="books-to-buy" count="5"/>
+      <shelf name="want-to-buy" count="5"/>
+      <shelf name="to-read-memoir" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="memoirs-bios" count="4"/>
+      <shelf name="audible" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="unfinished" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="bio" count="4"/>
+      <shelf name="female-authors" count="4"/>
+      <shelf name="want-to-read-non-fiction" count="4"/>
+      <shelf name="female-author" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="on-hold" count="3"/>
+      <shelf name="read-2018" count="3"/>
+      <shelf name="own-ebook" count="3"/>
+      <shelf name="need" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="novels" count="3"/>
+      <shelf name="favorite-books" count="3"/>
+      <shelf name="nonfiction-memoir" count="3"/>
+      <shelf name="self-help" count="3"/>
+      <shelf name="summer-2017" count="3"/>
+      <shelf name="consideration" count="3"/>
+      <shelf name="not-at-library" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="writing" count="3"/>
+      <shelf name="memiors" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="new-york-city" count="3"/>
+      <shelf name="journalism" count="3"/>
+      <shelf name="2017-reading-challenge" count="3"/>
+      <shelf name="2017-books-read" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1218097</id>
+<title><![CDATA[Free Gift with Purchase: My Improbable Career in Magazines and Makeup]]></title>
+<title_without_series><![CDATA[Free Gift with Purchase: My Improbable Career in Magazines and Makeup]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1218097.Free_Gift_with_Purchase]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320390026l/1218097._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320390026l/1218097._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>281751</id>
+</work>
+<isbn>0307237494</isbn>
+<isbn13>9780307237491</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>168086</id>
+<name>Jean Godfrey-June</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168086.Jean_Godfrey_June]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27303014</id>
+<title><![CDATA[Girl Walks Out of a Bar: A Memoir]]></title>
+<title_without_series><![CDATA[Girl Walks Out of a Bar: A Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27303014-girl-walks-out-of-a-bar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458783678l/27303014._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458783678l/27303014._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>47355904</id>
+</work>
+<isbn>1590793218</isbn>
+<isbn13>9781590793213</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14811831</id>
+<name>Lisa F.  Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14811831.Lisa_F_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33784336</id>
+<title><![CDATA[My Fair Junkie: A Memoir of Getting Dirty and Staying Clean]]></title>
+<title_without_series><![CDATA[My Fair Junkie: A Memoir of Getting Dirty and Staying Clean]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33784336-my-fair-junkie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498118089l/33784336._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498118089l/33784336._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>54670083</id>
+</work>
+<isbn>0316430951</isbn>
+<isbn13>9780316430951</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>16269382</id>
+<name>Amy Dresner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16269382.Amy_Dresner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35297265</id>
+<title>Unwifeable: A Memoir</title>
+<title_without_series>Unwifeable: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35297265-unwifeable]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519613844l/35297265._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519613844l/35297265._SX98_.jpg]]></image_url>
+<num_pages>321</num_pages>
+<work>
+<id>56664116</id>
+</work>
+<isbn>1501174037</isbn>
+<isbn13>9781501174032</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7559474</id>
+<name>Mandy Stadtmiller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7559474.Mandy_Stadtmiller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44279110</id>
+<title><![CDATA[My Year of Rest and Relaxation]]></title>
+<title_without_series><![CDATA[My Year of Rest and Relaxation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44279110-my-year-of-rest-and-relaxation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>55508660</id>
+</work>
+<isbn>0525522131</isbn>
+<isbn13>9780525522133</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3276202</id>
+<name>Ottessa Moshfegh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3276202.Ottessa_Moshfegh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822651</id>
+<title>My Friend Anna</title>
+<title_without_series>My Friend Anna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822651-my-friend-anna]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560679904l/43822651._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560679904l/43822651._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>68194514</id>
+</work>
+<isbn>1982114096</isbn>
+<isbn13>9781982114091</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>19111827</id>
+<name>Rachel DeLoache Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19111827.Rachel_DeLoache_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32572166</id>
+<title>The Rules Do Not Apply</title>
+<title_without_series>The Rules Do Not Apply</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32572166-the-rules-do-not-apply]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490082071l/32572166._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490082071l/32572166._SX98_.jpg]]></image_url>
+<num_pages>207</num_pages>
+<work>
+<id>53149569</id>
+</work>
+<isbn>0812996933</isbn>
+<isbn13>9780812996937</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>11286</id>
+<name>Ariel Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11286.Ariel_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42201100</id>
+<title>Three Women</title>
+<title_without_series>Three Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42201100-three-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560679612l/42201100._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560679612l/42201100._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>65558120</id>
+</work>
+<isbn>1451642296</isbn>
+<isbn13>9781451642292</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>3497436</id>
+<name>Lisa Taddeo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3497436.Lisa_Taddeo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36342706</id>
+<title>The New Me</title>
+<title_without_series>The New Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36342706-the-new-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536181573l/36342706._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536181573l/36342706._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>58022687</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5353345</id>
+<name>Halle Butler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5353345.Halle_Butler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43126457</id>
+<title><![CDATA[Trick Mirror: Reflections on Self-Delusion]]></title>
+<title_without_series><![CDATA[Trick Mirror: Reflections on Self-Delusion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43126457-trick-mirror]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544069605l/43126457._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544069605l/43126457._SX98_.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>66925717</id>
+</work>
+<isbn>0525510540</isbn>
+<isbn13>9780525510543</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>17276202</id>
+<name>Jia Tolentino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17276202.Jia_Tolentino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40940247</id>
+<title><![CDATA[All the Lives I Want: Essays About My Best Friends Who Happen to Be Famous Strangers]]></title>
+<title_without_series><![CDATA[All the Lives I Want: Essays About My Best Friends Who Happen to Be Famous Strangers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40940247-all-the-lives-i-want]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532479816l/40940247._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532479816l/40940247._SX98_.jpg]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>50874438</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14228493</id>
+<name>Alana Massey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14228493.Alana_Massey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17398176</id>
+<title>My Angel Up Above</title>
+<title_without_series>My Angel Up Above</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17398176-my-angel-up-above]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530822169l/17398176._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530822169l/17398176._SX98_.jpg]]></image_url>
+<num_pages>114</num_pages>
+<work>
+<id>24220690</id>
+</work>
+<isbn>1481783203</isbn>
+<isbn13>9781481783200</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6947447</id>
+<name>Jodie Vivienna</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6947447.Jodie_Vivienna]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23341862</id>
+<title><![CDATA[Blackout: Remembering the Things I Drank to Forget]]></title>
+<title_without_series><![CDATA[Blackout: Remembering the Things I Drank to Forget]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23341862-blackout]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423750824l/23341862._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423750824l/23341862._SX98_.jpg]]></image_url>
+<num_pages>230</num_pages>
+<work>
+<id>42901339</id>
+</work>
+<isbn>1455554596</isbn>
+<isbn13>9781455554591</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>8010659</id>
+<name>Sarah Hepola</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8010659.Sarah_Hepola]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41057294</id>
+<title>Normal People</title>
+<title_without_series>Normal People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41057294-normal-people]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SX98_.jpg]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>59141209</id>
+</work>
+<isbn>1984822179</isbn>
+<isbn13>9781984822178</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32187419</id>
+<title>Conversations with Friends</title>
+<title_without_series>Conversations with Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32187419-conversations-with-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>52827120</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46829627</id>
+<title><![CDATA[In Pillness and in Health: A memoir]]></title>
+<title_without_series><![CDATA[In Pillness and in Health: A memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46829627-in-pillness-and-in-health]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71873621</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19342617</id>
+<name>Henriette Ivanans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19342617.Henriette_Ivanans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41880602</id>
+<title>Fleishman Is in Trouble</title>
+<title_without_series>Fleishman Is in Trouble</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41880602-fleishman-is-in-trouble]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556374309l/41880602._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556374309l/41880602._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>70634699</id>
+</work>
+<isbn>0525510877</isbn>
+<isbn13>9780525510871</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>7235807</id>
+<name>Taffy Brodesser-Akner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7235807.Taffy_Brodesser_Akner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26192646</id>
+<title>Sweetbitter</title>
+<title_without_series>Sweetbitter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26192646-sweetbitter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448999786l/26192646._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448999786l/26192646._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>43081207</id>
+</work>
+<isbn>1101875941</isbn>
+<isbn13>9781101875940</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10727</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>9824300</id>
+<name>Stephanie Danler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9824300.Stephanie_Danler]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

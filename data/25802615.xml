@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25802615</id>
+  <title>Unashamed</title>
+  <isbn><![CDATA[143368912X]]></isbn>
+  <isbn13><![CDATA[9781433689123]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440107364l/25802615._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440107364l/25802615._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>B Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>If you live for people's acceptance, you'll die from their rejection.</i><br /><br />Two-time Grammy winning rap artist, Lecrae, learned this lesson through more than his share of adversity—childhood abuse, drugs and alcoholism, a stint in rehab, an abortion, and an unsuccessful suicide attempt.<br /><br />Along the way, Lecrae attained an unwavering faith in Jesus and began looking to God for affirmation. Now as a chart-topping industry anomaly, he has learned to ignore the haters and make peace with his craft. The rap artist holds nothing back as he divulges the most sensitive details of his life, answers his critics, shares intimate handwritten journal entries, and powerfully models how to be a Christian in a secular age.<br /><br />This is the story of one man's journey to faith and freedom.]]></description>
+  <work>
+  <id type="integer">45656595</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">25802615</best_book_id>
+  <reviews_count type="integer">12577</reviews_count>
+  <ratings_sum type="integer">13961</ratings_sum>
+  <ratings_count type="integer">3163</ratings_count>
+  <text_reviews_count type="integer">548</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Unashamed</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1715|4:1107|3:291|2:35|1:15|total:3163</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Huh0uIRhPeQHPAqgiNVizA</work_uri>
+</work>
+  <average_rating>4.41</average_rating>
+  <num_pages><![CDATA[256]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2865]]></ratings_count>
+  <text_reviews_count><![CDATA[495]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25802615-unashamed]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25802615-unashamed]]></link>
+  <authors>
+<author>
+<id>14129786</id>
+<name>Lecrae Moore</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14129786.Lecrae_Moore]]></link>
+<average_rating>4.40</average_rating>
+<ratings_count>3711</ratings_count>
+<text_reviews_count>582</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25802615-unashamed">Unashamed Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=143368912X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25802615-unashamed?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8477"/>
+      <shelf name="currently-reading" count="229"/>
+      <shelf name="biography" count="89"/>
+      <shelf name="non-fiction" count="84"/>
+      <shelf name="christian" count="64"/>
+      <shelf name="favorites" count="34"/>
+      <shelf name="memoir" count="29"/>
+      <shelf name="biographies" count="27"/>
+      <shelf name="audiobook" count="22"/>
+      <shelf name="nonfiction" count="22"/>
+      <shelf name="audiobooks" count="21"/>
+      <shelf name="autobiography" count="14"/>
+      <shelf name="faith" count="14"/>
+      <shelf name="religion" count="12"/>
+      <shelf name="music" count="12"/>
+      <shelf name="biography-memoir" count="11"/>
+      <shelf name="christian-living" count="11"/>
+      <shelf name="books-i-own" count="10"/>
+      <shelf name="memoirs" count="9"/>
+      <shelf name="audio" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="biographical" count="7"/>
+      <shelf name="audio-books" count="7"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="christian-books" count="6"/>
+      <shelf name="christianity" count="6"/>
+      <shelf name="christian-audio" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="christian-nonfiction" count="5"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="read-in-2019" count="4"/>
+      <shelf name="audible" count="4"/>
+      <shelf name="christian-non-fiction" count="4"/>
+      <shelf name="religious" count="4"/>
+      <shelf name="memoir-biography" count="4"/>
+      <shelf name="spiritual" count="4"/>
+      <shelf name="memoir-autobiography" count="4"/>
+      <shelf name="2016-reads" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="memoirs-biographies" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="bio-autobio" count="3"/>
+      <shelf name="bio-memoir" count="3"/>
+      <shelf name="autobiographies" count="3"/>
+      <shelf name="biographies-and-memoirs" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="2017-reading-list" count="3"/>
+      <shelf name="to-read-non-fiction" count="3"/>
+      <shelf name="inspiration" count="3"/>
+      <shelf name="autobiography-memoir" count="3"/>
+      <shelf name="theology" count="3"/>
+      <shelf name="coming-of-age" count="3"/>
+      <shelf name="autobiography-biography" count="3"/>
+      <shelf name="bios-memoirs" count="3"/>
+      <shelf name="spirituality" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="non-fiction-to-read" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="not-interested" count="2"/>
+      <shelf name="christianaudio" count="2"/>
+      <shelf name="non-fiction-christian" count="2"/>
+      <shelf name="2019-books" count="2"/>
+      <shelf name="nonfiction-christian" count="2"/>
+      <shelf name="culture" count="2"/>
+      <shelf name="bio" count="2"/>
+      <shelf name="read-2018" count="2"/>
+      <shelf name="listened" count="2"/>
+      <shelf name="history" count="2"/>
+      <shelf name="biography-autobiography" count="2"/>
+      <shelf name="auto-biography" count="2"/>
+      <shelf name="don-t-own" count="2"/>
+      <shelf name="aoc" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="overdrive" count="2"/>
+      <shelf name="others" count="2"/>
+      <shelf name="african-american" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="christian-life" count="2"/>
+      <shelf name="5-star" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="book-club" count="2"/>
+      <shelf name="christian-biography" count="2"/>
+      <shelf name="books-read-in-2016" count="2"/>
+      <shelf name="2016-read" count="2"/>
+      <shelf name="true-stories" count="2"/>
+      <shelf name="personal-development" count="2"/>
+      <shelf name="non-fiction-read" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="really-want-to-read" count="2"/>
+      <shelf name="manhood" count="2"/>
+      <shelf name="unashamed" count="2"/>
+      <shelf name="read-2016" count="2"/>
+      <shelf name="jesus-books" count="2"/>
+      <shelf name="to-read-biography" count="2"/>
+      <shelf name="inspirational" count="2"/>
+      <shelf name="people" count="2"/>
+      <shelf name="bios" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>30259187</id>
+<title><![CDATA[Grace Is Greater: God's Plan to Overcome Your Past, Redeem Your Pain, and Rewrite Your Story]]></title>
+<title_without_series><![CDATA[Grace Is Greater: God's Plan to Overcome Your Past, Redeem Your Pain, and Rewrite Your Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30259187-grace-is-greater]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471280434l/30259187._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471280434l/30259187._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>50731444</id>
+</work>
+<isbn>0801019419</isbn>
+<isbn13>9780801019418</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3189389</id>
+<name>Kyle Idleman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3189389.Kyle_Idleman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21548937</id>
+<title><![CDATA[Rise: Get Up and Live in God's Great Story]]></title>
+<title_without_series><![CDATA[Rise: Get Up and Live in God's Great Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21548937-rise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410754701l/21548937._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410754701l/21548937._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>40883784</id>
+</work>
+<isbn>0529120992</isbn>
+<isbn13>9780529120991</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6463452</id>
+<name>Trip Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6463452.Trip_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>273331</id>
+<title>Absolute Surrender</title>
+<title_without_series>Absolute Surrender</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/273331.Absolute_Surrender]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>127</num_pages>
+<work>
+<id>761835</id>
+</work>
+<isbn>0882700286</isbn>
+<isbn13>9780882700281</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13326</id>
+<name>Andrew Murray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13326.Andrew_Murray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>472580</id>
+<title><![CDATA[Grace Abounding to the Chief of Sinners]]></title>
+<title_without_series><![CDATA[Grace Abounding to the Chief of Sinners]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/472580.Grace_Abounding_to_the_Chief_of_Sinners]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>1529632</id>
+</work>
+<isbn>1406822949</isbn>
+<isbn13>9781406822946</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16244</id>
+<name>John Bunyan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16244.John_Bunyan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9028630</id>
+<title><![CDATA[Jonathan Edwards: America's Genius]]></title>
+<title_without_series><![CDATA[Jonathan Edwards: America's Genius]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9028630-jonathan-edwards]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355915801l/9028630._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355915801l/9028630._SX98_.jpg]]></image_url>
+<num_pages>158</num_pages>
+<work>
+<id>13906287</id>
+</work>
+<isbn>1845503295</isbn>
+<isbn13>9781845503291</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>69850</id>
+<name>Christian Timothy George</name>
+<link><![CDATA[https://www.goodreads.com/author/show/69850.Christian_Timothy_George]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23411600</id>
+<title><![CDATA[Simply Tuesday: Small-Moment Living in a Fast-Moving World]]></title>
+<title_without_series><![CDATA[Simply Tuesday: Small-Moment Living in a Fast-Moving World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23411600-simply-tuesday]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420937175l/23411600._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420937175l/23411600._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>42972318</id>
+</work>
+<isbn>0800722450</isbn>
+<isbn13>9780800722456</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>4686236</id>
+<name>Emily P. Freeman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4686236.Emily_P_Freeman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30010106</id>
+<title><![CDATA[Liturgy of the Ordinary: Sacred Practices in Everyday Life]]></title>
+<title_without_series><![CDATA[Liturgy of the Ordinary: Sacred Practices in Everyday Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30010106-liturgy-of-the-ordinary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463948524l/30010106._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463948524l/30010106._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>50285449</id>
+</work>
+<isbn>0830846239</isbn>
+<isbn13>9780830846238</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15180566</id>
+<name>Tish Harrison Warren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15180566.Tish_Harrison_Warren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34570012</id>
+<title><![CDATA[Fire Road: The Napalm Girl's Journey Through the Horrors of War to Faith, Forgiveness, and Peace]]></title>
+<title_without_series><![CDATA[Fire Road: The Napalm Girl's Journey Through the Horrors of War to Faith, Forgiveness, and Peace]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34570012-fire-road]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492616630l/34570012._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492616630l/34570012._SX98_.jpg]]></image_url>
+<num_pages>317</num_pages>
+<work>
+<id>55715861</id>
+</work>
+<isbn>1496424298</isbn>
+<isbn13>9781496424297</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>16742901</id>
+<name>Kim Phuc Phan Thi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16742901.Kim_Phuc_Phan_Thi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34454573</id>
+<title><![CDATA[Steve McQueen: The Salvation of an American Icon]]></title>
+<title_without_series><![CDATA[Steve McQueen: The Salvation of an American Icon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34454573-steve-mcqueen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488552284l/34454573._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488552284l/34454573._SX98_.jpg]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>55568590</id>
+</work>
+<isbn>1946891053</isbn>
+<isbn13>9781946891051</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>52865</id>
+<name>Greg Laurie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52865.Greg_Laurie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36408887</id>
+<title><![CDATA[Gay Girl, Good God: The Story of Who I Was and Who God Has Always Been]]></title>
+<title_without_series><![CDATA[Gay Girl, Good God: The Story of Who I Was and Who God Has Always Been]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36408887-gay-girl-good-god]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529187248l/36408887._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529187248l/36408887._SX98_.jpg]]></image_url>
+<num_pages>193</num_pages>
+<work>
+<id>58103758</id>
+</work>
+<isbn>1462751229</isbn>
+<isbn13>9781462751228</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>15572667</id>
+<name>Jackie Hill Perry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15572667.Jackie_Hill_Perry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15811073</id>
+<title>The Good Life</title>
+<title_without_series>The Good Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15811073-the-good-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416445784l/15811073._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416445784l/15811073._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>21536245</id>
+</work>
+<isbn>0802408583</isbn>
+<isbn13>9780802408587</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6463452</id>
+<name>Trip Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6463452.Trip_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37532390</id>
+<title><![CDATA[How to Battle Depression and Suicidal Thoughts]]></title>
+<title_without_series><![CDATA[How to Battle Depression and Suicidal Thoughts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37532390-how-to-battle-depression-and-suicidal-thoughts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59134138</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8662</id>
+<name>Ray Comfort</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8662.Ray_Comfort]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42248509</id>
+<title><![CDATA[Competing Spectacles: Treasuring Christ in the Media Age]]></title>
+<title_without_series><![CDATA[Competing Spectacles: Treasuring Christ in the Media Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42248509-competing-spectacles]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539186414l/42248509._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539186414l/42248509._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>65855902</id>
+</work>
+<isbn>1433563797</isbn>
+<isbn13>9781433563799</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>5148796</id>
+<name>Tony Reinke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5148796.Tony_Reinke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39975223</id>
+<title>Letters to the Church</title>
+<title_without_series>Letters to the Church</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39975223-letters-to-the-church]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537439149l/39975223._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537439149l/39975223._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>61885061</id>
+</work>
+<isbn>0830776583</isbn>
+<isbn13>9780830776580</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1362751</id>
+<name>Francis Chan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1362751.Francis_Chan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26263491</id>
+<title><![CDATA[Unashamed: Drop the Baggage, Pick up Your Freedom, Fulfill Your Destiny]]></title>
+<title_without_series><![CDATA[Unashamed: Drop the Baggage, Pick up Your Freedom, Fulfill Your Destiny]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26263491-unashamed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445966320l/26263491._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445966320l/26263491._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>46262664</id>
+</work>
+<isbn>0310340705</isbn>
+<isbn13>9780310340706</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>701214</id>
+<name>Christine Caine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/701214.Christine_Caine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17657592</id>
+<title><![CDATA[Jesus > Religion: Why He Is So Much Better Than Trying Harder, Doing More, and Being Good Enough]]></title>
+<title_without_series><![CDATA[Jesus > Religion: Why He Is So Much Better Than Trying Harder, Doing More, and Being Good Enough]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17657592-jesus-religion]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369851349l/17657592._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369851349l/17657592._SX98_.jpg]]></image_url>
+<num_pages>218</num_pages>
+<work>
+<id>24645320</id>
+</work>
+<isbn>1400205395</isbn>
+<isbn13>9781400205394</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7008542</id>
+<name>Jefferson Bethke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7008542.Jefferson_Bethke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30144735</id>
+<title><![CDATA[Reset: Living a Grace-Paced Life in a Burnout Culture]]></title>
+<title_without_series><![CDATA[Reset: Living a Grace-Paced Life in a Burnout Culture]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30144735-reset]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490060838l/30144735._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490060838l/30144735._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>50578417</id>
+</work>
+<isbn>1433555182</isbn>
+<isbn13>9781433555183</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>6564035</id>
+<name>David P. Murray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6564035.David_P_Murray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42771921</id>
+<title><![CDATA[God, Greed, and the (Prosperity) Gospel: How Truth Overwhelms a Life Built on Lies]]></title>
+<title_without_series><![CDATA[God, Greed, and the (Prosperity) Gospel: How Truth Overwhelms a Life Built on Lies]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42771921-god-greed-and-the-prosperity-gospel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550607865l/42771921._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550607865l/42771921._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>66525517</id>
+</work>
+<isbn>0310355273</isbn>
+<isbn13>9780310355274</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>3163</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>18614153</id>
+<name>Costi W. Hinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18614153.Costi_W_Hinn]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

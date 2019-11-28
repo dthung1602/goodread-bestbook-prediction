@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>28450775</id>
+  <title><![CDATA[Whiplash: How to Survive Our Faster Future]]></title>
+  <isbn><![CDATA[1455544590]]></isbn>
+  <isbn13><![CDATA[9781455544592]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465763059l/28450775._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465763059l/28450775._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Grand Central Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>This "brilliant and provocative" (Walter Isaacson) guide shares nine principles to adapt and survive the technological changes shaping our future from the director of the MIT Media Lab and a veteran <i>Wired</i> journalist.</b><br />	The world is more complex and volatile today than at any other time in our history. The tools of our modern existence are getting faster, cheaper, and smaller at an exponential rate, transforming every aspect of society, from business to culture and from the public sphere to our most private moments. The people who succeed will be the ones who learn to think differently.<br />	In WHIPLASH, Joi Ito and Jeff Howe distill that logic into nine organizing principles for navigating and surviving this tumultuous period:<br />Emergence over Authority<br />Pull over Push<br />Compasses over Maps<br />Risk over Safety<br />Disobedience over Compliance<br />Practice over Theory<br />Diversity over Ability<br />Resilience over Strength<br />Systems over Objects<br />Filled with incredible case studies and cutting-edge research and philosophies from the MIT Media Lab and beyond, WHIPLASH will help you adapt and succeed in this unpredictable world.]]></description>
+  <work>
+  <id type="integer">48577646</id>
+  <books_count type="integer">17</books_count>
+  <best_book_id type="integer">28450775</best_book_id>
+  <reviews_count type="integer">9226</reviews_count>
+  <ratings_sum type="integer">4295</ratings_sum>
+  <ratings_count type="integer">1106</ratings_count>
+  <text_reviews_count type="integer">122</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">6</original_publication_day>
+  <original_title>Whiplash: How to Survive Our Faster Future</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:312|4:447|3:266|2:68|1:13|total:1106</rating_dist>
+  <desc_user_id type="integer">33273494</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.i5jROYNchhca-uwjb0WG-A</work_uri>
+</work>
+  <average_rating>3.88</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[777]]></ratings_count>
+  <text_reviews_count><![CDATA[85]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/28450775-whiplash]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/28450775-whiplash]]></link>
+  <authors>
+<author>
+<id>818990</id>
+<name>Joichi Ito</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1218489272p5/818990.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1218489272p2/818990.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/818990.Joichi_Ito]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>1160</ratings_count>
+<text_reviews_count>127</text_reviews_count>
+</author>
+<author>
+<id>5101107</id>
+<name>Jeff   Howe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1523134409p5/5101107.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1523134409p2/5101107.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5101107.Jeff_Howe]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>3299</ratings_count>
+<text_reviews_count>203</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/28450775-whiplash">Whiplash Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1455544590&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/28450775-whiplash?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="7460"/>
+      <shelf name="currently-reading" count="308"/>
+      <shelf name="non-fiction" count="70"/>
+      <shelf name="business" count="48"/>
+      <shelf name="nonfiction" count="35"/>
+      <shelf name="technology" count="32"/>
+      <shelf name="science" count="30"/>
+      <shelf name="future" count="22"/>
+      <shelf name="tech" count="9"/>
+      <shelf name="self-help" count="9"/>
+      <shelf name="innovation" count="8"/>
+      <shelf name="education" count="7"/>
+      <shelf name="work" count="7"/>
+      <shelf name="science-tech" count="7"/>
+      <shelf name="self-improvement" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="design" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="read-next" count="5"/>
+      <shelf name="2017-books" count="4"/>
+      <shelf name="sociology" count="4"/>
+      <shelf name="entrepreneurship" count="4"/>
+      <shelf name="favorites" count="4"/>
+      <shelf name="blinkist" count="4"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="leadership" count="4"/>
+      <shelf name="to-read-non-fiction" count="4"/>
+      <shelf name="career" count="4"/>
+      <shelf name="ideas" count="4"/>
+      <shelf name="seth-godin" count="4"/>
+      <shelf name="learning" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="creativity" count="3"/>
+      <shelf name="2017-reading-list" count="3"/>
+      <shelf name="psychology" count="3"/>
+      <shelf name="futurology" count="3"/>
+      <shelf name="personal-development" count="3"/>
+      <shelf name="internet" count="3"/>
+      <shelf name="professional" count="3"/>
+      <shelf name="read-2017" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="philosophy" count="3"/>
+      <shelf name="non-fiction-to-read" count="3"/>
+      <shelf name="nonfiction-to-read" count="3"/>
+      <shelf name="21st-century" count="3"/>
+      <shelf name="professional-development" count="3"/>
+      <shelf name="giveaways" count="3"/>
+      <shelf name="popular-science" count="2"/>
+      <shelf name="artificial-intelligence" count="2"/>
+      <shelf name="art-of-charm" count="2"/>
+      <shelf name="agile" count="2"/>
+      <shelf name="unfinished" count="2"/>
+      <shelf name="to-read-nonfiction" count="2"/>
+      <shelf name="strategy" count="2"/>
+      <shelf name="to-read-business" count="2"/>
+      <shelf name="must-read" count="2"/>
+      <shelf name="life" count="2"/>
+      <shelf name="misc" count="2"/>
+      <shelf name="business-books" count="2"/>
+      <shelf name="management" count="2"/>
+      <shelf name="amazon" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="audiobook" count="2"/>
+      <shelf name="for-work" count="2"/>
+      <shelf name="current-events" count="2"/>
+      <shelf name="on-hold" count="2"/>
+      <shelf name="business-tech" count="2"/>
+      <shelf name="didn-t-finish" count="2"/>
+      <shelf name="2017-release" count="2"/>
+      <shelf name="economics" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="marketing" count="2"/>
+      <shelf name="science-and-technology" count="2"/>
+      <shelf name="non-fiction-tbr" count="2"/>
+      <shelf name="en" count="2"/>
+      <shelf name="educational" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="non-fiction-or-science-or-whatever" count="1"/>
+      <shelf name="w" count="1"/>
+      <shelf name="pocketbook" count="1"/>
+      <shelf name="to-get" count="1"/>
+      <shelf name="review" count="1"/>
+      <shelf name="src-tim-ferris" count="1"/>
+      <shelf name="src-george-raveling" count="1"/>
+      <shelf name="non" count="1"/>
+      <shelf name="futures-thinking" count="1"/>
+      <shelf name="professional-to-read" count="1"/>
+      <shelf name="2017nonfiction-grca" count="1"/>
+      <shelf name="covers" count="1"/>
+      <shelf name="2019-reading-list" count="1"/>
+      <shelf name="science-and-philosophy" count="1"/>
+      <shelf name="buy-list" count="1"/>
+      <shelf name="pubs" count="1"/>
+      <shelf name="interested" count="1"/>
+      <shelf name="stem" count="1"/>
+      <shelf name="adult" count="1"/>
+      <shelf name="2lf" count="1"/>
+      <shelf name="ob" count="1"/>
+      <shelf name="b" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17987621</id>
+<title><![CDATA[The Entrepreneurial State: Debunking Public vs. Private Sector Myths]]></title>
+<title_without_series><![CDATA[The Entrepreneurial State: Debunking Public vs. Private Sector Myths]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17987621-the-entrepreneurial-state]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369818314l/17987621._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369818314l/17987621._SX98_.jpg]]></image_url>
+<num_pages>266</num_pages>
+<work>
+<id>25223619</id>
+</work>
+<isbn>0857282514</isbn>
+<isbn13>9780857282514</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2137305</id>
+<name>Mariana Mazzucato</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2137305.Mariana_Mazzucato]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23526564</id>
+<title><![CDATA[Holacracy: The New Management System for a Rapidly Changing World]]></title>
+<title_without_series><![CDATA[Holacracy: The New Management System for a Rapidly Changing World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23526564-holacracy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426127698l/23526564._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426127698l/23526564._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>43129261</id>
+</work>
+<isbn>162779428X</isbn>
+<isbn13>9781627794282</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>9842187</id>
+<name>Brian J. Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9842187.Brian_J_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15802693</id>
+<title>Who Owns the Future?</title>
+<title_without_series>Who Owns the Future?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15802693-who-owns-the-future]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362536648l/15802693._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362536648l/15802693._SX98_.jpg]]></image_url>
+<num_pages>367</num_pages>
+<work>
+<id>21526102</id>
+</work>
+<isbn>1451654967</isbn>
+<isbn13>9781451654967</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3010868</id>
+<name>Jaron Lanier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3010868.Jaron_Lanier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38212111</id>
+<title><![CDATA[Machine, Platform, Crowd: Harnessing Our Digital Future]]></title>
+<title_without_series><![CDATA[Machine, Platform, Crowd: Harnessing Our Digital Future]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38212111-machine-platform-crowd]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519083095l/38212111._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519083095l/38212111._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>52832577</id>
+</work>
+<isbn>039335606X</isbn>
+<isbn13>9780393356069</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>2865914</id>
+<name>Andrew McAfee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2865914.Andrew_McAfee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6683549</id>
+<title>You Are Not a Gadget</title>
+<title_without_series>You Are Not a Gadget</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6683549-you-are-not-a-gadget]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320388392l/6683549._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320388392l/6683549._SX98_.jpg]]></image_url>
+<num_pages>221</num_pages>
+<work>
+<id>6878840</id>
+</work>
+<isbn>0307269647</isbn>
+<isbn13>9780307269645</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3010868</id>
+<name>Jaron Lanier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3010868.Jaron_Lanier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34490192</id>
+<title><![CDATA[Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything]]></title>
+<title_without_series><![CDATA[Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34490192-soonish]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488834408l/34490192._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488834408l/34490192._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>55611925</id>
+</work>
+<isbn>0399563822</isbn>
+<isbn13>9780399563829</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>16534466</id>
+<name>Kelly Weinersmith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16534466.Kelly_Weinersmith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36204378</id>
+<title><![CDATA[The Book of Why: The New Science of Cause and Effect]]></title>
+<title_without_series><![CDATA[The Book of Why: The New Science of Cause and Effect]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36204378-the-book-of-why]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>57834899</id>
+</work>
+<isbn>046509760X</isbn>
+<isbn13>9780465097609</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>101708</id>
+<name>Judea Pearl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/101708.Judea_Pearl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41795733</id>
+<title><![CDATA[Range: Why Generalists Triumph in a Specialized World]]></title>
+<title_without_series><![CDATA[Range: Why Generalists Triumph in a Specialized World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41795733-range]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550048292l/41795733._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550048292l/41795733._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>65183769</id>
+</work>
+<isbn>0735214484</isbn>
+<isbn13>9780735214484</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>7164089</id>
+<name>David   Epstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7164089.David_Epstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>354421</id>
+<title><![CDATA[Sync: The Emerging Science of Spontaneous Order]]></title>
+<title_without_series><![CDATA[Sync: The Emerging Science of Spontaneous Order]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/354421.Sync]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>344613</id>
+</work>
+<isbn>0786868449</isbn>
+<isbn13>9780786868445</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>47779</id>
+<name>Steven H. Strogatz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47779.Steven_H_Strogatz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34017076</id>
+<title><![CDATA[WTF?: What's the Future and Why It's Up to Us]]></title>
+<title_without_series><![CDATA[WTF?: What's the Future and Why It's Up to Us]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34017076-wtf]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502106956l/34017076._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502106956l/34017076._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>55014517</id>
+</work>
+<isbn>0062565710</isbn>
+<isbn13>9780062565716</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>18541</id>
+<name>Tim O&apos;Reilly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18541.Tim_O_Reilly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26245038</id>
+<title><![CDATA[The Seventh Sense: Power, Fortune, and Survival in the Age of Networks]]></title>
+<title_without_series><![CDATA[The Seventh Sense: Power, Fortune, and Survival in the Age of Networks]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26245038-the-seventh-sense]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463563103l/26245038._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463563103l/26245038._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>46238665</id>
+</work>
+<isbn>0316285064</isbn>
+<isbn13>9780316285063</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>676004</id>
+<name>Joshua Cooper Ramo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/676004.Joshua_Cooper_Ramo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20763722</id>
+<title><![CDATA[Why Information Grows: The Evolution of Order, from Atoms to Economies]]></title>
+<title_without_series><![CDATA[Why Information Grows: The Evolution of Order, from Atoms to Economies]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20763722-why-information-grows]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425975673l/20763722._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425975673l/20763722._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>43849674</id>
+</work>
+<isbn>0465048994</isbn>
+<isbn13>9780465048991</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6689162</id>
+<name>César A. Hidalgo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6689162.C_sar_A_Hidalgo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34272565</id>
+<title><![CDATA[Life 3.0: Being Human in the Age of Artificial Intelligence]]></title>
+<title_without_series><![CDATA[Life 3.0: Being Human in the Age of Artificial Intelligence]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34272565-life-3-0]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499718864l/34272565._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499718864l/34272565._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>55330998</id>
+</work>
+<isbn>0451485076</isbn>
+<isbn13>9780451485076</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7047581</id>
+<name>Max Tegmark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7047581.Max_Tegmark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20763746</id>
+<title><![CDATA[The Alliance: Managing Talent in the Networked Age]]></title>
+<title_without_series><![CDATA[The Alliance: Managing Talent in the Networked Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20763746-the-alliance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411447561l/20763746._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411447561l/20763746._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>40096636</id>
+</work>
+<isbn>1625275773</isbn>
+<isbn13>9781625275776</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5039437</id>
+<name>Reid Hoffman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5039437.Reid_Hoffman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27209431</id>
+<title><![CDATA[The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future]]></title>
+<title_without_series><![CDATA[The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27209431-the-inevitable]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057334l/27209431._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057334l/27209431._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>47250922</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>27388</id>
+<name>Kevin Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27388.Kevin_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30962055</id>
+<title><![CDATA[Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked]]></title>
+<title_without_series><![CDATA[Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30962055-irresistible]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479719623l/30962055._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479719623l/30962055._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>51577230</id>
+</work>
+<isbn>1594206643</isbn>
+<isbn13>9781594206641</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>6463598</id>
+<name>Adam Alter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6463598.Adam_Alter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30901608</id>
+<title><![CDATA[Hit Makers: The Science of Popularity in an Age of Distraction]]></title>
+<title_without_series><![CDATA[Hit Makers: The Science of Popularity in an Age of Distraction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30901608-hit-makers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481645075l/30901608._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481645075l/30901608._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>51532518</id>
+</work>
+<isbn>110198032X</isbn>
+<isbn13>9781101980323</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>16022861</id>
+<name>Derek   Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16022861.Derek_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>83533</id>
+<title><![CDATA[The Age of Spiritual Machines: When Computers Exceed Human Intelligence ]]></title>
+<title_without_series><![CDATA[The Age of Spiritual Machines: When Computers Exceed Human Intelligence]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83533.The_Age_of_Spiritual_Machines]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309284708l/83533._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309284708l/83533._SX98_.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>2518483</id>
+</work>
+<isbn>0140282025</isbn>
+<isbn13>9780140282023</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1106</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>47744</id>
+<name>Ray Kurzweil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47744.Ray_Kurzweil]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

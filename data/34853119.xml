@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34853119</id>
+  <title><![CDATA[Stephen Colbert's Midnight Confessions]]></title>
+  <isbn><![CDATA[1501169009]]></isbn>
+  <isbn13><![CDATA[9781501169007]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499340603l/34853119._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499340603l/34853119._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Simon  Schuster</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">60623814</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">34853119</best_book_id>
+  <reviews_count type="integer">6663</reviews_count>
+  <ratings_sum type="integer">6413</ratings_sum>
+  <ratings_count type="integer">1818</ratings_count>
+  <text_reviews_count type="integer">335</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:327|4:595|3:650|2:202|1:44|total:1818</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.et-jMJF8KnI0uQNkyCofLA</work_uri>
+</work>
+  <average_rating>3.53</average_rating>
+  <num_pages><![CDATA[208]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[951]]></ratings_count>
+  <text_reviews_count><![CDATA[159]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34853119-stephen-colbert-s-midnight-confessions]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34853119-stephen-colbert-s-midnight-confessions]]></link>
+  <authors>
+<author>
+<id>6649</id>
+<name>Stephen Colbert</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192028567p5/6649.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192028567p2/6649.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6649.Stephen_Colbert]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>181668</ratings_count>
+<text_reviews_count>6956</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34853119-stephen-colbert-s-midnight-confessions">Stephen Colbert&#39;s Midnight Confessions Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1501169009&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/34853119-stephen-colbert-s-midnight-confessions?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4306"/>
+      <shelf name="humor" count="147"/>
+      <shelf name="non-fiction" count="71"/>
+      <shelf name="nonfiction" count="35"/>
+      <shelf name="comedy" count="32"/>
+      <shelf name="audiobook" count="22"/>
+      <shelf name="currently-reading" count="17"/>
+      <shelf name="library" count="12"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="read-in-2017" count="11"/>
+      <shelf name="humour" count="11"/>
+      <shelf name="funny" count="9"/>
+      <shelf name="fiction" count="9"/>
+      <shelf name="read-2018" count="8"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="read-2017" count="6"/>
+      <shelf name="favorites" count="6"/>
+      <shelf name="books-i-own" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="2017-books" count="6"/>
+      <shelf name="memoir" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="2018-books" count="5"/>
+      <shelf name="pop-culture" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="2018-read" count="5"/>
+      <shelf name="books-read-in-2017" count="4"/>
+      <shelf name="audio_wanted" count="4"/>
+      <shelf name="read-2019" count="4"/>
+      <shelf name="read-in-2018" count="4"/>
+      <shelf name="humorous" count="4"/>
+      <shelf name="satire" count="3"/>
+      <shelf name="overdrive" count="3"/>
+      <shelf name="2018-reads" count="3"/>
+      <shelf name="listened-to" count="3"/>
+      <shelf name="television" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="adult-non-fiction" count="3"/>
+      <shelf name="audio-books" count="2"/>
+      <shelf name="2018-books-read" count="2"/>
+      <shelf name="celebrity" count="2"/>
+      <shelf name="reviewed" count="2"/>
+      <shelf name="audible-wishlist" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="kindle" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="nonfiction-to-read" count="2"/>
+      <shelf name="libby" count="2"/>
+      <shelf name="tv" count="2"/>
+      <shelf name="religion" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="2018-challenge" count="2"/>
+      <shelf name="2018-reading-challenge" count="2"/>
+      <shelf name="american-politics" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="published-2017" count="2"/>
+      <shelf name="parody" count="2"/>
+      <shelf name="media" count="2"/>
+      <shelf name="library-book" count="2"/>
+      <shelf name="goodreads-choice-awards" count="2"/>
+      <shelf name="buy" count="2"/>
+      <shelf name="biography-memoir" count="2"/>
+      <shelf name="biographies" count="2"/>
+      <shelf name="adult-nonfiction" count="2"/>
+      <shelf name="2017-releases" count="2"/>
+      <shelf name="personal-library" count="1"/>
+      <shelf name="light-reading" count="1"/>
+      <shelf name="big-people-books" count="1"/>
+      <shelf name="try" count="1"/>
+      <shelf name="z_18" count="1"/>
+      <shelf name="words-words-words-well-placed" count="1"/>
+      <shelf name="warm-fuzzies" count="1"/>
+      <shelf name="unexpected-twist" count="1"/>
+      <shelf name="listened-to-audiobook" count="1"/>
+      <shelf name="lb" count="1"/>
+      <shelf name="funny-bone-lolness" count="1"/>
+      <shelf name="check-shelves" count="1"/>
+      <shelf name="cannot-read-listen-only" count="1"/>
+      <shelf name="calibre" count="1"/>
+      <shelf name="nonfictions" count="1"/>
+      <shelf name="laughing-audibly" count="1"/>
+      <shelf name="award-gr-nom" count="1"/>
+      <shelf name="2018-reading-list" count="1"/>
+      <shelf name="07-ptr_secundarium" count="1"/>
+      <shelf name="up-next" count="1"/>
+      <shelf name="unread" count="1"/>
+      <shelf name="trc2018" count="1"/>
+      <shelf name="tccl" count="1"/>
+      <shelf name="snippets" count="1"/>
+      <shelf name="ref_window_shopping" count="1"/>
+      <shelf name="recommended-to-me" count="1"/>
+      <shelf name="read-finished" count="1"/>
+      <shelf name="pop-goes-the-culture" count="1"/>
+      <shelf name="non-fiction-to-read" count="1"/>
+      <shelf name="need-a-chuckle" count="1"/>
+      <shelf name="idiot-box" count="1"/>
+      <shelf name="d-audio" count="1"/>
+      <shelf name="current-books" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>42080143</id>
+<title><![CDATA[Whose Boat Is This Boat?: Comments That Don't Help in the Aftermath of a Hurricane]]></title>
+<title_without_series><![CDATA[Whose Boat Is This Boat?: Comments That Don't Help in the Aftermath of a Hurricane]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42080143-whose-boat-is-this-boat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539509082l/42080143._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539509082l/42080143._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>65623804</id>
+</work>
+<isbn>1982121084</isbn>
+<isbn13>9781982121082</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>16717801</id>
+<name><![CDATA[The Staff of the Late Show with Stephen Colbert]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/16717801.The_Staff_of_the_Late_Show_with_Stephen_Colbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43813147</id>
+<title><![CDATA[Onyx Elixir (Mixologists and Pirates Book 5)]]></title>
+<title_without_series>Onyx Elixir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43813147-onyx-elixir]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68176435</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16343957</id>
+<name>Frost Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16343957.Frost_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41015912</id>
+<title><![CDATA[Scarlet Venom (Mixologists and Pirates Book 3)]]></title>
+<title_without_series>Scarlet Venom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41015912-scarlet-venom]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63999301</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16343957</id>
+<name>Frost Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16343957.Frost_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42974202</id>
+<title><![CDATA[Cyan Toxin (Mixologists and Pirates Book 4)]]></title>
+<title_without_series>Cyan Toxin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42974202-cyan-toxin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66803639</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16343957</id>
+<name>Frost Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16343957.Frost_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10505349</id>
+<title>Thank You Notes</title>
+<title_without_series>Thank You Notes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10505349-thank-you-notes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267998l/10505349._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267998l/10505349._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>15411212</id>
+</work>
+<isbn>0892967412</isbn>
+<isbn13>9780892967414</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>77033</id>
+<name>Jimmy Fallon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77033.Jimmy_Fallon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36443967</id>
+<title><![CDATA[Emerald Bane (Mixologists and Pirates #2)]]></title>
+<title_without_series>Emerald Bane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36443967-emerald-bane]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58146238</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16343957</id>
+<name>Frost Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16343957.Frost_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34458331</id>
+<title><![CDATA[You Can't Spell America Without Me: The Really Tremendous Inside Story of My Fantastic First Year as President Donald J. Trump]]></title>
+<title_without_series><![CDATA[You Can't Spell America Without Me: The Really Tremendous Inside Story of My Fantastic First Year as President Donald J. Trump]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34458331-you-can-t-spell-america-without-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490983890l/34458331._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490983890l/34458331._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>55573594</id>
+</work>
+<isbn>0525521992</isbn>
+<isbn13>9780525521990</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1414078</id>
+<name>Alec Baldwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1414078.Alec_Baldwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28964412</id>
+<title><![CDATA[The Daily Show: An Oral History as Told by Jon Stewart, the Correspondents, Staff and Guests]]></title>
+<title_without_series><![CDATA[The Daily Show: An Oral History as Told by Jon Stewart, the Correspondents, Staff and Guests]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28964412-the-daily-show]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479408836l/28964412._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479408836l/28964412._SX98_.jpg]]></image_url>
+<num_pages>16</num_pages>
+<work>
+<id>49192296</id>
+</work>
+<isbn>1478936568</isbn>
+<isbn13>9781478936565</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>9</id>
+<name>Chris Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9.Chris_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28501538</id>
+<title>Penguins of America</title>
+<title_without_series>Penguins of America</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28501538-penguins-of-america]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518146845l/28501538._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518146845l/28501538._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>48654615</id>
+</work>
+<isbn>1780895909</isbn>
+<isbn13>9781780895901</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3780</id>
+<name>James Patterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3780.James_Patterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45416005</id>
+<title>The Devil and Harper Lee</title>
+<title_without_series>The Devil and Harper Lee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45416005-the-devil-and-harper-lee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556632700l/45416005._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556632700l/45416005._SX98_.jpg]]></image_url>
+<num_pages>119</num_pages>
+<work>
+<id>70160825</id>
+</work>
+<isbn></isbn>
+<isbn13>9781645399728</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>429488</id>
+<name>Mark Seal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/429488.Mark_Seal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40513822</id>
+<title><![CDATA[Amber Vial (Mixologists and Pirates, #1)]]></title>
+<title_without_series>Amber Vial</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40513822-amber-vial]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>39</num_pages>
+<work>
+<id>62865789</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16343957</id>
+<name>Frost Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16343957.Frost_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>476800</id>
+<title><![CDATA[G-Strings and Sympathy: Strip Club Regulars and Male Desire]]></title>
+<title_without_series><![CDATA[G-Strings and Sympathy: Strip Club Regulars and Male Desire]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/476800.G_Strings_and_Sympathy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344744008l/476800._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344744008l/476800._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>465036</id>
+</work>
+<isbn>0822329727</isbn>
+<isbn13>9780822329725</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7126619</id>
+<name>Katherine  Frank</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126619.Katherine_Frank]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40194344</id>
+<title><![CDATA[The Donald J. Trump Presidential Twitter Library]]></title>
+<title_without_series><![CDATA[The Donald J. Trump Presidential Twitter Library]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40194344-the-donald-j-trump-presidential-twitter-library]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527017066l/40194344._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527017066l/40194344._SX98_.jpg]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>62380275</id>
+</work>
+<isbn>1984801880</isbn>
+<isbn13>9781984801883</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>18210028</id>
+<name><![CDATA[The Daily Show with Trevor Noah]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/18210028.The_Daily_Show_with_Trevor_Noah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34466909</id>
+<title><![CDATA[The Grouchy Historian: An Old-Time Lefty Defends Our Constitution Against Right-Wing Hypocrites and Nutjobs]]></title>
+<title_without_series><![CDATA[The Grouchy Historian: An Old-Time Lefty Defends Our Constitution Against Right-Wing Hypocrites and Nutjobs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34466909-the-grouchy-historian]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507457665l/34466909._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507457665l/34466909._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>55586990</id>
+</work>
+<isbn>1501166026</isbn>
+<isbn13>9781501166020</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>173144</id>
+<name>Ed Asner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173144.Ed_Asner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13590579</id>
+<title><![CDATA[Drawing and Painting Imaginary Animals: A Mixed-Media Workshop with Carla Sonheim]]></title>
+<title_without_series><![CDATA[Drawing and Painting Imaginary Animals: A Mixed-Media Workshop with Carla Sonheim]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13590579-drawing-and-painting-imaginary-animals]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378324102l/13590579._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378324102l/13590579._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>19178563</id>
+</work>
+<isbn>1592538053</isbn>
+<isbn13>9781592538058</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3455184</id>
+<name>Carla Sonheim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3455184.Carla_Sonheim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18693601</id>
+<title>Creativity: The Perfect Crime</title>
+<title_without_series>Creativity: The Perfect Crime</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18693601-creativity]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392914591l/18693601._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392914591l/18693601._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>26542145</id>
+</work>
+<isbn>1594631689</isbn>
+<isbn13>9781594631689</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>284517</id>
+<name>Philippe Petit</name>
+<link><![CDATA[https://www.goodreads.com/author/show/284517.Philippe_Petit]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16059655</id>
+<title><![CDATA[Co-Mix: A Retrospective of Comics, Graphics, and Scraps]]></title>
+<title_without_series><![CDATA[Co-Mix: A Retrospective of Comics, Graphics, and Scraps]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16059655-co-mix]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353396742l/16059655._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353396742l/16059655._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>21846419</id>
+</work>
+<isbn>1770461140</isbn>
+<isbn13>9781770461147</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5117</id>
+<name>Art Spiegelman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5117.Art_Spiegelman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2353213</id>
+<title>How to Be an Illustrator</title>
+<title_without_series>How to Be an Illustrator</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2353213.How_to_Be_an_Illustrator]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2359935</id>
+</work>
+<isbn>1856695301</isbn>
+<isbn13>9781856695305</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1055416</id>
+<name>Darrel Rees</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1055416.Darrel_Rees]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

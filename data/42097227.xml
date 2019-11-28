@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>42097227</id>
+  <title>Guts</title>
+  <isbn><![CDATA[0545852501]]></isbn>
+  <isbn13><![CDATA[9780545852500]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538831809l/42097227._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538831809l/42097227._SX50_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Graphix</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A true story from Raina Telgemeier, the #1 <i>New York Times</i> bestselling, multiple Eisner Award-winning author of <i>Smile</i>, <i>Sisters</i>, <i>Drama</i>, and <i>Ghosts</i>!</b><br /><br />Raina wakes up one night with a terrible upset stomach. Her mom has one, too, so it's probably just a bug. Raina eventually returns to school, where she's dealing with the usual highs and lows: friends, not-friends, and classmates who think the school year is just one long gross-out session. It soon becomes clear that Raina's tummy trouble isn't going away... and it coincides with her worries about food, school, and changing friendships. What's going on?<br /><br /><b>Raina Telgemeier once again brings us a thoughtful, charming, and funny true story about growing up and gathering the courage to face -- and conquer -- her fears.</b>]]></description>
+  <work>
+  <id type="integer">65791922</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">42190572</best_book_id>
+  <reviews_count type="integer">24184</reviews_count>
+  <ratings_sum type="integer">36091</ratings_sum>
+  <ratings_count type="integer">8248</ratings_count>
+  <text_reviews_count type="integer">1385</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">17</original_publication_day>
+  <original_title>Guts</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4462|4:2704|3:881|2:121|1:80|total:8248</rating_dist>
+  <desc_user_id type="integer">2602702</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.zAhrtxNS0lPokm-LXm_clw</work_uri>
+</work>
+  <average_rating>4.38</average_rating>
+  <num_pages><![CDATA[213]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[646]]></ratings_count>
+  <text_reviews_count><![CDATA[103]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/42097227-guts]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/42097227-guts]]></link>
+  <authors>
+<author>
+<id>21618</id>
+<name>Raina Telgemeier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1200153437p5/21618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1200153437p2/21618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21618.Raina_Telgemeier]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>414059</ratings_count>
+<text_reviews_count>29554</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/42097227-guts">Guts Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545852501&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/42097227-guts?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="12200"/>
+      <shelf name="currently-reading" count="994"/>
+      <shelf name="graphic-novels" count="581"/>
+      <shelf name="graphic-novel" count="478"/>
+      <shelf name="middle-grade" count="287"/>
+      <shelf name="memoir" count="121"/>
+      <shelf name="comics" count="100"/>
+      <shelf name="childrens" count="66"/>
+      <shelf name="guts" count="65"/>
+      <shelf name="read-in-2019" count="63"/>
+      <shelf name="mental-health" count="56"/>
+      <shelf name="realistic-fiction" count="55"/>
+      <shelf name="friendship" count="52"/>
+      <shelf name="middle-school" count="50"/>
+      <shelf name="children" count="47"/>
+      <shelf name="young-adult" count="47"/>
+      <shelf name="juvenile" count="46"/>
+      <shelf name="kids" count="46"/>
+      <shelf name="nonfiction" count="41"/>
+      <shelf name="children-s" count="37"/>
+      <shelf name="ya" count="36"/>
+      <shelf name="2019-reads" count="35"/>
+      <shelf name="graphic" count="35"/>
+      <shelf name="non-fiction" count="35"/>
+      <shelf name="anxiety" count="34"/>
+      <shelf name="graphic-novels-comics" count="33"/>
+      <shelf name="favorites" count="32"/>
+      <shelf name="family" count="30"/>
+      <shelf name="fiction" count="28"/>
+      <shelf name="read-2019" count="27"/>
+      <shelf name="middle-grades" count="26"/>
+      <shelf name="realistic" count="25"/>
+      <shelf name="tween" count="24"/>
+      <shelf name="school" count="23"/>
+      <shelf name="kids-books" count="22"/>
+      <shelf name="mental-illness" count="22"/>
+      <shelf name="memoirs" count="21"/>
+      <shelf name="contemporary" count="21"/>
+      <shelf name="biography" count="21"/>
+      <shelf name="children-s-books" count="20"/>
+      <shelf name="arc" count="19"/>
+      <shelf name="biography-memoir" count="19"/>
+      <shelf name="comics-graphic-novels" count="18"/>
+      <shelf name="2019-books" count="18"/>
+      <shelf name="series" count="16"/>
+      <shelf name="humor" count="16"/>
+      <shelf name="graphic-novels-and-comics" count="16"/>
+      <shelf name="books-read-in-2019" count="15"/>
+      <shelf name="juvenile-fiction" count="15"/>
+      <shelf name="kid-lit" count="14"/>
+      <shelf name="2019-read" count="14"/>
+      <shelf name="2019-releases" count="14"/>
+      <shelf name="coming-of-age" count="13"/>
+      <shelf name="illness" count="13"/>
+      <shelf name="library" count="12"/>
+      <shelf name="gn" count="12"/>
+      <shelf name="children-s-lit" count="12"/>
+      <shelf name="teen" count="11"/>
+      <shelf name="2019-2020-school-year" count="10"/>
+      <shelf name="autobiography" count="10"/>
+      <shelf name="childrens-lit" count="10"/>
+      <shelf name="families" count="10"/>
+      <shelf name="books-i-own" count="10"/>
+      <shelf name="bullying" count="10"/>
+      <shelf name="jfic" count="10"/>
+      <shelf name="childrens-books" count="10"/>
+      <shelf name="comics-and-graphic-novels" count="10"/>
+      <shelf name="library-book" count="9"/>
+      <shelf name="graphics" count="9"/>
+      <shelf name="tweens" count="9"/>
+      <shelf name="graphic-novel-comic" count="9"/>
+      <shelf name="j-fiction" count="9"/>
+      <shelf name="childrens-literature" count="9"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="graphic-novel-manga" count="9"/>
+      <shelf name="middlegrade" count="9"/>
+      <shelf name="youth" count="9"/>
+      <shelf name="memoir-biography" count="8"/>
+      <shelf name="feelings" count="8"/>
+      <shelf name="raina" count="8"/>
+      <shelf name="elementary" count="7"/>
+      <shelf name="middle-reader" count="7"/>
+      <shelf name="2019-books-read" count="7"/>
+      <shelf name="children-s-literature" count="7"/>
+      <shelf name="comic" count="7"/>
+      <shelf name="sequential-art" count="7"/>
+      <shelf name="junior" count="6"/>
+      <shelf name="therapy" count="6"/>
+      <shelf name="growing-up" count="6"/>
+      <shelf name="j-books" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="2019-2020" count="6"/>
+      <shelf name="middle-grade-books" count="6"/>
+      <shelf name="favourites" count="6"/>
+      <shelf name="new-books" count="6"/>
+      <shelf name="juvenile-graphic-novels" count="6"/>
+      <shelf name="funny" count="6"/>
+      <shelf name="graphicnovel" count="6"/>
+      <shelf name="emotions" count="6"/>
+      <shelf name="arcs" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1454921</id>
+<user_position>3</user_position>
+<series>
+<id>126730</id>
+<title>
+<![CDATA[
+    Smile
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>42346392</id>
+<title><![CDATA[Best Friends (Real Friends, #2)]]></title>
+<title_without_series>Best Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42346392-best-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539635296l/42346392._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539635296l/42346392._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65992712</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>49177</id>
+<name>Shannon Hale</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49177.Shannon_Hale]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43319654</id>
+<title>Sunny Rolls the Dice</title>
+<title_without_series>Sunny Rolls the Dice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43319654-sunny-rolls-the-dice]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550357246l/43319654._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550357246l/43319654._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>67230991</id>
+</work>
+<isbn>1338233157</isbn>
+<isbn13>9781338233155</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>137561</id>
+<name>Jennifer L. Holm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/137561.Jennifer_L_Holm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43319659</id>
+<title>Boy-Crazy Stacey</title>
+<title_without_series>Boy-Crazy Stacey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43319659-boy-crazy-stacey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547657459l/43319659._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547657459l/43319659._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>67230995</id>
+</work>
+<isbn>1338304518</isbn>
+<isbn13>9781338304510</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>15108045</id>
+<name>Gale Galligan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15108045.Gale_Galligan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864836</id>
+<title>Stargazing</title>
+<title_without_series>Stargazing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864836-stargazing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537662757l/40864836._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537662757l/40864836._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>63657578</id>
+</work>
+<isbn>125018388X</isbn>
+<isbn13>9781250183880</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>1557381</id>
+<name>Jen Wang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1557381.Jen_Wang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42898923</id>
+<title>White Bird</title>
+<title_without_series>White Bird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42898923-white-bird]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>66683700</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4859212</id>
+<name>R.J. Palacio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4859212.R_J_Palacio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40402006</id>
+<title>Just Jaime</title>
+<title_without_series>Just Jaime</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40402006-just-jaime]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544273082l/40402006._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544273082l/40402006._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>62718975</id>
+</work>
+<isbn>006285108X</isbn>
+<isbn13>9780062851086</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4827238</id>
+<name>Terri Libenson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4827238.Terri_Libenson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822757</id>
+<title>The Okay Witch</title>
+<title_without_series>The Okay Witch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822757-the-okay-witch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052630l/43822757._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052630l/43822757._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>68194603</id>
+</work>
+<isbn>1534431454</isbn>
+<isbn13>9781534431454</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>16313412</id>
+<name>Emma Steinkellner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16313412.Emma_Steinkellner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22552033</id>
+<title>Look Both Ways</title>
+<title_without_series>Look Both Ways</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22552033-look-both-ways]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556911253l/22552033._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556911253l/22552033._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>42009817</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864790</id>
+<title>Pumpkinheads</title>
+<title_without_series>Pumpkinheads</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864790-pumpkinheads]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX98_.jpg]]></image_url>
+<num_pages>209</num_pages>
+<work>
+<id>42907220</id>
+</work>
+<isbn>125031285X</isbn>
+<isbn13>9781250312853</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41473807</id>
+<title><![CDATA[Making Friends: Back to the Drawing Board (Making Friends #2)]]></title>
+<title_without_series><![CDATA[Making Friends: Back to the Drawing Board]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41473807-making-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557782191l/41473807._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557782191l/41473807._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>64748597</id>
+</work>
+<isbn>1338139266</isbn>
+<isbn13>9781338139266</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>13794812</id>
+<name>Kristen Gudsnuk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13794812.Kristen_Gudsnuk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36005510</id>
+<title>New Kid</title>
+<title_without_series>New Kid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36005510-new-kid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544415378l/36005510._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544415378l/36005510._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57574554</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>919377</id>
+<name>Jerry Craft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/919377.Jerry_Craft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42873833</id>
+<title>Camp</title>
+<title_without_series>Camp</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42873833-camp]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545529613l/42873833._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545529613l/42873833._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>66664214</id>
+</work>
+<isbn>1328530825</isbn>
+<isbn13>9781328530820</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>7562420</id>
+<name>Kayla Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7562420.Kayla_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37570594</id>
+<title>Click</title>
+<title_without_series>Click</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37570594-click]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637360l/37570594._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637360l/37570594._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>59181815</id>
+</work>
+<isbn>1328911128</isbn>
+<isbn13>9781328911124</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7562420</id>
+<name>Kayla Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7562420.Kayla_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864829</id>
+<title>This Was Our Pact</title>
+<title_without_series>This Was Our Pact</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864829-this-was-our-pact]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536917259l/40864829._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536917259l/40864829._SX98_.jpg]]></image_url>
+<num_pages>330</num_pages>
+<work>
+<id>65285306</id>
+</work>
+<isbn>1626720533</isbn>
+<isbn13>9781626720534</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>7716851</id>
+<name>Ryan  Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7716851.Ryan_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37921713</id>
+<title>Kristy&apos;s Big Day</title>
+<title_without_series>Kristy&apos;s Big Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37921713-kristy-s-big-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534351841l/37921713._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534351841l/37921713._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59634780</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15108045</id>
+<name>Gale Galligan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15108045.Gale_Galligan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43261170</id>
+<title>The Crossover</title>
+<title_without_series>The Crossover</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43261170-the-crossover]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560048353l/43261170._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560048353l/43261170._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>67138954</id>
+</work>
+<isbn>1328960013</isbn>
+<isbn13>9781328960016</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42527866</id>
+<title>They Called Us Enemy</title>
+<title_without_series>They Called Us Enemy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42527866-they-called-us-enemy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541125895l/42527866._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541125895l/42527866._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>66245778</id>
+</work>
+<isbn>1603094504</isbn>
+<isbn13>9781603094504</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>260482</id>
+<name>George Takei</name>
+<link><![CDATA[https://www.goodreads.com/author/show/260482.George_Takei]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42642090</id>
+<title><![CDATA[Mighty Jack and Zita the Spacegirl (Mighty Jack, #3; Zita the Spacegirl, #4)]]></title>
+<title_without_series><![CDATA[Mighty Jack and Zita the Spacegirl]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42642090-mighty-jack-and-zita-the-spacegirl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553768597l/42642090._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553768597l/42642090._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>66378737</id>
+</work>
+<isbn>1250191726</isbn>
+<isbn13>9781250191724</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>8248</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3212743</id>
+<name>Ben Hatke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3212743.Ben_Hatke]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

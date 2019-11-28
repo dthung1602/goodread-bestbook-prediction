@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>32920015</id>
+  <title>Bone White</title>
+  <isbn><![CDATA[149670388X]]></isbn>
+  <isbn13><![CDATA[9781496703880]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480378494l/32920015._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480378494l/32920015._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Kensington Publishing Corporation</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>A landscape of frozen darkness punctuated by grim, gray days. <br />The feeling like a buzz in your teeth.<br />The scrape of bone on bone. . .</i><br /><br />Paul Gallo saw the report on the news: a mass murderer leading police to his victims graves, in remote Dread's Hand, Alaska.<br /><br />It's not even a town; more like the bad memory of a town. The same bit of wilderness where his twin brother went missing a year ago. As the bodies are exhumed, Paul travels to Alaska to get closure and put his grief to rest.<br /><br />But the mystery is only beginning. What Paul finds are superstitious locals who talk of the devil stealing souls, and a line of wooden crosses to keep what's in the woods from coming out. He finds no closure because no one can explain exactly what happened to Danny.<br /><br />And the more he searches for answers, the more he finds himself becoming part of the mystery. . .]]></description>
+  <work>
+  <id type="integer">53537732</id>
+  <books_count type="integer">12</books_count>
+  <best_book_id type="integer">32920015</best_book_id>
+  <reviews_count type="integer">7887</reviews_count>
+  <ratings_sum type="integer">6096</ratings_sum>
+  <ratings_count type="integer">1564</ratings_count>
+  <text_reviews_count type="integer">288</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Bone White</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:418|4:684|3:360|2:88|1:14|total:1564</rating_dist>
+  <desc_user_id type="integer">15822735</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.nQst_gpECz7baqGRMDj2uw</work_uri>
+</work>
+  <average_rating>3.90</average_rating>
+  <num_pages><![CDATA[384]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1093]]></ratings_count>
+  <text_reviews_count><![CDATA[207]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32920015-bone-white]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32920015-bone-white]]></link>
+  <authors>
+<author>
+<id>3512996</id>
+<name>Ronald Malfi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1283295839p5/3512996.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1283295839p2/3512996.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3512996.Ronald_Malfi]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>12800</ratings_count>
+<text_reviews_count>2146</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32920015-bone-white">Bone White Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=149670388X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/32920015-bone-white?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5824"/>
+      <shelf name="horror" count="256"/>
+      <shelf name="currently-reading" count="141"/>
+      <shelf name="mystery" count="46"/>
+      <shelf name="fiction" count="30"/>
+      <shelf name="thriller" count="24"/>
+      <shelf name="favorites" count="13"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="audiobook" count="9"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="netgalley" count="8"/>
+      <shelf name="mystery-thriller" count="8"/>
+      <shelf name="thrillers" count="7"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="audiobooks" count="6"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="mystery-suspense" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="ronald-malfi" count="5"/>
+      <shelf name="creepy" count="5"/>
+      <shelf name="horror-to-read" count="5"/>
+      <shelf name="winter" count="5"/>
+      <shelf name="2017-releases" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="read-in-2018" count="4"/>
+      <shelf name="read-2018" count="4"/>
+      <shelf name="maybe" count="4"/>
+      <shelf name="fantasy" count="4"/>
+      <shelf name="crime" count="4"/>
+      <shelf name="supernatural" count="4"/>
+      <shelf name="suspense-thriller" count="4"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="read-in-2019" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="books-read-in-2018" count="3"/>
+      <shelf name="scribd" count="3"/>
+      <shelf name="demons" count="3"/>
+      <shelf name="2018-reads" count="3"/>
+      <shelf name="not-at-library" count="3"/>
+      <shelf name="goodreads-choice-awards" count="3"/>
+      <shelf name="thriller-horror" count="3"/>
+      <shelf name="to-read-horror" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="paranormal" count="3"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="dark-fiction" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="ЭБ" count="2"/>
+      <shelf name="2019-reads" count="2"/>
+      <shelf name="did-not-finish" count="2"/>
+      <shelf name="want-to-read-horror" count="2"/>
+      <shelf name="fiction-horror" count="2"/>
+      <shelf name="devil" count="2"/>
+      <shelf name="want-to-buy" count="2"/>
+      <shelf name="psychological-thriller" count="2"/>
+      <shelf name="i-own" count="2"/>
+      <shelf name="stand-alones" count="2"/>
+      <shelf name="2018-read" count="2"/>
+      <shelf name="bookshelf" count="2"/>
+      <shelf name="folklore" count="2"/>
+      <shelf name="alaska" count="2"/>
+      <shelf name="stand-alone" count="2"/>
+      <shelf name="audible" count="2"/>
+      <shelf name="questionable" count="2"/>
+      <shelf name="2018-books" count="2"/>
+      <shelf name="kindle-to-read" count="2"/>
+      <shelf name="suspense" count="2"/>
+      <shelf name="paranormal-supernatural" count="2"/>
+      <shelf name="best-of-2017" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="horror-thriller" count="2"/>
+      <shelf name="standalone" count="2"/>
+      <shelf name="crime-mystery" count="2"/>
+      <shelf name="horror-scary" count="2"/>
+      <shelf name="fiction-to-read" count="2"/>
+      <shelf name="need" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="death" count="2"/>
+      <shelf name="atmospheric" count="2"/>
+      <shelf name="cover-love" count="2"/>
+      <shelf name="hoopla" count="2"/>
+      <shelf name="e-book" count="2"/>
+      <shelf name="published-2017" count="2"/>
+      <shelf name="read-next" count="2"/>
+      <shelf name="thriller-suspense" count="2"/>
+      <shelf name="crime-thriller" count="2"/>
+      <shelf name="contemporary-fiction" count="2"/>
+      <shelf name="contemporary" count="2"/>
+      <shelf name="my-bookshelf" count="1"/>
+      <shelf name="tbr-old" count="1"/>
+      <shelf name="personal" count="1"/>
+      <shelf name="monster-mash" count="1"/>
+      <shelf name="superhuman" count="1"/>
+      <shelf name="read-fiction" count="1"/>
+      <shelf name="angels-and-demons" count="1"/>
+      <shelf name="read-in-portuguese" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>45718831</id>
+<title>The Reddening</title>
+<title_without_series>The Reddening</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45718831-the-reddening]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566913256l/45718831._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566913256l/45718831._SX98_.jpg]]></image_url>
+<num_pages>415</num_pages>
+<work>
+<id>70497929</id>
+</work>
+<isbn>1916094104</isbn>
+<isbn13>9781916094109</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>3381686</id>
+<name>Adam Nevill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3381686.Adam_Nevill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30221892</id>
+<title>A God in the Shed</title>
+<title_without_series>A God in the Shed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30221892-a-god-in-the-shed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493384909l/30221892._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493384909l/30221892._SX98_.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>50675621</id>
+</work>
+<isbn>194264535X</isbn>
+<isbn13>9781942645351</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>9820157</id>
+<name>J-F Dubeau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9820157.J_F_Dubeau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34065268</id>
+<title>Kill Creek</title>
+<title_without_series>Kill Creek</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34065268-kill-creek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490250721l/34065268._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490250721l/34065268._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>55075669</id>
+</work>
+<isbn>1942645821</isbn>
+<isbn13>9781942645825</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>15418022</id>
+<name>Scott   Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15418022.Scott_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30285766</id>
+<title>The Hunger</title>
+<title_without_series>The Hunger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30285766-the-hunger]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497803277l/30285766._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497803277l/30285766._SX98_.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>50762090</id>
+</work>
+<isbn>0735212511</isbn>
+<isbn13>9780735212510</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3387293</id>
+<name>Alma Katsu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3387293.Alma_Katsu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45038593</id>
+<title>If You See Her</title>
+<title_without_series>If You See Her</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45038593-if-you-see-her]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555209478l/45038593._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555209478l/45038593._SX98_.jpg]]></image_url>
+<num_pages>293</num_pages>
+<work>
+<id>69730930</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4867939</id>
+<name>Ania Ahlborn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4867939.Ania_Ahlborn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31302864</id>
+<title>I Call Upon Thee</title>
+<title_without_series>I Call Upon Thee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31302864-i-call-upon-thee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502169173l/31302864._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502169173l/31302864._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>52590509</id>
+</work>
+<isbn>1476783772</isbn>
+<isbn13>9781476783772</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4867939</id>
+<name>Ania Ahlborn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4867939.Ania_Ahlborn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29901930</id>
+<title>The Fisherman</title>
+<title_without_series>The Fisherman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29901930-the-fisherman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461603054l/29901930._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461603054l/29901930._SX98_.jpg]]></image_url>
+<num_pages>266</num_pages>
+<work>
+<id>50275540</id>
+</work>
+<isbn>1939905214</isbn>
+<isbn13>9781939905215</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7083555</id>
+<name>John  Langan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7083555.John_Langan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38608066</id>
+<title>The Siren and the Specter</title>
+<title_without_series>The Siren and the Specter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38608066-the-siren-and-the-specter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518907734l/38608066._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518907734l/38608066._SX98_.jpg]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>60217479</id>
+</work>
+<isbn>1787580075</isbn>
+<isbn13>9781787580077</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4389526</id>
+<name>Jonathan Janz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4389526.Jonathan_Janz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38200785</id>
+<title><![CDATA[The Nightmare Room (The Messy Man, #1)]]></title>
+<title_without_series>The Nightmare Room</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38200785-the-nightmare-room]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>59869074</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1317657</id>
+<name>Chris   Sorensen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1317657.Chris_Sorensen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35917172</id>
+<title>Blanky</title>
+<title_without_series>Blanky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35917172-blanky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501936113l/35917172._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501936113l/35917172._SX98_.jpg]]></image_url>
+<num_pages>73</num_pages>
+<work>
+<id>57447246</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35682516</id>
+<title>The Handyman</title>
+<title_without_series>The Handyman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35682516-the-handyman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500140527l/35682516._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500140527l/35682516._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>57159731</id>
+</work>
+<isbn>1587676168</isbn>
+<isbn13>9781587676161</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2998</id>
+<name>Bentley Little</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2998.Bentley_Little]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15793201</id>
+<title>Last Days</title>
+<title_without_series>Last Days</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15793201-last-days]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344319467l/15793201._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344319467l/15793201._SX98_.jpg]]></image_url>
+<num_pages>531</num_pages>
+<work>
+<id>19267664</id>
+</work>
+<isbn>1250018188</isbn>
+<isbn13>9781250018182</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>3381686</id>
+<name>Adam Nevill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3381686.Adam_Nevill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39655749</id>
+<title>The Sorrows</title>
+<title_without_series>The Sorrows</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39655749-the-sorrows]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543097498l/39655749._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543097498l/39655749._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>17983061</id>
+</work>
+<isbn>178758058X</isbn>
+<isbn13>9781787580589</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4389526</id>
+<name>Jonathan Janz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4389526.Jonathan_Janz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29939052</id>
+<title>Ararat (Ben Walker, #1)</title>
+<title_without_series>Ararat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29939052-ararat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482851318l/29939052._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482851318l/29939052._SX98_.jpg]]></image_url>
+<num_pages>305</num_pages>
+<work>
+<id>50329708</id>
+</work>
+<isbn>1250117054</isbn>
+<isbn13>9781250117052</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>4522</id>
+<name>Christopher Golden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4522.Christopher_Golden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31574739</id>
+<title>The Grip of It</title>
+<title_without_series>The Grip of It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31574739-the-grip-of-it]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497915798l/31574739._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497915798l/31574739._SX98_.jpg]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>52264815</id>
+</work>
+<isbn>0374536910</isbn>
+<isbn13>9780374536916</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2850412</id>
+<name>Jac Jemc</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2850412.Jac_Jemc]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37715859</id>
+<title>We Sold Our Souls</title>
+<title_without_series>We Sold Our Souls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37715859-we-sold-our-souls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527975643l/37715859._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527975643l/37715859._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59355324</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4826394</id>
+<name>Grady Hendrix</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4826394.Grady_Hendrix]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22609323</id>
+<title>Within These Walls</title>
+<title_without_series>Within These Walls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22609323-within-these-walls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429742905l/22609323._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429742905l/22609323._SX98_.jpg]]></image_url>
+<num_pages>447</num_pages>
+<work>
+<id>42099331</id>
+</work>
+<isbn>1476783748</isbn>
+<isbn13>9781476783741</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>4867939</id>
+<name>Ania Ahlborn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4867939.Ania_Ahlborn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31193620</id>
+<title>Of Foster Homes and Flies</title>
+<title_without_series>Of Foster Homes and Flies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31193620-of-foster-homes-and-flies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>51839230</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1564</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8436955</id>
+<name>Chad Lutzke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8436955.Chad_Lutzke]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

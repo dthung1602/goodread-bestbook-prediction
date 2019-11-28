@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34063669</id>
+  <title>Sweet</title>
+  <isbn><![CDATA[1607749149]]></isbn>
+  <isbn13><![CDATA[9781607749141]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510017230l/34063669._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510017230l/34063669._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Ten Speed Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In his stunning new baking and desserts cookbook Yotam Ottolenghi and his long-time collaborator Helen Goh bring the Ottolenghi hallmarks of fresh, evocative ingredients, exotic spices and complex flavourings - including fig, rose petal, saffron, aniseed, orange blossom, pistachio and cardamom - to indulgent cakes, biscuits, tarts, puddings, cheesecakes and ice cream.<br /><br /><i>Sweet</i> includes over 110 innovative recipes, from Blackberry and Star Anise Friands, Tahini and Halva Brownies, Persian Love Cakes, Middle Eastern Millionaire’s Shortbread, and Saffron, Orange and Honey Madeleines to Flourless Chocolate Layer Cake with Coffee, Walnut and Rosewater and Cinnamon Pavlova with Praline Cream and Fresh Figs.<br /><br />There is something here to delight everyone – from simple mini-cakes and cookies that parents can make with their children to showstopping layer cakes and roulades that will reignite the imaginations of accomplished bakers.]]></description>
+  <work>
+  <id type="integer">55074078</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">34063669</best_book_id>
+  <reviews_count type="integer">3585</reviews_count>
+  <ratings_sum type="integer">3527</ratings_sum>
+  <ratings_count type="integer">813</ratings_count>
+  <text_reviews_count type="integer">87</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">7</original_publication_day>
+  <original_title>Sweet</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:440|4:243|3:104|2:17|1:9|total:813</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.mOeRk-ztHQPx8lIgSWOLEw</work_uri>
+</work>
+  <average_rating>4.34</average_rating>
+  <num_pages><![CDATA[368]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[644]]></ratings_count>
+  <text_reviews_count><![CDATA[62]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34063669-sweet]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34063669-sweet]]></link>
+  <authors>
+<author>
+<id>1397570</id>
+<name>Yotam Ottolenghi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1318268194p5/1397570.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1318268194p2/1397570.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1397570.Yotam_Ottolenghi]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>41562</ratings_count>
+<text_reviews_count>1227</text_reviews_count>
+</author>
+<author>
+<id>16364846</id>
+<name>Helen Goh</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16364846.Helen_Goh]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<text_reviews_count>87</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34063669-sweet">Sweet Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1607749149&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/34063669-sweet?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2177"/>
+      <shelf name="currently-reading" count="214"/>
+      <shelf name="cookbooks" count="180"/>
+      <shelf name="cooking" count="40"/>
+      <shelf name="food" count="34"/>
+      <shelf name="cookbook" count="31"/>
+      <shelf name="non-fiction" count="21"/>
+      <shelf name="cook-books" count="13"/>
+      <shelf name="nonfiction" count="13"/>
+      <shelf name="baking" count="12"/>
+      <shelf name="cookery" count="10"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="netgalley" count="7"/>
+      <shelf name="kookboeken" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="recipes" count="5"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="favorites" count="4"/>
+      <shelf name="reference" count="4"/>
+      <shelf name="kindle" count="4"/>
+      <shelf name="food-and-drink" count="3"/>
+      <shelf name="cookbook-club" count="3"/>
+      <shelf name="desserts" count="3"/>
+      <shelf name="default" count="3"/>
+      <shelf name="food-cooking" count="3"/>
+      <shelf name="food-and-cooking" count="3"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="pastry" count="2"/>
+      <shelf name="cook" count="2"/>
+      <shelf name="nf-food" count="2"/>
+      <shelf name="cooking-food" count="2"/>
+      <shelf name="food-books" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="wishlist-books" count="2"/>
+      <shelf name="npr-2017" count="2"/>
+      <shelf name="baking-cooking" count="2"/>
+      <shelf name="cookbooks-i-own" count="2"/>
+      <shelf name="cookbooks-and-food-writing" count="2"/>
+      <shelf name="to-read-cookbooks" count="2"/>
+      <shelf name="recipe-books" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="calibre" count="1"/>
+      <shelf name="open-dining" count="1"/>
+      <shelf name="my-cookbook-collection-wish-list" count="1"/>
+      <shelf name="mlol_medialibrarionline" count="1"/>
+      <shelf name="owned-tbr" count="1"/>
+      <shelf name="gourmand-food-writing" count="1"/>
+      <shelf name="just-here-so-i-wont-get-shelved" count="1"/>
+      <shelf name="2017nonfiction-grca" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="gave-up" count="1"/>
+      <shelf name="to-be-downloaded" count="1"/>
+      <shelf name="cookbooks-read" count="1"/>
+      <shelf name="cakebooks" count="1"/>
+      <shelf name="non-fiction-wishlist" count="1"/>
+      <shelf name="own-hardback" count="1"/>
+      <shelf name="reserved-at-library" count="1"/>
+      <shelf name="scanned" count="1"/>
+      <shelf name="marifer" count="1"/>
+      <shelf name="dessert-cookbooks" count="1"/>
+      <shelf name="non-fiction-must-get" count="1"/>
+      <shelf name="cookbook-cravings" count="1"/>
+      <shelf name="on-my-shelf" count="1"/>
+      <shelf name="kitchen-dining-hall" count="1"/>
+      <shelf name="paperback-hardback-owned" count="1"/>
+      <shelf name="to-cook-through" count="1"/>
+      <shelf name="cooking-to-read" count="1"/>
+      <shelf name="unread-nonfiction" count="1"/>
+      <shelf name="8-below-50k" count="1"/>
+      <shelf name="7-above-4" count="1"/>
+      <shelf name="6n-food-health" count="1"/>
+      <shelf name="5-2013-to-2019" count="1"/>
+      <shelf name="4-tbc" count="1"/>
+      <shelf name="3-nonfiction" count="1"/>
+      <shelf name="2-unread" count="1"/>
+      <shelf name="1-temp" count="1"/>
+      <shelf name="1-all" count="1"/>
+      <shelf name="gca2017" count="1"/>
+      <shelf name="cookbooks-etc-want-list" count="1"/>
+      <shelf name="baking-cookbooks" count="1"/>
+      <shelf name="owned-ebook" count="1"/>
+      <shelf name="check-this-out" count="1"/>
+      <shelf name="kindle-owned" count="1"/>
+      <shelf name="cooked" count="1"/>
+      <shelf name="awesome" count="1"/>
+      <shelf name="cookbook-collective" count="1"/>
+      <shelf name="cookbooks-dessert" count="1"/>
+      <shelf name="cookbooks-still-to-cook-from" count="1"/>
+      <shelf name="koken-bakken" count="1"/>
+      <shelf name="cookbooks-food-books" count="1"/>
+      <shelf name="food52-baking-club" count="1"/>
+      <shelf name="want-to-own" count="1"/>
+      <shelf name="library-reads" count="1"/>
+      <shelf name="2019-book-challenge" count="1"/>
+      <shelf name="y-cookbooks-in-house" count="1"/>
+      <shelf name="food-glorious-food" count="1"/>
+      <shelf name="baking-desserts" count="1"/>
+      <shelf name="own-ebook" count="1"/>
+      <shelf name="poc" count="1"/>
+      <shelf name="cooking-read-and-to-read" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>32191664</id>
+<title><![CDATA[BraveTart: Iconic American Desserts]]></title>
+<title_without_series><![CDATA[BraveTart: Iconic American Desserts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32191664-bravetart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479535573l/32191664._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479535573l/32191664._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>52832551</id>
+</work>
+<isbn>0393239861</isbn>
+<isbn13>9780393239867</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>15862252</id>
+<name>Stella Parks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15862252.Stella_Parks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28560925</id>
+<title>Dorie&apos;s Cookies</title>
+<title_without_series>Dorie&apos;s Cookies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28560925-dorie-s-cookies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455171975l/28560925._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455171975l/28560925._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>48721090</id>
+</work>
+<isbn>0547614845</isbn>
+<isbn13>9780547614847</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>107653</id>
+<name>Dorie Greenspan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/107653.Dorie_Greenspan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20256605</id>
+<title>The Baking Bible</title>
+<title_without_series>The Baking Bible</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20256605-the-baking-bible]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389051845l/20256605._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389051845l/20256605._SX98_.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>28068601</id>
+</work>
+<isbn>1118338618</isbn>
+<isbn13>9781118338612</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>58572</id>
+<name>Rose Levy Beranbaum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58572.Rose_Levy_Beranbaum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30688016</id>
+<title><![CDATA[Dinner: Changing the Game: A Cookbook]]></title>
+<title_without_series><![CDATA[Dinner: Changing the Game: A Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30688016-dinner]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488427017l/30688016._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488427017l/30688016._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>51233796</id>
+</work>
+<isbn>0553448234</isbn>
+<isbn13>9780553448238</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>25439</id>
+<name>Melissa Clark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25439.Melissa_Clark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30753841</id>
+<title><![CDATA[Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking]]></title>
+<title_without_series><![CDATA[Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460859l/30753841._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460859l/30753841._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>51302253</id>
+</work>
+<isbn>1476753830</isbn>
+<isbn13>9781476753836</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>15401886</id>
+<name>Samin Nosrat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15401886.Samin_Nosrat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31130686</id>
+<title><![CDATA[Smitten Kitchen Every Day: Triumphant and Unfussy New Favorites]]></title>
+<title_without_series><![CDATA[Smitten Kitchen Every Day: Triumphant and Unfussy New Favorites]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31130686-smitten-kitchen-every-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497310456l/31130686._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497310456l/31130686._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>51748510</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>5416055</id>
+<name>Deb Perelman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5416055.Deb_Perelman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30754045</id>
+<title><![CDATA[Six Seasons: A New Way with Vegetables]]></title>
+<title_without_series><![CDATA[Six Seasons: A New Way with Vegetables]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30754045-six-seasons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487507910l/30754045._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487507910l/30754045._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>51302473</id>
+</work>
+<isbn>1579656315</isbn>
+<isbn13>9781579656317</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>15401942</id>
+<name>Joshua McFadden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15401942.Joshua_McFadden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34775711</id>
+<title><![CDATA[At My Table: A Celebration of Home Cooking]]></title>
+<title_without_series><![CDATA[At My Table: A Celebration of Home Cooking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34775711-at-my-table]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491253835l/34775711._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491253835l/34775711._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>55972977</id>
+</work>
+<isbn>1784741639</isbn>
+<isbn13>9781784741631</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>21686</id>
+<name>Nigella Lawson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21686.Nigella_Lawson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33571767</id>
+<title><![CDATA[Half Baked Harvest Cookbook: Recipes from My Barn in the Mountains]]></title>
+<title_without_series><![CDATA[Half Baked Harvest Cookbook: Recipes from My Barn in the Mountains]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33571767-half-baked-harvest-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490021587l/33571767._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490021587l/33571767._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>54374114</id>
+</work>
+<isbn>0553496395</isbn>
+<isbn13>9780553496390</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>16231027</id>
+<name>Tieghan Gerard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16231027.Tieghan_Gerard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37885417</id>
+<title><![CDATA[Food52 Genius Desserts: 100 Recipes That Will Change the Way You Bake [a Baking Book]]]></title>
+<title_without_series><![CDATA[Food52 Genius Desserts: 100 Recipes That Will Change the Way You Bake [a Baking Book]]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37885417-food52-genius-desserts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524581139l/37885417._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524581139l/37885417._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>59591484</id>
+</work>
+<isbn>1524758981</isbn>
+<isbn13>9781524758981</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>8384318</id>
+<name>Kristen Miglore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8384318.Kristen_Miglore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13707601</id>
+<title><![CDATA[Every Grain of Rice: Simple Chinese Home Cooking]]></title>
+<title_without_series><![CDATA[Every Grain of Rice: Simple Chinese Home Cooking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13707601-every-grain-of-rice]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338324742l/13707601._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338324742l/13707601._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>16718065</id>
+</work>
+<isbn>0393089045</isbn>
+<isbn13>9780393089042</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>54389</id>
+<name>Fuchsia Dunlop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54389.Fuchsia_Dunlop]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20256555</id>
+<title><![CDATA[Baking Chez Moi: Recipes from My Paris Home to Your Home Anywhere]]></title>
+<title_without_series><![CDATA[Baking Chez Moi: Recipes from My Paris Home to Your Home Anywhere]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20256555-baking-chez-moi]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407196230l/20256555._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407196230l/20256555._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>28068563</id>
+</work>
+<isbn>0547724241</isbn>
+<isbn13>9780547724249</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>107653</id>
+<name>Dorie Greenspan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/107653.Dorie_Greenspan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30971795</id>
+<title><![CDATA[Simple: Effortless Food, Big Flavours]]></title>
+<title_without_series><![CDATA[Simple: Effortless Food, Big Flavours]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30971795-simple]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>51589522</id>
+</work>
+<isbn>1845338979</isbn>
+<isbn13>9781845338978</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>361572</id>
+<name>Diana Henry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/361572.Diana_Henry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34272569</id>
+<title><![CDATA[Dining In: Highly Cookable Recipes]]></title>
+<title_without_series><![CDATA[Dining In: Highly Cookable Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34272569-dining-in]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498848730l/34272569._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498848730l/34272569._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>55331003</id>
+</work>
+<isbn>045149699X</isbn>
+<isbn13>9780451496997</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>16210884</id>
+<name>Alison Roman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16210884.Alison_Roman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20685479</id>
+<title><![CDATA[Joy the Baker Homemade Decadence: Irresistibly Sweet, Salty, Gooey, Sticky, Fluffy, Creamy, Crunchy Treats]]></title>
+<title_without_series><![CDATA[Joy the Baker Homemade Decadence: Irresistibly Sweet, Salty, Gooey, Sticky, Fluffy, Creamy, Crunchy Treats]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20685479-joy-the-baker-homemade-decadence]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396229392l/20685479._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396229392l/20685479._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>40002962</id>
+</work>
+<isbn>0385345739</isbn>
+<isbn13>9780385345736</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>122610</id>
+<name>Joy  Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122610.Joy_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13591143</id>
+<title><![CDATA[Baked Elements: The Importance of Being Baked in 10 Favorite Ingredients]]></title>
+<title_without_series><![CDATA[Baked Elements: The Importance of Being Baked in 10 Favorite Ingredients]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13591143-baked-elements]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336606507l/13591143._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336606507l/13591143._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>19179176</id>
+</work>
+<isbn>1584799854</isbn>
+<isbn13>9781584799856</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9826494</id>
+<name>Matt  Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9826494.Matt_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12576078</id>
+<title>River Cottage Veg Every Day!</title>
+<title_without_series>River Cottage Veg Every Day!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12576078-river-cottage-veg-every-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328887401l/12576078._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328887401l/12576078._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>17586770</id>
+</work>
+<isbn>1408812126</isbn>
+<isbn13>9781408812129</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>5805</id>
+<name>Hugh Fearnley-Whittingstall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5805.Hugh_Fearnley_Whittingstall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17333429</id>
+<title><![CDATA[The Four & Twenty Blackbirds Pie Book: Uncommon Recipes from the Celebrated Brooklyn Pie Shop]]></title>
+<title_without_series><![CDATA[The Four & Twenty Blackbirds Pie Book: Uncommon Recipes from the Celebrated Brooklyn Pie Shop]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333429-the-four-twenty-blackbirds-pie-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379899566l/17333429._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379899566l/17333429._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>24064756</id>
+</work>
+<isbn>1455520519</isbn>
+<isbn13>9781455520510</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>6922558</id>
+<name>Emily Elsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6922558.Emily_Elsen]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

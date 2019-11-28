@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24611868</id>
+  <title>The Gilded Hour</title>
+  <isbn><![CDATA[0425271811]]></isbn>
+  <isbn13><![CDATA[9780425271810]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425245254l/24611868._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425245254l/24611868._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Berkley</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The year is 1883, and in New York City, it’s a time of dizzying splendor, crushing poverty, and tremendous change. With the gravity-defying Brooklyn Bridge nearly complete and New York in the grips of anti-vice crusader Anthony Comstock, Anna Savard and her cousin Sophie—both graduates of the Woman’s Medical School—treat the city’s most vulnerable, even if doing so may put everything they’ve strived for in jeopardy.<br /><br />Anna's work has placed her in the path of four children who have lost everything, just as she herself once had. Faced with their helplessness, Anna must make an unexpected choice between holding on to the pain of her past and letting love into her life.<br /><br />For Sophie, an obstetrician and the orphaned daughter of free people of color, helping a desperate young mother forces her to grapple with the oath she took as a doctor—and thrusts her and Anna into the orbit of Anthony Comstock, a dangerous man who considers himself the enemy of everything indecent and of anyone who dares to defy him.]]></description>
+  <work>
+  <id type="integer">44222986</id>
+  <books_count type="integer">15</books_count>
+  <best_book_id type="integer">24611868</best_book_id>
+  <reviews_count type="integer">43007</reviews_count>
+  <ratings_sum type="integer">42312</ratings_sum>
+  <ratings_count type="integer">10487</ratings_count>
+  <text_reviews_count type="integer">1582</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>The Gilded Hour</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3680|4:4375|3:1742|2:496|1:194|total:10487</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.JZL-2lYIjtCIzbQNogt2Zw</work_uri>
+</work>
+  <average_rating>4.03</average_rating>
+  <num_pages><![CDATA[741]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8264]]></ratings_count>
+  <text_reviews_count><![CDATA[1388]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24611868-the-gilded-hour]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24611868-the-gilded-hour]]></link>
+  <authors>
+<author>
+<id>41193</id>
+<name>Sara Donati</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267083400p5/41193.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267083400p2/41193.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/41193.Sara_Donati]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>102758</ratings_count>
+<text_reviews_count>6375</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24611868-the-gilded-hour">The Gilded Hour Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0425271811&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/24611868-the-gilded-hour?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="19978"/>
+      <shelf name="historical-fiction" count="668"/>
+      <shelf name="currently-reading" count="634"/>
+      <shelf name="fiction" count="175"/>
+      <shelf name="historical" count="107"/>
+      <shelf name="romance" count="60"/>
+      <shelf name="favorites" count="48"/>
+      <shelf name="library" count="47"/>
+      <shelf name="kindle" count="38"/>
+      <shelf name="new-york" count="33"/>
+      <shelf name="audiobook" count="29"/>
+      <shelf name="adult-fiction" count="28"/>
+      <shelf name="audio" count="27"/>
+      <shelf name="abandoned" count="25"/>
+      <shelf name="book-club" count="24"/>
+      <shelf name="audible" count="24"/>
+      <shelf name="audiobooks" count="21"/>
+      <shelf name="did-not-finish" count="21"/>
+      <shelf name="wish-list" count="21"/>
+      <shelf name="first-reads" count="21"/>
+      <shelf name="19th-century" count="21"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="adult" count="20"/>
+      <shelf name="read-in-2016" count="19"/>
+      <shelf name="series" count="18"/>
+      <shelf name="books-i-own" count="18"/>
+      <shelf name="history" count="17"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="audio-book" count="16"/>
+      <shelf name="ebooks" count="16"/>
+      <shelf name="historical-romance" count="15"/>
+      <shelf name="ebook" count="15"/>
+      <shelf name="to-read-historical-fiction" count="14"/>
+      <shelf name="mystery" count="13"/>
+      <shelf name="overdrive" count="13"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="read-2016" count="12"/>
+      <shelf name="to-read-fiction" count="12"/>
+      <shelf name="audio-books" count="10"/>
+      <shelf name="new-york-city" count="10"/>
+      <shelf name="novel" count="9"/>
+      <shelf name="library-book" count="9"/>
+      <shelf name="sara-donati" count="9"/>
+      <shelf name="medical" count="9"/>
+      <shelf name="women" count="9"/>
+      <shelf name="maybe" count="9"/>
+      <shelf name="gilded-age" count="9"/>
+      <shelf name="2016-read" count="8"/>
+      <shelf name="american-history" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="want-to-read" count="8"/>
+      <shelf name="read-in-2015" count="8"/>
+      <shelf name="2016-reads" count="7"/>
+      <shelf name="america" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="e-book" count="7"/>
+      <shelf name="read-2019" count="6"/>
+      <shelf name="read-in-2018" count="6"/>
+      <shelf name="read-2017" count="6"/>
+      <shelf name="american" count="6"/>
+      <shelf name="hoopla" count="6"/>
+      <shelf name="historic-fiction" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="fiction-historical" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="edelweiss" count="6"/>
+      <shelf name="medicine" count="6"/>
+      <shelf name="read-in-2017" count="5"/>
+      <shelf name="unfinished" count="5"/>
+      <shelf name="own-kindle" count="5"/>
+      <shelf name="never-finished" count="5"/>
+      <shelf name="on-hold" count="5"/>
+      <shelf name="bookclub" count="5"/>
+      <shelf name="new" count="5"/>
+      <shelf name="family" count="5"/>
+      <shelf name="purchased" count="5"/>
+      <shelf name="kindle-books" count="5"/>
+      <shelf name="fiction-to-read" count="5"/>
+      <shelf name="2015-reads" count="5"/>
+      <shelf name="literary-fiction" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="tbr" count="4"/>
+      <shelf name="gave-up-on" count="4"/>
+      <shelf name="2017-read" count="4"/>
+      <shelf name="own-to-read" count="4"/>
+      <shelf name="read-fiction" count="4"/>
+      <shelf name="default" count="4"/>
+      <shelf name="american-literature" count="4"/>
+      <shelf name="need-to-buy" count="4"/>
+      <shelf name="don-t-own" count="4"/>
+      <shelf name="adoption" count="4"/>
+      <shelf name="2016-books" count="4"/>
+      <shelf name="best-of-2015" count="4"/>
+      <shelf name="nyc" count="4"/>
+      <shelf name="recommendations" count="4"/>
+      <shelf name="tbr-historical" count="4"/>
+      <shelf name="feminist" count="4"/>
+      <shelf name="stopped-reading" count="4"/>
+      <shelf name="victorian" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1490089</id>
+<user_position>1</user_position>
+<series>
+<id>270671</id>
+<title>
+<![CDATA[
+    The Waverly Place Series
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>48664805</id>
+<title><![CDATA[Midwinter Mysteries: A Christmas Crime Anthology]]></title>
+<title_without_series><![CDATA[Midwinter Mysteries: A Christmas Crime Anthology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48664805-midwinter-mysteries]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>74008884</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3463515</id>
+<name>Keith Moray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3463515.Keith_Moray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43260625</id>
+<title>Tidelands (The Fairmile #1)</title>
+<title_without_series>Tidelands</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43260625-tidelands]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550848775l/43260625._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550848775l/43260625._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67138419</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9987</id>
+<name>Philippa Gregory</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9987.Philippa_Gregory]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41571059</id>
+<title><![CDATA[A Cruel Deception (Bess Crawford, #11)]]></title>
+<title_without_series>A Cruel Deception</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41571059-a-cruel-deception]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552986963l/41571059._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552986963l/41571059._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>64877603</id>
+</work>
+<isbn>0062859862</isbn>
+<isbn13>9780062859860</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>131</id>
+<name>Charles Todd</name>
+<link><![CDATA[https://www.goodreads.com/author/show/131.Charles_Todd]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43925876</id>
+<title>The Giver of Stars</title>
+<title_without_series>The Giver of Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43925876-the-giver-of-stars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572879113l/43925876._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572879113l/43925876._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>68351635</id>
+</work>
+<isbn>0399562486</isbn>
+<isbn13>9780399562488</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>281810</id>
+<name>Jojo Moyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/281810.Jojo_Moyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40914165</id>
+<title><![CDATA[The Book Woman of Troublesome Creek]]></title>
+<title_without_series><![CDATA[The Book Woman of Troublesome Creek]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40914165-the-book-woman-of-troublesome-creek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543864786l/40914165._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543864786l/40914165._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>63789129</id>
+</work>
+<isbn>1492671525</isbn>
+<isbn13>9781492671527</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>2063992</id>
+<name>Kim Michele Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2063992.Kim_Michele_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24976247</id>
+<title><![CDATA[To Catch a Falling Star (The Graham Saga, #8)]]></title>
+<title_without_series>To Catch a Falling Star</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24976247-to-catch-a-falling-star]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>44641723</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6449528</id>
+<name>Anna Belfrage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6449528.Anna_Belfrage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43943459</id>
+<title>A Single Thread</title>
+<title_without_series>A Single Thread</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43943459-a-single-thread]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554183509l/43943459._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554183509l/43943459._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>68357211</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17158271</id>
+<title><![CDATA[Like Chaff in the Wind (The Graham Saga #2)]]></title>
+<title_without_series>Like Chaff in the Wind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17158271-like-chaff-in-the-wind]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356020138l/17158271._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356020138l/17158271._SX98_.jpg]]></image_url>
+<num_pages>392</num_pages>
+<work>
+<id>23581575</id>
+</work>
+<isbn>1780884702</isbn>
+<isbn13>9781780884707</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6449528</id>
+<name>Anna Belfrage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6449528.Anna_Belfrage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1233909</id>
+<title>Jack Frake (Sparrowhawk, #1)</title>
+<title_without_series>Jack Frake</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1233909.Jack_Frake]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>1222516</id>
+</work>
+<isbn>1931561214</isbn>
+<isbn13>9781931561211</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>404580</id>
+<name>Edward Cline</name>
+<link><![CDATA[https://www.goodreads.com/author/show/404580.Edward_Cline]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45046701</id>
+<title>A Hundred Suns</title>
+<title_without_series>A Hundred Suns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45046701-a-hundred-suns]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556898500l/45046701._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556898500l/45046701._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>69749613</id>
+</work>
+<isbn>1250231477</isbn>
+<isbn13>9781250231475</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2020</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>6459679</id>
+<name>Karin Tanabe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6459679.Karin_Tanabe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41454042</id>
+<title>The Summer Country</title>
+<title_without_series>The Summer Country</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41454042-the-summer-country]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539182526l/41454042._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539182526l/41454042._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>57962225</id>
+</work>
+<isbn>0062839020</isbn>
+<isbn13>9780062839022</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14469</id>
+<name>Lauren Willig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14469.Lauren_Willig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22221136</id>
+<title>A Desperate Fortune</title>
+<title_without_series>A Desperate Fortune</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22221136-a-desperate-fortune]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434396165l/22221136._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434396165l/22221136._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>26743157</id>
+</work>
+<isbn>1492602027</isbn>
+<isbn13>9781492602026</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>486812</id>
+<name>Susanna Kearsley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/486812.Susanna_Kearsley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44318414</id>
+<title>The Dutch House</title>
+<title_without_series>The Dutch House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44318414-the-dutch-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68864841</id>
+</work>
+<isbn>0062963678</isbn>
+<isbn13>9780062963673</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7136914</id>
+<name>Ann Patchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7136914.Ann_Patchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42282946</id>
+<title>The Golden Hour</title>
+<title_without_series>The Golden Hour</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42282946-the-golden-hour]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545848891l/42282946._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545848891l/42282946._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>68944872</id>
+</work>
+<isbn>0062834754</isbn>
+<isbn13>9780062834751</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>4927506</id>
+<name>Beatriz Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4927506.Beatriz_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39937617</id>
+<title>Resistance Women</title>
+<title_without_series>Resistance Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39937617-resistance-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552448240l/39937617._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552448240l/39937617._SX98_.jpg]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>61830262</id>
+</work>
+<isbn>0062841114</isbn>
+<isbn13>9780062841117</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>11630</id>
+<name>Jennifer Chiaverini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11630.Jennifer_Chiaverini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42201959</id>
+<title><![CDATA[The Women of the Copper Country]]></title>
+<title_without_series><![CDATA[The Women of the Copper Country]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42201959-the-women-of-the-copper-country]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563099546l/42201959._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563099546l/42201959._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>65814455</id>
+</work>
+<isbn>1982109580</isbn>
+<isbn13>9781982109585</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4007</id>
+<name>Mary Doria Russell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4007.Mary_Doria_Russell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39816076</id>
+<title>The Lost Girls of Paris</title>
+<title_without_series>The Lost Girls of Paris</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39816076-the-lost-girls-of-paris]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527997527l/39816076._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527997527l/39816076._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>61573651</id>
+</work>
+<isbn>0778330273</isbn>
+<isbn13>9780778330271</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>10487</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>213562</id>
+<name>Pam Jenoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213562.Pam_Jenoff]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

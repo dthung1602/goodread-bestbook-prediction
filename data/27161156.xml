@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>27161156</id>
+  <title><![CDATA[Hillbilly Elegy: A Memoir of a Family and Culture in Crisis]]></title>
+  <isbn><![CDATA[0062300547]]></isbn>
+  <isbn13><![CDATA[9780062300546]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463569814l/27161156._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463569814l/27161156._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Harper</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From a former marine and Yale Law School graduate, a powerful account of growing up in a poor Rust Belt town that offers a broader, probing look at the struggles of America’s white working class<br /><br />Hillbilly Elegy is a passionate and personal analysis of a culture in crisis—that of white working-class Americans. The decline of this group, a demographic of our country that has been slowly disintegrating over forty years, has been reported on with growing frequency and alarm, but has never before been written about as searingly from the inside. J. D. Vance tells the true story of what a social, regional, and class decline feels like when you were born with it hung around your neck.<br /><br />The Vance family story begins hopefully in postwar America. J. D.’s grandparents were “dirt poor and in love,” and moved north from Kentucky’s Appalachia region to Ohio in the hopes of escaping the dreadful poverty around them. They raised a middle-class family, and eventually their grandchild (the author) would graduate from Yale Law School, a conventional marker of their success in achieving generational upward mobility.<br /><br />But as the family saga of Hillbilly Elegy plays out, we learn that this is only the short, superficial version. Vance’s grandparents, aunt, uncle, sister, and, most of all, his mother, struggled profoundly with the demands of their new middle-class life, and were never able to fully escape the legacy of abuse, alcoholism, poverty, and trauma so characteristic of their part of America. Vance piercingly shows how he himself still carries around the demons of their chaotic family history.<br /><br />A deeply moving memoir with its share of humor and vividly colorful figures, Hillbilly Elegy is the story of how upward mobility really feels. And it is an urgent and troubling meditation on the loss of the American dream for a large segment of this country.]]></description>
+  <work>
+  <id type="integer">47200486</id>
+  <books_count type="integer">61</books_count>
+  <best_book_id type="integer">27161156</best_book_id>
+  <reviews_count type="integer">479952</reviews_count>
+  <ratings_sum type="integer">991796</ratings_sum>
+  <ratings_count type="integer">252125</ratings_count>
+  <text_reviews_count type="integer">24974</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <original_title>Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:76502|4:103711|3:54773|2:12984|1:4155|total:252125</rating_dist>
+  <desc_user_id type="integer">2565272</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.tvGd6q7wy2m8FaXIbqrWaw</work_uri>
+</work>
+  <average_rating>3.93</average_rating>
+  <num_pages><![CDATA[257]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[196102]]></ratings_count>
+  <text_reviews_count><![CDATA[21325]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/27161156-hillbilly-elegy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/27161156-hillbilly-elegy]]></link>
+  <authors>
+<author>
+<id>15109469</id>
+<name>J.D. Vance</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1483551437p5/15109469.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1483551437p2/15109469.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15109469.J_D_Vance]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>252126</ratings_count>
+<text_reviews_count>24974</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/27161156-hillbilly-elegy">Hillbilly Elegy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062300547&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/27161156-hillbilly-elegy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="161052"/>
+      <shelf name="currently-reading" count="20555"/>
+      <shelf name="non-fiction" count="4641"/>
+      <shelf name="memoir" count="2966"/>
+      <shelf name="nonfiction" count="2340"/>
+      <shelf name="book-club" count="1450"/>
+      <shelf name="biography" count="1157"/>
+      <shelf name="audiobook" count="791"/>
+      <shelf name="memoirs" count="746"/>
+      <shelf name="audiobooks" count="703"/>
+      <shelf name="politics" count="644"/>
+      <shelf name="audio" count="523"/>
+      <shelf name="favorites" count="501"/>
+      <shelf name="biography-memoir" count="445"/>
+      <shelf name="read-in-2017" count="423"/>
+      <shelf name="sociology" count="380"/>
+      <shelf name="history" count="378"/>
+      <shelf name="autobiography" count="294"/>
+      <shelf name="kindle" count="257"/>
+      <shelf name="audio-books" count="247"/>
+      <shelf name="library" count="240"/>
+      <shelf name="owned" count="235"/>
+      <shelf name="read-2017" count="231"/>
+      <shelf name="bookclub" count="210"/>
+      <shelf name="adult" count="202"/>
+      <shelf name="audio-book" count="198"/>
+      <shelf name="audible" count="198"/>
+      <shelf name="memoir-biography" count="196"/>
+      <shelf name="read-in-2018" count="183"/>
+      <shelf name="culture" count="182"/>
+      <shelf name="2017-books" count="172"/>
+      <shelf name="biographies" count="168"/>
+      <shelf name="abandoned" count="166"/>
+      <shelf name="books-i-own" count="146"/>
+      <shelf name="2017-reads" count="142"/>
+      <shelf name="poverty" count="134"/>
+      <shelf name="book-club-books" count="127"/>
+      <shelf name="america" count="121"/>
+      <shelf name="appalachia" count="120"/>
+      <shelf name="family" count="120"/>
+      <shelf name="read-2018" count="118"/>
+      <shelf name="did-not-finish" count="112"/>
+      <shelf name="ebook" count="112"/>
+      <shelf name="economics" count="109"/>
+      <shelf name="social-issues" count="106"/>
+      <shelf name="read-in-2016" count="106"/>
+      <shelf name="2017-read" count="100"/>
+      <shelf name="book-group" count="100"/>
+      <shelf name="read-in-2019" count="98"/>
+      <shelf name="current-events" count="94"/>
+      <shelf name="american" count="93"/>
+      <shelf name="bio-memoir" count="92"/>
+      <shelf name="american-history" count="89"/>
+      <shelf name="2017-reading-challenge" count="88"/>
+      <shelf name="usa" count="87"/>
+      <shelf name="2018-books" count="82"/>
+      <shelf name="autobiography-memoir" count="82"/>
+      <shelf name="social-justice" count="82"/>
+      <shelf name="2018-reads" count="81"/>
+      <shelf name="political" count="81"/>
+      <shelf name="fiction" count="78"/>
+      <shelf name="contemporary" count="78"/>
+      <shelf name="society" count="77"/>
+      <shelf name="didn-t-finish" count="76"/>
+      <shelf name="listened-to" count="75"/>
+      <shelf name="book-club-reads" count="70"/>
+      <shelf name="adult-nonfiction" count="68"/>
+      <shelf name="ohio" count="68"/>
+      <shelf name="memoir-autobiography" count="68"/>
+      <shelf name="adult-non-fiction" count="67"/>
+      <shelf name="biographies-memoirs" count="67"/>
+      <shelf name="dnf" count="66"/>
+      <shelf name="southern" count="66"/>
+      <shelf name="biographical" count="65"/>
+      <shelf name="to-read-nonfiction" count="65"/>
+      <shelf name="read-2019" count="64"/>
+      <shelf name="non-fic" count="63"/>
+      <shelf name="2019-books" count="62"/>
+      <shelf name="books-read-in-2017" count="61"/>
+      <shelf name="memoirs-biographies" count="61"/>
+      <shelf name="social-science" count="61"/>
+      <shelf name="listened" count="61"/>
+      <shelf name="kentucky" count="59"/>
+      <shelf name="education" count="59"/>
+      <shelf name="biography-autobiography" count="58"/>
+      <shelf name="biography-and-memoir" count="57"/>
+      <shelf name="memoir-bio" count="57"/>
+      <shelf name="2017-books-read" count="56"/>
+      <shelf name="united-states" count="56"/>
+      <shelf name="americana" count="56"/>
+      <shelf name="social-commentary" count="56"/>
+      <shelf name="to-buy" count="56"/>
+      <shelf name="owned-books" count="55"/>
+      <shelf name="to-read-non-fiction" count="55"/>
+      <shelf name="read-2016" count="54"/>
+      <shelf name="recommended" count="54"/>
+      <shelf name="library-books" count="53"/>
+      <shelf name="psychology" count="52"/>
+      <shelf name="2017-reading-list" count="51"/>
+      <shelf name="21st-century" count="51"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>35133922</id>
+<title>Educated</title>
+<title_without_series>Educated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35133922-educated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>53814228</id>
+</work>
+<isbn>0399590501</isbn>
+<isbn13>9780399590504</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16121977</id>
+<name>Tara Westover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16121977.Tara_Westover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38746485</id>
+<title>Becoming</title>
+<title_without_series>Becoming</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38746485-becoming]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SX98_.jpg]]></image_url>
+<num_pages>426</num_pages>
+<work>
+<id>60334006</id>
+</work>
+<isbn>1524763136</isbn>
+<isbn13>9781524763138</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>2338628</id>
+<name>Michelle Obama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2338628.Michelle_Obama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7445</id>
+<title>The Glass Castle</title>
+<title_without_series>The Glass Castle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7445.The_Glass_Castle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886l/7445._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886l/7445._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>2944133</id>
+</work>
+<isbn>074324754X</isbn>
+<isbn13>9780743247542</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>3275</id>
+<name>Jeannette Walls</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3275.Jeannette_Walls]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29496076</id>
+<title><![CDATA[Killers of the Flower Moon: The Osage Murders and the Birth of the FBI]]></title>
+<title_without_series><![CDATA[Killers of the Flower Moon: The Osage Murders and the Birth of the FBI]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29496076-killers-of-the-flower-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470699853l/29496076._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470699853l/29496076._SX98_.jpg]]></image_url>
+<num_pages>359</num_pages>
+<work>
+<id>49782213</id>
+</work>
+<isbn>0385534256</isbn>
+<isbn13>9780385534253</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1431785</id>
+<name>David Grann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1431785.David_Grann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25852784</id>
+<title><![CDATA[Evicted: Poverty and Profit in the American City]]></title>
+<title_without_series><![CDATA[Evicted: Poverty and Profit in the American City]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25852784-evicted]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453060710l/25852784._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453060710l/25852784._SX98_.jpg]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>45720714</id>
+</work>
+<isbn>0553447432</isbn>
+<isbn13>9780553447439</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>915500</id>
+<name>Matthew Desmond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/915500.Matthew_Desmond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29780253</id>
+<title><![CDATA[Born a Crime: Stories From a South African Childhood]]></title>
+<title_without_series><![CDATA[Born a Crime: Stories From a South African Childhood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29780253-born-a-crime]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>50150838</id>
+</work>
+<isbn>0385689225</isbn>
+<isbn13>9780385689229</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>15149526</id>
+<name>Trevor Noah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15149526.Trevor_Noah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34066798</id>
+<title>A Gentleman in Moscow</title>
+<title_without_series>A Gentleman in Moscow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551480896l/34066798._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551480896l/34066798._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>45743836</id>
+</work>
+<isbn>0143110438</isbn>
+<isbn13>9780143110439</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4536964</id>
+<name>Amor Towles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4536964.Amor_Towles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34273236</id>
+<title>Little Fires Everywhere</title>
+<title_without_series>Little Fires Everywhere</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34273236-little-fires-everywhere]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522684533l/34273236._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522684533l/34273236._SX98_.jpg]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>52959357</id>
+</work>
+<isbn>0735224293</isbn>
+<isbn13>9780735224292</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>164692</id>
+<name>Celeste Ng</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164692.Celeste_Ng]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34912895</id>
+<title>The Great Alone</title>
+<title_without_series>The Great Alone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34912895-the-great-alone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56275107</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25489625</id>
+<title>Between the World and Me</title>
+<title_without_series>Between the World and Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25489625-between-the-world-and-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SX98_.jpg]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>44848425</id>
+</work>
+<isbn>0812993543</isbn>
+<isbn13>9780812993547</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>1214964</id>
+<name>Ta-Nehisi Coates</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32148570</id>
+<title>Before We Were Yours</title>
+<title_without_series>Before We Were Yours</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32148570-before-we-were-yours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>52786185</id>
+</work>
+<isbn>0425284689</isbn>
+<isbn13>9780425284681</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>178832</id>
+<name>Lisa Wingate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178832.Lisa_Wingate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25899336</id>
+<title>When Breath Becomes Air</title>
+<title_without_series>When Breath Becomes Air</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25899336-when-breath-becomes-air]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492677644l/25899336._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492677644l/25899336._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>45424659</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14031444</id>
+<name>Paul Kalanithi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031444.Paul_Kalanithi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20342617</id>
+<title><![CDATA[Just Mercy: A Story of Justice and Redemption]]></title>
+<title_without_series><![CDATA[Just Mercy: A Story of Justice and Redemption]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20342617-just-mercy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420795201l/20342617._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420795201l/20342617._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>28323940</id>
+</work>
+<isbn>0812994523</isbn>
+<isbn13>9780812994520</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>4396806</id>
+<name>Bryan Stevenson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4396806.Bryan_Stevenson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33590210</id>
+<title>An American Marriage</title>
+<title_without_series>An American Marriage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33590210-an-american-marriage]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>54403192</id>
+</work>
+<isbn>1616201347</isbn>
+<isbn13>9781616201340</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>292970</id>
+<name>Tayari Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292970.Tayari_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37976541</id>
+<title><![CDATA[Bad Blood: Secrets and Lies in a Silicon Valley Startup]]></title>
+<title_without_series><![CDATA[Bad Blood: Secrets and Lies in a Silicon Valley Startup]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37976541-bad-blood]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556268702l/37976541._SX98_.jpg]]></image_url>
+<num_pages>339</num_pages>
+<work>
+<id>59699437</id>
+</work>
+<isbn>152473165X</isbn>
+<isbn13>9781524731656</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>17575761</id>
+<name>John Carreyrou</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17575761.John_Carreyrou]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30555488</id>
+<title>The Underground Railroad</title>
+<title_without_series>The Underground Railroad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30555488-the-underground-railroad]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493178362l/30555488._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493178362l/30555488._SX98_.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>48287641</id>
+</work>
+<isbn>0385542364</isbn>
+<isbn13>9780385542364</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>10029</id>
+<name>Colson Whitehead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10029.Colson_Whitehead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16158542</id>
+<title><![CDATA[The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics]]></title>
+<title_without_series><![CDATA[The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16158542-the-boys-in-the-boat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354683116l/16158542._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354683116l/16158542._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>21998925</id>
+</work>
+<isbn>067002581X</isbn>
+<isbn13>9780670025817</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>252125</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>486329</id>
+<name>Daniel James Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/486329.Daniel_James_Brown]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

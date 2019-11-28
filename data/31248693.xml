@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>31248693</id>
+  <title>Keeping Kyrie</title>
+  <isbn><![CDATA[0997758805]]></isbn>
+  <isbn13><![CDATA[9780997758801]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474990299l/31248693._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474990299l/31248693._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Hwc Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[How much can a life change in just five years? For Emily Christensen, that span began with conversion to the Church of Jesus Christ of Latter-day Saints, and ended with the adoption of six children with special needs. In <i>Keeping Kyrie</i>, she shares the equally astonishing events in between: cochlear implant surgeries, marrying the man of her dreams, the loss of both of her parents, ovarian cancer, and fostering more than seventy children. At the heart of the story is her heroic efforts to save the life of her youngest daughter, Kyrie, who was born with Pierre Robin Sequence, a disorder where her lower face and airway were not properly formed. As a foster mom and then adoptive mother, Christensen has fought red tape and made tremendous sacrifices to help her daughter breathe. A real-life page-turner, this memoir abounds with tears and laughter, surprising insights into our relationship with God, and hope for surviving those seasons of trial that come to everyone.]]></description>
+  <work>
+  <id type="integer">51905381</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">31248693</best_book_id>
+  <reviews_count type="integer">2260</reviews_count>
+  <ratings_sum type="integer">205</ratings_sum>
+  <ratings_count type="integer">51</ratings_count>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <original_title>Keeping Kyrie</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:25|4:11|3:8|2:5|1:2|total:51</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.DmgkvJ6y5wkqH4NKYOp1gQ</work_uri>
+</work>
+  <average_rating>4.02</average_rating>
+  <num_pages><![CDATA[312]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[51]]></ratings_count>
+  <text_reviews_count><![CDATA[8]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/31248693-keeping-kyrie]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/31248693-keeping-kyrie]]></link>
+  <authors>
+<author>
+<id>15525394</id>
+<name>Emily Christensen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474990304p5/15525394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474990304p2/15525394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15525394.Emily_Christensen]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>52</ratings_count>
+<text_reviews_count>9</text_reviews_count>
+</author>
+<author>
+<id>15525396</id>
+<name>Nathan Christensen</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15525396.Nathan_Christensen]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>51</ratings_count>
+<text_reviews_count>8</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/31248693-keeping-kyrie">Keeping Kyrie Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0997758805&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/31248693-keeping-kyrie?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2179"/>
+      <shelf name="memoir" count="6"/>
+      <shelf name="non-fiction" count="4"/>
+      <shelf name="memoirs" count="4"/>
+      <shelf name="biography" count="3"/>
+      <shelf name="currently-reading" count="3"/>
+      <shelf name="memoir-autobiography" count="2"/>
+      <shelf name="autobiography" count="2"/>
+      <shelf name="adoption" count="2"/>
+      <shelf name="2020-book-of-the-month-club" count="1"/>
+      <shelf name="x" count="1"/>
+      <shelf name="2016nonfiction-grca" count="1"/>
+      <shelf name="gca2016" count="1"/>
+      <shelf name="want-to-read-c" count="1"/>
+      <shelf name="don-t-own" count="1"/>
+      <shelf name="goodreads-awards" count="1"/>
+      <shelf name="z-biography" count="1"/>
+      <shelf name="shelved" count="1"/>
+      <shelf name="biographies-autobiographies-memoirs" count="1"/>
+      <shelf name="gr-16" count="1"/>
+      <shelf name="useless" count="1"/>
+      <shelf name="nonfiction-to-read" count="1"/>
+      <shelf name="dont-own-yet" count="1"/>
+      <shelf name="not-available-at-the-library" count="1"/>
+      <shelf name="young-adult-romance-fiction" count="1"/>
+      <shelf name="adoption-fostering" count="1"/>
+      <shelf name="nevermind" count="1"/>
+      <shelf name="books-i-own" count="1"/>
+      <shelf name="to-read-memoir" count="1"/>
+      <shelf name="labeled-2016" count="1"/>
+      <shelf name="own-it" count="1"/>
+      <shelf name="audio-books" count="1"/>
+      <shelf name="altres" count="1"/>
+      <shelf name="amazon-actual-physical-books" count="1"/>
+      <shelf name="books-tbr-2017" count="1"/>
+      <shelf name="foster-parenting" count="1"/>
+      <shelf name="nog-niet-verschenen" count="1"/>
+      <shelf name="list-pile" count="1"/>
+      <shelf name="3-biography-auto-memoir" count="1"/>
+      <shelf name="3-3-2016" count="1"/>
+      <shelf name="3-2-bbn" count="1"/>
+      <shelf name="3-1-goodreads-choice-awards" count="1"/>
+      <shelf name="audible" count="1"/>
+      <shelf name="book-club" count="1"/>
+      <shelf name="buy-me" count="1"/>
+      <shelf name="biography-memoir" count="1"/>
+      <shelf name="about-to-read-memior-essays" count="1"/>
+      <shelf name="2017-to-read" count="1"/>
+      <shelf name="not-available" count="1"/>
+      <shelf name="non-fction" count="1"/>
+      <shelf name="little-fighter" count="1"/>
+      <shelf name="nonfiction-memoirs" count="1"/>
+      <shelf name="misc" count="1"/>
+      <shelf name="want-to-read-to-purchase" count="1"/>
+      <shelf name="adult" count="1"/>
+      <shelf name="x-nonfiction" count="1"/>
+      <shelf name="next-english" count="1"/>
+      <shelf name="mother-daughter-books" count="1"/>
+      <shelf name="cutting" count="1"/>
+      <shelf name="to-read-in-2017" count="1"/>
+      <shelf name="previous-nominees-winners" count="1"/>
+      <shelf name="overcoming-obstacles" count="1"/>
+      <shelf name="high-priority" count="1"/>
+      <shelf name="family-issues" count="1"/>
+      <shelf name="chronic-challenges" count="1"/>
+      <shelf name="need-to-read-asap" count="1"/>
+      <shelf name="2016-book-winners" count="1"/>
+      <shelf name="nonfiction" count="1"/>
+      <shelf name="listen-to-me" count="1"/>
+      <shelf name="never-read" count="1"/>
+      <shelf name="oh-the-feels-my-heart-hurts" count="1"/>
+      <shelf name="love-that-heals" count="1"/>
+      <shelf name="gr-awards-nominee" count="1"/>
+      <shelf name="family-drama" count="1"/>
+      <shelf name="cancer-or-other-serious-disease" count="1"/>
+      <shelf name="top-shelf" count="1"/>
+      <shelf name="choice-2016" count="1"/>
+      <shelf name="better-version-of-myself-books-to-r" count="1"/>
+      <shelf name="deaf-world" count="1"/>
+      <shelf name="new-2016-books-2-read" count="1"/>
+      <shelf name="2017-reading-list" count="1"/>
+      <shelf name="order-soon" count="1"/>
+      <shelf name="need-to-find" count="1"/>
+      <shelf name="pro-life" count="1"/>
+      <shelf name="christmas-2016" count="1"/>
+      <shelf name="gca-16" count="1"/>
+      <shelf name="to-read-non-fiction" count="1"/>
+      <shelf name="awarded" count="1"/>
+      <shelf name="goodreads-choice-award-2016" count="1"/>
+      <shelf name="real-stuff" count="1"/>
+      <shelf name="goodreads-best-of-2016-nominees" count="1"/>
+      <shelf name="spiritual-religious" count="1"/>
+      <shelf name="lds" count="1"/>
+      <shelf name="chronic-illness-books" count="1"/>
+      <shelf name="books-2016" count="1"/>
+      <shelf name="to-read-adult" count="1"/>
+      <shelf name="non-fiction-to-buy-next" count="1"/>
+      <shelf name="tbr-priority" count="1"/>
+      <shelf name="tbr-memoir" count="1"/>
+      <shelf name="not-at-library" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+</book>
+
+</GoodreadsResponse>

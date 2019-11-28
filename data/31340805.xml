@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>31340805</id>
+  <title><![CDATA[Duck and Hippo in the Rainstorm (Duck and Hippo, #1)]]></title>
+  <isbn><![CDATA[1503937232]]></isbn>
+  <isbn13><![CDATA[9781503937239]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473206850l/31340805._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473206850l/31340805._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Two Lions</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Get ready for a rainy-day adventure with Duck and Hippo!</b><br /><br />Duck and Hippo may be completely different, but they are best friends. When playful Duck invites careful Hippo to go for a walk in the rain, they have trouble sharing Duck’s umbrella. But Duck and Hippo won’t let that stop them. Soon they are puddle-jumping and sailing down the river! Until…<i>WHOOOSH!</i> A terrible wind sends the umbrella flying up, up, up into the air, with one friend holding on. What will Duck and Hippo do now? Jonathan London’s charming text and Andrew Joyner’s delightful art bring to life two lovable friends in this fun new series.]]></description>
+  <work>
+  <id type="integer">53276609</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">32700995</best_book_id>
+  <reviews_count type="integer">5825</reviews_count>
+  <ratings_sum type="integer">7541</ratings_sum>
+  <ratings_count type="integer">1898</ratings_count>
+  <text_reviews_count type="integer">221</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Duck and Hippo in the Rainstorm</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:791|4:539|3:379|2:104|1:85|total:1898</rating_dist>
+  <desc_user_id type="integer">-9</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.hLn0gIW11P-sEs0dczFy_g</work_uri>
+</work>
+  <average_rating>3.97</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[173]]></ratings_count>
+  <text_reviews_count><![CDATA[27]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/31340805-duck-and-hippo-in-the-rainstorm]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/31340805-duck-and-hippo-in-the-rainstorm]]></link>
+  <authors>
+<author>
+<id>39781</id>
+<name>Jonathan London</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1313116364p5/39781.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1313116364p2/39781.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/39781.Jonathan_London]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>39224</ratings_count>
+<text_reviews_count>3511</text_reviews_count>
+</author>
+<author>
+<id>2965097</id>
+<name>Andrew Joyner</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482172472p5/2965097.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482172472p2/2965097.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2965097.Andrew_Joyner]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>5616</ratings_count>
+<text_reviews_count>990</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/31340805-duck-and-hippo-in-the-rainstorm">Duck and Hippo in the Rainstorm Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1503937232&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/31340805-duck-and-hippo-in-the-rainstorm?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2472"/>
+      <shelf name="currently-reading" count="379"/>
+      <shelf name="picture-books" count="86"/>
+      <shelf name="picture-book" count="37"/>
+      <shelf name="friendship" count="21"/>
+      <shelf name="childrens" count="20"/>
+      <shelf name="animals" count="18"/>
+      <shelf name="children" count="16"/>
+      <shelf name="children-s" count="16"/>
+      <shelf name="kids" count="13"/>
+      <shelf name="kids-books" count="11"/>
+      <shelf name="children-s-books" count="11"/>
+      <shelf name="read-in-2017" count="10"/>
+      <shelf name="fiction" count="10"/>
+      <shelf name="weather" count="9"/>
+      <shelf name="rain" count="9"/>
+      <shelf name="childrens-books" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="spring" count="8"/>
+      <shelf name="giveaways" count="7"/>
+      <shelf name="ducks" count="6"/>
+      <shelf name="sharing" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="storytime" count="5"/>
+      <shelf name="hippos" count="5"/>
+      <shelf name="childrens-picture-books" count="4"/>
+      <shelf name="to-read-picture-books" count="4"/>
+      <shelf name="picturebooks" count="4"/>
+      <shelf name="1000-books-before-kindergarten" count="4"/>
+      <shelf name="series" count="4"/>
+      <shelf name="2017-picture-books" count="4"/>
+      <shelf name="giveaway" count="4"/>
+      <shelf name="first-reads" count="4"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="library" count="3"/>
+      <shelf name="umbrellas" count="3"/>
+      <shelf name="cooperation" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="kid-s-books" count="3"/>
+      <shelf name="adventure" count="3"/>
+      <shelf name="preschool" count="3"/>
+      <shelf name="picture" count="3"/>
+      <shelf name="friends" count="3"/>
+      <shelf name="picture-books-2017" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="juvenile" count="3"/>
+      <shelf name="kindle-first" count="3"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="kiddos" count="2"/>
+      <shelf name="kindle-unlimited" count="2"/>
+      <shelf name="early-elementary" count="2"/>
+      <shelf name="e-books" count="2"/>
+      <shelf name="liam" count="2"/>
+      <shelf name="early-readers" count="2"/>
+      <shelf name="pb" count="2"/>
+      <shelf name="on-kindle" count="2"/>
+      <shelf name="children-books" count="2"/>
+      <shelf name="kid-lit" count="2"/>
+      <shelf name="children-s-picture-book" count="2"/>
+      <shelf name="children-s-picture-books" count="2"/>
+      <shelf name="e-book" count="2"/>
+      <shelf name="picture-book-humor" count="2"/>
+      <shelf name="top-picks-of-the-week" count="2"/>
+      <shelf name="funny" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="my-kindle-books" count="2"/>
+      <shelf name="kindle-books" count="2"/>
+      <shelf name="freebie" count="2"/>
+      <shelf name="seasons-spring" count="1"/>
+      <shelf name="books-i-read-to-willa" count="1"/>
+      <shelf name="kids-read-to-ajb" count="1"/>
+      <shelf name="probably-won-t-read" count="1"/>
+      <shelf name="rachel" count="1"/>
+      <shelf name="next-in-series" count="1"/>
+      <shelf name="short-sweet-and-just-plain-nice" count="1"/>
+      <shelf name="read-books-not-comics" count="1"/>
+      <shelf name="published-in-2010s" count="1"/>
+      <shelf name="rayyan" count="1"/>
+      <shelf name="2017childrens-grca" count="1"/>
+      <shelf name="2016-18" count="1"/>
+      <shelf name="mia" count="1"/>
+      <shelf name="2010s" count="1"/>
+      <shelf name="miss-natalie" count="1"/>
+      <shelf name="s-2019-2020" count="1"/>
+      <shelf name="weather-books" count="1"/>
+      <shelf name="picture-books-gr-choice-awards" count="1"/>
+      <shelf name="animal-books" count="1"/>
+      <shelf name="spring-favorites" count="1"/>
+      <shelf name="interested" count="1"/>
+      <shelf name="to-read-4-7" count="1"/>
+      <shelf name="children-s-to-read-books" count="1"/>
+      <shelf name="reese-books-read" count="1"/>
+      <shelf name="children-s-books-picture-books" count="1"/>
+      <shelf name="2019-book-a-day" count="1"/>
+      <shelf name="for-the-kids" count="1"/>
+      <shelf name="oli" count="1"/>
+      <shelf name="gifts" count="1"/>
+      <shelf name="gca2017" count="1"/>
+      <shelf name="books-for-c" count="1"/>
+      <shelf name="read-twostar" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1016180</id>
+<user_position>1</user_position>
+<series>
+<id>198598</id>
+<title>
+<![CDATA[
+    Duck and Hippo
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1201161</id>
+<user_position>1</user_position>
+<series>
+<id>229157</id>
+<title>
+<![CDATA[
+    Duck and Hippo
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>30254920</id>
+<title>Spunky Little Monkey</title>
+<title_without_series>Spunky Little Monkey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30254920-spunky-little-monkey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465946850l/30254920._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465946850l/30254920._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>50725291</id>
+</work>
+<isbn>0545776430</isbn>
+<isbn13>9780545776431</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5086768</id>
+<name>Bill Martin Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5086768.Bill_Martin_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30812543</id>
+<title>The Case of the Stinky Stench</title>
+<title_without_series>The Case of the Stinky Stench</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30812543-the-case-of-the-stinky-stench]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474930511l/30812543._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474930511l/30812543._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>51400282</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8642874</id>
+<name>Josh Funk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8642874.Josh_Funk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23208702</id>
+<title>A Greyhound, A Groundhog</title>
+<title_without_series>A Greyhound, A Groundhog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23208702-a-greyhound-a-groundhog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488842570l/23208702._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488842570l/23208702._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42752039</id>
+</work>
+<isbn>0605976147</isbn>
+<isbn13>9780605976146</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13899</id>
+<name>Emily Jenkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13899.Emily_Jenkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30555639</id>
+<title>Little Fox in the Forest</title>
+<title_without_series>Little Fox in the Forest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30555639-little-fox-in-the-forest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410990l/30555639._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410990l/30555639._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>51102487</id>
+</work>
+<isbn>055353789X</isbn>
+<isbn13>9780553537895</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>5398581</id>
+<name>Stephanie Graegin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5398581.Stephanie_Graegin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30364127</id>
+<title>Over and Under the Pond</title>
+<title_without_series>Over and Under the Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30364127-over-and-under-the-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>50874368</id>
+</work>
+<isbn>1452145423</isbn>
+<isbn13>9781452145426</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20670612</id>
+<title><![CDATA[The Youngest Marcher: The Story of Audrey Faye Hendricks, a Young Civil Rights Activist]]></title>
+<title_without_series><![CDATA[The Youngest Marcher: The Story of Audrey Faye Hendricks, a Young Civil Rights Activist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20670612-the-youngest-marcher]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460835l/20670612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460835l/20670612._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>39968140</id>
+</work>
+<isbn>1481400703</isbn>
+<isbn13>9781481400701</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5231111</id>
+<name>Cynthia Levinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5231111.Cynthia_Levinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31625795</id>
+<title>Jabari Jumps</title>
+<title_without_series>Jabari Jumps</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31625795-jabari-jumps]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474598253l/31625795._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474598253l/31625795._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>52307886</id>
+</work>
+<isbn>0763678384</isbn>
+<isbn13>9780763678388</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>15662189</id>
+<name>Gaia Cornwall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15662189.Gaia_Cornwall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31423547</id>
+<title>Be Quiet!</title>
+<title_without_series>Be Quiet!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31423547-be-quiet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>52115181</id>
+</work>
+<isbn>148473162X</isbn>
+<isbn13>9781484731628</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31456756</id>
+<title>The Book of Mistakes</title>
+<title_without_series>The Book of Mistakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31456756-the-book-of-mistakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>52161728</id>
+</work>
+<isbn>0735227926</isbn>
+<isbn13>9780735227927</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31247841</id>
+<title>Triangle</title>
+<title_without_series>Triangle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31247841-triangle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474550592l/31247841._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474550592l/31247841._SX98_.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>51904134</id>
+</work>
+<isbn>076369603X</isbn>
+<isbn13>9780763696030</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41954472</id>
+<title><![CDATA[Pirates Don't Go to Kindergarten!]]></title>
+<title_without_series><![CDATA[Pirates Don't Go to Kindergarten!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41954472-pirates-don-t-go-to-kindergarten]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544906514l/41954472._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544906514l/41954472._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>65462046</id>
+</work>
+<isbn>1542092752</isbn>
+<isbn13>9781542092753</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18701472</id>
+<name>Lisa     Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18701472.Lisa_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21445820</id>
+<title>Duck in the Fridge</title>
+<title_without_series>Duck in the Fridge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21445820-duck-in-the-fridge]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400836579l/21445820._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400836579l/21445820._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>40754562</id>
+</work>
+<isbn>1477847766</isbn>
+<isbn13>9781477847763</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>2519133</id>
+<name>Jeff Mack</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2519133.Jeff_Mack]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34137106</id>
+<title>A Different Pond</title>
+<title_without_series>A Different Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34137106-a-different-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55174398</id>
+</work>
+<isbn>1479597465</isbn>
+<isbn13>9781479597468</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5042071</id>
+<name>Bao Phi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5042071.Bao_Phi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31215005</id>
+<title><![CDATA[The Legend of Rock Paper Scissors]]></title>
+<title_without_series><![CDATA[The Legend of Rock Paper Scissors]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31215005-the-legend-of-rock-paper-scissors]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484283303l/31215005._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484283303l/31215005._SX98_.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>51870043</id>
+</work>
+<isbn>0062438891</isbn>
+<isbn13>9780062438898</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23612011</id>
+<title><![CDATA[Trollbella Throws a Party: A Tale from the Land of Stories]]></title>
+<title_without_series><![CDATA[Trollbella Throws a Party: A Tale from the Land of Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23612011-trollbella-throws-a-party]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497981677l/23612011._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497981677l/23612011._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>43216003</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33120612</id>
+<title>We&apos;re All Wonders</title>
+<title_without_series>We&apos;re All Wonders</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33120612-we-re-all-wonders]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>53787744</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4859212</id>
+<name>R.J. Palacio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4859212.R_J_Palacio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24833423</id>
+<title>Twenty Yawns</title>
+<title_without_series>Twenty Yawns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24833423-twenty-yawns]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449339756l/24833423._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449339756l/24833423._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>44476775</id>
+</work>
+<isbn>1477826351</isbn>
+<isbn13>9781477826355</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1339</id>
+<name>Jane Smiley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1339.Jane_Smiley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41183554</id>
+<title>A Piglet Named Mercy</title>
+<title_without_series>A Piglet Named Mercy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41183554-a-piglet-named-mercy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64361636</id>
+</work>
+<isbn>0763677531</isbn>
+<isbn13>9780763677534</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1898</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

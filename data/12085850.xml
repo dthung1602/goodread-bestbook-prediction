@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12085850</id>
+  <title><![CDATA[Beauty Was the Case That They Gave Me]]></title>
+  <isbn><![CDATA[0983520305]]></isbn>
+  <isbn13><![CDATA[9780983520306]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312648376l/12085850._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312648376l/12085850._SX50_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Factory Hollow Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Poetry. <i>Beauty Was the Case That They Gave Me</i> is Mark Leidner's first full-length collection of poems. A collection of poems that might make you feel like a flower, like a black hole, like punishment meted out at night by a giant tractor, like you have to get on fire, then slowly walk around your old neighborhood, like the town was real, like she thinks swoon is a funnier word than mulligan, and he thinks swoon is a funny word too, but no way in hell is it funnier than mulligan, like he's searching for the Holy Grail and she has little Holy Grail-shaped pupils, like an effusion of steam, like what's cool changes, like hemisphere paint, like a blue flower, like the house you have lived above forever.]]></description>
+  <work>
+  <id type="integer">17053943</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">12085850</best_book_id>
+  <reviews_count type="integer">1000</reviews_count>
+  <ratings_sum type="integer">1519</ratings_sum>
+  <ratings_count type="integer">342</ratings_count>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Beauty Was the Case That They Gave Me</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:216|4:77|3:37|2:8|1:4|total:342</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.MfD4iL5Gs04LXgfKyedB6A</work_uri>
+</work>
+  <average_rating>4.44</average_rating>
+  <num_pages><![CDATA[96]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[342]]></ratings_count>
+  <text_reviews_count><![CDATA[39]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12085850-beauty-was-the-case-that-they-gave-me]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12085850-beauty-was-the-case-that-they-gave-me]]></link>
+  <authors>
+<author>
+<id>1243618</id>
+<name>Mark Leidner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1531517518p5/1243618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1531517518p2/1243618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1243618.Mark_Leidner]]></link>
+<average_rating>4.47</average_rating>
+<ratings_count>671</ratings_count>
+<text_reviews_count>90</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12085850-beauty-was-the-case-that-they-gave-me">Beauty Was the Case That They Gave Me Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0983520305&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/12085850-beauty-was-the-case-that-they-gave-me?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="601"/>
+      <shelf name="poetry" count="84"/>
+      <shelf name="favorites" count="9"/>
+      <shelf name="currently-reading" count="9"/>
+      <shelf name="contemporary-poetry" count="4"/>
+      <shelf name="poetry-to-read" count="3"/>
+      <shelf name="small-press" count="3"/>
+      <shelf name="favorites-poetry" count="2"/>
+      <shelf name="poëzie" count="2"/>
+      <shelf name="poems" count="2"/>
+      <shelf name="pop-contemp-fiction" count="1"/>
+      <shelf name="mfa-preparation-list" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="read-soon" count="1"/>
+      <shelf name="g-poetry" count="1"/>
+      <shelf name="lithub-listicles" count="1"/>
+      <shelf name="to-get" count="1"/>
+      <shelf name="to-read-poetry" count="1"/>
+      <shelf name="living-poets" count="1"/>
+      <shelf name="gca2011" count="1"/>
+      <shelf name="bottom-half" count="1"/>
+      <shelf name="classics" count="1"/>
+      <shelf name="to-read-culled" count="1"/>
+      <shelf name="read-in-2018" count="1"/>
+      <shelf name="goodreads-choice-award-2011" count="1"/>
+      <shelf name="from-library" count="1"/>
+      <shelf name="reference" count="1"/>
+      <shelf name="fiction" count="1"/>
+      <shelf name="to-read-asap" count="1"/>
+      <shelf name="usa" count="1"/>
+      <shelf name="contempoetry" count="1"/>
+      <shelf name="book-challenge-2017" count="1"/>
+      <shelf name="adult" count="1"/>
+      <shelf name="next-in-line" count="1"/>
+      <shelf name="eventual-shopping-list" count="1"/>
+      <shelf name="on-book-shelf" count="1"/>
+      <shelf name="changed-my-life" count="1"/>
+      <shelf name="cool-title" count="1"/>
+      <shelf name="books-i-own" count="1"/>
+      <shelf name="prioriteit" count="1"/>
+      <shelf name="to-reorganize" count="1"/>
+      <shelf name="lib-book" count="1"/>
+      <shelf name="literary" count="1"/>
+      <shelf name="awarded" count="1"/>
+      <shelf name="best" count="1"/>
+      <shelf name="potential-conflict-of-interest" count="1"/>
+      <shelf name="now" count="1"/>
+      <shelf name="want" count="1"/>
+      <shelf name="poetry-i-want-to-read" count="1"/>
+      <shelf name="read_chunks_of" count="1"/>
+      <shelf name="shaggy-dog" count="1"/>
+      <shelf name="read-in-2014" count="1"/>
+      <shelf name="choice-awards-11" count="1"/>
+      <shelf name="poetry-2010s" count="1"/>
+      <shelf name="poetry-and-poetics" count="1"/>
+      <shelf name="small-indie-press" count="1"/>
+      <shelf name="reads" count="1"/>
+      <shelf name="wishlist-poetry" count="1"/>
+      <shelf name="boyperson" count="1"/>
+      <shelf name="books-we-love" count="1"/>
+      <shelf name="on-our-shelf" count="1"/>
+      <shelf name="acquired-2013" count="1"/>
+      <shelf name="owned" count="1"/>
+      <shelf name="i-go-back-to-it-all-the-time" count="1"/>
+      <shelf name="michael-g-recommends" count="1"/>
+      <shelf name="on-our-shelves" count="1"/>
+      <shelf name="small-pressy-or-obscurish" count="1"/>
+      <shelf name="funny-stuff" count="1"/>
+      <shelf name="tailor-made" count="1"/>
+      <shelf name="don-t-own" count="1"/>
+      <shelf name="favorites-lyric" count="-1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23705600</id>
+<title><![CDATA[Catalog of Unabashed Gratitude]]></title>
+<title_without_series><![CDATA[Catalog of Unabashed Gratitude]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23705600-catalog-of-unabashed-gratitude]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418105218l/23705600._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418105218l/23705600._SX98_.jpg]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>43314735</id>
+</work>
+<isbn>0822963310</isbn>
+<isbn13>9780822963318</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>457563</id>
+<name>Ross Gay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457563.Ross_Gay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33375618</id>
+<title>Don&apos;t Call Us Dead</title>
+<title_without_series>Don&apos;t Call Us Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33375618-don-t-call-us-dead]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>54116419</id>
+</work>
+<isbn>1555977855</isbn>
+<isbn13>9781555977856</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8473734</id>
+<name>Danez Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8473734.Danez_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23841432</id>
+<title>Night Sky with Exit Wounds</title>
+<title_without_series>Night Sky with Exit Wounds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23841432-night-sky-with-exit-wounds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450971013l/23841432._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450971013l/23841432._SX98_.jpg]]></image_url>
+<num_pages>89</num_pages>
+<work>
+<id>43452251</id>
+</work>
+<isbn>155659495X</isbn>
+<isbn13></isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4456871</id>
+<name>Ocean Vuong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4456871.Ocean_Vuong]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31125204</id>
+<title>Hera Lindsay Bird</title>
+<title_without_series>Hera Lindsay Bird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31125204-hera-lindsay-bird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468559388l/31125204._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468559388l/31125204._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>51738660</id>
+</work>
+<isbn>177656071X</isbn>
+<isbn13>9781776560714</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15485575</id>
+<name>Hera Lindsay Bird</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15485575.Hera_Lindsay_Bird]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>96259</id>
+<title>Crush</title>
+<title_without_series>Crush</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/96259.Crush]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422764050l/96259._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422764050l/96259._SX98_.jpg]]></image_url>
+<num_pages>62</num_pages>
+<work>
+<id>92779</id>
+</work>
+<isbn>0300107897</isbn>
+<isbn13>9780300107890</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>55349</id>
+<name>Richard Siken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55349.Richard_Siken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>420278</id>
+<title>The Complete Poems 1927-1979</title>
+<title_without_series>The Complete Poems 1927-1979</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/420278.The_Complete_Poems_1927_1979]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>287</num_pages>
+<work>
+<id>3256309</id>
+</work>
+<isbn>0374518173</isbn>
+<isbn13>9780374518172</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>41588</id>
+<name>Elizabeth Bishop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41588.Elizabeth_Bishop]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42844721</id>
+<title><![CDATA[Eyes Bottle Dark with a Mouthful of Flowers]]></title>
+<title_without_series><![CDATA[Eyes Bottle Dark with a Mouthful of Flowers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42844721-eyes-bottle-dark-with-a-mouthful-of-flowers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550889426l/42844721._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550889426l/42844721._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>66607083</id>
+</work>
+<isbn>1571315209</isbn>
+<isbn13>9781571315205</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>18626328</id>
+<name>Jake Skeets</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18626328.Jake_Skeets]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25176023</id>
+<title><![CDATA[Voyage of the Sable Venus and Other Poems]]></title>
+<title_without_series><![CDATA[Voyage of the Sable Venus and Other Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25176023-voyage-of-the-sable-venus-and-other-poems]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442410361l/25176023._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442410361l/25176023._SX98_.jpg]]></image_url>
+<num_pages>142</num_pages>
+<work>
+<id>44882024</id>
+</work>
+<isbn>1101875437</isbn>
+<isbn13>9781101875438</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7313902</id>
+<name>Robin Coste Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7313902.Robin_Coste_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43582733</id>
+<title>Stillness Is the Key</title>
+<title_without_series>Stillness Is the Key</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43582733-stillness-is-the-key]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566883842l/43582733._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566883842l/43582733._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>67806670</id>
+</work>
+<isbn>0525538585</isbn>
+<isbn13>9780525538585</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5775580</id>
+<name>Ryan Holiday</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5775580.Ryan_Holiday]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6226</id>
+<title>Gunnar&apos;s Daughter</title>
+<title_without_series>Gunnar&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6226.Gunnar_s_Daughter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>161</num_pages>
+<work>
+<id>9535</id>
+</work>
+<isbn>014118020X</isbn>
+<isbn13>9780141180205</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4203</id>
+<name>Sigrid Undset</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4203.Sigrid_Undset]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13413481</id>
+<title>What Is Amazing</title>
+<title_without_series>What Is Amazing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13413481-what-is-amazing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326594062l/13413481._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326594062l/13413481._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>18694572</id>
+</work>
+<isbn>0819572772</isbn>
+<isbn13>9780819572776</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>3096685</id>
+<name>Heather Christle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3096685.Heather_Christle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>177333</id>
+<title>Fierce Attachments: A Memoir</title>
+<title_without_series>Fierce Attachments: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/177333.Fierce_Attachments]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316635674l/177333._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316635674l/177333._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>171318</id>
+</work>
+<isbn>0374529965</isbn>
+<isbn13>9780374529963</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>75060</id>
+<name>Vivian Gornick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75060.Vivian_Gornick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>659775</id>
+<title>The Man Suit</title>
+<title_without_series>The Man Suit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/659775.The_Man_Suit]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>105</num_pages>
+<work>
+<id>645850</id>
+</work>
+<isbn>0977770931</isbn>
+<isbn13>9780977770939</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>354468</id>
+<name>Zachary Schomburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/354468.Zachary_Schomburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39391587</id>
+<title>Bury It</title>
+<title_without_series>Bury It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39391587-bury-it]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524082599l/39391587._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524082599l/39391587._SX98_.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>61049512</id>
+</work>
+<isbn>0819577316</isbn>
+<isbn13>9780819577313</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14051904</id>
+<name>Sam Sax</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14051904.Sam_Sax]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11480960</id>
+<title>The Trees The Trees</title>
+<title_without_series>The Trees The Trees</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11480960-the-trees-the-trees]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328156959l/11480960._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328156959l/11480960._SX98_.jpg]]></image_url>
+<num_pages>60</num_pages>
+<work>
+<id>16415933</id>
+</work>
+<isbn></isbn>
+<isbn13>9780980193879</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3096685</id>
+<name>Heather Christle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3096685.Heather_Christle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13124956</id>
+<title>When My Brother Was an Aztec</title>
+<title_without_series>When My Brother Was an Aztec</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13124956-when-my-brother-was-an-aztec]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758134l/13124956._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758134l/13124956._SX98_.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>18300753</id>
+</work>
+<isbn>155659383X</isbn>
+<isbn13>9781556593833</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5354524</id>
+<name>Natalie Díaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5354524.Natalie_D_az]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23780641</id>
+<title>Hold Your Own</title>
+<title_without_series>Hold Your Own</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23780641-hold-your-own]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418389429l/23780641._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418389429l/23780641._SX98_.jpg]]></image_url>
+<num_pages>111</num_pages>
+<work>
+<id>42483719</id>
+</work>
+<isbn></isbn>
+<isbn13>9781447241218</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6570292</id>
+<name>Kate Tempest</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6570292.Kate_Tempest]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37570514</id>
+<title><![CDATA[Monument: Poems New and Selected]]></title>
+<title_without_series><![CDATA[Monument: Poems New and Selected]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37570514-monument]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637483l/37570514._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637483l/37570514._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>59181751</id>
+</work>
+<isbn>132850784X</isbn>
+<isbn13>9781328507846</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>55944</id>
+<name>Natasha Trethewey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55944.Natasha_Trethewey]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

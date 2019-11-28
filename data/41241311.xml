@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>41241311</id>
+  <title><![CDATA[A Love Letter from the Girls Who Feel Everything]]></title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536183713l/41241311._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536183713l/41241311._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>13</publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Bestselling authors Brittainy C. Cherry and Kandi Steiner come together for the first time in an emotional compilation of poetry and prose. Written and collected over the course of more than two years, A Love Letter from the Girls Who Feel Everything is an intimate, honest, and raw assemblage of two women’s feelings in a modern world that often quiets any kind of emotion past indifference. <br /><br />Discussing themes of love, worth, loss and hope, A Love Letter from the Girls Who Feel Everything is a journey of discovery and healing. <br /><br />“We are the girls who feel everything.<br /><br />And this is our love letter. To you, to them, to us, to the world, to no one at all. Whether it’s the brightest, sunniest day where everything is perfect, or the darkest, dreariest night of rain where life seems unbearable — we have lived it, we have survived it, and we have felt every, blissful, aching second.<br /><br />Here’s to embracing the feels, to the brave souls that listen to the way their hearts beat and aren’t afraid to ask someone else if they feel those same beats, too. Here’s to the girls, the boys, the love we sometimes share and the love we all-too-often conceal.<br /><br />And more than anything, Reader — here’s to you.”]]></description>
+  <work>
+  <id type="integer">64450456</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">41241311</best_book_id>
+  <reviews_count type="integer">10497</reviews_count>
+  <ratings_sum type="integer">3524</ratings_sum>
+  <ratings_count type="integer">878</ratings_count>
+  <text_reviews_count type="integer">215</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">13</original_publication_day>
+  <original_title>A Love Letter from the Girls Who Feel Everything</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:341|4:305|3:155|2:57|1:20|total:878</rating_dist>
+  <desc_user_id type="integer">21641492</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.aV45XFsj_vt3mEEJQbx-Hw</work_uri>
+</work>
+  <average_rating>4.01</average_rating>
+  <num_pages><![CDATA[102]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[674]]></ratings_count>
+  <text_reviews_count><![CDATA[165]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/41241311-a-love-letter-from-the-girls-who-feel-everything]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/41241311-a-love-letter-from-the-girls-who-feel-everything]]></link>
+  <authors>
+<author>
+<id>7121791</id>
+<name>Brittainy C. Cherry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372453435p5/7121791.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372453435p2/7121791.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7121791.Brittainy_C_Cherry]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>159761</ratings_count>
+<text_reviews_count>21668</text_reviews_count>
+</author>
+<author>
+<id>7319216</id>
+<name>Kandi Steiner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1490188150p5/7319216.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1490188150p2/7319216.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7319216.Kandi_Steiner]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>50116</ratings_count>
+<text_reviews_count>9335</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/41241311-a-love-letter-from-the-girls-who-feel-everything">A Love Letter from the Girls Who Feel Everything Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/41241311-a-love-letter-from-the-girls-who-feel-everything?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9261"/>
+      <shelf name="poetry" count="172"/>
+      <shelf name="currently-reading" count="158"/>
+      <shelf name="arc" count="18"/>
+      <shelf name="read-in-2019" count="11"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="favorites" count="8"/>
+      <shelf name="2018-releases" count="7"/>
+      <shelf name="read-in-2018" count="6"/>
+      <shelf name="read-2019" count="5"/>
+      <shelf name="kindle-unlimited" count="5"/>
+      <shelf name="2019-reads" count="4"/>
+      <shelf name="to-read-poetry" count="4"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="read-2018" count="4"/>
+      <shelf name="2019-reading-challenge" count="3"/>
+      <shelf name="poetry-books" count="3"/>
+      <shelf name="reviews" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+      <shelf name="4-stars" count="3"/>
+      <shelf name="poems" count="3"/>
+      <shelf name="2018-release" count="3"/>
+      <shelf name="all-the-feels" count="3"/>
+      <shelf name="non-fiction" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="not-interested" count="3"/>
+      <shelf name="books" count="2"/>
+      <shelf name="to-get" count="2"/>
+      <shelf name="genre-poetry" count="2"/>
+      <shelf name="poetry-to-read" count="2"/>
+      <shelf name="standalone" count="2"/>
+      <shelf name="authors-of-color" count="2"/>
+      <shelf name="want-to-buy" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="have-to-buy" count="2"/>
+      <shelf name="2018-reads" count="2"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="feminism" count="2"/>
+      <shelf name="poesía" count="2"/>
+      <shelf name="emotional" count="2"/>
+      <shelf name="prose-poetry" count="2"/>
+      <shelf name="english" count="2"/>
+      <shelf name="books-i-own" count="2"/>
+      <shelf name="mental-health" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="arcs" count="2"/>
+      <shelf name="tbr-p" count="1"/>
+      <shelf name="2020-reading-challenge" count="1"/>
+      <shelf name="my-bookshelves" count="1"/>
+      <shelf name="posiadam" count="1"/>
+      <shelf name="2020-book-goals" count="1"/>
+      <shelf name="gift-wish-list" count="1"/>
+      <shelf name="would-read-again" count="1"/>
+      <shelf name="non-fiction-2019" count="1"/>
+      <shelf name="2019-books-read" count="1"/>
+      <shelf name="march-2020" count="1"/>
+      <shelf name="wishlist-to-read" count="1"/>
+      <shelf name="for-the-soul" count="1"/>
+      <shelf name="book-bonanza" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="3-stars-below" count="1"/>
+      <shelf name="not-in-libby" count="1"/>
+      <shelf name="essays-tbr" count="1"/>
+      <shelf name="published-in-2010s" count="1"/>
+      <shelf name="00-hm" count="1"/>
+      <shelf name="x-added-2019" count="1"/>
+      <shelf name="tbr" count="1"/>
+      <shelf name="wtr-poetry" count="1"/>
+      <shelf name="czytałam-ale-nie-posiadam" count="1"/>
+      <shelf name="books-i-actually-want" count="1"/>
+      <shelf name="want-to-actually-read" count="1"/>
+      <shelf name="sep19" count="1"/>
+      <shelf name="for-avery" count="1"/>
+      <shelf name="pas-dans-ma-bibliothèque" count="1"/>
+      <shelf name="dont-own" count="1"/>
+      <shelf name="poetry-personal-essay-prose" count="1"/>
+      <shelf name="book-wishlist" count="1"/>
+      <shelf name="to-be-read-poetry" count="1"/>
+      <shelf name="september" count="1"/>
+      <shelf name="do-not-want-to-read" count="1"/>
+      <shelf name="romantic" count="1"/>
+      <shelf name="want-to-read-later" count="1"/>
+      <shelf name="m-and-g-choices" count="1"/>
+      <shelf name="beautiful-covers" count="1"/>
+      <shelf name="genre-contemporary" count="1"/>
+      <shelf name="do-not-own" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="ready-to-read-next" count="1"/>
+      <shelf name="to-read-standalone" count="1"/>
+      <shelf name="2019-autumn-to-read" count="1"/>
+      <shelf name="owned-signed-copies" count="1"/>
+      <shelf name="own-but-not-read" count="1"/>
+      <shelf name="maybe-someday" count="1"/>
+      <shelf name="interessada" count="1"/>
+      <shelf name="owned-signed-by-author" count="1"/>
+      <shelf name="own-a-copy-or-two" count="1"/>
+      <shelf name="2016-2019-releases" count="1"/>
+      <shelf name="2019-challenge-options" count="1"/>
+      <shelf name="2019-favourite" count="1"/>
+      <shelf name="xx-kandi-steiner" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>42379672</id>
+<title>The Wrong Game</title>
+<title_without_series>The Wrong Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42379672-the-wrong-game]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64433272</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7319216</id>
+<name>Kandi Steiner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7319216.Kandi_Steiner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43206828</id>
+<title><![CDATA[What He Never Knew (What He Doesn't Know, #3)]]></title>
+<title_without_series>What He Never Knew</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43206828-what-he-never-knew]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>399</num_pages>
+<work>
+<id>67045770</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7319216</id>
+<name>Kandi Steiner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7319216.Kandi_Steiner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45916982</id>
+<title><![CDATA[On the Rocks (Becker Brothers, #1)]]></title>
+<title_without_series>On the Rocks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45916982-on-the-rocks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559569726l/45916982._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559569726l/45916982._SX98_.jpg]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>70769544</id>
+</work>
+<isbn>107217670X</isbn>
+<isbn13>9781072176701</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>7319216</id>
+<name>Kandi Steiner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7319216.Kandi_Steiner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46834358</id>
+<title>Neat (Becker Brothers, #2)</title>
+<title_without_series>Neat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46834358-neat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568033373l/46834358._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568033373l/46834358._SX98_.jpg]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>71878436</id>
+</work>
+<isbn>1689558873</isbn>
+<isbn13>9781689558877</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7319216</id>
+<name>Kandi Steiner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7319216.Kandi_Steiner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42357543</id>
+<title><![CDATA[I Hope This Makes You Uncomfortable]]></title>
+<title_without_series><![CDATA[I Hope This Makes You Uncomfortable]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42357543-i-hope-this-makes-you-uncomfortable]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540903747l/42357543._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540903747l/42357543._SX98_.jpg]]></image_url>
+<num_pages>73</num_pages>
+<work>
+<id>66006648</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>14694907</id>
+<name>Kat Savage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14694907.Kat_Savage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46632528</id>
+<title>Ruin Me</title>
+<title_without_series>Ruin Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46632528-ruin-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567094705l/46632528._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567094705l/46632528._SY160_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71646218</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4486286</id>
+<name>Christina Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4486286.Christina_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46632539</id>
+<title>Hate Me</title>
+<title_without_series>Hate Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46632539-hate-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567060179l/46632539._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567060179l/46632539._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71646226</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>8201633</id>
+<name>Cynthia A. Rodriguez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8201633.Cynthia_A_Rodriguez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44429367</id>
+<title><![CDATA[Player (Red Lipstick Coalition, #2)]]></title>
+<title_without_series>Player</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44429367-player]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552572907l/44429367._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552572907l/44429367._SX98_.jpg]]></image_url>
+<num_pages>339</num_pages>
+<work>
+<id>64697093</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6937037</id>
+<name>Staci Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6937037.Staci_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40775196</id>
+<title>Breakup Poems: Vol 1</title>
+<title_without_series>Breakup Poems: Vol 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40775196-breakup-poems]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540902599l/40775196._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540902599l/40775196._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63469537</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>14542574</id>
+<name>J.R. Rogue</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14542574.J_R_Rogue]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40594397</id>
+<title><![CDATA[Legacy (Palm South University, #4)]]></title>
+<title_without_series>Legacy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40594397-legacy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531352858l/40594397._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531352858l/40594397._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63041720</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7319216</id>
+<name>Kandi Steiner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7319216.Kandi_Steiner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38926444</id>
+<title>The Dark Between Stars</title>
+<title_without_series>The Dark Between Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38926444-the-dark-between-stars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535882726l/38926444._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535882726l/38926444._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>60503512</id>
+</work>
+<isbn>1982104864</isbn>
+<isbn13>9781982104863</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15589448</id>
+<name>Atticus Poetry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15589448.Atticus_Poetry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43848284</id>
+<title>Savior</title>
+<title_without_series>Savior</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43848284-savior]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552911193l/43848284._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552911193l/43848284._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68233681</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>14212528</id>
+<name>Fiona Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14212528.Fiona_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44429333</id>
+<title><![CDATA[Work in Progress (Red Lipstick Coalition, #3)]]></title>
+<title_without_series>Work in Progress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44429333-work-in-progress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552572616l/44429333._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552572616l/44429333._SX98_.jpg]]></image_url>
+<num_pages>410</num_pages>
+<work>
+<id>65680957</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6937037</id>
+<name>Staci Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6937037.Staci_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45310112</id>
+<title>The Other Side</title>
+<title_without_series>The Other Side</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45310112-the-other-side]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559828179l/45310112._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559828179l/45310112._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>70039634</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7445352</id>
+<name>Kim Holden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7445352.Kim_Holden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46300550</id>
+<title><![CDATA[Falling from Gravity (Gravity, #1.5)]]></title>
+<title_without_series>Falling from Gravity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46300550-falling-from-gravity]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560779342l/46300550._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560779342l/46300550._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71316680</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>8301757</id>
+<name>K.K. Allen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8301757.K_K_Allen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41450662</id>
+<title>The Kiss Thief</title>
+<title_without_series>The Kiss Thief</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41450662-the-kiss-thief]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544101164l/41450662._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544101164l/41450662._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>64703632</id>
+</work>
+<isbn>1793307504</isbn>
+<isbn13>9781793307507</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>13531492</id>
+<name>L.J. Shen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13531492.L_J_Shen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40649702</id>
+<title>Center of Gravity</title>
+<title_without_series>Center of Gravity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40649702-center-of-gravity]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534770233l/40649702._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534770233l/40649702._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63169173</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>8301757</id>
+<name>K.K. Allen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8301757.K_K_Allen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48004985</id>
+<title><![CDATA[I'm Not Your Paper Princess: Poems]]></title>
+<title_without_series><![CDATA[I'm Not Your Paper Princess: Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48004985-i-m-not-your-paper-princess]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568861510l/48004985._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568861510l/48004985._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73192731</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>878</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14542574</id>
+<name>J.R. Rogue</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14542574.J_R_Rogue]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

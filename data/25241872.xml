@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25241872</id>
+  <title><![CDATA[Pop Sonnets: Shakespearean Spins on Your Favorite Songs]]></title>
+  <isbn><![CDATA[1594748284]]></isbn>
+  <isbn13><![CDATA[9781594748288]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435868021l/25241872._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435868021l/25241872._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Quirk Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Bard meets the Backstreet Boys in <i>Pop Sonnets</i>, a collection of 100 classic pop songs reimagined as Shakespearean sonnets. All of your favorite artists are represented in these pages—from Bon Jovi and Green Day to Miley Cyrus, Beyoncé, and beyond. Already a smash sensation on the Internet—the Tumblr page has 20,000+ followers—<i>Pop Sonnets</i> has been featured by the A.V. Club, BuzzFeed, and <i>Vanity Fair,</i> among many others. More than half of these pop sonnets are exclusive to this collection and have never been published in any form.]]></description>
+  <work>
+  <id type="integer">44518531</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">25241872</best_book_id>
+  <reviews_count type="integer">7195</reviews_count>
+  <ratings_sum type="integer">3897</ratings_sum>
+  <ratings_count type="integer">937</ratings_count>
+  <text_reviews_count type="integer">268</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">6</original_publication_day>
+  <original_title>Pop Sonnets: Shakespearean Spins on Your Favorite Songs</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:381|4:374|3:143|2:28|1:11|total:937</rating_dist>
+  <desc_user_id type="integer">1738709</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.aQxrmPNuy5IAQDpijGtaxA</work_uri>
+</work>
+  <average_rating>4.16</average_rating>
+  <num_pages><![CDATA[128]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[730]]></ratings_count>
+  <text_reviews_count><![CDATA[169]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25241872-pop-sonnets]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25241872-pop-sonnets]]></link>
+  <authors>
+<author>
+<id>13478193</id>
+<name>Erik Didriksen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1435898924p5/13478193.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1435898924p2/13478193.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13478193.Erik_Didriksen]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>935</ratings_count>
+<text_reviews_count>267</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25241872-pop-sonnets">Pop Sonnets Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594748284&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25241872-pop-sonnets?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5973"/>
+      <shelf name="poetry" count="209"/>
+      <shelf name="humor" count="72"/>
+      <shelf name="non-fiction" count="44"/>
+      <shelf name="shakespeare" count="32"/>
+      <shelf name="currently-reading" count="31"/>
+      <shelf name="music" count="27"/>
+      <shelf name="nonfiction" count="22"/>
+      <shelf name="favorites" count="17"/>
+      <shelf name="humour" count="14"/>
+      <shelf name="netgalley" count="13"/>
+      <shelf name="arc" count="13"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="pop-culture" count="10"/>
+      <shelf name="fiction" count="7"/>
+      <shelf name="reviewed" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="read-in-2015" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="retellings" count="6"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="parody" count="5"/>
+      <shelf name="poems" count="5"/>
+      <shelf name="read-2015" count="5"/>
+      <shelf name="5-stars" count="5"/>
+      <shelf name="first-reads" count="5"/>
+      <shelf name="comedy" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="young-adult" count="4"/>
+      <shelf name="books-to-buy" count="4"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="2016-reads" count="3"/>
+      <shelf name="classics" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="tbr-nonfiction" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+      <shelf name="quirk-books" count="3"/>
+      <shelf name="arcs" count="3"/>
+      <shelf name="adaptation" count="3"/>
+      <shelf name="booklikes" count="3"/>
+      <shelf name="adult-books" count="3"/>
+      <shelf name="2015-release" count="3"/>
+      <shelf name="mmd" count="2"/>
+      <shelf name="read-2019" count="2"/>
+      <shelf name="popsugar-2019" count="2"/>
+      <shelf name="tbr-poetry" count="2"/>
+      <shelf name="read-owned" count="2"/>
+      <shelf name="adaptations" count="2"/>
+      <shelf name="i-own-it" count="2"/>
+      <shelf name="tbr-2017" count="2"/>
+      <shelf name="books-that-i-need-to-buy" count="2"/>
+      <shelf name="fun" count="2"/>
+      <shelf name="quirky" count="2"/>
+      <shelf name="on-my-shelf" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="stand-alone" count="2"/>
+      <shelf name="kindle" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="satire" count="2"/>
+      <shelf name="geek-culture" count="2"/>
+      <shelf name="humorous" count="2"/>
+      <shelf name="gift-ideas" count="2"/>
+      <shelf name="to-read-poetry" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="tr-poetry" count="2"/>
+      <shelf name="verse" count="2"/>
+      <shelf name="arc-netgalley" count="2"/>
+      <shelf name="won-librarything-er" count="2"/>
+      <shelf name="genre-shakespeare-reimaginings" count="2"/>
+      <shelf name="2015-reads" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="giveaways" count="2"/>
+      <shelf name="ebook" count="2"/>
+      <shelf name="summer-reading" count="2"/>
+      <shelf name="summer-2015" count="2"/>
+      <shelf name="edelweiss" count="2"/>
+      <shelf name="books-i-want-to-buy" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="published-2015" count="2"/>
+      <shelf name="2019-reading-goals" count="1"/>
+      <shelf name="request" count="1"/>
+      <shelf name="2019-goals" count="1"/>
+      <shelf name="nonfiction-to-read" count="1"/>
+      <shelf name="need-to-log-it" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="forensics" count="1"/>
+      <shelf name="ya-book-recommendations" count="1"/>
+      <shelf name="shakespeare-and-related" count="1"/>
+      <shelf name="tbr-shortlist" count="1"/>
+      <shelf name="spring" count="1"/>
+      <shelf name="contemporary-romance" count="1"/>
+      <shelf name="read-in-2019-poetry" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="tbr-priority" count="1"/>
+      <shelf name="want-to-read-later" count="1"/>
+      <shelf name="zz-erik-didriksen" count="1"/>
+      <shelf name="heaving-bosoms-2019-reading-embrace" count="1"/>
+      <shelf name="read-in-2019-e-book" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>37826510</id>
+<title><![CDATA[I Hate My Cats (A Love Story): (Cat book for Kids, Picture Book about Pets)]]></title>
+<title_without_series><![CDATA[I Hate My Cats (A Love Story):]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37826510-i-hate-my-cats-a-love-story]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556231293l/37826510._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556231293l/37826510._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>59504914</id>
+</work>
+<isbn>1452165955</isbn>
+<isbn13>9781452165950</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>464393</id>
+<name>Davide Calì</name>
+<link><![CDATA[https://www.goodreads.com/author/show/464393.Davide_Cal_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1292145</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1292145.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>46031225</id>
+</work>
+<isbn>006093168X</isbn>
+<isbn13>9780060931681</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>33998</id>
+<name>Edna St. Vincent Millay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33998.Edna_St_Vincent_Millay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44906697</id>
+<title><![CDATA[Alexandria Ocasio-Cortez and the Freshman Force: New Party Who Dis?]]></title>
+<title_without_series><![CDATA[Alexandria Ocasio-Cortez and the Freshman Force: New Party Who Dis?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44906697-alexandria-ocasio-cortez-and-the-freshman-force]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69565438</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>203759</id>
+<name>Josh Blaylock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/203759.Josh_Blaylock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36436217</id>
+<title><![CDATA[On the Hook (Crochet Mystery, #12)]]></title>
+<title_without_series>On the Hook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36436217-on-the-hook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512151181l/36436217._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512151181l/36436217._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58136839</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1268493</id>
+<name>Betty Hechtman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1268493.Betty_Hechtman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>106151</id>
+<title>Batman: Haunted Knight</title>
+<title_without_series>Batman: Haunted Knight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/106151.Batman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375010333l/106151._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375010333l/106151._SX98_.jpg]]></image_url>
+<num_pages>191</num_pages>
+<work>
+<id>102326</id>
+</work>
+<isbn>1563892731</isbn>
+<isbn13>9781563892738</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32594</id>
+<name>Jeph Loeb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32594.Jeph_Loeb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39018271</id>
+<title><![CDATA[Batman: The Court of Owls Saga (DC Essential Edition)]]></title>
+<title_without_series><![CDATA[Batman: The Court of Owls Saga]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39018271-batman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568997754l/39018271._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568997754l/39018271._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>64198249</id>
+</work>
+<isbn>1401284337</isbn>
+<isbn13>9781401284336</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>70026</id>
+<name>Scott Snyder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70026.Scott_Snyder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28110897</id>
+<title>Eek! Halloween!</title>
+<title_without_series>Eek! Halloween!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28110897-eek-halloween]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460900191l/28110897._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460900191l/28110897._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>48119030</id>
+</work>
+<isbn>0761193006</isbn>
+<isbn13>9780761193005</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28959360</id>
+<title>Shop Cats of New York</title>
+<title_without_series>Shop Cats of New York</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28959360-shop-cats-of-new-york]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463950579l/28959360._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463950579l/28959360._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>49186148</id>
+</work>
+<isbn>0062432036</isbn>
+<isbn13>9780062432032</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14957954</id>
+<name>Tamar Arslanian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14957954.Tamar_Arslanian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36576169</id>
+<title><![CDATA[The Cash and Carter Family Cookbook: Recipes and Recollections from Johnny and June's Table]]></title>
+<title_without_series><![CDATA[The Cash and Carter Family Cookbook: Recipes and Recollections from Johnny and June's Table]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36576169-the-cash-and-carter-family-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529215597l/36576169._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529215597l/36576169._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>58318509</id>
+</work>
+<isbn>1400201888</isbn>
+<isbn13>9781400201884</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>168705</id>
+<name>John Carter Cash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168705.John_Carter_Cash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864492</id>
+<title><![CDATA[A Beautiful Day in the Neighborhood: The Poetry of Mister Rogers]]></title>
+<title_without_series><![CDATA[A Beautiful Day in the Neighborhood: The Poetry of Mister Rogers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864492-a-beautiful-day-in-the-neighborhood]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550949484l/40864492._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550949484l/40864492._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63657025</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32106</id>
+<name>Fred Rogers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32106.Fred_Rogers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6539576</id>
+<title><![CDATA[Boys, Girls and Other Hazardous Materials]]></title>
+<title_without_series><![CDATA[Boys, Girls and Other Hazardous Materials]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6539576-boys-girls-and-other-hazardous-materials]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>6731804</id>
+</work>
+<isbn>0399247963</isbn>
+<isbn13>9780399247965</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5065</id>
+<name>Rosalind Wiseman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5065.Rosalind_Wiseman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41039603</id>
+<title><![CDATA[はたらく細胞BLACK 2 [Hataraku Saibou BLACK 2] (Cells at Work BLACK, #2)]]></title>
+<title_without_series><![CDATA[はたらく細胞BLACK 2 [Hataraku Saibou BLACK 2]]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41039603-black-2-hataraku-saibou-black-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536211440l/41039603._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536211440l/41039603._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>64067717</id>
+</work>
+<isbn>4065127602</isbn>
+<isbn13>9784065127605</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>5758141</id>
+<name>Shigemitsu Harada</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5758141.Shigemitsu_Harada]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38509457</id>
+<title><![CDATA[Copycat Cooking with Six Sisters' Stuff: 100+ Popular Restaurant Meals You Can Make at Home]]></title>
+<title_without_series><![CDATA[Copycat Cooking with Six Sisters' Stuff: 100+ Popular Restaurant Meals You Can Make at Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38509457-copycat-cooking-with-six-sisters-stuff]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528500072l/38509457._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528500072l/38509457._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>60147280</id>
+</work>
+<isbn>1629724432</isbn>
+<isbn13>9781629724430</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7786656</id>
+<name>Six Sisters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7786656.Six_Sisters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3049159</id>
+<title>The Book of Lists: Horror</title>
+<title_without_series>The Book of Lists: Horror</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3049159-the-book-of-lists]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>410</num_pages>
+<work>
+<id>3079983</id>
+</work>
+<isbn>0061537268</isbn>
+<isbn13>9780061537264</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>99049</id>
+<name>Amy Wallace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99049.Amy_Wallace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8675</id>
+<title>Wild Ducks Flying Backward</title>
+<title_without_series>Wild Ducks Flying Backward</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8675.Wild_Ducks_Flying_Backward]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>11606</id>
+</work>
+<isbn>0553383531</isbn>
+<isbn13>9780553383539</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>197</id>
+<name>Tom Robbins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/197.Tom_Robbins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40139193</id>
+<title>Dear Sweet Pea</title>
+<title_without_series>Dear Sweet Pea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40139193-dear-sweet-pea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550077158l/40139193._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550077158l/40139193._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>62274405</id>
+</work>
+<isbn>0062473093</isbn>
+<isbn13>9780062473097</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6433278</id>
+<name>Julie   Murphy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6433278.Julie_Murphy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>383615</id>
+<title><![CDATA[As For Me And My House: Crafting Your Marriage To Last]]></title>
+<title_without_series><![CDATA[As For Me And My House: Crafting Your Marriage To Last]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/383615.As_For_Me_And_My_House]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>568423</id>
+</work>
+<isbn>0785266712</isbn>
+<isbn13>9780785266716</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2978119</id>
+<name>Walter Wangerin Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2978119.Walter_Wangerin_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17286866</id>
+<title>Nine Inches</title>
+<title_without_series>Nine Inches</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17286866-nine-inches]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375932409l/17286866._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375932409l/17286866._SX98_.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>23906936</id>
+</work>
+<isbn>1250034701</isbn>
+<isbn13>9781250034700</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>15907</id>
+<name>Tom Perrotta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15907.Tom_Perrotta]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

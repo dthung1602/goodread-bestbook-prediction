@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22747803</id>
+  <title><![CDATA[Mesmerized: How Ben Franklin Solved a Mystery that Baffled All of France]]></title>
+  <isbn><![CDATA[0763663514]]></isbn>
+  <isbn13><![CDATA[9780763663513]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587519l/22747803._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587519l/22747803._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>10</publication_day>
+  <publisher>Candlewick Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Discover how Benjamin Franklin’s scientific method challenged a certain Dr. Mesmer’s mysterious powers in a whimsical look at a true moment in history.</b><br /><br /><i>The day Ben Franklin first set foot in Paris, France, he found the city all abuzz. Everyone was talking about something new. Remarkable. Thrilling. Strange. Something called Science!</i><br /><br />But soon the straightforward American inventor Benjamin Franklin is upstaged by a compelling and enigmatic figure: Dr. Mesmer. In elaborately staged shows, Mesmer, wearing a fancy coat of purple silk and carrying an iron wand, convinces the people of Paris that he controls a magic force that can make water taste like a hundred different things, cure illness, and control thoughts! But Ben Franklin is not convinced. Will his practical approach of observing, hypothesizing, and testing get to the bottom of the mysterious Mesmer’s tricks? A rip-roaring, lavishly illustrated peek into a fascinating moment in history shows the development and practice of the scientific method—and reveals the amazing power of the human mind.]]></description>
+  <work>
+  <id type="integer">42292739</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">22747803</best_book_id>
+  <reviews_count type="integer">3811</reviews_count>
+  <ratings_sum type="integer">6012</ratings_sum>
+  <ratings_count type="integer">1427</ratings_count>
+  <text_reviews_count type="integer">360</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">23</original_publication_day>
+  <original_title>Mesmerized: How Ben Franklin Solved a Mystery that Baffled All of France</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:566|4:640|3:186|2:29|1:6|total:1427</rating_dist>
+  <desc_user_id type="integer">55233864</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.H1ndiBwgt597jABkphNjhA</work_uri>
+</work>
+  <average_rating>4.21</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1414]]></ratings_count>
+  <text_reviews_count><![CDATA[358]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22747803-mesmerized]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22747803-mesmerized]]></link>
+  <authors>
+<author>
+<id>198514</id>
+<name>Mara Rockliff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1461719333p5/198514.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1461719333p2/198514.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/198514.Mara_Rockliff]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>5320</ratings_count>
+<text_reviews_count>1290</text_reviews_count>
+</author>
+<author>
+<id>2738900</id>
+<name>Iacopo Bruno</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442602026p5/2738900.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442602026p2/2738900.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2738900.Iacopo_Bruno]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>94630</ratings_count>
+<text_reviews_count>11450</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22747803-mesmerized">Mesmerized Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0763663514&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/22747803-mesmerized?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2056"/>
+      <shelf name="picture-books" count="180"/>
+      <shelf name="nonfiction" count="108"/>
+      <shelf name="non-fiction" count="91"/>
+      <shelf name="history" count="90"/>
+      <shelf name="science" count="89"/>
+      <shelf name="picture-book" count="63"/>
+      <shelf name="biography" count="42"/>
+      <shelf name="childrens" count="35"/>
+      <shelf name="children-s-books" count="26"/>
+      <shelf name="children-s" count="24"/>
+      <shelf name="children" count="22"/>
+      <shelf name="historical" count="18"/>
+      <shelf name="kids" count="17"/>
+      <shelf name="middle-grade" count="12"/>
+      <shelf name="france" count="12"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="historical-fiction" count="11"/>
+      <shelf name="childrens-books" count="10"/>
+      <shelf name="juvenile-nonfiction" count="10"/>
+      <shelf name="scientific-method" count="10"/>
+      <shelf name="juvenile" count="10"/>
+      <shelf name="informational" count="9"/>
+      <shelf name="currently-reading" count="9"/>
+      <shelf name="social-studies" count="8"/>
+      <shelf name="stem" count="8"/>
+      <shelf name="kids-books" count="8"/>
+      <shelf name="children-s-nonfiction" count="8"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="biography-memoir" count="7"/>
+      <shelf name="american-history" count="7"/>
+      <shelf name="children-nonfiction" count="7"/>
+      <shelf name="children-s-picture-books" count="6"/>
+      <shelf name="kids-nonfiction" count="6"/>
+      <shelf name="juvenile-non-fiction" count="6"/>
+      <shelf name="children-s-literature" count="6"/>
+      <shelf name="true-story" count="5"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="bluebonnet" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="picturebooks" count="5"/>
+      <shelf name="informational-text" count="5"/>
+      <shelf name="biographies" count="5"/>
+      <shelf name="read-2015" count="5"/>
+      <shelf name="picture" count="5"/>
+      <shelf name="childrens-picture-books" count="5"/>
+      <shelf name="children-s-non-fiction" count="5"/>
+      <shelf name="middle-grades" count="4"/>
+      <shelf name="non-fic" count="4"/>
+      <shelf name="bluebonnets" count="4"/>
+      <shelf name="children-s-lit" count="4"/>
+      <shelf name="childrens-nonfiction" count="4"/>
+      <shelf name="psychology" count="4"/>
+      <shelf name="lae-3005" count="3"/>
+      <shelf name="libs-642-book-record" count="3"/>
+      <shelf name="2016-books-read" count="3"/>
+      <shelf name="non-fiction-books" count="3"/>
+      <shelf name="curiosity" count="3"/>
+      <shelf name="nf" count="3"/>
+      <shelf name="bluebonnet-2016" count="3"/>
+      <shelf name="read-aloud" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="bluebonnet-2016-17" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="revolutionary-war" count="3"/>
+      <shelf name="problem-solving" count="3"/>
+      <shelf name="children-non-fiction" count="3"/>
+      <shelf name="ben-franklin" count="3"/>
+      <shelf name="bluebonnet-list" count="3"/>
+      <shelf name="paris" count="3"/>
+      <shelf name="wow-books" count="3"/>
+      <shelf name="kids-non-fiction" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="non-fiction-picture-books" count="3"/>
+      <shelf name="biography-autobiography" count="3"/>
+      <shelf name="nonfiction-picture-book" count="3"/>
+      <shelf name="youth-non-fiction" count="3"/>
+      <shelf name="narrative-nonfiction" count="3"/>
+      <shelf name="2015-reads" count="3"/>
+      <shelf name="benjamin-franklin" count="3"/>
+      <shelf name="j-nonfiction" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="texas-bluebonnet-nominee" count="2"/>
+      <shelf name="ultra-favorites" count="2"/>
+      <shelf name="2016-2017-bes" count="2"/>
+      <shelf name="pb" count="2"/>
+      <shelf name="lae3005" count="2"/>
+      <shelf name="childrens-picture" count="2"/>
+      <shelf name="youth" count="2"/>
+      <shelf name="homeschool" count="2"/>
+      <shelf name="beehive" count="2"/>
+      <shelf name="goodreads-author" count="2"/>
+      <shelf name="childrens-history" count="2"/>
+      <shelf name="bluebonnet-2017" count="2"/>
+      <shelf name="black-eyed-susan" count="2"/>
+      <shelf name="childrens-literature" count="2"/>
+      <shelf name="author-r" count="2"/>
+      <shelf name="kvba2016-2017" count="2"/>
+      <shelf name="read-2016" count="2"/>
+      <shelf name="mentor-texts" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>21965198</id>
+<title><![CDATA[Emmanuel's Dream: The True Story of Emmanuel Ofosu Yeboah]]></title>
+<title_without_series><![CDATA[Emmanuel's Dream: The True Story of Emmanuel Ofosu Yeboah]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21965198-emmanuel-s-dream]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408310790l/21965198._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408310790l/21965198._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>41275568</id>
+</work>
+<isbn>044981744X</isbn>
+<isbn13>9780449817445</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7832863</id>
+<name>Laurie Ann Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7832863.Laurie_Ann_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>122102</id>
+<title><![CDATA[The Mary Celeste: An Unsolved Mystery from History]]></title>
+<title_without_series><![CDATA[The Mary Celeste: An Unsolved Mystery from History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/122102.The_Mary_Celeste]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>117547</id>
+</work>
+<isbn>0689851227</isbn>
+<isbn13>9780689851223</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5989</id>
+<name>Jane Yolen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5989.Jane_Yolen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>523925</id>
+<title>Satchel Paige</title>
+<title_without_series>Satchel Paige</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/523925.Satchel_Paige]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>511793</id>
+</work>
+<isbn>0689856814</isbn>
+<isbn13>9780689856815</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>290569</id>
+<name>Lesa Cline-Ransome</name>
+<link><![CDATA[https://www.goodreads.com/author/show/290569.Lesa_Cline_Ransome]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13588082</id>
+<title>Each Kindness</title>
+<title_without_series>Each Kindness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13588082-each-kindness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361368608l/13588082._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361368608l/13588082._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>19175480</id>
+</work>
+<isbn>0399246525</isbn>
+<isbn13>9780399246524</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20256564</id>
+<title>Mr. Ferris and His Wheel</title>
+<title_without_series>Mr. Ferris and His Wheel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20256564-mr-ferris-and-his-wheel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400938569l/20256564._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400938569l/20256564._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>28068568</id>
+</work>
+<isbn>0547959222</isbn>
+<isbn13>9780547959221</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8418633</id>
+<name>Kathryn Gibbs Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8418633.Kathryn_Gibbs_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20696727</id>
+<title><![CDATA[The Right Word: Roget and His Thesaurus]]></title>
+<title_without_series><![CDATA[The Right Word: Roget and His Thesaurus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20696727-the-right-word]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424201895l/20696727._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424201895l/20696727._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>40016232</id>
+</work>
+<isbn>0802853854</isbn>
+<isbn13>9780802853851</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>500077</id>
+<name>Jen Bryant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/500077.Jen_Bryant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34593569</id>
+<title><![CDATA[Brave Jane Austen: Reader, Writer, Author, Rebel]]></title>
+<title_without_series><![CDATA[Brave Jane Austen: Reader, Writer, Author, Rebel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34593569-brave-jane-austen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501504004l/34593569._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501504004l/34593569._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>55736139</id>
+</work>
+<isbn>1627796436</isbn>
+<isbn13>9781627796439</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1438448</id>
+<name>Lisa Pliscou</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1438448.Lisa_Pliscou]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12833657</id>
+<title>A Boy Called Dickens</title>
+<title_without_series>A Boy Called Dickens</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12833657-a-boy-called-dickens]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320477061l/12833657._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320477061l/12833657._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16987698</id>
+</work>
+<isbn>0375867325</isbn>
+<isbn13>9780375867323</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>14256</id>
+<name>Deborah Hopkinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14256.Deborah_Hopkinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32498545</id>
+<title>7 Ate 9: The Untold Story</title>
+<title_without_series>7 Ate 9: The Untold Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32498545-7-ate-9]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492741677l/32498545._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492741677l/32498545._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>53091319</id>
+</work>
+<isbn>1484717791</isbn>
+<isbn13>9781484717790</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6509353</id>
+<name>Tara Lazar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6509353.Tara_Lazar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35758098</id>
+<title><![CDATA[I Walk with Vanessa: A Story about a Simple Act of Kindness]]></title>
+<title_without_series><![CDATA[I Walk with Vanessa: A Story about a Simple Act of Kindness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35758098-i-walk-with-vanessa]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574028369l/35758098._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574028369l/35758098._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57259095</id>
+</work>
+<isbn>1524769568</isbn>
+<isbn13>9781524769567</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>752696</id>
+<name>Kerascoët</name>
+<link><![CDATA[https://www.goodreads.com/author/show/752696.Kerasco_t]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20518974</id>
+<title><![CDATA[Star Stuff: Carl Sagan and the Mysteries of the Cosmos]]></title>
+<title_without_series><![CDATA[Star Stuff: Carl Sagan and the Mysteries of the Cosmos]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20518974-star-stuff]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390175513l/20518974._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390175513l/20518974._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>36426320</id>
+</work>
+<isbn>1596439602</isbn>
+<isbn13>9781596439603</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7522522</id>
+<name>Stephanie Roth Sisson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7522522.Stephanie_Roth_Sisson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22522289</id>
+<title><![CDATA[Tricky Vic: The Impossibly True Story of the Man Who Sold the Eiffel Tower]]></title>
+<title_without_series><![CDATA[Tricky Vic: The Impossibly True Story of the Man Who Sold the Eiffel Tower]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22522289-tricky-vic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179185l/22522289._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179185l/22522289._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>41969748</id>
+</work>
+<isbn>0670016527</isbn>
+<isbn13>9780670016525</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6753526</id>
+<name>Greg Pizzoli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6753526.Greg_Pizzoli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35738079</id>
+<title>Pink Is for Boys</title>
+<title_without_series>Pink Is for Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35738079-pink-is-for-boys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508285416l/35738079._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508285416l/35738079._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57243849</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1137955</id>
+<name>Robb Pearlman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1137955.Robb_Pearlman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34791219</id>
+<title>Drawn Together</title>
+<title_without_series>Drawn Together</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34791219-drawn-together]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510025545l/34791219._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510025545l/34791219._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>55989359</id>
+</work>
+<isbn>1484767608</isbn>
+<isbn13>9781484767603</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14355926</id>
+<name>Minh Lê</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14355926.Minh_L_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24727082</id>
+<title>Mango, Abuela, and Me</title>
+<title_without_series>Mango, Abuela, and Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24727082-mango-abuela-and-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426623207l/24727082._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426623207l/24727082._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>44353565</id>
+</work>
+<isbn>0763669008</isbn>
+<isbn13>9780763669003</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1373005</id>
+<name>Meg Medina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1373005.Meg_Medina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5408376</id>
+<title><![CDATA[Moonshot: The Flight of Apollo 11]]></title>
+<title_without_series><![CDATA[Moonshot: The Flight of Apollo 11]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5408376-moonshot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273844738l/5408376._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273844738l/5408376._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>5475916</id>
+</work>
+<isbn>141695046X</isbn>
+<isbn13>9781416950462</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>584482</id>
+<name>Brian Floca</name>
+<link><![CDATA[https://www.goodreads.com/author/show/584482.Brian_Floca]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31932921</id>
+<title>Malala&apos;s Magic Pencil</title>
+<title_without_series>Malala&apos;s Magic Pencil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31932921-malala-s-magic-pencil]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507609477l/31932921._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507609477l/31932921._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57552364</id>
+</work>
+<isbn>031631966X</isbn>
+<isbn13>9780316319669</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7064545</id>
+<name>Malala Yousafzai</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7064545.Malala_Yousafzai]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16718342</id>
+<title>The Noisy Paint Box</title>
+<title_without_series>The Noisy Paint Box</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16718342-the-noisy-paint-box]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375463559l/16718342._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375463559l/16718342._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22957699</id>
+</work>
+<isbn>0307978486</isbn>
+<isbn13>9780307978486</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1427</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>3396787</id>
+<name>Barb Rosenstock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3396787.Barb_Rosenstock]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

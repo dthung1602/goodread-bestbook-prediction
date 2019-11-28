@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>14999830</id>
+  <title>The Scraps Book</title>
+  <isbn><![CDATA[1442435712]]></isbn>
+  <isbn13><![CDATA[9781442435711]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419212752l/14999830._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419212752l/14999830._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>Simon &amp; Schuster</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A behind-the-scenes tour of Ehlert's books and book-making process - encouraging readers to explore their own creativity.]]></description>
+  <work>
+  <id type="integer">25331262</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">14999830</best_book_id>
+  <reviews_count type="integer">3064</reviews_count>
+  <ratings_sum type="integer">7075</ratings_sum>
+  <ratings_count type="integer">1725</ratings_count>
+  <text_reviews_count type="integer">309</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">4</original_publication_day>
+  <original_title>The Scraps Book</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:749|4:566|3:280|2:96|1:34|total:1725</rating_dist>
+  <desc_user_id type="integer">-44</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.9cbwKs87k1ecWbNWGwDJTA</work_uri>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1440]]></ratings_count>
+  <text_reviews_count><![CDATA[239]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/14999830-the-scraps-book]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/14999830-the-scraps-book]]></link>
+  <authors>
+<author>
+<id>10950</id>
+<name>Lois Ehlert</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489771839p5/10950.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489771839p2/10950.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10950.Lois_Ehlert]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>183426</ratings_count>
+<text_reviews_count>8670</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/14999830-the-scraps-book">The Scraps Book Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1442435712&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/14999830-the-scraps-book?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1088"/>
+      <shelf name="picture-books" count="161"/>
+      <shelf name="nonfiction" count="88"/>
+      <shelf name="art" count="85"/>
+      <shelf name="biography" count="84"/>
+      <shelf name="non-fiction" count="69"/>
+      <shelf name="picture-book" count="54"/>
+      <shelf name="childrens" count="32"/>
+      <shelf name="children-s" count="30"/>
+      <shelf name="children-s-books" count="27"/>
+      <shelf name="memoir" count="26"/>
+      <shelf name="creativity" count="14"/>
+      <shelf name="kids" count="14"/>
+      <shelf name="biographies" count="13"/>
+      <shelf name="picturebooks" count="12"/>
+      <shelf name="currently-reading" count="12"/>
+      <shelf name="biography-memoir" count="11"/>
+      <shelf name="children" count="11"/>
+      <shelf name="writing" count="11"/>
+      <shelf name="monarch-2016" count="10"/>
+      <shelf name="autobiography" count="10"/>
+      <shelf name="childrens-nonfiction" count="10"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="mock-caldecott-2015" count="9"/>
+      <shelf name="childrens-books" count="9"/>
+      <shelf name="children-s-literature" count="8"/>
+      <shelf name="imagination" count="7"/>
+      <shelf name="juvenile-non-fiction" count="7"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="exploring-assignment" count="6"/>
+      <shelf name="bluebonnet" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="books-about-books" count="6"/>
+      <shelf name="children-s-lit" count="6"/>
+      <shelf name="memoirs" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="exploring-academic" count="5"/>
+      <shelf name="bluebonnets" count="5"/>
+      <shelf name="childrens-lit" count="5"/>
+      <shelf name="childrens-picture-books" count="5"/>
+      <shelf name="picture" count="5"/>
+      <shelf name="j-nonfiction" count="5"/>
+      <shelf name="children-s-nonfiction" count="5"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="2015-reads" count="4"/>
+      <shelf name="1st-grade" count="4"/>
+      <shelf name="bluebonnet-15-16" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="bluebonnet-2015" count="4"/>
+      <shelf name="children-s-picture-books" count="4"/>
+      <shelf name="informational" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="read-2014" count="4"/>
+      <shelf name="kids-books" count="4"/>
+      <shelf name="juvenile-nonfiction" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="colors" count="4"/>
+      <shelf name="animals" count="3"/>
+      <shelf name="bluebonnet-2015-16" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="09-biography" count="3"/>
+      <shelf name="bluebonnet-books" count="3"/>
+      <shelf name="bluebonnet-2015-2016" count="3"/>
+      <shelf name="2014-reads" count="3"/>
+      <shelf name="artist" count="3"/>
+      <shelf name="nonfiction-picture-books" count="3"/>
+      <shelf name="youth-nonfiction" count="3"/>
+      <shelf name="pb-nonfiction" count="3"/>
+      <shelf name="bio" count="3"/>
+      <shelf name="children-s-non-fiction" count="3"/>
+      <shelf name="artists" count="3"/>
+      <shelf name="kids-non-fiction" count="3"/>
+      <shelf name="best-of-2014" count="3"/>
+      <shelf name="early-elementary" count="3"/>
+      <shelf name="biography-autobiography-memoir" count="3"/>
+      <shelf name="kids-picture-books" count="3"/>
+      <shelf name="art-and-creativity" count="2"/>
+      <shelf name="concept" count="2"/>
+      <shelf name="read-in-2018" count="2"/>
+      <shelf name="favorite-picture-books" count="2"/>
+      <shelf name="children-picture" count="2"/>
+      <shelf name="abandoned" count="2"/>
+      <shelf name="beehives" count="2"/>
+      <shelf name="nerdy-book-club" count="2"/>
+      <shelf name="kvba2015-2016" count="2"/>
+      <shelf name="exploring-biography" count="2"/>
+      <shelf name="rll-538" count="2"/>
+      <shelf name="autobiographies" count="2"/>
+      <shelf name="bluebonnets-2015" count="2"/>
+      <shelf name="2nd-grade" count="2"/>
+      <shelf name="baby-books" count="2"/>
+      <shelf name="childrens-picture-book" count="2"/>
+      <shelf name="non-fiction-picture-books" count="2"/>
+      <shelf name="star-of-the-north" count="2"/>
+      <shelf name="inspirational" count="2"/>
+      <shelf name="youth" count="2"/>
+      <shelf name="monarch-award" count="2"/>
+      <shelf name="writers" count="2"/>
+      <shelf name="arts" count="2"/>
+      <shelf name="bluebonnets-2015-2016" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11360892</id>
+<title><![CDATA[Balloons Over Broadway: The True Story of the Puppeteer of Macy's Parade]]></title>
+<title_without_series><![CDATA[Balloons Over Broadway: The True Story of the Puppeteer of Macy's Parade]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11360892-balloons-over-broadway]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353518234l/11360892._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353518234l/11360892._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16290970</id>
+</work>
+<isbn>0547199457</isbn>
+<isbn13>9780547199450</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>427613</id>
+<name>Melissa Sweet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/427613.Melissa_Sweet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13642600</id>
+<title><![CDATA[A Splash of Red: The Life and Art of Horace Pippin]]></title>
+<title_without_series><![CDATA[A Splash of Red: The Life and Art of Horace Pippin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13642600-a-splash-of-red]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370650l/13642600._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370650l/13642600._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19257840</id>
+</work>
+<isbn>0375867120</isbn>
+<isbn13>9780375867125</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>500077</id>
+<name>Jen Bryant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/500077.Jen_Bryant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15710450</id>
+<title><![CDATA[The Fantastic Jungles of Henri Rousseau]]></title>
+<title_without_series><![CDATA[The Fantastic Jungles of Henri Rousseau]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15710450-the-fantastic-jungles-of-henri-rousseau]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341703465l/15710450._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341703465l/15710450._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>21376614</id>
+</work>
+<isbn>0802853641</isbn>
+<isbn13>9780802853646</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>365585</id>
+<name>Michelle Markel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/365585.Michelle_Markel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16718342</id>
+<title>The Noisy Paint Box</title>
+<title_without_series>The Noisy Paint Box</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16718342-the-noisy-paint-box]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375463559l/16718342._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375463559l/16718342._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22957699</id>
+</work>
+<isbn>0307978486</isbn>
+<isbn13>9780307978486</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>3396787</id>
+<name>Barb Rosenstock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3396787.Barb_Rosenstock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11391817</id>
+<title>Drawing from Memory</title>
+<title_without_series>Drawing from Memory</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11391817-drawing-from-memory]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837508l/11391817._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837508l/11391817._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>16323867</id>
+</work>
+<isbn>0545176867</isbn>
+<isbn13>9780545176866</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>121814</id>
+<name>Allen Say</name>
+<link><![CDATA[https://www.goodreads.com/author/show/121814.Allen_Say]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9642662</id>
+<title>Me...Jane</title>
+<title_without_series>Me...Jane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9642662-me-jane]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982601l/9642662._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982601l/9642662._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14530108</id>
+</work>
+<isbn>0316045462</isbn>
+<isbn13>9780316045469</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>53088</id>
+<name>Patrick McDonnell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53088.Patrick_McDonnell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20696727</id>
+<title><![CDATA[The Right Word: Roget and His Thesaurus]]></title>
+<title_without_series><![CDATA[The Right Word: Roget and His Thesaurus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20696727-the-right-word]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424201895l/20696727._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424201895l/20696727._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>40016232</id>
+</work>
+<isbn>0802853854</isbn>
+<isbn13>9780802853851</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>500077</id>
+<name>Jen Bryant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/500077.Jen_Bryant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17320985</id>
+<title>A Boy and a Jaguar</title>
+<title_without_series>A Boy and a Jaguar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17320985-a-boy-and-a-jaguar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380034514l/17320985._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380034514l/17320985._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>24017647</id>
+</work>
+<isbn>054787507X</isbn>
+<isbn13>9780547875071</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>125055</id>
+<name>Alan Rabinowitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/125055.Alan_Rabinowitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25897837</id>
+<title><![CDATA[Maybe Something Beautiful: How Art Transformed a Neighborhood]]></title>
+<title_without_series><![CDATA[Maybe Something Beautiful: How Art Transformed a Neighborhood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25897837-maybe-something-beautiful]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436842355l/25897837._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436842355l/25897837._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45780783</id>
+</work>
+<isbn>0544357698</isbn>
+<isbn13>9780544357693</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>18958</id>
+<name>F. Isabel Campoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18958.F_Isabel_Campoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17245740</id>
+<title><![CDATA[The Tree Lady: The True Story of How One Tree-Loving Woman Changed a City Forever]]></title>
+<title_without_series><![CDATA[The Tree Lady: The True Story of How One Tree-Loving Woman Changed a City Forever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17245740-the-tree-lady]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363611161l/17245740._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363611161l/17245740._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>23802965</id>
+</work>
+<isbn>1442414022</isbn>
+<isbn13>9781442414020</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6922628</id>
+<name>H. Joseph Hopkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6922628.H_Joseph_Hopkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20256610</id>
+<title><![CDATA[Ivan: The Remarkable True Story of the Shopping Mall Gorilla]]></title>
+<title_without_series><![CDATA[Ivan: The Remarkable True Story of the Shopping Mall Gorilla]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20256610-ivan]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391340074l/20256610._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391340074l/20256610._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>41596220</id>
+</work>
+<isbn>0544252306</isbn>
+<isbn13>9780544252301</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1036736</id>
+<name>Katherine Applegate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1036736.Katherine_Applegate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20518841</id>
+<title><![CDATA[Neighborhood Sharks: Hunting with the Great Whites of California's Farallon Islands]]></title>
+<title_without_series><![CDATA[Neighborhood Sharks: Hunting with the Great Whites of California's Farallon Islands]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20518841-neighborhood-sharks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390172046l/20518841._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390172046l/20518841._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>36424396</id>
+</work>
+<isbn>1596438746</isbn>
+<isbn13>9781596438743</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6922202</id>
+<name>Katherine Roy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6922202.Katherine_Roy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8719913</id>
+<title><![CDATA[Amelia Lost: The Life and Disappearance of Amelia Earhart]]></title>
+<title_without_series><![CDATA[Amelia Lost: The Life and Disappearance of Amelia Earhart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8719913-amelia-lost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327898869l/8719913._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327898869l/8719913._SX98_.jpg]]></image_url>
+<num_pages>118</num_pages>
+<work>
+<id>13592828</id>
+</work>
+<isbn>0375841989</isbn>
+<isbn13>9780375841989</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>46273</id>
+<name>Candace Fleming</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46273.Candace_Fleming]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9211991</id>
+<title>Queen of the Falls</title>
+<title_without_series>Queen of the Falls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9211991-queen-of-the-falls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>38</num_pages>
+<work>
+<id>14091733</id>
+</work>
+<isbn>0547315813</isbn>
+<isbn13>9780547315812</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>9685</id>
+<name>Chris Van Allsburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9685.Chris_Van_Allsburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34642482</id>
+<title>Thank You, Omu!</title>
+<title_without_series>Thank You, Omu!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34642482-thank-you-omu]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>55803453</id>
+</work>
+<isbn>0316431249</isbn>
+<isbn13>9780316431248</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>16600636</id>
+<name>Oge Mora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16600636.Oge_Mora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20256564</id>
+<title>Mr. Ferris and His Wheel</title>
+<title_without_series>Mr. Ferris and His Wheel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20256564-mr-ferris-and-his-wheel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400938569l/20256564._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400938569l/20256564._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>28068568</id>
+</work>
+<isbn>0547959222</isbn>
+<isbn13>9780547959221</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8418633</id>
+<name>Kathryn Gibbs Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8418633.Kathryn_Gibbs_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31921678</id>
+<title><![CDATA[Macy McMillan and the Rainbow Goddess]]></title>
+<title_without_series><![CDATA[Macy McMillan and the Rainbow Goddess]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31921678-macy-mcmillan-and-the-rainbow-goddess]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502206509l/31921678._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502206509l/31921678._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>52574307</id>
+</work>
+<isbn>1772780170</isbn>
+<isbn13>9781772780178</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>9296528</id>
+<name>Shari Green</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9296528.Shari_Green]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38256487</id>
+<title>Imagine</title>
+<title_without_series>Imagine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38256487-imagine]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527863250l/38256487._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527863250l/38256487._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59937288</id>
+</work>
+<isbn>076369052X</isbn>
+<isbn13>9780763690526</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1725</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88449</id>
+<name>Juan Felipe Herrera</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88449.Juan_Felipe_Herrera]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

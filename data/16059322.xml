@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16059322</id>
+  <title><![CDATA[The Unwinding: An Inner History of the New America]]></title>
+  <isbn><![CDATA[0374102414]]></isbn>
+  <isbn13><![CDATA[9780374102418]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356403587l/16059322._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356403587l/16059322._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>21</publication_day>
+  <publisher>Farrar, Straus and Giroux</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A riveting examination of a nation in crisis, from one of the finest political journalists of our generation<br /><br />American democracy is beset by a sense of crisis. Seismic shifts during a single generation have created a country of winners and losers, allowing unprecedented freedom while rending the social contract, driving the political system to the verge of breakdown, and setting citizens adrift to find new paths forward. In <i>The Unwinding</i>, George Packer, author of <i>The Assassins' Gate: America in Iraq</i>, tells the story of the United States over the past three decades in an utterly original way, with his characteristically sharp eye for detail and gift for weaving together complex narratives.<br /><br /><i>The Unwinding </i>journeys through the lives of several Americans, including Dean Price, the son of tobacco farmers, who becomes an evangelist for a new economy in the rural South; Tammy Thomas, a factory worker in the Rust Belt trying to survive the collapse of her city; Jeff Connaughton, a Washington insider oscillating between political idealism and the lure of organized money; and Peter Thiel, a Silicon Valley billionaire who questions the Internet's significance and arrives at a radical vision of the future. Packer interweaves these intimate stories with biographical sketches of the era's leading public figures, from Newt Gingrich to Jay-Z, and collages made from newspaper headlines, advertising slogans, and song lyrics that capture the flow of events and their undercurrents.<br /><br /><i>The Unwinding </i>portrays a superpower in danger of coming apart at the seams, its elites no longer elite, its institutions no longer working, its ordinary people left to improvise their own schemes for success and salvation. Packer's novelistic and kaleidoscopic history of the new America is his most ambitious work to date.<br /><br /><b>One of the iTunes Bookstore's "Ten Books You Must Read This Summer"</b>]]></description>
+  <work>
+  <id type="integer">23542001</id>
+  <books_count type="integer">26</books_count>
+  <best_book_id type="integer">17139513</best_book_id>
+  <reviews_count type="integer">30111</reviews_count>
+  <ratings_sum type="integer">42336</ratings_sum>
+  <ratings_count type="integer">10278</ratings_count>
+  <text_reviews_count type="integer">1320</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">21</original_publication_day>
+  <original_title>The Unwinding: An Inner History of the New America</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4139|4:3927|3:1656|2:409|1:147|total:10278</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.h5BUckFzbnVHXfY2w6EDYw</work_uri>
+</work>
+  <average_rating>4.12</average_rating>
+  <num_pages><![CDATA[448]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[589]]></ratings_count>
+  <text_reviews_count><![CDATA[99]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16059322-the-unwinding]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16059322-the-unwinding]]></link>
+  <authors>
+<author>
+<id>49986</id>
+<name>George Packer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1257121510p5/49986.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1257121510p2/49986.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49986.George_Packer]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>15925</ratings_count>
+<text_reviews_count>1916</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16059322-the-unwinding">The Unwinding Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374102414&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16059322-the-unwinding?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="17463"/>
+      <shelf name="currently-reading" count="880"/>
+      <shelf name="non-fiction" count="551"/>
+      <shelf name="history" count="449"/>
+      <shelf name="politics" count="337"/>
+      <shelf name="nonfiction" count="306"/>
+      <shelf name="favorites" count="75"/>
+      <shelf name="economics" count="73"/>
+      <shelf name="american-history" count="55"/>
+      <shelf name="sociology" count="49"/>
+      <shelf name="owned" count="45"/>
+      <shelf name="america" count="45"/>
+      <shelf name="political" count="36"/>
+      <shelf name="national-book-award" count="35"/>
+      <shelf name="current-events" count="35"/>
+      <shelf name="library" count="30"/>
+      <shelf name="biography" count="30"/>
+      <shelf name="journalism" count="29"/>
+      <shelf name="audio" count="25"/>
+      <shelf name="book-club" count="24"/>
+      <shelf name="to-buy" count="23"/>
+      <shelf name="usa" count="22"/>
+      <shelf name="books-i-own" count="21"/>
+      <shelf name="historical" count="21"/>
+      <shelf name="current-affairs" count="21"/>
+      <shelf name="to-read-nonfiction" count="21"/>
+      <shelf name="kindle" count="20"/>
+      <shelf name="culture" count="20"/>
+      <shelf name="united-states" count="20"/>
+      <shelf name="audiobooks" count="19"/>
+      <shelf name="audiobook" count="19"/>
+      <shelf name="political-science" count="19"/>
+      <shelf name="to-read-non-fiction" count="19"/>
+      <shelf name="society" count="18"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="abandoned" count="14"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="us-history" count="13"/>
+      <shelf name="history-politics" count="12"/>
+      <shelf name="non-fiction-to-read" count="12"/>
+      <shelf name="audible" count="12"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="social-science" count="11"/>
+      <shelf name="american" count="11"/>
+      <shelf name="21st-century" count="11"/>
+      <shelf name="americana" count="10"/>
+      <shelf name="read-in-2013" count="10"/>
+      <shelf name="read-in-2017" count="9"/>
+      <shelf name="business" count="9"/>
+      <shelf name="fiction" count="9"/>
+      <shelf name="did-not-finish" count="9"/>
+      <shelf name="politics-economics" count="9"/>
+      <shelf name="history-american" count="9"/>
+      <shelf name="social-commentary" count="9"/>
+      <shelf name="american-politics" count="9"/>
+      <shelf name="read-2017" count="8"/>
+      <shelf name="read-2014" count="8"/>
+      <shelf name="read-in-2014" count="8"/>
+      <shelf name="us-politics" count="8"/>
+      <shelf name="social-sciences" count="8"/>
+      <shelf name="social-issues" count="8"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="political-economy" count="7"/>
+      <shelf name="2010s" count="6"/>
+      <shelf name="essays" count="6"/>
+      <shelf name="award-winners" count="6"/>
+      <shelf name="award-winner" count="6"/>
+      <shelf name="national-book-award-winner" count="6"/>
+      <shelf name="u-s-history" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="business-economics" count="6"/>
+      <shelf name="non-fic" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="nonfiction-to-read" count="6"/>
+      <shelf name="trump" count="5"/>
+      <shelf name="social-justice" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="inequality" count="5"/>
+      <shelf name="stopped-reading" count="5"/>
+      <shelf name="education" count="5"/>
+      <shelf name="nonfic" count="5"/>
+      <shelf name="never-finished" count="5"/>
+      <shelf name="social" count="5"/>
+      <shelf name="government" count="5"/>
+      <shelf name="us" count="5"/>
+      <shelf name="general-nonfiction" count="5"/>
+      <shelf name="to-read-politics" count="5"/>
+      <shelf name="npr" count="5"/>
+      <shelf name="history-and-politics" count="5"/>
+      <shelf name="read-in-2018" count="4"/>
+      <shelf name="pol" count="4"/>
+      <shelf name="deep-work" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="to-read-2017" count="4"/>
+      <shelf name="on-hold" count="4"/>
+      <shelf name="kindle-books" count="4"/>
+      <shelf name="shelfari-wishlist" count="4"/>
+      <shelf name="nf" count="4"/>
+      <shelf name="overdrive" count="4"/>
+      <shelf name="favorite-non-fiction" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17834864</id>
+<title><![CDATA[The Divide: American Injustice in the Age of the Wealth Gap]]></title>
+<title_without_series><![CDATA[The Divide: American Injustice in the Age of the Wealth Gap]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17834864-the-divide]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403165815l/17834864._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403165815l/17834864._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>24955022</id>
+</work>
+<isbn>081299342X</isbn>
+<isbn13>9780812993424</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>34394</id>
+<name>Matt Taibbi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34394.Matt_Taibbi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8834784</id>
+<title><![CDATA[All the Devils are Here: The Hidden History of the Financial Crisis]]></title>
+<title_without_series><![CDATA[All the Devils are Here: The Hidden History of the Financial Crisis]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8834784-all-the-devils-are-here]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>380</num_pages>
+<work>
+<id>13709203</id>
+</work>
+<isbn>1591843634</isbn>
+<isbn13>9781591843634</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>65798</id>
+<name>Bethany McLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65798.Bethany_McLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28789715</id>
+<title><![CDATA[Killing a King: The Assassination of Yitzhak Rabin and the Remaking of Israel]]></title>
+<title_without_series><![CDATA[Killing a King: The Assassination of Yitzhak Rabin and the Remaking of Israel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28789715-killing-a-king]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455299671l/28789715._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455299671l/28789715._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>45433268</id>
+</work>
+<isbn>0393353249</isbn>
+<isbn13>9780393353242</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14035629</id>
+<name>Dan Ephron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14035629.Dan_Ephron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42414042</id>
+<title><![CDATA[The Hill to Die On: The Battle for Congress and the Future of Trump's America]]></title>
+<title_without_series><![CDATA[The Hill to Die On: The Battle for Congress and the Future of Trump's America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42414042-the-hill-to-die-on]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66111686</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>279893</id>
+<name>Jake Sherman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/279893.Jake_Sherman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44153249</id>
+<title>How to Fight Anti-Semitism</title>
+<title_without_series>How to Fight Anti-Semitism</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44153249-how-to-fight-anti-semitism]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563056118l/44153249._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563056118l/44153249._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68669350</id>
+</work>
+<isbn>9780593136</isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>18495333</id>
+<name>Bari Weiss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18495333.Bari_Weiss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25814403</id>
+<title><![CDATA[Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond]]></title>
+<title_without_series><![CDATA[Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25814403-why-the-right-went-wrong]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453051490l/25814403._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453051490l/25814403._SX98_.jpg]]></image_url>
+<num_pages>534</num_pages>
+<work>
+<id>45671093</id>
+</work>
+<isbn>1476763798</isbn>
+<isbn13>9781476763798</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>49955</id>
+<name>E.J. Dionne Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49955.E_J_Dionne_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13151179</id>
+<title><![CDATA[Twilight of the Elites: America After Meritocracy]]></title>
+<title_without_series><![CDATA[Twilight of the Elites: America After Meritocracy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13151179-twilight-of-the-elites]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332529416l/13151179._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332529416l/13151179._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>18329193</id>
+</work>
+<isbn>0307720454</isbn>
+<isbn13>9780307720450</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>662774</id>
+<name>Christopher L. Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/662774.Christopher_L_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25666062</id>
+<title><![CDATA[Listen, Liberal: Or, What Ever Happened to the Party of the People]]></title>
+<title_without_series><![CDATA[Listen, Liberal: Or, What Ever Happened to the Party of the People]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25666062-listen-liberal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457292202l/25666062._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457292202l/25666062._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>45489195</id>
+</work>
+<isbn>1627795391</isbn>
+<isbn13>9781627795395</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>30845</id>
+<name>Thomas Frank</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30845.Thomas_Frank]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27833494</id>
+<title><![CDATA[Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right]]></title>
+<title_without_series><![CDATA[Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27833494-dark-money]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452601408l/27833494._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452601408l/27833494._SX98_.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>47815497</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>485392</id>
+<name>Jane Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/485392.Jane_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27985249</id>
+<title><![CDATA[Putin: Innenansichten der Macht]]></title>
+<title_without_series><![CDATA[Putin: Innenansichten der Macht]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27985249-putin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460143813l/27985249._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460143813l/27985249._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>47987287</id>
+</work>
+<isbn>3455503039</isbn>
+<isbn13>9783455503036</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>14709412</id>
+<name>Hubert Seipel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14709412.Hubert_Seipel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17288658</id>
+<title><![CDATA[Days of Fire: Bush and Cheney in the White House]]></title>
+<title_without_series><![CDATA[Days of Fire: Bush and Cheney in the White House]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17288658-days-of-fire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363837099l/17288658._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363837099l/17288658._SX98_.jpg]]></image_url>
+<num_pages>816</num_pages>
+<work>
+<id>23909838</id>
+</work>
+<isbn>0385525184</isbn>
+<isbn13>9780385525183</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>101983</id>
+<name>Peter Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/101983.Peter_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506348</id>
+<title><![CDATA[Winners Take All: The Elite Charade of Changing the World]]></title>
+<title_without_series><![CDATA[Winners Take All: The Elite Charade of Changing the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506348-winners-take-all]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528750369l/37506348._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528750369l/37506348._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>59116641</id>
+</work>
+<isbn>0451493249</isbn>
+<isbn13>9780451493248</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>4462698</id>
+<name>Anand Giridharadas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4462698.Anand_Giridharadas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40696537</id>
+<title><![CDATA[Bad blood [hardcover] and 7 habits of highly effective people personal workbook 3 books collection set]]></title>
+<title_without_series><![CDATA[Bad blood [hardcover] and 7 habits of highly effective people personal workbook 3 books collection set]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40696537-bad-blood-hardcover-and-7-habits-of-highly-effective-people-personal-w]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63293482</id>
+</work>
+<isbn>9123675586</isbn>
+<isbn13>9789123675586</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17575761</id>
+<name>John Carreyrou</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17575761.John_Carreyrou]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28695425</id>
+<title><![CDATA[Strangers in Their Own Land: Anger and Mourning on the American Right]]></title>
+<title_without_series><![CDATA[Strangers in Their Own Land: Anger and Mourning on the American Right]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470283600l/28695425._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470283600l/28695425._SX98_.jpg]]></image_url>
+<num_pages>351</num_pages>
+<work>
+<id>48893201</id>
+</work>
+<isbn>1620972255</isbn>
+<isbn13>9781620972250</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>156719</id>
+<name>Arlie Russell Hochschild</name>
+<link><![CDATA[https://www.goodreads.com/author/show/156719.Arlie_Russell_Hochschild]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43885900</id>
+<title><![CDATA[In Defense of Elitism: Why I'm Better Than You and You're Better Than Someone Who Didn't Buy This Book]]></title>
+<title_without_series><![CDATA[In Defense of Elitism: Why I'm Better Than You and You're Better Than Someone Who Didn't Buy This Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43885900-in-defense-of-elitism]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563404205l/43885900._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563404205l/43885900._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>68280219</id>
+</work>
+<isbn>1455591475</isbn>
+<isbn13>9781455591473</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>19197212</id>
+<name>Joel Stein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19197212.Joel_Stein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1276296</id>
+<title><![CDATA[Promises to Keep: On Life and Politics]]></title>
+<title_without_series><![CDATA[Promises to Keep: On Life and Politics]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1276296.Promises_to_Keep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320449901l/1276296._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320449901l/1276296._SX98_.jpg]]></image_url>
+<num_pages>365</num_pages>
+<work>
+<id>1265271</id>
+</work>
+<isbn>1400065364</isbn>
+<isbn13>9781400065363</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>614246</id>
+<name>Joe Biden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/614246.Joe_Biden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1416925</id>
+<title><![CDATA[Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft]]></title>
+<title_without_series><![CDATA[Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1416925.Show_Stopper_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1407293</id>
+</work>
+<isbn>0029356717</isbn>
+<isbn13>9780029356715</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>172382</id>
+<name>G. Pascal Zachary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172382.G_Pascal_Zachary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34523152</id>
+<title><![CDATA[The Water Will Come: Rising Seas, Sinking Cities, and the Remaking of the Civilized World]]></title>
+<title_without_series><![CDATA[The Water Will Come: Rising Seas, Sinking Cities, and the Remaking of the Civilized World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34523152-the-water-will-come]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493224870l/34523152._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493224870l/34523152._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>59752173</id>
+</work>
+<isbn>031626024X</isbn>
+<isbn13>9780316260244</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10278</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>10956</id>
+<name>Jeff Goodell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10956.Jeff_Goodell]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

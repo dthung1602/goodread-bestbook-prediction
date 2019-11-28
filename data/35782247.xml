@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>35782247</id>
+  <title>Wade in the Water</title>
+  <isbn><![CDATA[1555978134]]></isbn>
+  <isbn13><![CDATA[9781555978136]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523365857l/35782247._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523365857l/35782247._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Graywolf Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The extraordinary new poetry collection by Tracy K. Smith, the Poet Laureate of the United States</b><br /><br />Even the men in black armor, the ones<br />Jangling handcuffs and keys, what else<br /><br />Are they so buffered against, if not love’s blade<br />Sizing up the heart’s familiar meat?<br /><br />We watch and grieve. We sleep, stir, eat.<br />Love: the heart sliced open, gutted, clean.<br /><br />Love: naked almost in the everlasting street,<br />Skirt lifted by a different kind of breeze.<br /><br />—from “Unrest in Baton Rouge”<br /><br />In <i>Wade in the Water</i>, Tracy K. Smith boldly ties America’s contemporary moment both to our nation’s fraught founding history and to a sense of the spirit, the everlasting. These are poems of sliding scale: some capture a flicker of song or memory; some collage an array of documents and voices; and some push past the known world into the haunted, the holy. Smith’s signature voice—inquisitive, lyrical, and wry—turns over what it means to be a citizen, a mother, and an artist in a culture arbitrated by wealth, men, and violence. Here, private utterance becomes part of a larger choral arrangement as the collection widens to include erasures of <i>The Declaration of Independence</i> and the correspondence between slave owners, a found poem comprised of evidence of corporate pollution and accounts of near-death experiences, a sequence of letters written by African Americans enlisted in the Civil War, and the survivors’ reports of recent immigrants and refugees. <i>Wade in the Water</i> is a potent and luminous book by one of America’s essential poets.]]></description>
+  <work>
+  <id type="integer">56819357</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">35438018</best_book_id>
+  <reviews_count type="integer">7731</reviews_count>
+  <ratings_sum type="integer">6686</ratings_sum>
+  <ratings_count type="integer">1625</ratings_count>
+  <text_reviews_count type="integer">276</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Wade in the Water: Poems</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:587|4:715|3:258|2:52|1:13|total:1625</rating_dist>
+  <desc_user_id type="integer">703376</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.E_3jdSDnI804ur9ti_EGJQ</work_uri>
+</work>
+  <average_rating>4.11</average_rating>
+  <num_pages><![CDATA[75]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[261]]></ratings_count>
+  <text_reviews_count><![CDATA[56]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/35782247-wade-in-the-water]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/35782247-wade-in-the-water]]></link>
+  <authors>
+<author>
+<id>255167</id>
+<name>Tracy K. Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1357258191p5/255167.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1357258191p2/255167.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/255167.Tracy_K_Smith]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>9843</ratings_count>
+<text_reviews_count>1340</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/35782247-wade-in-the-water">Wade in the Water Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1555978134&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/35782247-wade-in-the-water?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4150"/>
+      <shelf name="poetry" count="569"/>
+      <shelf name="currently-reading" count="130"/>
+      <shelf name="read-in-2018" count="17"/>
+      <shelf name="favorites" count="15"/>
+      <shelf name="to-read-poetry" count="15"/>
+      <shelf name="african-american" count="14"/>
+      <shelf name="library" count="13"/>
+      <shelf name="contemporary" count="13"/>
+      <shelf name="read-in-2019" count="11"/>
+      <shelf name="read-2019" count="10"/>
+      <shelf name="owned" count="10"/>
+      <shelf name="history" count="9"/>
+      <shelf name="2018-releases" count="9"/>
+      <shelf name="tbr-poetry" count="9"/>
+      <shelf name="authors-of-color" count="9"/>
+      <shelf name="poems" count="8"/>
+      <shelf name="read-2018" count="8"/>
+      <shelf name="non-fiction" count="8"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="2018-reads" count="7"/>
+      <shelf name="fiction" count="6"/>
+      <shelf name="best-of-2018" count="6"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="2019-books" count="5"/>
+      <shelf name="poetry-tbr" count="5"/>
+      <shelf name="21st-century" count="5"/>
+      <shelf name="contemporary-poetry" count="5"/>
+      <shelf name="american" count="5"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="poetry-to-read" count="5"/>
+      <shelf name="audiobooks" count="4"/>
+      <shelf name="poc-author" count="4"/>
+      <shelf name="nonfiction" count="4"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="read-harder-2019" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="american-lit" count="3"/>
+      <shelf name="verse" count="3"/>
+      <shelf name="2018-books" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="african-american-literature" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="poetry-collections" count="3"/>
+      <shelf name="2018-reading-challenge" count="3"/>
+      <shelf name="civil-war" count="3"/>
+      <shelf name="recommended" count="3"/>
+      <shelf name="feminism" count="3"/>
+      <shelf name="race" count="3"/>
+      <shelf name="read-next" count="2"/>
+      <shelf name="books-2019" count="2"/>
+      <shelf name="2019-read-harder-challenge" count="2"/>
+      <shelf name="woman-author" count="2"/>
+      <shelf name="library-audiobook" count="2"/>
+      <shelf name="on-my-shelf" count="2"/>
+      <shelf name="from-library" count="2"/>
+      <shelf name="2019-reading-list" count="2"/>
+      <shelf name="2019-read" count="2"/>
+      <shelf name="2019-reading-challenge" count="2"/>
+      <shelf name="2019-read-harder" count="2"/>
+      <shelf name="nyt-2018" count="2"/>
+      <shelf name="library-loans" count="2"/>
+      <shelf name="nyt-100-notable-books-of-2018" count="2"/>
+      <shelf name="african-american-issues" count="2"/>
+      <shelf name="owned-tbr" count="2"/>
+      <shelf name="poc-writers" count="2"/>
+      <shelf name="political" count="2"/>
+      <shelf name="published-in-2018" count="2"/>
+      <shelf name="lady-authors" count="2"/>
+      <shelf name="african-american-lit" count="2"/>
+      <shelf name="must-read" count="2"/>
+      <shelf name="from-the-library" count="2"/>
+      <shelf name="did-not-finish" count="2"/>
+      <shelf name="finished-in-2018" count="2"/>
+      <shelf name="to-check-out" count="2"/>
+      <shelf name="to-re-read" count="2"/>
+      <shelf name="books-read-in-2018" count="2"/>
+      <shelf name="african" count="2"/>
+      <shelf name="female-authors" count="2"/>
+      <shelf name="women-writers" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="women" count="2"/>
+      <shelf name="black-authors" count="2"/>
+      <shelf name="need-to-buy" count="2"/>
+      <shelf name="tr-poetry" count="2"/>
+      <shelf name="books-2018" count="2"/>
+      <shelf name="2018-reading-list" count="2"/>
+      <shelf name="black-studies" count="2"/>
+      <shelf name="zzz-graywolf-press" count="2"/>
+      <shelf name="pub-2018" count="2"/>
+      <shelf name="social-justice" count="2"/>
+      <shelf name="2019-f-poc" count="1"/>
+      <shelf name="ethics-activism" count="1"/>
+      <shelf name="2019-fall" count="1"/>
+      <shelf name="next" count="1"/>
+      <shelf name="war_us_civil" count="1"/>
+      <shelf name="pub_post-1945" count="1"/>
+      <shelf name="experience_african-american" count="1"/>
+      <shelf name="civil-rights_american" count="1"/>
+      <shelf name="award_other" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>36479356</id>
+<title><![CDATA[American Sonnets for My Past and Future Assassin]]></title>
+<title_without_series><![CDATA[American Sonnets for My Past and Future Assassin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36479356-american-sonnets-for-my-past-and-future-assassin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>58190092</id>
+</work>
+<isbn>0143133187</isbn>
+<isbn13>9780143133186</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>92372</id>
+<name>Terrance Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92372.Terrance_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38402135</id>
+<title>The Carrying: Poems</title>
+<title_without_series>The Carrying: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38402135-the-carrying]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519915438l/38402135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519915438l/38402135._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>60057973</id>
+</work>
+<isbn>1571315128</isbn>
+<isbn13>9781571315120</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>291817</id>
+<name>Ada Limon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/291817.Ada_Limon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35356376</id>
+<title>Brown: Poems</title>
+<title_without_series>Brown: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35356376-brown]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514738770l/35356376._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514738770l/35356376._SX98_.jpg]]></image_url>
+<num_pages>161</num_pages>
+<work>
+<id>56718112</id>
+</work>
+<isbn>1524732540</isbn>
+<isbn13>9781524732547</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>44964</id>
+<name>Kevin Young</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44964.Kevin_Young]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41746324</id>
+<title>The Tradition</title>
+<title_without_series>The Tradition</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41746324-the-tradition]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX98_.jpg]]></image_url>
+<num_pages>77</num_pages>
+<work>
+<id>65149638</id>
+</work>
+<isbn>1556594860</isbn>
+<isbn13>9781556594861</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1877139</id>
+<name>Jericho Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1877139.Jericho_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36479171</id>
+<title>Eye Level: Poems</title>
+<title_without_series>Eye Level: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36479171-eye-level]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509006657l/36479171._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509006657l/36479171._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>58189958</id>
+</work>
+<isbn>1555978029</isbn>
+<isbn13>9781555978020</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>17233202</id>
+<name>Jenny  Xie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17233202.Jenny_Xie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121980</id>
+<title>Deaf Republic: Poems</title>
+<title_without_series>Deaf Republic: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121980-deaf-republic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527398356l/40121980._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527398356l/40121980._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>62223064</id>
+</work>
+<isbn>1555978312</isbn>
+<isbn13>9781555978310</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>229975</id>
+<name>Ilya Kaminsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229975.Ilya_Kaminsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36477795</id>
+<title>If They Come for Us</title>
+<title_without_series>If They Come for Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36477795-if-they-come-for-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516802057l/36477795._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516802057l/36477795._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>58187996</id>
+</work>
+<isbn>052550978X</isbn>
+<isbn13>9780525509783</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>14689153</id>
+<name>Fatimah Asghar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14689153.Fatimah_Asghar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37941589</id>
+<title>Human Hours: Poems</title>
+<title_without_series>Human Hours: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37941589-human-hours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519424853l/37941589._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519424853l/37941589._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>59667367</id>
+</work>
+<isbn>1555978142</isbn>
+<isbn13>9781555978143</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>118899</id>
+<name>Catherine Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/118899.Catherine_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40611194</id>
+<title>Magical Negro</title>
+<title_without_series>Magical Negro</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40611194-magical-negro]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543089042l/40611194._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543089042l/40611194._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>63082790</id>
+</work>
+<isbn>1947793187</isbn>
+<isbn13>9781947793187</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14001878</id>
+<name>Morgan  Parker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14001878.Morgan_Parker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36477382</id>
+<title>Not Here</title>
+<title_without_series>Not Here</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36477382-not-here]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508975284l/36477382._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508975284l/36477382._SX98_.jpg]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>58187309</id>
+</work>
+<isbn>156689509X</isbn>
+<isbn13>9781566895095</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7359620</id>
+<name>Hieu Minh Nguyen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7359620.Hieu_Minh_Nguyen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35871486</id>
+<title>Oceanic</title>
+<title_without_series>Oceanic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35871486-oceanic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508978489l/35871486._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508978489l/35871486._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>57388909</id>
+</work>
+<isbn>1556595263</isbn>
+<isbn13>9781556595264</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>207022</id>
+<name>Aimee Nezhukumatathil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/207022.Aimee_Nezhukumatathil]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36479868</id>
+<title>Indecency</title>
+<title_without_series>Indecency</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36479868-indecency]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509017646l/36479868._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509017646l/36479868._SX98_.jpg]]></image_url>
+<num_pages>70</num_pages>
+<work>
+<id>58190578</id>
+</work>
+<isbn>1566895146</isbn>
+<isbn13>9781566895149</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>15860354</id>
+<name>Justin Phillip Reed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860354.Justin_Phillip_Reed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35187158</id>
+<title>The Undressing: Poems</title>
+<title_without_series>The Undressing: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35187158-the-undressing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497193799l/35187158._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497193799l/35187158._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>56526634</id>
+</work>
+<isbn>039306543X</isbn>
+<isbn13>9780393065435</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>128738</id>
+<name>Li-Young Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128738.Li_Young_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37570514</id>
+<title><![CDATA[Monument: Poems New and Selected]]></title>
+<title_without_series><![CDATA[Monument: Poems New and Selected]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37570514-monument]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637483l/37570514._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519637483l/37570514._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>59181751</id>
+</work>
+<isbn>132850784X</isbn>
+<isbn13>9781328507846</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>55944</id>
+<name>Natasha Trethewey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55944.Natasha_Trethewey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43726586</id>
+<title>An American Sunrise: Poems</title>
+<title_without_series>An American Sunrise: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43726586-an-american-sunrise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562026439l/43726586._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562026439l/43726586._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>68053708</id>
+</work>
+<isbn>1324003863</isbn>
+<isbn13>9781324003861</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>267</id>
+<name>Joy Harjo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/267.Joy_Harjo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36203674</id>
+<title><![CDATA[A Cruelty Special to Our Species: Poems]]></title>
+<title_without_series><![CDATA[A Cruelty Special to Our Species: Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36203674-a-cruelty-special-to-our-species]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537326737l/36203674._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537326737l/36203674._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>57834124</id>
+</work>
+<isbn>0062843699</isbn>
+<isbn13>9780062843692</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>17044236</id>
+<name>Emily Jungmin Yoon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17044236.Emily_Jungmin_Yoon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33375618</id>
+<title>Don&apos;t Call Us Dead</title>
+<title_without_series>Don&apos;t Call Us Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33375618-don-t-call-us-dead]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>54116419</id>
+</work>
+<isbn>1555977855</isbn>
+<isbn13>9781555977856</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8473734</id>
+<name>Danez Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8473734.Danez_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121999</id>
+<title>Oculus: Poems</title>
+<title_without_series>Oculus: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121999-oculus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528489686l/40121999._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528489686l/40121999._SX98_.jpg]]></image_url>
+<num_pages>119</num_pages>
+<work>
+<id>62223081</id>
+</work>
+<isbn>1555978258</isbn>
+<isbn13>9781555978259</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1625</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>3360354</id>
+<name>Sally Wen Mao</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3360354.Sally_Wen_Mao]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8999818</id>
+  <title><![CDATA[I Broke My Trunk! (Elephant & Piggie, #14)]]></title>
+  <isbn><![CDATA[1423133099]]></isbn>
+  <isbn13><![CDATA[9781423133094]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360573429l/8999818._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360573429l/8999818._SX50_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Hyperion Books for Children</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<br />Gerald is careful. Piggie is not.<br /><br />Piggie cannot help smiling. Gerald can.<br /><br />Gerald worries so that Piggie does not have to.<br /><br /> <br /><br />Gerald and Piggie are best friends.<br /><br />In <i>I Broke My Trunk! </i>Gerald tells Piggie the long, crazy story about breaking his trunk. Will Piggie end up with a long, crazy story of her own? <br /><br />Once again, Mo Willems creates another hilarious escapade starring the Geisel Award-winning duo. Vetted by an early-learning specialist, <i>I Broke My Trunk!</i> will have readers breaking into laughter left and right!]]></description>
+  <work>
+  <id type="integer">13877103</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">8999818</best_book_id>
+  <reviews_count type="integer">7544</reviews_count>
+  <ratings_sum type="integer">21738</ratings_sum>
+  <ratings_count type="integer">4930</ratings_count>
+  <text_reviews_count type="integer">447</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">8</original_publication_day>
+  <original_title>I Broke My Trunk!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2788|4:1492|3:551|2:78|1:21|total:4930</rating_dist>
+  <desc_user_id type="integer">3625145</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.qAnTZgMnAejrZnpwzc9B_Q</work_uri>
+</work>
+  <average_rating>4.41</average_rating>
+  <num_pages><![CDATA[64]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4900]]></ratings_count>
+  <text_reviews_count><![CDATA[444]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8999818-i-broke-my-trunk]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8999818-i-broke-my-trunk]]></link>
+  <authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p5/33274.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p2/33274.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>478989</ratings_count>
+<text_reviews_count>33201</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8999818-i-broke-my-trunk">I Broke My Trunk! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1423133099&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/8999818-i-broke-my-trunk?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1277"/>
+      <shelf name="picture-books" count="319"/>
+      <shelf name="childrens" count="142"/>
+      <shelf name="children-s-books" count="96"/>
+      <shelf name="picture-book" count="85"/>
+      <shelf name="children" count="78"/>
+      <shelf name="kids" count="73"/>
+      <shelf name="humor" count="68"/>
+      <shelf name="children-s" count="65"/>
+      <shelf name="easy-reader" count="53"/>
+      <shelf name="fiction" count="52"/>
+      <shelf name="animals" count="47"/>
+      <shelf name="early-reader" count="40"/>
+      <shelf name="friendship" count="39"/>
+      <shelf name="childrens-books" count="36"/>
+      <shelf name="early-readers" count="33"/>
+      <shelf name="easy-readers" count="33"/>
+      <shelf name="kids-books" count="32"/>
+      <shelf name="mo-willems" count="31"/>
+      <shelf name="beginning-readers" count="30"/>
+      <shelf name="children-s-literature" count="26"/>
+      <shelf name="favorites" count="26"/>
+      <shelf name="elephant-and-piggie" count="26"/>
+      <shelf name="storytime" count="22"/>
+      <shelf name="series" count="20"/>
+      <shelf name="library" count="19"/>
+      <shelf name="children-s-lit" count="19"/>
+      <shelf name="children-books" count="19"/>
+      <shelf name="elephants" count="18"/>
+      <shelf name="currently-reading" count="17"/>
+      <shelf name="funny" count="16"/>
+      <shelf name="preschool" count="16"/>
+      <shelf name="pigs" count="15"/>
+      <shelf name="childrens-picture-books" count="10"/>
+      <shelf name="story-time" count="10"/>
+      <shelf name="picturebooks" count="10"/>
+      <shelf name="beginning-reader" count="10"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="reader" count="10"/>
+      <shelf name="geisel" count="9"/>
+      <shelf name="picture" count="9"/>
+      <shelf name="geisel-award" count="8"/>
+      <shelf name="children-s-picture-books" count="8"/>
+      <shelf name="kids-picture-books" count="8"/>
+      <shelf name="humour" count="7"/>
+      <shelf name="geisel-honor" count="7"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="elephant" count="7"/>
+      <shelf name="exploring-assignment" count="6"/>
+      <shelf name="read-alouds" count="6"/>
+      <shelf name="read-in-2012" count="6"/>
+      <shelf name="friends" count="6"/>
+      <shelf name="read-aloud" count="6"/>
+      <shelf name="readers" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="read-with-kids" count="5"/>
+      <shelf name="elephant-piggie" count="5"/>
+      <shelf name="read-to-kids" count="5"/>
+      <shelf name="for-kids" count="5"/>
+      <shelf name="ed-310" count="5"/>
+      <shelf name="favorite-children-s-books" count="5"/>
+      <shelf name="children-picture-books" count="5"/>
+      <shelf name="fantasy" count="5"/>
+      <shelf name="childrens-literature" count="5"/>
+      <shelf name="childrens-lit" count="5"/>
+      <shelf name="silly" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="childrens-picture-book" count="5"/>
+      <shelf name="humorous" count="5"/>
+      <shelf name="exploring-geisel" count="4"/>
+      <shelf name="1000-books-before-kindergarten" count="4"/>
+      <shelf name="kid-lit" count="4"/>
+      <shelf name="emergent-picture-books" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="animal-books" count="4"/>
+      <shelf name="read-kids" count="4"/>
+      <shelf name="pre-k" count="4"/>
+      <shelf name="little-kids" count="4"/>
+      <shelf name="caldecott" count="4"/>
+      <shelf name="read-in-2013" count="4"/>
+      <shelf name="award-winners" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="accidents" count="4"/>
+      <shelf name="children-s-book" count="4"/>
+      <shelf name="kid-books" count="4"/>
+      <shelf name="storytime-books" count="4"/>
+      <shelf name="childrens-series" count="4"/>
+      <shelf name="books-for-kids" count="4"/>
+      <shelf name="easy" count="4"/>
+      <shelf name="pig" count="4"/>
+      <shelf name="award-geisel" count="3"/>
+      <shelf name="hazel" count="3"/>
+      <shelf name="default" count="3"/>
+      <shelf name="william" count="3"/>
+      <shelf name="gavin" count="3"/>
+      <shelf name="first-grade" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="elephant-and-piggy" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>217968</id>
+<user_position>14</user_position>
+<series>
+<id>54820</id>
+<title>
+<![CDATA[
+    Elephant & Piggie
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>29</series_works_count>
+<primary_work_count>26</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>28450988</id>
+<title><![CDATA[The Cookie Fiasco (Elephant & Piggie Like Reading!, #1)]]></title>
+<title_without_series>The Cookie Fiasco</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28450988-the-cookie-fiasco]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463950813l/28450988._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463950813l/28450988._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>48577906</id>
+</work>
+<isbn>1484726367</isbn>
+<isbn13>9781484726365</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41717242</id>
+<title><![CDATA[Harold & Hog Pretend For Real! (Elephant & Piggie Like Reading!, #6)]]></title>
+<title_without_series><![CDATA[Harold & Hog Pretend For Real!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41717242-harold-hog-pretend-for-real]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>65073199</id>
+</work>
+<isbn>1368027164</isbn>
+<isbn13>9781368027168</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36204671</id>
+<title><![CDATA[The Itchy Book! (Elephant & Piggie Like Reading!, #5)]]></title>
+<title_without_series>The Itchy Book!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36204671-the-itchy-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517632906l/36204671._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517632906l/36204671._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>57835244</id>
+</work>
+<isbn>1368005640</isbn>
+<isbn13>9781368005647</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>65333</id>
+<name>LeUyen Pham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65333.LeUyen_Pham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28450986</id>
+<title><![CDATA[We Are Growing! (Elephant & Piggie like reading!, #2)]]></title>
+<title_without_series>We Are Growing!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28450986-we-are-growing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463948908l/28450986._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463948908l/28450986._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>48577904</id>
+</work>
+<isbn>1484726359</isbn>
+<isbn13>9781484726358</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>60929</id>
+<name>Laurie Keller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60929.Laurie_Keller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7327826</id>
+<title><![CDATA[Ling & Ting: Not Exactly the Same! (Ling & Ting, #1)]]></title>
+<title_without_series><![CDATA[Ling & Ting: Not Exactly the Same!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7327826-ling-ting]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268703632l/7327826._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1268703632l/7327826._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>8951441</id>
+</work>
+<isbn>031602452X</isbn>
+<isbn13>9780316024525</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59390</id>
+<name>Grace Lin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59390.Grace_Lin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34220569</id>
+<title><![CDATA[It's Shoe Time! (Elephant & Piggie Like Reading!, #4)]]></title>
+<title_without_series>It&apos;s Shoe Time!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34220569-it-s-shoe-time]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502153204l/34220569._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502153204l/34220569._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>55272238</id>
+</work>
+<isbn>1484726472</isbn>
+<isbn13>9781484726471</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>437910</id>
+<name>Bryan Collier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/437910.Bryan_Collier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20452213</id>
+<title><![CDATA[Pete the Cat and the Bad Banana]]></title>
+<title_without_series><![CDATA[Pete the Cat and the Bad Banana]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20452213-pete-the-cat-and-the-bad-banana]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313299l/20452213._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313299l/20452213._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>31832185</id>
+</work>
+<isbn>0062329405</isbn>
+<isbn13>9780062329400</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62557</id>
+<title>Bear&apos;s New Friend</title>
+<title_without_series>Bear&apos;s New Friend</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62557.Bear_s_New_Friend]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2782156</id>
+</work>
+<isbn>0689859848</isbn>
+<isbn13>9780689859847</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35105</id>
+<name>Karma Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35105.Karma_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>634187</id>
+<title>Olivia Saves the Circus</title>
+<title_without_series>Olivia Saves the Circus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/634187.Olivia_Saves_the_Circus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>3259015</id>
+</work>
+<isbn>068982954X</isbn>
+<isbn13>9780689829543</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>27861</id>
+<name>Ian Falconer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27861.Ian_Falconer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1913751</id>
+<title>What Will Fat Cat Sit On?</title>
+<title_without_series>What Will Fat Cat Sit On?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1913751.What_Will_Fat_Cat_Sit_On_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1915728</id>
+</work>
+<isbn>0152060510</isbn>
+<isbn13>9780152060510</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>871172</id>
+<name>Jan  Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/871172.Jan_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18599891</id>
+<title><![CDATA[Pete the Cat: Twinkle, Twinkle, Little Star]]></title>
+<title_without_series><![CDATA[Pete the Cat: Twinkle, Twinkle, Little Star]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18599891-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397423069l/18599891._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397423069l/18599891._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26366095</id>
+</work>
+<isbn>0062324802</isbn>
+<isbn13>9780062324801</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28512697</id>
+<title>Pete the Cat: Snow Daze</title>
+<title_without_series>Pete the Cat: Snow Daze</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28512697-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460313745l/28512697._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460313745l/28512697._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48669542</id>
+</work>
+<isbn>0062404253</isbn>
+<isbn13>9780062404251</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5665292</id>
+<title>Rhyming Dust Bunnies</title>
+<title_without_series>Rhyming Dust Bunnies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5665292-rhyming-dust-bunnies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>5836824</id>
+</work>
+<isbn>141697976X</isbn>
+<isbn13>9781416979760</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>871172</id>
+<name>Jan  Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/871172.Jan_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43387393</id>
+<title>A Stone Sat Still</title>
+<title_without_series>A Stone Sat Still</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43387393-a-stone-sat-still]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX98_.jpg]]></image_url>
+<num_pages>50</num_pages>
+<work>
+<id>67409570</id>
+</work>
+<isbn>1452173184</isbn>
+<isbn13>9781452173184</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>7126026</id>
+<name>Brendan Wenzel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126026.Brendan_Wenzel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13133717</id>
+<title>Pinkalicious: Soccer Star</title>
+<title_without_series>Pinkalicious: Soccer Star</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13133717-pinkalicious]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344753219l/13133717._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344753219l/13133717._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18310198</id>
+</work>
+<isbn>0061989649</isbn>
+<isbn13>9780061989643</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>1128174</id>
+<name>Victoria Kann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1128174.Victoria_Kann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31805872</id>
+<title>Gymnastics Jump</title>
+<title_without_series>Gymnastics Jump</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31805872-gymnastics-jump]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478697134l/31805872._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478697134l/31805872._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>52461538</id>
+</work>
+<isbn>1496542509</isbn>
+<isbn13>9781496542502</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15707915</id>
+<name>C.C. Joven</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15707915.C_C_Joven]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10550292</id>
+<title>If You Give a Dog a Donut</title>
+<title_without_series>If You Give a Dog a Donut</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10550292-if-you-give-a-dog-a-donut]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>15456917</id>
+</work>
+<isbn>006026683X</isbn>
+<isbn13>9780060266837</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>87184</id>
+<name>Laura Joffe Numeroff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87184.Laura_Joffe_Numeroff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36248274</id>
+<title>Jack (Not Jackie)</title>
+<title_without_series>Jack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36248274-jack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520221856l/36248274._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520221856l/36248274._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57895469</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4930</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>70189</id>
+<name>Erica Silverman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70189.Erica_Silverman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

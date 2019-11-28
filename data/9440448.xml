@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9440448</id>
+  <title><![CDATA[Buried Prey (Lucas Davenport, #21)]]></title>
+  <isbn><![CDATA[0399157387]]></isbn>
+  <isbn13><![CDATA[9780399157387]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A house demolition provides an unpleasant surprise for Minneapolis-the bodies of two girls, wrapped in plastic. It looks like they've been there a long time. Lucas Davenport knows exactly how long. <br /><br /> In 1985, Davenport was a young cop with a reputation for recklessness, and the girls' disappearance was a big deal. His bosses ultimately declared the case closed, but he never agreed with that. Now that he has a chance to investigate it all over again, one thing is becoming increasingly clear: It wasn't just the bodies that were buried. It was the truth.]]></description>
+  <work>
+  <id type="integer">14325072</id>
+  <books_count type="integer">33</books_count>
+  <best_book_id type="integer">9440448</best_book_id>
+  <reviews_count type="integer">45169</reviews_count>
+  <ratings_sum type="integer">133769</ratings_sum>
+  <ratings_count type="integer">31517</ratings_count>
+  <text_reviews_count type="integer">1329</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">10</original_publication_day>
+  <original_title>Buried Prey</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:13700|4:12704|3:4390|2:560|1:163|total:31517</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.4yYbipzFggGiLssnh55g_w</work_uri>
+</work>
+  <average_rating>4.24</average_rating>
+  <num_pages><![CDATA[390]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[26917]]></ratings_count>
+  <text_reviews_count><![CDATA[1109]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9440448-buried-prey]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9440448-buried-prey]]></link>
+  <authors>
+<author>
+<id>4610</id>
+<name>John Sandford</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202524015p5/4610.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202524015p2/4610.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4610.John_Sandford]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>871964</ratings_count>
+<text_reviews_count>43669</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9440448-buried-prey">Buried Prey Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399157387&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9440448-buried-prey?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6643"/>
+      <shelf name="currently-reading" count="1303"/>
+      <shelf name="mystery" count="315"/>
+      <shelf name="john-sandford" count="225"/>
+      <shelf name="fiction" count="155"/>
+      <shelf name="thriller" count="108"/>
+      <shelf name="series" count="82"/>
+      <shelf name="default" count="79"/>
+      <shelf name="lucas-davenport" count="78"/>
+      <shelf name="crime" count="76"/>
+      <shelf name="sandford" count="66"/>
+      <shelf name="mystery-thriller" count="59"/>
+      <shelf name="owned" count="54"/>
+      <shelf name="john-sanford" count="53"/>
+      <shelf name="sandford-john" count="50"/>
+      <shelf name="books-i-own" count="48"/>
+      <shelf name="kindle" count="40"/>
+      <shelf name="crime-fiction" count="37"/>
+      <shelf name="library" count="36"/>
+      <shelf name="mysteries" count="34"/>
+      <shelf name="thrillers" count="34"/>
+      <shelf name="suspense" count="33"/>
+      <shelf name="prey-series" count="32"/>
+      <shelf name="detective" count="28"/>
+      <shelf name="mystery-suspense" count="28"/>
+      <shelf name="audio" count="26"/>
+      <shelf name="audiobook" count="24"/>
+      <shelf name="favorites" count="22"/>
+      <shelf name="ebook" count="17"/>
+      <shelf name="mystery-crime" count="17"/>
+      <shelf name="read-in-2011" count="17"/>
+      <shelf name="minnesota" count="16"/>
+      <shelf name="read-2011" count="16"/>
+      <shelf name="audible" count="15"/>
+      <shelf name="my-library" count="14"/>
+      <shelf name="audiobooks" count="14"/>
+      <shelf name="police-procedural" count="14"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="have" count="13"/>
+      <shelf name="audio-book" count="13"/>
+      <shelf name="audio-books" count="13"/>
+      <shelf name="crime-mystery" count="13"/>
+      <shelf name="murder-mystery" count="13"/>
+      <shelf name="lucas-davenport-mysteries" count="12"/>
+      <shelf name="mystery-thriller-suspense" count="11"/>
+      <shelf name="davenport" count="11"/>
+      <shelf name="police" count="11"/>
+      <shelf name="mystery-thrillers" count="11"/>
+      <shelf name="crime-thriller" count="11"/>
+      <shelf name="suspense-thriller" count="11"/>
+      <shelf name="lucas-davenport-series" count="11"/>
+      <shelf name="ebooks" count="11"/>
+      <shelf name="prey" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="sanford-john" count="9"/>
+      <shelf name="hardcover" count="9"/>
+      <shelf name="library-book" count="9"/>
+      <shelf name="minneapolis" count="8"/>
+      <shelf name="sandford-prey" count="8"/>
+      <shelf name="mystery-detective" count="7"/>
+      <shelf name="read-2012" count="7"/>
+      <shelf name="sanford" count="7"/>
+      <shelf name="listened-to" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="books-i-have" count="6"/>
+      <shelf name="john-sandford-lucas-davenport" count="6"/>
+      <shelf name="read-in-2013" count="6"/>
+      <shelf name="favorite-series" count="6"/>
+      <shelf name="paperback" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="mystery-suspense-thriller" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="calibre" count="6"/>
+      <shelf name="thriller-mystery" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="novel" count="6"/>
+      <shelf name="nook" count="6"/>
+      <shelf name="21" count="5"/>
+      <shelf name="hardback" count="5"/>
+      <shelf name="ibooks" count="5"/>
+      <shelf name="favorite-authors" count="5"/>
+      <shelf name="prey-books" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="finished" count="5"/>
+      <shelf name="sanford-davenport" count="5"/>
+      <shelf name="read-in-2012" count="5"/>
+      <shelf name="adult" count="5"/>
+      <shelf name="2011-books" count="5"/>
+      <shelf name="murder" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="own-tbr" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="unread" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="sandford-davenport" count="4"/>
+      <shelf name="detectives" count="4"/>
+      <shelf name="john-sandford-prey-series" count="4"/>
+      <shelf name="john-sandford-prey" count="4"/>
+      <shelf name="j-sandford" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>209327</id>
+<user_position>21</user_position>
+<series>
+<id>41404</id>
+<title>
+<![CDATA[
+    Lucas Davenport
+]]>
+</title>
+<description>
+<![CDATA[
+    Lucas Davenport, police detective and war games designer in Minneapolis, Minnesota
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>40</series_works_count>
+<primary_work_count>31</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>801180</id>
+<title><![CDATA[The Fool's Run (Kidd & LuEllen, #1)]]></title>
+<title_without_series>The Fool&apos;s Run</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/801180.The_Fool_s_Run]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>787143</id>
+</work>
+<isbn>0425155722</isbn>
+<isbn13>9780425155721</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17255680</id>
+<name>John Camp</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17255680.John_Camp]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>567945</id>
+<title><![CDATA[The Empress File (Kidd & LuEllen, #2)]]></title>
+<title_without_series>The Empress File</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/567945.The_Empress_File]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>555013</id>
+</work>
+<isbn>0425135020</isbn>
+<isbn13>9780425135020</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17255680</id>
+<name>John Camp</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17255680.John_Camp]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43885041</id>
+<title><![CDATA[The Night Fire (Renée Ballard, #3; Harry Bosch Universe, #32)]]></title>
+<title_without_series>The Night Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43885041-the-night-fire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552350288l/43885041._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552350288l/43885041._SX98_.jpg]]></image_url>
+<num_pages>405</num_pages>
+<work>
+<id>68278857</id>
+</work>
+<isbn>0316485616</isbn>
+<isbn13>9780316485616</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>12470</id>
+<name>Michael Connelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12470.Michael_Connelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42112733</id>
+<title><![CDATA[A Dangerous Man (Elvis Cole, #18; Joe Pike, #7)]]></title>
+<title_without_series>A Dangerous Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42112733-a-dangerous-man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550538296l/42112733._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550538296l/42112733._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65695826</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>8944</id>
+<name>Robert Crais</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8944.Robert_Crais]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38204691</id>
+<title><![CDATA[Dark Sacred Night (Renée Ballard, #2; Harry Bosch, #21; Harry Bosch Universe, #31)]]></title>
+<title_without_series>Dark Sacred Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38204691-dark-sacred-night]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541848974l/38204691._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541848974l/38204691._SX98_.jpg]]></image_url>
+<num_pages>11</num_pages>
+<work>
+<id>59873434</id>
+</work>
+<isbn>1549142313</isbn>
+<isbn13>9781549142314</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>12470</id>
+<name>Michael Connelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12470.Michael_Connelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43662365</id>
+<title>Blue Moon (Jack Reacher, #24)</title>
+<title_without_series>Blue Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43662365-blue-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549934981l/43662365._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549934981l/43662365._SX98_.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>67932542</id>
+</work>
+<isbn>0399593543</isbn>
+<isbn13>9780399593543</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>5091</id>
+<name>Lee Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5091.Lee_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41064227</id>
+<title>Redemption (Amos Decker, #5)</title>
+<title_without_series>Redemption</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41064227-redemption]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547315369l/41064227._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547315369l/41064227._SX98_.jpg]]></image_url>
+<num_pages>417</num_pages>
+<work>
+<id>64136783</id>
+</work>
+<isbn>1538761416</isbn>
+<isbn13>9781538761410</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11889938</id>
+<title><![CDATA[Taken (Elvis Cole, #15; Joe Pike, #4)]]></title>
+<title_without_series>Taken</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11889938-taken]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315773532l/11889938._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315773532l/11889938._SX98_.jpg]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>16848889</id>
+</work>
+<isbn>0399158278</isbn>
+<isbn13>9780399158278</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>8944</id>
+<name>Robert Crais</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8944.Robert_Crais]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34019122</id>
+<title><![CDATA[Past Tense (Jack Reacher, #23)]]></title>
+<title_without_series>Past Tense</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34019122-past-tense]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518445114l/34019122._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518445114l/34019122._SX98_.jpg]]></image_url>
+<num_pages>382</num_pages>
+<work>
+<id>55016620</id>
+</work>
+<isbn>0399593519</isbn>
+<isbn13>9780399593512</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5091</id>
+<name>Lee Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5091.Lee_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48352763</id>
+<title>Vanish without Trace</title>
+<title_without_series>Vanish without Trace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48352763-vanish-without-trace]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73629962</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3231624</id>
+<name>Bill Kitson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3231624.Bill_Kitson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47891740</id>
+<title>The Silent Surrogate</title>
+<title_without_series>The Silent Surrogate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47891740-the-silent-surrogate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566585707l/47891740._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566585707l/47891740._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>73040915</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>19495574</id>
+<name>N.L. Hinkens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19495574.N_L_Hinkens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>297463</id>
+<title>Sea Change (Jesse Stone, #5)</title>
+<title_without_series>Sea Change</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/297463.Sea_Change]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>1686984</id>
+</work>
+<isbn>0425214427</isbn>
+<isbn13>9780425214428</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>397</id>
+<name>Robert B. Parker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/397.Robert_B_Parker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40873345</id>
+<title>Wolf Pack (Joe Pickett, #19)</title>
+<title_without_series>Wolf Pack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40873345-wolf-pack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532472971l/40873345._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532472971l/40873345._SX98_.jpg]]></image_url>
+<num_pages>371</num_pages>
+<work>
+<id>63681234</id>
+</work>
+<isbn>0525538194</isbn>
+<isbn13>9780525538196</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>314195</id>
+<name>C.J. Box</name>
+<link><![CDATA[https://www.goodreads.com/author/show/314195.C_J_Box]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39088984</id>
+<title><![CDATA[Long Road to Mercy (Atlee Pine, #1)]]></title>
+<title_without_series>Long Road to Mercy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39088984-long-road-to-mercy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534902771l/39088984._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534902771l/39088984._SX98_.jpg]]></image_url>
+<num_pages>404</num_pages>
+<work>
+<id>60663852</id>
+</work>
+<isbn>1538761572</isbn>
+<isbn13>9781538761571</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8765012</id>
+<title>Mystery (Alex Delaware, #26)</title>
+<title_without_series>Mystery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8765012-mystery]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>13638399</id>
+</work>
+<isbn>0345505697</isbn>
+<isbn13>9780345505699</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>43626</id>
+<name>Jonathan Kellerman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43626.Jonathan_Kellerman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35959808</id>
+<title>The Fallen (Amos Decker, #4)</title>
+<title_without_series>The Fallen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35959808-the-fallen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523669069l/35959808._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523669069l/35959808._SX98_.jpg]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>57517787</id>
+</work>
+<isbn>1478999233</isbn>
+<isbn13>9781478999232</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46785031</id>
+<title><![CDATA[An I For An I (The Revenge Series Book 3)]]></title>
+<title_without_series>An I For An I</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46785031-an-i-for-an-i]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71818988</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11216272</id>
+<name>Remington Kane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11216272.Remington_Kane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41960011</id>
+<title><![CDATA[The Never Game (Colter Shaw, #1)]]></title>
+<title_without_series>The Never Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41960011-the-never-game]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540631104l/41960011._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540631104l/41960011._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65475846</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>31517</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1612</id>
+<name>Jeffery Deaver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1612.Jeffery_Deaver]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

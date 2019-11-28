@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20307024</id>
+  <title>Wolfie the Bunny</title>
+  <isbn><![CDATA[0316226149]]></isbn>
+  <isbn13><![CDATA[9780316226141]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Bunny family has adopted a wolf son, and daughter Dot is the only one who realizes Wolfie can—and might—eat them all up! Dot tries to get through to her parents, but they are too smitten to listen. A new brother takes getting used to, and when (in a twist of fate) it's Wolfie who's threatened, can Dot save the day?]]></description>
+  <work>
+  <id type="integer">28141570</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">20307024</best_book_id>
+  <reviews_count type="integer">7095</reviews_count>
+  <ratings_sum type="integer">16762</ratings_sum>
+  <ratings_count type="integer">4034</ratings_count>
+  <text_reviews_count type="integer">601</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">17</original_publication_day>
+  <original_title>Wolfie the Bunny</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1604|4:1643|3:633|2:117|1:37|total:4034</rating_dist>
+  <desc_user_id type="integer">1037240</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.klDIv4avg8jAu3nY5u5d5A</work_uri>
+</work>
+  <average_rating>4.16</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3997]]></ratings_count>
+  <text_reviews_count><![CDATA[597]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20307024-wolfie-the-bunny]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20307024-wolfie-the-bunny]]></link>
+  <authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442603193p5/5156415.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442603193p2/5156415.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>15526</ratings_count>
+<text_reviews_count>2563</text_reviews_count>
+</author>
+<author>
+<id>5073361</id>
+<name>Zachariah OHora</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1484491337p5/5073361.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1484491337p2/5073361.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5073361.Zachariah_OHora]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>12716</ratings_count>
+<text_reviews_count>2305</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20307024-wolfie-the-bunny">Wolfie the Bunny Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316226149&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20307024-wolfie-the-bunny?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2065"/>
+      <shelf name="picture-books" count="694"/>
+      <shelf name="picture-book" count="190"/>
+      <shelf name="childrens" count="117"/>
+      <shelf name="family" count="105"/>
+      <shelf name="animals" count="90"/>
+      <shelf name="children-s-books" count="69"/>
+      <shelf name="children-s" count="64"/>
+      <shelf name="storytime" count="63"/>
+      <shelf name="humor" count="57"/>
+      <shelf name="siblings" count="56"/>
+      <shelf name="children" count="56"/>
+      <shelf name="kids" count="47"/>
+      <shelf name="adoption" count="47"/>
+      <shelf name="fiction" count="35"/>
+      <shelf name="childrens-books" count="34"/>
+      <shelf name="favorites" count="33"/>
+      <shelf name="read-in-2015" count="31"/>
+      <shelf name="rabbits" count="30"/>
+      <shelf name="picturebooks" count="28"/>
+      <shelf name="preschool" count="27"/>
+      <shelf name="picture" count="25"/>
+      <shelf name="funny" count="24"/>
+      <shelf name="wolves" count="22"/>
+      <shelf name="bunnies" count="22"/>
+      <shelf name="kids-books" count="21"/>
+      <shelf name="children-s-picture-books" count="21"/>
+      <shelf name="read-aloud" count="20"/>
+      <shelf name="families" count="19"/>
+      <shelf name="children-s-literature" count="17"/>
+      <shelf name="story-time" count="17"/>
+      <shelf name="children-s-lit" count="17"/>
+      <shelf name="childrens-picture-books" count="15"/>
+      <shelf name="juvenile" count="15"/>
+      <shelf name="currently-reading" count="15"/>
+      <shelf name="read-alouds" count="15"/>
+      <shelf name="childrens-lit" count="14"/>
+      <shelf name="preschool-storytime" count="14"/>
+      <shelf name="mock-caldecott-2016" count="14"/>
+      <shelf name="wolf" count="14"/>
+      <shelf name="favorite-picture-books" count="12"/>
+      <shelf name="new-baby" count="11"/>
+      <shelf name="pb" count="10"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="humorous" count="10"/>
+      <shelf name="2015-picture-books" count="10"/>
+      <shelf name="children-books" count="9"/>
+      <shelf name="fantasy" count="9"/>
+      <shelf name="storytime-books" count="9"/>
+      <shelf name="library" count="9"/>
+      <shelf name="childrens-literature" count="8"/>
+      <shelf name="friendship" count="8"/>
+      <shelf name="humour" count="8"/>
+      <shelf name="kid-lit" count="8"/>
+      <shelf name="monarch-2017" count="7"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="for-the-kids" count="7"/>
+      <shelf name="illustrated" count="7"/>
+      <shelf name="2015-reads" count="7"/>
+      <shelf name="picture-books-read" count="7"/>
+      <shelf name="monarch" count="6"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="children-picture-books" count="6"/>
+      <shelf name="theme" count="6"/>
+      <shelf name="read-in-2017" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="to-read-kids" count="5"/>
+      <shelf name="1000-books-before-kindergarten" count="5"/>
+      <shelf name="new-sibling" count="5"/>
+      <shelf name="mock-caldecott" count="5"/>
+      <shelf name="e" count="5"/>
+      <shelf name="2016-mock-caldecott" count="5"/>
+      <shelf name="state-award-books" count="4"/>
+      <shelf name="nccba" count="4"/>
+      <shelf name="childrens-book" count="4"/>
+      <shelf name="children-picture" count="4"/>
+      <shelf name="2017-monarch" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="edrd-314" count="4"/>
+      <shelf name="school" count="4"/>
+      <shelf name="children-fiction" count="4"/>
+      <shelf name="for-kids" count="4"/>
+      <shelf name="pub-2015" count="4"/>
+      <shelf name="identity" count="4"/>
+      <shelf name="childrens-picture-book" count="4"/>
+      <shelf name="1st-grade" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="story-time-books" count="4"/>
+      <shelf name="rabbit" count="4"/>
+      <shelf name="storytime-preschool" count="4"/>
+      <shelf name="funny-picture-books" count="4"/>
+      <shelf name="animal-stories" count="4"/>
+      <shelf name="animal" count="4"/>
+      <shelf name="readalouds" count="4"/>
+      <shelf name="picture-books-family" count="4"/>
+      <shelf name="love" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="picture-book-favorites" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>19565411</id>
+<title>Gaston</title>
+<title_without_series>Gaston</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19565411-gaston]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>27692373</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>223840</id>
+<name>Kelly DiPucchio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/223840.Kelly_DiPucchio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23604390</id>
+<title>The Princess and the Pony</title>
+<title_without_series>The Princess and the Pony</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23604390-the-princess-and-the-pony]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419320922l/23604390._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419320922l/23604390._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>43206026</id>
+</work>
+<isbn>0545637082</isbn>
+<isbn13>9780545637084</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2921970</id>
+<name>Kate Beaton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2921970.Kate_Beaton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22292490</id>
+<title>Hoot Owl, Master of Disguise</title>
+<title_without_series>Hoot Owl, Master of Disguise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22292490-hoot-owl-master-of-disguise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587805l/22292490._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587805l/22292490._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>41679270</id>
+</work>
+<isbn>0763675784</isbn>
+<isbn13>9780763675783</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>4684872</id>
+<name>Sean  Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4684872.Sean_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21965059</id>
+<title>The Bear Ate Your Sandwich</title>
+<title_without_series>The Bear Ate Your Sandwich</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21965059-the-bear-ate-your-sandwich]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403199685l/21965059._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403199685l/21965059._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>41275253</id>
+</work>
+<isbn>0375858601</isbn>
+<isbn13>9780375858604</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2445028</id>
+<name>Julia Sarcone-Roach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2445028.Julia_Sarcone_Roach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22635853</id>
+<title>If You Plant a Seed</title>
+<title_without_series>If You Plant a Seed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22635853-if-you-plant-a-seed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414348254l/22635853._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414348254l/22635853._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42136572</id>
+</work>
+<isbn>0062298895</isbn>
+<isbn13>9780062298898</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>21345</id>
+<name>Kadir Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21345.Kadir_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25745002</id>
+<title>Mother Bruce</title>
+<title_without_series>Mother Bruce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25745002-mother-bruce]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435158711l/25745002._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435158711l/25745002._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>45585749</id>
+</work>
+<isbn>1484730887</isbn>
+<isbn13>9781484730881</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22318389</id>
+<title>I Don&apos;t Want to Be a Frog</title>
+<title_without_series>I Don&apos;t Want to Be a Frog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22318389-i-don-t-want-to-be-a-frog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403184827l/22318389._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403184827l/22318389._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41437774</id>
+</work>
+<isbn>0385378661</isbn>
+<isbn13>9780385378666</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>8203635</id>
+<name>Dev Petty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8203635.Dev_Petty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22747796</id>
+<title>Marilyn&apos;s Monster</title>
+<title_without_series>Marilyn&apos;s Monster</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22747796-marilyn-s-monster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417981924l/22747796._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417981924l/22747796._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42292731</id>
+</work>
+<isbn>0763660116</isbn>
+<isbn13>9780763660116</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>72545</id>
+<name>Michelle Knudsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72545.Michelle_Knudsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24885887</id>
+<title>We Forgot Brock!</title>
+<title_without_series>We Forgot Brock!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24885887-we-forgot-brock]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440378228l/24885887._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440378228l/24885887._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>44534417</id>
+</work>
+<isbn>1442480904</isbn>
+<isbn13>9781442480902</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>676353</id>
+<name>Carter Goodrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/676353.Carter_Goodrich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25489475</id>
+<title><![CDATA[Snappsy the Alligator (Did Not Ask to Be in This Book)]]></title>
+<title_without_series>Snappsy the Alligator</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25489475-snappsy-the-alligator]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434189243l/25489475._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434189243l/25489475._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>45263853</id>
+</work>
+<isbn>0451469453</isbn>
+<isbn13>9780451469458</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13922414</id>
+<name>Julie Falatko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13922414.Julie_Falatko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18349886</id>
+<title>This Is a Moose</title>
+<title_without_series>This Is a Moose</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18349886-this-is-a-moose]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379898888l/18349886._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379898888l/18349886._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>25947115</id>
+</work>
+<isbn>0316213608</isbn>
+<isbn13>9780316213608</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3032364</id>
+<name>Richard T. Morris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3032364.Richard_T_Morris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22749702</id>
+<title>Stick and Stone</title>
+<title_without_series>Stick and Stone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22749702-stick-and-stone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925406l/22749702._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925406l/22749702._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42295104</id>
+</work>
+<isbn>054403256X</isbn>
+<isbn13>9780544032569</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>8393959</id>
+<name>Beth Ferry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8393959.Beth_Ferry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24905361</id>
+<title>Leo: A Ghost Story</title>
+<title_without_series>Leo: A Ghost Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24905361-leo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443781444l/24905361._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443781444l/24905361._SX98_.jpg]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>44555766</id>
+</work>
+<isbn>1452131562</isbn>
+<isbn13>9781452131566</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18743522</id>
+<title>Shh! We Have a Plan</title>
+<title_without_series>Shh! We Have a Plan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18743522-shh-we-have-a-plan]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383203897l/18743522._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383203897l/18743522._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>26624235</id>
+</work>
+<isbn>1406342327</isbn>
+<isbn13>9781406342321</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3483139</id>
+<name>Chris Haughton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3483139.Chris_Haughton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20708761</id>
+<title>Sam and Dave Dig a Hole</title>
+<title_without_series>Sam and Dave Dig a Hole</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20708761-sam-and-dave-dig-a-hole]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>39789300</id>
+</work>
+<isbn>0763662291</isbn>
+<isbn13>9780763662295</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21921033</id>
+<title>Duncan, the Story Dragon</title>
+<title_without_series>Duncan, the Story Dragon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21921033-duncan-the-story-dragon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405883682l/21921033._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405883682l/21921033._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>41220319</id>
+</work>
+<isbn>0385755074</isbn>
+<isbn13>9780385755078</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>5047838</id>
+<name>Amanda Driscoll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5047838.Amanda_Driscoll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18349884</id>
+<title><![CDATA[My Teacher Is a Monster! (No, I Am Not.)]]></title>
+<title_without_series>My Teacher Is a Monster!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18349884-my-teacher-is-a-monster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25947111</id>
+</work>
+<isbn>0316070297</isbn>
+<isbn13>9780316070294</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20518989</id>
+<title><![CDATA[Little Elliot, Big City (Little Elliot, #1)]]></title>
+<title_without_series>Little Elliot, Big City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20518989-little-elliot-big-city]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392431522l/20518989._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392431522l/20518989._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>36426379</id>
+</work>
+<isbn>0805098259</isbn>
+<isbn13>9780805098259</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4034</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7760185</id>
+<name>Mike Curato</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7760185.Mike_Curato]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

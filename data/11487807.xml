@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11487807</id>
+  <title><![CDATA[Throne of the Crescent Moon (The Crescent Moon Kingdoms, #1)]]></title>
+  <isbn><![CDATA[0756407117]]></isbn>
+  <isbn13><![CDATA[9780756407117]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344256189l/11487807._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344256189l/11487807._SY75_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>DAW</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Crescent Moon Kingdoms, home to djenn and ghuls, holy warriors and heretics, are at the boiling point of a power struggle between the iron-fisted Khalif and the mysterious master thief known as the Falcon Prince. In the midst of this brewing rebellion a series of brutal supernatural murders strikes at the heart of the Kingdoms. It is up to a handful of heroes to learn the truth behind these killings:<br /><br />Doctor Adoulla Makhslood, “the last real ghul hunter in the great city of Dhamsawaat,” just wants a quiet cup of tea. Three score and more years old, he has grown weary of hunting monsters and saving lives, and is more than ready to retire from his dangerous and demanding vocation. But when an old flame’s family is murdered, Adoulla is drawn back to the hunter’s path.<br /><br />Raseed bas Raseed, Adoulla’s young assistant, is a hidebound holy warrior whose prowess is matched only by his piety. But even as Raseed’s sword is tested by ghuls and manjackals, his soul is tested when he and Adoulla cross paths with the tribeswoman Zamia.<br /><br />Zamia Badawi, Protector of the Band, has been gifted with the near-mythical power of the lion-shape, but shunned by her people for daring to take up a man’s title. She lives only to avenge her father’s death. Until she learns that Adoulla and his allies also hunt her father’s killer. Until she meets Raseed.<br /><br />When they learn that the murders and the Falcon Prince’s brewing revolution are connected, the companions must race against time—and struggle against their own misgivings—to save the life of a vicious despot. In so doing they discover a plot for the Throne of the Crescent Moon that threatens to turn Dhamsawaat, and the world itself, into a blood-soaked ruin.]]></description>
+  <work>
+  <id type="integer">14520797</id>
+  <books_count type="integer">29</books_count>
+  <best_book_id type="integer">11487807</best_book_id>
+  <reviews_count type="integer">28735</reviews_count>
+  <ratings_sum type="integer">36556</ratings_sum>
+  <ratings_count type="integer">10044</ratings_count>
+  <text_reviews_count type="integer">1571</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">7</original_publication_day>
+  <original_title>Throne of the Crescent Moon</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1925|4:3935|3:3083|2:841|1:260|total:10044</rating_dist>
+  <desc_user_id type="integer">2075644</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.GKOhHc6rEVoFYONiLjRUuA</work_uri>
+</work>
+  <average_rating>3.64</average_rating>
+  <num_pages><![CDATA[274]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8012]]></ratings_count>
+  <text_reviews_count><![CDATA[1264]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11487807-throne-of-the-crescent-moon]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11487807-throne-of-the-crescent-moon]]></link>
+  <authors>
+<author>
+<id>4025591</id>
+<name>Saladin Ahmed</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325700680p5/4025591.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325700680p2/4025591.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4025591.Saladin_Ahmed]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>34534</ratings_count>
+<text_reviews_count>4692</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11487807-throne-of-the-crescent-moon">Throne of the Crescent Moon Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0756407117&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/11487807-throne-of-the-crescent-moon?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4460"/>
+      <shelf name="fantasy" count="1766"/>
+      <shelf name="currently-reading" count="401"/>
+      <shelf name="fiction" count="237"/>
+      <shelf name="owned" count="76"/>
+      <shelf name="series" count="68"/>
+      <shelf name="adventure" count="61"/>
+      <shelf name="sci-fi-fantasy" count="58"/>
+      <shelf name="epic-fantasy" count="57"/>
+      <shelf name="high-fantasy" count="49"/>
+      <shelf name="library" count="43"/>
+      <shelf name="kindle" count="40"/>
+      <shelf name="ebook" count="38"/>
+      <shelf name="magic" count="37"/>
+      <shelf name="adult" count="34"/>
+      <shelf name="sff" count="34"/>
+      <shelf name="to-read-fantasy" count="34"/>
+      <shelf name="books-i-own" count="33"/>
+      <shelf name="audiobook" count="30"/>
+      <shelf name="to-buy" count="30"/>
+      <shelf name="sci-fi" count="28"/>
+      <shelf name="audiobooks" count="26"/>
+      <shelf name="did-not-finish" count="25"/>
+      <shelf name="book-club" count="25"/>
+      <shelf name="read-in-2013" count="24"/>
+      <shelf name="fantasy-to-read" count="24"/>
+      <shelf name="fantasy-sci-fi" count="24"/>
+      <shelf name="sword-and-sorcery" count="24"/>
+      <shelf name="maybe" count="24"/>
+      <shelf name="dnf" count="23"/>
+      <shelf name="poc" count="23"/>
+      <shelf name="favorites" count="22"/>
+      <shelf name="middle-east" count="22"/>
+      <shelf name="scifi-fantasy" count="20"/>
+      <shelf name="science-fiction" count="19"/>
+      <shelf name="abandoned" count="19"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="young-adult" count="17"/>
+      <shelf name="mythology" count="17"/>
+      <shelf name="authors-of-color" count="16"/>
+      <shelf name="default" count="16"/>
+      <shelf name="read-2013" count="16"/>
+      <shelf name="audio" count="16"/>
+      <shelf name="ebooks" count="16"/>
+      <shelf name="ya" count="15"/>
+      <shelf name="sf" count="15"/>
+      <shelf name="fantasy-scifi" count="15"/>
+      <shelf name="sf-fantasy" count="15"/>
+      <shelf name="sf-f" count="15"/>
+      <shelf name="hugo-nominee" count="14"/>
+      <shelf name="novels" count="14"/>
+      <shelf name="read-in-2012" count="13"/>
+      <shelf name="read-in-2015" count="12"/>
+      <shelf name="fantasia" count="12"/>
+      <shelf name="poc-author" count="12"/>
+      <shelf name="genre-fantasy" count="12"/>
+      <shelf name="want-to-read" count="12"/>
+      <shelf name="science-fiction-fantasy" count="12"/>
+      <shelf name="adult-fiction" count="12"/>
+      <shelf name="speculative-fiction" count="12"/>
+      <shelf name="hugo" count="11"/>
+      <shelf name="to-read-fiction" count="11"/>
+      <shelf name="supernatural" count="11"/>
+      <shelf name="owned-books" count="11"/>
+      <shelf name="audible" count="11"/>
+      <shelf name="first-in-series" count="11"/>
+      <shelf name="poc-authors" count="11"/>
+      <shelf name="hugo-nominees" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="unfinished" count="10"/>
+      <shelf name="historical" count="10"/>
+      <shelf name="read-in-2017" count="9"/>
+      <shelf name="read-in-2014" count="9"/>
+      <shelf name="male-author" count="9"/>
+      <shelf name="e-books" count="9"/>
+      <shelf name="on-hold" count="9"/>
+      <shelf name="reviewed" count="9"/>
+      <shelf name="epic" count="9"/>
+      <shelf name="read-2012" count="9"/>
+      <shelf name="mystery" count="9"/>
+      <shelf name="author-of-color" count="8"/>
+      <shelf name="read-2015" count="8"/>
+      <shelf name="gave-up-on" count="8"/>
+      <shelf name="religion" count="8"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="action" count="8"/>
+      <shelf name="fantasy-sf" count="8"/>
+      <shelf name="fantasy-series" count="8"/>
+      <shelf name="diverse-books" count="7"/>
+      <shelf name="interested" count="7"/>
+      <shelf name="scifi" count="7"/>
+      <shelf name="writers-of-color" count="7"/>
+      <shelf name="adult-fantasy" count="7"/>
+      <shelf name="hugo-2013" count="7"/>
+      <shelf name="nebula-nominee" count="7"/>
+      <shelf name="nebula" count="7"/>
+      <shelf name="historical-fantasy" count="7"/>
+      <shelf name="read-fantasy" count="7"/>
+      <shelf name="desert-fantasy" count="7"/>
+      <shelf name="science-fiction-and-fantasy" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>210962</id>
+<user_position>1</user_position>
+<series>
+<id>53826</id>
+<title>
+<![CDATA[
+    The Crescent Moon Kingdoms
+]]>
+</title>
+<description>
+<![CDATA[
+    The Crescent Moon Kingdoms, home to djenn and ghuls, holy warriors and heretics, are at the boiling point of a power struggle between the iron-fisted Khalif and the mysterious master thief known as the Falcon Prince. In the midst of this brewing rebellion a series of brutal supernatural murders strikes at the heart of the Kingdoms. But these killings are only the earliest signs of a plot for the Throne of the Crescent Moon that threatens to turn the great city of Dhamsawwaat, and the world itself, into a blood-soaked ruin.
+]]>
+</description>
+<note>
+<![CDATA[
+    Not sure yet where Judgment of Swords and Souls fits into the series. Is in the same world.
+]]>
+</note>
+<series_works_count>6</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>11774272</id>
+<title><![CDATA[The Killing Moon (Dreamblood, #1)]]></title>
+<title_without_series>The Killing Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11774272-the-killing-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335835254l/11774272._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335835254l/11774272._SX98_.jpg]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>14757893</id>
+</work>
+<isbn>0356500764</isbn>
+<isbn13>9780356500768</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2917917</id>
+<name>N.K. Jemisin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2917917.N_K_Jemisin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7767021</id>
+<title><![CDATA[Who Fears Death (Who Fears Death, #1)]]></title>
+<title_without_series>Who Fears Death</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7767021-who-fears-death]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>386</num_pages>
+<work>
+<id>7036603</id>
+</work>
+<isbn>075640617X</isbn>
+<isbn13>9780756406172</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>588356</id>
+<name>Nnedi Okorafor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/588356.Nnedi_Okorafor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43587154</id>
+<title><![CDATA[Jade City (The Green Bone Saga, #1)]]></title>
+<title_without_series>Jade City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43587154-jade-city]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547625704l/43587154._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547625704l/43587154._SX98_.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>55755047</id>
+</work>
+<isbn>0316440884</isbn>
+<isbn13>9780316440882</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7705004</id>
+<name>Fonda Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7705004.Fonda_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39395857</id>
+<title>The Raven Tower</title>
+<title_without_series>The Raven Tower</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39395857-the-raven-tower]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523646507l/39395857._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523646507l/39395857._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>61051116</id>
+</work>
+<isbn>0356506991</isbn>
+<isbn13>9780356506999</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>3365457</id>
+<name>Ann Leckie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3365457.Ann_Leckie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34643773</id>
+<title>Under the Pendulum Sun</title>
+<title_without_series>Under the Pendulum Sun</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34643773-under-the-pendulum-sun]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994693l/34643773._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994693l/34643773._SX98_.jpg]]></image_url>
+<num_pages>409</num_pages>
+<work>
+<id>55804992</id>
+</work>
+<isbn>0857667270</isbn>
+<isbn13>9780857667274</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>14880958</id>
+<name>Jeannette Ng</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14880958.Jeannette_Ng]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32718027</id>
+<title><![CDATA[The City of Brass (The Daevabad Trilogy, #1)]]></title>
+<title_without_series>The City of Brass</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32718027-the-city-of-brass]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491417547l/32718027._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491417547l/32718027._SX98_.jpg]]></image_url>
+<num_pages>533</num_pages>
+<work>
+<id>53299478</id>
+</work>
+<isbn>0062678108</isbn>
+<isbn13>9780062678102</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>16002992</id>
+<name>S.A. Chakraborty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16002992.S_A_Chakraborty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6437061</id>
+<title><![CDATA[The Hundred Thousand Kingdoms (Inheritance, #1)]]></title>
+<title_without_series>The Hundred Thousand Kingdoms</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303143211l/6437061._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303143211l/6437061._SX98_.jpg]]></image_url>
+<num_pages>427</num_pages>
+<work>
+<id>6626657</id>
+</work>
+<isbn>0316043915</isbn>
+<isbn13>9780316043915</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2917917</id>
+<name>N.K. Jemisin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2917917.N_K_Jemisin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39988431</id>
+<title><![CDATA[The Kingdom of Copper (The Daevabad Trilogy, #2)]]></title>
+<title_without_series>The Kingdom of Copper</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533921102l/39988431._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533921102l/39988431._SX98_.jpg]]></image_url>
+<num_pages>625</num_pages>
+<work>
+<id>57348420</id>
+</work>
+<isbn>0008239444</isbn>
+<isbn13>9780008239442</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>16002992</id>
+<name>S.A. Chakraborty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16002992.S_A_Chakraborty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44793807</id>
+<title>The Clockwork Detective</title>
+<title_without_series>The Clockwork Detective</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44793807-the-clockwork-detective]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69449375</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7360276</id>
+<name>R.A. McCandless</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7360276.R_A_McCandless]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9359808</id>
+<title><![CDATA[The Desert of Souls (The Chronicles of Sword and Sand #1)]]></title>
+<title_without_series>The Desert of Souls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9359808-the-desert-of-souls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>14243265</id>
+</work>
+<isbn>0312646747</isbn>
+<isbn13>9780312646745</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>510991</id>
+<name>Howard Andrew Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/510991.Howard_Andrew_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373298</id>
+<title><![CDATA[Trail of Lightning (The Sixth World, #1)]]></title>
+<title_without_series>Trail of Lightning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373298-trail-of-lightning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515788168l/36373298._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515788168l/36373298._SX98_.jpg]]></image_url>
+<num_pages>287</num_pages>
+<work>
+<id>52833355</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>15862877</id>
+<name>Rebecca Roanhorse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15862877.Rebecca_Roanhorse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36686547</id>
+<title><![CDATA[The Tea Master and the Detective (The Universe of Xuya)]]></title>
+<title_without_series><![CDATA[The Tea Master and the Detective]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36686547-the-tea-master-and-the-detective]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511987651l/36686547._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511987651l/36686547._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>58480498</id>
+</work>
+<isbn>1596068647</isbn>
+<isbn13>9781596068643</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>2918731</id>
+<name>Aliette de Bodard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2918731.Aliette_de_Bodard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6757426</id>
+<title><![CDATA[Servant of the Underworld (Obsidian and Blood, #1)]]></title>
+<title_without_series>Servant of the Underworld</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6757426-servant-of-the-underworld]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291671583l/6757426._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291671583l/6757426._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>6953929</id>
+</work>
+<isbn>0007346565</isbn>
+<isbn13>9780007346561</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>2918731</id>
+<name>Aliette de Bodard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2918731.Aliette_de_Bodard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7005878</id>
+<title>Redemption in Indigo</title>
+<title_without_series>Redemption in Indigo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7005878-redemption-in-indigo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275423841l/7005878._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275423841l/7005878._SX98_.jpg]]></image_url>
+<num_pages>188</num_pages>
+<work>
+<id>7250268</id>
+</work>
+<isbn>1931520666</isbn>
+<isbn13>9781931520669</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3124999</id>
+<name>Karen Lord</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3124999.Karen_Lord]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40855636</id>
+<title><![CDATA[How Long 'til Black Future Month?]]></title>
+<title_without_series><![CDATA[How Long 'til Black Future Month?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40855636-how-long-til-black-future-month]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535169689l/40855636._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535169689l/40855636._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>63632161</id>
+</work>
+<isbn>0316491349</isbn>
+<isbn13>9780316491341</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>2917917</id>
+<name>N.K. Jemisin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2917917.N_K_Jemisin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36546128</id>
+<title>The Haunting of Tram Car 015</title>
+<title_without_series>The Haunting of Tram Car 015</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36546128-the-haunting-of-tram-car-015]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537226167l/36546128._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537226167l/36546128._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>58277622</id>
+</work>
+<isbn>1250294800</isbn>
+<isbn13>9781250294807</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>15117586</id>
+<name>P. Djèlí Clark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15117586.P_Dj_l_Clark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7114825</id>
+<title>Cold Magic (Spiritwalker, #1)</title>
+<title_without_series>Cold Magic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7114825-cold-magic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323994929l/7114825._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323994929l/7114825._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>7374960</id>
+</work>
+<isbn>1841498815</isbn>
+<isbn13>9781841498812</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8660</id>
+<name>Kate Elliott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8660.Kate_Elliott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068705</id>
+<title><![CDATA[The Poppy War (The Poppy War, #1)]]></title>
+<title_without_series>The Poppy War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068705-the-poppy-war]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515691735l/35068705._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515691735l/35068705._SX98_.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>56364137</id>
+</work>
+<isbn>0062662597</isbn>
+<isbn13>9780062662590</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>10044</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16820001</id>
+<name>R.F. Kuang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16820001.R_F_Kuang]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

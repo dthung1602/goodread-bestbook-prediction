@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9581507</id>
+  <title>Don&apos;t Breathe a Word</title>
+  <isbn><![CDATA[0061689378]]></isbn>
+  <isbn13><![CDATA[9780061689376]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Harper Paperbacks</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[On a soft summer night in Vermont, 12-year-old Lisa went into the woods behind her house and never came out again. Before she disappeared, she told her little brother, Sam, about a door that led to a magical place where she would meet the King of the Fairies and become his queen.<br /><br />Fifteen years later, Phoebe is in love with Sam, a practical, sensible man who doesn't fear the dark and doesn't have bad dreams - who, in fact, helps Phoebe ignore her own. But suddenly the couple is faced with a series of eerie, unexplained occurrences that challenge Sam's hardheaded, realistic view of the world. As they question their reality, a terrible promise Sam made years ago is revealed - a promise that could destroy them all.]]></description>
+  <work>
+  <id type="integer">14468425</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">9581507</best_book_id>
+  <reviews_count type="integer">36631</reviews_count>
+  <ratings_sum type="integer">50365</ratings_sum>
+  <ratings_count type="integer">14039</ratings_count>
+  <text_reviews_count type="integer">2341</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">17</original_publication_day>
+  <original_title>Don't Breathe a Word</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2922|4:4959|3:4129|2:1503|1:526|total:14039</rating_dist>
+  <desc_user_id type="integer">8516100</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.hNLBArv6lu93CK5NZjR66Q</work_uri>
+</work>
+  <average_rating>3.59</average_rating>
+  <num_pages><![CDATA[447]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11689]]></ratings_count>
+  <text_reviews_count><![CDATA[1992]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9581507-don-t-breathe-a-word]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9581507-don-t-breathe-a-word]]></link>
+  <authors>
+<author>
+<id>29471</id>
+<name>Jennifer  McMahon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1458748953p5/29471.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1458748953p2/29471.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29471.Jennifer_McMahon]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>133109</ratings_count>
+<text_reviews_count>18076</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9581507-don-t-breathe-a-word">Don&#39;t Breathe a Word Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0061689378&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9581507-don-t-breathe-a-word?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1836"/>
+      <shelf name="mystery" count="257"/>
+      <shelf name="fiction" count="251"/>
+      <shelf name="fantasy" count="224"/>
+      <shelf name="horror" count="98"/>
+      <shelf name="thriller" count="91"/>
+      <shelf name="favorites" count="90"/>
+      <shelf name="paranormal" count="55"/>
+      <shelf name="suspense" count="53"/>
+      <shelf name="adult-fiction" count="50"/>
+      <shelf name="currently-reading" count="48"/>
+      <shelf name="owned" count="45"/>
+      <shelf name="book-club" count="45"/>
+      <shelf name="kindle" count="44"/>
+      <shelf name="library" count="43"/>
+      <shelf name="books-i-own" count="40"/>
+      <shelf name="read-in-2011" count="37"/>
+      <shelf name="supernatural" count="36"/>
+      <shelf name="mystery-thriller" count="35"/>
+      <shelf name="adult" count="35"/>
+      <shelf name="nook" count="31"/>
+      <shelf name="to-buy" count="28"/>
+      <shelf name="ebook" count="25"/>
+      <shelf name="mystery-suspense" count="25"/>
+      <shelf name="wish-list" count="25"/>
+      <shelf name="audiobooks" count="24"/>
+      <shelf name="fairies" count="23"/>
+      <shelf name="audiobook" count="22"/>
+      <shelf name="jennifer-mcmahon" count="22"/>
+      <shelf name="ebooks" count="19"/>
+      <shelf name="audio" count="18"/>
+      <shelf name="young-adult" count="18"/>
+      <shelf name="mysteries" count="16"/>
+      <shelf name="contemporary" count="16"/>
+      <shelf name="read-in-2012" count="15"/>
+      <shelf name="did-not-finish" count="15"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="read-in-2013" count="13"/>
+      <shelf name="general-fiction" count="13"/>
+      <shelf name="faeries" count="13"/>
+      <shelf name="read-in-2016" count="12"/>
+      <shelf name="abandoned" count="12"/>
+      <shelf name="fae" count="12"/>
+      <shelf name="kindle-books" count="11"/>
+      <shelf name="thrillers" count="11"/>
+      <shelf name="spooky" count="11"/>
+      <shelf name="creepy" count="11"/>
+      <shelf name="2011-books" count="11"/>
+      <shelf name="want-to-read" count="11"/>
+      <shelf name="first-reads" count="11"/>
+      <shelf name="read-2012" count="10"/>
+      <shelf name="e-books" count="10"/>
+      <shelf name="read-2011" count="10"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="fairy-tales" count="10"/>
+      <shelf name="read-in-2014" count="9"/>
+      <shelf name="magical-realism" count="9"/>
+      <shelf name="contemporary-fiction" count="9"/>
+      <shelf name="crime" count="9"/>
+      <shelf name="nook-books" count="9"/>
+      <shelf name="thriller-suspense" count="9"/>
+      <shelf name="e-book" count="9"/>
+      <shelf name="maybe" count="9"/>
+      <shelf name="book-club-books" count="8"/>
+      <shelf name="2012-reads" count="8"/>
+      <shelf name="drama" count="8"/>
+      <shelf name="on-kindle" count="8"/>
+      <shelf name="library-book" count="8"/>
+      <shelf name="scary" count="8"/>
+      <shelf name="ya" count="8"/>
+      <shelf name="audio-book" count="7"/>
+      <shelf name="bookclub" count="7"/>
+      <shelf name="dnf" count="7"/>
+      <shelf name="psychological-thriller" count="7"/>
+      <shelf name="new-england" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="female-authors" count="7"/>
+      <shelf name="dark" count="7"/>
+      <shelf name="reviewed" count="7"/>
+      <shelf name="epubs" count="7"/>
+      <shelf name="paranormal-fantasy" count="7"/>
+      <shelf name="2011-reads" count="7"/>
+      <shelf name="have" count="7"/>
+      <shelf name="mystery-thriller-suspense" count="7"/>
+      <shelf name="sci-fi-fantasy" count="7"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="2013-books" count="6"/>
+      <shelf name="to-read-mystery" count="6"/>
+      <shelf name="finished" count="6"/>
+      <shelf name="bookworm-bitches" count="6"/>
+      <shelf name="fantasy-science-fiction" count="6"/>
+      <shelf name="adult-books" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="science-fiction-fantasy" count="6"/>
+      <shelf name="fantasy-paranormal" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="thriller-mystery" count="6"/>
+      <shelf name="to-read-fiction" count="6"/>
+      <shelf name="own-it" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>5813242</id>
+<title>Осенний лис (Жуга, #1)</title>
+<title_without_series>Осенний лис</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5813242]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>5985250</id>
+</work>
+<isbn>5911810514</isbn>
+<isbn13>9785911810511</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5185376</id>
+<name>Dmitry Skiryuk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5185376.Dmitry_Skiryuk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47868429</id>
+<title>Город драконов</title>
+<title_without_series>Город драконов</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47868429]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566288894l/47868429._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566288894l/47868429._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>73009360</id>
+</work>
+<isbn></isbn>
+<isbn13>9785041017637</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6862304</id>
+<name>Елена Звёздная</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6862304._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10169662</id>
+<title>Never Knowing</title>
+<title_without_series>Never Knowing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10169662-never-knowing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294615110l/10169662._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294615110l/10169662._SX98_.jpg]]></image_url>
+<num_pages>410</num_pages>
+<work>
+<id>13723008</id>
+</work>
+<isbn>0312595689</isbn>
+<isbn13>9780312595685</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3163298</id>
+<name>Chevy Stevens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3163298.Chevy_Stevens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43263456</id>
+<title>Strangers at the Gate</title>
+<title_without_series>Strangers at the Gate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43263456-strangers-at-the-gate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551086202l/43263456._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551086202l/43263456._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>67142282</id>
+</work>
+<isbn>1250070015</isbn>
+<isbn13>9781250070012</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>457993</id>
+<name>Catriona McPherson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457993.Catriona_McPherson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23390914</id>
+<title><![CDATA[Sleepy Hollow: Bridge of Bones (Jason Crane, #2)]]></title>
+<title_without_series><![CDATA[Sleepy Hollow: Bridge of Bones]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23390914-sleepy-hollow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42948581</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1693533</id>
+<name>Richard Gleaves</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1693533.Richard_Gleaves]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38747971</id>
+<title><![CDATA[Harry Potter: A Pop-Up Guide to Hogwarts]]></title>
+<title_without_series><![CDATA[Harry Potter: A Pop-Up Guide to Hogwarts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38747971-harry-potter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521364152l/38747971._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521364152l/38747971._SX98_.jpg]]></image_url>
+<num_pages>10</num_pages>
+<work>
+<id>60337757</id>
+</work>
+<isbn>1683834070</isbn>
+<isbn13>9781683834076</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>11353</id>
+<name>Matthew Reinhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11353.Matthew_Reinhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22836131</id>
+<title><![CDATA[Случай из практики (Случай из практики, #1)]]></title>
+<title_without_series>Случай из практики</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22836131]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439710765l/22836131._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439710765l/22836131._SX98_.jpg]]></image_url>
+<num_pages>736</num_pages>
+<work>
+<id>42390513</id>
+</work>
+<isbn></isbn>
+<isbn13>9785699554904</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4996891</id>
+<name>Кира Измайлова</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4996891._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42585052</id>
+<title><![CDATA[The Age of Addiction: How Bad Habits Became Big Business]]></title>
+<title_without_series><![CDATA[The Age of Addiction: How Bad Habits Became Big Business]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42585052-the-age-of-addiction]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541997612l/42585052._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541997612l/42585052._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>66274925</id>
+</work>
+<isbn>0674737377</isbn>
+<isbn13>9780674737372</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>368090</id>
+<name>David T. Courtwright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/368090.David_T_Courtwright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42527596</id>
+<title>The Twisted Ones</title>
+<title_without_series>The Twisted Ones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42527596-the-twisted-ones]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567950921l/42527596._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567950921l/42527596._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>58145790</id>
+</work>
+<isbn>1534429573</isbn>
+<isbn13>9781534429574</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7367300</id>
+<name>T. Kingfisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7367300.T_Kingfisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>656729</id>
+<title><![CDATA[The Overnight (Fear Street, #3)]]></title>
+<title_without_series>The Overnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/656729.The_Overnight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>642818</id>
+</work>
+<isbn>0671746502</isbn>
+<isbn13>9780671746506</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>13730</id>
+<name>R.L. Stine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13730.R_L_Stine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>90973</id>
+<title><![CDATA[Chas Addams Happily Ever After: A Collection of Cartoons to Chill the Heart of Your Loved One]]></title>
+<title_without_series><![CDATA[Chas Addams Happily Ever After: A Collection of Cartoons to Chill the Heart of Your Loved One]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/90973.Chas_Addams_Happily_Ever_After]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>161</num_pages>
+<work>
+<id>87781</id>
+</work>
+<isbn>074326777X</isbn>
+<isbn13>9780743267779</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>52274</id>
+<name>Charles Addams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52274.Charles_Addams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>176576</id>
+<title>Missing (Fear Street, #4)</title>
+<title_without_series>Missing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/176576.Missing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404222886l/176576._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404222886l/176576._SY160_.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>170603</id>
+</work>
+<isbn>0671694103</isbn>
+<isbn13>9780671694104</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13730</id>
+<name>R.L. Stine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13730.R_L_Stine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>666191</id>
+<title>Creature Comforts</title>
+<title_without_series>Creature Comforts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/666191.Creature_Comforts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393273933l/666191._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393273933l/666191._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1898433</id>
+</work>
+<isbn>0671438352</isbn>
+<isbn13>9780671438357</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>52274</id>
+<name>Charles Addams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52274.Charles_Addams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6441789</id>
+<title>Nightcrawlers</title>
+<title_without_series>Nightcrawlers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6441789-nightcrawlers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324281595l/6441789._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324281595l/6441789._SY160_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>6631742</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>1964</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>52274</id>
+<name>Charles Addams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52274.Charles_Addams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>176339</id>
+<title>Haunted (Fear Street, #7)</title>
+<title_without_series>Haunted</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/176339.Haunted]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>164</num_pages>
+<work>
+<id>170371</id>
+</work>
+<isbn>0671746510</isbn>
+<isbn13>9780671746513</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>7</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>13730</id>
+<name>R.L. Stine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13730.R_L_Stine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6952604</id>
+<title>Czas wiedźm</title>
+<title_without_series>Czas wiedźm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6952604-czas-wied-m]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>7187353</id>
+</work>
+<isbn>8388431684</isbn>
+<isbn13></isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7580817</id>
+<name>Marina Dyachenko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7580817.Marina_Dyachenko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>176637</id>
+<title><![CDATA[The Surprise Party (Fear Street, #2)]]></title>
+<title_without_series>The Surprise Party</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/176637.The_Surprise_Party]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441893940l/176637._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441893940l/176637._SX98_.jpg]]></image_url>
+<num_pages>167</num_pages>
+<work>
+<id>170664</id>
+</work>
+<isbn>0671735616</isbn>
+<isbn13>9780671735616</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>13730</id>
+<name>R.L. Stine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13730.R_L_Stine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>450203</id>
+<title>The Evil Seed</title>
+<title_without_series>The Evil Seed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/450203.The_Evil_Seed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375876947l/450203._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375876947l/450203._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2230199</id>
+</work>
+<isbn>0751500089</isbn>
+<isbn13>9780751500080</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>14039</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9432</id>
+<name>Joanne Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9432.Joanne_Harris]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

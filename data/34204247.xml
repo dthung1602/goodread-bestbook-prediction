@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34204247</id>
+  <title>Prince &amp; Knight</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508286286l/34204247._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508286286l/34204247._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Little Bee Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In this modern fairy tale, a noble prince and a brave knight come together to defeat a terrible monster and in the process find true love in a most unexpected place.<br /><br /><i>“Thank you,” he told his parents.</i><br /><br /><i>“I appreciate that you tried,</i><br /><br /><i>but I’m looking for something special</i><br /><br /><i>in a partner by my side.”</i><br /><br /> Once upon a time, in a kingdom far from here, there was a prince in line to take the throne, so his parents set out to find him a kind and worthy bride. The three of them traveled the land far and wide, but the prince didn't quite find what he was looking for in the princesses they met.<br /><br /> While they were away, a terrible dragon threatened their land, and all the soldiers fled. The prince rushed back to save his kingdom from the perilous beast and was met by a brave knight in a suit of brightly shining armor. Together they fought the dragon and discovered that special something the prince was looking for all along.]]></description>
+  <work>
+  <id type="integer">55250949</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">34204247</best_book_id>
+  <reviews_count type="integer">4381</reviews_count>
+  <ratings_sum type="integer">6842</ratings_sum>
+  <ratings_count type="integer">1554</ratings_count>
+  <text_reviews_count type="integer">412</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Prince &amp; Knight</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:908|4:433|3:160|2:37|1:16|total:1554</rating_dist>
+  <desc_user_id type="integer">24666244</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.DOWYjyCB2KIP-eGfNtSV1g</work_uri>
+</work>
+  <average_rating>4.40</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1288]]></ratings_count>
+  <text_reviews_count><![CDATA[356]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34204247-prince-knight]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34204247-prince-knight]]></link>
+  <authors>
+<author>
+<id>16420906</id>
+<name>Daniel Haack</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1509420876p5/16420906.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1509420876p2/16420906.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16420906.Daniel_Haack]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>1866</ratings_count>
+<text_reviews_count>485</text_reviews_count>
+</author>
+<author>
+<id>6922640</id>
+<name>Stevie Lewis</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539818676p5/6922640.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539818676p2/6922640.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6922640.Stevie_Lewis]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>4922</ratings_count>
+<text_reviews_count>1076</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34204247-prince-knight">Prince &amp;amp; Knight Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/34204247-prince-knight?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2400"/>
+      <shelf name="picture-books" count="281"/>
+      <shelf name="lgbtq" count="143"/>
+      <shelf name="lgbt" count="92"/>
+      <shelf name="picture-book" count="71"/>
+      <shelf name="childrens" count="66"/>
+      <shelf name="fantasy" count="63"/>
+      <shelf name="lgbtqia" count="45"/>
+      <shelf name="favorites" count="34"/>
+      <shelf name="kids" count="33"/>
+      <shelf name="children-s-books" count="30"/>
+      <shelf name="children" count="29"/>
+      <shelf name="children-s" count="28"/>
+      <shelf name="queer" count="27"/>
+      <shelf name="fiction" count="26"/>
+      <shelf name="kids-books" count="22"/>
+      <shelf name="romance" count="21"/>
+      <shelf name="fairy-tales" count="20"/>
+      <shelf name="currently-reading" count="18"/>
+      <shelf name="love" count="15"/>
+      <shelf name="dragons" count="13"/>
+      <shelf name="fairy-tale" count="13"/>
+      <shelf name="library" count="13"/>
+      <shelf name="royalty" count="12"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="rhyming" count="11"/>
+      <shelf name="read-in-2019" count="10"/>
+      <shelf name="picturebooks" count="9"/>
+      <shelf name="read-2019" count="8"/>
+      <shelf name="childrens-picture-books" count="8"/>
+      <shelf name="picture" count="8"/>
+      <shelf name="gay" count="8"/>
+      <shelf name="lgbtqa" count="8"/>
+      <shelf name="read-in-2018" count="7"/>
+      <shelf name="children-s-lit" count="7"/>
+      <shelf name="pb" count="7"/>
+      <shelf name="storytime" count="7"/>
+      <shelf name="2019-reads" count="6"/>
+      <shelf name="diversity" count="6"/>
+      <shelf name="diverse-books" count="6"/>
+      <shelf name="preschool" count="5"/>
+      <shelf name="middle-grade" count="5"/>
+      <shelf name="queer-lit" count="5"/>
+      <shelf name="2018-picture-books" count="5"/>
+      <shelf name="childrens-lit" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="comics" count="4"/>
+      <shelf name="family" count="4"/>
+      <shelf name="favorite-picture-books" count="4"/>
+      <shelf name="children-books" count="4"/>
+      <shelf name="lbgtq" count="4"/>
+      <shelf name="children-s-literature" count="4"/>
+      <shelf name="fractured-fairy-tales" count="4"/>
+      <shelf name="genre-fantasy" count="4"/>
+      <shelf name="graphic-novel" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="read-2018" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="glbt" count="4"/>
+      <shelf name="m-m-romance" count="4"/>
+      <shelf name="graphic-novels" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="2018-read" count="4"/>
+      <shelf name="fairytales" count="4"/>
+      <shelf name="lgbtqiap" count="3"/>
+      <shelf name="lgbtq-books" count="3"/>
+      <shelf name="childrens-and-middle-grade" count="3"/>
+      <shelf name="exploring-diversity" count="3"/>
+      <shelf name="exploring-assignment" count="3"/>
+      <shelf name="want-to-own" count="3"/>
+      <shelf name="high-fantasy" count="3"/>
+      <shelf name="glbtq" count="3"/>
+      <shelf name="kiddos" count="3"/>
+      <shelf name="kid-s-books" count="3"/>
+      <shelf name="adventure" count="3"/>
+      <shelf name="books-i-own" count="3"/>
+      <shelf name="sexuality" count="3"/>
+      <shelf name="we-need-diverse-books" count="3"/>
+      <shelf name="children-s-picture-books" count="3"/>
+      <shelf name="1000-books-before-kindergarten" count="3"/>
+      <shelf name="5-stars" count="3"/>
+      <shelf name="knights" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="picture_books" count="3"/>
+      <shelf name="art" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="wndb" count="3"/>
+      <shelf name="social-issues" count="3"/>
+      <shelf name="all-time-favorites" count="3"/>
+      <shelf name="queer-reads" count="3"/>
+      <shelf name="diverse-picture-books" count="3"/>
+      <shelf name="faves" count="3"/>
+      <shelf name="rainbow" count="3"/>
+      <shelf name="2018-releases" count="3"/>
+      <shelf name="1000booksbeforekindergarten" count="2"/>
+      <shelf name="new-books" count="2"/>
+      <shelf name="read-next" count="2"/>
+      <shelf name="read-to-me" count="2"/>
+      <shelf name="lgbt-reads" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>26532714</id>
+<title>Julián Is a Mermaid</title>
+<title_without_series>Julián Is a Mermaid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26532714-juli-n-is-a-mermaid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503977423l/26532714._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503977423l/26532714._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>46532501</id>
+</work>
+<isbn>0763690457</isbn>
+<isbn13>9780763690458</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>14347579</id>
+<name>Jessica    Love</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14347579.Jessica_Love]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864913</id>
+<title><![CDATA[It Feels Good to Be Yourself: A Book about Gender Identity]]></title>
+<title_without_series><![CDATA[It Feels Good to Be Yourself: A Book about Gender Identity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864913-it-feels-good-to-be-yourself]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538423336l/40864913._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538423336l/40864913._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>63657625</id>
+</work>
+<isbn>1250302951</isbn>
+<isbn13>9781250302953</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15298725</id>
+<name>Theresa Thorn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15298725.Theresa_Thorn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39987021</id>
+<title>When Aidan Became A Brother</title>
+<title_without_series>When Aidan Became A Brother</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39987021-when-aidan-became-a-brother]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553384101l/39987021._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553384101l/39987021._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>61915492</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4972570</id>
+<name>Kyle Lukoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4972570.Kyle_Lukoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29739044</id>
+<title><![CDATA[Pride: The Story of Harvey Milk and the Rainbow Flag]]></title>
+<title_without_series><![CDATA[Pride: The Story of Harvey Milk and the Rainbow Flag]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29739044-pride]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501641290l/29739044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501641290l/29739044._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>50081852</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>14177882</id>
+<name>Rob    Sanders</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14177882.Rob_Sanders]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35738079</id>
+<title>Pink Is for Boys</title>
+<title_without_series>Pink Is for Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35738079-pink-is-for-boys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508285416l/35738079._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508285416l/35738079._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57243849</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1137955</id>
+<name>Robb Pearlman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1137955.Robb_Pearlman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34791219</id>
+<title>Drawn Together</title>
+<title_without_series>Drawn Together</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34791219-drawn-together]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510025545l/34791219._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510025545l/34791219._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>55989359</id>
+</work>
+<isbn>1484767608</isbn>
+<isbn13>9781484767603</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14355926</id>
+<name>Minh Lê</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14355926.Minh_L_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36248274</id>
+<title>Jack (Not Jackie)</title>
+<title_without_series>Jack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36248274-jack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520221856l/36248274._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520221856l/36248274._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57895469</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>70189</id>
+<name>Erica Silverman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70189.Erica_Silverman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38942672</id>
+<title>Skulls!</title>
+<title_without_series>Skulls!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38942672-skulls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561903302l/38942672._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561903302l/38942672._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>60519895</id>
+</work>
+<isbn>1534414002</isbn>
+<isbn13>9781534414006</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>7155040</id>
+<name>Blair Thornburgh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7155040.Blair_Thornburgh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31247034</id>
+<title><![CDATA[Stonewall:  A Building. An Uprising. A Revolution]]></title>
+<title_without_series><![CDATA[Stonewall:  A Building. An Uprising. A Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31247034-stonewall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533283349l/31247034._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533283349l/31247034._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>51903057</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>14177882</id>
+<name>Rob    Sanders</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14177882.Rob_Sanders]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36341954</id>
+<title>We Don&apos;t Eat Our Classmates</title>
+<title_without_series>We Don&apos;t Eat Our Classmates</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36341954-we-don-t-eat-our-classmates]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>58021963</id>
+</work>
+<isbn>1368003559</isbn>
+<isbn13>9781368003551</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373562</id>
+<title>Ocean Meets Sky</title>
+<title_without_series>Ocean Meets Sky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373562-ocean-meets-sky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511798347l/36373562._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511798347l/36373562._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>58060834</id>
+</work>
+<isbn>148147037X</isbn>
+<isbn13>9781481470377</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>7031735</id>
+<name>Terry Fan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7031735.Terry_Fan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34816266</id>
+<title>Petra</title>
+<title_without_series>Petra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34816266-petra]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522443362l/34816266._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522443362l/34816266._SX98_.jpg]]></image_url>
+<num_pages>20</num_pages>
+<work>
+<id>56035728</id>
+</work>
+<isbn>8878744700</isbn>
+<isbn13>9788878744707</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>16313257</id>
+<name>Marianna Coppo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16313257.Marianna_Coppo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35248504</id>
+<title>The Rabbit Listened</title>
+<title_without_series>The Rabbit Listened</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35248504-the-rabbit-listened]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56599297</id>
+</work>
+<isbn>073522935X</isbn>
+<isbn13>9780735229358</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>2851649</id>
+<name>Cori Doerrfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2851649.Cori_Doerrfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39835043</id>
+<title>Lulu Is a Rhinoceros</title>
+<title_without_series>Lulu Is a Rhinoceros</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39835043-lulu-is-a-rhinoceros]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523753881l/39835043._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523753881l/39835043._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>61594408</id>
+</work>
+<isbn>0692070982</isbn>
+<isbn13>9780692070987</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>17938746</id>
+<name>Jason Flom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17938746.Jason_Flom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506301</id>
+<title>The Day You Begin</title>
+<title_without_series>The Day You Begin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59116604</id>
+</work>
+<isbn>0399246533</isbn>
+<isbn13>9780399246531</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18615267</id>
+<title>This Day in June</title>
+<title_without_series>This Day in June</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18615267-this-day-in-june]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585992l/18615267._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585992l/18615267._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>26390662</id>
+</work>
+<isbn>143381658X</isbn>
+<isbn13>9781433816581</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5142181</id>
+<name>Gayle E. Pitman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5142181.Gayle_E_Pitman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42202040</id>
+<title>Except When They Don&apos;t</title>
+<title_without_series>Except When They Don&apos;t</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42202040-except-when-they-don-t]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545469342l/42202040._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545469342l/42202040._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>65814524</id>
+</work>
+<isbn>1499808046</isbn>
+<isbn13>9781499808049</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>7832868</id>
+<name>Laura Gehl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7832868.Laura_Gehl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35580105</id>
+<title>Hello Lighthouse</title>
+<title_without_series>Hello Lighthouse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35580105-hello-lighthouse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY160_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>57013848</id>
+</work>
+<isbn>0316362387</isbn>
+<isbn13>9780316362382</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>63115</id>
+<name>Sophie Blackall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63115.Sophie_Blackall]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

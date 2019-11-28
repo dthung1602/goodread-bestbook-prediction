@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22484277</id>
+  <title>I Wish You More</title>
+  <isbn><![CDATA[1452126992]]></isbn>
+  <isbn13><![CDATA[9781452126999]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549906445l/22484277._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549906445l/22484277._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>Chronicle Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Some books are about a single wish. Some books are about three wishes. The infallible team of Amy Krouse Rosenthal and Tom Lichtenheld have combined their extraordinary talents to create this exuberant book of endless good wishes. Wishes for curiosity and wonder, for friendship and strength, laughter and peace. Whether celebrating life's joyous milestones, sharing words of encouragement, or observing the wonder of everyday moments, this sweet and uplifting book is perfect for wishers of every age.]]></description>
+  <work>
+  <id type="integer">41925299</id>
+  <books_count type="integer">11</books_count>
+  <best_book_id type="integer">22484277</best_book_id>
+  <reviews_count type="integer">7613</reviews_count>
+  <ratings_sum type="integer">14253</ratings_sum>
+  <ratings_count type="integer">3260</ratings_count>
+  <text_reviews_count type="integer">541</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">31</original_publication_day>
+  <original_title>I Wish You More</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1845|4:916|3:390|2:85|1:24|total:3260</rating_dist>
+  <desc_user_id type="integer">22253792</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.QpCqpPRKY8Wv6h3f9o3taw</work_uri>
+</work>
+  <average_rating>4.37</average_rating>
+  <num_pages><![CDATA[34]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2847]]></ratings_count>
+  <text_reviews_count><![CDATA[505]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22484277-i-wish-you-more]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22484277-i-wish-you-more]]></link>
+  <authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472759136p5/21674.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472759136p2/21674.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>65489</ratings_count>
+<text_reviews_count>9195</text_reviews_count>
+</author>
+<author>
+<id>83081</id>
+<name>Tom Lichtenheld</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1329865734p5/83081.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1329865734p2/83081.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/83081.Tom_Lichtenheld]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>57409</ratings_count>
+<text_reviews_count>7267</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22484277-i-wish-you-more">I Wish You More Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1452126992&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/22484277-i-wish-you-more?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2612"/>
+      <shelf name="picture-books" count="381"/>
+      <shelf name="currently-reading" count="252"/>
+      <shelf name="picture-book" count="95"/>
+      <shelf name="children-s-books" count="74"/>
+      <shelf name="childrens" count="73"/>
+      <shelf name="children-s" count="67"/>
+      <shelf name="children" count="57"/>
+      <shelf name="kids" count="46"/>
+      <shelf name="kids-books" count="35"/>
+      <shelf name="childrens-books" count="34"/>
+      <shelf name="favorites" count="32"/>
+      <shelf name="love" count="23"/>
+      <shelf name="fiction" count="22"/>
+      <shelf name="children-s-literature" count="21"/>
+      <shelf name="picture" count="16"/>
+      <shelf name="wishes" count="15"/>
+      <shelf name="feelings" count="14"/>
+      <shelf name="children-books" count="14"/>
+      <shelf name="friendship" count="14"/>
+      <shelf name="children-s-lit" count="14"/>
+      <shelf name="picturebooks" count="13"/>
+      <shelf name="poetry" count="11"/>
+      <shelf name="read-aloud" count="11"/>
+      <shelf name="children-s-picture-books" count="11"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="read-alouds" count="10"/>
+      <shelf name="storybook-showcase" count="9"/>
+      <shelf name="kid-books" count="9"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="inspirational" count="9"/>
+      <shelf name="family" count="9"/>
+      <shelf name="owned" count="8"/>
+      <shelf name="childrens-picture-books" count="8"/>
+      <shelf name="classroom" count="7"/>
+      <shelf name="default" count="7"/>
+      <shelf name="preschool" count="7"/>
+      <shelf name="storytime" count="7"/>
+      <shelf name="peer-instructor" count="6"/>
+      <shelf name="pb" count="6"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="children-picture-books" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="2015-picture-books" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="school" count="5"/>
+      <shelf name="parent-and-child" count="5"/>
+      <shelf name="social-emotional" count="5"/>
+      <shelf name="1000-books-before-kindergarten" count="5"/>
+      <shelf name="kindness" count="5"/>
+      <shelf name="kindergarten" count="5"/>
+      <shelf name="graduation" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="children-s-books-read" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="2015-reads" count="5"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="classroombookaday" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="parenting" count="4"/>
+      <shelf name="great-illustrations" count="4"/>
+      <shelf name="read-picture-books" count="4"/>
+      <shelf name="childrens-picture" count="4"/>
+      <shelf name="picture-books-read" count="4"/>
+      <shelf name="gift-books" count="4"/>
+      <shelf name="read-in-2019" count="3"/>
+      <shelf name="mini-library" count="3"/>
+      <shelf name="2018-read" count="3"/>
+      <shelf name="kids-lit" count="3"/>
+      <shelf name="children-picture-book" count="3"/>
+      <shelf name="read-2017" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="1-000-books-before-kindergarten" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="exploring-children" count="3"/>
+      <shelf name="social-and-emotional" count="3"/>
+      <shelf name="children-s-read" count="3"/>
+      <shelf name="william" count="3"/>
+      <shelf name="picturebook" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="kids-read" count="3"/>
+      <shelf name="amy-krouse-rosenthal" count="3"/>
+      <shelf name="toddler" count="3"/>
+      <shelf name="yoga-storytime" count="3"/>
+      <shelf name="chronicle-books" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="gift-ideas" count="3"/>
+      <shelf name="female-authors" count="3"/>
+      <shelf name="mentor-text" count="3"/>
+      <shelf name="parents" count="3"/>
+      <shelf name="mentor-texts" count="3"/>
+      <shelf name="children-picture" count="3"/>
+      <shelf name="books-read-in-2015" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23742842</id>
+<title><![CDATA[The Wonderful Things You Will Be]]></title>
+<title_without_series><![CDATA[The Wonderful Things You Will Be]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23742842-the-wonderful-things-you-will-be]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420792601l/23742842._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420792601l/23742842._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>43241337</id>
+</work>
+<isbn>0385376715</isbn>
+<isbn13>9780385376716</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4880403</id>
+<name>Emily Winfield Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4880403.Emily_Winfield_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41212439</id>
+<title>Dear Boy,</title>
+<title_without_series>Dear Boy,</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41212439-dear-boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552409916l/41212439._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552409916l/41212439._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64405692</id>
+</work>
+<isbn>0062911473</isbn>
+<isbn13>9780062911476</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>16583051</id>
+<name>Paris Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16583051.Paris_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23310741</id>
+<title>You&apos;re Here for a Reason</title>
+<title_without_series>You&apos;re Here for a Reason</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23310741-you-re-here-for-a-reason]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426127391l/23310741._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426127391l/23310741._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42864852</id>
+</work>
+<isbn>1250056268</isbn>
+<isbn13>9781250056269</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21006</id>
+<name>Nancy Tillman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21006.Nancy_Tillman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36070310</id>
+<title>What Do You Do With a Chance?</title>
+<title_without_series>What Do You Do With a Chance?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36070310-what-do-you-do-with-a-chance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503166220l/36070310._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503166220l/36070310._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>57654068</id>
+</work>
+<isbn>1943200733</isbn>
+<isbn13>9781943200733</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>59093</id>
+<name>Kobi Yamada</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59093.Kobi_Yamada]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34506910</id>
+<title>Be Kind</title>
+<title_without_series>Be Kind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34506910-be-kind]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497983192l/34506910._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497983192l/34506910._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55632799</id>
+</work>
+<isbn>1626723214</isbn>
+<isbn13>9781626723214</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6506402</id>
+<name>Pat Zietlow Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6506402.Pat_Zietlow_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22749702</id>
+<title>Stick and Stone</title>
+<title_without_series>Stick and Stone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22749702-stick-and-stone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925406l/22749702._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925406l/22749702._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42295104</id>
+</work>
+<isbn>054403256X</isbn>
+<isbn13>9780544032569</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>8393959</id>
+<name>Beth Ferry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8393959.Beth_Ferry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38623184</id>
+<title>When You Are Brave</title>
+<title_without_series>When You Are Brave</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38623184-when-you-are-brave]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531844069l/38623184._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531844069l/38623184._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60239289</id>
+</work>
+<isbn>0316392529</isbn>
+<isbn13>9780316392525</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6506402</id>
+<name>Pat Zietlow Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6506402.Pat_Zietlow_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39983611</id>
+<title>Say Something</title>
+<title_without_series>Say Something</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39983611-say-something]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528408873l/39983611._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528408873l/39983611._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>61906500</id>
+</work>
+<isbn>0545865034</isbn>
+<isbn13>9780545865036</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>198837</id>
+<name>Peter H. Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/198837.Peter_H_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38243218</id>
+<title>I Am Human: A Book of Empathy</title>
+<title_without_series>I Am Human: A Book of Empathy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38243218-i-am-human]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519636066l/38243218._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519636066l/38243218._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59925250</id>
+</work>
+<isbn>1419731653</isbn>
+<isbn13>9781419731655</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6475304</id>
+<name>Susan Verde</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6475304.Susan_Verde]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506301</id>
+<title>The Day You Begin</title>
+<title_without_series>The Day You Begin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59116604</id>
+</work>
+<isbn>0399246533</isbn>
+<isbn13>9780399246531</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35356379</id>
+<title>Love</title>
+<title_without_series>Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35356379-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513266890l/35356379._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513266890l/35356379._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56718115</id>
+</work>
+<isbn>1524740918</isbn>
+<isbn13>9781524740917</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17290220</id>
+<title>Rosie Revere, Engineer</title>
+<title_without_series>Rosie Revere, Engineer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17290220-rosie-revere-engineer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362445045l/17290220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362445045l/17290220._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>23912365</id>
+</work>
+<isbn>1419708457</isbn>
+<isbn13>9781419708459</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>379125</id>
+<name>Andrea Beaty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/379125.Andrea_Beaty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18570357</id>
+<title>What Do You Do with an Idea?</title>
+<title_without_series>What Do You Do with an Idea?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18570357-what-do-you-do-with-an-idea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391248131l/18570357._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391248131l/18570357._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>26301325</id>
+</work>
+<isbn>1938298071</isbn>
+<isbn13>9781938298073</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59093</id>
+<name>Kobi Yamada</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59093.Kobi_Yamada]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40697429</id>
+<title>Tomorrow Most Likely</title>
+<title_without_series>Tomorrow Most Likely</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40697429-tomorrow-most-likely]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538454659l/40697429._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538454659l/40697429._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>63296750</id>
+</work>
+<isbn>1452172781</isbn>
+<isbn13>9781452172781</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3371</id>
+<name>Dave Eggers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3371.Dave_Eggers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37825468</id>
+<title><![CDATA[Try a Little Kindness: A Guide to Being Better]]></title>
+<title_without_series><![CDATA[Try a Little Kindness: A Guide to Being Better]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37825468-try-a-little-kindness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523871547l/37825468._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523871547l/37825468._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59503706</id>
+</work>
+<isbn>1338256416</isbn>
+<isbn13>9781338256413</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>31597</id>
+<name>Henry Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31597.Henry_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40696688</id>
+<title>Remarkably You</title>
+<title_without_series>Remarkably You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40696688-remarkably-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545417621l/40696688._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545417621l/40696688._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>63293904</id>
+</work>
+<isbn>006242758X</isbn>
+<isbn13>9780062427588</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6506402</id>
+<name>Pat Zietlow Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6506402.Pat_Zietlow_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13218723</id>
+<title>The Word Collector</title>
+<title_without_series>The Word Collector</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13218723-the-word-collector]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390434255l/13218723._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390434255l/13218723._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18404843</id>
+</work>
+<isbn>8415241348</isbn>
+<isbn13>9788415241348</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5040309</id>
+<name>Sonja Wimmer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5040309.Sonja_Wimmer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43203174</id>
+<title>You Are My Happy</title>
+<title_without_series>You Are My Happy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43203174-you-are-my-happy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67040005</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3400600</id>
+<name>Hoda Kotb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3400600.Hoda_Kotb]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

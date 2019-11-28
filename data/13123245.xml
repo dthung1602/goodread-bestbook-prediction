@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13123245</id>
+  <title>B</title>
+  <isbn><![CDATA[1612182798]]></isbn>
+  <isbn13><![CDATA[9781612182797]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327437821l/13123245._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327437821l/13123245._SX50_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>The Domino Project</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In 2011, Sarah Kay performed "B" at the TED conference in Long Beach, California to standing ovations. Now the video of that performance has been forwarded to mothers and daughters (and fathers and sons) all over the world. Originally written in 2007, "B" is a thank you note, a love letter, a wish, a promise, a confession, and a secret. With beautiful illustrations by Sophia Janowitz, "B" is finally available in this whimsical, magical book.]]></description>
+  <work>
+  <id type="integer">18298894</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">13123245</best_book_id>
+  <reviews_count type="integer">12566</reviews_count>
+  <ratings_sum type="integer">14032</ratings_sum>
+  <ratings_count type="integer">3103</ratings_count>
+  <text_reviews_count type="integer">292</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">11</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>B</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>not a book</media_type>
+  <rating_dist>5:2098|4:651|3:255|2:74|1:25|total:3103</rating_dist>
+  <desc_user_id type="integer">6435657</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.aSP3yvjQGTJM4l3Kc5A_9A</work_uri>
+</work>
+  <average_rating>4.52</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2733]]></ratings_count>
+  <text_reviews_count><![CDATA[247]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13123245-b]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13123245-b]]></link>
+  <authors>
+<author>
+<id>11377</id>
+<name>Sarah Kay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327230533p5/11377.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327230533p2/11377.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11377.Sarah_Kay]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>13713</ratings_count>
+<text_reviews_count>1306</text_reviews_count>
+</author>
+<author>
+<id>5355524</id>
+<name>Sophia Janowitz</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5355524.Sophia_Janowitz]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>12540</ratings_count>
+<text_reviews_count>1133</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13123245-b">B Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1612182798&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13123245-b?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8879"/>
+      <shelf name="poetry" count="639"/>
+      <shelf name="favorites" count="118"/>
+      <shelf name="currently-reading" count="35"/>
+      <shelf name="to-buy" count="23"/>
+      <shelf name="non-fiction" count="20"/>
+      <shelf name="favourites" count="14"/>
+      <shelf name="poems" count="12"/>
+      <shelf name="owned" count="12"/>
+      <shelf name="nonfiction" count="11"/>
+      <shelf name="short-stories" count="11"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="wish-list" count="9"/>
+      <shelf name="read-in-2017" count="7"/>
+      <shelf name="contemporary" count="7"/>
+      <shelf name="library" count="6"/>
+      <shelf name="to-read-poetry" count="6"/>
+      <shelf name="poetry-and-prose" count="6"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="audiobook" count="5"/>
+      <shelf name="read-in-2015" count="5"/>
+      <shelf name="female-authors" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="poetry-to-read" count="5"/>
+      <shelf name="poetry-tbr" count="4"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="re-read" count="4"/>
+      <shelf name="fiction" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="read-in-2018" count="3"/>
+      <shelf name="audiobooks" count="3"/>
+      <shelf name="books-by-women" count="3"/>
+      <shelf name="tbr-poetry" count="3"/>
+      <shelf name="feminist" count="3"/>
+      <shelf name="mother-and-daughter" count="3"/>
+      <shelf name="read-in-2016" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="books-to-buy" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="want" count="3"/>
+      <shelf name="read-2013" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="read-in-2013" count="3"/>
+      <shelf name="poesía" count="3"/>
+      <shelf name="2019-reads" count="2"/>
+      <shelf name="want-to-read-poetry" count="2"/>
+      <shelf name="usa" count="2"/>
+      <shelf name="authors-of-color" count="2"/>
+      <shelf name="female-author" count="2"/>
+      <shelf name="to-read-non-fiction" count="2"/>
+      <shelf name="five-stars" count="2"/>
+      <shelf name="literature" count="2"/>
+      <shelf name="sarah-kay" count="2"/>
+      <shelf name="spoken-poetry" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="unavailable" count="2"/>
+      <shelf name="2015-reading-challenge" count="2"/>
+      <shelf name="beautiful-writing" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="netgalley" count="2"/>
+      <shelf name="read-in-2014" count="2"/>
+      <shelf name="poetry-slam" count="2"/>
+      <shelf name="must-have" count="2"/>
+      <shelf name="must-read" count="2"/>
+      <shelf name="contemporary-poetry" count="2"/>
+      <shelf name="family" count="2"/>
+      <shelf name="2014-reads" count="2"/>
+      <shelf name="favourite" count="2"/>
+      <shelf name="inspirational" count="2"/>
+      <shelf name="books-on-kindle" count="2"/>
+      <shelf name="verse" count="2"/>
+      <shelf name="spoken-word" count="2"/>
+      <shelf name="inspiration" count="2"/>
+      <shelf name="short-stories-and-poetry" count="2"/>
+      <shelf name="5-star" count="2"/>
+      <shelf name="books" count="2"/>
+      <shelf name="picture-books" count="2"/>
+      <shelf name="novels" count="2"/>
+      <shelf name="women" count="1"/>
+      <shelf name="mg-and-ya" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="own-this" count="1"/>
+      <shelf name="possible-reads" count="1"/>
+      <shelf name="published-in-2010s" count="1"/>
+      <shelf name="lets-listen" count="1"/>
+      <shelf name="birthday-guide" count="1"/>
+      <shelf name="foundry" count="1"/>
+      <shelf name="aaa" count="1"/>
+      <shelf name="insight-tbr" count="1"/>
+      <shelf name="books-top-priority" count="1"/>
+      <shelf name="read-library" count="1"/>
+      <shelf name="september-reads" count="1"/>
+      <shelf name="poesy" count="1"/>
+      <shelf name="femmepound-library" count="1"/>
+      <shelf name="all-my-books" count="1"/>
+      <shelf name="2010-14-releases" count="1"/>
+      <shelf name="bookshelves" count="1"/>
+      <shelf name="englisch" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17803058</id>
+<title>As Often As Miracles</title>
+<title_without_series>As Often As Miracles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17803058-as-often-as-miracles]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523032269l/17803058._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523032269l/17803058._SX98_.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>24904745</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7049028</id>
+<name>Clementine von Radics</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7049028.Clementine_von_Radics]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13105527</id>
+<title><![CDATA[I Wrote This For You (I Wrote This For You #4)]]></title>
+<title_without_series>I Wrote This For You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13105527-i-wrote-this-for-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413756174l/13105527._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413756174l/13105527._SX98_.jpg]]></image_url>
+<num_pages>194</num_pages>
+<work>
+<id>18278582</id>
+</work>
+<isbn>1926760689</isbn>
+<isbn13>9781926760681</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>12</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>5349123</id>
+<name>pleasefindthis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5349123.pleasefindthis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41219132</id>
+<title>Love Looks Pretty on You</title>
+<title_without_series>Love Looks Pretty on You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41219132-love-looks-pretty-on-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548799473l/41219132._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548799473l/41219132._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>64422394</id>
+</work>
+<isbn>144949935X</isbn>
+<isbn13>9781449499358</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30754067</id>
+<title><![CDATA[The Tiny Book of Tiny Pleasures]]></title>
+<title_without_series><![CDATA[The Tiny Book of Tiny Pleasures]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30754067-the-tiny-book-of-tiny-pleasures]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476031637l/30754067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476031637l/30754067._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>51302495</id>
+</work>
+<isbn>0761193766</isbn>
+<isbn13>9780761193760</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>3385521</id>
+<name>Irene Smit</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3385521.Irene_Smit]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34467891</id>
+<title><![CDATA[Lady Stuff: Secrets to Being a Woman]]></title>
+<title_without_series><![CDATA[Lady Stuff: Secrets to Being a Woman]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34467891-lady-stuff]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502356149l/34467891._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502356149l/34467891._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>55588137</id>
+</work>
+<isbn>1449486770</isbn>
+<isbn13>9781449486778</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>3116627</id>
+<name>Loryn Brantz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3116627.Loryn_Brantz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46281488</id>
+<title>Salt</title>
+<title_without_series>Salt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46281488-salt]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458908l/46281488._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458908l/46281488._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26323439</id>
+</work>
+<isbn>1492238287</isbn>
+<isbn13>9781492238287</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7145613</id>
+<name>Nayyirah Waheed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7145613.Nayyirah_Waheed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25330489</id>
+<title>Memories</title>
+<title_without_series>Memories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25330489-memories]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459143456l/25330489._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459143456l/25330489._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>45065720</id>
+</work>
+<isbn>1449472397</isbn>
+<isbn13>9781449472399</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43821560</id>
+<title>Poemsia</title>
+<title_without_series>Poemsia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43821560-poemsia]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566317271l/43821560._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566317271l/43821560._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>68193231</id>
+</work>
+<isbn>1524851078</isbn>
+<isbn13>9781524851071</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35785603</id>
+<title>Anthology of Love</title>
+<title_without_series>Anthology of Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35785603-anthology-of-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504937663l/35785603._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504937663l/35785603._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57284338</id>
+</work>
+<isbn>1449493297</isbn>
+<isbn13>9781449493295</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41825540</id>
+<title>Unfollowing You</title>
+<title_without_series>Unfollowing You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41825540-unfollowing-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545468800l/41825540._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545468800l/41825540._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>65280412</id>
+</work>
+<isbn>1449499600</isbn>
+<isbn13>9781449499600</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17261271</id>
+<name>Komal Kapoor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17261271.Komal_Kapoor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24611612</id>
+<title><![CDATA[All the Words Are Yours: Haiku on Love]]></title>
+<title_without_series><![CDATA[All the Words Are Yours: Haiku on Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24611612-all-the-words-are-yours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443657057l/24611612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443657057l/24611612._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>45895501</id>
+</work>
+<isbn>0399176004</isbn>
+<isbn13>9780399176005</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>7075956</id>
+<name>Tyler Knott Gregson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7075956.Tyler_Knott_Gregson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18003300</id>
+<title>Love &amp; Misadventure</title>
+<title_without_series>Love &amp; Misadventure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18003300-love-misadventure]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>25266150</id>
+</work>
+<isbn>0473235501</isbn>
+<isbn13>9780473235505</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44603720</id>
+<title>Swallowtail</title>
+<title_without_series>Swallowtail</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44603720-swallowtail]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565062743l/44603720._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565062743l/44603720._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>69239437</id>
+</work>
+<isbn>1943735638</isbn>
+<isbn13>9781943735631</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15801136</id>
+<name>Brenna Twohy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15801136.Brenna_Twohy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22151696</id>
+<title>Lullabies</title>
+<title_without_series>Lullabies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22151696-lullabies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SX98_.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>41496977</id>
+</work>
+<isbn>1449461077</isbn>
+<isbn13>9781449461072</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12193298</id>
+<title>The Madness Vase</title>
+<title_without_series>The Madness Vase</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12193298-the-madness-vase]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335167331l/12193298._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335167331l/12193298._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>17165659</id>
+</work>
+<isbn>193590437X</isbn>
+<isbn13>9781935904373</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>457281</id>
+<name>Andrea Gibson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457281.Andrea_Gibson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19230408</id>
+<title><![CDATA[I Wrote This For You: Just the Words (I Wrote This For You #2)]]></title>
+<title_without_series><![CDATA[I Wrote This For You: Just the Words]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19230408-i-wrote-this-for-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386325273l/19230408._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386325273l/19230408._SX98_.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>44430917</id>
+</work>
+<isbn>1771680040</isbn>
+<isbn13>9781771680042</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5349123</id>
+<name>pleasefindthis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5349123.pleasefindthis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24471629</id>
+<title>Our Numbered Days</title>
+<title_without_series>Our Numbered Days</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24471629-our-numbered-days]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422384159l/24471629._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422384159l/24471629._SX98_.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>44064660</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7578991</id>
+<name>Neil Hilborn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7578991.Neil_Hilborn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43819413</id>
+<title>Aphrodite Made Me Do It</title>
+<title_without_series>Aphrodite Made Me Do It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43819413-aphrodite-made-me-do-it]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>68190011</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8382753</id>
+<name>Trista Mateer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8382753.Trista_Mateer]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

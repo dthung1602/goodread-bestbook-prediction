@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15811496</id>
+  <title><![CDATA[Cooked: A Natural History of Transformation]]></title>
+  <isbn><![CDATA[1594204217]]></isbn>
+  <isbn13><![CDATA[9781594204210]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350939053l/15811496._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350939053l/15811496._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>23</publication_day>
+  <publisher>The Penguin Press HC</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In Cooked, Michael Pollan explores the previously uncharted territory of his own kitchen. Here, he discovers the enduring power of the four classical elements - fire, water, air, and earth - to transform the stuff of nature into delicious things to eat and drink. Apprenticing himself to a succession of culinary masters, Pollan learns how to grill with fire, cook with liquid, bake bread, and ferment everything from cheese to beer. In the course of his journey, he discovers that the cook occupies a special place in the world, standing squarely between nature and culture. Both realms are transformed by cooking, and so, in the process, is the cook.<br /><br />Each section of Cooked tracks Pollan's effort to master a single classic recipe using one of the four elements. A North Carolina barbecue pit master tutors him in the primal magic of fire; a Chez Panisse-trained cook schools him in the art of braising; a celebrated baker teaches him how air transforms grain and water into a fragrant loaf of bread; and finally, several mad-genius "fermentos" (a tribe that includes brewers, cheese makers, and all kinds of picklers) reveal how fungi and bacteria can perform the most amazing alchemies of all. The listener learns alongside Pollan, but the lessons move beyond the practical to become an investigation of how cooking involves us in a web of social and ecological relationships: with plants and animals, the soil, farmers, our history and culture, and, of course, the people our cooking nourishes and delights. Cooking, above all, connects us.<br /><br />The effects of not cooking are similarly far reaching. Relying upon corporations to process our food means we consume huge quantities of fat, sugar, and salt; disrupt an essential link to the natural world; and weaken our relationships with family and friends. In fact, Cooked argues, taking back control of cooking may be the single most important step anyone can take to help make the American food system healthier and more sustainable. Reclaiming cooking as an act of enjoyment and self-reliance, learning to perform the magic of these everyday transformations, opens the door to a more nourishing life.]]></description>
+  <work>
+  <id type="integer">21536760</id>
+  <books_count type="integer">34</books_count>
+  <best_book_id type="integer">15811496</best_book_id>
+  <reviews_count type="integer">55788</reviews_count>
+  <ratings_sum type="integer">81204</ratings_sum>
+  <ratings_count type="integer">20178</ratings_count>
+  <text_reviews_count type="integer">1951</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">23</original_publication_day>
+  <original_title>Cooked: A Natural History of Transformation </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7316|4:7840|3:3668|2:906|1:448|total:20178</rating_dist>
+  <desc_user_id type="integer">4314512</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.CSB47vs8aFV2Psulnoyctg</work_uri>
+</work>
+  <average_rating>4.02</average_rating>
+  <num_pages><![CDATA[468]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[18389]]></ratings_count>
+  <text_reviews_count><![CDATA[1783]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15811496-cooked]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15811496-cooked]]></link>
+  <authors>
+<author>
+<id>2121</id>
+<name>Michael Pollan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366396171p5/2121.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366396171p2/2121.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2121.Michael_Pollan]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>415335</ratings_count>
+<text_reviews_count>34054</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15811496-cooked">Cooked Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594204217&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15811496-cooked?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="31116"/>
+      <shelf name="currently-reading" count="1884"/>
+      <shelf name="food" count="848"/>
+      <shelf name="non-fiction" count="809"/>
+      <shelf name="nonfiction" count="404"/>
+      <shelf name="cooking" count="175"/>
+      <shelf name="science" count="152"/>
+      <shelf name="health" count="141"/>
+      <shelf name="history" count="129"/>
+      <shelf name="audiobook" count="89"/>
+      <shelf name="favorites" count="84"/>
+      <shelf name="audiobooks" count="73"/>
+      <shelf name="cookbooks" count="71"/>
+      <shelf name="nutrition" count="61"/>
+      <shelf name="owned" count="53"/>
+      <shelf name="audio" count="50"/>
+      <shelf name="foodie" count="48"/>
+      <shelf name="abandoned" count="42"/>
+      <shelf name="library" count="41"/>
+      <shelf name="food-writing" count="40"/>
+      <shelf name="food-and-drink" count="31"/>
+      <shelf name="food-cooking" count="31"/>
+      <shelf name="book-club" count="30"/>
+      <shelf name="to-buy" count="29"/>
+      <shelf name="kindle" count="26"/>
+      <shelf name="did-not-finish" count="25"/>
+      <shelf name="food-books" count="24"/>
+      <shelf name="didn-t-finish" count="23"/>
+      <shelf name="culinary" count="23"/>
+      <shelf name="audio-books" count="22"/>
+      <shelf name="read-2013" count="22"/>
+      <shelf name="books-i-own" count="22"/>
+      <shelf name="food-drink" count="21"/>
+      <shelf name="to-read-non-fiction" count="21"/>
+      <shelf name="to-read-nonfiction" count="21"/>
+      <shelf name="unfinished" count="20"/>
+      <shelf name="ebook" count="20"/>
+      <shelf name="adult" count="20"/>
+      <shelf name="audible" count="19"/>
+      <shelf name="food-nutrition" count="18"/>
+      <shelf name="food-and-cooking" count="18"/>
+      <shelf name="read-in-2013" count="18"/>
+      <shelf name="cooking-food" count="18"/>
+      <shelf name="audio-book" count="17"/>
+      <shelf name="food-related" count="15"/>
+      <shelf name="gave-up-on" count="14"/>
+      <shelf name="read-in-2014" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="wish-list" count="14"/>
+      <shelf name="to-read-food" count="13"/>
+      <shelf name="memoir" count="13"/>
+      <shelf name="nonfic" count="12"/>
+      <shelf name="food-health" count="12"/>
+      <shelf name="anthropology" count="12"/>
+      <shelf name="non-fiction-to-read" count="12"/>
+      <shelf name="listened-to" count="11"/>
+      <shelf name="biology" count="11"/>
+      <shelf name="culture" count="11"/>
+      <shelf name="michael-pollan" count="10"/>
+      <shelf name="cookbook" count="10"/>
+      <shelf name="couldn-t-finish" count="10"/>
+      <shelf name="adult-nonfiction" count="10"/>
+      <shelf name="non-fic" count="10"/>
+      <shelf name="environment" count="10"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="food-culture" count="9"/>
+      <shelf name="philosophy" count="9"/>
+      <shelf name="essays" count="9"/>
+      <shelf name="food-history" count="9"/>
+      <shelf name="dnf" count="8"/>
+      <shelf name="nonfiction-to-read" count="8"/>
+      <shelf name="default" count="8"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="never-finished" count="8"/>
+      <shelf name="borrowed" count="8"/>
+      <shelf name="general-non-fiction" count="8"/>
+      <shelf name="cookery" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="cookbooks-food" count="8"/>
+      <shelf name="sustainability" count="8"/>
+      <shelf name="books-about-food" count="8"/>
+      <shelf name="health-nutrition" count="8"/>
+      <shelf name="adult-non-fiction" count="8"/>
+      <shelf name="food-and-nutrition" count="8"/>
+      <shelf name="on-hold" count="7"/>
+      <shelf name="health-fitness" count="7"/>
+      <shelf name="wellness" count="7"/>
+      <shelf name="food-politics" count="7"/>
+      <shelf name="contemporary" count="7"/>
+      <shelf name="health-wellness" count="7"/>
+      <shelf name="recommended" count="7"/>
+      <shelf name="overdrive" count="6"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="lifestyle" count="6"/>
+      <shelf name="gastronomy" count="6"/>
+      <shelf name="food-lit" count="6"/>
+      <shelf name="nutrition-health" count="6"/>
+      <shelf name="gave-up" count="6"/>
+      <shelf name="self-help" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>18667790</id>
+<title><![CDATA[The Third Plate: Field Notes on the Future of Food]]></title>
+<title_without_series><![CDATA[The Third Plate: Field Notes on the Future of Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18667790-the-third-plate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394997914l/18667790._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394997914l/18667790._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>26493453</id>
+</work>
+<isbn>1594204071</isbn>
+<isbn13>9781594204074</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>491170</id>
+<name>Dan Barber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/491170.Dan_Barber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30753841</id>
+<title><![CDATA[Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking]]></title>
+<title_without_series><![CDATA[Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460859l/30753841._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460859l/30753841._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>51302253</id>
+</work>
+<isbn>1476753830</isbn>
+<isbn13>9781476753836</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>15401886</id>
+<name>Samin Nosrat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15401886.Samin_Nosrat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40725379</id>
+<title><![CDATA[Animal, Vegetable, Miracle: A Year of Food Life]]></title>
+<title_without_series><![CDATA[Animal, Vegetable, Miracle: A Year of Food Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40725379-animal-vegetable-miracle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530799548l/40725379._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530799548l/40725379._SX98_.jpg]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>1582285</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3541</id>
+<name>Barbara Kingsolver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3541.Barbara_Kingsolver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11811332</id>
+<title><![CDATA[Shucked: Life on a New England Oyster Farm]]></title>
+<title_without_series><![CDATA[Shucked: Life on a New England Oyster Farm]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11811332-shucked]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>16764989</id>
+</work>
+<isbn>0312681917</isbn>
+<isbn13>9780312681913</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4975238</id>
+<name>Erin Byers Murray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4975238.Erin_Byers_Murray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13547854</id>
+<title><![CDATA[The American Way of Eating: Undercover at Walmart, Applebee's, Farm Fields and the Dinner Table]]></title>
+<title_without_series><![CDATA[The American Way of Eating: Undercover at Walmart, Applebee's, Farm Fields and the Dinner Table]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13547854-the-american-way-of-eating]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344662805l/13547854._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344662805l/13547854._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>18237827</id>
+</work>
+<isbn>1439171963</isbn>
+<isbn13>9781439171967</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>5336697</id>
+<name>Tracie McMillan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5336697.Tracie_McMillan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16441733</id>
+<title>Restoration Agriculture</title>
+<title_without_series>Restoration Agriculture</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16441733-restoration-agriculture]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355975847l/16441733._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355975847l/16441733._SX98_.jpg]]></image_url>
+<num_pages>313</num_pages>
+<work>
+<id>22630728</id>
+</work>
+<isbn>1601730357</isbn>
+<isbn13>9781601730350</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>17228811</id>
+<name>Mark  Shepard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17228811.Mark_Shepard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13598307</id>
+<title><![CDATA[The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World]]></title>
+<title_without_series><![CDATA[The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13598307-the-art-of-fermentation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334185796l/13598307._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334185796l/13598307._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>19188832</id>
+</work>
+<isbn>160358286X</isbn>
+<isbn13>9781603582865</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>63537</id>
+<name>Sandor Ellix Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63537.Sandor_Ellix_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>109800</id>
+<title><![CDATA[Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods]]></title>
+<title_without_series><![CDATA[Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109800.Wild_Fermentation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415589337l/109800._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415589337l/109800._SX98_.jpg]]></image_url>
+<num_pages>187</num_pages>
+<work>
+<id>105822</id>
+</work>
+<isbn>1931498237</isbn>
+<isbn13>9781931498234</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>63537</id>
+<name>Sandor Ellix Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63537.Sandor_Ellix_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19132</id>
+<title><![CDATA[Food Politics: How the Food Industry Influences Nutrition and Health]]></title>
+<title_without_series><![CDATA[Food Politics: How the Food Industry Influences Nutrition and Health]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19132.Food_Politics]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>472</num_pages>
+<work>
+<id>20429</id>
+</work>
+<isbn>0520240677</isbn>
+<isbn13>9780520240674</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>11506</id>
+<name>Marion Nestle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11506.Marion_Nestle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>146191</id>
+<title><![CDATA[The Unsettling of America: Culture and Agriculture]]></title>
+<title_without_series><![CDATA[The Unsettling of America: Culture and Agriculture]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/146191.The_Unsettling_of_America]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363657372l/146191._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363657372l/146191._SX98_.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>1984458</id>
+</work>
+<isbn>0871568772</isbn>
+<isbn13>9780871568779</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8567</id>
+<name>Wendell Berry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8567.Wendell_Berry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22889816</id>
+<title><![CDATA[A Bone to Pick: The good and bad news about food, with wisdom and advice on diets, food safety, GMOs, farming, and more]]></title>
+<title_without_series><![CDATA[A Bone to Pick: The good and bad news about food, with wisdom and advice on diets, food safety, GMOs, farming, and more]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22889816-a-bone-to-pick]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430256190l/22889816._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430256190l/22889816._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>42459967</id>
+</work>
+<isbn>0804186545</isbn>
+<isbn13>9780804186544</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1785</id>
+<name>Mark Bittman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1785.Mark_Bittman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>139220</id>
+<title><![CDATA[Heat: An Amateur's Adventures as Kitchen Slave, Line Cook, Pasta-Maker, and Apprentice to a Dante-Quoting Butcher in Tuscany]]></title>
+<title_without_series><![CDATA[Heat: An Amateur's Adventures as Kitchen Slave, Line Cook, Pasta-Maker, and Apprentice to a Dante-Quoting Butcher in Tuscany]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/139220.Heat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320554917l/139220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320554917l/139220._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>996750</id>
+</work>
+<isbn>1400041201</isbn>
+<isbn13>9781400041206</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2606</id>
+<name>Bill Buford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2606.Bill_Buford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13613646</id>
+<title><![CDATA[A History of Food in 100 Recipes]]></title>
+<title_without_series><![CDATA[A History of Food in 100 Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13613646-a-history-of-food-in-100-recipes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335182244l/13613646._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335182244l/13613646._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>19213660</id>
+</work>
+<isbn>0007411995</isbn>
+<isbn13>9780007411993</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5822032</id>
+<name>William Sitwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5822032.William_Sitwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22180823</id>
+<title><![CDATA[Defending Beef: The Case for Sustainable Meat Production]]></title>
+<title_without_series><![CDATA[Defending Beef: The Case for Sustainable Meat Production]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22180823-defending-beef]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402457499l/22180823._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402457499l/22180823._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>41528853</id>
+</work>
+<isbn>1603585362</isbn>
+<isbn13>9781603585361</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>2104781</id>
+<name>Nicolette Hahn Niman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2104781.Nicolette_Hahn_Niman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15797397</id>
+<title><![CDATA[Salt Sugar Fat: How the Food Giants Hooked Us]]></title>
+<title_without_series><![CDATA[Salt Sugar Fat: How the Food Giants Hooked Us]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15797397-salt-sugar-fat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361919312l/15797397._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361919312l/15797397._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>21520265</id>
+</work>
+<isbn>1400069807</isbn>
+<isbn13>9781400069804</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>35345</id>
+<name>Michael Moss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35345.Michael_Moss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11521956</id>
+<title><![CDATA[Folks, This Ain't Normal: A Farmer's Advice for Happier Hens, Healthier People, and a Better World]]></title>
+<title_without_series><![CDATA[Folks, This Ain't Normal: A Farmer's Advice for Happier Hens, Healthier People, and a Better World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11521956-folks-this-ain-t-normal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311272277l/11521956._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311272277l/11521956._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>16459074</id>
+</work>
+<isbn>0892968192</isbn>
+<isbn13>9780892968190</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2623</id>
+<name>Joel Salatin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2623.Joel_Salatin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33313</id>
+<title><![CDATA[Kitchen Confidential: Adventures in the Culinary Underbelly]]></title>
+<title_without_series><![CDATA[Kitchen Confidential: Adventures in the Culinary Underbelly]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33313.Kitchen_Confidential]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>4219</id>
+</work>
+<isbn>0060899220</isbn>
+<isbn13>9780060899226</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>1124</id>
+<name>Anthony Bourdain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1124.Anthony_Bourdain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>290864</id>
+<title>The Principal Upanishads</title>
+<title_without_series>The Principal Upanishads</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/290864.The_Principal_Upanishads]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492611547l/290864._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492611547l/290864._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>282196</id>
+</work>
+<isbn>8172231245</isbn>
+<isbn13>9788172231248</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>20178</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72357</id>
+<name>Sarvepalli Radhakrishnan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72357.Sarvepalli_Radhakrishnan]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20663702</id>
+  <title><![CDATA[Smoke Gets in Your Eyes: And Other Lessons from the Crematory]]></title>
+  <isbn><![CDATA[0393240231]]></isbn>
+  <isbn13><![CDATA[9780393240238]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416181987l/20663702._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416181987l/20663702._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>W. W. Norton  Company</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<strong>A young mortician goes behind the scenes, unafraid of the gruesome (and fascinating) details of her curious profession.</strong><br /><br />Most people want to avoid thinking about death, but Caitlin Doughty—a twenty-something with a degree in medieval history and a flair for the macabre—took a job at a crematory, turning morbid curiosity into her life’s work. Thrown into a profession of gallows humor and vivid characters (both living and very dead), Doughty learned to navigate the secretive culture of those who care for the deceased.<br /><br /><i>Smoke Gets in Your Eyes</i> tells an unusual coming-of-age story full of bizarre encounters and unforgettable scenes. Caring for dead bodies of every color, shape, and affliction, Doughty soon becomes an intrepid explorer in the world of the dead. She describes how she swept ashes from the machines (and sometimes onto her clothes) and reveals the strange history of cremation and undertaking, marveling at bizarre and wonderful funeral practices from different cultures.<br /><br />Her eye-opening, candid, and often hilarious story is like going on a journey with your bravest friend to the cemetery at midnight. She demystifies death, leading us behind the black curtain of her unique profession. And she answers questions you didn’t know you had: Can you catch a disease from a corpse? How many dead bodies can you fit in a Dodge van? What exactly does a flaming skull look like?<br /><br />Honest and heartfelt, self-deprecating and ironic, Doughty's engaging style makes this otherwise taboo topic both approachable and engrossing. Now a licensed mortician with an alternative funeral practice, Doughty argues that our fear of dying warps our culture and society, and she calls for better ways of dealing with death (and our dead).]]></description>
+  <work>
+  <id type="integer">39962326</id>
+  <books_count type="integer">39</books_count>
+  <best_book_id type="integer">25189315</best_book_id>
+  <reviews_count type="integer">113729</reviews_count>
+  <ratings_sum type="integer">171039</ratings_sum>
+  <ratings_count type="integer">40974</ratings_count>
+  <text_reviews_count type="integer">5368</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>Smoke Gets in Your Eyes: And Other Lessons from the Crematory</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:17695|4:15395|3:5889|2:1322|1:673|total:40974</rating_dist>
+  <desc_user_id type="integer">70592244</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.KBe2I0-axMnZF3KRBIkNUg</work_uri>
+</work>
+  <average_rating>4.17</average_rating>
+  <num_pages><![CDATA[254]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11946]]></ratings_count>
+  <text_reviews_count><![CDATA[1681]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20663702-smoke-gets-in-your-eyes]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20663702-smoke-gets-in-your-eyes]]></link>
+  <authors>
+<author>
+<id>7802044</id>
+<name>Caitlin Doughty</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489075566p5/7802044.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489075566p2/7802044.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7802044.Caitlin_Doughty]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>60329</ratings_count>
+<text_reviews_count>8167</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20663702-smoke-gets-in-your-eyes">Smoke Gets in Your Eyes Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0393240231&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20663702-smoke-gets-in-your-eyes?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="63455"/>
+      <shelf name="currently-reading" count="3266"/>
+      <shelf name="non-fiction" count="2408"/>
+      <shelf name="nonfiction" count="1251"/>
+      <shelf name="memoir" count="829"/>
+      <shelf name="favorites" count="690"/>
+      <shelf name="death" count="345"/>
+      <shelf name="science" count="292"/>
+      <shelf name="biography" count="224"/>
+      <shelf name="memoirs" count="210"/>
+      <shelf name="audiobook" count="159"/>
+      <shelf name="book-club" count="155"/>
+      <shelf name="biography-memoir" count="134"/>
+      <shelf name="owned" count="128"/>
+      <shelf name="books-i-own" count="126"/>
+      <shelf name="audiobooks" count="119"/>
+      <shelf name="library" count="119"/>
+      <shelf name="kindle" count="99"/>
+      <shelf name="humor" count="97"/>
+      <shelf name="to-buy" count="82"/>
+      <shelf name="adult" count="80"/>
+      <shelf name="audio" count="78"/>
+      <shelf name="autobiography" count="77"/>
+      <shelf name="favourites" count="63"/>
+      <shelf name="non-fic" count="63"/>
+      <shelf name="read-in-2018" count="62"/>
+      <shelf name="memoir-biography" count="59"/>
+      <shelf name="medical" count="55"/>
+      <shelf name="death-and-dying" count="54"/>
+      <shelf name="read-in-2017" count="53"/>
+      <shelf name="ebook" count="53"/>
+      <shelf name="to-read-non-fiction" count="53"/>
+      <shelf name="read-in-2015" count="52"/>
+      <shelf name="history" count="52"/>
+      <shelf name="audible" count="52"/>
+      <shelf name="wish-list" count="52"/>
+      <shelf name="read-in-2019" count="50"/>
+      <shelf name="read-in-2016" count="46"/>
+      <shelf name="nonfic" count="44"/>
+      <shelf name="bio-memoir" count="43"/>
+      <shelf name="to-read-nonfiction" count="40"/>
+      <shelf name="audio-books" count="38"/>
+      <shelf name="read-2017" count="37"/>
+      <shelf name="library-books" count="36"/>
+      <shelf name="biographies" count="36"/>
+      <shelf name="read-2018" count="33"/>
+      <shelf name="female-author" count="33"/>
+      <shelf name="non-fiction-to-read" count="33"/>
+      <shelf name="female-authors" count="32"/>
+      <shelf name="death-dying" count="32"/>
+      <shelf name="read-in-2014" count="31"/>
+      <shelf name="read-2015" count="30"/>
+      <shelf name="philosophy" count="29"/>
+      <shelf name="ebooks" count="29"/>
+      <shelf name="essays" count="29"/>
+      <shelf name="sociology" count="28"/>
+      <shelf name="medicine" count="28"/>
+      <shelf name="owned-books" count="27"/>
+      <shelf name="contemporary" count="27"/>
+      <shelf name="2018-reads" count="26"/>
+      <shelf name="read-2016" count="26"/>
+      <shelf name="memoir-bio" count="26"/>
+      <shelf name="abandoned" count="25"/>
+      <shelf name="bookclub" count="25"/>
+      <shelf name="read-2019" count="24"/>
+      <shelf name="funny" count="24"/>
+      <shelf name="adult-non-fiction" count="24"/>
+      <shelf name="dnf" count="23"/>
+      <shelf name="autobiography-memoir" count="23"/>
+      <shelf name="library-book" count="22"/>
+      <shelf name="did-not-finish" count="22"/>
+      <shelf name="audio-book" count="22"/>
+      <shelf name="women-authors" count="22"/>
+      <shelf name="anthropology" count="21"/>
+      <shelf name="biography-and-memoir" count="21"/>
+      <shelf name="adult-nonfiction" count="21"/>
+      <shelf name="psychology" count="20"/>
+      <shelf name="memoir-autobiography" count="20"/>
+      <shelf name="nf" count="20"/>
+      <shelf name="recommended" count="20"/>
+      <shelf name="maybe" count="20"/>
+      <shelf name="2010s" count="19"/>
+      <shelf name="culture" count="19"/>
+      <shelf name="women" count="19"/>
+      <shelf name="2019-reads" count="18"/>
+      <shelf name="2018-books" count="18"/>
+      <shelf name="tbr" count="18"/>
+      <shelf name="health" count="18"/>
+      <shelf name="fiction" count="18"/>
+      <shelf name="memoirs-biographies" count="18"/>
+      <shelf name="memoir-and-biography" count="17"/>
+      <shelf name="biographies-memoirs" count="17"/>
+      <shelf name="american" count="17"/>
+      <shelf name="borrowed" count="17"/>
+      <shelf name="need-to-buy" count="17"/>
+      <shelf name="reviewed" count="17"/>
+      <shelf name="2018-read" count="16"/>
+      <shelf name="tenho" count="16"/>
+      <shelf name="4-stars" count="16"/>
+      <shelf name="humour" count="16"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>18775327</id>
+<title><![CDATA[Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner]]></title>
+<title_without_series><![CDATA[Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18775327-working-stiff]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408319717l/18775327._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408319717l/18775327._SX98_.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>26680460</id>
+</work>
+<isbn>1476727252</isbn>
+<isbn13>9781476727257</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>7382113</id>
+<name>Judy Melinek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7382113.Judy_Melinek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32145</id>
+<title><![CDATA[Stiff: The Curious Lives of Human Cadavers]]></title>
+<title_without_series><![CDATA[Stiff: The Curious Lives of Human Cadavers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32145.Stiff]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347656489l/32145._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347656489l/32145._SX98_.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>1188203</id>
+</work>
+<isbn>0393324826</isbn>
+<isbn13>9780393324822</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7956</id>
+<name>Mary Roach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7956.Mary_Roach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33931044</id>
+<title><![CDATA[The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine]]></title>
+<title_without_series><![CDATA[The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33931044-the-butchering-art]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487961130l/33931044._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487961130l/33931044._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>54900132</id>
+</work>
+<isbn>0374117292</isbn>
+<isbn13>9780374117290</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>16333030</id>
+<name>Lindsey Fitzharris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16333030.Lindsey_Fitzharris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41068144</id>
+<title><![CDATA[Stay Sexy & Don’t Get Murdered: The Definitive How-To Guide]]></title>
+<title_without_series><![CDATA[Stay Sexy & Don’t Get Murdered: The Definitive How-To Guide]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41068144-stay-sexy-don-t-get-murdered]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548032116l/41068144._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548032116l/41068144._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>64147082</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13438660</id>
+<name>Karen Kilgariff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13438660.Karen_Kilgariff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068432</id>
+<title><![CDATA[I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer]]></title>
+<title_without_series><![CDATA[I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>56363890</id>
+</work>
+<isbn>0062319809</isbn>
+<isbn13>9780062319807</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16819959</id>
+<name>Michelle McNamara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16819959.Michelle_McNamara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28815491</id>
+<title><![CDATA[Ghostland: An American History in Haunted Places]]></title>
+<title_without_series><![CDATA[Ghostland: An American History in Haunted Places]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28815491-ghostland]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472978450l/28815491._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472978450l/28815491._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>49031573</id>
+</work>
+<isbn>1101980192</isbn>
+<isbn13>9781101980194</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>2943194</id>
+<name>Colin Dickey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2943194.Colin_Dickey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15801685</id>
+<title><![CDATA[Rest in Pieces: The Curious Fates of Famous Corpses]]></title>
+<title_without_series><![CDATA[Rest in Pieces: The Curious Fates of Famous Corpses]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15801685-rest-in-pieces]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358832479l/15801685._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358832479l/15801685._SY160_.jpg]]></image_url>
+<num_pages>329</num_pages>
+<work>
+<id>21525071</id>
+</work>
+<isbn>1451654987</isbn>
+<isbn13>9781451654981</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6459614</id>
+<name>Bess Lovejoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6459614.Bess_Lovejoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33556709</id>
+<title><![CDATA[Past Mortems: Life and Death Behind Mortuary Doors]]></title>
+<title_without_series><![CDATA[Past Mortems: Life and Death Behind Mortuary Doors]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33556709-past-mortems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>54334889</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6538160</id>
+<name>Carla Valentine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6538160.Carla_Valentine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14990</id>
+<title><![CDATA[Spook: Science Tackles the Afterlife]]></title>
+<title_without_series><![CDATA[Spook: Science Tackles the Afterlife]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14990.Spook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>311</num_pages>
+<work>
+<id>2398507</id>
+</work>
+<isbn>0393329127</isbn>
+<isbn13>9780393329124</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7956</id>
+<name>Mary Roach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7956.Mary_Roach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33991757</id>
+<title><![CDATA[Confessions of a Funeral Director: How the Business of Death Saved My Life]]></title>
+<title_without_series><![CDATA[Confessions of a Funeral Director: How the Business of Death Saved My Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33991757-confessions-of-a-funeral-director]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494960804l/33991757._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494960804l/33991757._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>54987741</id>
+</work>
+<isbn>0062465244</isbn>
+<isbn13>9780062465245</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>14689761</id>
+<name>Caleb Wilde</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14689761.Caleb_Wilde]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27833843</id>
+<title>Unnatural Causes</title>
+<title_without_series>Unnatural Causes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27833843-unnatural-causes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534293786l/27833843._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534293786l/27833843._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>47815784</id>
+</work>
+<isbn>0718182715</isbn>
+<isbn13>9780718182717</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>14676444</id>
+<name>Richard  Shepherd</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14676444.Richard_Shepherd]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8027018</id>
+<title><![CDATA[Down Among the Dead Men: A Year in the Life of a Mortuary Technician]]></title>
+<title_without_series><![CDATA[Down Among the Dead Men: A Year in the Life of a Mortuary Technician]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8027018-down-among-the-dead-men]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753729l/8027018._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753729l/8027018._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>12618707</id>
+</work>
+<isbn>1593762984</isbn>
+<isbn13>9781593762988</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>359823</id>
+<name>Michelle Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/359823.Michelle_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35212990</id>
+<title><![CDATA[All That Remains: A Life in Death]]></title>
+<title_without_series><![CDATA[All That Remains: A Life in Death]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35212990-all-that-remains]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518777664l/35212990._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518777664l/35212990._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>56552200</id>
+</work>
+<isbn>0857524925</isbn>
+<isbn13>9780857524928</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>216344</id>
+<name>Sue Black</name>
+<link><![CDATA[https://www.goodreads.com/author/show/216344.Sue_Black]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38819868</id>
+<title>My Sister, the Serial Killer</title>
+<title_without_series>My Sister, the Serial Killer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523366732l/38819868._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523366732l/38819868._SX98_.jpg]]></image_url>
+<num_pages>226</num_pages>
+<work>
+<id>60394238</id>
+</work>
+<isbn>0385544235</isbn>
+<isbn13>9780385544238</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>14713014</id>
+<name>Oyinkan Braithwaite</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14713014.Oyinkan_Braithwaite]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>372809</id>
+<title><![CDATA[The American Way of Death Revisited]]></title>
+<title_without_series><![CDATA[The American Way of Death Revisited]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/372809.The_American_Way_of_Death_Revisited]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403184856l/372809._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403184856l/372809._SX98_.jpg]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>362730</id>
+</work>
+<isbn>0679771867</isbn>
+<isbn13>9780679771869</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>24401</id>
+<name>Jessica Mitford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24401.Jessica_Mitford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34964868</id>
+<title><![CDATA[The Trauma Cleaner: One Woman's Extraordinary Life in the Business of Death, Decay, and Disaster]]></title>
+<title_without_series><![CDATA[The Trauma Cleaner: One Woman's Extraordinary Life in the Business of Death, Decay, and Disaster]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34964868-the-trauma-cleaner]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497966466l/34964868._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497966466l/34964868._SX98_.jpg]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>56239866</id>
+</work>
+<isbn>1250101204</isbn>
+<isbn13>9781250101204</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7811034</id>
+<name>Sarah Krasnostein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7811034.Sarah_Krasnostein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20665578</id>
+<title><![CDATA[Severed: A History of Heads Lost and Heads Found]]></title>
+<title_without_series><![CDATA[Severed: A History of Heads Lost and Heads Found]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20665578-severed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408931340l/20665578._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408931340l/20665578._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>39963948</id>
+</work>
+<isbn>0871404540</isbn>
+<isbn13>9780871404541</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>3100746</id>
+<name>Frances Larson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3100746.Frances_Larson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5981308</id>
+<title><![CDATA[Bonk: The Curious Coupling of Science and Sex]]></title>
+<title_without_series><![CDATA[Bonk: The Curious Coupling of Science and Sex]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5981308-bonk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335719323l/5981308._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335719323l/5981308._SX98_.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>2398516</id>
+</work>
+<isbn>0393334791</isbn>
+<isbn13>9780393334791</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>40974</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7956</id>
+<name>Mary Roach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7956.Mary_Roach]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

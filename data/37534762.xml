@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>37534762</id>
+  <title>Robin</title>
+  <isbn><![CDATA[1627794247]]></isbn>
+  <isbn13><![CDATA[9781627794244]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514738276l/37534762._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514738276l/37534762._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Henry Holt and Co.</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>From </b><b>
+  <i>New York Times</i>
+</b><b> culture reporter Dave Itzkoff, the definitive biography of Robin Williams – a compelling portrait of one of America’s most beloved and misunderstood entertainers.</b><br /><b></b><br /><b></b>From his rapid-fire stand-up comedy riffs to his breakout role in <i>Mork &amp; Mindy</i> and his Academy Award-winning performance in <i>Good Will Hunting</i>, Robin Williams was a singularly innovative and beloved entertainer. He often came across as a man possessed, holding forth on culture and politics while mixing in personal revelations – all with mercurial, tongue-twisting intensity as he inhabited and shed one character after another with lightning speed.<br /><br />But as Dave Itzkoff shows in this revelatory biography, Williams’s comic brilliance masked a deep well of conflicting emotions and self-doubt, which he drew upon in his comedy and in celebrated films like <i>Dead Poets Society</i>; <i>Good Morning, Vietnam</i>; <i>The Fisher King</i>; <i>Aladdin</i>; and <i>Mrs. Doubtfire</i>, where he showcased his limitless gift for improvisation to bring to life a wide range of characters. And in <i>Good Will Hunting </i>he gave an intense and controlled performance that revealed the true range of his talent.<br /><br />Itzkoff also shows how Williams struggled mightily with addiction and depression – topics he discussed openly while performing and during interviews – and with a debilitating condition at the end of his life that affected him in ways his fans never knew. Drawing on more than a hundred original interviews with family, friends, and colleagues, as well as extensive archival research, <i>Robin</i> is a fresh and original look at a man whose work touched so many lives.]]></description>
+  <work>
+  <id type="integer">58364536</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">36609155</best_book_id>
+  <reviews_count type="integer">39680</reviews_count>
+  <ratings_sum type="integer">32369</ratings_sum>
+  <ratings_count type="integer">7753</ratings_count>
+  <text_reviews_count type="integer">1276</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>Robin</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2951|4:3453|3:1136|2:181|1:32|total:7753</rating_dist>
+  <desc_user_id type="integer">4540522</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.X0vgJFe36p9mtDFfuGSaug</work_uri>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[544]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[896]]></ratings_count>
+  <text_reviews_count><![CDATA[172]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/37534762-robin]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/37534762-robin]]></link>
+  <authors>
+<author>
+<id>422289</id>
+<name>Dave Itzkoff</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/422289.Dave_Itzkoff]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>8584</ratings_count>
+<text_reviews_count>1411</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/37534762-robin">Robin Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1627794247&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/37534762-robin?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="27188"/>
+      <shelf name="currently-reading" count="2963"/>
+      <shelf name="biography" count="394"/>
+      <shelf name="non-fiction" count="322"/>
+      <shelf name="nonfiction" count="156"/>
+      <shelf name="audiobook" count="72"/>
+      <shelf name="audiobooks" count="64"/>
+      <shelf name="biographies" count="61"/>
+      <shelf name="audio" count="54"/>
+      <shelf name="biography-memoir" count="51"/>
+      <shelf name="favorites" count="39"/>
+      <shelf name="library" count="37"/>
+      <shelf name="kindle" count="32"/>
+      <shelf name="owned" count="29"/>
+      <shelf name="read-in-2019" count="28"/>
+      <shelf name="audio-books" count="27"/>
+      <shelf name="memoir" count="26"/>
+      <shelf name="humor" count="26"/>
+      <shelf name="read-in-2018" count="24"/>
+      <shelf name="memoir-biography" count="23"/>
+      <shelf name="bio" count="21"/>
+      <shelf name="comedy" count="19"/>
+      <shelf name="books-i-own" count="18"/>
+      <shelf name="audible" count="17"/>
+      <shelf name="memoirs" count="17"/>
+      <shelf name="mental-health" count="17"/>
+      <shelf name="biographies-memoirs" count="16"/>
+      <shelf name="ebook" count="15"/>
+      <shelf name="2018-books" count="14"/>
+      <shelf name="2018-reads" count="14"/>
+      <shelf name="netgalley" count="14"/>
+      <shelf name="audio-book" count="13"/>
+      <shelf name="hollywood" count="13"/>
+      <shelf name="did-not-finish" count="13"/>
+      <shelf name="adult" count="12"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="book-club" count="11"/>
+      <shelf name="overdrive" count="11"/>
+      <shelf name="bios" count="11"/>
+      <shelf name="non-fiction-to-read" count="11"/>
+      <shelf name="read-2019" count="10"/>
+      <shelf name="didn-t-finish" count="10"/>
+      <shelf name="2019-reading-challenge" count="10"/>
+      <shelf name="history" count="10"/>
+      <shelf name="pop-culture" count="10"/>
+      <shelf name="movies" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="to-read-non-fiction" count="10"/>
+      <shelf name="libby" count="9"/>
+      <shelf name="2019-books" count="9"/>
+      <shelf name="listened-to" count="9"/>
+      <shelf name="bio-memoir" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="to-read-nonfiction" count="9"/>
+      <shelf name="celebrity" count="9"/>
+      <shelf name="biography-autobiography" count="9"/>
+      <shelf name="2019-reads" count="8"/>
+      <shelf name="biographical" count="8"/>
+      <shelf name="tbr" count="8"/>
+      <shelf name="read-2018" count="8"/>
+      <shelf name="film" count="8"/>
+      <shelf name="2019-reading-list" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="entertainment" count="7"/>
+      <shelf name="abandoned" count="7"/>
+      <shelf name="biography-and-memoir" count="7"/>
+      <shelf name="memoirs-biographies" count="7"/>
+      <shelf name="bios-memoirs" count="7"/>
+      <shelf name="memoir-bio" count="7"/>
+      <shelf name="non-fic" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="library-book" count="6"/>
+      <shelf name="autobiography-biography" count="6"/>
+      <shelf name="2018-releases" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="2019-read" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="auto-bio" count="5"/>
+      <shelf name="dnf" count="5"/>
+      <shelf name="2018-read" count="5"/>
+      <shelf name="autobiography" count="5"/>
+      <shelf name="california" count="5"/>
+      <shelf name="adult-non-fiction" count="5"/>
+      <shelf name="want-to-buy" count="5"/>
+      <shelf name="scribd" count="5"/>
+      <shelf name="people" count="5"/>
+      <shelf name="on-kindle" count="5"/>
+      <shelf name="own-to-read" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="biografie" count="5"/>
+      <shelf name="best-of-2018" count="5"/>
+      <shelf name="mental-illness" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="purchased" count="4"/>
+      <shelf name="biographies-to-read" count="4"/>
+      <shelf name="owned-but-not-read" count="4"/>
+      <shelf name="auto-biography" count="4"/>
+      <shelf name="on-deck" count="4"/>
+      <shelf name="need-to-buy" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>38656999</id>
+<title><![CDATA[The Good Neighbor: The Life and Work of Fred Rogers]]></title>
+<title_without_series><![CDATA[The Good Neighbor: The Life and Work of Fred Rogers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38656999-the-good-neighbor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520605183l/38656999._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520605183l/38656999._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>60267584</id>
+</work>
+<isbn>1419727729</isbn>
+<isbn13>9781419727726</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15660970</id>
+<name>Maxwell King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15660970.Maxwell_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37955748</id>
+<title>In Pieces</title>
+<title_without_series>In Pieces</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37955748-in-pieces]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527406438l/37955748._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527406438l/37955748._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59524878</id>
+</work>
+<isbn>1549143077</isbn>
+<isbn13>9781549143076</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>3118775</id>
+<name>Sally Field</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118775.Sally_Field]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39022876</id>
+<title><![CDATA[Always Look on the Bright Side of Life: A Sortabiography]]></title>
+<title_without_series><![CDATA[Always Look on the Bright Side of Life: A Sortabiography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39022876-always-look-on-the-bright-side-of-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524610228l/39022876._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524610228l/39022876._SX98_.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>57714790</id>
+</work>
+<isbn>1984822586</isbn>
+<isbn13>9781984822581</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13785</id>
+<name>Eric Idle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13785.Eric_Idle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42880492</id>
+<title><![CDATA[Wild and Crazy Guys: How the Comedy Mavericks of the '80s Changed Hollywood Forever]]></title>
+<title_without_series><![CDATA[Wild and Crazy Guys: How the Comedy Mavericks of the '80s Changed Hollywood Forever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42880492-wild-and-crazy-guys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550300972l/42880492._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550300972l/42880492._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>66671824</id>
+</work>
+<isbn>1984826646</isbn>
+<isbn13>9781984826640</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>18636135</id>
+<name>Nick de Semlyen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18636135.Nick_de_Semlyen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373611</id>
+<title>Paul Simon: The Life</title>
+<title_without_series>Paul Simon: The Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373611-paul-simon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521364006l/36373611._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521364006l/36373611._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>58060870</id>
+</work>
+<isbn>1501112120</isbn>
+<isbn13>9781501112126</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>929860</id>
+<name>Robert Hilburn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/929860.Robert_Hilburn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41012533</id>
+<title><![CDATA[Fear: Trump in the White House]]></title>
+<title_without_series><![CDATA[Fear: Trump in the White House]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41012533-fear]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534660010l/41012533._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534660010l/41012533._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>63991585</id>
+</work>
+<isbn>1501175513</isbn>
+<isbn13>9781501175510</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15441</id>
+<name>Bob Woodward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15441.Bob_Woodward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15902792</id>
+<title><![CDATA[Still Foolin' 'Em: Where I've Been, Where I'm Going, and Where the Hell Are My Keys]]></title>
+<title_without_series><![CDATA[Still Foolin' 'Em: Where I've Been, Where I'm Going, and Where the Hell Are My Keys]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15902792-still-foolin-em]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411351481l/15902792._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411351481l/15902792._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>21653636</id>
+</work>
+<isbn>0805098232</isbn>
+<isbn13>9780805098235</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7147</id>
+<name>Billy Crystal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7147.Billy_Crystal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44303730</id>
+<title>Me</title>
+<title_without_series>Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44303730-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68837791</id>
+</work>
+<isbn>1250147603</isbn>
+<isbn13>9781250147608</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>103812</id>
+<name>Elton John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103812.Elton_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38919266</id>
+<title><![CDATA[The Greatest Love Story Ever Told]]></title>
+<title_without_series><![CDATA[The Greatest Love Story Ever Told]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38919266-the-greatest-love-story-ever-told]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527694386l/38919266._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527694386l/38919266._SX98_.jpg]]></image_url>
+<num_pages>269</num_pages>
+<work>
+<id>60487199</id>
+</work>
+<isbn>1101986670</isbn>
+<isbn13>9781101986677</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8191852</id>
+<name>Megan Mullally</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8191852.Megan_Mullally]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37486540</id>
+<title><![CDATA[Dopesick: Dealers, Doctors, and the Drug Company that Addicted America]]></title>
+<title_without_series><![CDATA[Dopesick: Dealers, Doctors, and the Drug Company that Addicted America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37486540-dopesick]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533010748l/37486540._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533010748l/37486540._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>59097428</id>
+</work>
+<isbn>0316523178</isbn>
+<isbn13>9780316523172</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7381867</id>
+<name>Beth Macy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7381867.Beth_Macy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38348476</id>
+<title>Calypso</title>
+<title_without_series>Calypso</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38348476-calypso]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529503848l/38348476._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529503848l/38348476._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57338398</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2849</id>
+<name>David Sedaris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2849.David_Sedaris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38220563</id>
+<title><![CDATA[My Girls: A Lifetime with Carrie and Debbie]]></title>
+<title_without_series><![CDATA[My Girls: A Lifetime with Carrie and Debbie]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38220563-my-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523158225l/38220563._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523158225l/38220563._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>59896378</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17920793</id>
+<name>Todd  Fisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17920793.Todd_Fisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39218044</id>
+<title>Small Fry</title>
+<title_without_series>Small Fry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39218044-small-fry]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524765986l/39218044._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524765986l/39218044._SX98_.jpg]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>60799892</id>
+</work>
+<isbn>0802128238</isbn>
+<isbn13>9780802128232</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>17993806</id>
+<name>Lisa Brennan-Jobs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17993806.Lisa_Brennan_Jobs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39507318</id>
+<title>The Library Book</title>
+<title_without_series>The Library Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39507318-the-library-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>61126110</id>
+</work>
+<isbn>1476740186</isbn>
+<isbn13>9781476740188</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>45374</id>
+<name>Susan Orlean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45374.Susan_Orlean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38799788</id>
+<title>Beastie Boys Book</title>
+<title_without_series>Beastie Boys Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38799788-beastie-boys-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542735391l/38799788._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542735391l/38799788._SX98_.jpg]]></image_url>
+<num_pages>590</num_pages>
+<work>
+<id>60373757</id>
+</work>
+<isbn>0812995546</isbn>
+<isbn13>9780812995541</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>18483400</id>
+<name>Michael    Diamond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18483400.Michael_Diamond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35343329</id>
+<title><![CDATA[Caddyshack: The Making of a Hollywood Cinderella Story]]></title>
+<title_without_series><![CDATA[Caddyshack: The Making of a Hollywood Cinderella Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35343329-caddyshack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511973245l/35343329._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511973245l/35343329._SX98_.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>56709423</id>
+</work>
+<isbn>1250105951</isbn>
+<isbn13>9781250105950</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>6475296</id>
+<name>Chris Nashawaty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6475296.Chris_Nashawaty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38746485</id>
+<title>Becoming</title>
+<title_without_series>Becoming</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38746485-becoming]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SX98_.jpg]]></image_url>
+<num_pages>426</num_pages>
+<work>
+<id>60334006</id>
+</work>
+<isbn>1524763136</isbn>
+<isbn13>9781524763138</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>2338628</id>
+<name>Michelle Obama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2338628.Michelle_Obama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39295912</id>
+<title><![CDATA[Blowing the Bloody Doors Off: And Other Lessons in Life]]></title>
+<title_without_series><![CDATA[Blowing the Bloody Doors Off: And Other Lessons in Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39295912-blowing-the-bloody-doors-off]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540643321l/39295912._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540643321l/39295912._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>60874334</id>
+</work>
+<isbn>1549173219</isbn>
+<isbn13>9781549173219</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7753</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>36215</id>
+<name>Michael Caine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36215.Michael_Caine]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

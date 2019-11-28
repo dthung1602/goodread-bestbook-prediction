@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9166559</id>
+  <title>These Things Hidden</title>
+  <isbn><![CDATA[0778328791]]></isbn>
+  <isbn13><![CDATA[9780778328797]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296001564l/9166559._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296001564l/9166559._SY75_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>18</publication_day>
+  <publisher>Mira</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[When teenager Allison Glenn is sent to prison for a heinous crime, she leaves behind her reputation as Linden Falls' golden girl forever. Her parents deny the existence of their once-perfect child. Her former friends exult her downfall. Her sister, Brynn, faces whispered rumors every day in the hallways of their small Iowa high school. It's Brynn--shy, quiet Brynn--who carries the burden of what really happened that night. All she wants is to forget Allison and the past that haunts her. But then Allison is released to a halfway house, and is more determined than ever to speak with her estranged sister. Now their legacy of secrets is focused on one little boy. And if the truth is revealed, the consequences will be unimaginable for the adoptive mother who loves him, the girl who tried to protect him and the two sisters who hold the key to all that is hidden]]></description>
+  <work>
+  <id type="integer">14045698</id>
+  <books_count type="integer">39</books_count>
+  <best_book_id type="integer">9166559</best_book_id>
+  <reviews_count type="integer">72517</reviews_count>
+  <ratings_sum type="integer">128092</ratings_sum>
+  <ratings_count type="integer">33145</ratings_count>
+  <text_reviews_count type="integer">3222</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">18</original_publication_day>
+  <original_title>These Things Hidden</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9265|4:13120|3:8301|2:1925|1:534|total:33145</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.ucdJwFdrkpL_XolJXkOA3g</work_uri>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[337]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[30693]]></ratings_count>
+  <text_reviews_count><![CDATA[2970]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9166559-these-things-hidden]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9166559-these-things-hidden]]></link>
+  <authors>
+<author>
+<id>2875124</id>
+<name>Heather Gudenkauf</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1531697584p5/2875124.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1531697584p2/2875124.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2875124.Heather_Gudenkauf]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>126111</ratings_count>
+<text_reviews_count>14270</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9166559-these-things-hidden">These Things Hidden Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0778328791&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9166559-these-things-hidden?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9416"/>
+      <shelf name="currently-reading" count="260"/>
+      <shelf name="book-club" count="111"/>
+      <shelf name="books-i-own" count="108"/>
+      <shelf name="thriller" count="99"/>
+      <shelf name="young-adult" count="64"/>
+      <shelf name="owned" count="61"/>
+      <shelf name="mystery-thriller" count="59"/>
+      <shelf name="kindle" count="52"/>
+      <shelf name="drama" count="42"/>
+      <shelf name="mystery" count="40"/>
+      <shelf name="heather-gudenkauf" count="40"/>
+      <shelf name="to-buy" count="40"/>
+      <shelf name="fiction" count="39"/>
+      <shelf name="family" count="38"/>
+      <shelf name="adult" count="36"/>
+      <shelf name="crime" count="33"/>
+      <shelf name="ya" count="32"/>
+      <shelf name="mystery-suspense" count="31"/>
+      <shelf name="read-in-2012" count="30"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="wish-list" count="24"/>
+      <shelf name="contemporary-fiction" count="23"/>
+      <shelf name="chick-lit" count="22"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="general-fiction" count="21"/>
+      <shelf name="i-own" count="21"/>
+      <shelf name="sisters" count="18"/>
+      <shelf name="suspense" count="17"/>
+      <shelf name="mysteries" count="17"/>
+      <shelf name="audible" count="16"/>
+      <shelf name="my-books" count="16"/>
+      <shelf name="read-in-2015" count="15"/>
+      <shelf name="read-in-2014" count="15"/>
+      <shelf name="dysfunctional-family" count="15"/>
+      <shelf name="thrillers" count="15"/>
+      <shelf name="audiobooks" count="15"/>
+      <shelf name="bookclub" count="15"/>
+      <shelf name="kindle-books" count="15"/>
+      <shelf name="2011-books" count="15"/>
+      <shelf name="library-book" count="14"/>
+      <shelf name="murder" count="13"/>
+      <shelf name="suspense-thriller" count="13"/>
+      <shelf name="maybe" count="13"/>
+      <shelf name="adoption" count="12"/>
+      <shelf name="listened-to" count="12"/>
+      <shelf name="own-it" count="12"/>
+      <shelf name="realistic-fiction" count="12"/>
+      <shelf name="secrets" count="12"/>
+      <shelf name="read-2014" count="11"/>
+      <shelf name="default" count="11"/>
+      <shelf name="mystery-suspense-thriller" count="11"/>
+      <shelf name="favourites" count="11"/>
+      <shelf name="literary-fiction" count="11"/>
+      <shelf name="2011-reads" count="11"/>
+      <shelf name="arc" count="11"/>
+      <shelf name="want-to-read" count="11"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="paperback" count="10"/>
+      <shelf name="family-drama" count="10"/>
+      <shelf name="books-read-in-2011" count="10"/>
+      <shelf name="read-in-2016" count="9"/>
+      <shelf name="dnf" count="9"/>
+      <shelf name="family-relationships" count="9"/>
+      <shelf name="on-kindle" count="9"/>
+      <shelf name="mental-illness" count="9"/>
+      <shelf name="iowa" count="9"/>
+      <shelf name="did-not-finish" count="9"/>
+      <shelf name="to-read-own" count="9"/>
+      <shelf name="audio-book" count="9"/>
+      <shelf name="death" count="9"/>
+      <shelf name="audio-books" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="stand-alone" count="9"/>
+      <shelf name="book-club-books" count="9"/>
+      <shelf name="borrowed" count="9"/>
+      <shelf name="2013-reads" count="8"/>
+      <shelf name="on-my-bookshelf" count="8"/>
+      <shelf name="mystery-crime" count="8"/>
+      <shelf name="teen-pregnancy" count="8"/>
+      <shelf name="books-i-have" count="8"/>
+      <shelf name="psychological-thriller" count="8"/>
+      <shelf name="novels" count="8"/>
+      <shelf name="purchased" count="8"/>
+      <shelf name="2016-reads" count="7"/>
+      <shelf name="read-2013" count="7"/>
+      <shelf name="tbr" count="7"/>
+      <shelf name="2012-reads" count="7"/>
+      <shelf name="crime-mystery" count="7"/>
+      <shelf name="my-favorites" count="7"/>
+      <shelf name="want-to-buy" count="7"/>
+      <shelf name="have" count="7"/>
+      <shelf name="psychological" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="own-to-read" count="7"/>
+      <shelf name="sad" count="7"/>
+      <shelf name="favorite-authors" count="7"/>
+      <shelf name="fiction-general" count="7"/>
+      <shelf name="women-s-fiction" count="7"/>
+      <shelf name="3-stars" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6674372</id>
+<title>The Murderer&apos;s Daughters</title>
+<title_without_series>The Murderer&apos;s Daughters</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6674372-the-murderer-s-daughters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>6869461</id>
+</work>
+<isbn>0312576986</isbn>
+<isbn13>9780312576981</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3006839</id>
+<name>Randy Susan Meyers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3006839.Randy_Susan_Meyers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10169662</id>
+<title>Never Knowing</title>
+<title_without_series>Never Knowing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10169662-never-knowing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294615110l/10169662._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294615110l/10169662._SX98_.jpg]]></image_url>
+<num_pages>410</num_pages>
+<work>
+<id>13723008</id>
+</work>
+<isbn>0312595689</isbn>
+<isbn13>9780312595685</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3163298</id>
+<name>Chevy Stevens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3163298.Chevy_Stevens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9897884</id>
+<title>Close Your Eyes</title>
+<title_without_series>Close Your Eyes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9897884-close-your-eyes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320395471l/9897884._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320395471l/9897884._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>14903223</id>
+</work>
+<isbn>0345494482</isbn>
+<isbn13>9780345494481</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>24409</id>
+<name>Amanda Eyre Ward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24409.Amanda_Eyre_Ward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5886881</id>
+<title>Dark Places</title>
+<title_without_series>Dark Places</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5886881-dark-places]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354988288l/5886881._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354988288l/5886881._SX98_.jpg]]></image_url>
+<num_pages>349</num_pages>
+<work>
+<id>6873353</id>
+</work>
+<isbn>0307341569</isbn>
+<isbn13>9780307341563</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7895937</id>
+<title>Saving Max</title>
+<title_without_series>Saving Max</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7895937-saving-max]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1276789285l/7895937._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1276789285l/7895937._SX98_.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>11135837</id>
+</work>
+<isbn>0778329631</isbn>
+<isbn13>9780778329633</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3432845</id>
+<name>Antoinette van Heugten</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3432845.Antoinette_van_Heugten]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10059498</id>
+<title>The Midwife&apos;s Confession</title>
+<title_without_series>The Midwife&apos;s Confession</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10059498-the-midwife-s-confession]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323870279l/10059498._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323870279l/10059498._SX98_.jpg]]></image_url>
+<num_pages>417</num_pages>
+<work>
+<id>14955690</id>
+</work>
+<isbn>0778329860</isbn>
+<isbn13>9780778329862</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>93345</id>
+<name>Diane Chamberlain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93345.Diane_Chamberlain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11806716</id>
+<title><![CDATA[Blackout (Newsflesh Trilogy, #3)]]></title>
+<title_without_series>Blackout</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11806716-blackout]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317680509l/11806716._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317680509l/11806716._SY160_.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>13465100</id>
+</work>
+<isbn>1841499005</isbn>
+<isbn13>9781841499000</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>3153776</id>
+<name>Mira Grant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3153776.Mira_Grant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15655</id>
+<title>The Kindness of Strangers</title>
+<title_without_series>The Kindness of Strangers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15655.The_Kindness_of_Strangers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>17490</id>
+</work>
+<isbn>0060564784</isbn>
+<isbn13>9780060564780</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>9679</id>
+<name>Katrina Kittle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9679.Katrina_Kittle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6115138</id>
+<title><![CDATA[Sworn to Silence (Kate Burkholder, #1)]]></title>
+<title_without_series>Sworn to Silence</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6115138-sworn-to-silence]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>321</num_pages>
+<work>
+<id>6293210</id>
+</work>
+<isbn>0312374976</isbn>
+<isbn13>9780312374976</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>54958</id>
+<name>Linda Castillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54958.Linda_Castillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7159515</id>
+<title>Still Missing</title>
+<title_without_series>Still Missing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7159515-still-missing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260468195l/7159515._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260468195l/7159515._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7383770</id>
+</work>
+<isbn>0312595670</isbn>
+<isbn13>9780312595678</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3163298</id>
+<name>Chevy Stevens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3163298.Chevy_Stevens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8949352</id>
+<title>Night Road</title>
+<title_without_series>Night Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8949352-night-road]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282369257l/8949352._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282369257l/8949352._SX98_.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>13395554</id>
+</work>
+<isbn>0312364423</isbn>
+<isbn13>9780312364427</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11367726</id>
+<title>Defending Jacob</title>
+<title_without_series>Defending Jacob</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11367726-defending-jacob]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329612158l/11367726._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329612158l/11367726._SX98_.jpg]]></image_url>
+<num_pages>421</num_pages>
+<work>
+<id>16298550</id>
+</work>
+<isbn>0385344228</isbn>
+<isbn13>9780385344227</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>218843</id>
+<name>William Landay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/218843.William_Landay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15818278</id>
+<title>The One I Left Behind</title>
+<title_without_series>The One I Left Behind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15818278-the-one-i-left-behind]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348689472l/15818278._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348689472l/15818278._SX98_.jpg]]></image_url>
+<num_pages>422</num_pages>
+<work>
+<id>21545889</id>
+</work>
+<isbn>006212255X</isbn>
+<isbn13>9780062122551</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>29471</id>
+<name>Jennifer  McMahon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29471.Jennifer_McMahon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8423841</id>
+<title>The Good Sister</title>
+<title_without_series>The Good Sister</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8423841-the-good-sister]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>324</num_pages>
+<work>
+<id>13286989</id>
+</work>
+<isbn>0446535788</isbn>
+<isbn13>9780446535786</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>129951</id>
+<name>Drusilla Campbell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/129951.Drusilla_Campbell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6606456</id>
+<title><![CDATA[The Scent of Rain and Lightning]]></title>
+<title_without_series><![CDATA[The Scent of Rain and Lightning]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6606456-the-scent-of-rain-and-lightning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320509039l/6606456._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320509039l/6606456._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>6800379</id>
+</work>
+<isbn>0345471016</isbn>
+<isbn13>9780345471017</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>49538</id>
+<name>Nancy Pickard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49538.Nancy_Pickard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8096073</id>
+<title>Chosen</title>
+<title_without_series>Chosen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8096073-chosen]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>12855286</id>
+</work>
+<isbn>0061974293</isbn>
+<isbn13>9780061974298</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3503609</id>
+<name>Chandra Hoffman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3503609.Chandra_Hoffman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9999576</id>
+<title>Long Gone</title>
+<title_without_series>Long Gone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9999576-long-gone]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>14894535</id>
+</work>
+<isbn>0061999180</isbn>
+<isbn13>9780061999185</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>108774</id>
+<name>Alafair Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108774.Alafair_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7775927</id>
+<title>Hidden Wives</title>
+<title_without_series>Hidden Wives</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7775927-hidden-wives]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>10683023</id>
+</work>
+<isbn>0765326892</isbn>
+<isbn13>9780765326898</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>33145</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>3390667</id>
+<name>Claire Avery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3390667.Claire_Avery]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

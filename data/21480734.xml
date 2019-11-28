@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>21480734</id>
+  <title><![CDATA[Dataclysm: Who We Are (When We Think No One's Looking)]]></title>
+  <isbn><![CDATA[0385347375]]></isbn>
+  <isbn13><![CDATA[9780385347372]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407763834l/21480734._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407763834l/21480734._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Crown</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b><b>A <i>New York Times</i> Bestseller</b><br /><br />An audacious, irreverent investigation of human behavior—and a first look at a revolution in the making</b><br />  <br /> Our personal data has been used to spy on us, hire and fire us, and sell us stuff we don’t need. In <i>Dataclysm</i>, Christian Rudder uses it to show us who we truly are. <br />  <br /> For centuries, we’ve relied on polling or small-scale lab experiments to study human behavior. Today, a new approach is possible. As we live more of our lives online, researchers can finally observe us directly, in vast numbers, and without filters. Data scientists have become the new demographers.<br />  <br /> In this daring and original book, Rudder explains how Facebook "likes" can predict, with surprising accuracy, a person’s sexual orientation and even intelligence; how attractive women receive exponentially more interview requests; and why you must have haters to be hot. He charts the rise and fall of America’s most reviled word through Google Search and examines the new dynamics of collaborative rage on Twitter. He shows how people express themselves, both privately and publicly. What is the least Asian thing you can say? Do people bathe more in Vermont or New Jersey? What do black women think about Simon &amp; Garfunkel? (Hint: they don’t think about Simon &amp; Garfunkel.) Rudder also traces human migration over time, showing how groups of people move from certain small towns to the same big cities across the globe. And he grapples with the challenge of maintaining privacy in a world where these explorations are possible.<br />  <br /> Visually arresting and full of wit and insight, <i>Dataclysm</i> is a new way of seeing ourselves—a brilliant alchemy, in which math is made human and numbers become the narrative of our time.]]></description>
+  <work>
+  <id type="integer">40787528</id>
+  <books_count type="integer">29</books_count>
+  <best_book_id type="integer">21480734</best_book_id>
+  <reviews_count type="integer">30437</reviews_count>
+  <ratings_sum type="integer">38252</ratings_sum>
+  <ratings_count type="integer">10235</ratings_count>
+  <text_reviews_count type="integer">1106</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>Dataclysm: Who We Are (When We Think No One's Looking)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2274|4:4157|3:2883|2:684|1:237|total:10235</rating_dist>
+  <desc_user_id type="integer">42172950</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.IwF9oDLPiZxvp1-fQcuXDw</work_uri>
+</work>
+  <average_rating>3.74</average_rating>
+  <num_pages><![CDATA[304]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8624]]></ratings_count>
+  <text_reviews_count><![CDATA[972]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/21480734-dataclysm]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/21480734-dataclysm]]></link>
+  <authors>
+<author>
+<id>8058863</id>
+<name>Christian Rudder</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540221691p5/8058863.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540221691p2/8058863.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8058863.Christian_Rudder]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>10244</ratings_count>
+<text_reviews_count>1106</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/21480734-dataclysm">Dataclysm Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385347375&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/21480734-dataclysm?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="17849"/>
+      <shelf name="currently-reading" count="814"/>
+      <shelf name="non-fiction" count="567"/>
+      <shelf name="nonfiction" count="314"/>
+      <shelf name="science" count="184"/>
+      <shelf name="psychology" count="153"/>
+      <shelf name="sociology" count="94"/>
+      <shelf name="technology" count="80"/>
+      <shelf name="business" count="61"/>
+      <shelf name="data" count="49"/>
+      <shelf name="data-science" count="44"/>
+      <shelf name="favorites" count="38"/>
+      <shelf name="tech" count="32"/>
+      <shelf name="statistics" count="30"/>
+      <shelf name="owned" count="30"/>
+      <shelf name="audiobooks" count="28"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="read-in-2015" count="25"/>
+      <shelf name="social-science" count="24"/>
+      <shelf name="big-data" count="23"/>
+      <shelf name="library" count="23"/>
+      <shelf name="kindle" count="22"/>
+      <shelf name="audio" count="19"/>
+      <shelf name="abandoned" count="17"/>
+      <shelf name="first-reads" count="17"/>
+      <shelf name="read-2015" count="16"/>
+      <shelf name="books-i-own" count="15"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="to-buy" count="13"/>
+      <shelf name="economics" count="12"/>
+      <shelf name="math" count="12"/>
+      <shelf name="read-in-2014" count="12"/>
+      <shelf name="relationships" count="12"/>
+      <shelf name="book-club" count="12"/>
+      <shelf name="culture" count="11"/>
+      <shelf name="non-fic" count="11"/>
+      <shelf name="to-read-nonfiction" count="11"/>
+      <shelf name="read-2014" count="10"/>
+      <shelf name="arc" count="10"/>
+      <shelf name="pop-science" count="10"/>
+      <shelf name="non-fiction-to-read" count="10"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="wish-list" count="9"/>
+      <shelf name="dnf" count="8"/>
+      <shelf name="social-commentary" count="8"/>
+      <shelf name="audio-book" count="8"/>
+      <shelf name="to-read-non-fiction" count="8"/>
+      <shelf name="did-not-finish" count="8"/>
+      <shelf name="social-sciences" count="8"/>
+      <shelf name="psych" count="8"/>
+      <shelf name="analytics" count="7"/>
+      <shelf name="default" count="7"/>
+      <shelf name="science-technology" count="7"/>
+      <shelf name="learning" count="7"/>
+      <shelf name="media" count="7"/>
+      <shelf name="politics" count="7"/>
+      <shelf name="nonfic" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="mathematics" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="nonfiction-to-read" count="7"/>
+      <shelf name="read-in-2016" count="6"/>
+      <shelf name="stem" count="6"/>
+      <shelf name="on-hold" count="6"/>
+      <shelf name="society" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="philosophy" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="2015-books" count="6"/>
+      <shelf name="popular-science" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="on-kindle" count="6"/>
+      <shelf name="reviewed" count="6"/>
+      <shelf name="research" count="6"/>
+      <shelf name="overdrive" count="6"/>
+      <shelf name="internet" count="6"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="ensayo" count="5"/>
+      <shelf name="sexuality" count="5"/>
+      <shelf name="author-male" count="5"/>
+      <shelf name="computer-science" count="5"/>
+      <shelf name="work" count="5"/>
+      <shelf name="unread" count="5"/>
+      <shelf name="ai" count="5"/>
+      <shelf name="social-issues" count="5"/>
+      <shelf name="read-non-fiction" count="5"/>
+      <shelf name="to-read-science" count="5"/>
+      <shelf name="interesting" count="5"/>
+      <shelf name="recommended" count="5"/>
+      <shelf name="nf" count="5"/>
+      <shelf name="race" count="5"/>
+      <shelf name="computers" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="knowledge" count="5"/>
+      <shelf name="education" count="5"/>
+      <shelf name="pop-sci" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="essays" count="5"/>
+      <shelf name="advance-copy" count="5"/>
+      <shelf name="2016-books" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>35881008</id>
+<title><![CDATA[The Efficiency Paradox: What Big Data Can't Do]]></title>
+<title_without_series><![CDATA[The Efficiency Paradox: What Big Data Can't Do]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35881008-the-efficiency-paradox]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510351910l/35881008._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510351910l/35881008._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>57397676</id>
+</work>
+<isbn>1400041392</isbn>
+<isbn13>9781400041398</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>21675</id>
+<name>Edward Tenner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21675.Edward_Tenner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15811527</id>
+<title><![CDATA[Love in the Time of Algorithms: How Online Dating Shapes Our Relationships]]></title>
+<title_without_series><![CDATA[Love in the Time of Algorithms: How Online Dating Shapes Our Relationships]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15811527-love-in-the-time-of-algorithms]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358750456l/15811527._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358750456l/15811527._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>21536791</id>
+</work>
+<isbn>1591845319</isbn>
+<isbn13>9781591845317</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1883775</id>
+<name>Dan Slater</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1883775.Dan_Slater]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28512671</id>
+<title><![CDATA[Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are]]></title>
+<title_without_series><![CDATA[Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28512671-everybody-lies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489069766l/28512671._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489069766l/28512671._SX98_.jpg]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>48667223</id>
+</work>
+<isbn>0062390856</isbn>
+<isbn13>9780062390851</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>14847937</id>
+<name>Seth Stephens-Davidowitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14847937.Seth_Stephens_Davidowitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13588394</id>
+<title><![CDATA[The Signal and the Noise: Why So Many Predictions Fail - But Some Don't]]></title>
+<title_without_series><![CDATA[The Signal and the Noise: Why So Many Predictions Fail - But Some Don't]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355058876l/13588394._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355058876l/13588394._SX98_.jpg]]></image_url>
+<num_pages>534</num_pages>
+<work>
+<id>19175796</id>
+</work>
+<isbn>159420411X</isbn>
+<isbn13>9781594204111</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3387859</id>
+<name>Nate Silver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3387859.Nate_Silver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28186015</id>
+<title><![CDATA[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy]]></title>
+<title_without_series><![CDATA[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015._SX98_.jpg]]></image_url>
+<num_pages>259</num_pages>
+<work>
+<id>48207762</id>
+</work>
+<isbn>0553418815</isbn>
+<isbn13>9780553418811</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6928121</id>
+<name>Cathy O&apos;Neil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6928121.Cathy_O_Neil]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15824361</id>
+<title><![CDATA[Keeping Up with the Quants: Your Guide to Understanding and Using Analytics]]></title>
+<title_without_series><![CDATA[Keeping Up with the Quants: Your Guide to Understanding and Using Analytics]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15824361-keeping-up-with-the-quants]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345683563l/15824361._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345683563l/15824361._SX98_.jpg]]></image_url>
+<num_pages>229</num_pages>
+<work>
+<id>21555168</id>
+</work>
+<isbn>142218725X</isbn>
+<isbn13>9781422187258</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>67884</id>
+<name>Thomas H. Davenport</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67884.Thomas_H_Davenport]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24693022</id>
+<title><![CDATA[Date-onomics: How Dating Became a Lopsided Numbers Game]]></title>
+<title_without_series><![CDATA[Date-onomics: How Dating Became a Lopsided Numbers Game]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24693022-date-onomics]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430943628l/24693022._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430943628l/24693022._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>44312035</id>
+</work>
+<isbn>076118208X</isbn>
+<isbn13>9780761182085</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>13277226</id>
+<name>Jon Birger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13277226.Jon_Birger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15941378</id>
+<title><![CDATA[Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die]]></title>
+<title_without_series><![CDATA[Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15941378-predictive-analytics]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354213640l/15941378._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354213640l/15941378._SX98_.jpg]]></image_url>
+<num_pages>302</num_pages>
+<work>
+<id>21692562</id>
+</work>
+<isbn>1118356853</isbn>
+<isbn13>9781118356852</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>403014</id>
+<name>Eric Siegel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403014.Eric_Siegel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25898794</id>
+<title><![CDATA[Everydata: The Misinformation Hidden in the Little Data You Consume Every Day]]></title>
+<title_without_series><![CDATA[Everydata: The Misinformation Hidden in the Little Data You Consume Every Day]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25898794-everydata]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455765233l/25898794._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455765233l/25898794._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>45781617</id>
+</work>
+<isbn>1629561010</isbn>
+<isbn13>9781629561011</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>49260</id>
+<name>John H. Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49260.John_H_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26109028</id>
+<title><![CDATA[You May Also Like: Taste in an Age of Endless Choice]]></title>
+<title_without_series><![CDATA[You May Also Like: Taste in an Age of Endless Choice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26109028-you-may-also-like]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460908221l/26109028._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460908221l/26109028._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>46054416</id>
+</work>
+<isbn>0307958248</isbn>
+<isbn13>9780307958242</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>326282</id>
+<name>Tom Vanderbilt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326282.Tom_Vanderbilt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20527133</id>
+<title><![CDATA[Superintelligence: Paths, Dangers, Strategies]]></title>
+<title_without_series><![CDATA[Superintelligence: Paths, Dangers, Strategies]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20527133-superintelligence]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400884046l/20527133._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400884046l/20527133._SX98_.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>37286000</id>
+</work>
+<isbn>0199678111</isbn>
+<isbn13>9780199678112</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>608087</id>
+<name>Nick Bostrom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/608087.Nick_Bostrom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18693973</id>
+<title><![CDATA[Standard Deviations: Flawed Assumptions, Tortured Data, and Other Ways to Lie with Statistics]]></title>
+<title_without_series><![CDATA[Standard Deviations: Flawed Assumptions, Tortured Data, and Other Ways to Lie with Statistics]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18693973-standard-deviations]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400863276l/18693973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400863276l/18693973._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>26542526</id>
+</work>
+<isbn>146830920X</isbn>
+<isbn13>9781468309201</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>86376</id>
+<name>Gary Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86376.Gary_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9551126</id>
+<title><![CDATA[A Billion Wicked Thoughts: What the World's Largest Experiment Reveals about Human Desire]]></title>
+<title_without_series><![CDATA[A Billion Wicked Thoughts: What the World's Largest Experiment Reveals about Human Desire]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9551126-a-billion-wicked-thoughts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704950l/9551126._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704950l/9551126._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>14437607</id>
+</work>
+<isbn>0525952098</isbn>
+<isbn13>9780525952091</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4418317</id>
+<name>Ogi Ogas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4418317.Ogi_Ogas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32191741</id>
+<title><![CDATA[Pinpoint: How GPS is Changing Technology, Culture, and Our Minds]]></title>
+<title_without_series><![CDATA[Pinpoint: How GPS is Changing Technology, Culture, and Our Minds]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32191741-pinpoint]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493422013l/32191741._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493422013l/32191741._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>46521412</id>
+</work>
+<isbn>0393354369</isbn>
+<isbn13>9780393354362</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>88443</id>
+<name>Greg Milner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88443.Greg_Milner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29502402</id>
+<title><![CDATA[Data for the People: How to Make Our Post-Privacy Economy Work for You]]></title>
+<title_without_series><![CDATA[Data for the People: How to Make Our Post-Privacy Economy Work for You]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29502402-data-for-the-people]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474813122l/29502402._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474813122l/29502402._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>49789615</id>
+</work>
+<isbn>0465044697</isbn>
+<isbn13>9780465044696</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>15081536</id>
+<name>Andreas Weigend</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15081536.Andreas_Weigend]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42978899</id>
+<title>(mans) uzņēmēja kods</title>
+<title_without_series>(mans) uzņēmēja kods</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42978899-mans-uz-m-ja-kods]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543476345l/42978899._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543476345l/42978899._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>66814515</id>
+</work>
+<isbn></isbn>
+<isbn13>9789934079092</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18656214</id>
+<name>Uldis Pīlēns</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18656214.Uldis_P_l_ns]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>368493</id>
+<title><![CDATA[This Connection of Everyone With Lungs]]></title>
+<title_without_series><![CDATA[This Connection of Everyone With Lungs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/368493.This_Connection_of_Everyone_With_Lungs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>86</num_pages>
+<work>
+<id>358478</id>
+</work>
+<isbn>0520242955</isbn>
+<isbn13>9780520242951</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>210417</id>
+<name>Juliana Spahr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/210417.Juliana_Spahr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>821987</id>
+<title><![CDATA[Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web]]></title>
+<title_without_series><![CDATA[Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/821987.Weaving_the_Web]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>824681</id>
+</work>
+<isbn>006251587X</isbn>
+<isbn13>9780062515872</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>10235</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>428754</id>
+<name>Tim Berners-Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/428754.Tim_Berners_Lee]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

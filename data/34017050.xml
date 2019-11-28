@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34017050</id>
+  <title><![CDATA[Hippie Food: How Back-to-the-Landers, Longhairs, and Revolutionaries Changed the Way We Eat]]></title>
+  <isbn><![CDATA[0062437305]]></isbn>
+  <isbn13><![CDATA[9780062437303]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492873926l/34017050._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492873926l/34017050._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>23</publication_day>
+  <publisher>William Morrow</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<strong>2019 James Beard Award Nominee</strong><br /><br />An enlightening narrative history—an entertaining fusion of Tom Wolfe and Michael Pollan—that traces the colorful origins of once unconventional foods and the diverse fringe movements, charismatic gurus, and counterculture elements that brought them to the mainstream and created a distinctly American cuisine.<br /><br />Food writer Jonathan Kauffman journeys back more than half a century—to the 1960s and 1970s—to tell the story of how a coterie of unusual men and women embraced an alternative lifestyle that would ultimately change how modern Americans eat. Impeccably researched, <em>Hippie Food</em> chronicles how the longhairs, revolutionaries, and back-to-the-landers rejected the square establishment of President Richard Nixon’s America and turned to a more idealistic and wholesome communal way of life and food.<br /><br />From the mystical rock-and-roll cult known as the Source Family and its legendary vegetarian restaurant in Hollywood to the Diggers’ brown bread in the Summer of Love to the rise of the co-op and the origins of the organic food craze, Kauffman reveals how today’s quotidian whole-foods staples—including sprouts, tofu, yogurt, brown rice, and whole-grain bread—were introduced and eventually became part of our diets. From coast to coast, through Oregon, Texas, Tennessee, Minnesota, Michigan, Massachusetts, and Vermont, Kauffman tracks hippie food’s journey from niche oddity to a cuisine that hit every corner of this country.<br /><br />A slick mix of gonzo playfulness, evocative detail, skillful pacing, and elegant writing, <em>Hippie Food</em> is a lively, engaging, and informative read that deepens our understanding of our culture and our lives today.]]></description>
+  <work>
+  <id type="integer">55014497</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">34017050</best_book_id>
+  <reviews_count type="integer">4393</reviews_count>
+  <ratings_sum type="integer">2246</ratings_sum>
+  <ratings_count type="integer">582</ratings_count>
+  <text_reviews_count type="integer">117</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">23</original_publication_day>
+  <original_title>Hippie Food: How Back-to-the-Landers, Longhairs, and Revolutionaries Changed the Way We Eat</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:141|4:258|3:151|2:24|1:8|total:582</rating_dist>
+  <desc_user_id type="integer">-47</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.EJjFTNy_LViFUQNIgk2NaQ</work_uri>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[502]]></ratings_count>
+  <text_reviews_count><![CDATA[110]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34017050-hippie-food]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34017050-hippie-food]]></link>
+  <authors>
+<author>
+<id>1827756</id>
+<name>Jonathan Kauffman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1505397714p5/1827756.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1505397714p2/1827756.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1827756.Jonathan_Kauffman]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<text_reviews_count>117</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34017050-hippie-food">Hippie Food Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062437305&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/34017050-hippie-food?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3551"/>
+      <shelf name="currently-reading" count="91"/>
+      <shelf name="food" count="73"/>
+      <shelf name="non-fiction" count="56"/>
+      <shelf name="history" count="44"/>
+      <shelf name="nonfiction" count="29"/>
+      <shelf name="cooking" count="8"/>
+      <shelf name="health" count="7"/>
+      <shelf name="food-cooking" count="7"/>
+      <shelf name="food-history" count="5"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="culinary" count="5"/>
+      <shelf name="audiobooks" count="4"/>
+      <shelf name="sustainability" count="4"/>
+      <shelf name="food-and-drink" count="4"/>
+      <shelf name="2018-books" count="4"/>
+      <shelf name="first-reads" count="4"/>
+      <shelf name="cookbooks" count="4"/>
+      <shelf name="giveaways" count="4"/>
+      <shelf name="sociology" count="3"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="didn-t-finish" count="3"/>
+      <shelf name="audio" count="3"/>
+      <shelf name="food-and-cooking" count="3"/>
+      <shelf name="audio-books" count="3"/>
+      <shelf name="to-read-non-fiction" count="3"/>
+      <shelf name="culture" count="3"/>
+      <shelf name="american-history" count="3"/>
+      <shelf name="abandoned" count="2"/>
+      <shelf name="book-club" count="2"/>
+      <shelf name="k-author" count="2"/>
+      <shelf name="cooking-food" count="2"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="food-and-nutrition" count="2"/>
+      <shelf name="h-title" count="2"/>
+      <shelf name="environmental" count="2"/>
+      <shelf name="cookbooks-food" count="2"/>
+      <shelf name="cookbook" count="2"/>
+      <shelf name="2019-challenge" count="2"/>
+      <shelf name="adult-non-fiction" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="own-it" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="want-to-read-nonfiction" count="2"/>
+      <shelf name="environmentalism" count="2"/>
+      <shelf name="biography" count="2"/>
+      <shelf name="2018-read" count="2"/>
+      <shelf name="farming" count="2"/>
+      <shelf name="america" count="2"/>
+      <shelf name="food-nutrition" count="2"/>
+      <shelf name="20th-century" count="2"/>
+      <shelf name="goodreads" count="2"/>
+      <shelf name="nonfic" count="2"/>
+      <shelf name="goodreads-giveaways" count="2"/>
+      <shelf name="foodies" count="2"/>
+      <shelf name="foodie" count="2"/>
+      <shelf name="top-ten" count="1"/>
+      <shelf name="hippies" count="1"/>
+      <shelf name="health-medicine" count="1"/>
+      <shelf name="1988-2018" count="1"/>
+      <shelf name="agriculture" count="1"/>
+      <shelf name="h" count="1"/>
+      <shelf name="2018-goodreads-awards" count="1"/>
+      <shelf name="read-on-paper" count="1"/>
+      <shelf name="on-my-bookshelf" count="1"/>
+      <shelf name="kbc-books-brews" count="1"/>
+      <shelf name="nonfiction-food-literature" count="1"/>
+      <shelf name="food-is-love" count="1"/>
+      <shelf name="professional-development" count="1"/>
+      <shelf name="c05-genre-food" count="1"/>
+      <shelf name="dnf" count="1"/>
+      <shelf name="cultural-understanding" count="1"/>
+      <shelf name="lb" count="1"/>
+      <shelf name="cloud-audio" count="1"/>
+      <shelf name="non-fic" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="2018nonfic-gcra" count="1"/>
+      <shelf name="0-nf" count="1"/>
+      <shelf name="cook-books-to-read" count="1"/>
+      <shelf name="health-fitness" count="1"/>
+      <shelf name="michelin-stars" count="1"/>
+      <shelf name="nature-fiction" count="1"/>
+      <shelf name="personal-read" count="1"/>
+      <shelf name="historical" count="1"/>
+      <shelf name="3" count="1"/>
+      <shelf name="food-and-grocery" count="1"/>
+      <shelf name="library-books" count="1"/>
+      <shelf name="research" count="1"/>
+      <shelf name="hippie-shelf" count="1"/>
+      <shelf name="top-reads" count="1"/>
+      <shelf name="food-books" count="1"/>
+      <shelf name="san-francisco" count="1"/>
+      <shelf name="earth-friendly" count="1"/>
+      <shelf name="california" count="1"/>
+      <shelf name="house-library" count="1"/>
+      <shelf name="backlog-nonfiction-academic" count="1"/>
+      <shelf name="title-h" count="1"/>
+      <shelf name="society" count="1"/>
+      <shelf name="nonf" count="1"/>
+      <shelf name="med" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>38643063</id>
+<title><![CDATA[Protest Kitchen: Fight Injustice, Save the Planet, and Fuel Your Resistance One Meal at a Time]]></title>
+<title_without_series><![CDATA[Protest Kitchen: Fight Injustice, Save the Planet, and Fuel Your Resistance One Meal at a Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38643063-protest-kitchen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519352583l/38643063._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519352583l/38643063._SX98_.jpg]]></image_url>
+<num_pages>209</num_pages>
+<work>
+<id>60167437</id>
+</work>
+<isbn>157324743X</isbn>
+<isbn13>9781573247436</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>29163</id>
+<name>Carol J. Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29163.Carol_J_Adams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35342935</id>
+<title><![CDATA[The Food Explorer: The True Adventures of the Globe-Trotting Botanist Who Transformed What America Eats]]></title>
+<title_without_series><![CDATA[The Food Explorer: The True Adventures of the Globe-Trotting Botanist Who Transformed What America Eats]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35342935-the-food-explorer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517467691l/35342935._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517467691l/35342935._SX98_.jpg]]></image_url>
+<num_pages>397</num_pages>
+<work>
+<id>56708982</id>
+</work>
+<isbn>1101990589</isbn>
+<isbn13>9781101990582</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>231257</id>
+<name>Daniel Stone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/231257.Daniel_Stone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35592077</id>
+<title><![CDATA[Buttermilk Graffiti: A Chef’s Journey to Discover America’s New Melting-Pot Cuisine]]></title>
+<title_without_series><![CDATA[Buttermilk Graffiti: A Chef’s Journey to Discover America’s New Melting-Pot Cuisine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35592077-buttermilk-graffiti]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512073320l/35592077._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512073320l/35592077._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>57024421</id>
+</work>
+<isbn>1579657389</isbn>
+<isbn13>9781579657383</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>8251608</id>
+<name>Edward       Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8251608.Edward_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5070865</id>
+<title><![CDATA[The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America]]></title>
+<title_without_series><![CDATA[The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5070865-the-food-of-a-younger-land]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>398</num_pages>
+<work>
+<id>5137531</id>
+</work>
+<isbn>1594488657</isbn>
+<isbn13>9781594488658</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>1847</id>
+<name>Mark Kurlansky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1847.Mark_Kurlansky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42374711</id>
+<title>The Way We Eat Now</title>
+<title_without_series>The Way We Eat Now</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42374711-the-way-we-eat-now]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546856511l/42374711._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546856511l/42374711._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66033606</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>247908</id>
+<name>Bee Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/247908.Bee_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34964836</id>
+<title><![CDATA[Formerly Known as Food: How the Industrial Food System Is Changing Our Minds, Bodies, and Culture]]></title>
+<title_without_series><![CDATA[Formerly Known as Food: How the Industrial Food System Is Changing Our Minds, Bodies, and Culture]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34964836-formerly-known-as-food]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513882637l/34964836._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513882637l/34964836._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>56239843</id>
+</work>
+<isbn>1250078318</isbn>
+<isbn13>9781250078315</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>16777941</id>
+<name>Kristin Lawless</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16777941.Kristin_Lawless]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18041877</id>
+<title><![CDATA[Three Squares: The Invention of the American Meal]]></title>
+<title_without_series><![CDATA[Three Squares: The Invention of the American Meal]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18041877-three-squares]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374529660l/18041877._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374529660l/18041877._SX98_.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>25317218</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7122913</id>
+<name>Abigail Carroll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7122913.Abigail_Carroll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41644326</id>
+<title><![CDATA[Save Me the Plums: My Gourmet Memoir]]></title>
+<title_without_series><![CDATA[Save Me the Plums: My Gourmet Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41644326-save-me-the-plums]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544114364l/41644326._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544114364l/41644326._SX98_.jpg]]></image_url>
+<num_pages>266</num_pages>
+<work>
+<id>64983178</id>
+</work>
+<isbn>1400069998</isbn>
+<isbn13>9781400069996</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>5662</id>
+<name>Ruth Reichl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5662.Ruth_Reichl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36711236</id>
+<title><![CDATA[Milk!: A 10,000-Year Food Fracas]]></title>
+<title_without_series><![CDATA[Milk!: A 10,000-Year Food Fracas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36711236-milk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513711958l/36711236._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513711958l/36711236._SX98_.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>58508004</id>
+</work>
+<isbn>1632863820</isbn>
+<isbn13>9781632863829</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1847</id>
+<name>Mark Kurlansky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1847.Mark_Kurlansky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30024726</id>
+<title><![CDATA[The Unsettlers: In Search of the Good Life in Today's America]]></title>
+<title_without_series><![CDATA[The Unsettlers: In Search of the Good Life in Today's America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30024726-the-unsettlers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462161825l/30024726._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462161825l/30024726._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>50430105</id>
+</work>
+<isbn>1594631581</isbn>
+<isbn13>9781594631580</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>33549</id>
+<name>Mark Sundeen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33549.Mark_Sundeen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34849094</id>
+<title><![CDATA[Feed the Resistance: Recipes + Ideas for Getting Involved (Julia Turshen Book, Cookbook for Activists)]]></title>
+<title_without_series><![CDATA[Feed the Resistance: Recipes + Ideas for Getting Involved]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34849094-feed-the-resistance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994278l/34849094._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994278l/34849094._SX98_.jpg]]></image_url>
+<num_pages>143</num_pages>
+<work>
+<id>56085929</id>
+</work>
+<isbn>1452168385</isbn>
+<isbn13>9781452168388</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6994548</id>
+<name>Julia Turshen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6994548.Julia_Turshen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38923647</id>
+<title><![CDATA[A Year with Nature: An Almanac]]></title>
+<title_without_series><![CDATA[A Year with Nature: An Almanac]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38923647-a-year-with-nature]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539484401l/38923647._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539484401l/38923647._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>60497248</id>
+</work>
+<isbn>022644970X</isbn>
+<isbn13>9780226449708</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>199025</id>
+<name>Marty Crump</name>
+<link><![CDATA[https://www.goodreads.com/author/show/199025.Marty_Crump]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24611638</id>
+<title><![CDATA[Luke Skywalker Can't Read: And Other Geeky Truths]]></title>
+<title_without_series><![CDATA[Luke Skywalker Can't Read: And Other Geeky Truths]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24611638-luke-skywalker-can-t-read]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422215502l/24611638._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422215502l/24611638._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>44222786</id>
+</work>
+<isbn>0147517575</isbn>
+<isbn13>9780147517579</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>4016763</id>
+<name>Ryan Britt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4016763.Ryan_Britt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31944638</id>
+<title>New Haven Noir</title>
+<title_without_series>New Haven Noir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31944638-new-haven-noir]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475300604l/31944638._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475300604l/31944638._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>52603311</id>
+</work>
+<isbn>1617755419</isbn>
+<isbn13>9781617755415</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>115220</id>
+<name>Amy Bloom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/115220.Amy_Bloom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40265587</id>
+<title><![CDATA[Dinner for Everyone: 100 Iconic Dishes Made 3 Ways--Easy, Vegan, or Perfect for Company: A Cookbook]]></title>
+<title_without_series><![CDATA[Dinner for Everyone: 100 Iconic Dishes Made 3 Ways--Easy, Vegan, or Perfect for Company: A Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40265587-dinner-for-everyone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531864390l/40265587._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531864390l/40265587._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>62548532</id>
+</work>
+<isbn>0385344767</isbn>
+<isbn13>9780385344760</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1785</id>
+<name>Mark Bittman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1785.Mark_Bittman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7936233</id>
+<title><![CDATA[Simple Times: Crafts for Poor People]]></title>
+<title_without_series><![CDATA[Simple Times: Crafts for Poor People]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7936233-simple-times]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>11339612</id>
+</work>
+<isbn>044655703X</isbn>
+<isbn13>9780446557030</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>2848</id>
+<name>Amy Sedaris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2848.Amy_Sedaris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35959785</id>
+<title><![CDATA[Natural Causes: An Epidemic of Wellness, the Certainty of Dying, and Killing Ourselves to Live Longer]]></title>
+<title_without_series><![CDATA[Natural Causes: An Epidemic of Wellness, the Certainty of Dying, and Killing Ourselves to Live Longer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35959785-natural-causes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520865073l/35959785._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520865073l/35959785._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57517765</id>
+</work>
+<isbn>1478961260</isbn>
+<isbn13>9781478961260</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>1257</id>
+<name>Barbara Ehrenreich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1257.Barbara_Ehrenreich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>334948</id>
+<title>Coffee: A Dark History</title>
+<title_without_series>Coffee: A Dark History</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/334948.Coffee]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>325428</id>
+</work>
+<isbn>0393060713</isbn>
+<isbn13>9780393060713</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>582</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>192082</id>
+<name>Antony Wild</name>
+<link><![CDATA[https://www.goodreads.com/author/show/192082.Antony_Wild]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>30256224</id>
+  <title>A Piece of the World</title>
+  <isbn><![CDATA[0062356267]]></isbn>
+  <isbn13><![CDATA[9780062356260]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475685526l/30256224._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475685526l/30256224._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>21</publication_day>
+  <publisher>William Morrow</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From the #1 <em>New York Times</em> bestselling author of the smash bestseller <em>Orphan Train,</em> a stunning and atmospheric novel of friendship, passion, and art, inspired by Andrew Wyeth’s mysterious and iconic painting <em>Christina’s World.</em><br /><br /><em>"Later he told me that he’d been afraid to show me the painting. He thought I wouldn’t like the way he portrayed me: dragging myself across the field, fingers clutching dirt, my legs twisted behind. The arid moonscape of wheatgrass and timothy. That dilapidated house in the distance, looming up like a secret that won’t stay hidden." </em><br /><br />To Christina Olson, the entire world was her family’s remote farm in the small coastal town of Cushing, Maine. Born in the home her family had lived in for generations, and increasingly incapacitated by illness, Christina seemed destined for a small life. Instead, for more than twenty years, she was host and inspiration for the artist Andrew Wyeth, and became the subject of one of the best known American paintings of the twentieth century.<br /><br />As she did in her beloved smash bestseller <em>Orphan Train</em>, Christina Baker Kline interweaves fact and fiction in a powerful novel that illuminates a little-known part of America’s history. Bringing into focus the flesh-and-blood woman behind the portrait, she vividly imagines the life of a woman with a complicated relationship to her family and her past, and a special bond with one of our greatest modern artists.<br /><br />Told in evocative and lucid prose, <em>A Piece of the World</em> is a story about the burdens and blessings of family history, and how artist and muse can come together to forge a new and timeless legacy.]]></description>
+  <work>
+  <id type="integer">50727814</id>
+  <books_count type="integer">39</books_count>
+  <best_book_id type="integer">30255942</best_book_id>
+  <reviews_count type="integer">142977</reviews_count>
+  <ratings_sum type="integer">200376</ratings_sum>
+  <ratings_count type="integer">51854</ratings_count>
+  <text_reviews_count type="integer">4664</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">21</original_publication_day>
+  <original_title>A Piece of the World</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:16178|4:19271|3:11565|2:2867|1:1973|total:51854</rating_dist>
+  <desc_user_id type="integer">3625145</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.I-7Aq-pGvrJ9hhhAxoYgfw</work_uri>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[309]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3703]]></ratings_count>
+  <text_reviews_count><![CDATA[537]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/30256224-a-piece-of-the-world]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/30256224-a-piece-of-the-world]]></link>
+  <authors>
+<author>
+<id>157146</id>
+<name>Christina Baker Kline</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364845937p5/157146.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364845937p2/157146.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/157146.Christina_Baker_Kline]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>416592</ratings_count>
+<text_reviews_count>35736</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/30256224-a-piece-of-the-world">A Piece of the World Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062356267&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/30256224-a-piece-of-the-world?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="67758"/>
+      <shelf name="currently-reading" count="3803"/>
+      <shelf name="historical-fiction" count="862"/>
+      <shelf name="fiction" count="510"/>
+      <shelf name="book-club" count="323"/>
+      <shelf name="art" count="149"/>
+      <shelf name="historical" count="104"/>
+      <shelf name="audio" count="97"/>
+      <shelf name="read-in-2017" count="86"/>
+      <shelf name="favorites" count="85"/>
+      <shelf name="kindle" count="85"/>
+      <shelf name="audiobook" count="77"/>
+      <shelf name="audiobooks" count="66"/>
+      <shelf name="library" count="63"/>
+      <shelf name="adult-fiction" count="63"/>
+      <shelf name="books-i-own" count="55"/>
+      <shelf name="bookclub" count="45"/>
+      <shelf name="adult" count="43"/>
+      <shelf name="2017-books" count="40"/>
+      <shelf name="book-club-books" count="39"/>
+      <shelf name="audio-books" count="37"/>
+      <shelf name="maine" count="36"/>
+      <shelf name="read-in-2018" count="34"/>
+      <shelf name="read-2017" count="34"/>
+      <shelf name="literary-fiction" count="33"/>
+      <shelf name="read-2018" count="31"/>
+      <shelf name="2017-reads" count="31"/>
+      <shelf name="book-group" count="30"/>
+      <shelf name="giveaways" count="28"/>
+      <shelf name="family" count="28"/>
+      <shelf name="audio-book" count="27"/>
+      <shelf name="book-club-reads" count="25"/>
+      <shelf name="novels" count="24"/>
+      <shelf name="new-england" count="23"/>
+      <shelf name="2018-books" count="22"/>
+      <shelf name="did-not-finish" count="21"/>
+      <shelf name="2017-read" count="21"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="abandoned" count="19"/>
+      <shelf name="didn-t-finish" count="18"/>
+      <shelf name="audible" count="18"/>
+      <shelf name="to-read-fiction" count="18"/>
+      <shelf name="books-read-in-2017" count="17"/>
+      <shelf name="fiction-historical" count="17"/>
+      <shelf name="ebook" count="17"/>
+      <shelf name="owned" count="17"/>
+      <shelf name="history" count="17"/>
+      <shelf name="2017-books-read" count="16"/>
+      <shelf name="general-fiction" count="16"/>
+      <shelf name="read-2019" count="15"/>
+      <shelf name="read-in-2019" count="15"/>
+      <shelf name="2018-reads" count="15"/>
+      <shelf name="library-book" count="15"/>
+      <shelf name="overdrive" count="15"/>
+      <shelf name="library-books" count="15"/>
+      <shelf name="contemporary-fiction" count="15"/>
+      <shelf name="wish-list" count="14"/>
+      <shelf name="listened-to" count="14"/>
+      <shelf name="my-library" count="14"/>
+      <shelf name="biographical-fiction" count="14"/>
+      <shelf name="novel" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="2018-read" count="13"/>
+      <shelf name="american" count="13"/>
+      <shelf name="adult-books" count="13"/>
+      <shelf name="art-history" count="13"/>
+      <shelf name="friendship" count="13"/>
+      <shelf name="maybe" count="13"/>
+      <shelf name="2019-books" count="12"/>
+      <shelf name="books-read-in-2018" count="12"/>
+      <shelf name="borrowed" count="12"/>
+      <shelf name="tbr" count="12"/>
+      <shelf name="mmd-book-club" count="12"/>
+      <shelf name="20th-century" count="12"/>
+      <shelf name="biography" count="11"/>
+      <shelf name="dnf" count="11"/>
+      <shelf name="book-club-ideas" count="11"/>
+      <shelf name="2017-releases" count="11"/>
+      <shelf name="historical-novel" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="ebooks" count="10"/>
+      <shelf name="historic-fiction" count="10"/>
+      <shelf name="recommended" count="10"/>
+      <shelf name="fiction-to-read" count="10"/>
+      <shelf name="first-reads" count="10"/>
+      <shelf name="christina-baker-kline" count="10"/>
+      <shelf name="want-to-read" count="10"/>
+      <shelf name="bought" count="9"/>
+      <shelf name="on-my-kindle" count="9"/>
+      <shelf name="literary" count="9"/>
+      <shelf name="gave-up-on" count="9"/>
+      <shelf name="contemporary" count="9"/>
+      <shelf name="2017-reading-challenge" count="9"/>
+      <shelf name="own-kindle" count="8"/>
+      <shelf name="library-book-club" count="8"/>
+      <shelf name="unfinished" count="8"/>
+      <shelf name="relationships" count="8"/>
+      <shelf name="book-club-book" count="8"/>
+      <shelf name="1940s" count="8"/>
+      <shelf name="own-to-read" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>114683</id>
+<title>Wall and Piece</title>
+<title_without_series>Wall and Piece</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114683.Wall_and_Piece]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327904853l/114683._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327904853l/114683._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>110426</id>
+</work>
+<isbn>1844137872</isbn>
+<isbn13>9781844137879</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>28811</id>
+<name>Banksy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28811.Banksy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13099738</id>
+<title><![CDATA[Steal Like an Artist: 10 Things Nobody Told You About Being Creative]]></title>
+<title_without_series><![CDATA[Steal Like an Artist: 10 Things Nobody Told You About Being Creative]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13099738-steal-like-an-artist]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404576602l/13099738._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404576602l/13099738._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>18272194</id>
+</work>
+<isbn>0761169253</isbn>
+<isbn13>9780761169253</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2985039</id>
+<name>Austin Kleon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2985039.Austin_Kleon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>615570</id>
+<title>The Artist&apos;s Way</title>
+<title_without_series>The Artist&apos;s Way</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/615570.The_Artist_s_Way]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440952332l/615570._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440952332l/615570._SX98_.jpg]]></image_url>
+<num_pages>237</num_pages>
+<work>
+<id>2210934</id>
+</work>
+<isbn>1585421464</isbn>
+<isbn13>9781585421466</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>13229</id>
+<name>Julia Cameron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13229.Julia_Cameron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>222078</id>
+<title>The Story of Art</title>
+<title_without_series>The Story of Art</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/222078.The_Story_of_Art]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>688</num_pages>
+<work>
+<id>215065</id>
+</work>
+<isbn>071483355X</isbn>
+<isbn13>9780714833552</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>167112</id>
+<name>E.H. Gombrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/167112.E_H_Gombrich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>567616</id>
+<title>The Art Book</title>
+<title_without_series>The Art Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/567616.The_Art_Book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411210646l/567616._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411210646l/567616._SX98_.jpg]]></image_url>
+<num_pages>515</num_pages>
+<work>
+<id>347606</id>
+</work>
+<isbn>0714836257</isbn>
+<isbn13>9780714836256</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6456394</id>
+<name>Phaidon Press</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6456394.Phaidon_Press]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>187633</id>
+<title><![CDATA[Art and Fear: Observations on the Perils (and Rewards) of Artmaking]]></title>
+<title_without_series><![CDATA[Art and Fear: Observations on the Perils (and Rewards) of Artmaking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/187633.Art_and_Fear]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>122</num_pages>
+<work>
+<id>181353</id>
+</work>
+<isbn>0961454733</isbn>
+<isbn13>9780961454739</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>109289</id>
+<name>David Bayles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/109289.David_Bayles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2865</id>
+<title>Girl with a Pearl Earring</title>
+<title_without_series>Girl with a Pearl Earring</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327197580l/2865._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327197580l/2865._SX98_.jpg]]></image_url>
+<num_pages>233</num_pages>
+<work>
+<id>3358875</id>
+</work>
+<isbn>0452287022</isbn>
+<isbn13>9780452287020</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1973</id>
+<name>Tracy Chevalier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1973.Tracy_Chevalier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>857502</id>
+<title><![CDATA[Concerning the Spiritual in Art]]></title>
+<title_without_series><![CDATA[Concerning the Spiritual in Art]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/857502.Concerning_the_Spiritual_in_Art]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405982387l/857502._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405982387l/857502._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1117836</id>
+</work>
+<isbn>0486234118</isbn>
+<isbn13>9780486234113</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>155176</id>
+<name>Wassily Kandinsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155176.Wassily_Kandinsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6988014</id>
+<title>Seven Days in the Art World</title>
+<title_without_series>Seven Days in the Art World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6988014-seven-days-in-the-art-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358748500l/6988014._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358748500l/6988014._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>3502133</id>
+</work>
+<isbn>039333712X</isbn>
+<isbn13>9780393337129</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>176959</id>
+<name>Sarah Thornton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/176959.Sarah_Thornton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28446947</id>
+<title>Autumn (Seasonal, #1)</title>
+<title_without_series>Autumn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28446947-autumn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456560519l/28446947._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456560519l/28446947._SX98_.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>48572278</id>
+</work>
+<isbn>0241207002</isbn>
+<isbn13>9780241207000</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>68992</id>
+<name>Ali Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68992.Ali_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32497573</id>
+<title><![CDATA[Everyone's a Aliebn When Ur a Aliebn Too]]></title>
+<title_without_series><![CDATA[Everyone's a Aliebn When Ur a Aliebn Too]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32497573-everyone-s-a-aliebn-when-ur-a-aliebn-too]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481043761l/32497573._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481043761l/32497573._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>53090016</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>15942951</id>
+<name>Jomny Sun</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15942951.Jomny_Sun]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>627206</id>
+<title><![CDATA[The New Drawing on the Right Side of the Brain]]></title>
+<title_without_series><![CDATA[The New Drawing on the Right Side of the Brain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>1763052</id>
+</work>
+<isbn>0874774241</isbn>
+<isbn13>9780874774245</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42010</id>
+<name>Betty Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42010.Betty_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32324273</id>
+<title>The Stars Are Fire</title>
+<title_without_series>The Stars Are Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32324273-the-stars-are-fire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492514870l/32324273._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492514870l/32324273._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>52957508</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3530</id>
+<name>Anita Shreve</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3530.Anita_Shreve]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20820994</id>
+<title>I&apos;ll Give You the Sun</title>
+<title_without_series>I&apos;ll Give You the Sun</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20820994-i-ll-give-you-the-sun]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451382614l/20820994._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451382614l/20820994._SX98_.jpg]]></image_url>
+<num_pages>371</num_pages>
+<work>
+<id>11409817</id>
+</work>
+<isbn>0803734964</isbn>
+<isbn13>9780803734968</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>2982266</id>
+<name>Jandy Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2982266.Jandy_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30653967</id>
+<title>The Women in the Castle</title>
+<title_without_series>The Women in the Castle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30653967-the-women-in-the-castle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472678686l/30653967._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472678686l/30653967._SX98_.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>51198912</id>
+</work>
+<isbn>0062563661</isbn>
+<isbn13>9780062563668</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>70916</id>
+<name>Jessica Shattuck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70916.Jessica_Shattuck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32148570</id>
+<title>Before We Were Yours</title>
+<title_without_series>Before We Were Yours</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32148570-before-we-were-yours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>52786185</id>
+</work>
+<isbn>0425284689</isbn>
+<isbn13>9780425284681</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>178832</id>
+<name>Lisa Wingate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178832.Lisa_Wingate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34912895</id>
+<title>The Great Alone</title>
+<title_without_series>The Great Alone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34912895-the-great-alone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56275107</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25150798</id>
+<title><![CDATA[The Tea Girl of Hummingbird Lane]]></title>
+<title_without_series><![CDATA[The Tea Girl of Hummingbird Lane]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25150798-the-tea-girl-of-hummingbird-lane]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472151037l/25150798._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472151037l/25150798._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>44851955</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>51854</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>713</id>
+<name>Lisa See</name>
+<link><![CDATA[https://www.goodreads.com/author/show/713.Lisa_See]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

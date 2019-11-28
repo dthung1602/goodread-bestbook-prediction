@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9689093</id>
+  <title><![CDATA[The Autobiography of Mrs. Tom Thumb]]></title>
+  <isbn><![CDATA[0385344155]]></isbn>
+  <isbn13><![CDATA[9780385344159]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320416504l/9689093._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320416504l/9689093._SX50_.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In her national bestseller <i>Alice I Have Been</i>, Melanie Benjamin imagined the life of the woman who inspired <i>Alice in Wonderland</i>. Now, in this jubilant new novel, Benjamin shines a dazzling spotlight on another fascinating female figure whose story has never fully been told: a woman who became a nineteenth century icon and inspiration - and whose most daunting limitation became her greatest strength. <br /> <br /><i>"Never would I allow my size to define me. Instead, I would define it." </i> <br /><br />She was only two-foot eight-inches tall, but her legend reaches out to us more than a century later. As a child, Mercy Lavinia "Vinnie" Bump was encouraged to live a life hidden away from the public. Instead, she reached out to the immortal impresario P. T. Barnum, married the tiny superstar General Tom Thumb in the wedding of the century, and transformed into the world's most unexpected celebrity. <br /><br />Here, in Vinnie's singular and spirited voice, is her amazing adventure - from a showboat "freak" revue where she endured jeering mobs to her fateful meeting with the two men who would change her life: P. T. Barnum and Charles Stratton, AKA Tom Thumb. Their wedding would captivate the nation, preempt coverage of the Civil War, and usher them into the White House and the company of presidents and queens. But Vinnie's fame would also endanger the person she prized most: her similarly-sized sister, Minnie, a gentle soul unable to escape the glare of Vinnie's spotlight. <br /><br />A barnstorming novel of the Gilded Age, and of a woman's public triumphs and personal tragedies, <i>The Autobiography of Mrs. Tom Thumb</i> is the irresistible epic of a heroine who conquered the country with a heart as big as her dreams - and whose story will surely win over yours.]]></description>
+  <work>
+  <id type="integer">14577174</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">9689093</best_book_id>
+  <reviews_count type="integer">22559</reviews_count>
+  <ratings_sum type="integer">34001</ratings_sum>
+  <ratings_count type="integer">9223</ratings_count>
+  <text_reviews_count type="integer">1570</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">26</original_publication_day>
+  <original_title>The Autobiography of Mrs. Tom Thumb</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1677|4:3865|3:2950|2:575|1:156|total:9223</rating_dist>
+  <desc_user_id type="integer">2635637</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.7DL5tZyqri22jKyT489czg</work_uri>
+</work>
+  <average_rating>3.69</average_rating>
+  <num_pages><![CDATA[424]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[7859]]></ratings_count>
+  <text_reviews_count><![CDATA[1378]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9689093-the-autobiography-of-mrs-tom-thumb]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9689093-the-autobiography-of-mrs-tom-thumb]]></link>
+  <authors>
+<author>
+<id>2958717</id>
+<name>Melanie Benjamin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1437063095p5/2958717.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1437063095p2/2958717.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2958717.Melanie_Benjamin]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>124607</ratings_count>
+<text_reviews_count>16604</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9689093-the-autobiography-of-mrs-tom-thumb">The Autobiography of Mrs. Tom Thumb Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385344155&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9689093-the-autobiography-of-mrs-tom-thumb?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11698"/>
+      <shelf name="historical-fiction" count="538"/>
+      <shelf name="currently-reading" count="290"/>
+      <shelf name="fiction" count="199"/>
+      <shelf name="historical" count="65"/>
+      <shelf name="book-club" count="58"/>
+      <shelf name="kindle" count="36"/>
+      <shelf name="audio" count="31"/>
+      <shelf name="favorites" count="28"/>
+      <shelf name="history" count="28"/>
+      <shelf name="library" count="28"/>
+      <shelf name="adult-fiction" count="27"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="biography" count="26"/>
+      <shelf name="adult" count="26"/>
+      <shelf name="first-reads" count="25"/>
+      <shelf name="19th-century" count="25"/>
+      <shelf name="audiobooks" count="24"/>
+      <shelf name="circus" count="24"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="audio-books" count="16"/>
+      <shelf name="read-in-2011" count="15"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="novels" count="13"/>
+      <shelf name="biographical-fiction" count="12"/>
+      <shelf name="abandoned" count="12"/>
+      <shelf name="audio-book" count="12"/>
+      <shelf name="non-fiction" count="12"/>
+      <shelf name="library-book" count="11"/>
+      <shelf name="general-fiction" count="11"/>
+      <shelf name="read-in-2012" count="10"/>
+      <shelf name="did-not-finish" count="10"/>
+      <shelf name="didn-t-finish" count="10"/>
+      <shelf name="overdrive" count="9"/>
+      <shelf name="e-books" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="2011-reads" count="9"/>
+      <shelf name="read-in-2013" count="8"/>
+      <shelf name="bookclub" count="8"/>
+      <shelf name="book-club-books" count="8"/>
+      <shelf name="family" count="8"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="read-2011" count="8"/>
+      <shelf name="autobiography" count="7"/>
+      <shelf name="historic-fiction" count="7"/>
+      <shelf name="memoir" count="7"/>
+      <shelf name="2012-reads" count="7"/>
+      <shelf name="gave-up-on" count="7"/>
+      <shelf name="to-read-own" count="7"/>
+      <shelf name="coming-of-age" count="7"/>
+      <shelf name="nook" count="7"/>
+      <shelf name="to-read-fiction" count="7"/>
+      <shelf name="usa" count="7"/>
+      <shelf name="giveaways" count="7"/>
+      <shelf name="fantasy" count="6"/>
+      <shelf name="literary-fiction" count="6"/>
+      <shelf name="i-own" count="6"/>
+      <shelf name="sisters" count="6"/>
+      <shelf name="civil-war" count="6"/>
+      <shelf name="fiction-historical" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="melanie-benjamin" count="6"/>
+      <shelf name="historicalfiction" count="6"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="favorite-authors" count="5"/>
+      <shelf name="literary" count="5"/>
+      <shelf name="women" count="5"/>
+      <shelf name="biography-memoir" count="5"/>
+      <shelf name="ibooks" count="5"/>
+      <shelf name="american-history" count="5"/>
+      <shelf name="own-kindle" count="4"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="finished" count="4"/>
+      <shelf name="united-states" count="4"/>
+      <shelf name="contemporary" count="4"/>
+      <shelf name="kindle-books" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="drama" count="4"/>
+      <shelf name="2012-books" count="4"/>
+      <shelf name="books-read-in-2012" count="4"/>
+      <shelf name="read-2012" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="american-literature" count="4"/>
+      <shelf name="book-club-reads" count="4"/>
+      <shelf name="never-finished" count="4"/>
+      <shelf name="dwarfism" count="4"/>
+      <shelf name="unfinished" count="4"/>
+      <shelf name="couldn-t-finish" count="4"/>
+      <shelf name="e-book" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="could-not-finish" count="4"/>
+      <shelf name="romance" count="4"/>
+      <shelf name="biographies" count="4"/>
+      <shelf name="read-in-2018" count="3"/>
+      <shelf name="tbr-historical-fiction" count="3"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="read-2016" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>42647003</id>
+<title>The Chelsea Girls</title>
+<title_without_series>The Chelsea Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42647003-the-chelsea-girls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66386362</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14903705</id>
+<name>Fiona  Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14903705.Fiona_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17072709</id>
+<title>The Last Stop</title>
+<title_without_series>The Last Stop</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17072709-the-last-stop]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138267l/17072709._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138267l/17072709._SX98_.jpg]]></image_url>
+<num_pages>194</num_pages>
+<work>
+<id>23422934</id>
+</work>
+<isbn>0988315327</isbn>
+<isbn13>9780988315327</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6831423</id>
+<name>Kirt J. Boyd</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6831423.Kirt_J_Boyd]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36319095</id>
+<title>The Silver Shoes: A Novel</title>
+<title_without_series>The Silver Shoes: A Novel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36319095-the-silver-shoes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512278204l/36319095._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512278204l/36319095._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57993721</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14091223</id>
+<name>Jill G. Hall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14091223.Jill_G_Hall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40265841</id>
+<title>Finding Dorothy</title>
+<title_without_series>Finding Dorothy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40265841-finding-dorothy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532363555l/40265841._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532363555l/40265841._SX98_.jpg]]></image_url>
+<num_pages>351</num_pages>
+<work>
+<id>62549168</id>
+</work>
+<isbn>0525622101</isbn>
+<isbn13>9780525622109</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>568672</id>
+<name>Elizabeth Letts</name>
+<link><![CDATA[https://www.goodreads.com/author/show/568672.Elizabeth_Letts]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18693913</id>
+<title><![CDATA[Grand Central: Original Stories of Postwar Love and Reunion]]></title>
+<title_without_series><![CDATA[Grand Central: Original Stories of Postwar Love and Reunion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18693913-grand-central]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385354770l/18693913._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385354770l/18693913._SX98_.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>26542464</id>
+</work>
+<isbn>0425272028</isbn>
+<isbn13>9780425272022</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>27857</id>
+<name>Jenna Blum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27857.Jenna_Blum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37638194</id>
+<title><![CDATA[A Well-Behaved Woman: A Novel of the Vanderbilts]]></title>
+<title_without_series><![CDATA[A Well-Behaved Woman: A Novel of the Vanderbilts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37638194-a-well-behaved-woman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517996842l/37638194._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517996842l/37638194._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>59225592</id>
+</work>
+<isbn>1250095476</isbn>
+<isbn13>9781250095473</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6521646</id>
+<name>Therese Anne Fowler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6521646.Therese_Anne_Fowler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18579812</id>
+<title>The Day She Died</title>
+<title_without_series>The Day She Died</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18579812-the-day-she-died]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>301</num_pages>
+<work>
+<id>26314651</id>
+</work>
+<isbn>0738740454</isbn>
+<isbn13>9780738740454</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>457993</id>
+<name>Catriona McPherson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457993.Catriona_McPherson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13707595</id>
+<title><![CDATA[A Free Man: A True Story of Life and Death in Delhi]]></title>
+<title_without_series><![CDATA[A Free Man: A True Story of Life and Death in Delhi]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13707595-a-free-man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343680225l/13707595._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343680225l/13707595._SX98_.jpg]]></image_url>
+<num_pages>230</num_pages>
+<work>
+<id>16785824</id>
+</work>
+<isbn>0393088901</isbn>
+<isbn13>9780393088908</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4197695</id>
+<name>Aman Sethi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4197695.Aman_Sethi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>285086</id>
+<title>American Woman</title>
+<title_without_series>American Woman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/285086.American_Woman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>369</num_pages>
+<work>
+<id>276587</id>
+</work>
+<isbn>0060542225</isbn>
+<isbn13>9780060542221</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>76672</id>
+<name>Susan Choi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76672.Susan_Choi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>653261</id>
+<title>The Room-Mating Season</title>
+<title_without_series>The Room-Mating Season</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/653261.The_Room_Mating_Season]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>1496760</id>
+</work>
+<isbn>0778320316</isbn>
+<isbn13>9780778320319</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>114706</id>
+<name>Rona Jaffe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114706.Rona_Jaffe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13531513</id>
+<title><![CDATA[Harlem's Little Blackbird: The Story of Florence Mills]]></title>
+<title_without_series><![CDATA[Harlem's Little Blackbird: The Story of Florence Mills]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13531513-harlem-s-little-blackbird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443780197l/13531513._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443780197l/13531513._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19093186</id>
+</work>
+<isbn>0375869735</isbn>
+<isbn13>9780375869730</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>4381088</id>
+<name>Renée Watson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4381088.Ren_e_Watson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47892130</id>
+<title>Love Alarm</title>
+<title_without_series>Love Alarm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47892130-love-alarm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73041424</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19495745</id>
+<name>Kye-young Chon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19495745.Kye_young_Chon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48695695</id>
+<title><![CDATA[Empires Ascendant: A Space Opera Anthology]]></title>
+<title_without_series><![CDATA[Empires Ascendant: A Space Opera Anthology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48695695-empires-ascendant]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>74047232</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6477659</id>
+<name>Jay Allan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6477659.Jay_Allan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44025144</id>
+<title>The Candy Cane Caper</title>
+<title_without_series>The Candy Cane Caper</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44025144-the-candy-cane-caper]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556737607l/44025144._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556737607l/44025144._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>68454176</id>
+</work>
+<isbn>162972601X</isbn>
+<isbn13>9781629726014</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>281286</id>
+<name>Josi S. Kilpack</name>
+<link><![CDATA[https://www.goodreads.com/author/show/281286.Josi_S_Kilpack]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48394816</id>
+<title><![CDATA[The Forever Family: A Scifi Short Story]]></title>
+<title_without_series><![CDATA[The Forever Family: A Scifi Short Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48394816-the-forever-family]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73688664</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13828892</id>
+<name>J.N. Chaney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13828892.J_N_Chaney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>289172</id>
+<title><![CDATA[A Tale Etched In Blood And Hard Black Pencil]]></title>
+<title_without_series><![CDATA[A Tale Etched In Blood And Hard Black Pencil]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/289172.A_Tale_Etched_In_Blood_And_Hard_Black_Pencil]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419183752l/289172._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419183752l/289172._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>2712214</id>
+</work>
+<isbn>0316730106</isbn>
+<isbn13>9780316730105</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>167572</id>
+<name>Christopher Brookmyre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/167572.Christopher_Brookmyre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30459836</id>
+<title><![CDATA[The Light (The Invasion Trilogy #3)]]></title>
+<title_without_series>The Light</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30459836-the-light]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>50978605</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6998214</id>
+<name>W.J. Lundy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6998214.W_J_Lundy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44025145</id>
+<title><![CDATA[Glass Slippers, Ever After, and Me]]></title>
+<title_without_series><![CDATA[Glass Slippers, Ever After, and Me]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44025145-glass-slippers-ever-after-and-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556737949l/44025145._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556737949l/44025145._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>68454177</id>
+</work>
+<isbn>1629726079</isbn>
+<isbn13>9781629726076</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>9223</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>143445</id>
+<name>Julie Wright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/143445.Julie_Wright]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

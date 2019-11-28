@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22859573</id>
+  <title>Orhan&apos;s Inheritance</title>
+  <isbn><![CDATA[1616203749]]></isbn>
+  <isbn13><![CDATA[9781616203740]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486689l/22859573._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486689l/22859573._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Algonquin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>In her extraordinary debut, Aline Ohanesian has created two remarkable characters—a young man ignorant of his family’s and his country’s past, and an old woman haunted by the toll the past has taken on her life.</b><br /><br /> When Orhan’s brilliant and eccentric grandfather Kemal—a man who built a dynasty out of making <i>kilim</i> rugs—is found dead, submerged in a vat of dye, Orhan inherits the decades-old business. But Kemal’s will raises more questions than it answers. He has left the family estate to a stranger thousands of miles away, an aging woman in an Armenian retirement home in Los Angeles. Her existence and secrecy about her past only deepen the mystery of why Orhan’s grandfather willed his home in Turkey to an unknown woman rather than to his own son or grandson.<br /><br /> Left with only Kemal’s ancient sketchbook and intent on righting this injustice, Orhan boards a plane to Los Angeles. There he will not only unearth the story that eighty-seven-year-old Seda so closely guards but discover that Seda’s past now threatens to unravel his future. Her story, if told, has the power to undo the legacy upon which his family has been built. <br /><br /> Moving back and forth in time, between the last years of the Ottoman Empire and the 1990s, <i>Orhan’s Inheritance</i> is a story of passionate love, unspeakable horrors, incredible resilience, and the hidden stories that can haunt a family for generations.<br /><br /> “Aline Ohanesian draws from her family’s own dark history to create a tender, powerful story of love and reclamation. <i>Orhan’s Inheritance</i> is a breathtaking and expansive work of historical fiction and proof that the past can sometimes rewrite the future.” —Christina Baker Kline, author of <i>Orphan Train</i>]]></description>
+  <work>
+  <id type="integer">42295759</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">22859573</best_book_id>
+  <reviews_count type="integer">21767</reviews_count>
+  <ratings_sum type="integer">27858</ratings_sum>
+  <ratings_count type="integer">7084</ratings_count>
+  <text_reviews_count type="integer">992</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">7</original_publication_day>
+  <original_title>Orhan's Inheritance</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1805|4:3409|3:1537|2:253|1:80|total:7084</rating_dist>
+  <desc_user_id type="integer">5147740</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.yRWrdwu8pGFPQWGovSc9Yw</work_uri>
+</work>
+  <average_rating>3.93</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5220]]></ratings_count>
+  <text_reviews_count><![CDATA[856]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22859573-orhan-s-inheritance]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22859573-orhan-s-inheritance]]></link>
+  <authors>
+<author>
+<id>8394137</id>
+<name>Aline Ohanesian</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1409684712p5/8394137.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1409684712p2/8394137.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8394137.Aline_Ohanesian]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<text_reviews_count>992</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22859573-orhan-s-inheritance">Orhan&#39;s Inheritance Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1616203749&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/22859573-orhan-s-inheritance?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2428"/>
+      <shelf name="currently-reading" count="337"/>
+      <shelf name="historical-fiction" count="288"/>
+      <shelf name="fiction" count="168"/>
+      <shelf name="book-club" count="54"/>
+      <shelf name="historical" count="39"/>
+      <shelf name="kindle" count="34"/>
+      <shelf name="turkey" count="33"/>
+      <shelf name="war" count="27"/>
+      <shelf name="audio" count="26"/>
+      <shelf name="audiobook" count="23"/>
+      <shelf name="library" count="23"/>
+      <shelf name="middle-east" count="23"/>
+      <shelf name="audible" count="21"/>
+      <shelf name="adult" count="21"/>
+      <shelf name="books-i-own" count="20"/>
+      <shelf name="favorites" count="19"/>
+      <shelf name="armenia" count="17"/>
+      <shelf name="history" count="16"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="novels" count="14"/>
+      <shelf name="mystery" count="13"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="family" count="12"/>
+      <shelf name="bookclub" count="11"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="armenian" count="11"/>
+      <shelf name="read-in-2015" count="10"/>
+      <shelf name="owned-books" count="10"/>
+      <shelf name="to-read-fiction" count="10"/>
+      <shelf name="audio-book" count="9"/>
+      <shelf name="genocide" count="9"/>
+      <shelf name="scribd" count="8"/>
+      <shelf name="ww1" count="8"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="overdrive" count="7"/>
+      <shelf name="ebook" count="6"/>
+      <shelf name="hoopla" count="6"/>
+      <shelf name="read-in-2016" count="6"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="kindle-books" count="6"/>
+      <shelf name="armenians" count="6"/>
+      <shelf name="adult-fiction" count="6"/>
+      <shelf name="family-saga" count="6"/>
+      <shelf name="book-group" count="6"/>
+      <shelf name="around-the-world" count="6"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="abandoned" count="5"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="2015-reads" count="5"/>
+      <shelf name="dnf" count="5"/>
+      <shelf name="literary-fiction" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="2015-books" count="5"/>
+      <shelf name="unread" count="5"/>
+      <shelf name="contemporary-fiction" count="5"/>
+      <shelf name="arc" count="5"/>
+      <shelf name="netgalley" count="5"/>
+      <shelf name="ottoman-empire" count="4"/>
+      <shelf name="united-states" count="4"/>
+      <shelf name="2016-read-harder-challenge" count="4"/>
+      <shelf name="family-relationships" count="4"/>
+      <shelf name="tragedy" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="books-read-in-2015" count="4"/>
+      <shelf name="california" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="asia" count="4"/>
+      <shelf name="own-kindle" count="4"/>
+      <shelf name="e-books" count="4"/>
+      <shelf name="fiction-general" count="4"/>
+      <shelf name="to-read-historical-fiction" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="fiction-to-read" count="4"/>
+      <shelf name="tbr-fiction" count="4"/>
+      <shelf name="2015-releases" count="4"/>
+      <shelf name="first-reads" count="4"/>
+      <shelf name="contemporary" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="book-club-suggestions" count="4"/>
+      <shelf name="2019-reads" count="3"/>
+      <shelf name="book-club-reads" count="3"/>
+      <shelf name="usa" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="tbr-historical-fiction" count="3"/>
+      <shelf name="armenian-genocide" count="3"/>
+      <shelf name="new" count="3"/>
+      <shelf name="book-clubs" count="3"/>
+      <shelf name="books-read-in-2016" count="3"/>
+      <shelf name="aoc" count="3"/>
+      <shelf name="read-for-book-club" count="3"/>
+      <shelf name="violence" count="3"/>
+      <shelf name="coming-of-age" count="3"/>
+      <shelf name="2016-reading-challenge" count="3"/>
+      <shelf name="women" count="3"/>
+      <shelf name="on-kindle" count="3"/>
+      <shelf name="choice-awards-2015" count="3"/>
+      <shelf name="default" count="3"/>
+      <shelf name="relationships" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>7985665</id>
+<title>The Gendarme</title>
+<title_without_series>The Gendarme</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7985665-the-gendarme]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282779228l/7985665._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282779228l/7985665._SX98_.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>12439598</id>
+</work>
+<isbn>0399156348</isbn>
+<isbn13>9780399156342</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3463600</id>
+<name>Mark Mustian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3463600.Mark_Mustian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>665809</id>
+<title>Zabelle</title>
+<title_without_series>Zabelle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/665809.Zabelle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>651863</id>
+</work>
+<isbn>0380732114</isbn>
+<isbn13>9780380732111</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>258254</id>
+<name>Nancy Kricorian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/258254.Nancy_Kricorian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12311305</id>
+<title>Vietnam</title>
+<title_without_series>Vietnam</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12311305-vietnam]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546101788l/12311305._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546101788l/12311305._SX98_.jpg]]></image_url>
+<num_pages>552</num_pages>
+<work>
+<id>24655587</id>
+</work>
+<isbn>1741797152</isbn>
+<isbn13>9781741797152</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6980602</id>
+<name>Lonely Planet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6980602.Lonely_Planet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43360091</id>
+<title>The Chocolate Maker&apos;s Wife</title>
+<title_without_series>The Chocolate Maker&apos;s Wife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43360091-the-chocolate-maker-s-wife]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545806767l/43360091._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545806767l/43360091._SX98_.jpg]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>57738384</id>
+</work>
+<isbn></isbn>
+<isbn13>9781489261458</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>4609969</id>
+<name>Karen  Brooks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4609969.Karen_Brooks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13649227</id>
+<title>The Book of Women</title>
+<title_without_series>The Book of Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13649227-the-book-of-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337016037l/13649227._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337016037l/13649227._SY160_.jpg]]></image_url>
+<num_pages>20</num_pages>
+<work>
+<id>19268689</id>
+</work>
+<isbn></isbn>
+<isbn13>9781937693046</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>155377</id>
+<name>Dorianne Laux</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155377.Dorianne_Laux]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41050706</id>
+<title>Prava porodica</title>
+<title_without_series>Prava porodica</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41050706-prava-porodica]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64097798</id>
+</work>
+<isbn>8674362028</isbn>
+<isbn13>9788674362020</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18271663</id>
+<name>Toni Parsons</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18271663.Toni_Parsons]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10607462</id>
+<title><![CDATA[The LDS Scriptures: Unabridged Complete King James Version Holy Bible /The Book of Mormon / Doctrine and Covenants / The Pearl of Great Price]]></title>
+<title_without_series><![CDATA[The LDS Scriptures: Unabridged Complete King James Version Holy Bible /The Book of Mormon / Doctrine and Covenants / The Pearl of Great Price]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10607462-the-lds-scriptures]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15515419</id>
+</work>
+<isbn></isbn>
+<isbn13>2940012200709</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1367163</id>
+<name><![CDATA[The Church of Jesus Christ of Latter-day Saints]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/1367163.The_Church_of_Jesus_Christ_of_Latter_day_Saints]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1780106</id>
+<title><![CDATA[The Merry Monarch's Wife (Queens of England, #9)]]></title>
+<title_without_series>The Merry Monarch&apos;s Wife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1780106.The_Merry_Monarch_s_Wife]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320477695l/1780106._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320477695l/1780106._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1778851</id>
+</work>
+<isbn>030734617X</isbn>
+<isbn13>9780307346179</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>6590</id>
+<name>Jean Plaidy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6590.Jean_Plaidy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37792775</id>
+<title>Odessa, Odessa</title>
+<title_without_series>Odessa, Odessa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37792775-odessa-odessa]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515505892l/37792775._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515505892l/37792775._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59453201</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17561430</id>
+<name>Barbara Artson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17561430.Barbara_Artson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5782290</id>
+<title>The Rendezvous</title>
+<title_without_series>The Rendezvous</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5782290-the-rendezvous]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266787819l/5782290._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266787819l/5782290._SY160_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>5954225</id>
+</work>
+<isbn>0425035735</isbn>
+<isbn13>9780425035733</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>166913</id>
+<name>Evelyn Anthony</name>
+<link><![CDATA[https://www.goodreads.com/author/show/166913.Evelyn_Anthony]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43885018</id>
+<title><![CDATA[Food: What the Heck Should I Cook?: More than 100 Delicious Recipes--Pegan, Vegan, Paleo, Gluten-free, Dairy-free, and More--For Lifelong Health]]></title>
+<title_without_series><![CDATA[Food: What the Heck Should I Cook?: More than 100 Delicious Recipes--Pegan, Vegan, Paleo, Gluten-free, Dairy-free, and More--For Lifelong Health]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43885018-food]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567163307l/43885018._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567163307l/43885018._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>68278831</id>
+</work>
+<isbn>0316453137</isbn>
+<isbn13>9780316453134</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>59919</id>
+<name>Mark Hyman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59919.Mark_Hyman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>607124</id>
+<title><![CDATA[The Gang That Couldn't Shoot Straight]]></title>
+<title_without_series><![CDATA[The Gang That Couldn't Shoot Straight]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/607124.The_Gang_That_Couldn_t_Shoot_Straight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>593645</id>
+</work>
+<isbn>0316111740</isbn>
+<isbn13>9780316111744</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53424</id>
+<name>Jimmy Breslin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53424.Jimmy_Breslin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>711653</id>
+<title><![CDATA[Brandenburg Gate (Robert Harland #3)]]></title>
+<title_without_series>Brandenburg Gate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/711653.Brandenburg_Gate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328856913l/711653._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328856913l/711653._SX98_.jpg]]></image_url>
+<num_pages>437</num_pages>
+<work>
+<id>2220563</id>
+</work>
+<isbn>0802143148</isbn>
+<isbn13>9780802143143</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>231814</id>
+<name>Henry Porter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/231814.Henry_Porter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42407954</id>
+<title>Когато капят кестените</title>
+<title_without_series>Когато капят кестените</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42407954]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540141942l/42407954._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540141942l/42407954._SX98_.jpg]]></image_url>
+<num_pages>552</num_pages>
+<work>
+<id>66099408</id>
+</work>
+<isbn></isbn>
+<isbn13>9789542826910</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18545222</id>
+<name>Стефан Коспартов</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18545222._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29201596</id>
+<title>A Long Time Dead</title>
+<title_without_series>A Long Time Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29201596-a-long-time-dead]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458496838l/29201596._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458496838l/29201596._SX98_.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>49436702</id>
+</work>
+<isbn>1504036093</isbn>
+<isbn13>9781504036092</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>50948</id>
+<name>Mickey Spillane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50948.Mickey_Spillane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35909706</id>
+<title><![CDATA[Women of the Blue and Gray: True Civil War Stories of Mothers, Medics, Soldiers, and Spies]]></title>
+<title_without_series><![CDATA[Women of the Blue and Gray: True Civil War Stories of Mothers, Medics, Soldiers, and Spies]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35909706-women-of-the-blue-and-gray]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530808467l/35909706._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530808467l/35909706._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>57435805</id>
+</work>
+<isbn>1629724157</isbn>
+<isbn13>9781629724157</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4127271</id>
+<name>Marianne Monson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4127271.Marianne_Monson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1279345</id>
+<title>Ice Road</title>
+<title_without_series>Ice Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1279345.Ice_Road]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>534</num_pages>
+<work>
+<id>1268336</id>
+</work>
+<isbn>1844080595</isbn>
+<isbn13>9781844080595</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53028</id>
+<name>Gillian Slovo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53028.Gillian_Slovo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8724659</id>
+<title><![CDATA[Afterlives of the Rich and Famous]]></title>
+<title_without_series><![CDATA[Afterlives of the Rich and Famous]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8724659-afterlives-of-the-rich-and-famous]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>13597617</id>
+</work>
+<isbn>0061966797</isbn>
+<isbn13>9780061966798</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7084</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4333</id>
+<name>Sylvia Browne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4333.Sylvia_Browne]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

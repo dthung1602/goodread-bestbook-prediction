@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7797032</id>
+  <title><![CDATA[Spell Bound (Women of the Otherworld, #12)]]></title>
+  <isbn><![CDATA[1841498076]]></isbn>
+  <isbn13><![CDATA[9781841498072]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1292864599l/7797032._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1292864599l/7797032._SY75_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>Orbit</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The #1 "New York Times" bestselling author sets the stage for a battle of epic proportions.<br /><br />Savannah Levine is all grown up. As a witch endowed with an array of spells, she is also a force to be reckoned with. As a paranormal investigator she is finally coming into her own. But her last case tore a family apart, and Savannah swore she'd give up her powers to fix the mess she helped create. Someone--or something--must have been listening. Powerless and on the run from witch-hunting assassins, Savannah stumbles upon a gathering storm that threatens the very existence of the Otherworld. The danger is real, and Savannah must somehow join forces with old friends like Elena, Clay, Paige, Lucas, Jaime, and Hope to face their world's greatest threat--and one that just might come from within.]]></description>
+  <work>
+  <id type="integer">10767072</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">7797032</best_book_id>
+  <reviews_count type="integer">28123</reviews_count>
+  <ratings_sum type="integer">58070</ratings_sum>
+  <ratings_count type="integer">13750</ratings_count>
+  <text_reviews_count type="integer">782</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5940|4:5308|3:2183|2:270|1:49|total:13750</rating_dist>
+  <desc_user_id type="integer">4391094</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.qAx_GnNPaHJT5JIg2Gk0EA</work_uri>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11309]]></ratings_count>
+  <text_reviews_count><![CDATA[499]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7797032-spell-bound]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7797032-spell-bound]]></link>
+  <authors>
+<author>
+<id>7581</id>
+<name>Kelley Armstrong</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199068298p5/7581.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199068298p2/7581.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7581.Kelley_Armstrong]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1178835</ratings_count>
+<text_reviews_count>62961</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7797032-spell-bound">Spell Bound Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1841498076&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/7797032-spell-bound?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10433"/>
+      <shelf name="urban-fantasy" count="511"/>
+      <shelf name="paranormal" count="334"/>
+      <shelf name="fantasy" count="293"/>
+      <shelf name="kelley-armstrong" count="205"/>
+      <shelf name="currently-reading" count="162"/>
+      <shelf name="series" count="123"/>
+      <shelf name="witches" count="119"/>
+      <shelf name="vampires" count="114"/>
+      <shelf name="favorites" count="112"/>
+      <shelf name="magic" count="99"/>
+      <shelf name="supernatural" count="90"/>
+      <shelf name="paranormal-romance" count="86"/>
+      <shelf name="fiction" count="85"/>
+      <shelf name="romance" count="82"/>
+      <shelf name="owned" count="76"/>
+      <shelf name="werewolves" count="76"/>
+      <shelf name="adult" count="72"/>
+      <shelf name="women-of-the-otherworld" count="72"/>
+      <shelf name="demons" count="70"/>
+      <shelf name="books-i-own" count="52"/>
+      <shelf name="library" count="48"/>
+      <shelf name="otherworld" count="46"/>
+      <shelf name="to-buy" count="38"/>
+      <shelf name="default" count="37"/>
+      <shelf name="ebooks" count="33"/>
+      <shelf name="kindle" count="33"/>
+      <shelf name="shifters" count="30"/>
+      <shelf name="kelly-armstrong" count="30"/>
+      <shelf name="armstrong-kelley" count="29"/>
+      <shelf name="wish-list" count="25"/>
+      <shelf name="mystery" count="24"/>
+      <shelf name="ebook" count="24"/>
+      <shelf name="shapeshifters" count="24"/>
+      <shelf name="otherworld-series" count="22"/>
+      <shelf name="audio" count="21"/>
+      <shelf name="need-to-buy" count="21"/>
+      <shelf name="vampire" count="21"/>
+      <shelf name="read-in-2011" count="21"/>
+      <shelf name="ghosts" count="20"/>
+      <shelf name="canadian" count="19"/>
+      <shelf name="read-in-2012" count="18"/>
+      <shelf name="favourites" count="18"/>
+      <shelf name="fantasy-paranormal" count="18"/>
+      <shelf name="audiobooks" count="16"/>
+      <shelf name="audiobook" count="16"/>
+      <shelf name="owned-books" count="15"/>
+      <shelf name="my-books" count="15"/>
+      <shelf name="armstrong" count="15"/>
+      <shelf name="horror" count="14"/>
+      <shelf name="fantasy-urban" count="13"/>
+      <shelf name="paranormal-fantasy" count="13"/>
+      <shelf name="read-2011" count="13"/>
+      <shelf name="adult-fiction" count="13"/>
+      <shelf name="pnr" count="12"/>
+      <shelf name="e-books" count="12"/>
+      <shelf name="witch" count="12"/>
+      <shelf name="want-to-read" count="12"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="young-adult" count="11"/>
+      <shelf name="witches-wizards" count="11"/>
+      <shelf name="sci-fi-fantasy" count="11"/>
+      <shelf name="books" count="10"/>
+      <shelf name="read-in-2013" count="10"/>
+      <shelf name="have" count="10"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="urban" count="10"/>
+      <shelf name="nook" count="10"/>
+      <shelf name="contemporary" count="10"/>
+      <shelf name="want" count="10"/>
+      <shelf name="paranormal-urban-fantasy" count="10"/>
+      <shelf name="hardcover" count="10"/>
+      <shelf name="series-to-finish" count="10"/>
+      <shelf name="calibre" count="9"/>
+      <shelf name="author-kelley-armstrong" count="9"/>
+      <shelf name="part-of-a-series" count="9"/>
+      <shelf name="4-stars" count="9"/>
+      <shelf name="adult-paranormal" count="9"/>
+      <shelf name="home-library" count="8"/>
+      <shelf name="angels" count="8"/>
+      <shelf name="contemporary-fantasy" count="8"/>
+      <shelf name="thriller" count="8"/>
+      <shelf name="5-stars" count="8"/>
+      <shelf name="zombies" count="8"/>
+      <shelf name="audible" count="8"/>
+      <shelf name="2011-read" count="8"/>
+      <shelf name="women-of-the-otherworld-series" count="8"/>
+      <shelf name="uf" count="8"/>
+      <shelf name="series-women-of-the-otherworld" count="8"/>
+      <shelf name="read-2016" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="want-to-buy" count="7"/>
+      <shelf name="read-2013" count="7"/>
+      <shelf name="need-to-get" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="sci-fi" count="7"/>
+      <shelf name="2012-reads" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="ya" count="7"/>
+      <shelf name="dark-fantasy" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>176130</id>
+<user_position>12</user_position>
+<series>
+<id>40463</id>
+<title>
+<![CDATA[
+    Otherworld
+]]>
+</title>
+<description>
+<![CDATA[
+    ->Check out the <a href="http://www.goodreads.com/series/54853-otherworld-stories">Otherworld Short Stories and Novellas</a>
+    
+    Find the author's reading order of the novels, novellas and short stories on a  <a href="http://www.kelleyarmstrong.com/PDFs/Otherworld_Booklet.pdf">printable PDF checklist</a>
+    http://www.kelleyarmstrong.com/series/otherworld/
+    Previously known as "Women of the Otherworld"
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>23</series_works_count>
+<primary_work_count>16</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>10399862</id>
+<title><![CDATA[Darkness Rising (Dark Angels, #2)]]></title>
+<title_without_series>Darkness Rising</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10399862-darkness-rising]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>15303788</id>
+</work>
+<isbn>0440245737</isbn>
+<isbn13>9780440245735</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>7742</id>
+<name>Keri Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7742.Keri_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12363978</id>
+<title><![CDATA[Darkness Devours (Dark Angels, #3)]]></title>
+<title_without_series>Darkness Devours</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12363978-darkness-devours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325978146l/12363978._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325978146l/12363978._SX98_.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>17344100</id>
+</work>
+<isbn>0451237110</isbn>
+<isbn13>9780451237118</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7742</id>
+<name>Keri Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7742.Keri_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30268</id>
+<title>Dates from Hell</title>
+<title_without_series>Dates from Hell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30268.Dates_from_Hell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>30644</id>
+</work>
+<isbn>006085409X</isbn>
+<isbn13>9780060854096</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>17054</id>
+<name>Kim Harrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17054.Kim_Harrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43734724</id>
+<title><![CDATA[Changeling Illusion (Thirteen Realms #3)]]></title>
+<title_without_series>Changeling Illusion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43734724-changeling-illusion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68064427</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6437250</id>
+<name>Marina Finlayson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6437250.Marina_Finlayson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43233639</id>
+<title><![CDATA[The Unkindest Tide (October Daye, #13)]]></title>
+<title_without_series>The Unkindest Tide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43233639-the-unkindest-tide]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557373742l/43233639._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557373742l/43233639._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>42787147</id>
+</work>
+<isbn>0756415071</isbn>
+<isbn13>9780756415075</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2860219</id>
+<name>Seanan McGuire</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2860219.Seanan_McGuire]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13478341</id>
+<title><![CDATA[Darkness Hunts (Dark Angels, #4)]]></title>
+<title_without_series>Darkness Hunts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13478341-darkness-hunts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331589357l/13478341._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331589357l/13478341._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>19009740</id>
+</work>
+<isbn>1101590211</isbn>
+<isbn13>9781101590218</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7742</id>
+<name>Keri Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7742.Keri_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25026912</id>
+<title><![CDATA[Storm Cursed (Mercy Thompson, #11)]]></title>
+<title_without_series>Storm Cursed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25026912-storm-cursed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530631118l/25026912._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530631118l/25026912._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>44701530</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>40563</id>
+<name>Patricia Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16160769</id>
+<title><![CDATA[Kitty in the Underworld (Kitty Norville, #12)]]></title>
+<title_without_series>Kitty in the Underworld</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16160769-kitty-in-the-underworld]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359803747l/16160769._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359803747l/16160769._SX98_.jpg]]></image_url>
+<num_pages>305</num_pages>
+<work>
+<id>22002273</id>
+</work>
+<isbn>0765368684</isbn>
+<isbn13>9780765368683</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>8988</id>
+<name>Carrie Vaughn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8988.Carrie_Vaughn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18273946</id>
+<title><![CDATA[Low Midnight (Kitty Norville, #13)]]></title>
+<title_without_series>Low Midnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18273946-low-midnight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396491923l/18273946._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396491923l/18273946._SX98_.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>25740609</id>
+</work>
+<isbn>0765368692</isbn>
+<isbn13>9780765368690</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>12</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>8988</id>
+<name>Carrie Vaughn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8988.Carrie_Vaughn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10599805</id>
+<title><![CDATA[A Perfect Blood (The Hollows, #10)]]></title>
+<title_without_series>A Perfect Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10599805-a-perfect-blood]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312426322l/10599805._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312426322l/10599805._SX98_.jpg]]></image_url>
+<num_pages>438</num_pages>
+<work>
+<id>15507485</id>
+</work>
+<isbn>0061957895</isbn>
+<isbn13>9780061957895</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>17054</id>
+<name>Kim Harrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17054.Kim_Harrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44447852</id>
+<title><![CDATA[The Amplifier Protocol (Amplifier #0)]]></title>
+<title_without_series>The Amplifier Protocol</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44447852-the-amplifier-protocol]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69027278</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4897363</id>
+<name>Meghan Ciana Doidge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4897363.Meghan_Ciana_Doidge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45368731</id>
+<title><![CDATA[Bonds and Broken Dreams (Amplifier #2)]]></title>
+<title_without_series>Bonds and Broken Dreams</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45368731-bonds-and-broken-dreams]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>70123008</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4897363</id>
+<name>Meghan Ciana Doidge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4897363.Meghan_Ciana_Doidge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19275608</id>
+<title><![CDATA[Darkness Falls (Dark Angels, #7)]]></title>
+<title_without_series>Darkness Falls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19275608-darkness-falls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395089982l/19275608._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395089982l/19275608._SX98_.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>27323084</id>
+</work>
+<isbn>045141960X</isbn>
+<isbn13>9780451419606</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>12</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7742</id>
+<name>Keri Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7742.Keri_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15840437</id>
+<title><![CDATA[Spirit Binder (The Cascadian Chronicles #1)]]></title>
+<title_without_series>Spirit Binder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15840437-spirit-binder]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345594893l/15840437._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345594893l/15840437._SX98_.jpg]]></image_url>
+<num_pages>219</num_pages>
+<work>
+<id>21386436</id>
+</work>
+<isbn>0987685171</isbn>
+<isbn13>9780987685179</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>4897363</id>
+<name>Meghan Ciana Doidge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4897363.Meghan_Ciana_Doidge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9380186</id>
+<title><![CDATA[Darkness Unbound (Dark Angels, #1)]]></title>
+<title_without_series>Darkness Unbound</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9380186-darkness-unbound]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294361444l/9380186._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294361444l/9380186._SX98_.jpg]]></image_url>
+<num_pages>364</num_pages>
+<work>
+<id>14263831</id>
+</work>
+<isbn>0749954914</isbn>
+<isbn13>9780749954918</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7742</id>
+<name>Keri Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7742.Keri_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15795549</id>
+<title><![CDATA[Kitty Rocks the House (Kitty Norville, #11)]]></title>
+<title_without_series>Kitty Rocks the House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15795549-kitty-rocks-the-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346068848l/15795549._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346068848l/15795549._SX98_.jpg]]></image_url>
+<num_pages>324</num_pages>
+<work>
+<id>21517755</id>
+</work>
+<isbn>0765368676</isbn>
+<isbn13>9780765368676</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>8988</id>
+<name>Carrie Vaughn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8988.Carrie_Vaughn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44579974</id>
+<title>Demons and DNA (Amplifier #1)</title>
+<title_without_series>Demons and DNA</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44579974-demons-and-dna]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69194326</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4897363</id>
+<name>Meghan Ciana Doidge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4897363.Meghan_Ciana_Doidge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15749143</id>
+<title><![CDATA[Darkness Unmasked (Dark Angels, #5)]]></title>
+<title_without_series>Darkness Unmasked</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15749143-darkness-unmasked]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359948864l/15749143._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359948864l/15749143._SX98_.jpg]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>21442007</id>
+</work>
+<isbn>0451237137</isbn>
+<isbn13>9780451237132</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>13750</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7742</id>
+<name>Keri Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7742.Keri_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

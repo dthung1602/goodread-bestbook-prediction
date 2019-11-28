@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18498559</id>
+  <title><![CDATA[Tibetan Peach Pie: A True Account of an Imaginative Life]]></title>
+  <isbn><![CDATA[006226740X]]></isbn>
+  <isbn13><![CDATA[9780062267405]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Ecco</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Internationally bestselling novelist and American icon Tom Robbins's long-awaited tale of his wild life and times, both at home and around the globe<br /><br />Tom Robbins's warm, wise, and wonderfully weird novels–including <em>Even Cowgirls Get the Blues</em>, <em>Another Roadside Attraction</em>, and <em>Jitterbug Perfume</em>–provide an entryway into the frontier of his singular imagination. Madcap but sincere, pulsating with strong social and philosophical undercurrents, his irreverent classics have introduced countless readers to hitchhiking cowgirls, born-again monkeys, a philosophizing can of beans, exiled royalty, and problematic redheads.<br /><br />In <em>Tibetan Peach Pie</em>, Robbins turns that unparalleled literary sensibility inward, weaving together stories of his unconventional life–from his Appalachian childhood to his globe-trotting adventures–told in his unique voice, which combines the sweet and sly, the spiritual and earthy. The grandchild of Baptist preachers, Robbins would become, over the course of half a century, a poet interruptus, a soldier, a meteorologist, a radio DJ, an art-critic-turned-psychedelic-journeyman, a world-famous novelist, and a counterculture hero, leading a life as unlikely, magical, and bizarre as those of his quixotic characters.<br /><br />Robbins offers intimate snapshots of Appalachia during the Great Depression, the West Coast during the sixties' psychedelic revolution, international roving before Homeland Security monitored our travels, and New York publishing when it still relied on trees.<br /><br />Written with the big-hearted comedy and mesmerizing linguistic invention for which Robbins is known, <em>Tibetan Peach Pie</em> is an invitation into the private world of a literary legend.]]></description>
+  <work>
+  <id type="integer">26186625</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">18498559</best_book_id>
+  <reviews_count type="integer">14388</reviews_count>
+  <ratings_sum type="integer">20328</ratings_sum>
+  <ratings_count type="integer">5267</ratings_count>
+  <text_reviews_count type="integer">705</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>Tibetan Peach Pie</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1536|4:2021|3:1261|2:332|1:117|total:5267</rating_dist>
+  <desc_user_id type="integer">10093522</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.KLuH5Nscx0gdiFdA-fU2xQ</work_uri>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[384]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3885]]></ratings_count>
+  <text_reviews_count><![CDATA[583]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18498559-tibetan-peach-pie]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18498559-tibetan-peach-pie]]></link>
+  <authors>
+<author>
+<id>197</id>
+<name>Tom Robbins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430660478p5/197.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430660478p2/197.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/197.Tom_Robbins]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>331814</ratings_count>
+<text_reviews_count>14543</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18498559-tibetan-peach-pie">Tibetan Peach Pie Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006226740X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18498559-tibetan-peach-pie?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6691"/>
+      <shelf name="currently-reading" count="1387"/>
+      <shelf name="non-fiction" count="104"/>
+      <shelf name="memoir" count="82"/>
+      <shelf name="biography" count="62"/>
+      <shelf name="nonfiction" count="47"/>
+      <shelf name="kindle" count="28"/>
+      <shelf name="humor" count="26"/>
+      <shelf name="fiction" count="25"/>
+      <shelf name="memoirs" count="24"/>
+      <shelf name="audiobook" count="19"/>
+      <shelf name="tom-robbins" count="19"/>
+      <shelf name="favorites" count="18"/>
+      <shelf name="autobiography" count="18"/>
+      <shelf name="biography-memoir" count="15"/>
+      <shelf name="owned" count="14"/>
+      <shelf name="audio" count="12"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="memoir-biography" count="12"/>
+      <shelf name="library" count="11"/>
+      <shelf name="abandoned" count="10"/>
+      <shelf name="read-2014" count="9"/>
+      <shelf name="ebook" count="8"/>
+      <shelf name="unfinished" count="8"/>
+      <shelf name="dnf" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="read-in-2014" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="couldn-t-finish" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="funny" count="6"/>
+      <shelf name="books-i-own" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="biography-autobiography-memoir" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="travel" count="5"/>
+      <shelf name="did-not-finish" count="5"/>
+      <shelf name="biographies" count="5"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="american" count="4"/>
+      <shelf name="default" count="4"/>
+      <shelf name="listened" count="4"/>
+      <shelf name="to-read-non-fiction" count="4"/>
+      <shelf name="memoirs-biographies" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="audio-book" count="4"/>
+      <shelf name="gave-up-on" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="bio" count="4"/>
+      <shelf name="on-hold" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="e-books" count="3"/>
+      <shelf name="read-in-2016" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="overdrive" count="3"/>
+      <shelf name="to-read-fiction" count="3"/>
+      <shelf name="2015-books" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="set-aside" count="3"/>
+      <shelf name="writers" count="3"/>
+      <shelf name="adult-non-fiction" count="3"/>
+      <shelf name="seattle" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="philosophy" count="3"/>
+      <shelf name="books-about-books" count="3"/>
+      <shelf name="memoirs-and-biographies" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="signed" count="3"/>
+      <shelf name="writing" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="bio-memoir" count="3"/>
+      <shelf name="memoir-bio" count="3"/>
+      <shelf name="memoirs-biography" count="3"/>
+      <shelf name="read-in-2018" count="2"/>
+      <shelf name="ebook-kindle" count="2"/>
+      <shelf name="21st-century" count="2"/>
+      <shelf name="owned-to-read" count="2"/>
+      <shelf name="in-kindle" count="2"/>
+      <shelf name="nf" count="2"/>
+      <shelf name="usa" count="2"/>
+      <shelf name="religion-philosophy" count="2"/>
+      <shelf name="biography-autobiography" count="2"/>
+      <shelf name="american-south" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="partially-read" count="2"/>
+      <shelf name="to-listen" count="2"/>
+      <shelf name="auto-biography" count="2"/>
+      <shelf name="started-but-never-finished" count="2"/>
+      <shelf name="own-kindle" count="2"/>
+      <shelf name="2016-books" count="2"/>
+      <shelf name="new-york-city" count="2"/>
+      <shelf name="stand-alone" count="2"/>
+      <shelf name="books-read-in-2016" count="2"/>
+      <shelf name="my-library" count="2"/>
+      <shelf name="shelfari-wishlist" count="2"/>
+      <shelf name="shelfari-favorites" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>22032559</id>
+<title><![CDATA[Tom Robbins: The Kindle Singles Interview (Kindle Single)]]></title>
+<title_without_series><![CDATA[Tom Robbins: The Kindle Singles Interview]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22032559-tom-robbins]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>41353154</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1734431</id>
+<name>Mara Altman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1734431.Mara_Altman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23014599</id>
+<title><![CDATA[Deal: My Three Decades of Drumming, Dreams, and Drugs with the Grateful Dead]]></title>
+<title_without_series><![CDATA[Deal: My Three Decades of Drumming, Dreams, and Drugs with the Grateful Dead]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23014599-deal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428582l/23014599._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428582l/23014599._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>42580741</id>
+</work>
+<isbn>1250033799</isbn>
+<isbn13>9781250033796</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8475670</id>
+<name>Bill Kreutzmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8475670.Bill_Kreutzmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7577</id>
+<title><![CDATA[Even Cowgirls Get the Blues & My Own Private Idaho]]></title>
+<title_without_series><![CDATA[Even Cowgirls Get the Blues & My Own Private Idaho]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7577.Even_Cowgirls_Get_the_Blues_My_Own_Private_Idaho]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>199</num_pages>
+<work>
+<id>10682</id>
+</work>
+<isbn>0571169201</isbn>
+<isbn13>9780571169207</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>5131</id>
+<name>Gus Van Sant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5131.Gus_Van_Sant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>395551</id>
+<title><![CDATA[Keeping It Real (Quantum Gravity #1)]]></title>
+<title_without_series>Keeping It Real</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/395551.Keeping_It_Real]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>333</num_pages>
+<work>
+<id>1891142</id>
+</work>
+<isbn>1591025397</isbn>
+<isbn13>9781591025399</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>224518</id>
+<name>Justina Robson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/224518.Justina_Robson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>837063</id>
+<title><![CDATA[Selling Out (Quantum Gravity #2)]]></title>
+<title_without_series>Selling Out</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/837063.Selling_Out]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>887894</id>
+</work>
+<isbn>1591025974</isbn>
+<isbn13>9781591025979</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>224518</id>
+<name>Justina Robson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/224518.Justina_Robson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>837062</id>
+<title><![CDATA[Living Next Door to the God of Love]]></title>
+<title_without_series><![CDATA[Living Next Door to the God of Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/837062.Living_Next_Door_to_the_God_of_Love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320475264l/837062._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320475264l/837062._SX98_.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>2528072</id>
+</work>
+<isbn>0553587420</isbn>
+<isbn13>9780553587425</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>224518</id>
+<name>Justina Robson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/224518.Justina_Robson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>837061</id>
+<title>Silver Screen</title>
+<title_without_series>Silver Screen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/837061.Silver_Screen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365462747l/837061._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365462747l/837061._SX98_.jpg]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>2494628</id>
+</work>
+<isbn>1591023386</isbn>
+<isbn13>9781591023388</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>224518</id>
+<name>Justina Robson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/224518.Justina_Robson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3287236</id>
+<title><![CDATA[Going Under (Quantum Gravity #3)]]></title>
+<title_without_series>Going Under</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3287236-going-under]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>3323601</id>
+</work>
+<isbn>1591026504</isbn>
+<isbn13>9781591026501</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>224518</id>
+<name>Justina Robson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/224518.Justina_Robson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46004302</id>
+<title><![CDATA[Don't Dare to Dream (Agent Bob mystery book 1)]]></title>
+<title_without_series>Don&apos;t Dare to Dream</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46004302-don-t-dare-to-dream]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558700292l/46004302._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558700292l/46004302._SX98_.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>66488595</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>18631854</id>
+<name>Dan  Friedman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18631854.Dan_Friedman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18635096</id>
+<title>A Replacement Life</title>
+<title_without_series>A Replacement Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18635096-a-replacement-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404485316l/18635096._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404485316l/18635096._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>26431654</id>
+</work>
+<isbn>0062287877</isbn>
+<isbn13>9780062287878</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>760064</id>
+<name>Boris Fishman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/760064.Boris_Fishman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1086756</id>
+<title>Little Mariner</title>
+<title_without_series>Little Mariner</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1086756.Little_Mariner]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332623851l/1086756._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332623851l/1086756._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1073531</id>
+</work>
+<isbn>1556590148</isbn>
+<isbn13>9781556590146</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>318835</id>
+<name>Odysseus Elytis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/318835.Odysseus_Elytis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>553551</id>
+<title><![CDATA[Breathing: The Master Key to Self Healing]]></title>
+<title_without_series><![CDATA[Breathing: The Master Key to Self Healing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/553551.Breathing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367220871l/553551._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367220871l/553551._SX98_.jpg]]></image_url>
+<num_pages>2</num_pages>
+<work>
+<id>540780</id>
+</work>
+<isbn>156455726X</isbn>
+<isbn13>9781564557261</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4401376</id>
+<name>Andrew Weil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4401376.Andrew_Weil]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>185831</id>
+<title><![CDATA[The Sky Road (The Fall Revolution, #4)]]></title>
+<title_without_series>The Sky Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/185831.The_Sky_Road]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1887172</id>
+</work>
+<isbn>0812577590</isbn>
+<isbn13>9780812577594</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>108281</id>
+<name>Ken MacLeod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108281.Ken_MacLeod]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4592766</id>
+<title><![CDATA[Fractions: The First Half of The Fall Revolution]]></title>
+<title_without_series><![CDATA[Fractions: The First Half of The Fall Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4592766-fractions]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738060l/4592766._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738060l/4592766._SX98_.jpg]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>4642330</id>
+</work>
+<isbn>0765320681</isbn>
+<isbn13>9780765320681</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>108281</id>
+<name>Ken MacLeod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108281.Ken_MacLeod]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>185827</id>
+<title>Newton&apos;s Wake: A Space Opera</title>
+<title_without_series>Newton&apos;s Wake: A Space Opera</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/185827.Newton_s_Wake]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>179625</id>
+</work>
+<isbn>076534422X</isbn>
+<isbn13>9780765344229</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>108281</id>
+<name>Ken MacLeod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108281.Ken_MacLeod]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>185822</id>
+<title><![CDATA[The Star Fraction (The Fall Revolution, #1)]]></title>
+<title_without_series>The Star Fraction</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/185822.The_Star_Fraction]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>1000451</id>
+</work>
+<isbn>0765301563</isbn>
+<isbn13>9780765301567</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>108281</id>
+<name>Ken MacLeod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108281.Ken_MacLeod]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>185826</id>
+<title><![CDATA[Learning the World: A Scientific Romance]]></title>
+<title_without_series><![CDATA[Learning the World: A Scientific Romance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/185826.Learning_the_World]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312045507l/185826._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312045507l/185826._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>1105036</id>
+</work>
+<isbn>0765351773</isbn>
+<isbn13>9780765351777</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>108281</id>
+<name>Ken MacLeod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108281.Ken_MacLeod]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>567621</id>
+<title><![CDATA[The Cassini Division (The Fall Revolution, #3)]]></title>
+<title_without_series>The Cassini Division</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/567621.The_Cassini_Division]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312060125l/567621._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312060125l/567621._SY160_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>180590</id>
+</work>
+<isbn>0812568583</isbn>
+<isbn13>9780812568585</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5267</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>108281</id>
+<name>Ken MacLeod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108281.Ken_MacLeod]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

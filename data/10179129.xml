@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10179129</id>
+  <title><![CDATA[Made for You and Me: Going West, Going Broke, Finding Home]]></title>
+  <isbn><![CDATA[1401341462]]></isbn>
+  <isbn13><![CDATA[9781401341466]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Hachette Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Newlywed Caitlin Shetterly and her husband, Dan Davis, two hardworking freelancers, began their lives together in 2008 by pursuing a lifelong, shared dream of leaving Maine and going West. At first, California was the land of plenty. Quickly, though, the recession landed, and a surprise pregnancy that was also surprisingly rough made Caitlin too sick to work. By December, every job Dan had lined up had been canceled, and though he pounded the pavement, from shop to shop and from bar to bar, he could not find any work at all. By March 2009, every cent of the couple's savings had been spent.<br /><br />So, a year after they'd set out with big plans, Caitlin and Dan packed up again, this time with a baby on board, to make their way home to move in with Caitlin's mother. As they drove, Caitlin blogged about their situation and created audio diaries for NPR's <i>Weekend Edition</i>--and received an astounding response. From all across the country, listeners offered help, opening their hearts and their homes. And when the young family arrived back in rural Maine and squeezed into Caitlin's mother's small saltbox house, Caitlin learned that the bonds of family run deeper than any tug to roam, and that, with love, she and Dan could hold their dreams in sight, wherever they were. <br /><br /><i>Made for You and Me</i> captures the irrepressible spirit and quiet perseverance of one small family--and offers to share that strength with any reader willing to make the journey.]]></description>
+  <work>
+  <id type="integer">15078054</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">10179129</best_book_id>
+  <reviews_count type="integer">1086</reviews_count>
+  <ratings_sum type="integer">1198</ratings_sum>
+  <ratings_count type="integer">342</ratings_count>
+  <text_reviews_count type="integer">88</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Made for You and Me: Going West, Going Broke, Finding Home</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:63|4:114|3:112|2:38|1:15|total:342</rating_dist>
+  <desc_user_id type="integer">-9</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.aK5tzv5lvtuvRggRW4L40w</work_uri>
+</work>
+  <average_rating>3.50</average_rating>
+  <num_pages><![CDATA[256]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[330]]></ratings_count>
+  <text_reviews_count><![CDATA[87]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10179129-made-for-you-and-me]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10179129-made-for-you-and-me]]></link>
+  <authors>
+<author>
+<id>3384165</id>
+<name>Caitlin Shetterly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1299092155p5/3384165.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1299092155p2/3384165.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3384165.Caitlin_Shetterly]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>480</ratings_count>
+<text_reviews_count>136</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10179129-made-for-you-and-me">Made for You and Me Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1401341462&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/10179129-made-for-you-and-me?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="681"/>
+      <shelf name="memoir" count="23"/>
+      <shelf name="travel" count="15"/>
+      <shelf name="non-fiction" count="15"/>
+      <shelf name="memoirs" count="10"/>
+      <shelf name="nonfiction" count="7"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="currently-reading" count="3"/>
+      <shelf name="read-in-2011" count="3"/>
+      <shelf name="new-england" count="2"/>
+      <shelf name="biography-memoir" count="2"/>
+      <shelf name="marriage" count="2"/>
+      <shelf name="memoir-biography" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="biography" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="arcs" count="2"/>
+      <shelf name="best-of-the-decade" count="1"/>
+      <shelf name="gca2011" count="1"/>
+      <shelf name="unsorted-want-to-read" count="1"/>
+      <shelf name="babies" count="1"/>
+      <shelf name="to-read-later" count="1"/>
+      <shelf name="aaa-calibre" count="1"/>
+      <shelf name="own-it" count="1"/>
+      <shelf name="gr-award-nom" count="1"/>
+      <shelf name="travel-wanderlust" count="1"/>
+      <shelf name="want-to-read-2019" count="1"/>
+      <shelf name="goodreads-awards" count="1"/>
+      <shelf name="xmaricopa" count="1"/>
+      <shelf name="goodreads-choice-award-2011" count="1"/>
+      <shelf name="2010s" count="1"/>
+      <shelf name="books-i-own-a-copy-of" count="1"/>
+      <shelf name="100-books-in-2018" count="1"/>
+      <shelf name="useless" count="1"/>
+      <shelf name="travel-books" count="1"/>
+      <shelf name="books-by-women" count="1"/>
+      <shelf name="inspire" count="1"/>
+      <shelf name="wishlist-2017" count="1"/>
+      <shelf name="list-pile" count="1"/>
+      <shelf name="3-travel-outdoors" count="1"/>
+      <shelf name="3-3-2011" count="1"/>
+      <shelf name="3-2-bbn" count="1"/>
+      <shelf name="3-1-ca" count="1"/>
+      <shelf name="ebook-ipl" count="1"/>
+      <shelf name="clp-staff-picks" count="1"/>
+      <shelf name="my-library" count="1"/>
+      <shelf name="next-reads" count="1"/>
+      <shelf name="fiction" count="1"/>
+      <shelf name="gr-11" count="1"/>
+      <shelf name="true-accounts" count="1"/>
+      <shelf name="physical-own" count="1"/>
+      <shelf name="autobiography" count="1"/>
+      <shelf name="adventure-travel" count="1"/>
+      <shelf name="to-reorganize" count="1"/>
+      <shelf name="written-by-women" count="1"/>
+      <shelf name="wish-list" count="1"/>
+      <shelf name="c-books-books-books-3" count="1"/>
+      <shelf name="bookmarks" count="1"/>
+      <shelf name="awarded" count="1"/>
+      <shelf name="found-at-the-lib" count="1"/>
+      <shelf name="non-fiction-to-read" count="1"/>
+      <shelf name="kindle" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="travel-memoirs" count="1"/>
+      <shelf name="choice-awards-11" count="1"/>
+      <shelf name="to-get" count="1"/>
+      <shelf name="the-west" count="1"/>
+      <shelf name="new-york-city" count="1"/>
+      <shelf name="biography-and-memoir" count="1"/>
+      <shelf name="pbs-wish-list" count="1"/>
+      <shelf name="library-books" count="1"/>
+      <shelf name="lost-interest" count="1"/>
+      <shelf name="highly-recommended-reads" count="1"/>
+      <shelf name="adult" count="1"/>
+      <shelf name="memoirs-and-auto-biographies" count="1"/>
+      <shelf name="_pamela" count="1"/>
+      <shelf name="memoirs-biographies" count="1"/>
+      <shelf name="maine" count="1"/>
+      <shelf name="book-club-book" count="1"/>
+      <shelf name="book-club-books" count="1"/>
+      <shelf name="california" count="1"/>
+      <shelf name="adult-nonfiction" count="1"/>
+      <shelf name="npr-recommends" count="1"/>
+      <shelf name="memoir-americana" count="1"/>
+      <shelf name="female-author" count="1"/>
+      <shelf name="to-find" count="1"/>
+      <shelf name="archived-kindle" count="1"/>
+      <shelf name="russell" count="1"/>
+      <shelf name="funny-memoirs" count="1"/>
+      <shelf name="to-read-memoir" count="1"/>
+      <shelf name="travel-adventure" count="1"/>
+      <shelf name="true-story" count="1"/>
+      <shelf name="fletcher" count="1"/>
+      <shelf name="travel-outdoors" count="1"/>
+      <shelf name="memoir-autobiography" count="1"/>
+      <shelf name="creative" count="1"/>
+      <shelf name="read-in-2012" count="1"/>
+      <shelf name="wishlist-en" count="1"/>
+      <shelf name="author-female" count="1"/>
+      <shelf name="dont-have" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>38139979</id>
+<title><![CDATA[The Last Palace: Europe's Turbulent Century in Five Lives and One Legendary House]]></title>
+<title_without_series><![CDATA[The Last Palace: Europe's Turbulent Century in Five Lives and One Legendary House]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38139979-the-last-palace]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524447599l/38139979._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524447599l/38139979._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>60635461</id>
+</work>
+<isbn>0451495780</isbn>
+<isbn13>9780451495785</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>17636667</id>
+<name>Norman Eisen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17636667.Norman_Eisen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35259558</id>
+<title><![CDATA[Happiness Is a Choice You Make: Lessons from a Year Among the Oldest Old]]></title>
+<title_without_series><![CDATA[Happiness Is a Choice You Make: Lessons from a Year Among the Oldest Old]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35259558-happiness-is-a-choice-you-make]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499148262l/35259558._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499148262l/35259558._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>56612042</id>
+</work>
+<isbn>0374168180</isbn>
+<isbn13>9780374168186</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>9828556</id>
+<name>John  Leland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9828556.John_Leland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8584965</id>
+<title><![CDATA[This Life Is in Your Hands: One Dream, Sixty Acres, and a Family Undone]]></title>
+<title_without_series><![CDATA[This Life Is in Your Hands: One Dream, Sixty Acres, and a Family Undone]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8584965-this-life-is-in-your-hands]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1279214530l/8584965._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1279214530l/8584965._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>13454280</id>
+</work>
+<isbn>0061958328</isbn>
+<isbn13>9780061958328</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4119883</id>
+<name>Melissa Coleman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4119883.Melissa_Coleman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40640521</id>
+<title><![CDATA[The Castle on Sunset: Life, Death, Love, Art, and Scandal at Hollywood's Chateau Marmont]]></title>
+<title_without_series><![CDATA[The Castle on Sunset: Life, Death, Love, Art, and Scandal at Hollywood's Chateau Marmont]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40640521-the-castle-on-sunset]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538434578l/40640521._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538434578l/40640521._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>63144636</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>6421</id>
+<name>Shawn Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6421.Shawn_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9923372</id>
+<title>Maine</title>
+<title_without_series>Maine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9923372-maine]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295996313l/9923372._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295996313l/9923372._SX98_.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>14385352</id>
+</work>
+<isbn>0307595129</isbn>
+<isbn13>9780307595126</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>486136</id>
+<name>J. Courtney Sullivan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/486136.J_Courtney_Sullivan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9010</id>
+<title><![CDATA[I Hope They Serve Beer in Hell (Tucker Max, #1)]]></title>
+<title_without_series><![CDATA[I Hope They Serve Beer in Hell]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>2970640</id>
+</work>
+<isbn>0806527285</isbn>
+<isbn13>9780806527284</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5856</id>
+<name>Tucker Max</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5856.Tucker_Max]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9415966</id>
+<title>Spoiled (Spoiled, #1)</title>
+<title_without_series>Spoiled</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9415966-spoiled]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327879074l/9415966._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327879074l/9415966._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>14300285</id>
+</work>
+<isbn>0316098256</isbn>
+<isbn13>9780316098250</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1141204</id>
+<name>Heather Cocks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1141204.Heather_Cocks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1046775</id>
+<title>The Best of MUTTS</title>
+<title_without_series>The Best of MUTTS</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1046775.The_Best_of_MUTTS]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1033201</id>
+</work>
+<isbn>0740768441</isbn>
+<isbn13>9780740768446</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53088</id>
+<name>Patrick McDonnell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53088.Patrick_McDonnell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6378239</id>
+<title><![CDATA[Jumping Off Swings (Jumping Off Swings, #1)]]></title>
+<title_without_series>Jumping Off Swings</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6378239-jumping-off-swings]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320401740l/6378239._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320401740l/6378239._SX98_.jpg]]></image_url>
+<num_pages>230</num_pages>
+<work>
+<id>6236364</id>
+</work>
+<isbn>0763639494</isbn>
+<isbn13>9780763639495</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>253326</id>
+<name>Jo Knowles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/253326.Jo_Knowles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9266769</id>
+<title><![CDATA[Summer and the City (The Carrie Diaries, #2)]]></title>
+<title_without_series>Summer and the City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9266769-summer-and-the-city]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212836l/9266769._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212836l/9266769._SX98_.jpg]]></image_url>
+<num_pages>409</num_pages>
+<work>
+<id>14147620</id>
+</work>
+<isbn>0061728934</isbn>
+<isbn13>9780061728938</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4415</id>
+<name>Candace Bushnell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4415.Candace_Bushnell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9292810</id>
+<title><![CDATA[Spousonomics: Using Economics to Master Love, Marriage, and Dirty Dishes]]></title>
+<title_without_series><![CDATA[Spousonomics: Using Economics to Master Love, Marriage, and Dirty Dishes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9292810-spousonomics]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320513117l/9292810._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320513117l/9292810._SX98_.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>14175319</id>
+</work>
+<isbn>0385343949</isbn>
+<isbn13>9780385343947</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4083558</id>
+<name>Paula Szuchman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4083558.Paula_Szuchman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47530</id>
+<title><![CDATA[Mapping the World of Harry Potter: Science Fiction and Fantasy Writers Explore the Bestselling Series of All Time]]></title>
+<title_without_series><![CDATA[Mapping the World of Harry Potter: Science Fiction and Fantasy Writers Explore the Bestselling Series of All Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47530.Mapping_the_World_of_Harry_Potter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346946952l/47530._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346946952l/47530._SX98_.jpg]]></image_url>
+<num_pages>195</num_pages>
+<work>
+<id>46552</id>
+</work>
+<isbn>1932100598</isbn>
+<isbn13>9781932100594</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>8685</id>
+<name>Mercedes Lackey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8685.Mercedes_Lackey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9862827</id>
+<title><![CDATA[The Reading Promise: My Father and the Books We Shared]]></title>
+<title_without_series><![CDATA[The Reading Promise: My Father and the Books We Shared]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9862827-the-reading-promise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291867045l/9862827._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291867045l/9862827._SX98_.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>14754226</id>
+</work>
+<isbn>0446583774</isbn>
+<isbn13>9780446583770</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4500323</id>
+<name>Alice Ozma</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4500323.Alice_Ozma]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>451220</id>
+<title>Lessons from a Dead Girl</title>
+<title_without_series>Lessons from a Dead Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/451220.Lessons_from_a_Dead_Girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320474341l/451220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320474341l/451220._SX98_.jpg]]></image_url>
+<num_pages>215</num_pages>
+<work>
+<id>439849</id>
+</work>
+<isbn>0763632791</isbn>
+<isbn13>9780763632793</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>253326</id>
+<name>Jo Knowles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/253326.Jo_Knowles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10281309</id>
+<title>The EveryGirl&apos;s Guide to Life</title>
+<title_without_series>The EveryGirl&apos;s Guide to Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10281309-the-everygirl-s-guide-to-life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>15182586</id>
+</work>
+<isbn>0061870781</isbn>
+<isbn13>9780061870781</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4596742</id>
+<name>Maria Menounos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4596742.Maria_Menounos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9418</id>
+<title><![CDATA[Shopaholic Takes Manhattan (Shopaholic, #2)]]></title>
+<title_without_series>Shopaholic Takes Manhattan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9418.Shopaholic_Takes_Manhattan]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266449959l/9418._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266449959l/9418._SY160_.jpg]]></image_url>
+<num_pages>387</num_pages>
+<work>
+<id>3238753</id>
+</work>
+<isbn>0440241812</isbn>
+<isbn13>9780440241812</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>6160</id>
+<name>Sophie Kinsella</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6160.Sophie_Kinsella]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6012397</id>
+<title>Little Oink</title>
+<title_without_series>Little Oink</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6012397-little-oink]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>6187619</id>
+</work>
+<isbn>0811866556</isbn>
+<isbn13>9780811866552</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23167716</id>
+<title>In</title>
+<title_without_series>In</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23167716-in]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413517029l/23167716._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413517029l/23167716._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>42713038</id>
+</work>
+<isbn>1419714864</isbn>
+<isbn13>9781419714863</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>342</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>494431</id>
+<name>Nikki McClure</name>
+<link><![CDATA[https://www.goodreads.com/author/show/494431.Nikki_McClure]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

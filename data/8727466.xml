@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8727466</id>
+  <title><![CDATA[Why We Get Fat: And What to Do About It]]></title>
+  <isbn><![CDATA[0307272702]]></isbn>
+  <isbn13><![CDATA[9780307272706]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320563681l/8727466._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320563681l/8727466._SX50_.jpg</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Knopf</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[An eye-opening, myth-shattering examination of what makes us fat, from acclaimed science writer Gary Taubes.<br /><br />In his <i>New York Times</i> best seller, <i>Good Calories, Bad Calories,</i> Taubes argued that our diet’s overemphasis on certain kinds of carbohydrates—<i>not</i> fats and <i>not</i> simply excess calories—has led directly to the obesity epidemic we face today. The result of thorough research, keen insight, and unassailable common sense, <i>Good Calories, Bad Calories</i> immediately stirred controversy and acclaim among academics, journalists, and writers alike. Michael Pollan heralded it as “a vitally important book, destined to change the way we think about food.” <br /><br />Building upon this critical work in <i>Good Calories, Bad Calories</i> and presenting fresh evidence for his claim, Taubes now revisits the urgent question of what’s making us fat—and how we can change—in this exciting new book. Persuasive, straightforward, and practical, <i>Why We Get Fat </i>makes Taubes’s crucial argument newly accessible to a wider audience.<br /><br />Taubes reveals the bad nutritional science of the last century, none more damaging or misguided than the “calories-in, calories-out” model of why we get fat, and the good science that has been ignored, especially regarding insulin’s regulation of our fat tissue. He also answers the most persistent questions: Why are some people thin and others fat? What roles do exercise and genetics play in our weight? What foods should we eat, and what foods should we avoid? <br /><br />Packed with essential information and concluding with an easy-to-follow diet, <i>Why We Get Fat </i>is an invaluable key in our understanding of an international epidemic and a guide to what each of us can do about it.]]></description>
+  <work>
+  <id type="integer">13600443</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">8727466</best_book_id>
+  <reviews_count type="integer">40688</reviews_count>
+  <ratings_sum type="integer">72887</ratings_sum>
+  <ratings_count type="integer">18003</ratings_count>
+  <text_reviews_count type="integer">2002</text_reviews_count>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <original_title>Why We Get Fat: And What to Do about It</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6993|4:6524|3:3228|2:884|1:374|total:18003</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.MR4CwzCNUi3dS2QCrkpzDQ</work_uri>
+</work>
+  <average_rating>4.05</average_rating>
+  <num_pages><![CDATA[272]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13958]]></ratings_count>
+  <text_reviews_count><![CDATA[1776]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8727466-why-we-get-fat]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8727466-why-we-get-fat]]></link>
+  <authors>
+<author>
+<id>712666</id>
+<name>Gary Taubes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1550850278p5/712666.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1550850278p2/712666.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/712666.Gary_Taubes]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>33525</ratings_count>
+<text_reviews_count>3873</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8727466-why-we-get-fat">Why We Get Fat Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307272702&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/8727466-why-we-get-fat?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="18163"/>
+      <shelf name="currently-reading" count="1628"/>
+      <shelf name="non-fiction" count="627"/>
+      <shelf name="health" count="613"/>
+      <shelf name="nonfiction" count="228"/>
+      <shelf name="food" count="209"/>
+      <shelf name="science" count="191"/>
+      <shelf name="nutrition" count="173"/>
+      <shelf name="self-help" count="87"/>
+      <shelf name="kindle" count="63"/>
+      <shelf name="diet" count="59"/>
+      <shelf name="favorites" count="56"/>
+      <shelf name="audiobook" count="54"/>
+      <shelf name="fitness" count="50"/>
+      <shelf name="owned" count="43"/>
+      <shelf name="health-fitness" count="42"/>
+      <shelf name="audiobooks" count="41"/>
+      <shelf name="self-improvement" count="35"/>
+      <shelf name="audible" count="35"/>
+      <shelf name="audio" count="32"/>
+      <shelf name="ebook" count="30"/>
+      <shelf name="library" count="29"/>
+      <shelf name="health-and-fitness" count="25"/>
+      <shelf name="health-nutrition" count="20"/>
+      <shelf name="adult" count="19"/>
+      <shelf name="medical" count="19"/>
+      <shelf name="ebooks" count="17"/>
+      <shelf name="weight-loss" count="16"/>
+      <shelf name="food-nutrition" count="16"/>
+      <shelf name="keto" count="15"/>
+      <shelf name="reference" count="15"/>
+      <shelf name="personal-development" count="15"/>
+      <shelf name="nutrition-health" count="14"/>
+      <shelf name="cooking" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="audio-books" count="13"/>
+      <shelf name="health-and-wellness" count="13"/>
+      <shelf name="wellness" count="13"/>
+      <shelf name="to-read-non-fiction" count="13"/>
+      <shelf name="did-not-finish" count="12"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="health-wellness" count="12"/>
+      <shelf name="food-health" count="12"/>
+      <shelf name="paleo" count="11"/>
+      <shelf name="abandoned" count="11"/>
+      <shelf name="to-read-nonfiction" count="11"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="educational" count="11"/>
+      <shelf name="read-in-2017" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="lifestyle" count="10"/>
+      <shelf name="health-and-nutrition" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="dnf" count="9"/>
+      <shelf name="food-and-nutrition" count="9"/>
+      <shelf name="read-in-2013" count="9"/>
+      <shelf name="low-carb" count="9"/>
+      <shelf name="diets" count="9"/>
+      <shelf name="read-in-2018" count="8"/>
+      <shelf name="read-2015" count="8"/>
+      <shelf name="cookbooks" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="biology" count="8"/>
+      <shelf name="read-in-2012" count="8"/>
+      <shelf name="medicine" count="8"/>
+      <shelf name="diet-health" count="8"/>
+      <shelf name="non-fiction-to-read" count="8"/>
+      <shelf name="food-and-drink" count="8"/>
+      <shelf name="obesity" count="8"/>
+      <shelf name="fat" count="8"/>
+      <shelf name="health-and-diet" count="8"/>
+      <shelf name="calibre" count="8"/>
+      <shelf name="health-books" count="8"/>
+      <shelf name="stopped-reading" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="read-2014" count="7"/>
+      <shelf name="read-2013" count="7"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="informational" count="7"/>
+      <shelf name="weight" count="7"/>
+      <shelf name="low" count="7"/>
+      <shelf name="history" count="7"/>
+      <shelf name="healthy-living" count="7"/>
+      <shelf name="nook" count="7"/>
+      <shelf name="read-2018" count="6"/>
+      <shelf name="research" count="6"/>
+      <shelf name="blinkist" count="6"/>
+      <shelf name="education" count="6"/>
+      <shelf name="diet-nutrition" count="6"/>
+      <shelf name="general-non-fiction" count="6"/>
+      <shelf name="fitness-health" count="6"/>
+      <shelf name="psychology" count="6"/>
+      <shelf name="health-medicine" count="6"/>
+      <shelf name="loss" count="6"/>
+      <shelf name="guides" count="6"/>
+      <shelf name="content" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="healthy" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>16130316</id>
+<title><![CDATA[The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet]]></title>
+<title_without_series><![CDATA[The Big Fat Surprise: Why Butter, Meat and Cheese Belong in a Healthy Diet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16130316-the-big-fat-surprise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420938364l/16130316._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420938364l/16130316._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>21955620</id>
+</work>
+<isbn>1451624425</isbn>
+<isbn13>9781451624427</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>6572588</id>
+<name>Nina Teicholz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6572588.Nina_Teicholz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22889767</id>
+<title><![CDATA[Better Than Before: Mastering the Habits of Our Everyday Lives]]></title>
+<title_without_series><![CDATA[Better Than Before: Mastering the Habits of Our Everyday Lives]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22889767-better-than-before]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415588203l/22889767._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415588203l/22889767._SX98_.jpg]]></image_url>
+<num_pages>298</num_pages>
+<work>
+<id>40771666</id>
+</work>
+<isbn>0385348614</isbn>
+<isbn13>9780385348614</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>21246</id>
+<name>Gretchen Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21246.Gretchen_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24945404</id>
+<title><![CDATA[The Obesity Code: Unlocking the Secrets of Weight Loss]]></title>
+<title_without_series><![CDATA[The Obesity Code: Unlocking the Secrets of Weight Loss]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24945404-the-obesity-code]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448320199l/24945404._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448320199l/24945404._SX98_.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>44603842</id>
+</work>
+<isbn>1771641258</isbn>
+<isbn13>9781771641258</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>13509421</id>
+<name>Jason Fung</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13509421.Jason_Fung]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32670670</id>
+<title><![CDATA[The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting]]></title>
+<title_without_series><![CDATA[The Complete Guide to Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32670670-the-complete-guide-to-fasting]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521670646l/32670670._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521670646l/32670670._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>53239472</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13509421</id>
+<name>Jason Fung</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13509421.Jason_Fung]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17333302</id>
+<title><![CDATA[Grain Brain: The Surprising Truth about Wheat, Carbs,  and Sugar--Your Brain's Silent Killers]]></title>
+<title_without_series><![CDATA[Grain Brain: The Surprising Truth about Wheat, Carbs,  and Sugar--Your Brain's Silent Killers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333302-grain-brain]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395680212l/17333302._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395680212l/17333302._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>24064606</id>
+</work>
+<isbn>031623480X</isbn>
+<isbn13>9780316234801</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>107309</id>
+<name>David Perlmutter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/107309.David_Perlmutter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15708888</id>
+<title><![CDATA[The Art and Science of Low Carbohydrate Performance]]></title>
+<title_without_series><![CDATA[The Art and Science of Low Carbohydrate Performance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15708888-the-art-and-science-of-low-carbohydrate-performance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341930358l/15708888._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341930358l/15708888._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>21374103</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>3427263</id>
+<name>Jeff S. Volek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3427263.Jeff_S_Volek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14481524</id>
+<title><![CDATA[Fat Chance: Beating the Odds Against Sugar, Processed Food, Obesity, and Disease]]></title>
+<title_without_series><![CDATA[Fat Chance: Beating the Odds Against Sugar, Processed Food, Obesity, and Disease]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14481524-fat-chance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355140531l/14481524._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355140531l/14481524._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>20124065</id>
+</work>
+<isbn>159463100X</isbn>
+<isbn13>9781594631009</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6889248</id>
+<name>Robert H. Lustig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6889248.Robert_H_Lustig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39901314</id>
+<title><![CDATA[Outer Order, Inner Calm: Declutter & Organize to Make More Room for Happiness]]></title>
+<title_without_series><![CDATA[Outer Order, Inner Calm: Declutter & Organize to Make More Room for Happiness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39901314-outer-order-inner-calm]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542421089l/39901314._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542421089l/39901314._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>61742418</id>
+</work>
+<isbn></isbn>
+<isbn13>9781984822802</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>21246</id>
+<name>Gretchen Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21246.Gretchen_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11476367</id>
+<title><![CDATA[The Art and Science of Low Carbohydrate Living]]></title>
+<title_without_series><![CDATA[The Art and Science of Low Carbohydrate Living]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11476367-the-art-and-science-of-low-carbohydrate-living]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>16410984</id>
+</work>
+<isbn>0983490708</isbn>
+<isbn13>9780983490708</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>3427263</id>
+<name>Jeff S. Volek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3427263.Jeff_S_Volek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11505008</id>
+<title><![CDATA[Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health]]></title>
+<title_without_series><![CDATA[Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11505008-wheat-belly]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793840l/11505008._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793840l/11505008._SX98_.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>16440712</id>
+</work>
+<isbn>1609611543</isbn>
+<isbn13>9781609611545</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7126313</id>
+<name>William  Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126313.William_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18090101</id>
+<title><![CDATA[The Calorie Myth: How to Eat More and Exercise Less, Lose Weight, and Live Better]]></title>
+<title_without_series><![CDATA[The Calorie Myth: How to Eat More and Exercise Less, Lose Weight, and Live Better]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18090101-the-calorie-myth]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390176437l/18090101._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390176437l/18090101._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>25404551</id>
+</work>
+<isbn>0062267337</isbn>
+<isbn13>9780062267337</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>5276298</id>
+<name>Jonathan Bailor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5276298.Jonathan_Bailor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20436818</id>
+<title>The Real Meal Revolution</title>
+<title_without_series>The Real Meal Revolution</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20436818-the-real-meal-revolution]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394734017l/20436818._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394734017l/20436818._SX98_.jpg]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>30734202</id>
+</work>
+<isbn>0992206278</isbn>
+<isbn13>9780992206277</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>64881</id>
+<name>Tim Noakes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64881.Tim_Noakes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18668431</id>
+<title><![CDATA[Keto Clarity: Your Definitive Guide to the Benefits of a Low-Carb, High-Fat Diet]]></title>
+<title_without_series><![CDATA[Keto Clarity: Your Definitive Guide to the Benefits of a Low-Carb, High-Fat Diet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18668431-keto-clarity]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393772279l/18668431._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393772279l/18668431._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>26494138</id>
+</work>
+<isbn>1628600071</isbn>
+<isbn13>9781628600070</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>558775</id>
+<name>Jimmy Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/558775.Jimmy_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33566873</id>
+<title><![CDATA[The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better (and Other People's Lives Better, Too)]]></title>
+<title_without_series><![CDATA[The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33566873-the-four-tendencies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501487753l/33566873._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501487753l/33566873._SX98_.jpg]]></image_url>
+<num_pages>7</num_pages>
+<work>
+<id>54361394</id>
+</work>
+<isbn>0525496289</isbn>
+<isbn13>9780525496281</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>21246</id>
+<name>Gretchen Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21246.Gretchen_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414599</id>
+<title><![CDATA[Happier at Home: Kiss More, Jump More, Abandon a Project, Read Samuel Johnson, and My Other Experiments in the Practice of Everyday Life]]></title>
+<title_without_series><![CDATA[Happier at Home: Kiss More, Jump More, Abandon a Project, Read Samuel Johnson, and My Other Experiments in the Practice of Everyday Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414599-happier-at-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344014249l/13414599._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344014249l/13414599._SX98_.jpg]]></image_url>
+<num_pages>10</num_pages>
+<work>
+<id>18713712</id>
+</work>
+<isbn>0449014398</isbn>
+<isbn13>9780449014394</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>21246</id>
+<name>Gretchen Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21246.Gretchen_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121378</id>
+<title><![CDATA[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones]]></title>
+<title_without_series><![CDATA[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121378-atomic-habits]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62221762</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7327369</id>
+<name>James Clear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7327369.James_Clear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27905484</id>
+<title>Eat Fat, Get Thin</title>
+<title_without_series>Eat Fat, Get Thin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27905484-eat-fat-get-thin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296325l/27905484._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296325l/27905484._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>47919870</id>
+</work>
+<isbn>147891162X</isbn>
+<isbn13>9781478911623</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>59919</id>
+<name>Mark Hyman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59919.Mark_Hyman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18054967</id>
+<title><![CDATA[Death by Food Pyramid: How Shoddy Science, Sketchy Politics and Shady Special Interests Have Ruined Our Health]]></title>
+<title_without_series><![CDATA[Death by Food Pyramid: How Shoddy Science, Sketchy Politics and Shady Special Interests Have Ruined Our Health]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18054967-death-by-food-pyramid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396834155l/18054967._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396834155l/18054967._SX98_.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>25343801</id>
+</work>
+<isbn>0984755128</isbn>
+<isbn13>9780984755127</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18003</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7127951</id>
+<name>Denise Minger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7127951.Denise_Minger]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

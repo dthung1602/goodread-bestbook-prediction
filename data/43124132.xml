@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>43124132</id>
+  <title>Life of the Party</title>
+  <isbn><![CDATA[1984801902]]></isbn>
+  <isbn13><![CDATA[9781984801906]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550889542l/43124132._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550889542l/43124132._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Dial Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>i'm a good girl, bad girl, sad girl, dream girl</i><br /><i>girl next door sunbathing in the driveway</i><br /><i>i wanna be them all at once, i wanna be </i><br /><i>all the girls i've ever loved</i><br /><br />Lauded for the power of her writing and having attracted an online fan base of millions for her extraordinary spoken-word performances, Olivia Gatwood is a thrilling new voice in contemporary feminist poetry. In <i>Life of the Party</i>, she weaves together her own coming of age with an investigation into our culture's romanticization of violence against women. In precise, searing language—at times blistering and riotous, at times soulful and exuberant—she explores the boundary between what is real and what is imagined in a life saturated with fear. How does one grow from a girl to a woman in a world wracked by violence? Where is the line between perpetrator and victim? What is the meaning of bravery? Visceral and haunting, this multifaceted collection illustrates that what happens to our bodies makes us who we are.]]></description>
+  <work>
+  <id type="integer">66922848</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">43124132</best_book_id>
+  <reviews_count type="integer">6605</reviews_count>
+  <ratings_sum type="integer">2680</ratings_sum>
+  <ratings_count type="integer">614</ratings_count>
+  <text_reviews_count type="integer">116</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">20</original_publication_day>
+  <original_title>Life of the Party: Poems</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:344|4:179|3:65|2:23|1:3|total:614</rating_dist>
+  <desc_user_id type="integer">703376</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.72PGP2dGTyNQdnSi7QW1EA</work_uri>
+</work>
+  <average_rating>4.36</average_rating>
+  <num_pages><![CDATA[128]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[558]]></ratings_count>
+  <text_reviews_count><![CDATA[111]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/43124132-life-of-the-party]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/43124132-life-of-the-party]]></link>
+  <authors>
+<author>
+<id>15965974</id>
+<name>Olivia Gatwood</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1574839085p5/15965974.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1574839085p2/15965974.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15965974.Olivia_Gatwood]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>3205</ratings_count>
+<text_reviews_count>390</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/43124132-life-of-the-party">Life of the Party Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1984801902&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/43124132-life-of-the-party?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5714"/>
+      <shelf name="poetry" count="237"/>
+      <shelf name="currently-reading" count="111"/>
+      <shelf name="feminism" count="20"/>
+      <shelf name="favorites" count="18"/>
+      <shelf name="non-fiction" count="17"/>
+      <shelf name="2019-releases" count="11"/>
+      <shelf name="read-in-2019" count="11"/>
+      <shelf name="tbr-poetry" count="10"/>
+      <shelf name="to-buy" count="10"/>
+      <shelf name="nonfiction" count="9"/>
+      <shelf name="poems" count="6"/>
+      <shelf name="lgbt" count="6"/>
+      <shelf name="feminist" count="6"/>
+      <shelf name="poetry-tbr" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="2019-books" count="5"/>
+      <shelf name="read-2019" count="5"/>
+      <shelf name="netgalley" count="5"/>
+      <shelf name="arc" count="5"/>
+      <shelf name="to-read-poetry" count="5"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="women" count="4"/>
+      <shelf name="giveaways" count="4"/>
+      <shelf name="maybe-read" count="3"/>
+      <shelf name="lgbtq" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="2019-read" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="arcs" count="3"/>
+      <shelf name="giveaway" count="3"/>
+      <shelf name="poesía" count="2"/>
+      <shelf name="2019-choice-awards" count="2"/>
+      <shelf name="30-books-in-2019" count="2"/>
+      <shelf name="queer" count="2"/>
+      <shelf name="do-not-own" count="2"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="physical-tbr" count="2"/>
+      <shelf name="contemporary" count="2"/>
+      <shelf name="poetry-verse" count="2"/>
+      <shelf name="asap" count="2"/>
+      <shelf name="audiobook" count="2"/>
+      <shelf name="poetry-to-read" count="2"/>
+      <shelf name="cover-love" count="2"/>
+      <shelf name="lgbtqia" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="2019-august" count="2"/>
+      <shelf name="unread" count="2"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="tbr-unowned" count="2"/>
+      <shelf name="2019-reads" count="2"/>
+      <shelf name="want-to-read-poetry" count="2"/>
+      <shelf name="upcoming" count="2"/>
+      <shelf name="want-to-buy" count="2"/>
+      <shelf name="genre-poetry" count="1"/>
+      <shelf name="wtr-poesie" count="1"/>
+      <shelf name="en-anglais" count="1"/>
+      <shelf name="up-next-next-month" count="1"/>
+      <shelf name="on-audiobook" count="1"/>
+      <shelf name="on-my-radar" count="1"/>
+      <shelf name="2019-goodreads-choice-awards" count="1"/>
+      <shelf name="wtrshort-list" count="1"/>
+      <shelf name="inspo-reads" count="1"/>
+      <shelf name="girl-power-and-feminism" count="1"/>
+      <shelf name="stayed-within-me" count="1"/>
+      <shelf name="mental-illness" count="1"/>
+      <shelf name="english-readings" count="1"/>
+      <shelf name="november-2019-tbr" count="1"/>
+      <shelf name="poetry-list" count="1"/>
+      <shelf name="stand-alones" count="1"/>
+      <shelf name="first-person-pov" count="1"/>
+      <shelf name="female-lead" count="1"/>
+      <shelf name="abuse" count="1"/>
+      <shelf name="to-read-maybe" count="1"/>
+      <shelf name="poc-black-writers" count="1"/>
+      <shelf name="may-be-read" count="1"/>
+      <shelf name="d-n-f" count="1"/>
+      <shelf name="2019-pepp" count="1"/>
+      <shelf name="goodreads-choice-awards" count="1"/>
+      <shelf name="non-series" count="1"/>
+      <shelf name="tbr-winter" count="1"/>
+      <shelf name="fbs-newsletter" count="1"/>
+      <shelf name="new-releases" count="1"/>
+      <shelf name="new-release" count="1"/>
+      <shelf name="shelf-1" count="1"/>
+      <shelf name="poetry-شعر" count="1"/>
+      <shelf name="amazing-covers" count="1"/>
+      <shelf name="28th-d" count="1"/>
+      <shelf name="not-at-the-library" count="1"/>
+      <shelf name="group-gr-read4-2020" count="1"/>
+      <shelf name="10-books-by-2020" count="1"/>
+      <shelf name="to-find" count="1"/>
+      <shelf name="on-gender" count="1"/>
+      <shelf name="new-to-read" count="1"/>
+      <shelf name="tbr_1part" count="1"/>
+      <shelf name="português" count="1"/>
+      <shelf name="english" count="1"/>
+      <shelf name="poetry-not-owned" count="1"/>
+      <shelf name="on-radar" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>43819413</id>
+<title>Aphrodite Made Me Do It</title>
+<title_without_series>Aphrodite Made Me Do It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43819413-aphrodite-made-me-do-it]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>68190011</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8382753</id>
+<name>Trista Mateer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8382753.Trista_Mateer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41766537</id>
+<title>If My Body Could Speak</title>
+<title_without_series>If My Body Could Speak</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41766537-if-my-body-could-speak]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544868775l/41766537._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544868775l/41766537._SX98_.jpg]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>65180935</id>
+</work>
+<isbn>1943735476</isbn>
+<isbn13>9781943735471</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>13473096</id>
+<name>Blythe Baird</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13473096.Blythe_Baird]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40207220</id>
+<title>A Fortune for Your Disaster</title>
+<title_without_series>A Fortune for Your Disaster</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40207220-a-fortune-for-your-disaster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567452027l/40207220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567452027l/40207220._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62418902</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14133519</id>
+<name>Hanif Abdurraqib</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14133519.Hanif_Abdurraqib]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40829629</id>
+<title>Between You and These Bones</title>
+<title_without_series>Between You and These Bones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40829629-between-you-and-these-bones]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>194</num_pages>
+<work>
+<id>63593919</id>
+</work>
+<isbn>0473442620</isbn>
+<isbn13>9780473442620</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16462562</id>
+<name>F.D. Soul</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16462562.F_D_Soul]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44603720</id>
+<title>Swallowtail</title>
+<title_without_series>Swallowtail</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44603720-swallowtail]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565062743l/44603720._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565062743l/44603720._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>69239437</id>
+</work>
+<isbn>1943735638</isbn>
+<isbn13>9781943735631</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15801136</id>
+<name>Brenna Twohy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15801136.Brenna_Twohy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41745412</id>
+<title>Soft Science</title>
+<title_without_series>Soft Science</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41745412-soft-science]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536484665l/41745412._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536484665l/41745412._SX98_.jpg]]></image_url>
+<num_pages>100</num_pages>
+<work>
+<id>65148118</id>
+</work>
+<isbn>1938584996</isbn>
+<isbn13>9781938584992</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7174997</id>
+<name>Franny Choi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7174997.Franny_Choi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41766538</id>
+<title>Sink</title>
+<title_without_series>Sink</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41766538-sink]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545087161l/41766538._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545087161l/41766538._SX98_.jpg]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>65180936</id>
+</work>
+<isbn>1943735492</isbn>
+<isbn13>9781943735495</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>8155115</id>
+<name>Desireé Dallagiacomo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8155115.Desire_Dallagiacomo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36297097</id>
+<title><![CDATA[To Drink Coffee with a Ghost (Things that Haunt, #2)]]></title>
+<title_without_series>To Drink Coffee with a Ghost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36297097-to-drink-coffee-with-a-ghost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565238558l/36297097._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565238558l/36297097._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>57963598</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>15225448</id>
+<name>Amanda Lovelace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15225448.Amanda_Lovelace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36126998</id>
+<title>peluda</title>
+<title_without_series>peluda</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36126998-peluda]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57722413</id>
+</work>
+<isbn>1943735247</isbn>
+<isbn13>9781943735242</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15965973</id>
+<name>Melissa Lozada-Oliva</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15965973.Melissa_Lozada_Oliva]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43838655</id>
+<title>The Truth About Magic</title>
+<title_without_series>The Truth About Magic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43838655-the-truth-about-magic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553528629l/43838655._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553528629l/43838655._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>68819307</id>
+</work>
+<isbn>1250232813</isbn>
+<isbn13>9781250232816</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>15589448</id>
+<name>Atticus Poetry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15589448.Atticus_Poetry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40909463</id>
+<title>The Octopus Museum: Poems</title>
+<title_without_series>The Octopus Museum: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40909463-the-octopus-museum]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532426438l/40909463._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532426438l/40909463._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>63779159</id>
+</work>
+<isbn>0525655654</isbn>
+<isbn13>9780525655657</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>220502</id>
+<name>Brenda Shaughnessy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/220502.Brenda_Shaughnessy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822523</id>
+<title>Almost Home: Poems</title>
+<title_without_series>Almost Home: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822523-almost-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567950967l/43822523._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567950967l/43822523._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>68194402</id>
+</work>
+<isbn>1982121254</isbn>
+<isbn13>9781982121259</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14728840</id>
+<name>Madisen Kuhn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14728840.Madisen_Kuhn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43121509</id>
+<title><![CDATA[In a Dream You Saw a Way to Survive]]></title>
+<title_without_series><![CDATA[In a Dream You Saw a Way to Survive]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43121509-in-a-dream-you-saw-a-way-to-survive]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548641563l/43121509._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548641563l/43121509._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>66920735</id>
+</work>
+<isbn>1524850616</isbn>
+<isbn13>9781524850616</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>7049028</id>
+<name>Clementine von Radics</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7049028.Clementine_von_Radics]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41746324</id>
+<title>The Tradition</title>
+<title_without_series>The Tradition</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41746324-the-tradition]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX98_.jpg]]></image_url>
+<num_pages>77</num_pages>
+<work>
+<id>65149638</id>
+</work>
+<isbn>1556594860</isbn>
+<isbn13>9781556594861</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1877139</id>
+<name>Jericho Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1877139.Jericho_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44157727</id>
+<title><![CDATA[Great Goddesses: Life Lessons from Myths and Monsters]]></title>
+<title_without_series><![CDATA[Great Goddesses: Life Lessons from Myths and Monsters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44157727-great-goddesses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562702090l/44157727._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562702090l/44157727._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>68679470</id>
+</work>
+<isbn>1529104645</isbn>
+<isbn13>9781529104646</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7757886</id>
+<name>Nikita Gill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7757886.Nikita_Gill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41219132</id>
+<title>Love Looks Pretty on You</title>
+<title_without_series>Love Looks Pretty on You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41219132-love-looks-pretty-on-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548799473l/41219132._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548799473l/41219132._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>64422394</id>
+</work>
+<isbn>144949935X</isbn>
+<isbn13>9781449499358</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43453732</id>
+<title><![CDATA[When You Ask Me Where I'm Going]]></title>
+<title_without_series><![CDATA[When You Ask Me Where I'm Going]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43453732-when-you-ask-me-where-i-m-going]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558900337l/43453732._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558900337l/43453732._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>67560746</id>
+</work>
+<isbn>0062912615</isbn>
+<isbn13>9780062912619</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18388564</id>
+<name>Jasmin Kaur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18388564.Jasmin_Kaur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41154353</id>
+<title>When the World Didn&apos;t End</title>
+<title_without_series>When the World Didn&apos;t End</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41154353-when-the-world-didn-t-end]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557383582l/41154353._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557383582l/41154353._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>64328164</id>
+</work>
+<isbn>0062910396</isbn>
+<isbn13>9780062910394</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>614</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>17166469</id>
+<name>Caroline Kaufman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17166469.Caroline_Kaufman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

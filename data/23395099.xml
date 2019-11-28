@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23395099</id>
+  <title><![CDATA[Your Baby's First Word Will Be DADA]]></title>
+  <isbn><![CDATA[125007181X]]></isbn>
+  <isbn13><![CDATA[9781250071811]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421837353l/23395099._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421837353l/23395099._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Feiwel &amp; Friends</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Your baby's first word will be . . .<br /><br />"Dada!"<br /><br />Right?<br /><br />Everyone knows that fathers wage a secret campaign to ensure that their babies' first word is "Dada!"<br /><br />But how does it work?<br />One of the most popular entertainers in the world and NBC's <i>The Tonight Show</i> host, Jimmy Fallon, shows you how.]]></description>
+  <work>
+  <id type="integer">42952321</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">23395099</best_book_id>
+  <reviews_count type="integer">4898</reviews_count>
+  <ratings_sum type="integer">8151</ratings_sum>
+  <ratings_count type="integer">2336</ratings_count>
+  <text_reviews_count type="integer">326</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>Your Baby's First Word Will Be DADA</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:648|4:507|3:658|2:386|1:137|total:2336</rating_dist>
+  <desc_user_id type="integer">-41</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.MaXP5zzdd5ea9yfKDVnyWw</work_uri>
+</work>
+  <average_rating>3.49</average_rating>
+  <num_pages><![CDATA[34]]></num_pages>
+  <format><![CDATA[Board Book]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1954]]></ratings_count>
+  <text_reviews_count><![CDATA[272]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23395099-your-baby-s-first-word-will-be-dada]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23395099-your-baby-s-first-word-will-be-dada]]></link>
+  <authors>
+<author>
+<id>77033</id>
+<name>Jimmy Fallon</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267732347p5/77033.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267732347p2/77033.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/77033.Jimmy_Fallon]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>8427</ratings_count>
+<text_reviews_count>1119</text_reviews_count>
+</author>
+<author>
+<id>3223343</id>
+<name>Miguel Ordóñez</name>
+<role>Illustrations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3223343.Miguel_Ord_ez]]></link>
+<average_rating>3.56</average_rating>
+<ratings_count>3139</ratings_count>
+<text_reviews_count>453</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23395099-your-baby-s-first-word-will-be-dada">Your Baby&#39;s First Word Will Be DADA Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=125007181X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23395099-your-baby-s-first-word-will-be-dada?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1319"/>
+      <shelf name="picture-books" count="167"/>
+      <shelf name="children-s-books" count="54"/>
+      <shelf name="childrens" count="52"/>
+      <shelf name="children" count="48"/>
+      <shelf name="animals" count="38"/>
+      <shelf name="picture-book" count="38"/>
+      <shelf name="children-s" count="37"/>
+      <shelf name="kids" count="33"/>
+      <shelf name="childrens-books" count="29"/>
+      <shelf name="board-books" count="25"/>
+      <shelf name="kids-books" count="24"/>
+      <shelf name="board-book" count="18"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="storytime" count="13"/>
+      <shelf name="currently-reading" count="13"/>
+      <shelf name="read-in-2015" count="13"/>
+      <shelf name="fiction" count="13"/>
+      <shelf name="1000-books-before-kindergarten" count="12"/>
+      <shelf name="humor" count="10"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="baby" count="9"/>
+      <shelf name="favorites" count="8"/>
+      <shelf name="baby-books" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="fathers" count="8"/>
+      <shelf name="children-s-lit" count="7"/>
+      <shelf name="story-time" count="6"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="dad" count="6"/>
+      <shelf name="babies" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="children-books" count="6"/>
+      <shelf name="funny" count="6"/>
+      <shelf name="picture" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="toddler" count="5"/>
+      <shelf name="preschool" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="dads" count="4"/>
+      <shelf name="henry" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="picturebooks" count="4"/>
+      <shelf name="children-s-picture-books" count="4"/>
+      <shelf name="sounds" count="4"/>
+      <shelf name="dogs" count="4"/>
+      <shelf name="cats" count="4"/>
+      <shelf name="family" count="4"/>
+      <shelf name="leo" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="illustrated" count="3"/>
+      <shelf name="oliver" count="3"/>
+      <shelf name="luke" count="3"/>
+      <shelf name="charlotte" count="3"/>
+      <shelf name="evelyn" count="3"/>
+      <shelf name="baby-board-books" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="baby-library" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="fatherhood" count="3"/>
+      <shelf name="boardbooks" count="3"/>
+      <shelf name="read-aloud" count="3"/>
+      <shelf name="daddy" count="3"/>
+      <shelf name="animal-sounds" count="3"/>
+      <shelf name="baby-storytime" count="3"/>
+      <shelf name="children-ya" count="3"/>
+      <shelf name="childrens-picture-books" count="3"/>
+      <shelf name="pigs" count="3"/>
+      <shelf name="ducks" count="3"/>
+      <shelf name="cows" count="3"/>
+      <shelf name="non-fiction" count="3"/>
+      <shelf name="2015-picture-books" count="3"/>
+      <shelf name="favorites-for-kids" count="2"/>
+      <shelf name="caroline" count="2"/>
+      <shelf name="f-author" count="2"/>
+      <shelf name="madison" count="2"/>
+      <shelf name="books-owned" count="2"/>
+      <shelf name="2018-reads" count="2"/>
+      <shelf name="books-read-to-lincoln" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="read-2018" count="2"/>
+      <shelf name="books-read-in-2018" count="2"/>
+      <shelf name="1000-before-kindy" count="2"/>
+      <shelf name="parenting" count="2"/>
+      <shelf name="ollie" count="2"/>
+      <shelf name="gabriel" count="2"/>
+      <shelf name="patrick" count="2"/>
+      <shelf name="childhood" count="2"/>
+      <shelf name="ava" count="2"/>
+      <shelf name="infant" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="bea-s-books" count="2"/>
+      <shelf name="children-picture-books" count="2"/>
+      <shelf name="kids-books-owned" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="picture-books-read" count="2"/>
+      <shelf name="baby-reads" count="2"/>
+      <shelf name="kids-ya" count="2"/>
+      <shelf name="ethan" count="2"/>
+      <shelf name="kids-lit" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>53580</id>
+<title>The Going to Bed Book</title>
+<title_without_series>The Going to Bed Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53580.The_Going_to_Bed_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>52255</id>
+</work>
+<isbn>0671449028</isbn>
+<isbn13>9780671449025</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2241348</id>
+<title>Little Blue Truck</title>
+<title_without_series>Little Blue Truck</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2241348.Little_Blue_Truck]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2247200</id>
+</work>
+<isbn>0152056610</isbn>
+<isbn13>9780152056612</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>191218</id>
+<name>Alice Schertle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/191218.Alice_Schertle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33858440</id>
+<title>Never Touch a Dinosaur</title>
+<title_without_series>Never Touch a Dinosaur</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33858440-never-touch-a-dinosaur]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>54806380</id>
+</work>
+<isbn>1785989081</isbn>
+<isbn13>9781785989087</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13329310</id>
+<name>Rosie Greening</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13329310.Rosie_Greening]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>117140</id>
+<title><![CDATA[Snuggle Puppy! (Boynton on Board)]]></title>
+<title_without_series>Snuggle Puppy!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/117140.Snuggle_Puppy_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404581604l/117140._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404581604l/117140._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>112804</id>
+</work>
+<isbn>0761130675</isbn>
+<isbn13>9780761130673</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33939770</id>
+<title>Rocket Science for Babies</title>
+<title_without_series>Rocket Science for Babies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33939770-rocket-science-for-babies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489576271l/33939770._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489576271l/33939770._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>50764317</id>
+</work>
+<isbn>1492656259</isbn>
+<isbn13>9781492656258</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7438442</id>
+<name>Chris Ferrie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7438442.Chris_Ferrie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4600</id>
+<title>Moo, Baa, La La La!</title>
+<title_without_series>Moo, Baa, La La La!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4600.Moo_Baa_La_La_La_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451996462l/4600._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451996462l/4600._SX98_.jpg]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>477124</id>
+</work>
+<isbn>0689861133</isbn>
+<isbn13>9780689861130</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>765148</id>
+<title>Giraffes Can&apos;t Dance</title>
+<title_without_series>Giraffes Can&apos;t Dance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/765148.Giraffes_Can_t_Dance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306505271l/765148._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306505271l/765148._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2260195</id>
+</work>
+<isbn>0439287197</isbn>
+<isbn13>9780439287197</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6785</id>
+<name>Giles Andreae</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6785.Giles_Andreae]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1795615</id>
+<title>The Pout-Pout Fish</title>
+<title_without_series>The Pout-Pout Fish</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1795615.The_Pout_Pout_Fish]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543239880l/1795615._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543239880l/1795615._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1794658</id>
+</work>
+<isbn>0374360960</isbn>
+<isbn13>9780374360962</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>821537</id>
+<name>Deborah Diesen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/821537.Deborah_Diesen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23528366</id>
+<title>Spooky Pookie</title>
+<title_without_series>Spooky Pookie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23528366-spooky-pookie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420792008l/23528366._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420792008l/23528366._SX98_.jpg]]></image_url>
+<num_pages>18</num_pages>
+<work>
+<id>43131307</id>
+</work>
+<isbn>0553512331</isbn>
+<isbn13>9780553512335</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>827501</id>
+<title>Where Is Baby&apos;s Belly Button?</title>
+<title_without_series>Where Is Baby&apos;s Belly Button?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/827501.Where_Is_Baby_s_Belly_Button_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394422638l/827501._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394422638l/827501._SX98_.jpg]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>3053884</id>
+</work>
+<isbn>0689835604</isbn>
+<isbn13>9780689835605</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11733</id>
+<name>Karen Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11733.Karen_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41757</id>
+<title>Oh, the Thinks You Can Think!</title>
+<title_without_series>Oh, the Thinks You Can Think!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41757.Oh_the_Thinks_You_Can_Think_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327448655l/41757._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327448655l/41757._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>3040910</id>
+</work>
+<isbn>0007173156</isbn>
+<isbn13>9780007173150</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>105552</id>
+<title>Mr. Brown Can Moo! Can You?</title>
+<title_without_series>Mr. Brown Can Moo! Can You?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/105552.Mr_Brown_Can_Moo_Can_You_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2363835</id>
+</work>
+<isbn>0007169914</isbn>
+<isbn13>9780007169917</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25910438</id>
+<title><![CDATA[I Love You to the Moon and Back]]></title>
+<title_without_series><![CDATA[I Love You to the Moon and Back]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25910438-i-love-you-to-the-moon-and-back]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436906886l/25910438._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436906886l/25910438._SX98_.jpg]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>45796978</id>
+</work>
+<isbn></isbn>
+<isbn13>9781589255517</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13336723</id>
+<name>Amelia Hepworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13336723.Amelia_Hepworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26457275</id>
+<title>Welcome Little One</title>
+<title_without_series>Welcome Little One</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26457275-welcome-little-one]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448832449l/26457275._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448832449l/26457275._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>46459836</id>
+</work>
+<isbn>1492632643</isbn>
+<isbn13>9781492632641</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>12</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>83154</id>
+<name>Sandra Magsamen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83154.Sandra_Magsamen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31314</id>
+<title>Barnyard Dance</title>
+<title_without_series>Barnyard Dance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31314.Barnyard_Dance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404580374l/31314._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404580374l/31314._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>1284702</id>
+</work>
+<isbn>1563054426</isbn>
+<isbn13>9781563054426</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11231465</id>
+<title><![CDATA[Pride & Prejudice : A BabyLit Counting Primer]]></title>
+<title_without_series><![CDATA[Pride & Prejudice : A BabyLit Counting Primer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11231465-pride-prejudice]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348009029l/11231465._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348009029l/11231465._SX98_.jpg]]></image_url>
+<num_pages>22</num_pages>
+<work>
+<id>16157474</id>
+</work>
+<isbn>1423622022</isbn>
+<isbn13>9781423622024</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>895119</id>
+<name>Jennifer Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/895119.Jennifer_Adams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34852612</id>
+<title><![CDATA[Little Blue Truck's Springtime]]></title>
+<title_without_series><![CDATA[Little Blue Truck's Springtime]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34852612-little-blue-truck-s-springtime]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509069717l/34852612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509069717l/34852612._SX98_.jpg]]></image_url>
+<num_pages>16</num_pages>
+<work>
+<id>56090463</id>
+</work>
+<isbn>0544938097</isbn>
+<isbn13>9780544938090</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>191218</id>
+<name>Alice Schertle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/191218.Alice_Schertle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>695773</id>
+<title><![CDATA[Baby Bear, Baby Bear, What Do You See?]]></title>
+<title_without_series><![CDATA[Baby Bear, Baby Bear, What Do You See?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/695773.Baby_Bear_Baby_Bear_What_Do_You_See_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>17943866</id>
+</work>
+<isbn>0805083367</isbn>
+<isbn13>9780805083361</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2336</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>8</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>5086768</id>
+<name>Bill Martin Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5086768.Bill_Martin_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

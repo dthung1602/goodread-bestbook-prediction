@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18288210</id>
+  <title>No Matter the Wreckage</title>
+  <isbn><![CDATA[1938912489]]></isbn>
+  <isbn13><![CDATA[9781938912481]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>18</publication_day>
+  <publisher>Write Bloody Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Following the success of her breakout poem, "B," Sarah Kay releases her debut collection of poetry featuring work from the first decade of her career. No Matter the Wreckage presents readers with new and beloved work that showcases Kay's knack for celebrating family, love, travel, history, and unlikely love affairs between inanimate objects ("Toothbrush to the Bicycle Tire"), among other curious topics. Both fresh and wise, Kay's poetry allows readers to join in on her journey of discovering herself and the world around her. It's an honest and powerful collection.]]></description>
+  <work>
+  <id type="integer">25768313</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">18288210</best_book_id>
+  <reviews_count type="integer">45323</reviews_count>
+  <ratings_sum type="integer">41135</ratings_sum>
+  <ratings_count type="integer">9667</ratings_count>
+  <text_reviews_count type="integer">880</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">18</original_publication_day>
+  <original_title>No Matter the Wreckage</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5021|4:2802|3:1306|2:366|1:172|total:9667</rating_dist>
+  <desc_user_id type="integer">-46</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.6Q4PCusD54MjhdR7g8YdQw</work_uri>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[143]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9376]]></ratings_count>
+  <text_reviews_count><![CDATA[837]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18288210-no-matter-the-wreckage]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18288210-no-matter-the-wreckage]]></link>
+  <authors>
+<author>
+<id>11377</id>
+<name>Sarah Kay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327230533p5/11377.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327230533p2/11377.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11377.Sarah_Kay]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>13713</ratings_count>
+<text_reviews_count>1306</text_reviews_count>
+</author>
+<author>
+<id>5355524</id>
+<name>Sophia Janowitz</name>
+<role>Illustrations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5355524.Sophia_Janowitz]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>12540</ratings_count>
+<text_reviews_count>1133</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18288210-no-matter-the-wreckage">No Matter the Wreckage Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1938912489&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18288210-no-matter-the-wreckage?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="33593"/>
+      <shelf name="poetry" count="2075"/>
+      <shelf name="currently-reading" count="610"/>
+      <shelf name="favorites" count="312"/>
+      <shelf name="books-i-own" count="83"/>
+      <shelf name="to-buy" count="67"/>
+      <shelf name="owned" count="64"/>
+      <shelf name="non-fiction" count="45"/>
+      <shelf name="poems" count="40"/>
+      <shelf name="favourites" count="28"/>
+      <shelf name="poetry-to-read" count="27"/>
+      <shelf name="wish-list" count="23"/>
+      <shelf name="to-read-poetry" count="18"/>
+      <shelf name="nonfiction" count="17"/>
+      <shelf name="read-in-2018" count="16"/>
+      <shelf name="contemporary" count="16"/>
+      <shelf name="tbr-poetry" count="15"/>
+      <shelf name="library" count="14"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="read-in-2017" count="13"/>
+      <shelf name="fiction" count="13"/>
+      <shelf name="adult" count="13"/>
+      <shelf name="poesia" count="13"/>
+      <shelf name="read-in-2019" count="12"/>
+      <shelf name="read-2017" count="12"/>
+      <shelf name="poetry-tbr" count="12"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="dnf" count="11"/>
+      <shelf name="want-to-own" count="10"/>
+      <shelf name="2017-reads" count="10"/>
+      <shelf name="all-time-favorites" count="10"/>
+      <shelf name="poetry-books" count="10"/>
+      <shelf name="2016-reads" count="9"/>
+      <shelf name="read-in-2015" count="9"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="2019-reads" count="8"/>
+      <shelf name="2018-reads" count="8"/>
+      <shelf name="authors-of-color" count="8"/>
+      <shelf name="feminism" count="8"/>
+      <shelf name="female-author" count="8"/>
+      <shelf name="favorite" count="8"/>
+      <shelf name="american" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="need-to-buy" count="8"/>
+      <shelf name="poëzie" count="7"/>
+      <shelf name="read-in-english" count="7"/>
+      <shelf name="4-stars" count="7"/>
+      <shelf name="2014-releases" count="7"/>
+      <shelf name="tbr" count="7"/>
+      <shelf name="women" count="7"/>
+      <shelf name="e-book" count="7"/>
+      <shelf name="want" count="7"/>
+      <shelf name="english" count="6"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="books-to-buy" count="6"/>
+      <shelf name="poetry-and-prose" count="6"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="home-library" count="5"/>
+      <shelf name="2017-read" count="5"/>
+      <shelf name="reviewed" count="5"/>
+      <shelf name="recommended" count="5"/>
+      <shelf name="on-my-bookshelf" count="5"/>
+      <shelf name="stand-alone" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="favorite-books" count="5"/>
+      <shelf name="on-hold" count="5"/>
+      <shelf name="book-club" count="5"/>
+      <shelf name="poetic" count="5"/>
+      <shelf name="21st-century" count="5"/>
+      <shelf name="women-authors" count="5"/>
+      <shelf name="faves" count="5"/>
+      <shelf name="aoc" count="5"/>
+      <shelf name="asian-american" count="5"/>
+      <shelf name="want-to-read" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="5-stars" count="5"/>
+      <shelf name="read-harder-2019" count="4"/>
+      <shelf name="poetry-wishlist" count="4"/>
+      <shelf name="poetry-plays" count="4"/>
+      <shelf name="reading-challenge-2018" count="4"/>
+      <shelf name="scribd" count="4"/>
+      <shelf name="physical-tbr" count="4"/>
+      <shelf name="2018-tbr" count="4"/>
+      <shelf name="audiobooks" count="4"/>
+      <shelf name="audiobook" count="4"/>
+      <shelf name="e-books" count="4"/>
+      <shelf name="3-stars" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="favs" count="4"/>
+      <shelf name="want-to-read-poetry" count="4"/>
+      <shelf name="short-stories" count="4"/>
+      <shelf name="standalones" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="books-by-women" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="not-at-library" count="4"/>
+      <shelf name="read-2016" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23522212</id>
+<title>Mouthful of Forevers</title>
+<title_without_series>Mouthful of Forevers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23522212-mouthful-of-forevers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418614931l/23522212._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418614931l/23522212._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>43125314</id>
+</work>
+<isbn>1449470793</isbn>
+<isbn13>9781449470791</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7049028</id>
+<name>Clementine von Radics</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7049028.Clementine_von_Radics]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39656140</id>
+<title>Date &amp; Time</title>
+<title_without_series>Date &amp; Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39656140-date-time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>61226487</id>
+</work>
+<isbn>1943735360</isbn>
+<isbn13>9781943735365</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6868681</id>
+<name>Phil Kaye</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6868681.Phil_Kaye]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20821097</id>
+<title><![CDATA[Chasers of the Light: Poems from the Typewriter Series]]></title>
+<title_without_series><![CDATA[Chasers of the Light: Poems from the Typewriter Series]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20821097-chasers-of-the-light]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025020l/20821097._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025020l/20821097._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>40166990</id>
+</work>
+<isbn>0399169733</isbn>
+<isbn13>9780399169731</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7075956</id>
+<name>Tyler Knott Gregson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7075956.Tyler_Knott_Gregson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16293344</id>
+<title><![CDATA[Songs from Under the River: A Collection of Poetry]]></title>
+<title_without_series><![CDATA[Songs from Under the River: A Collection of Poetry]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16293344-songs-from-under-the-river]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355899483l/16293344._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355899483l/16293344._SX98_.jpg]]></image_url>
+<num_pages>93</num_pages>
+<work>
+<id>22420915</id>
+</work>
+<isbn>1938912241</isbn>
+<isbn13>9781938912245</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>1988741</id>
+<name>Anis Mojgani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1988741.Anis_Mojgani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34594982</id>
+<title><![CDATA[Depression & Other Magic Tricks]]></title>
+<title_without_series><![CDATA[Depression & Other Magic Tricks]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34594982-depression-other-magic-tricks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492920202l/34594982._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492920202l/34594982._SX98_.jpg]]></image_url>
+<num_pages>75</num_pages>
+<work>
+<id>55737806</id>
+</work>
+<isbn>1943735204</isbn>
+<isbn13>9781943735204</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>12775904</id>
+<name>Sabrina Benaim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12775904.Sabrina_Benaim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7726844</id>
+<title><![CDATA[The Bones Below: Poems by Sierra Demulder]]></title>
+<title_without_series><![CDATA[The Bones Below: Poems by Sierra Demulder]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7726844-the-bones-below]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>71</num_pages>
+<work>
+<id>10492603</id>
+</work>
+<isbn>0984251537</isbn>
+<isbn13>9780984251537</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>3373437</id>
+<name>Sierra DeMulder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3373437.Sierra_DeMulder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17729031</id>
+<title>The Anatomy of Being</title>
+<title_without_series>The Anatomy of Being</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17729031-the-anatomy-of-being]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365016469l/17729031._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365016469l/17729031._SX98_.jpg]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>24800666</id>
+</work>
+<isbn>1300631759</isbn>
+<isbn13>9781300631750</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6567403</id>
+<name>Shinji Moon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6567403.Shinji_Moon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17181915</id>
+<title>A Light Bulb Symphony</title>
+<title_without_series>A Light Bulb Symphony</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17181915-a-light-bulb-symphony]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362372537l/17181915._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362372537l/17181915._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>23628734</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>12</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6868681</id>
+<name>Phil Kaye</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6868681.Phil_Kaye]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18003300</id>
+<title>Love &amp; Misadventure</title>
+<title_without_series>Love &amp; Misadventure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18003300-love-misadventure]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>25266150</id>
+</work>
+<isbn>0473235501</isbn>
+<isbn13>9780473235505</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23513349</id>
+<title>Milk and Honey</title>
+<title_without_series>Milk and Honey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23513349-milk-and-honey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491595510l/23513349._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491595510l/23513349._SX98_.jpg]]></image_url>
+<num_pages>204</num_pages>
+<work>
+<id>43116473</id>
+</work>
+<isbn>1502784270</isbn>
+<isbn13>9781502784278</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>8075577</id>
+<name>Rupi Kaur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8075577.Rupi_Kaur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22151696</id>
+<title>Lullabies</title>
+<title_without_series>Lullabies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22151696-lullabies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SX98_.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>41496977</id>
+</work>
+<isbn>1449461077</isbn>
+<isbn13>9781449461072</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30075802</id>
+<title><![CDATA[The Princess Saves Herself in This One (Women Are Some Kind of Magic, #1)]]></title>
+<title_without_series><![CDATA[The Princess Saves Herself in This One]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30075802-the-princess-saves-herself-in-this-one]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462211636l/30075802._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462211636l/30075802._SX98_.jpg]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>50494177</id>
+</work>
+<isbn>1532913680</isbn>
+<isbn13>9781532913686</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>15225448</id>
+<name>Amanda Lovelace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15225448.Amanda_Lovelace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3425041</id>
+<title>Pole Dancing to Gospel Hymns</title>
+<title_without_series>Pole Dancing to Gospel Hymns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3425041-pole-dancing-to-gospel-hymns]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486391961l/3425041._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486391961l/3425041._SX98_.jpg]]></image_url>
+<num_pages>99</num_pages>
+<work>
+<id>3465859</id>
+</work>
+<isbn>0981521304</isbn>
+<isbn13>9780981521305</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>6</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>457281</id>
+<name>Andrea Gibson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457281.Andrea_Gibson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46281490</id>
+<title>Nejma</title>
+<title_without_series>Nejma</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46281490-nejma]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458937l/46281490._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560458937l/46281490._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>41971787</id>
+</work>
+<isbn>1494493322</isbn>
+<isbn13>9781494493325</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7145613</id>
+<name>Nayyirah Waheed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7145613.Nayyirah_Waheed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34594981</id>
+<title>Helium</title>
+<title_without_series>Helium</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34594981-helium]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492928546l/34594981._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492928546l/34594981._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55737805</id>
+</work>
+<isbn>1943735190</isbn>
+<isbn13>9781943735198</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5832058</id>
+<name>Rudy Francisco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5832058.Rudy_Francisco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16257173</id>
+<title><![CDATA[Courage: Daring Poems for Gutsy Girls]]></title>
+<title_without_series><![CDATA[Courage: Daring Poems for Gutsy Girls]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16257173-courage]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429449722l/16257173._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429449722l/16257173._SX98_.jpg]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>22301177</id>
+</work>
+<isbn>1938912209</isbn>
+<isbn13>9781938912207</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2736035</id>
+<name>Karen Finneyfrock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2736035.Karen_Finneyfrock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35084223</id>
+<title>Bone</title>
+<title_without_series>Bone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35084223-bone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494857481l/35084223._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494857481l/35084223._SX98_.jpg]]></image_url>
+<num_pages>138</num_pages>
+<work>
+<id>42059068</id>
+</work>
+<isbn>014313261X</isbn>
+<isbn13>9780143132615</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6994016</id>
+<name>Yrsa Daley-Ward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6994016.Yrsa_Daley_Ward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13504320</id>
+<title>New Shoes On A Dead Horse</title>
+<title_without_series>New Shoes On A Dead Horse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13504320-new-shoes-on-a-dead-horse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387696527l/13504320._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387696527l/13504320._SX98_.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>19053999</id>
+</work>
+<isbn>1935904957</isbn>
+<isbn13>9781935904953</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9667</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>3373437</id>
+<name>Sierra DeMulder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3373437.Sierra_DeMulder]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

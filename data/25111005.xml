@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25111005</id>
+  <title><![CDATA[A Thousand Naked Strangers: A Paramedic's Wild Ride to the Edge and Back]]></title>
+  <isbn><![CDATA[1501110837]]></isbn>
+  <isbn13><![CDATA[9781501110832]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451843171l/25111005._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451843171l/25111005._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Scribner</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A former paramedic’s visceral, poignant, and mordantly funny account of a decade spent on Atlanta’s mean streets saving lives and connecting with the drama and occasional beauty that lies inside catastrophe.<br /><br />In the aftermath of 9/11 Kevin Hazzard felt that something was missing from his life—his days were too safe, too routine. A failed salesman turned local reporter, he wanted to test himself, see how he might respond to pressure and danger. He signed up for emergency medical training and became, at age twenty-six, a newly minted EMT running calls in the worst sections of Atlanta. His life entered a different realm—one of blood, violence, and amazing grace.<br /><br />Thoroughly intimidated at first and frequently terrified, he experienced on a nightly basis the adrenaline rush of walking into chaos. But in his downtime, Kevin reflected on how people’s facades drop away when catastrophe strikes. As his hours on the job piled up, he realized he was beginning to see into the truth of things. There is no pretense five beats into a chest compression, or in an alley next to a crack den, or on a dimly lit highway where cars have collided. Eventually, what had at first seemed impossible happened: Kevin acquired mastery. And in the process he was able to discern the professional differences between his freewheeling peers, what marked each—as he termed them—as “a tourist,” “true believer,” or “killer.”<br /><br />Combining indelible scenes that remind us of life’s fragile beauty with laugh-out-loud moments that keep us smiling through the worst, <i>A Thousand Naked Strangers</i> is an absorbing read about one man’s journey of self-discovery—a trip that also teaches us about ourselves.]]></description>
+  <work>
+  <id type="integer">44804734</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">25111005</best_book_id>
+  <reviews_count type="integer">29639</reviews_count>
+  <ratings_sum type="integer">33862</ratings_sum>
+  <ratings_count type="integer">8712</ratings_count>
+  <text_reviews_count type="integer">1018</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>A Thousand Naked Strangers: A Paramedic’s Wild Ride to the Edge and Back</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2340|4:3667|3:2196|2:397|1:112|total:8712</rating_dist>
+  <desc_user_id type="integer">1463934</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.rLWI9vdZwiptU1isOLRdMA</work_uri>
+</work>
+  <average_rating>3.89</average_rating>
+  <num_pages><![CDATA[261]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[7611]]></ratings_count>
+  <text_reviews_count><![CDATA[916]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25111005-a-thousand-naked-strangers]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25111005-a-thousand-naked-strangers]]></link>
+  <authors>
+<author>
+<id>4867683</id>
+<name>Kevin Hazzard</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4867683.Kevin_Hazzard]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>8721</ratings_count>
+<text_reviews_count>1019</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25111005-a-thousand-naked-strangers">A Thousand Naked Strangers Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1501110837&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25111005-a-thousand-naked-strangers?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="19170"/>
+      <shelf name="currently-reading" count="402"/>
+      <shelf name="non-fiction" count="385"/>
+      <shelf name="memoir" count="204"/>
+      <shelf name="nonfiction" count="189"/>
+      <shelf name="medical" count="78"/>
+      <shelf name="memoirs" count="74"/>
+      <shelf name="biography" count="54"/>
+      <shelf name="medicine" count="46"/>
+      <shelf name="audiobook" count="38"/>
+      <shelf name="biography-memoir" count="36"/>
+      <shelf name="favorites" count="35"/>
+      <shelf name="library" count="30"/>
+      <shelf name="humor" count="24"/>
+      <shelf name="audiobooks" count="23"/>
+      <shelf name="read-in-2016" count="22"/>
+      <shelf name="health" count="22"/>
+      <shelf name="owned" count="21"/>
+      <shelf name="book-club" count="21"/>
+      <shelf name="autobiography" count="19"/>
+      <shelf name="memoir-biography" count="19"/>
+      <shelf name="botm" count="18"/>
+      <shelf name="books-i-own" count="15"/>
+      <shelf name="kindle" count="15"/>
+      <shelf name="book-of-the-month-club" count="14"/>
+      <shelf name="book-of-the-month" count="14"/>
+      <shelf name="audio" count="14"/>
+      <shelf name="2016-reads" count="13"/>
+      <shelf name="adult" count="13"/>
+      <shelf name="to-buy" count="13"/>
+      <shelf name="science" count="12"/>
+      <shelf name="read-in-2017" count="11"/>
+      <shelf name="to-read-nonfiction" count="11"/>
+      <shelf name="read-2017" count="10"/>
+      <shelf name="biographies" count="10"/>
+      <shelf name="death" count="9"/>
+      <shelf name="non-fic" count="9"/>
+      <shelf name="bio-memoir" count="9"/>
+      <shelf name="adventure" count="8"/>
+      <shelf name="read-2016" count="8"/>
+      <shelf name="recommended" count="7"/>
+      <shelf name="2016-reading-challenge" count="7"/>
+      <shelf name="audio-books" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="healthcare" count="7"/>
+      <shelf name="read-in-2018" count="6"/>
+      <shelf name="2017-reading-list" count="6"/>
+      <shelf name="memoirs-biographies" count="6"/>
+      <shelf name="2016-read" count="6"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="abandoned" count="6"/>
+      <shelf name="adult-non-fiction" count="6"/>
+      <shelf name="memoir-autobiography" count="6"/>
+      <shelf name="ebook" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="misc" count="6"/>
+      <shelf name="to-read-non-fiction" count="6"/>
+      <shelf name="read-in-2019" count="5"/>
+      <shelf name="2017-reading-challenge" count="5"/>
+      <shelf name="memoir-and-biography" count="5"/>
+      <shelf name="botm-club" count="5"/>
+      <shelf name="crime" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="bookclub" count="5"/>
+      <shelf name="biographies-and-memoirs" count="5"/>
+      <shelf name="biography-autobiography" count="5"/>
+      <shelf name="biographies-memoirs" count="5"/>
+      <shelf name="georgia" count="5"/>
+      <shelf name="wsirn" count="4"/>
+      <shelf name="2018-reads" count="4"/>
+      <shelf name="2017-books" count="4"/>
+      <shelf name="nonfiction-to-read" count="4"/>
+      <shelf name="memoirs-biography" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="bios-memoirs" count="4"/>
+      <shelf name="psychology" count="4"/>
+      <shelf name="health-medical" count="4"/>
+      <shelf name="non-fiction-to-read" count="4"/>
+      <shelf name="bomc" count="4"/>
+      <shelf name="funny" count="4"/>
+      <shelf name="adult-nonfiction" count="4"/>
+      <shelf name="listened-to" count="4"/>
+      <shelf name="read-nonfiction" count="4"/>
+      <shelf name="medical-memoirs" count="4"/>
+      <shelf name="didn-t-finish" count="4"/>
+      <shelf name="2016-books" count="4"/>
+      <shelf name="audible" count="4"/>
+      <shelf name="2016-releases" count="4"/>
+      <shelf name="nonfic" count="4"/>
+      <shelf name="bio" count="4"/>
+      <shelf name="npr" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="netgalley" count="4"/>
+      <shelf name="paramedic" count="3"/>
+      <shelf name="2018-read" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="2018-reading-challenge" count="3"/>
+      <shelf name="listened" count="3"/>
+      <shelf name="want" count="3"/>
+      <shelf name="books-to-buy" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23493695</id>
+<title>Lights and Sirens</title>
+<title_without_series>Lights and Sirens</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23493695-lights-and-sirens]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430782006l/23493695._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430782006l/23493695._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>43083742</id>
+</work>
+<isbn>042527523X</isbn>
+<isbn13>9780425275238</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4672568</id>
+<name>Kevin Grange</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4672568.Kevin_Grange]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18775327</id>
+<title><![CDATA[Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner]]></title>
+<title_without_series><![CDATA[Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18775327-working-stiff]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408319717l/18775327._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408319717l/18775327._SX98_.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>26680460</id>
+</work>
+<isbn>1476727252</isbn>
+<isbn13>9781476727257</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>7382113</id>
+<name>Judy Melinek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7382113.Judy_Melinek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22929172</id>
+<title><![CDATA[The Nurses: A Year of Secrets, Drama, and Miracles with the Heroes of the Hospital]]></title>
+<title_without_series><![CDATA[The Nurses: A Year of Secrets, Drama, and Miracles with the Heroes of the Hospital]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22929172-the-nurses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486471l/22929172._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486471l/22929172._SX98_.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>42498709</id>
+</work>
+<isbn>0761171711</isbn>
+<isbn13>9780761171713</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>14141</id>
+<name>Alexandra Robbins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14141.Alexandra_Robbins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24001091</id>
+<title><![CDATA[The Shift: One Nurse, Twelve Hours, Four Patients' Lives]]></title>
+<title_without_series><![CDATA[The Shift: One Nurse, Twelve Hours, Four Patients' Lives]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24001091-the-shift]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440345366l/24001091._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440345366l/24001091._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>43601146</id>
+</work>
+<isbn>161620320X</isbn>
+<isbn13>9781616203207</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>3327270</id>
+<name>Theresa Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3327270.Theresa_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22716448</id>
+<title><![CDATA[The Real Doctor Will See You Shortly: A Physician's First Year]]></title>
+<title_without_series><![CDATA[The Real Doctor Will See You Shortly: A Physician's First Year]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22716448-the-real-doctor-will-see-you-shortly]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768118l/22716448._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768118l/22716448._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>42243701</id>
+</work>
+<isbn>0804138656</isbn>
+<isbn13>9780804138659</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>10706677</id>
+<name>Matt   McCarthy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10706677.Matt_McCarthy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>169246</id>
+<title><![CDATA[Trauma Junkie: Memoirs of an Emergency Flight Nurse]]></title>
+<title_without_series><![CDATA[Trauma Junkie: Memoirs of an Emergency Flight Nurse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/169246.Trauma_Junkie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>163440</id>
+</work>
+<isbn>1552095738</isbn>
+<isbn13>9781552095737</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>98643</id>
+<name>Janice Hudson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/98643.Janice_Hudson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25899336</id>
+<title>When Breath Becomes Air</title>
+<title_without_series>When Breath Becomes Air</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25899336-when-breath-becomes-air]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492677644l/25899336._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492677644l/25899336._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>45424659</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14031444</id>
+<name>Paul Kalanithi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031444.Paul_Kalanithi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>924861</id>
+<title><![CDATA[Paramedic: On the Front Lines of Medicine]]></title>
+<title_without_series><![CDATA[Paramedic: On the Front Lines of Medicine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/924861.Paramedic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527947l/924861._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527947l/924861._SY160_.jpg]]></image_url>
+<num_pages>351</num_pages>
+<work>
+<id>909870</id>
+</work>
+<isbn>0804116148</isbn>
+<isbn13>9780804116145</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>358385</id>
+<name>Peter Canning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/358385.Peter_Canning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22822859</id>
+<title><![CDATA[The Job: True Tales from the Life of a New York City Cop]]></title>
+<title_without_series><![CDATA[The Job: True Tales from the Life of a New York City Cop]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22822859-the-job]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408926491l/22822859._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408926491l/22822859._SX98_.jpg]]></image_url>
+<num_pages>253</num_pages>
+<work>
+<id>42375711</id>
+</work>
+<isbn>0385539622</isbn>
+<isbn13>9780385539623</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>6890050</id>
+<name>Steve Osborne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6890050.Steve_Osborne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24972194</id>
+<title>On the Move: A Life</title>
+<title_without_series>On the Move: A Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24972194-on-the-move]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431138932l/24972194._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431138932l/24972194._SX98_.jpg]]></image_url>
+<num_pages>397</num_pages>
+<work>
+<id>44518639</id>
+</work>
+<isbn>0385352549</isbn>
+<isbn13>9780385352543</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>843200</id>
+<name>Oliver Sacks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/843200.Oliver_Sacks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25814475</id>
+<title>Alligator Candy: A Memoir</title>
+<title_without_series>Alligator Candy: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25814475-alligator-candy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461759651l/25814475._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461759651l/25814475._SX98_.jpg]]></image_url>
+<num_pages>243</num_pages>
+<work>
+<id>45671158</id>
+</work>
+<isbn>1451682530</isbn>
+<isbn13>9781451682533</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>65730</id>
+<name>David Kushner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65730.David_Kushner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17899708</id>
+<title><![CDATA[Things I've Learned from Dying: A Book About Life]]></title>
+<title_without_series><![CDATA[Things I've Learned from Dying: A Book About Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17899708-things-i-ve-learned-from-dying]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386579805l/17899708._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386579805l/17899708._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>25073874</id>
+</work>
+<isbn>1455575240</isbn>
+<isbn13>9781455575244</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>269321</id>
+<name>David R. Dow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/269321.David_R_Dow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11782310</id>
+<title>Baghdad Er: Fifteen Minutes</title>
+<title_without_series>Baghdad Er: Fifteen Minutes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11782310-baghdad-er]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>370</num_pages>
+<work>
+<id>16734174</id>
+</work>
+<isbn>057806992X</isbn>
+<isbn13>9780578069920</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4855605</id>
+<name>Todd Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4855605.Todd_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25937671</id>
+<title><![CDATA[A Mother's Reckoning: Living in the Aftermath of Tragedy]]></title>
+<title_without_series><![CDATA[A Mother's Reckoning: Living in the Aftermath of Tragedy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25937671-a-mother-s-reckoning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453261078l/25937671._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453261078l/25937671._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>45835034</id>
+</work>
+<isbn>1101902760</isbn>
+<isbn13>9781101902769</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>14172374</id>
+<name>Sue Klebold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14172374.Sue_Klebold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22454066</id>
+<title><![CDATA[Internal Medicine: A Doctor's Stories]]></title>
+<title_without_series><![CDATA[Internal Medicine: A Doctor's Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22454066-internal-medicine]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402448685l/22454066._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402448685l/22454066._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>39963961</id>
+</work>
+<isbn>1863956905</isbn>
+<isbn13>9781863956901</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2905680</id>
+<name>Terrence Holt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2905680.Terrence_Holt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39892800</id>
+<title><![CDATA[Patient Care: Death and Life in the Emergency Room]]></title>
+<title_without_series><![CDATA[Patient Care: Death and Life in the Emergency Room]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39892800-patient-care]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524131765l/39892800._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524131765l/39892800._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>58355076</id>
+</work>
+<isbn>1936787881</isbn>
+<isbn13>9781936787883</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5780693</id>
+<name>Paul Seward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5780693.Paul_Seward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16130672</id>
+<title><![CDATA[One Doctor: Close Calls, Cold Cases and the Mystery of Medicine]]></title>
+<title_without_series><![CDATA[One Doctor: Close Calls, Cold Cases and the Mystery of Medicine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16130672-one-doctor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378065754l/16130672._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378065754l/16130672._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>21956000</id>
+</work>
+<isbn>1476726299</isbn>
+<isbn13>9781476726298</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6572612</id>
+<name>Brendan Reilly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6572612.Brendan_Reilly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2320120</id>
+<title><![CDATA[Hospital: Man, Woman, Birth, Death, Infinity, Plus Red Tape, Bad Behavior, Money, God and Diversity on Steroids]]></title>
+<title_without_series><![CDATA[Hospital: Man, Woman, Birth, Death, Infinity, Plus Red Tape, Bad Behavior, Money, God and Diversity on Steroids]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2320120.Hospital]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>363</num_pages>
+<work>
+<id>2326640</id>
+</work>
+<isbn>1594201714</isbn>
+<isbn13>9781594201714</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8712</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>70561</id>
+<name>Julie Salamon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70561.Julie_Salamon]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

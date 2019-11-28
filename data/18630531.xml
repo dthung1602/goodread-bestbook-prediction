@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18630531</id>
+  <title>My Salinger Year</title>
+  <isbn><![CDATA[0307958000]]></isbn>
+  <isbn13><![CDATA[9780307958006]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388374724l/18630531._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388374724l/18630531._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Knopf</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Poignant, keenly observed, and irresistibly funny: a memoir about literary New York in the late nineties, a pre-digital world on the cusp of vanishing, where a young woman finds herself entangled with one of the last great figures of the century.<br /><br /> At twenty-three, after leaving graduate school to pursue her dreams of becoming a poet, Joanna Rakoff moves to New York City and takes a job as assistant to the storied literary agent for J. D. Salinger. She spends her days in a plush, wood-paneled office, where Dictaphones and typewriters still reign and old-time agents doze at their desks after martini lunches. At night she goes home to the tiny, threadbare Williamsburg apartment she shares with her socialist boyfriend. Precariously balanced between glamour and poverty, surrounded by titanic personalities, and struggling to trust her own artistic instinct, Rakoff is tasked with answering Salinger’s voluminous fan mail. But as she reads the candid, heart-wrenching letters from his readers around the world, she finds herself unable to type out the agency’s decades-old form response. Instead, drawn inexorably into the emotional world of Salinger’s devotees, she abandons the template and begins writing back. Over the course of the year, she finds her own voice by acting as Salinger’s, on her own dangerous and liberating terms. <br /><br /> Rakoff paints a vibrant portrait of a bright, hungry young woman navigating a heady and longed-for world, trying to square romantic aspirations with burgeoning self-awareness, the idea of a life with life itself. Charming and deeply moving, filled with electrifying glimpses of an American literary icon, <i>My Salinger Year</i> is the coming-of-age story of a talented writer. Above all, it is a testament to the universal power of books to shape our lives and awaken our true selves. ]]></description>
+  <work>
+  <id type="integer">26423293</id>
+  <books_count type="integer">28</books_count>
+  <best_book_id type="integer">18630531</best_book_id>
+  <reviews_count type="integer">22937</reviews_count>
+  <ratings_sum type="integer">29121</ratings_sum>
+  <ratings_count type="integer">7810</ratings_count>
+  <text_reviews_count type="integer">1069</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>My Salinger Year</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1692|4:3228|3:2171|2:517|1:202|total:7810</rating_dist>
+  <desc_user_id type="integer">-50</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.8Z6_QihQhJVgNNGpDIZ-_Q</work_uri>
+</work>
+  <average_rating>3.73</average_rating>
+  <num_pages><![CDATA[252]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[6570]]></ratings_count>
+  <text_reviews_count><![CDATA[888]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18630531-my-salinger-year]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18630531-my-salinger-year]]></link>
+  <authors>
+<author>
+<id>1398038</id>
+<name>Joanna Rakoff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244473126p5/1398038.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244473126p2/1398038.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1398038.Joanna_Rakoff]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>8934</ratings_count>
+<text_reviews_count>1318</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18630531-my-salinger-year">My Salinger Year Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307958000&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18630531-my-salinger-year?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="13999"/>
+      <shelf name="non-fiction" count="271"/>
+      <shelf name="memoir" count="261"/>
+      <shelf name="currently-reading" count="138"/>
+      <shelf name="nonfiction" count="105"/>
+      <shelf name="memoirs" count="73"/>
+      <shelf name="books-about-books" count="59"/>
+      <shelf name="biography" count="53"/>
+      <shelf name="favorites" count="50"/>
+      <shelf name="new-york" count="37"/>
+      <shelf name="book-club" count="33"/>
+      <shelf name="biography-memoir" count="32"/>
+      <shelf name="library" count="29"/>
+      <shelf name="read-in-2014" count="29"/>
+      <shelf name="fiction" count="29"/>
+      <shelf name="read-in-2015" count="25"/>
+      <shelf name="to-buy" count="23"/>
+      <shelf name="adult" count="19"/>
+      <shelf name="writing" count="18"/>
+      <shelf name="autobiography" count="18"/>
+      <shelf name="books-i-own" count="16"/>
+      <shelf name="kindle" count="16"/>
+      <shelf name="read-2014" count="15"/>
+      <shelf name="memoir-biography" count="15"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="american" count="10"/>
+      <shelf name="bio-memoir" count="10"/>
+      <shelf name="memoir-bio" count="9"/>
+      <shelf name="audiobook" count="9"/>
+      <shelf name="audiobooks" count="9"/>
+      <shelf name="biographies" count="9"/>
+      <shelf name="books" count="9"/>
+      <shelf name="new-york-city" count="9"/>
+      <shelf name="read-2015" count="8"/>
+      <shelf name="2015-books" count="8"/>
+      <shelf name="2014-books" count="8"/>
+      <shelf name="to-read-nonfiction" count="8"/>
+      <shelf name="books-on-books" count="7"/>
+      <shelf name="publishing" count="7"/>
+      <shelf name="to-read-non-fiction" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="need-to-buy" count="7"/>
+      <shelf name="biography-and-memoir" count="7"/>
+      <shelf name="history" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="coming-of-age" count="6"/>
+      <shelf name="audible" count="6"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="autobiography-memoir" count="6"/>
+      <shelf name="nyc" count="6"/>
+      <shelf name="biographies-memoirs" count="6"/>
+      <shelf name="summer-2014" count="6"/>
+      <shelf name="memoir-autobiography" count="6"/>
+      <shelf name="2016-reads" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="memoirs-biographies" count="5"/>
+      <shelf name="adult-nonfiction" count="5"/>
+      <shelf name="non-fic" count="5"/>
+      <shelf name="bookclub" count="5"/>
+      <shelf name="2014-read" count="5"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="women-authors" count="5"/>
+      <shelf name="usa" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="read-2018" count="4"/>
+      <shelf name="abandoned" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="books-read-in-2015" count="4"/>
+      <shelf name="overdrive" count="4"/>
+      <shelf name="21st-century" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="e-books" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="biography-memoirs" count="4"/>
+      <shelf name="bibliophilia" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="female-authors" count="4"/>
+      <shelf name="to-purchase" count="4"/>
+      <shelf name="writers" count="4"/>
+      <shelf name="non-fiction-to-read" count="4"/>
+      <shelf name="on-writing" count="4"/>
+      <shelf name="english" count="4"/>
+      <shelf name="first-reads" count="4"/>
+      <shelf name="2018-reads" count="3"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="2017-books" count="3"/>
+      <shelf name="my-bookshelf" count="3"/>
+      <shelf name="non-fiction-memoir" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="female-writers" count="3"/>
+      <shelf name="2015-read" count="3"/>
+      <shelf name="2015-reads" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>47170222</id>
+<title>This Is Pleasure</title>
+<title_without_series>This Is Pleasure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47170222-this-is-pleasure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72238224</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11214</id>
+<name>Mary Gaitskill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11214.Mary_Gaitskill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>299435</id>
+<title><![CDATA[The Long-Winded Lady: Notes from The New Yorker]]></title>
+<title_without_series><![CDATA[The Long-Winded Lady: Notes from The New Yorker]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/299435.The_Long_Winded_Lady]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>268</num_pages>
+<work>
+<id>290509</id>
+</work>
+<isbn>0395893631</isbn>
+<isbn13>9780395893630</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>172661</id>
+<name>Maeve Brennan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172661.Maeve_Brennan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16171225</id>
+<title><![CDATA[Death in the Vines (Verlaque and Bonnet, #3)]]></title>
+<title_without_series>Death in the Vines</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16171225-death-in-the-vines]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356089860l/16171225._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356089860l/16171225._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>22018675</id>
+</work>
+<isbn>0143122444</isbn>
+<isbn13>9780143122449</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>4592428</id>
+<name>M.L. Longworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4592428.M_L_Longworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5113</id>
+<title>Franny and Zooey</title>
+<title_without_series>Franny and Zooey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5113.Franny_and_Zooey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355037988l/5113._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355037988l/5113._SY160_.jpg]]></image_url>
+<num_pages>201</num_pages>
+<work>
+<id>3118417</id>
+</work>
+<isbn>0316769029</isbn>
+<isbn13>9780316769020</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>819789</id>
+<name>J.D. Salinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46115960</id>
+<title>Daddy Issues</title>
+<title_without_series>Daddy Issues</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46115960-daddy-issues]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71037101</id>
+</work>
+<isbn>1999922395</isbn>
+<isbn13>9781999922399</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1001479</id>
+<name>Katherine Angel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1001479.Katherine_Angel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37797221</id>
+<title><![CDATA[Departures: A Guide to Letting Go, One Adventure at a Time]]></title>
+<title_without_series><![CDATA[Departures: A Guide to Letting Go, One Adventure at a Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37797221-departures]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59462495</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17594685</id>
+<name>Anna   Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17594685.Anna_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6670382</id>
+<title>Eight White Nights</title>
+<title_without_series>Eight White Nights</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6670382-eight-white-nights]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312005071l/6670382._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312005071l/6670382._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>6865326</id>
+</work>
+<isbn>0374228426</isbn>
+<isbn13>9780374228422</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>2922229</id>
+<name>André Aciman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2922229.Andr_Aciman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12416448</id>
+<title>Caring Is Creepy</title>
+<title_without_series>Caring Is Creepy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12416448-caring-is-creepy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333580320l/12416448._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333580320l/12416448._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>17398322</id>
+</work>
+<isbn>1569479771</isbn>
+<isbn13>9781569479773</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>50100</id>
+<name>David Zimmerman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50100.David_Zimmerman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121987</id>
+<title><![CDATA[Nobody's Looking at You: Essays]]></title>
+<title_without_series><![CDATA[Nobody's Looking at You: Essays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121987-nobody-s-looking-at-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531214994l/40121987._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531214994l/40121987._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>62223071</id>
+</work>
+<isbn>0374279497</isbn>
+<isbn13>9780374279493</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>7446</id>
+<name>Janet Malcolm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7446.Janet_Malcolm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46130379</id>
+<title>The Understudy</title>
+<title_without_series>The Understudy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46130379-the-understudy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>69403149</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>232473</id>
+<name>Sophie Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232473.Sophie_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16280607</id>
+<title>Split Second</title>
+<title_without_series>Split Second</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16280607-split-second]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372090454l/16280607._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372090454l/16280607._SX98_.jpg]]></image_url>
+<num_pages>357</num_pages>
+<work>
+<id>22382179</id>
+</work>
+<isbn>147111600X</isbn>
+<isbn13>9781471116001</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>976887</id>
+<name>Sophie McKenzie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/976887.Sophie_McKenzie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1824219</id>
+<title><![CDATA[Mrs. Jeffries Stands Corrected (Mrs. Jeffries, #9)]]></title>
+<title_without_series><![CDATA[Mrs. Jeffries Stands Corrected]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1824219.Mrs_Jeffries_Stands_Corrected]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083558l/1824219._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083558l/1824219._SX98_.jpg]]></image_url>
+<num_pages>215</num_pages>
+<work>
+<id>1823916</id>
+</work>
+<isbn>0425155803</isbn>
+<isbn13>9780425155806</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>93728</id>
+<name>Emily Brightwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93728.Emily_Brightwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1011839</id>
+<title><![CDATA[Mrs. Jeffries Takes the Stage (Mrs. Jeffries, #10)]]></title>
+<title_without_series>Mrs. Jeffries Takes the Stage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1011839.Mrs_Jeffries_Takes_the_Stage]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083630l/1011839._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083630l/1011839._SX98_.jpg]]></image_url>
+<num_pages>229</num_pages>
+<work>
+<id>997963</id>
+</work>
+<isbn>0425157245</isbn>
+<isbn13>9780425157244</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>93728</id>
+<name>Emily Brightwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93728.Emily_Brightwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18143068</id>
+<title><![CDATA[Mrs. Jeffries and the One Who Got Away (Mrs. Jeffries, #33)]]></title>
+<title_without_series><![CDATA[Mrs. Jeffries and the One Who Got Away]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18143068-mrs-jeffries-and-the-one-who-got-away]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510653l/18143068._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406510653l/18143068._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>25490184</id>
+</work>
+<isbn>0425268101</isbn>
+<isbn13>9780425268100</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>93728</id>
+<name>Emily Brightwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93728.Emily_Brightwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17166223</id>
+<title><![CDATA[Mrs. Jeffries and the Merry Gentlemen (Mrs. Jeffries, #32)]]></title>
+<title_without_series><![CDATA[Mrs. Jeffries and the Merry Gentlemen]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17166223-mrs-jeffries-and-the-merry-gentlemen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364849923l/17166223._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364849923l/17166223._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>23593030</id>
+</work>
+<isbn>042526808X</isbn>
+<isbn13>9780425268087</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>93728</id>
+<name>Emily Brightwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93728.Emily_Brightwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1824217</id>
+<title><![CDATA[Mrs. Jeffries Takes the Cake (Mrs. Jeffries, #13)]]></title>
+<title_without_series>Mrs. Jeffries Takes the Cake</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1824217.Mrs_Jeffries_Takes_the_Cake]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083943l/1824217._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083943l/1824217._SX98_.jpg]]></image_url>
+<num_pages>227</num_pages>
+<work>
+<id>1823914</id>
+</work>
+<isbn>0425165698</isbn>
+<isbn13>9780425165690</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>93728</id>
+<name>Emily Brightwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93728.Emily_Brightwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1571590</id>
+<title>Culture Shock! France</title>
+<title_without_series>Culture Shock! France</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1571590.Culture_Shock_France]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1564302</id>
+</work>
+<isbn>155868056X</isbn>
+<isbn13>9781558680562</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>302784</id>
+<name>Sally Adamson Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/302784.Sally_Adamson_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10422778</id>
+<title><![CDATA[Under Attack (Underworld Detection Agency, #2)]]></title>
+<title_without_series>Under Attack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10422778-under-attack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307578145l/10422778._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307578145l/10422778._SX98_.jpg]]></image_url>
+<num_pages>322</num_pages>
+<work>
+<id>15327078</id>
+</work>
+<isbn>0758258933</isbn>
+<isbn13>9780758258939</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>7810</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4245438</id>
+<name>Hannah Jayne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4245438.Hannah_Jayne]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

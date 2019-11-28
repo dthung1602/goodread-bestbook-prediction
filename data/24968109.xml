@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24968109</id>
+  <title>What Pet Should I Get?</title>
+  <isbn><![CDATA[0553524267]]></isbn>
+  <isbn13><![CDATA[9780553524260]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308042l/24968109._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308042l/24968109._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Random House Children's Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A never-before-seen picture book by Dr. Seuss!</b><br /> <br />This never-ever-before-seen picture book by Dr. Seuss about making up one’s mind is the literary equivalent of buried treasure! What happens when a brother and sister visit a pet store to pick a pet? Naturally, they can’t choose just one! The tale captures a classic childhood moment — choosing a pet — and uses it to illuminate a life lesson: that it is hard to make up your mind, but sometimes you just have to do it!<br /> <br />Told in Dr. Seuss’s signature rhyming style, this is a must-have for Seuss fans and book collectors, and a perfect choice for the holidays, birthdays, and happy occasions of all kinds.<br /> <br />An Editor’s Note at the end discusses Dr. Seuss’s creative process, his interest in animals, and Seussian creatures throughout his work.]]></description>
+  <work>
+  <id type="integer">44635848</id>
+  <books_count type="integer">20</books_count>
+  <best_book_id type="integer">24968109</best_book_id>
+  <reviews_count type="integer">9369</reviews_count>
+  <ratings_sum type="integer">15201</ratings_sum>
+  <ratings_count type="integer">4011</ratings_count>
+  <text_reviews_count type="integer">567</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <original_title>What Pet Should I Get?</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1257|4:1211|3:1094|2:341|1:108|total:4011</rating_dist>
+  <desc_user_id type="integer">12183985</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.h5WB39kJNbj-V9JgTDCodA</work_uri>
+</work>
+  <average_rating>3.79</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3772]]></ratings_count>
+  <text_reviews_count><![CDATA[524]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24968109-what-pet-should-i-get]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24968109-what-pet-should-i-get]]></link>
+  <authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2882520</ratings_count>
+<text_reviews_count>52431</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24968109-what-pet-should-i-get">What Pet Should I Get? Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0553524267&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/24968109-what-pet-should-i-get?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3681"/>
+      <shelf name="picture-books" count="293"/>
+      <shelf name="childrens" count="102"/>
+      <shelf name="currently-reading" count="85"/>
+      <shelf name="children-s-books" count="74"/>
+      <shelf name="picture-book" count="68"/>
+      <shelf name="children-s" count="66"/>
+      <shelf name="children" count="60"/>
+      <shelf name="pets" count="51"/>
+      <shelf name="animals" count="47"/>
+      <shelf name="kids" count="43"/>
+      <shelf name="dr-seuss" count="41"/>
+      <shelf name="childrens-books" count="39"/>
+      <shelf name="fiction" count="37"/>
+      <shelf name="library" count="23"/>
+      <shelf name="read-in-2015" count="20"/>
+      <shelf name="humor" count="17"/>
+      <shelf name="kids-books" count="15"/>
+      <shelf name="rhyming" count="15"/>
+      <shelf name="poetry" count="14"/>
+      <shelf name="storytime" count="12"/>
+      <shelf name="picture" count="12"/>
+      <shelf name="children-s-lit" count="12"/>
+      <shelf name="children-s-literature" count="11"/>
+      <shelf name="picturebooks" count="11"/>
+      <shelf name="classics" count="11"/>
+      <shelf name="children-books" count="11"/>
+      <shelf name="rhyme" count="10"/>
+      <shelf name="children-s-picture-books" count="10"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="favorites" count="9"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="kids-read" count="7"/>
+      <shelf name="kid-books" count="7"/>
+      <shelf name="read-2015" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="childrens-picture-books" count="7"/>
+      <shelf name="read-in-2019" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="1000-books-before-kindergarten" count="6"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="seuss" count="6"/>
+      <shelf name="children-s-picture-book" count="5"/>
+      <shelf name="animal" count="5"/>
+      <shelf name="kindergarten" count="5"/>
+      <shelf name="funny" count="5"/>
+      <shelf name="fantasy" count="5"/>
+      <shelf name="elementary" count="5"/>
+      <shelf name="family" count="5"/>
+      <shelf name="dogs" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="early-reader" count="5"/>
+      <shelf name="2015-reads" count="5"/>
+      <shelf name="childhood" count="4"/>
+      <shelf name="dr-suess" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="story-time" count="4"/>
+      <shelf name="storytime-books" count="4"/>
+      <shelf name="animals-pets" count="4"/>
+      <shelf name="easy" count="4"/>
+      <shelf name="pb" count="4"/>
+      <shelf name="children-s-books-read" count="4"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="preschool" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="audio" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="for-kids" count="4"/>
+      <shelf name="1-000-books-before-kindergarten" count="3"/>
+      <shelf name="henry" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="lucy" count="3"/>
+      <shelf name="from-the-library" count="3"/>
+      <shelf name="children-books-read" count="3"/>
+      <shelf name="read-2016" count="3"/>
+      <shelf name="early-readers" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="1" count="3"/>
+      <shelf name="children-picture-books" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="indecision" count="3"/>
+      <shelf name="edrd-314" count="3"/>
+      <shelf name="pre-k" count="3"/>
+      <shelf name="bedtime-stories" count="3"/>
+      <shelf name="rhymes" count="3"/>
+      <shelf name="childhood-books" count="3"/>
+      <shelf name="easy-reader" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="stories-in-rhyme" count="3"/>
+      <shelf name="cats" count="3"/>
+      <shelf name="pb-rhyming" count="3"/>
+      <shelf name="childrens-literature" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="illustrated" count="3"/>
+      <shelf name="youth" count="3"/>
+      <shelf name="books-we-own" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>225180</id>
+<title>The Tooth Book</title>
+<title_without_series>The Tooth Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/225180.The_Tooth_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>10847</id>
+</work>
+<isbn>0375810390</isbn>
+<isbn13>9780375810398</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>398177</id>
+<name>Theo LeSieg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/398177.Theo_LeSieg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>846066</id>
+<title><![CDATA[The Berenstain Bears Forget Their Manners]]></title>
+<title_without_series><![CDATA[The Berenstain Bears Forget Their Manners]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/846066.The_Berenstain_Bears_Forget_Their_Manners]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>194618</id>
+</work>
+<isbn>0394873335</isbn>
+<isbn13>9780394873336</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>426626</id>
+<title><![CDATA[Fancy Nancy and the Posh Puppy]]></title>
+<title_without_series><![CDATA[Fancy Nancy and the Posh Puppy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/426626.Fancy_Nancy_and_the_Posh_Puppy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1761419</id>
+</work>
+<isbn>0060542136</isbn>
+<isbn13>9780060542139</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>94085</id>
+<name>Jane O&apos;Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94085.Jane_O_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23460936</id>
+<title><![CDATA[Pete the Cat: Five Little Pumpkins]]></title>
+<title_without_series><![CDATA[Pete the Cat: Five Little Pumpkins]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23460936-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437714047l/23460936._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437714047l/23460936._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>43034118</id>
+</work>
+<isbn>0062304186</isbn>
+<isbn13>9780062304186</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22749702</id>
+<title>Stick and Stone</title>
+<title_without_series>Stick and Stone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22749702-stick-and-stone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925406l/22749702._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925406l/22749702._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42295104</id>
+</work>
+<isbn>054403256X</isbn>
+<isbn13>9780544032569</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>8393959</id>
+<name>Beth Ferry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8393959.Beth_Ferry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>819048</id>
+<title><![CDATA[Curious George and the Firefighters (Curious George New Adventures)]]></title>
+<title_without_series><![CDATA[Curious George and the Firefighters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/819048.Curious_George_and_the_Firefighters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>282680</id>
+</work>
+<isbn>0618494960</isbn>
+<isbn13>9780618494965</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6608</id>
+<name>Margret Rey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6608.Margret_Rey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>304847</id>
+<title>People</title>
+<title_without_series>People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/304847.People]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>295863</id>
+</work>
+<isbn>038524469X</isbn>
+<isbn13>9780385244695</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6575</id>
+<name>Peter Spier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6575.Peter_Spier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28512697</id>
+<title>Pete the Cat: Snow Daze</title>
+<title_without_series>Pete the Cat: Snow Daze</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28512697-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460313745l/28512697._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460313745l/28512697._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48669542</id>
+</work>
+<isbn>0062404253</isbn>
+<isbn13>9780062404251</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7151485</id>
+<title>The Easter Egg</title>
+<title_without_series>The Easter Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7151485-the-easter-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180714l/7151485._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180714l/7151485._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>7416902</id>
+</work>
+<isbn>039925238X</isbn>
+<isbn13>9780399252389</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17718088</id>
+<title><![CDATA[Chu's First Day of School (Chu, #2)]]></title>
+<title_without_series>Chu&apos;s First Day of School</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17718088-chu-s-first-day-of-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391376144l/17718088._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391376144l/17718088._SX98_.jpg]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>24783037</id>
+</work>
+<isbn>0062223976</isbn>
+<isbn13>9780062223975</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25332008</id>
+<title><![CDATA[When Green Becomes Tomatoes: Poems for All Seasons]]></title>
+<title_without_series><![CDATA[When Green Becomes Tomatoes: Poems for All Seasons]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25332008-when-green-becomes-tomatoes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451244283l/25332008._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451244283l/25332008._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>45067877</id>
+</work>
+<isbn>1596438525</isbn>
+<isbn13>9781596438521</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4999425</id>
+<name>Julie Fogliano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4999425.Julie_Fogliano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>854648</id>
+<title>Wacky Wednesday</title>
+<title_without_series>Wacky Wednesday</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/854648.Wacky_Wednesday]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559321085l/854648._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559321085l/854648._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>227678</id>
+</work>
+<isbn>0394829123</isbn>
+<isbn13>9780394829128</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>398177</id>
+<name>Theo LeSieg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/398177.Theo_LeSieg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17846011</id>
+<title>The Pigeon Needs a Bath!</title>
+<title_without_series>The Pigeon Needs a Bath!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17846011-the-pigeon-needs-a-bath]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386579093l/17846011._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386579093l/17846011._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24976916</id>
+</work>
+<isbn>1423190874</isbn>
+<isbn13>9781423190875</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27112416</id>
+<title>How to Catch a Leprechaun</title>
+<title_without_series>How to Catch a Leprechaun</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27112416-how-to-catch-a-leprechaun]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057794l/27112416._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057794l/27112416._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>47154176</id>
+</work>
+<isbn>1492632910</isbn>
+<isbn13>9781492632917</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1211614</id>
+<name>Adam Wallace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1211614.Adam_Wallace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22929525</id>
+<title>Fright Club</title>
+<title_without_series>Fright Club</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22929525-fright-club]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424086698l/22929525._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424086698l/22929525._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42499075</id>
+</work>
+<isbn>161963337X</isbn>
+<isbn13>9781619633377</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>433322</id>
+<name>Ethan Long</name>
+<link><![CDATA[https://www.goodreads.com/author/show/433322.Ethan_Long]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>106491</id>
+<title><![CDATA[The Lion Storyteller Bedtime Book: World Folk Tales Especially for Reading Aloud]]></title>
+<title_without_series><![CDATA[The Lion Storyteller Bedtime Book: World Folk Tales Especially for Reading Aloud]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/106491.The_Lion_Storyteller_Bedtime_Book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328822431l/106491._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328822431l/106491._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>102648</id>
+</work>
+<isbn>0745946542</isbn>
+<isbn13>9780745946542</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>41109</id>
+<name>Bob Hartman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41109.Bob_Hartman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>515906</id>
+<title><![CDATA[I am Invited to a Party! (Elephant & Piggie, #3)]]></title>
+<title_without_series>I am Invited to a Party!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/515906.I_am_Invited_to_a_Party_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888013l/515906._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888013l/515906._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>503848</id>
+</work>
+<isbn>1423106873</isbn>
+<isbn13>9781423106876</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28512515</id>
+<title><![CDATA[Pete the Cat and the Missing Cupcakes]]></title>
+<title_without_series><![CDATA[Pete the Cat and the Missing Cupcakes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28512515-pete-the-cat-and-the-missing-cupcakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461534116l/28512515._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461534116l/28512515._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>48669385</id>
+</work>
+<isbn>0062304348</isbn>
+<isbn13>9780062304346</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>4011</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7192113</id>
+<name>Kimberly  Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7192113.Kimberly_Dean]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

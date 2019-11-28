@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13606988</id>
+  <title>The Void</title>
+  <isbn><![CDATA[1936564432]]></isbn>
+  <isbn13><![CDATA[9781936564439]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334750262l/13606988._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334750262l/13606988._SX50_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>13</publication_day>
+  <publisher>JournalStone</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In the deepest reaches of space, on a ship that no longer exists, six travelers stare into the abyss . . . and the abyss stares back. Man has finally mastered the art of space travel and in a few hours passengers can travel light years across the galaxy. But, there's a catch-the traveler must be asleep for the journey, and with sleep come the dreams. Only the sleeper can know what his dream entails, for each is tailored to his own mind, built from his fears, his secrets, his past . . . and sometimes his future. That the dreams occasionally drive men mad is but the price of technological advance. But when a transport on a routine mission comes upon an abandoned ship, missing for more than a decade, six travelers-each with something to hide-discover that perhaps the dreams are more than just figments of their imagination. Indeed, they may be a window to a reality beyond their own where shadow has substance and the darkness is a thing unto itself, truly worthy of fear.]]></description>
+  <work>
+  <id type="integer">19202623</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">13606988</best_book_id>
+  <reviews_count type="integer">2754</reviews_count>
+  <ratings_sum type="integer">1374</ratings_sum>
+  <ratings_count type="integer">369</ratings_count>
+  <text_reviews_count type="integer">98</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">7</original_publication_day>
+  <original_title>The Void</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:99|4:126|3:96|2:39|1:9|total:369</rating_dist>
+  <desc_user_id type="integer">2990442</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.TGU7eCumIMOlRv9jmoy3Xg</work_uri>
+</work>
+  <average_rating>3.72</average_rating>
+  <num_pages><![CDATA[250]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[312]]></ratings_count>
+  <text_reviews_count><![CDATA[93]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13606988-the-void]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13606988-the-void]]></link>
+  <authors>
+<author>
+<id>4994753</id>
+<name>Brett J. Talley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309323695p5/4994753.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309323695p2/4994753.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4994753.Brett_J_Talley]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>3461</ratings_count>
+<text_reviews_count>731</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13606988-the-void">The Void Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1936564432&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13606988-the-void?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2252"/>
+      <shelf name="horror" count="60"/>
+      <shelf name="sci-fi" count="31"/>
+      <shelf name="science-fiction" count="27"/>
+      <shelf name="currently-reading" count="26"/>
+      <shelf name="fiction" count="9"/>
+      <shelf name="first-reads" count="6"/>
+      <shelf name="scifi" count="5"/>
+      <shelf name="kindle" count="5"/>
+      <shelf name="space" count="4"/>
+      <shelf name="space-horror" count="3"/>
+      <shelf name="lovecraftian" count="3"/>
+      <shelf name="thriller" count="3"/>
+      <shelf name="sci-fi-fantasy" count="3"/>
+      <shelf name="giveaways" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="to-go-thru" count="2"/>
+      <shelf name="v-title" count="2"/>
+      <shelf name="single-books" count="2"/>
+      <shelf name="lovecraft" count="2"/>
+      <shelf name="aliens" count="2"/>
+      <shelf name="weird-fiction" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="favorites" count="2"/>
+      <shelf name="scifi-fantasy" count="2"/>
+      <shelf name="read-in-2012" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="fantasy" count="2"/>
+      <shelf name="gca-nominee-or-winner" count="1"/>
+      <shelf name="bizarro-fiction" count="1"/>
+      <shelf name="owned-at-home-down" count="1"/>
+      <shelf name="top-want-sci-fi" count="1"/>
+      <shelf name="top-want-horror" count="1"/>
+      <shelf name="ism-pathy-cidal-osis" count="1"/>
+      <shelf name="horror-intense" count="1"/>
+      <shelf name="2012grchoiceawards" count="1"/>
+      <shelf name="0-title-h" count="1"/>
+      <shelf name="ebook-kobo" count="1"/>
+      <shelf name="audio_wanted" count="1"/>
+      <shelf name="gca2012" count="1"/>
+      <shelf name="00-t-author" count="1"/>
+      <shelf name="books-on-my-real-shelf" count="1"/>
+      <shelf name="books-on-my-literal-shelf" count="1"/>
+      <shelf name="library" count="1"/>
+      <shelf name="space-fic" count="1"/>
+      <shelf name="sci-fi-horror" count="1"/>
+      <shelf name="t-author" count="1"/>
+      <shelf name="don-t-own" count="1"/>
+      <shelf name="nature-n-scifi" count="1"/>
+      <shelf name="horror-and-weird" count="1"/>
+      <shelf name="own-digitally" count="1"/>
+      <shelf name="scifi-horror" count="1"/>
+      <shelf name="06-words" count="1"/>
+      <shelf name="owned-but-not-read" count="1"/>
+      <shelf name="next-sf" count="1"/>
+      <shelf name="next-horror" count="1"/>
+      <shelf name="cosmic-horror-weird-tales" count="1"/>
+      <shelf name="horror-and-monsters" count="1"/>
+      <shelf name="00" count="1"/>
+      <shelf name="1000-g-103" count="1"/>
+      <shelf name="read-but-dont-remember" count="1"/>
+      <shelf name="thriller-horror" count="1"/>
+      <shelf name="horror-genres" count="1"/>
+      <shelf name="books-to-buy" count="1"/>
+      <shelf name="celestialdread" count="1"/>
+      <shelf name="horror-scifi" count="1"/>
+      <shelf name="gr-12" count="1"/>
+      <shelf name="cosmic-and-lovecraftian-horror" count="1"/>
+      <shelf name="queue" count="1"/>
+      <shelf name="buy-to-read" count="1"/>
+      <shelf name="i-have-to-read" count="1"/>
+      <shelf name="lego-novel" count="1"/>
+      <shelf name="interested-in" count="1"/>
+      <shelf name="books-i-own" count="1"/>
+      <shelf name="books-i-ve-read" count="1"/>
+      <shelf name="wishlist-2017" count="1"/>
+      <shelf name="sf-tr" count="1"/>
+      <shelf name="novels-tr" count="1"/>
+      <shelf name="read-horror-books" count="1"/>
+      <shelf name="ciencia-ficcion" count="1"/>
+      <shelf name="mystery" count="1"/>
+      <shelf name="too-expensive" count="1"/>
+      <shelf name="sci-fi-space" count="1"/>
+      <shelf name="ebay-store" count="1"/>
+      <shelf name="02-words-ns" count="1"/>
+      <shelf name="to-read-1a-sf" count="1"/>
+      <shelf name="sci-fi-non-popular" count="1"/>
+      <shelf name="dark-horror-gritty" count="1"/>
+      <shelf name="dark-disturb" count="1"/>
+      <shelf name="to-read-sf" count="1"/>
+      <shelf name="ethar-onirys" count="1"/>
+      <shelf name="to-read-horror-weird-novel" count="1"/>
+      <shelf name="zolder" count="1"/>
+      <shelf name="sort" count="1"/>
+      <shelf name="hiatus" count="1"/>
+      <shelf name="02-words-b" count="1"/>
+      <shelf name="already-dl" count="1"/>
+      <shelf name="horror-12" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>24827</id>
+<title>Ship of Fools</title>
+<title_without_series>Ship of Fools</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24827.Ship_of_Fools]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287704201l/24827._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287704201l/24827._SX98_.jpg]]></image_url>
+<num_pages>370</num_pages>
+<work>
+<id>755809</id>
+</work>
+<isbn>0441008933</isbn>
+<isbn13>9780441008933</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>13992</id>
+<name>Richard Paul Russo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13992.Richard_Paul_Russo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>359375</id>
+<title>Night Watch (Watch #1)</title>
+<title_without_series>Night Watch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/359375.Night_Watch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351342315l/359375._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351342315l/359375._SX98_.jpg]]></image_url>
+<num_pages>455</num_pages>
+<work>
+<id>349497</id>
+</work>
+<isbn>1401359795</isbn>
+<isbn13>9781401359799</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32637</id>
+<name>Sergei Lukyanenko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32637.Sergei_Lukyanenko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>173699</id>
+<title>Approaching Omega</title>
+<title_without_series>Approaching Omega</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/173699.Approaching_Omega]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>167779</id>
+</work>
+<isbn>1903889987</isbn>
+<isbn13>9781903889985</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>243</id>
+<name>Eric Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/243.Eric_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17910115</id>
+<title><![CDATA[The Burning Dark (Spider Wars, #1)]]></title>
+<title_without_series>The Burning Dark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17910115-the-burning-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373073645l/17910115._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373073645l/17910115._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>25095570</id>
+</work>
+<isbn>0765335085</isbn>
+<isbn13>9780765335081</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>590743</id>
+<name>Adam Christopher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/590743.Adam_Christopher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13539191</id>
+<title><![CDATA[Three Parts Dead (Craft Sequence, #1)]]></title>
+<title_without_series>Three Parts Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13539191-three-parts-dead]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333049511l/13539191._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333049511l/13539191._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>19101555</id>
+</work>
+<isbn>0765333104</isbn>
+<isbn13>9780765333100</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3405346</id>
+<name>Max Gladstone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3405346.Max_Gladstone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17063696</id>
+<title><![CDATA[The Lord of Opium (Matteo Alacran, #2)]]></title>
+<title_without_series>The Lord of Opium</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17063696-the-lord-of-opium]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362634071l/17063696._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362634071l/17063696._SX98_.jpg]]></image_url>
+<num_pages>411</num_pages>
+<work>
+<id>23401811</id>
+</work>
+<isbn>1442482540</isbn>
+<isbn13>9781442482548</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8360</id>
+<name>Nancy Farmer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8360.Nancy_Farmer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12135086</id>
+<title>Deep Sky (Travis Chase, #3)</title>
+<title_without_series>Deep Sky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12135086-deep-sky]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>405</num_pages>
+<work>
+<id>17104926</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>12</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4917483</id>
+<name>Patrick  Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4917483.Patrick_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33206899</id>
+<title>Bright Ruin (Dark Gifts #3)</title>
+<title_without_series>Bright Ruin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33206899-bright-ruin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529769982l/33206899._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529769982l/33206899._SX98_.jpg]]></image_url>
+<num_pages>397</num_pages>
+<work>
+<id>53909011</id>
+</work>
+<isbn></isbn>
+<isbn13>9780425284193</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>14235866</id>
+<name>Vic James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14235866.Vic_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6987527</id>
+<title>The Breach (Travis Chase, #1)</title>
+<title_without_series>The Breach</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6987527-the-breach]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>7229688</id>
+</work>
+<isbn>0061584452</isbn>
+<isbn13>9780061584459</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>12</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4917483</id>
+<name>Patrick  Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4917483.Patrick_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8479092</id>
+<title><![CDATA[Ghost Country (Travis Chase, #2)]]></title>
+<title_without_series>Ghost Country</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8479092-ghost-country]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>13344068</id>
+</work>
+<isbn>0061584444</isbn>
+<isbn13>9780061584442</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>4917483</id>
+<name>Patrick  Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4917483.Patrick_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41716919</id>
+<title><![CDATA[Jade War (The Green Bone Saga, #2)]]></title>
+<title_without_series>Jade War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41716919-jade-war]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537885614l/41716919._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537885614l/41716919._SX98_.jpg]]></image_url>
+<num_pages>590</num_pages>
+<work>
+<id>59189299</id>
+</work>
+<isbn>0316440922</isbn>
+<isbn13>9780316440929</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>7705004</id>
+<name>Fonda Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7705004.Fonda_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25103760</id>
+<title><![CDATA[Those Below (The Empty Throne #2)]]></title>
+<title_without_series>Those Below</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25103760-those-below]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445514801l/25103760._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445514801l/25103760._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>44796124</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>4475715</id>
+<name>Daniel Polansky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4475715.Daniel_Polansky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32283608</id>
+<title>Soulsmith (Cradle, #2)</title>
+<title_without_series>Soulsmith</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32283608-soulsmith]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>286</num_pages>
+<work>
+<id>52911130</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7125278</id>
+<name>Will Wight</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7125278.Will_Wight]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39931684</id>
+<title><![CDATA[Last Man Out (Poor Man's Fight, #5)]]></title>
+<title_without_series>Last Man Out</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39931684-last-man-out]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61815826</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4961671</id>
+<name>Elliott Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4961671.Elliott_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42087520</id>
+<title>The Silver Sorceress</title>
+<title_without_series>The Silver Sorceress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42087520-the-silver-sorceress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538127120l/42087520._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538127120l/42087520._SX98_.jpg]]></image_url>
+<num_pages>499</num_pages>
+<work>
+<id>65640124</id>
+</work>
+<isbn>0998227641</isbn>
+<isbn13>9780998227641</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>16048391</id>
+<name>Alec Hutson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16048391.Alec_Hutson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28628936</id>
+<title><![CDATA[A Shattered Empire (Sorcery Ascendant Sequence, #3)]]></title>
+<title_without_series>A Shattered Empire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28628936-a-shattered-empire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456496540l/28628936._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456496540l/28628936._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>43722999</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7189594</id>
+<name>Mitchell Hogan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7189594.Mitchell_Hogan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35381620</id>
+<title><![CDATA[No Medals for Secrets (Poor Man's Fight, #4)]]></title>
+<title_without_series>No Medals for Secrets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35381620-no-medals-for-secrets]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56741866</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4961671</id>
+<name>Elliott Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4961671.Elliott_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33549796</id>
+<title><![CDATA[Betrayer's Bane (Embers of Illeniel, #3)]]></title>
+<title_without_series>Betrayer&apos;s Bane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33549796-betrayer-s-bane]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482472164l/33549796._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482472164l/33549796._SX98_.jpg]]></image_url>
+<num_pages>380</num_pages>
+<work>
+<id>54323236</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>12</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>5021072</id>
+<name>Michael G. Manning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5021072.Michael_G_Manning]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

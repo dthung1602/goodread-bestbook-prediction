@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17731927</id>
+  <title>Summerlost</title>
+  <isbn><![CDATA[0399187197]]></isbn>
+  <isbn13><![CDATA[9780399187193]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453460319l/17731927._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453460319l/17731927._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>Dutton Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[It's the first real summer since the devastating accident that killed Cedar's father and younger brother, Ben. But now Cedar and what’s left of her family are returning to the town of Iron Creek for the summer. They’re just settling into their new house when a boy named Leo, dressed in costume, rides by on his bike. Intrigued, Cedar follows him to the renowned Summerlost theatre festival. Soon, she not only has a new friend in Leo and a job working concessions at the festival, she finds herself surrounded by mystery. The mystery of the tragic, too-short life of the Hollywood actress who haunts the halls of Summerlost. And the mystery of the strange gifts that keep appearing for Cedar. <br /> <br />Infused with emotion and rich with understanding, Summerlost is the touching middle grade debut from Ally Condie, the international bestselling author of the <i>Matched</i> series, that highlights the strength of family and personal resilience in the face of tragedy.]]></description>
+  <work>
+  <id type="integer">24806292</id>
+  <books_count type="integer">18</books_count>
+  <best_book_id type="integer">17731927</best_book_id>
+  <reviews_count type="integer">23596</reviews_count>
+  <ratings_sum type="integer">22324</ratings_sum>
+  <ratings_count type="integer">5787</ratings_count>
+  <text_reviews_count type="integer">1237</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_title>Summerlost</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1418|4:2497|3:1558|2:258|1:56|total:5787</rating_dist>
+  <desc_user_id type="integer">1439452</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.hpHL5lN8FBPFfAKxxfAAPQ</work_uri>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[249]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5395]]></ratings_count>
+  <text_reviews_count><![CDATA[1158]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17731927-summerlost]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17731927-summerlost]]></link>
+  <authors>
+<author>
+<id>1304470</id>
+<name>Ally Condie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361564387p5/1304470.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361564387p2/1304470.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1304470.Ally_Condie]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>975980</ratings_count>
+<text_reviews_count>63827</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17731927-summerlost">Summerlost Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399187197&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17731927-summerlost?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2176"/>
+      <shelf name="middle-grade" count="256"/>
+      <shelf name="currently-reading" count="172"/>
+      <shelf name="realistic-fiction" count="141"/>
+      <shelf name="young-adult" count="139"/>
+      <shelf name="contemporary" count="98"/>
+      <shelf name="fiction" count="69"/>
+      <shelf name="ya" count="64"/>
+      <shelf name="childrens" count="63"/>
+      <shelf name="friendship" count="61"/>
+      <shelf name="favorites" count="49"/>
+      <shelf name="family" count="48"/>
+      <shelf name="audio" count="43"/>
+      <shelf name="read-in-2016" count="41"/>
+      <shelf name="audiobook" count="38"/>
+      <shelf name="audiobooks" count="37"/>
+      <shelf name="middle-school" count="37"/>
+      <shelf name="grief" count="34"/>
+      <shelf name="death" count="33"/>
+      <shelf name="mystery" count="33"/>
+      <shelf name="realistic" count="31"/>
+      <shelf name="children-s" count="28"/>
+      <shelf name="children" count="27"/>
+      <shelf name="mg" count="26"/>
+      <shelf name="summer" count="23"/>
+      <shelf name="books-i-own" count="23"/>
+      <shelf name="juvenile" count="23"/>
+      <shelf name="kids" count="22"/>
+      <shelf name="juvenile-fiction" count="22"/>
+      <shelf name="to-buy" count="21"/>
+      <shelf name="children-s-books" count="18"/>
+      <shelf name="audio-books" count="17"/>
+      <shelf name="owned" count="17"/>
+      <shelf name="2016-releases" count="17"/>
+      <shelf name="read-in-2018" count="15"/>
+      <shelf name="theater" count="14"/>
+      <shelf name="coming-of-age" count="14"/>
+      <shelf name="middle-grades" count="14"/>
+      <shelf name="read-in-2017" count="13"/>
+      <shelf name="ya-fiction" count="13"/>
+      <shelf name="2016-reads" count="13"/>
+      <shelf name="j-fiction" count="12"/>
+      <shelf name="stand-alone" count="12"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="children-s-fiction" count="11"/>
+      <shelf name="loss" count="11"/>
+      <shelf name="middle-grade-fiction" count="11"/>
+      <shelf name="teen" count="11"/>
+      <shelf name="2017-reads" count="10"/>
+      <shelf name="audio-book" count="10"/>
+      <shelf name="contemporary-fiction" count="10"/>
+      <shelf name="library" count="10"/>
+      <shelf name="youth" count="9"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="2016-books" count="9"/>
+      <shelf name="tbr" count="9"/>
+      <shelf name="summer-reads" count="8"/>
+      <shelf name="families" count="8"/>
+      <shelf name="kids-books" count="8"/>
+      <shelf name="read-2016" count="8"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="ally-condie" count="8"/>
+      <shelf name="arc" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="science-fiction" count="8"/>
+      <shelf name="read-2017" count="7"/>
+      <shelf name="book-club" count="7"/>
+      <shelf name="children-s-lit" count="7"/>
+      <shelf name="siblings" count="7"/>
+      <shelf name="theatre" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="diversity" count="7"/>
+      <shelf name="summer-2016" count="7"/>
+      <shelf name="drama" count="7"/>
+      <shelf name="young-adult-fiction" count="7"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="2016-release" count="7"/>
+      <shelf name="adventure" count="7"/>
+      <shelf name="2017-reading-challenge" count="6"/>
+      <shelf name="standalone" count="6"/>
+      <shelf name="friends" count="6"/>
+      <shelf name="listened-to" count="6"/>
+      <shelf name="autism" count="6"/>
+      <shelf name="2016-read" count="6"/>
+      <shelf name="junior-fiction" count="6"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="childrens-middle-grade" count="6"/>
+      <shelf name="shakespeare" count="6"/>
+      <shelf name="march-2016" count="6"/>
+      <shelf name="read-in-2019" count="5"/>
+      <shelf name="tween" count="5"/>
+      <shelf name="tweens" count="5"/>
+      <shelf name="chapter-books" count="5"/>
+      <shelf name="3-stars" count="5"/>
+      <shelf name="juv-fiction" count="5"/>
+      <shelf name="ya-realistic-fiction" count="5"/>
+      <shelf name="j" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="contemporary-realistic" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>28479567</id>
+<title><![CDATA[Cat Burglar (The Scarlet Files, #1)]]></title>
+<title_without_series>Cat Burglar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28479567-cat-burglar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452182261l/28479567._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452182261l/28479567._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>48621587</id>
+</work>
+<isbn>0192742590</isbn>
+<isbn13>9780192742599</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7998632</id>
+<name>Tamsin Cooke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7998632.Tamsin_Cooke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28818218</id>
+<title><![CDATA[Fannie Never Flinched: One Woman's Courage in the Struggle for American Labor Union Rights]]></title>
+<title_without_series><![CDATA[Fannie Never Flinched: One Woman's Courage in the Struggle for American Labor Union Rights]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28818218-fannie-never-flinched]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456379324l/28818218._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456379324l/28818218._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>49035530</id>
+</work>
+<isbn>1419718843</isbn>
+<isbn13>9781419718847</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>518742</id>
+<name>Mary Cronk Farrell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/518742.Mary_Cronk_Farrell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27414439</id>
+<title>Write This Down</title>
+<title_without_series>Write This Down</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27414439-write-this-down]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460218570l/27414439._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460218570l/27414439._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>47463582</id>
+</work>
+<isbn>0374301646</isbn>
+<isbn13>9780374301644</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>30705</id>
+<name>Claudia Mills</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30705.Claudia_Mills]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29340342</id>
+<title>A Library of Lemons</title>
+<title_without_series>A Library of Lemons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29340342-a-library-of-lemons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456433788l/29340342._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456433788l/29340342._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>49575232</id>
+</work>
+<isbn>1848125119</isbn>
+<isbn13>9781848125117</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3460313</id>
+<name>Jo Cotterill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3460313.Jo_Cotterill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24795881</id>
+<title><![CDATA[Sitting Bull: Lakota Warrior and Defender of His People]]></title>
+<title_without_series><![CDATA[Sitting Bull: Lakota Warrior and Defender of His People]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24795881-sitting-bull]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427933319l/24795881._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427933319l/24795881._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>44431915</id>
+</work>
+<isbn>1419707310</isbn>
+<isbn13>9781419707315</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>995270</id>
+<name>S.D. Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/995270.S_D_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10602858</id>
+<title>L&apos;ombre</title>
+<title_without_series>L&apos;ombre</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10602858-l-ombre]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565415095l/10602858._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565415095l/10602858._SX98_.jpg]]></image_url>
+<num_pages>134</num_pages>
+<work>
+<id>15510680</id>
+</work>
+<isbn>209252593X</isbn>
+<isbn13>9782092525937</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>5574768</id>
+<name>Yaël Hassan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5574768.Ya_l_Hassan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28250855</id>
+<title>Jubilee</title>
+<title_without_series>Jubilee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28250855-jubilee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057899l/28250855._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057899l/28250855._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>48287654</id>
+</work>
+<isbn>0385744870</isbn>
+<isbn13>9780385744874</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5414</id>
+<name>Patricia Reilly Giff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5414.Patricia_Reilly_Giff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35008529</id>
+<title><![CDATA[The Truth as Told by Mason Buttle]]></title>
+<title_without_series><![CDATA[The Truth as Told by Mason Buttle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35008529-the-truth-as-told-by-mason-buttle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>56288665</id>
+</work>
+<isbn>0062491490</isbn>
+<isbn13>9780062491497</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>463173</id>
+<name>Leslie Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/463173.Leslie_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25938399</id>
+<title>Counting Thyme</title>
+<title_without_series>Counting Thyme</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25938399-counting-thyme]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441722559l/25938399._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441722559l/25938399._SX98_.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>40734627</id>
+</work>
+<isbn>0399173307</isbn>
+<isbn13>9780399173301</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>8041873</id>
+<name>Melanie Conklin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8041873.Melanie_Conklin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35464020</id>
+<title>The Night Diary</title>
+<title_without_series>The Night Diary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35464020-the-night-diary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518428409l/35464020._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518428409l/35464020._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>50463490</id>
+</work>
+<isbn>0735228515</isbn>
+<isbn13>9780735228511</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3105905</id>
+<name>Veera Hiranandani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3105905.Veera_Hiranandani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22856146</id>
+<title>The Island of Dr. Libris</title>
+<title_without_series>The Island of Dr. Libris</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22856146-the-island-of-dr-libris]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408923318l/22856146._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408923318l/22856146._SX98_.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>42422169</id>
+</work>
+<isbn>0385388446</isbn>
+<isbn13>9780857988256</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>95190</id>
+<name>Chris Grabenstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95190.Chris_Grabenstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25937866</id>
+<title>Raymie Nightingale</title>
+<title_without_series>Raymie Nightingale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25937866-raymie-nightingale]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446751148l/25937866._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446751148l/25937866._SX98_.jpg]]></image_url>
+<num_pages>263</num_pages>
+<work>
+<id>45835163</id>
+</work>
+<isbn>0763681172</isbn>
+<isbn13>9780763681173</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21494045</id>
+<title>If You Find This</title>
+<title_without_series>If You Find This</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21494045-if-you-find-this]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422811384l/21494045._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422811384l/21494045._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>25120765</id>
+</work>
+<isbn>0316240087</isbn>
+<isbn13>9780316240086</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>8189556</id>
+<name>Matthew   Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8189556.Matthew_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23208632</id>
+<title>Gertie&apos;s Leap to Greatness</title>
+<title_without_series>Gertie&apos;s Leap to Greatness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23208632-gertie-s-leap-to-greatness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454782507l/23208632._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454782507l/23208632._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>42751971</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>8553537</id>
+<name>Kate Beasley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8553537.Kate_Beasley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26026063</id>
+<title>Wolf Hollow</title>
+<title_without_series>Wolf Hollow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26026063-wolf-hollow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485977210l/26026063._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485977210l/26026063._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>43346512</id>
+</work>
+<isbn>1101994827</isbn>
+<isbn13>9781101994825</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>552351</id>
+<name>Lauren Wolk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/552351.Lauren_Wolk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36292177</id>
+<title><![CDATA[The Remarkable Journey of Coyote Sunrise]]></title>
+<title_without_series><![CDATA[The Remarkable Journey of Coyote Sunrise]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36292177-the-remarkable-journey-of-coyote-sunrise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526654090l/36292177._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526654090l/36292177._SX98_.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>57956893</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7544723</id>
+<name>Dan Gemeinhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7544723.Dan_Gemeinhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34051894</id>
+<title>Slider</title>
+<title_without_series>Slider</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34051894-slider]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498912148l/34051894._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498912148l/34051894._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>55060976</id>
+</work>
+<isbn>0763690708</isbn>
+<isbn13>9780763690700</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>2762</id>
+<name>Pete Hautman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2762.Pete_Hautman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39217633</id>
+<title>Louisiana&apos;s Way Home</title>
+<title_without_series>Louisiana&apos;s Way Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39217633-louisiana-s-way-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>60750180</id>
+</work>
+<isbn>0763694630</isbn>
+<isbn13>9780763694630</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5787</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

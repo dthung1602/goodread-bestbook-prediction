@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25332115</id>
+  <title>The Sound of Gravel: A Memoir</title>
+  <isbn><![CDATA[1250077699]]></isbn>
+  <isbn13><![CDATA[9781250077691]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436200674l/25332115._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436200674l/25332115._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Flatiron Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A riveting, deeply-affecting true story of one girl's coming-of-age in a polygamist cult.</b><br /><br />Ruth Wariner was the thirty-ninth of her father’s forty-two children. Growing up on a farm in rural Mexico, where authorities turned a blind eye to the practices of her community, Ruth lives in a ramshackle house without indoor plumbing or electricity. At church, preachers teach that God will punish the wicked by destroying the world and that women can only ascend to Heaven by entering into polygamous marriages and giving birth to as many children as possible. After Ruth's father—the man who had been the founding prophet of the colony—is brutally murdered by his brother in a bid for church power, her mother remarries, becoming the second wife of another faithful congregant.<br /><br />In need of government assistance and supplemental income, Ruth and her siblings are carted back and forth between Mexico and the United States, where her mother collects welfare and her stepfather works a variety of odd jobs. Ruth comes to love the time she spends in the States, realizing that perhaps the community into which she was born is not the right one for her. As Ruth begins to doubt her family’s beliefs and question her mother’s choices, she struggles to balance her fierce love for her siblings with her determination to forge a better life for herself.<br /><br />Recounted from the innocent and hopeful perspective of a child, <i>The Sound of Gravel</i> is the remarkable true story of a girl fighting for peace and love. This is an intimate, gripping tale of triumph, courage, and resilience.]]></description>
+  <work>
+  <id type="integer">45067930</id>
+  <books_count type="integer">11</books_count>
+  <best_book_id type="integer">25332115</best_book_id>
+  <reviews_count type="integer">71521</reviews_count>
+  <ratings_sum type="integer">114410</ratings_sum>
+  <ratings_count type="integer">27228</ratings_count>
+  <text_reviews_count type="integer">3375</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>The Sound of Gravel</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11470|4:11171|3:3540|2:709|1:338|total:27228</rating_dist>
+  <desc_user_id type="integer">6211997</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.9L73Z4aZhWOMIhR1YGZTxQ</work_uri>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[336]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[22172]]></ratings_count>
+  <text_reviews_count><![CDATA[2998]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25332115-the-sound-of-gravel]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25332115-the-sound-of-gravel]]></link>
+  <authors>
+<author>
+<id>13804788</id>
+<name>Ruth Wariner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459788469p5/13804788.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459788469p2/13804788.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13804788.Ruth_Wariner]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<text_reviews_count>3375</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25332115-the-sound-of-gravel">The Sound of Gravel Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250077699&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25332115-the-sound-of-gravel?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="38581"/>
+      <shelf name="currently-reading" count="1158"/>
+      <shelf name="non-fiction" count="576"/>
+      <shelf name="memoir" count="539"/>
+      <shelf name="nonfiction" count="292"/>
+      <shelf name="book-club" count="256"/>
+      <shelf name="memoirs" count="185"/>
+      <shelf name="biography" count="126"/>
+      <shelf name="favorites" count="107"/>
+      <shelf name="religion" count="107"/>
+      <shelf name="biography-memoir" count="71"/>
+      <shelf name="audiobook" count="65"/>
+      <shelf name="kindle" count="61"/>
+      <shelf name="library" count="57"/>
+      <shelf name="audiobooks" count="53"/>
+      <shelf name="audio" count="51"/>
+      <shelf name="read-in-2016" count="43"/>
+      <shelf name="read-in-2017" count="37"/>
+      <shelf name="adult" count="37"/>
+      <shelf name="autobiography" count="31"/>
+      <shelf name="books-i-own" count="29"/>
+      <shelf name="read-in-2018" count="27"/>
+      <shelf name="book-club-books" count="27"/>
+      <shelf name="biographies" count="27"/>
+      <shelf name="bookclub" count="25"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="memoir-biography" count="25"/>
+      <shelf name="polygamy" count="25"/>
+      <shelf name="audible" count="24"/>
+      <shelf name="family" count="23"/>
+      <shelf name="botm" count="23"/>
+      <shelf name="audio-books" count="22"/>
+      <shelf name="to-buy" count="21"/>
+      <shelf name="coming-of-age" count="21"/>
+      <shelf name="bio-memoir" count="21"/>
+      <shelf name="2016-books" count="20"/>
+      <shelf name="read-2016" count="20"/>
+      <shelf name="cults" count="20"/>
+      <shelf name="read-in-2019" count="19"/>
+      <shelf name="2017-books" count="18"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="to-read-non-fiction" count="18"/>
+      <shelf name="memoir-bio" count="18"/>
+      <shelf name="read-2017" count="17"/>
+      <shelf name="mexico" count="17"/>
+      <shelf name="2019-books" count="16"/>
+      <shelf name="audio-book" count="16"/>
+      <shelf name="to-read-nonfiction" count="16"/>
+      <shelf name="biographies-memoirs" count="16"/>
+      <shelf name="autobiography-memoir" count="15"/>
+      <shelf name="biography-autobiography" count="15"/>
+      <shelf name="abuse" count="14"/>
+      <shelf name="memoirs-biographies" count="14"/>
+      <shelf name="read-2019" count="13"/>
+      <shelf name="2018-reads" count="13"/>
+      <shelf name="book-of-the-month" count="13"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="adult-nonfiction" count="13"/>
+      <shelf name="2016-reads" count="13"/>
+      <shelf name="library-book" count="13"/>
+      <shelf name="2019-reads" count="12"/>
+      <shelf name="2018-books" count="12"/>
+      <shelf name="2017-reads" count="12"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="ebook" count="12"/>
+      <shelf name="book-of-the-month-club" count="12"/>
+      <shelf name="read-2018" count="11"/>
+      <shelf name="did-not-finish" count="11"/>
+      <shelf name="overdrive" count="11"/>
+      <shelf name="memoir-autobiography" count="11"/>
+      <shelf name="nonfic" count="11"/>
+      <shelf name="book-club-ideas" count="10"/>
+      <shelf name="religious" count="10"/>
+      <shelf name="cult" count="10"/>
+      <shelf name="library-books" count="10"/>
+      <shelf name="fiction" count="10"/>
+      <shelf name="want-to-read" count="10"/>
+      <shelf name="2018-read" count="9"/>
+      <shelf name="books-read-in-2017" count="9"/>
+      <shelf name="books-read-2017" count="9"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="bios-memoirs" count="9"/>
+      <shelf name="book-club-2017" count="9"/>
+      <shelf name="true-crime" count="9"/>
+      <shelf name="women" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="adult-non-fiction" count="9"/>
+      <shelf name="books-read-in-2016" count="9"/>
+      <shelf name="maybe" count="9"/>
+      <shelf name="jen-hatmaker-book-club" count="8"/>
+      <shelf name="biography-memoirs" count="8"/>
+      <shelf name="history" count="8"/>
+      <shelf name="book-group" count="8"/>
+      <shelf name="contemporary" count="8"/>
+      <shelf name="2016-reading-challenge" count="8"/>
+      <shelf name="2019-read" count="7"/>
+      <shelf name="books-read-in-2018" count="7"/>
+      <shelf name="kindle-books" count="7"/>
+      <shelf name="memoir-and-biography" count="7"/>
+      <shelf name="mormon" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>30956087</id>
+<title>The Polygamist&apos;s Daughter</title>
+<title_without_series>The Polygamist&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30956087-the-polygamist-s-daughter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468499949l/30956087._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468499949l/30956087._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>51572088</id>
+</work>
+<isbn>1496417550</isbn>
+<isbn13>9781496417558</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>15447138</id>
+<name>Anna LeBaron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15447138.Anna_LeBaron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35133922</id>
+<title>Educated</title>
+<title_without_series>Educated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35133922-educated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>53814228</id>
+</work>
+<isbn>0399590501</isbn>
+<isbn13>9780399590504</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16121977</id>
+<name>Tara Westover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16121977.Tara_Westover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29939086</id>
+<title>Castle of Water</title>
+<title_without_series>Castle of Water</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29939086-castle-of-water]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485950228l/29939086._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485950228l/29939086._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>50329735</id>
+</work>
+<isbn>125009822X</isbn>
+<isbn13>9781250098221</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7127280</id>
+<name>Dane Huckelbridge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7127280.Dane_Huckelbridge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40597810</id>
+<title>Daisy Jones &amp; The Six</title>
+<title_without_series>Daisy Jones &amp; The Six</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40597810-daisy-jones-the-six]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551887263l/40597810._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551887263l/40597810._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>61127102</id>
+</work>
+<isbn>1524798622</isbn>
+<isbn13>9781524798628</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6572605</id>
+<name>Taylor Jenkins Reid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6572605.Taylor_Jenkins_Reid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068830</id>
+<title>My Oxford Year</title>
+<title_without_series>My Oxford Year</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068830-my-oxford-year]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507326527l/35068830._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507326527l/35068830._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>56364250</id>
+</work>
+<isbn>0062740652</isbn>
+<isbn13>9780062740656</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2939944</id>
+<name>Julia Whelan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2939944.Julia_Whelan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40409102</id>
+<title>This is How It Always Is</title>
+<title_without_series>This is How It Always Is</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40409102-this-is-how-it-always-is]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528314257l/40409102._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528314257l/40409102._SX98_.jpg]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>49038755</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>300536</id>
+<name>Laurie Frankel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/300536.Laurie_Frankel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42201996</id>
+<title>Ask Again, Yes</title>
+<title_without_series>Ask Again, Yes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42201996-ask-again-yes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052821l/42201996._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052821l/42201996._SX98_.jpg]]></image_url>
+<num_pages>390</num_pages>
+<work>
+<id>60897878</id>
+</work>
+<isbn>1982106980</isbn>
+<isbn13>9781982106980</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2776754</id>
+<name>Mary Beth Keane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2776754.Mary_Beth_Keane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34313931</id>
+<title>A Woman Is No Man</title>
+<title_without_series>A Woman Is No Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34313931-a-woman-is-no-man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533072101l/34313931._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533072101l/34313931._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>55370568</id>
+</work>
+<isbn>0062699768</isbn>
+<isbn13>9780062699763</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>16458196</id>
+<name>Etaf Rum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16458196.Etaf_Rum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39218350</id>
+<title><![CDATA[Maid: Hard Work, Low Pay, and a Mother's Will to Survive]]></title>
+<title_without_series><![CDATA[Maid: Hard Work, Low Pay, and a Mother's Will to Survive]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39218350-maid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573822660l/39218350._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573822660l/39218350._SX98_.jpg]]></image_url>
+<num_pages>270</num_pages>
+<work>
+<id>60800466</id>
+</work>
+<isbn>0316505110</isbn>
+<isbn13>9780316505116</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>17919708</id>
+<name>Stephanie  Land</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17919708.Stephanie_Land]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34912895</id>
+<title>The Great Alone</title>
+<title_without_series>The Great Alone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34912895-the-great-alone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56275107</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>275893</id>
+<title><![CDATA[Shattered Dreams: My Life as a Polygamist's Wife]]></title>
+<title_without_series><![CDATA[Shattered Dreams: My Life as a Polygamist's Wife]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/275893.Shattered_Dreams]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>267546</id>
+</work>
+<isbn>1599957191</isbn>
+<isbn13>9781599957197</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>160735</id>
+<name>Irene Spencer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/160735.Irene_Spencer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41150382</id>
+<title>Things You Save in a Fire</title>
+<title_without_series>Things You Save in a Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41150382-things-you-save-in-a-fire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539876418l/41150382._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539876418l/41150382._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>64320815</id>
+</work>
+<isbn>1250047323</isbn>
+<isbn13>9781250047328</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>409113</id>
+<name>Katherine Center</name>
+<link><![CDATA[https://www.goodreads.com/author/show/409113.Katherine_Center]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46251368</id>
+<title>The Mother-in-Law</title>
+<title_without_series>The Mother-in-Law</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46251368-the-mother-in-law]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560186318l/46251368._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560186318l/46251368._SX98_.jpg]]></image_url>
+<num_pages>347</num_pages>
+<work>
+<id>61659618</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8123141</id>
+<name>Sally Hepworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8123141.Sally_Hepworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40097951</id>
+<title>The Silent Patient</title>
+<title_without_series>The Silent Patient</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40097951-the-silent-patient]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573745054l/40097951._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573745054l/40097951._SX98_.jpg]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>59752778</id>
+</work>
+<isbn>1250301696</isbn>
+<isbn13>9781250301697</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17621440</id>
+<name>Alex Michaelides</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17621440.Alex_Michaelides]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25937671</id>
+<title><![CDATA[A Mother's Reckoning: Living in the Aftermath of Tragedy]]></title>
+<title_without_series><![CDATA[A Mother's Reckoning: Living in the Aftermath of Tragedy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25937671-a-mother-s-reckoning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453261078l/25937671._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453261078l/25937671._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>45835034</id>
+</work>
+<isbn>1101902760</isbn>
+<isbn13>9781101902769</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>14172374</id>
+<name>Sue Klebold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14172374.Sue_Klebold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40364332</id>
+<title><![CDATA[Inheritance: A Memoir of Genealogy, Paternity, and Love]]></title>
+<title_without_series><![CDATA[Inheritance: A Memoir of Genealogy, Paternity, and Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40364332-inheritance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531185781l/40364332._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531185781l/40364332._SX98_.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>62645055</id>
+</work>
+<isbn>1524732710</isbn>
+<isbn13>9781524732714</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>13932</id>
+<name>Dani Shapiro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13932.Dani_Shapiro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42135029</id>
+<title>City of Girls</title>
+<title_without_series>City of Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42135029-city-of-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545498817l/42135029._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545498817l/42135029._SX98_.jpg]]></image_url>
+<num_pages>470</num_pages>
+<work>
+<id>65729493</id>
+</work>
+<isbn>1594634734</isbn>
+<isbn13>9781594634734</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27228</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>11679</id>
+<name>Elizabeth Gilbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11679.Elizabeth_Gilbert]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>37533587</id>
+  <title>Sabrina</title>
+  <isbn><![CDATA[177046316X]]></isbn>
+  <isbn13><![CDATA[9781770463165]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513309376l/37533587._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513309376l/37533587._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>22</publication_day>
+  <publisher>Drawn and Quarterly</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Video games, conspiracy theories, breakdown, murder: Everything’s gonna be all right—until it isn’t...</b><br /><b></b><i></i><br /><i>How many hours of sleep did you get last night? Rate your overall mood from 1 to 5, 1 being poor. Rate your stress level from 1 to 5, 5 being severe. Are you experiencing depression or thoughts of suicide? Is there anything in your personal life that is affecting your duty?</i><br /><br />When Sabrina disappears, an airman in the U.S. Air Force is drawn into a web of suppositions, wild theories, and outright lies. He reports to work every night in a bare, sterile fortress that serves as no protection from a situation that threatens the sanity of Teddy, his childhood friend and the boyfriend of the missing woman. Sabrina’s grieving sister, Sandra, struggles to fill her days as she waits in purgatory. After a videotape surfaces, we see devastation shown through a cinematic lens, as true tragedy is distorted when fringe thinkers and conspiracy theorists begin to interpret events to fit their own narratives.<br /><br />The follow-up to Nick Drnaso’s <i>Beverly</i>, winner of the Los Angeles Times Book Prize, <i>Sabrina</i> depicts a modern world devoid of personal interaction and responsibility, where relationships are stripped of intimacy through glowing computer screens. Presenting an indictment of our modern state, Drnaso contemplates the dangers of a fake-news climate. Timely and articulate, <i>Sabrina</i> leaves you gutted, searching for meaning in the aftermath of disaster.]]></description>
+  <work>
+  <id type="integer">59135009</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">37533587</best_book_id>
+  <reviews_count type="integer">23822</reviews_count>
+  <ratings_sum type="integer">35041</ratings_sum>
+  <ratings_count type="integer">9158</ratings_count>
+  <text_reviews_count type="integer">1405</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">22</original_publication_day>
+  <original_title>Sabrina</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2379|4:3870|3:2067|2:623|1:219|total:9158</rating_dist>
+  <desc_user_id type="integer">18040491</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Arg1eoQbWc8Ab5QLY0KClQ</work_uri>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[204]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8584]]></ratings_count>
+  <text_reviews_count><![CDATA[1328]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/37533587-sabrina]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/37533587-sabrina]]></link>
+  <authors>
+<author>
+<id>14056321</id>
+<name>Nick Drnaso</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1535054328p5/14056321.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1535054328p2/14056321.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14056321.Nick_Drnaso]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>10800</ratings_count>
+<text_reviews_count>1617</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/37533587-sabrina">Sabrina Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=177046316X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/37533587-sabrina?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="12572"/>
+      <shelf name="graphic-novels" count="649"/>
+      <shelf name="graphic-novel" count="388"/>
+      <shelf name="comics" count="337"/>
+      <shelf name="currently-reading" count="274"/>
+      <shelf name="fiction" count="226"/>
+      <shelf name="graphic" count="68"/>
+      <shelf name="library" count="56"/>
+      <shelf name="graphic-novels-comics" count="48"/>
+      <shelf name="man-booker-2018" count="39"/>
+      <shelf name="comics-graphic-novels" count="39"/>
+      <shelf name="favorites" count="38"/>
+      <shelf name="read-in-2019" count="37"/>
+      <shelf name="read-in-2018" count="37"/>
+      <shelf name="mystery" count="34"/>
+      <shelf name="contemporary" count="34"/>
+      <shelf name="comic" count="33"/>
+      <shelf name="crime" count="31"/>
+      <shelf name="comics-and-graphic-novels" count="31"/>
+      <shelf name="read-2018" count="26"/>
+      <shelf name="owned" count="23"/>
+      <shelf name="man-booker" count="23"/>
+      <shelf name="read-2019" count="22"/>
+      <shelf name="graphic-novels-and-comics" count="22"/>
+      <shelf name="usa" count="21"/>
+      <shelf name="adult" count="20"/>
+      <shelf name="american" count="20"/>
+      <shelf name="21st-century" count="19"/>
+      <shelf name="to-buy" count="19"/>
+      <shelf name="2018-reads" count="18"/>
+      <shelf name="2018-read" count="18"/>
+      <shelf name="comix" count="18"/>
+      <shelf name="bd" count="16"/>
+      <shelf name="2018-releases" count="16"/>
+      <shelf name="books-i-own" count="14"/>
+      <shelf name="library-books" count="13"/>
+      <shelf name="comic-books" count="13"/>
+      <shelf name="novels" count="12"/>
+      <shelf name="2019-reads" count="11"/>
+      <shelf name="dnf" count="11"/>
+      <shelf name="to-read-fiction" count="11"/>
+      <shelf name="booker" count="11"/>
+      <shelf name="man-booker-longlist-2018" count="11"/>
+      <shelf name="literary-fiction" count="10"/>
+      <shelf name="politics" count="10"/>
+      <shelf name="maybe" count="10"/>
+      <shelf name="graphic-comic" count="10"/>
+      <shelf name="2010s" count="10"/>
+      <shelf name="chicago" count="10"/>
+      <shelf name="2019-books" count="9"/>
+      <shelf name="english" count="9"/>
+      <shelf name="gn" count="9"/>
+      <shelf name="drama" count="9"/>
+      <shelf name="booker-prize" count="9"/>
+      <shelf name="man-booker-2018-longlist" count="9"/>
+      <shelf name="man-booker-prize" count="9"/>
+      <shelf name="contemporary-fiction" count="9"/>
+      <shelf name="library-book" count="9"/>
+      <shelf name="sequential-art" count="9"/>
+      <shelf name="graphic-books" count="9"/>
+      <shelf name="2018-books" count="8"/>
+      <shelf name="horror" count="8"/>
+      <shelf name="book-club" count="8"/>
+      <shelf name="comics-to-read" count="8"/>
+      <shelf name="booker-longlist" count="8"/>
+      <shelf name="booker-2018" count="8"/>
+      <shelf name="art" count="8"/>
+      <shelf name="adult-fiction" count="8"/>
+      <shelf name="2019-read" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="did-not-finish" count="7"/>
+      <shelf name="realistic-fiction" count="7"/>
+      <shelf name="male-author" count="7"/>
+      <shelf name="social-commentary" count="7"/>
+      <shelf name="graphic-novel-comic" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="fumetti" count="6"/>
+      <shelf name="abandoned" count="6"/>
+      <shelf name="graphics" count="6"/>
+      <shelf name="graphic-novels-manga" count="6"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="america" count="6"/>
+      <shelf name="illustrated" count="6"/>
+      <shelf name="graphic-novels-comic-books" count="6"/>
+      <shelf name="booker-prize-2018" count="6"/>
+      <shelf name="grief" count="6"/>
+      <shelf name="books-read-in-2018" count="6"/>
+      <shelf name="graphic-novels-to-read" count="6"/>
+      <shelf name="2019-reading-list" count="5"/>
+      <shelf name="bande-dessinée" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="booker-longlisted" count="5"/>
+      <shelf name="to-get" count="5"/>
+      <shelf name="to-read-comics" count="5"/>
+      <shelf name="man-booker-prize-2018" count="5"/>
+      <shelf name="united-states" count="5"/>
+      <shelf name="psychology" count="4"/>
+      <shelf name="biblioteca" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>35659255</id>
+<title>The Long Take</title>
+<title_without_series>The Long Take</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35659255-the-long-take]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499860935l/35659255._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499860935l/35659255._SX98_.jpg]]></image_url>
+<num_pages>237</num_pages>
+<work>
+<id>57114158</id>
+</work>
+<isbn>1509846883</isbn>
+<isbn13>9781509846887</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>14072367</id>
+<name>Robin   Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14072367.Robin_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43726550</id>
+<title>Home After Dark</title>
+<title_without_series>Home After Dark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43726550-home-after-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566891490l/43726550._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566891490l/43726550._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>60314155</id>
+</work>
+<isbn>1631496271</isbn>
+<isbn13>9781631496271</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>104017</id>
+<name>David Small</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104017.David_Small]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40122004</id>
+<title>Off Season</title>
+<title_without_series>Off Season</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40122004-off-season]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528331913l/40122004._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528331913l/40122004._SX98_.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>62223086</id>
+</work>
+<isbn>1770463313</isbn>
+<isbn13>9781770463318</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>186652</id>
+<name>James Sturm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/186652.James_Sturm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36265011</id>
+<title>Coyote Doggirl</title>
+<title_without_series>Coyote Doggirl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36265011-coyote-doggirl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515717679l/36265011._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515717679l/36265011._SX98_.jpg]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>57918424</id>
+</work>
+<isbn>1770463257</isbn>
+<isbn13></isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3407411</id>
+<name>Lisa Hanawalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3407411.Lisa_Hanawalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35407505</id>
+<title>Why Art?</title>
+<title_without_series>Why Art?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35407505-why-art]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514240836l/35407505._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514240836l/35407505._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>56779052</id>
+</work>
+<isbn>1683960823</isbn>
+<isbn13>9781683960829</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>981303</id>
+<name>Eleanor Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/981303.Eleanor_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34445187</id>
+<title>The Lie And How We Told It</title>
+<title_without_series>The Lie And How We Told It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34445187-the-lie-and-how-we-told-it]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508534072l/34445187._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508534072l/34445187._SX98_.jpg]]></image_url>
+<num_pages>90</num_pages>
+<work>
+<id>55555138</id>
+</work>
+<isbn>168396067X</isbn>
+<isbn13>9781683960676</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>14931716</id>
+<name>Tommi Parrish</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14931716.Tommi_Parrish]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40376582</id>
+<title>Brat</title>
+<title_without_series>Brat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40376582-brat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569631521l/40376582._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569631521l/40376582._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62664785</id>
+</work>
+<isbn>1927668603</isbn>
+<isbn13>9781927668603</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4529252</id>
+<name>Michael DeForge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4529252.Michael_DeForge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39279780</id>
+<title>Upgrade Soul</title>
+<title_without_series>Upgrade Soul</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39279780-upgrade-soul]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523660792l/39279780._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523660792l/39279780._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>61608011</id>
+</work>
+<isbn>1549302922</isbn>
+<isbn13>9781549302923</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1405468</id>
+<name>Ezra Claytan Daniels</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1405468.Ezra_Claytan_Daniels]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36396289</id>
+<title>Everything Under</title>
+<title_without_series>Everything Under</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36396289-everything-under]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522082835l/36396289._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522082835l/36396289._SX98_.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>58089593</id>
+</work>
+<isbn>191070234X</isbn>
+<isbn13>9781910702345</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>14247059</id>
+<name>Daisy Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14247059.Daisy_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37941619</id>
+<title>Berlin</title>
+<title_without_series>Berlin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37941619-berlin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529034739l/37941619._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529034739l/37941619._SX98_.jpg]]></image_url>
+<num_pages>580</num_pages>
+<work>
+<id>59667393</id>
+</work>
+<isbn>1770463267</isbn>
+<isbn13>9781770463264</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>85213</id>
+<name>Jason Lutes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85213.Jason_Lutes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38213806</id>
+<title>Young Frances</title>
+<title_without_series>Young Frances</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38213806-young-frances]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517016419l/38213806._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517016419l/38213806._SX98_.jpg]]></image_url>
+<num_pages>137</num_pages>
+<work>
+<id>59886310</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>17651854</id>
+<name>Hartley Lin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17651854.Hartley_Lin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38712420</id>
+<title><![CDATA[Passing for Human: A Graphic Memoir]]></title>
+<title_without_series><![CDATA[Passing for Human: A Graphic Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38712420-passing-for-human]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519228149l/38712420._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519228149l/38712420._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>60291247</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3431430</id>
+<name>Liana Finck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3431430.Liana_Finck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373423</id>
+<title>All The Answers</title>
+<title_without_series>All The Answers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373423-all-the-answers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523431871l/36373423._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523431871l/36373423._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>58060743</id>
+</work>
+<isbn>1501166433</isbn>
+<isbn13>9781501166433</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>96773</id>
+<name>Michael Kupperman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/96773.Michael_Kupperman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35212538</id>
+<title>In Our Mad and Furious City</title>
+<title_without_series>In Our Mad and Furious City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35212538-in-our-mad-and-furious-city]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524280987l/35212538._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524280987l/35212538._SX98_.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>56551739</id>
+</work>
+<isbn>1472250192</isbn>
+<isbn13>9781472250193</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7836402</id>
+<name>Guy Gunaratne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7836402.Guy_Gunaratne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36952615</id>
+<title>On a Sunbeam</title>
+<title_without_series>On a Sunbeam</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36952615-on-a-sunbeam]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524076164l/36952615._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524076164l/36952615._SX98_.jpg]]></image_url>
+<num_pages>533</num_pages>
+<work>
+<id>54030155</id>
+</work>
+<isbn>1250178134</isbn>
+<isbn13>9781250178138</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13560692</id>
+<name>Tillie Walden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13560692.Tillie_Walden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36339460</id>
+<title>From a Low and Quiet Sea</title>
+<title_without_series>From a Low and Quiet Sea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36339460-from-a-low-and-quiet-sea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515962963l/36339460._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515962963l/36339460._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>58019375</id>
+</work>
+<isbn>178162030X</isbn>
+<isbn13>9781781620304</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>6521880</id>
+<name>Donal Ryan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6521880.Donal_Ryan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38122416</id>
+<title>Woman World</title>
+<title_without_series>Woman World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38122416-woman-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518372475l/38122416._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518372475l/38122416._SX98_.jpg]]></image_url>
+<num_pages>259</num_pages>
+<work>
+<id>59810751</id>
+</work>
+<isbn>1770463356</isbn>
+<isbn13>9781770463356</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>17634231</id>
+<name>Aminder Dhaliwal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17634231.Aminder_Dhaliwal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36710841</id>
+<title>Come Again</title>
+<title_without_series>Come Again</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36710841-come-again]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524818449l/36710841._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524818449l/36710841._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>58507677</id>
+</work>
+<isbn>1603094288</isbn>
+<isbn13>9781603094283</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9158</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>51924</id>
+<name>Nate Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51924.Nate_Powell]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

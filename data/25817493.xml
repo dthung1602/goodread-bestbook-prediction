@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25817493</id>
+  <title>News of the World</title>
+  <isbn><![CDATA[0062409204]]></isbn>
+  <isbn13><![CDATA[9780062409201]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440342988l/25817493._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440342988l/25817493._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>William Morrow</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In the aftermath of the Civil War, an aging itinerant news reader agrees to transport a young captive of the Kiowa back to her people in this exquisitely rendered, morally complex, multilayered novel of historical fiction from the author of <em>Enemy Women</em> that explores the boundaries of family, responsibility, honor, and trust.<p>In the wake of the Civil War, Captain Jefferson Kyle Kidd travels through northern Texas, giving live readings from newspapers to paying audiences hungry for news of the world. An elderly widower who has lived through three wars and fought in two of them, the captain enjoys his rootless, solitary existence.</p><p>In Wichita Falls, he is offered a $50 gold piece to deliver a young orphan to her relatives in San Antonio. Four years earlier, a band of Kiowa raiders killed Johanna’s parents and sister; sparing the little girl, they raised her as one of their own. Recently rescued by the U.S. army, the ten-year-old has once again been torn away from the only home she knows.</p><p>Their 400-mile journey south through unsettled territory and unforgiving terrain proves difficult and at times dangerous. Johanna has forgotten the English language, tries to escape at every opportunity, throws away her shoes, and refuses to act “civilized.” Yet as the miles pass, the two lonely survivors tentatively begin to trust each other, forming a bond that marks the difference between life and death in this treacherous land.</p><p>Arriving in San Antonio, the reunion is neither happy nor welcome. The captain must hand Johanna over to an aunt and uncle she does not remember—strangers who regard her as an unwanted burden. A respectable man, Captain Kidd is faced with a terrible choice: abandon the girl to her fate or become—in the eyes of the law—a kidnapper himself.</p>]]></description>
+  <work>
+  <id type="integer">45674421</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">25817493</best_book_id>
+  <reviews_count type="integer">135071</reviews_count>
+  <ratings_sum type="integer">214874</ratings_sum>
+  <ratings_count type="integer">52739</ratings_count>
+  <text_reviews_count type="integer">8029</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_title>News of the World</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:18431|4:22497|3:9588|2:1744|1:479|total:52739</rating_dist>
+  <desc_user_id type="integer">732181</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.vC5M0VBa9u89KnbrPoX9Jw</work_uri>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[209]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[38771]]></ratings_count>
+  <text_reviews_count><![CDATA[6876]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25817493-news-of-the-world]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25817493-news-of-the-world]]></link>
+  <authors>
+<author>
+<id>70102</id>
+<name>Paulette Jiles</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346771427p5/70102.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346771427p2/70102.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/70102.Paulette_Jiles]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>63977</ratings_count>
+<text_reviews_count>9831</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25817493-news-of-the-world">News of the World Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062409204&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25817493-news-of-the-world?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="67508"/>
+      <shelf name="currently-reading" count="5196"/>
+      <shelf name="historical-fiction" count="1879"/>
+      <shelf name="fiction" count="1067"/>
+      <shelf name="book-club" count="626"/>
+      <shelf name="western" count="313"/>
+      <shelf name="favorites" count="265"/>
+      <shelf name="historical" count="235"/>
+      <shelf name="kindle" count="153"/>
+      <shelf name="audiobook" count="123"/>
+      <shelf name="audio" count="119"/>
+      <shelf name="audible" count="108"/>
+      <shelf name="texas" count="108"/>
+      <shelf name="read-in-2017" count="104"/>
+      <shelf name="audiobooks" count="98"/>
+      <shelf name="bookclub" count="93"/>
+      <shelf name="adult" count="85"/>
+      <shelf name="library" count="84"/>
+      <shelf name="adult-fiction" count="83"/>
+      <shelf name="literary-fiction" count="76"/>
+      <shelf name="westerns" count="75"/>
+      <shelf name="history" count="69"/>
+      <shelf name="book-group" count="67"/>
+      <shelf name="read-2017" count="57"/>
+      <shelf name="books-i-own" count="57"/>
+      <shelf name="2017-reads" count="56"/>
+      <shelf name="book-club-books" count="54"/>
+      <shelf name="read-in-2018" count="53"/>
+      <shelf name="owned" count="53"/>
+      <shelf name="adventure" count="53"/>
+      <shelf name="fiction-historical" count="48"/>
+      <shelf name="ebook" count="48"/>
+      <shelf name="novels" count="48"/>
+      <shelf name="native-american" count="47"/>
+      <shelf name="civil-war" count="46"/>
+      <shelf name="did-not-finish" count="44"/>
+      <shelf name="to-read-fiction" count="42"/>
+      <shelf name="19th-century" count="42"/>
+      <shelf name="abandoned" count="37"/>
+      <shelf name="2017-books" count="37"/>
+      <shelf name="audio-books" count="36"/>
+      <shelf name="book-club-reads" count="35"/>
+      <shelf name="dnf" count="34"/>
+      <shelf name="to-buy" count="34"/>
+      <shelf name="literature" count="31"/>
+      <shelf name="2017-read" count="30"/>
+      <shelf name="read-2018" count="29"/>
+      <shelf name="audio-book" count="29"/>
+      <shelf name="american-history" count="29"/>
+      <shelf name="national-book-award" count="28"/>
+      <shelf name="2018-books" count="27"/>
+      <shelf name="novel" count="27"/>
+      <shelf name="books-read-in-2017" count="26"/>
+      <shelf name="didn-t-finish" count="25"/>
+      <shelf name="read-in-2016" count="25"/>
+      <shelf name="read-in-2019" count="24"/>
+      <shelf name="recommended" count="24"/>
+      <shelf name="owned-books" count="24"/>
+      <shelf name="2017-books-read" count="23"/>
+      <shelf name="library-book" count="23"/>
+      <shelf name="general-fiction" count="23"/>
+      <shelf name="american-west" count="22"/>
+      <shelf name="historic-fiction" count="22"/>
+      <shelf name="e-book" count="22"/>
+      <shelf name="literary" count="21"/>
+      <shelf name="maybe" count="21"/>
+      <shelf name="native-americans" count="21"/>
+      <shelf name="finished" count="20"/>
+      <shelf name="wish-list" count="20"/>
+      <shelf name="family" count="20"/>
+      <shelf name="usa" count="19"/>
+      <shelf name="best-of-2016" count="19"/>
+      <shelf name="fiction-to-read" count="19"/>
+      <shelf name="american" count="19"/>
+      <shelf name="america" count="19"/>
+      <shelf name="2017-reading-challenge" count="18"/>
+      <shelf name="ebooks" count="18"/>
+      <shelf name="war" count="18"/>
+      <shelf name="to-read-historical-fiction" count="17"/>
+      <shelf name="2016-books" count="17"/>
+      <shelf name="books-read-in-2018" count="16"/>
+      <shelf name="read-harder-2018" count="16"/>
+      <shelf name="kindle-books" count="16"/>
+      <shelf name="mmd-book-club" count="16"/>
+      <shelf name="travel" count="16"/>
+      <shelf name="library-books" count="16"/>
+      <shelf name="book-club-ideas" count="15"/>
+      <shelf name="book-discussion" count="15"/>
+      <shelf name="arc" count="15"/>
+      <shelf name="2019-reads" count="14"/>
+      <shelf name="2018-books-read" count="14"/>
+      <shelf name="2018-reads" count="14"/>
+      <shelf name="unfinished" count="14"/>
+      <shelf name="united-states" count="14"/>
+      <shelf name="5-stars" count="14"/>
+      <shelf name="on-kindle" count="14"/>
+      <shelf name="drama" count="14"/>
+      <shelf name="relationships" count="14"/>
+      <shelf name="read-2019" count="13"/>
+      <shelf name="female-author" count="13"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>782405</id>
+<title><![CDATA[The Captured: A True Story of Abduction by Indians on the Texas Frontier]]></title>
+<title_without_series><![CDATA[The Captured: A True Story of Abduction by Indians on the Texas Frontier]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/782405.The_Captured]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312000334l/782405._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312000334l/782405._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>768420</id>
+</work>
+<isbn>0312317875</isbn>
+<isbn13>9780312317874</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>298325</id>
+<name>Scott Zesch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/298325.Scott_Zesch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34066798</id>
+<title>A Gentleman in Moscow</title>
+<title_without_series>A Gentleman in Moscow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551480896l/34066798._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551480896l/34066798._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>45743836</id>
+</work>
+<isbn>0143110438</isbn>
+<isbn13>9780143110439</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4536964</id>
+<name>Amor Towles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4536964.Amor_Towles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44318414</id>
+<title>The Dutch House</title>
+<title_without_series>The Dutch House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44318414-the-dutch-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68864841</id>
+</work>
+<isbn>0062963678</isbn>
+<isbn13>9780062963673</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7136914</id>
+<name>Ann Patchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7136914.Ann_Patchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34051011</id>
+<title>Pachinko</title>
+<title_without_series>Pachinko</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34051011-pachinko]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529845599l/34051011._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529845599l/34051011._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>50384116</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>378209</id>
+<name>Min Jin Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/378209.Min_Jin_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35133922</id>
+<title>Educated</title>
+<title_without_series>Educated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35133922-educated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>53814228</id>
+</work>
+<isbn>0399590501</isbn>
+<isbn13>9780399590504</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16121977</id>
+<name>Tara Westover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16121977.Tara_Westover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34912895</id>
+<title>The Great Alone</title>
+<title_without_series>The Great Alone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34912895-the-great-alone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56275107</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39507318</id>
+<title>The Library Book</title>
+<title_without_series>The Library Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39507318-the-library-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>61126110</id>
+</work>
+<isbn>1476740186</isbn>
+<isbn13>9781476740188</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>45374</id>
+<name>Susan Orlean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45374.Susan_Orlean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29496076</id>
+<title><![CDATA[Killers of the Flower Moon: The Osage Murders and the Birth of the FBI]]></title>
+<title_without_series><![CDATA[Killers of the Flower Moon: The Osage Murders and the Birth of the FBI]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29496076-killers-of-the-flower-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470699853l/29496076._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470699853l/29496076._SX98_.jpg]]></image_url>
+<num_pages>359</num_pages>
+<work>
+<id>49782213</id>
+</work>
+<isbn>0385534256</isbn>
+<isbn13>9780385534253</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1431785</id>
+<name>David Grann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1431785.David_Grann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40538657</id>
+<title>The Island of Sea Women</title>
+<title_without_series>The Island of Sea Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40538657-the-island-of-sea-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549839392l/40538657._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549839392l/40538657._SX98_.jpg]]></image_url>
+<num_pages>374</num_pages>
+<work>
+<id>62803411</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>713</id>
+<name>Lisa See</name>
+<link><![CDATA[https://www.goodreads.com/author/show/713.Lisa_See]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40914165</id>
+<title><![CDATA[The Book Woman of Troublesome Creek]]></title>
+<title_without_series><![CDATA[The Book Woman of Troublesome Creek]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40914165-the-book-woman-of-troublesome-creek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543864786l/40914165._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543864786l/40914165._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>63789129</id>
+</work>
+<isbn>1492671525</isbn>
+<isbn13>9781492671527</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>2063992</id>
+<name>Kim Michele Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2063992.Kim_Michele_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36692478</id>
+<title>There There</title>
+<title_without_series>There There</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36692478-there-there]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512071034l/36692478._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512071034l/36692478._SX98_.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>58040066</id>
+</work>
+<isbn>0525520376</isbn>
+<isbn13>9780525520375</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17205711</id>
+<name>Tommy Orange</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17205711.Tommy_Orange]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42270835</id>
+<title>The Nickel Boys</title>
+<title_without_series>The Nickel Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42270835-the-nickel-boys]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65893762</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10029</id>
+<name>Colson Whitehead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10029.Colson_Whitehead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32148570</id>
+<title>Before We Were Yours</title>
+<title_without_series>Before We Were Yours</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32148570-before-we-were-yours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>52786185</id>
+</work>
+<isbn>0425284689</isbn>
+<isbn13>9780425284681</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>178832</id>
+<name>Lisa Wingate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178832.Lisa_Wingate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32051912</id>
+<title>The Alice Network</title>
+<title_without_series>The Alice Network</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32051912-the-alice-network]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492238040l/32051912._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492238040l/32051912._SX98_.jpg]]></image_url>
+<num_pages>532</num_pages>
+<work>
+<id>50492909</id>
+</work>
+<isbn>0062654195</isbn>
+<isbn13>9780062654199</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2974095</id>
+<name>Kate Quinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2974095.Kate_Quinn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37959904</id>
+<title>Unsheltered</title>
+<title_without_series>Unsheltered</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37959904-unsheltered]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59686314</id>
+</work>
+<isbn>0062865501</isbn>
+<isbn13>9780062865502</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3541</id>
+<name>Barbara Kingsolver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3541.Barbara_Kingsolver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25813942</id>
+<title>This Tender Land</title>
+<title_without_series>This Tender Land</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25813942-this-tender-land]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565526433l/25813942._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565526433l/25813942._SX98_.jpg]]></image_url>
+<num_pages>450</num_pages>
+<work>
+<id>45670651</id>
+</work>
+<isbn>1476749299</isbn>
+<isbn13>9781476749297</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>71170</id>
+<name>William Kent Krueger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71170.William_Kent_Krueger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44034500</id>
+<title><![CDATA[A Better Man (Chief Inspector Armand Gamache, #15)]]></title>
+<title_without_series>A Better Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44034500-a-better-man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555112219l/44034500._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555112219l/44034500._SX98_.jpg]]></image_url>
+<num_pages>437</num_pages>
+<work>
+<id>68471303</id>
+</work>
+<isbn>1250066212</isbn>
+<isbn13>9781250066213</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>52739</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>194243</id>
+<name>Louise Penny</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194243.Louise_Penny]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

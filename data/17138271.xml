@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17138271</id>
+  <title><![CDATA[My Dog: The Paradox: A Lovable Discourse about Man's Best Friend]]></title>
+  <isbn><![CDATA[1449437524]]></isbn>
+  <isbn13><![CDATA[9781449437527]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391653917l/17138271._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391653917l/17138271._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Andrews McMeel Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Matthew Inman dishes another helping of hilarity from his online comic The Oatmeal<i> </i>in <i>My Dog: The Paradox</i>. After years of carefully observing his own dog, Rambo, Inman follows his #1 <i>New York Times</i> best-selling <i>How to Tell If Your Cat Is Plotting to Kill You, </i>with this ode to the furry, four-footed, tail-wagging bundle of love and unbridled energy frequently dubbed man’s best friend. This eponymous comic became an instant hit when it went live on The Oatmeal.com and was liked on Facebook by 700,000 fans. Now fans will have a keepsake book of this comic to give and to keep.<br /><br />In <i>My Dog: The Paradox</i>, Inman discusses the canine penchant for rolling in horse droppings, chasing large animals four times their size, and acting recklessly enthusiastic through the entirety of their impulsive, lovable lives. Hilarious and heartfelt, <i>My Dog: The Paradox</i> eloquently illustrates the complicated relationship between man and dog.<br /><br />We will never know why dogs fear hair dryers, or being baited into staring contests with cats, but as Inman explains, perhaps we love dogs so much “because their lives aren’t lengthy, logical, or deliberate, but an explosive paradox composed of fur, teeth, and enthusiasm.”]]></description>
+  <work>
+  <id type="integer">23540485</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">17138271</best_book_id>
+  <reviews_count type="integer">16671</reviews_count>
+  <ratings_sum type="integer">38786</ratings_sum>
+  <ratings_count type="integer">9197</ratings_count>
+  <text_reviews_count type="integer">433</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">7</original_publication_day>
+  <original_title>My Dog: The Paradox</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4644|4:2608|3:1424|2:341|1:180|total:9197</rating_dist>
+  <desc_user_id type="integer">8785152</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.kHZq2-uvJ9cTLJWz43uf5w</work_uri>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8473]]></ratings_count>
+  <text_reviews_count><![CDATA[397]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17138271-my-dog]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17138271-my-dog]]></link>
+  <authors>
+<author>
+<id>3409358</id>
+<name>Matthew Inman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298857291p5/3409358.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298857291p2/3409358.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3409358.Matthew_Inman]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>63492</ratings_count>
+<text_reviews_count>4642</text_reviews_count>
+</author>
+<author>
+<id>6586067</id>
+<name>The Oatmeal</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6586067.The_Oatmeal]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>59723</ratings_count>
+<text_reviews_count>4349</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17138271-my-dog">My Dog Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1449437524&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17138271-my-dog?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="795"/>
+      <shelf name="humor" count="223"/>
+      <shelf name="graphic-novels" count="105"/>
+      <shelf name="comics" count="81"/>
+      <shelf name="currently-reading" count="73"/>
+      <shelf name="non-fiction" count="60"/>
+      <shelf name="animals" count="56"/>
+      <shelf name="graphic-novel" count="51"/>
+      <shelf name="dogs" count="46"/>
+      <shelf name="humour" count="41"/>
+      <shelf name="favorites" count="38"/>
+      <shelf name="funny" count="33"/>
+      <shelf name="comedy" count="27"/>
+      <shelf name="comic" count="23"/>
+      <shelf name="nonfiction" count="21"/>
+      <shelf name="fiction" count="21"/>
+      <shelf name="adult" count="20"/>
+      <shelf name="read-in-2013" count="18"/>
+      <shelf name="picture-books" count="15"/>
+      <shelf name="graphic-novels-comics" count="15"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="books-i-own" count="13"/>
+      <shelf name="comics-and-graphic-novels" count="10"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="comics-graphic-novels" count="9"/>
+      <shelf name="graphic-novels-and-comics" count="9"/>
+      <shelf name="illustrated" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="graphic" count="7"/>
+      <shelf name="webcomics" count="7"/>
+      <shelf name="read-in-2016" count="6"/>
+      <shelf name="read-2014" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="5-stars" count="5"/>
+      <shelf name="default" count="5"/>
+      <shelf name="pets" count="5"/>
+      <shelf name="dog-books" count="5"/>
+      <shelf name="humorous" count="5"/>
+      <shelf name="read-in-2018" count="4"/>
+      <shelf name="comic-graphic-novel" count="4"/>
+      <shelf name="short-story" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="sequential-art" count="4"/>
+      <shelf name="dog" count="4"/>
+      <shelf name="coffee-table" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="2013-reads" count="4"/>
+      <shelf name="from-the-library" count="4"/>
+      <shelf name="fun" count="4"/>
+      <shelf name="adult-non-fiction" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="comic-books" count="4"/>
+      <shelf name="2018-read" count="3"/>
+      <shelf name="adult-picture-books" count="3"/>
+      <shelf name="american" count="3"/>
+      <shelf name="manga-graphic-novels" count="3"/>
+      <shelf name="in-english" count="3"/>
+      <shelf name="4-stars" count="3"/>
+      <shelf name="other" count="3"/>
+      <shelf name="adult-humor" count="3"/>
+      <shelf name="award-winners" count="3"/>
+      <shelf name="mine" count="3"/>
+      <shelf name="art" count="3"/>
+      <shelf name="2014-books" count="3"/>
+      <shelf name="2014-reads" count="3"/>
+      <shelf name="graphic-novel-or-comic" count="3"/>
+      <shelf name="stand-alone" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+      <shelf name="cartoons" count="3"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="read-2019" count="2"/>
+      <shelf name="m-title" count="2"/>
+      <shelf name="books-read-in-2019" count="2"/>
+      <shelf name="read-2018" count="2"/>
+      <shelf name="presents" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="books-read-in-2017" count="2"/>
+      <shelf name="graphicnovels-comics" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="read-2016" count="2"/>
+      <shelf name="shelfari-favorites" count="2"/>
+      <shelf name="comics-manga" count="2"/>
+      <shelf name="hardcover" count="2"/>
+      <shelf name="to-read-graphic-novels" count="2"/>
+      <shelf name="2015-read" count="2"/>
+      <shelf name="all-time-favorites" count="2"/>
+      <shelf name="2015-challenge" count="2"/>
+      <shelf name="matthew-inman" count="2"/>
+      <shelf name="2010s" count="2"/>
+      <shelf name="web-comic" count="2"/>
+      <shelf name="quick-reads" count="2"/>
+      <shelf name="bookshelf" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6608313</id>
+<title>Cyanide and Happiness</title>
+<title_without_series>Cyanide and Happiness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6608313-cyanide-and-happiness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407109281l/6608313._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407109281l/6608313._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>6802258</id>
+</work>
+<isbn>0061914797</isbn>
+<isbn13>9780061914799</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>1262118</id>
+<name>Kris Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1262118.Kris_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17571564</id>
+<title><![CDATA[Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened]]></title>
+<title_without_series><![CDATA[Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17571564-hyperbole-and-a-half]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409522492l/17571564._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409522492l/17571564._SX98_.jpg]]></image_url>
+<num_pages>371</num_pages>
+<work>
+<id>24510592</id>
+</work>
+<isbn>1451666179</isbn>
+<isbn13>9781451666175</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>6984726</id>
+<name>Allie Brosh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6984726.Allie_Brosh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58096</id>
+<title>Return of the Bunny Suicides</title>
+<title_without_series>Return of the Bunny Suicides</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58096.Return_of_the_Bunny_Suicides]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2101815</id>
+</work>
+<isbn>0452286239</isbn>
+<isbn13>9780452286238</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>32674</id>
+<name>Andy Riley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32674.Andy_Riley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13614362</id>
+<title>Underwater Dogs</title>
+<title_without_series>Underwater Dogs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13614362-underwater-dogs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>19214758</id>
+</work>
+<isbn>0316227706</isbn>
+<isbn13>9780316227704</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5822349</id>
+<name>Seth Casteel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5822349.Seth_Casteel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14553916</id>
+<title><![CDATA[F for Effort: More of the Very Best Totally Wrong Test Answers]]></title>
+<title_without_series><![CDATA[F for Effort: More of the Very Best Totally Wrong Test Answers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14553916-f-for-effort]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340783535l/14553916._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340783535l/14553916._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>21580038</id>
+</work>
+<isbn>145211322X</isbn>
+<isbn13>9781452113227</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>222452</id>
+<name>Richard Benson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/222452.Richard_Benson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34626375</id>
+<title><![CDATA[Comics for a Strange World: A Book of Poorly Drawn Lines]]></title>
+<title_without_series><![CDATA[Comics for a Strange World: A Book of Poorly Drawn Lines]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34626375-comics-for-a-strange-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498799162l/34626375._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498799162l/34626375._SX98_.jpg]]></image_url>
+<num_pages>197</num_pages>
+<work>
+<id>55785751</id>
+</work>
+<isbn>0735219885</isbn>
+<isbn13>9780735219885</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>13055907</id>
+<name>Reza Farazmand</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13055907.Reza_Farazmand]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17262193</id>
+<title>Dog Shaming</title>
+<title_without_series>Dog Shaming</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17262193-dog-shaming]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367256558l/17262193._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367256558l/17262193._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>23858993</id>
+</work>
+<isbn>0385349343</isbn>
+<isbn13>9780385349345</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>6897707</id>
+<name>Pascale Lemire</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6897707.Pascale_Lemire]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>79841</id>
+<title><![CDATA[Cat Getting Out of a Bag and Other Observations]]></title>
+<title_without_series><![CDATA[Cat Getting Out of a Bag and Other Observations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/79841.Cat_Getting_Out_of_a_Bag_and_Other_Observations]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936264l/79841._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936264l/79841._SX98_.jpg]]></image_url>
+<num_pages>108</num_pages>
+<work>
+<id>77096</id>
+</work>
+<isbn>0811858227</isbn>
+<isbn13>9780811858229</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>45429</id>
+<name>Jeffrey Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45429.Jeffrey_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34536960</id>
+<title><![CDATA[Fowl Language: The Struggle Is Real]]></title>
+<title_without_series><![CDATA[Fowl Language: The Struggle Is Real]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34536960-fowl-language]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493552726l/34536960._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493552726l/34536960._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>55677845</id>
+</work>
+<isbn>1449486754</isbn>
+<isbn13>9781449486754</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>16376906</id>
+<name>Brian  Gordon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16376906.Brian_Gordon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13542990</id>
+<title><![CDATA[Marbles: Mania, Depression, Michelangelo, and Me]]></title>
+<title_without_series><![CDATA[Marbles: Mania, Depression, Michelangelo, and Me]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13542990-marbles]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>19107284</id>
+</work>
+<isbn>1592407323</isbn>
+<isbn13>9781592407323</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>202782</id>
+<name>Ellen Forney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/202782.Ellen_Forney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42954198</id>
+<title>Safely Endangered Comics</title>
+<title_without_series>Safely Endangered Comics</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42954198-safely-endangered-comics]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543185391l/42954198._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543185391l/42954198._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>62179310</id>
+</work>
+<isbn>1449497160</isbn>
+<isbn13>9781449497163</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>1049954</id>
+<name>Chris McCoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1049954.Chris_McCoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14553581</id>
+<title><![CDATA[K is for Knifeball: An Alphabet of Terrible Advice]]></title>
+<title_without_series><![CDATA[K is for Knifeball: An Alphabet of Terrible Advice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14553581-k-is-for-knifeball]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348424880l/14553581._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348424880l/14553581._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>20196288</id>
+</work>
+<isbn>1452103313</isbn>
+<isbn13>9781452103310</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1977411</id>
+<name>Avery Monsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977411.Avery_Monsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24611872</id>
+<title><![CDATA[Poorly Drawn Lines: Good Ideas and Amazing Stories]]></title>
+<title_without_series><![CDATA[Poorly Drawn Lines: Good Ideas and Amazing Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24611872-poorly-drawn-lines]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422216405l/24611872._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422216405l/24611872._SX98_.jpg]]></image_url>
+<num_pages>199</num_pages>
+<work>
+<id>44222989</id>
+</work>
+<isbn>0147515424</isbn>
+<isbn13>9780147515421</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>13055907</id>
+<name>Reza Farazmand</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13055907.Reza_Farazmand]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36374393</id>
+<title>oh no</title>
+<title_without_series>oh no</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36374393-oh-no]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537722925l/36374393._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537722925l/36374393._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>58061609</id>
+</work>
+<isbn>1449492533</isbn>
+<isbn13>9781449492533</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>15116751</id>
+<name>Alex  Norris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15116751.Alex_Norris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15852522</id>
+<title>Vader&apos;s Little Princess</title>
+<title_without_series>Vader&apos;s Little Princess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15852522-vader-s-little-princess]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356174855l/15852522._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356174855l/15852522._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>21600229</id>
+</work>
+<isbn>1452118698</isbn>
+<isbn13>9781452118697</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>45429</id>
+<name>Jeffrey Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45429.Jeffrey_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35924705</id>
+<title><![CDATA[Herding Cats (Sarah's Scribbles, #3)]]></title>
+<title_without_series>Herding Cats</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35924705-herding-cats]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522799608l/35924705._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522799608l/35924705._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>57458768</id>
+</work>
+<isbn>1449489788</isbn>
+<isbn13>9781449489786</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>14144506</id>
+<name>Sarah Andersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14144506.Sarah_Andersen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6533687</id>
+<title>Simon&apos;s Cat (Simon&apos;s Cat, #1)</title>
+<title_without_series>Simon&apos;s Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6533687-simon-s-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501490269l/6533687._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501490269l/6533687._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>6725693</id>
+</work>
+<isbn>0446560065</isbn>
+<isbn13>9780446560061</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2956016</id>
+<name>Simon Tofield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2956016.Simon_Tofield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30754980</id>
+<title><![CDATA[Big Mushy Happy Lump (Sarah's Scribbles, #2)]]></title>
+<title_without_series>Big Mushy Happy Lump</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30754980-big-mushy-happy-lump]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490071048l/30754980._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490071048l/30754980._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>51303792</id>
+</work>
+<isbn>1449479618</isbn>
+<isbn13>9781449479619</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9197</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14144506</id>
+<name>Sarah Andersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14144506.Sarah_Andersen]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36342156</id>
+  <title><![CDATA[The Anomaly (The Anomaly Files, #1)]]></title>
+  <isbn><![CDATA[1538761858]]></isbn>
+  <isbn13><![CDATA[9781538761854]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508879817l/36342156._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508879817l/36342156._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>19</publication_day>
+  <publisher>Grand Central Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<em>Not all secrets are meant to be found.</em><br /><br />If Indiana Jones lived in the X-Files era, he might bear at least a passing resemblance to Nolan Moore -- a rogue archaeologist hosting a documentary series derisively dismissed by the "real" experts, but beloved of conspiracy theorists.<br /><br />Nolan sets out to retrace the steps of an explorer from 1909 who claimed to have discovered a mysterious cavern high up in the ancient rock of the Grand Canyon. And, for once, he may have actually found what he seeks. Then the trip takes a nasty turn, and the cave begins turning against them in mysterious ways.<br /><br />Nolan's story becomes one of survival against seemingly impossible odds. The only way out is to answer a series of intriguing questions: What is this strange cave? How has it remained hidden for so long? And what secret does it conceal that made its last visitors attempt to seal it forever?]]></description>
+  <work>
+  <id type="integer">58022145</id>
+  <books_count type="integer">15</books_count>
+  <best_book_id type="integer">36342156</best_book_id>
+  <reviews_count type="integer">24304</reviews_count>
+  <ratings_sum type="integer">24438</ratings_sum>
+  <ratings_count type="integer">6432</ratings_count>
+  <text_reviews_count type="integer">1146</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <original_title>The Anomaly</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1502|4:2749|3:1669|2:413|1:99|total:6432</rating_dist>
+  <desc_user_id type="integer">7717977</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.5QlO-ex9ZHv3unR6ZO38pQ</work_uri>
+</work>
+  <average_rating>3.80</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5389]]></ratings_count>
+  <text_reviews_count><![CDATA[982]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36342156-the-anomaly]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36342156-the-anomaly]]></link>
+  <authors>
+<author>
+<id>17201220</id>
+<name>Michael Rutger</name>
+<role>Pseudonym</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17201220.Michael_Rutger]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>7078</ratings_count>
+<text_reviews_count>1319</text_reviews_count>
+</author>
+<author>
+<id>2954265</id>
+<name>Michael Marshall</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383485017p5/2954265.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383485017p2/2954265.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2954265.Michael_Marshall]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>17492</ratings_count>
+<text_reviews_count>2075</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36342156-the-anomaly">The Anomaly Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1538761858&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36342156-the-anomaly?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="16191"/>
+      <shelf name="currently-reading" count="484"/>
+      <shelf name="horror" count="361"/>
+      <shelf name="botm" count="164"/>
+      <shelf name="fiction" count="148"/>
+      <shelf name="thriller" count="131"/>
+      <shelf name="science-fiction" count="111"/>
+      <shelf name="book-of-the-month" count="108"/>
+      <shelf name="mystery" count="101"/>
+      <shelf name="sci-fi" count="79"/>
+      <shelf name="owned" count="48"/>
+      <shelf name="favorites" count="45"/>
+      <shelf name="books-i-own" count="43"/>
+      <shelf name="book-of-the-month-club" count="42"/>
+      <shelf name="read-in-2018" count="33"/>
+      <shelf name="mystery-thriller" count="32"/>
+      <shelf name="adventure" count="31"/>
+      <shelf name="audiobook" count="28"/>
+      <shelf name="library" count="26"/>
+      <shelf name="2018-reads" count="23"/>
+      <shelf name="read-2018" count="20"/>
+      <shelf name="adult" count="19"/>
+      <shelf name="suspense" count="19"/>
+      <shelf name="series" count="18"/>
+      <shelf name="scifi" count="18"/>
+      <shelf name="thrillers" count="18"/>
+      <shelf name="paranormal" count="16"/>
+      <shelf name="fantasy" count="16"/>
+      <shelf name="2018-releases" count="16"/>
+      <shelf name="giveaways" count="15"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="sci-fi-fantasy" count="14"/>
+      <shelf name="botm-club" count="14"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="my-library" count="12"/>
+      <shelf name="to-read-horror" count="12"/>
+      <shelf name="maybe" count="12"/>
+      <shelf name="first-reads" count="12"/>
+      <shelf name="action-adventure" count="11"/>
+      <shelf name="2018-books" count="11"/>
+      <shelf name="audio" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="kindle" count="11"/>
+      <shelf name="owned-books" count="10"/>
+      <shelf name="2018-books-read" count="10"/>
+      <shelf name="suspense-thriller" count="10"/>
+      <shelf name="adult-fiction" count="10"/>
+      <shelf name="audiobooks" count="9"/>
+      <shelf name="survival" count="9"/>
+      <shelf name="2019-books" count="8"/>
+      <shelf name="2019-reads" count="8"/>
+      <shelf name="horror-thriller" count="8"/>
+      <shelf name="physical-tbr" count="8"/>
+      <shelf name="owned-tbr" count="8"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="read-2019" count="6"/>
+      <shelf name="read-in-2019" count="6"/>
+      <shelf name="book-club" count="6"/>
+      <shelf name="did-not-finish" count="6"/>
+      <shelf name="on-my-shelf" count="6"/>
+      <shelf name="home-library" count="6"/>
+      <shelf name="netgalley" count="6"/>
+      <shelf name="genre-horror" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="2018-reading-challenge" count="6"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="2019-read" count="5"/>
+      <shelf name="to-read-2019" count="5"/>
+      <shelf name="halloween" count="5"/>
+      <shelf name="goodreads-choice-awards" count="5"/>
+      <shelf name="couldn-t-finish" count="5"/>
+      <shelf name="want-to-buy" count="5"/>
+      <shelf name="novels" count="5"/>
+      <shelf name="botm-books" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="conspiracy" count="5"/>
+      <shelf name="stand-alone" count="5"/>
+      <shelf name="mystery-suspense" count="5"/>
+      <shelf name="need-to-buy" count="5"/>
+      <shelf name="mystery-suspense-thriller" count="5"/>
+      <shelf name="thriller-suspense" count="5"/>
+      <shelf name="archaeology" count="5"/>
+      <shelf name="to-get" count="5"/>
+      <shelf name="fantasy-sci-fi" count="5"/>
+      <shelf name="goodreads-giveaways" count="5"/>
+      <shelf name="giveaway" count="5"/>
+      <shelf name="spoopy" count="4"/>
+      <shelf name="fiction-horror" count="4"/>
+      <shelf name="own-tbr" count="4"/>
+      <shelf name="audio-book" count="4"/>
+      <shelf name="botm-to-read" count="4"/>
+      <shelf name="thriller-mystery" count="4"/>
+      <shelf name="action" count="4"/>
+      <shelf name="books-read-in-2018" count="4"/>
+      <shelf name="kobo" count="4"/>
+      <shelf name="apocalyptic" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="read-asap" count="4"/>
+      <shelf name="audible" count="4"/>
+      <shelf name="personal-library" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1355436</id>
+<user_position>1</user_position>
+<series>
+<id>249843</id>
+<title>
+<![CDATA[
+    The Anomaly Files
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>36626748</id>
+<title>The Last Time I Lied</title>
+<title_without_series>The Last Time I Lied</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36626748-the-last-time-i-lied]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57845636</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15263414</id>
+<name>Riley Sager</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15263414.Riley_Sager]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36343490</id>
+<title>The Line That Held Us</title>
+<title_without_series>The Line That Held Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36343490-the-line-that-held-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507663153l/36343490._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507663153l/36343490._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>58023627</id>
+</work>
+<isbn>0399574220</isbn>
+<isbn13>9780399574221</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>8193230</id>
+<name>David    Joy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8193230.David_Joy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36472797</id>
+<title>The Girl From Blind River</title>
+<title_without_series>The Girl From Blind River</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36472797-the-girl-from-blind-river]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57433192</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5273019</id>
+<name>Gale Massey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5273019.Gale_Massey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42046112</id>
+<title>Recursion</title>
+<title_without_series>Recursion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42046112-recursion]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543687940l/42046112._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543687940l/42046112._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>64277987</id>
+</work>
+<isbn>1524759783</isbn>
+<isbn13>9781524759780</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>442240</id>
+<name>Blake Crouch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/442240.Blake_Crouch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41837243</id>
+<title>Lock Every Door</title>
+<title_without_series>Lock Every Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41837243-lock-every-door]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540938359l/41837243._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540938359l/41837243._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>65308942</id>
+</work>
+<isbn>1524745154</isbn>
+<isbn13>9781524745158</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>15263414</id>
+<name>Riley Sager</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15263414.Riley_Sager]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37486235</id>
+<title>Cross Her Heart</title>
+<title_without_series>Cross Her Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37486235-cross-her-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522434135l/37486235._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522434135l/37486235._SX98_.jpg]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>57682706</id>
+</work>
+<isbn>0062856790</isbn>
+<isbn13>9780062856791</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>457300</id>
+<name>Sarah Pinborough</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457300.Sarah_Pinborough]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37905907</id>
+<title>The Lies We Told</title>
+<title_without_series>The Lies We Told</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37905907-the-lies-we-told]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515613929l/37905907._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515613929l/37905907._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>59611925</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>483666</id>
+<name>Camilla Way</name>
+<link><![CDATA[https://www.goodreads.com/author/show/483666.Camilla_Way]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41940236</id>
+<title>The Whisper Man</title>
+<title_without_series>The Whisper Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41940236-the-whisper-man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541864083l/41940236._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541864083l/41940236._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>63202631</id>
+</work>
+<isbn>1250317991</isbn>
+<isbn13>9781250317995</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>7938829</id>
+<name>Alex North</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7938829.Alex_North]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36381091</id>
+<title><![CDATA[The Cabin at the End of the World]]></title>
+<title_without_series><![CDATA[The Cabin at the End of the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36381091-the-cabin-at-the-end-of-the-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511884752l/36381091._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511884752l/36381091._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>57969097</id>
+</work>
+<isbn>0062679104</isbn>
+<isbn13>9780062679109</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>648612</id>
+<name>Paul Tremblay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/648612.Paul_Tremblay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40733836</id>
+<title>The Oracle Year</title>
+<title_without_series>The Oracle Year</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40733836-the-oracle-year]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530903756l/40733836._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530903756l/40733836._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>56364203</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1641284</id>
+<name>Charles Soule</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1641284.Charles_Soule]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38350063</id>
+<title>For Better and Worse</title>
+<title_without_series>For Better and Worse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38350063-for-better-and-worse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538415318l/38350063._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538415318l/38350063._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>60013839</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15871269</id>
+<name>Margot Hunt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15871269.Margot_Hunt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35522836</id>
+<title>No Exit</title>
+<title_without_series>No Exit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35522836-no-exit]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>278</num_pages>
+<work>
+<id>56940541</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8475510</id>
+<name>Taylor  Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8475510.Taylor_Adams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35396595</id>
+<title><![CDATA[Sweet Little Lies (Cat Kinsella, #1)]]></title>
+<title_without_series>Sweet Little Lies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35396595-sweet-little-lies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529042737l/35396595._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529042737l/35396595._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>56425536</id>
+</work>
+<isbn>0062823280</isbn>
+<isbn13>9780062823281</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>16842066</id>
+<name>Caz Frear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16842066.Caz_Frear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39049255</id>
+<title>#FashionVictim</title>
+<title_without_series>#FashionVictim</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39049255-fashionvictim]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527885658l/39049255._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527885658l/39049255._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>60605227</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17785966</id>
+<name>Amina Akhtar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17785966.Amina_Akhtar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37715859</id>
+<title>We Sold Our Souls</title>
+<title_without_series>We Sold Our Souls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37715859-we-sold-our-souls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527975643l/37715859._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527975643l/37715859._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59355324</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4826394</id>
+<name>Grady Hendrix</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4826394.Grady_Hendrix]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36681184</id>
+<title>Still Lives</title>
+<title_without_series>Still Lives</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36681184-still-lives]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536677752l/36681184._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536677752l/36681184._SX98_.jpg]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>58472227</id>
+</work>
+<isbn>1619021110</isbn>
+<isbn13>9781619021112</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>790462</id>
+<name>Maria Hummel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/790462.Maria_Hummel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35430011</id>
+<title>November Road</title>
+<title_without_series>November Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35430011-november-road]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527113022l/35430011._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527113022l/35430011._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>56808220</id>
+</work>
+<isbn>0062663879</isbn>
+<isbn13>9780062663870</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>3135045</id>
+<name>Lou Berney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3135045.Lou_Berney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39599913</id>
+<title>Golden State</title>
+<title_without_series>Golden State</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39599913-golden-state]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522082600l/39599913._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522082600l/39599913._SX98_.jpg]]></image_url>
+<num_pages>319</num_pages>
+<work>
+<id>61188887</id>
+</work>
+<isbn>0316505412</isbn>
+<isbn13>9780316505413</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>6432</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>735413</id>
+<name>Ben H. Winters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/735413.Ben_H_Winters]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

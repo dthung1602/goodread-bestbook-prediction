@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36127488</id>
+  <title>Front Desk</title>
+  <isbn><![CDATA[1338157795]]></isbn>
+  <isbn13><![CDATA[9781338157796]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>Arthur A. Levine Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Mia Tang has a lot of secrets.<br /><br />Number 1: She lives in a motel, not a big house. Every day, while her immigrant parents clean the rooms, ten-year-old Mia manages the front desk of the Calivista Motel and tends to its guests.<br /><br />Number 2: Her parents hide immigrants. And if the mean motel owner, Mr. Yao, finds out they've been letting them stay in the empty rooms for free, the Tangs will be doomed.<br /><br />Number 3: She wants to be a writer. But how can she when her mom thinks she should stick to math because English is not her first language?<br /><br />It will take all of Mia's courage, kindness, and hard work to get through this year. Will she be able to hold on to her job, help the immigrants and guests, escape Mr. Yao, and go for her dreams?]]></description>
+  <work>
+  <id type="integer">51903030</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">36127488</best_book_id>
+  <reviews_count type="integer">19799</reviews_count>
+  <ratings_sum type="integer">37212</ratings_sum>
+  <ratings_count type="integer">8482</ratings_count>
+  <text_reviews_count type="integer">1685</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_title>Front Desk</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4518|4:3046|3:687|2:146|1:85|total:8482</rating_dist>
+  <desc_user_id type="integer">1195032</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.LSjoasKv0QuCBAtGzplxCw</work_uri>
+</work>
+  <average_rating>4.39</average_rating>
+  <num_pages><![CDATA[298]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[7955]]></ratings_count>
+  <text_reviews_count><![CDATA[1607]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36127488-front-desk]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36127488-front-desk]]></link>
+  <authors>
+<author>
+<id>15524279</id>
+<name>Kelly Yang</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1536187850p5/15524279.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1536187850p2/15524279.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15524279.Kelly_Yang]]></link>
+<average_rating>4.39</average_rating>
+<ratings_count>8492</ratings_count>
+<text_reviews_count>1686</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36127488-front-desk">Front Desk Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1338157795&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36127488-front-desk?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9097"/>
+      <shelf name="currently-reading" count="638"/>
+      <shelf name="middle-grade" count="535"/>
+      <shelf name="realistic-fiction" count="231"/>
+      <shelf name="fiction" count="128"/>
+      <shelf name="family" count="93"/>
+      <shelf name="immigration" count="87"/>
+      <shelf name="childrens" count="85"/>
+      <shelf name="diversity" count="81"/>
+      <shelf name="historical-fiction" count="71"/>
+      <shelf name="realistic" count="68"/>
+      <shelf name="friendship" count="67"/>
+      <shelf name="favorites" count="66"/>
+      <shelf name="contemporary" count="64"/>
+      <shelf name="children" count="63"/>
+      <shelf name="multicultural" count="58"/>
+      <shelf name="middle-school" count="57"/>
+      <shelf name="kids" count="57"/>
+      <shelf name="children-s" count="56"/>
+      <shelf name="young-adult" count="52"/>
+      <shelf name="middle-grades" count="52"/>
+      <shelf name="juvenile-fiction" count="50"/>
+      <shelf name="audio" count="47"/>
+      <shelf name="juvenile" count="47"/>
+      <shelf name="read-in-2018" count="47"/>
+      <shelf name="audiobook" count="46"/>
+      <shelf name="immigrants" count="41"/>
+      <shelf name="children-s-books" count="40"/>
+      <shelf name="ya" count="39"/>
+      <shelf name="middle-grade-fiction" count="36"/>
+      <shelf name="audiobooks" count="35"/>
+      <shelf name="read-in-2019" count="34"/>
+      <shelf name="mg" count="33"/>
+      <shelf name="diverse" count="33"/>
+      <shelf name="poverty" count="30"/>
+      <shelf name="library" count="30"/>
+      <shelf name="chapter-books" count="30"/>
+      <shelf name="bullying" count="28"/>
+      <shelf name="ownvoices" count="28"/>
+      <shelf name="own-voices" count="28"/>
+      <shelf name="2018-releases" count="28"/>
+      <shelf name="kid-lit" count="26"/>
+      <shelf name="school" count="26"/>
+      <shelf name="j-fiction" count="24"/>
+      <shelf name="2019-reads" count="23"/>
+      <shelf name="asian-american" count="23"/>
+      <shelf name="children-s-lit" count="23"/>
+      <shelf name="historical" count="22"/>
+      <shelf name="asian" count="22"/>
+      <shelf name="social-justice" count="21"/>
+      <shelf name="tween" count="21"/>
+      <shelf name="diverse-books" count="21"/>
+      <shelf name="poc" count="21"/>
+      <shelf name="kids-books" count="20"/>
+      <shelf name="elementary" count="20"/>
+      <shelf name="children-s-fiction" count="20"/>
+      <shelf name="childrens-books" count="20"/>
+      <shelf name="read-2019" count="19"/>
+      <shelf name="racism" count="19"/>
+      <shelf name="race" count="19"/>
+      <shelf name="j-fic" count="18"/>
+      <shelf name="china" count="18"/>
+      <shelf name="families" count="17"/>
+      <shelf name="read-2018" count="17"/>
+      <shelf name="jfic" count="17"/>
+      <shelf name="middle-grade-books" count="16"/>
+      <shelf name="writing" count="16"/>
+      <shelf name="diverse-characters" count="16"/>
+      <shelf name="2018-reads" count="16"/>
+      <shelf name="childrens-fiction" count="16"/>
+      <shelf name="we-need-diverse-books" count="16"/>
+      <shelf name="audio-books" count="14"/>
+      <shelf name="children-s-literature" count="14"/>
+      <shelf name="coming-of-age" count="14"/>
+      <shelf name="immigrant-experience" count="14"/>
+      <shelf name="2019-books" count="13"/>
+      <shelf name="mock-newbery-2019" count="13"/>
+      <shelf name="california" count="13"/>
+      <shelf name="community" count="12"/>
+      <shelf name="girl-power" count="12"/>
+      <shelf name="childrens-lit" count="12"/>
+      <shelf name="social-issues" count="12"/>
+      <shelf name="battle-of-the-books" count="11"/>
+      <shelf name="award-winner" count="11"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="juv-fiction" count="11"/>
+      <shelf name="read-alouds" count="11"/>
+      <shelf name="immigrant" count="11"/>
+      <shelf name="tweens" count="11"/>
+      <shelf name="summer-2018" count="11"/>
+      <shelf name="project-lit" count="10"/>
+      <shelf name="2019-read" count="10"/>
+      <shelf name="junior-fiction" count="10"/>
+      <shelf name="chinese" count="10"/>
+      <shelf name="4th-grade" count="10"/>
+      <shelf name="read-aloud" count="10"/>
+      <shelf name="j" count="10"/>
+      <shelf name="2018-2019-school-year" count="9"/>
+      <shelf name="2019-reading-challenge" count="9"/>
+      <shelf name="library-books" count="9"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>38185346</id>
+<title>Merci Suárez Changes Gears</title>
+<title_without_series>Merci Suárez Changes Gears</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38185346-merci-su-rez-changes-gears]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561068468l/38185346._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561068468l/38185346._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>50140884</id>
+</work>
+<isbn>076369049X</isbn>
+<isbn13>9780763690496</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>1373005</id>
+<name>Meg Medina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1373005.Meg_Medina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40206380</id>
+<title>The Bridge Home</title>
+<title_without_series>The Bridge Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40206380-the-bridge-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531855208l/40206380._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531855208l/40206380._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>62415765</id>
+</work>
+<isbn>1524738115</isbn>
+<isbn13>9781524738112</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>895265</id>
+<name>Padma Venkatraman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/895265.Padma_Venkatraman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35238085</id>
+<title>The Parker Inheritance</title>
+<title_without_series>The Parker Inheritance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35238085-the-parker-inheritance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496228567l/35238085._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496228567l/35238085._SX98_.jpg]]></image_url>
+<num_pages>331</num_pages>
+<work>
+<id>56587519</id>
+</work>
+<isbn>0545946174</isbn>
+<isbn13>9780545946179</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>851842</id>
+<name>Varian Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/851842.Varian_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38351370</id>
+<title>Blended</title>
+<title_without_series>Blended</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38351370-blended]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517801933l/38351370._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517801933l/38351370._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>60015930</id>
+</work>
+<isbn>1442495006</isbn>
+<isbn13>9781442495005</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>51942</id>
+<name>Sharon M. Draper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51942.Sharon_M_Draper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36086513</id>
+<title>Amal Unbound</title>
+<title_without_series>Amal Unbound</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36086513-amal-unbound]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509102472l/36086513._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509102472l/36086513._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>45632570</id>
+</work>
+<isbn>0399544682</isbn>
+<isbn13>9780399544682</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>8106586</id>
+<name>Aisha Saeed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8106586.Aisha_Saeed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36292177</id>
+<title><![CDATA[The Remarkable Journey of Coyote Sunrise]]></title>
+<title_without_series><![CDATA[The Remarkable Journey of Coyote Sunrise]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36292177-the-remarkable-journey-of-coyote-sunrise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526654090l/36292177._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526654090l/36292177._SX98_.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>57956893</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7544723</id>
+<name>Dan Gemeinhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7544723.Dan_Gemeinhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33004208</id>
+<title><![CDATA[The Miscalculations of Lightning Girl]]></title>
+<title_without_series><![CDATA[The Miscalculations of Lightning Girl]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33004208-the-miscalculations-of-lightning-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511875058l/33004208._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511875058l/33004208._SX98_.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>53648561</id>
+</work>
+<isbn>1524767573</isbn>
+<isbn13>9781524767570</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4562864</id>
+<name>Stacy McAnulty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4562864.Stacy_McAnulty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37584983</id>
+<title>Harbor Me</title>
+<title_without_series>Harbor Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37584983-harbor-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526574263l/37584983._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526574263l/37584983._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>62648355</id>
+</work>
+<isbn>0399252525</isbn>
+<isbn13>9780399252525</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38225268</id>
+<title>The Season of Styx Malone</title>
+<title_without_series>The Season of Styx Malone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38225268-the-season-of-styx-malone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531599739l/38225268._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531599739l/38225268._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>59903655</id>
+</work>
+<isbn>1524715956</isbn>
+<isbn13>9781524715953</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1095066</id>
+<name>Kekla Magoon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1095066.Kekla_Magoon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35464020</id>
+<title>The Night Diary</title>
+<title_without_series>The Night Diary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35464020-the-night-diary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518428409l/35464020._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518428409l/35464020._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>50463490</id>
+</work>
+<isbn>0735228515</isbn>
+<isbn13>9780735228511</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3105905</id>
+<name>Veera Hiranandani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3105905.Veera_Hiranandani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39217633</id>
+<title>Louisiana&apos;s Way Home</title>
+<title_without_series>Louisiana&apos;s Way Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39217633-louisiana-s-way-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>60750180</id>
+</work>
+<isbn>0763694630</isbn>
+<isbn13>9780763694630</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35008529</id>
+<title><![CDATA[The Truth as Told by Mason Buttle]]></title>
+<title_without_series><![CDATA[The Truth as Told by Mason Buttle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35008529-the-truth-as-told-by-mason-buttle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>56288665</id>
+</work>
+<isbn>0062491490</isbn>
+<isbn13>9780062491497</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>463173</id>
+<name>Leslie Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/463173.Leslie_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41386643</id>
+<title>Shouting at the Rain</title>
+<title_without_series>Shouting at the Rain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41386643-shouting-at-the-rain]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542819020l/41386643._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542819020l/41386643._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64604173</id>
+</work>
+<isbn>052549409X</isbn>
+<isbn13>9780525494096</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4575353</id>
+<name>Lynda Mullaly Hunt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4575353.Lynda_Mullaly_Hunt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35890044</id>
+<title><![CDATA[The Benefits of Being an Octopus]]></title>
+<title_without_series><![CDATA[The Benefits of Being an Octopus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35890044-the-benefits-of-being-an-octopus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522849548l/35890044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522849548l/35890044._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57406781</id>
+</work>
+<isbn>1510737480</isbn>
+<isbn13>9781510737488</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>17071283</id>
+<name>Ann Braden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17071283.Ann_Braden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36005510</id>
+<title>New Kid</title>
+<title_without_series>New Kid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36005510-new-kid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544415378l/36005510._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544415378l/36005510._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57574554</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>919377</id>
+<name>Jerry Craft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/919377.Jerry_Craft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35398627</id>
+<title>Other Words for Home</title>
+<title_without_series>Other Words for Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35398627-other-words-for-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539183359l/35398627._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539183359l/35398627._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>56767524</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7224009</id>
+<name>Jasmine Warga</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7224009.Jasmine_Warga]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37811512</id>
+<title><![CDATA[Sweep: The Story of a Girl and Her Monster]]></title>
+<title_without_series><![CDATA[Sweep: The Story of a Girl and Her Monster]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37811512-sweep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536675436l/37811512._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536675436l/37811512._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>59489664</id>
+</work>
+<isbn>073526435X</isbn>
+<isbn13>9780735264359</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4722094</id>
+<name>Jonathan Auxier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4722094.Jonathan_Auxier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068526</id>
+<title>You Go First</title>
+<title_without_series>You Go First</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068526-you-go-first]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502743191l/35068526._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502743191l/35068526._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>56363983</id>
+</work>
+<isbn>0062414186</isbn>
+<isbn13>9780062414182</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>8482</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>8343921</id>
+<name>Erin Entrada Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8343921.Erin_Entrada_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13260591</id>
+  <title>Nightsong</title>
+  <isbn><![CDATA[1416978860]]></isbn>
+  <isbn13><![CDATA[9781416978862]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347464587l/13260591._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347464587l/13260591._SX50_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Simon &amp; Schuster Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A breathtaking picture book by award-winning writer Ari Berk and illustrated by mega-bestseller Loren Long, about a young bat setting off into the world using only his good sense!</b><br /><br /><i>Sense is the song you sing out into the world, <br />and the song the world sings back to you.</i><br /><br />With these words, Chiro’s mother sends him off into the night for the first time alone. It’s an adventure, but how will he find his way? And how will he find his way home? As the young bat discovers, navigating the world around him is easy as long as he uses his good sense.<br /><br />This beautiful and touching coming-of-age story, with mesmerizing artwork from <i>New York Times</i> bestselling illustrator Loren Long and lyrical text from Ari Berk, conveys a heartwarming and universal message: No matter how far away you go, you can always find your way home.]]></description>
+  <work>
+  <id type="integer">18462096</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">13260591</best_book_id>
+  <reviews_count type="integer">2761</reviews_count>
+  <ratings_sum type="integer">6385</ratings_sum>
+  <ratings_count type="integer">1587</ratings_count>
+  <text_reviews_count type="integer">293</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title>Nightsong</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:547|4:629|3:325|2:73|1:13|total:1587</rating_dist>
+  <desc_user_id type="integer">2075644</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.DU5LRib2bXgVj97Kj3spOA</work_uri>
+</work>
+  <average_rating>4.02</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1569]]></ratings_count>
+  <text_reviews_count><![CDATA[292]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13260591-nightsong]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13260591-nightsong]]></link>
+  <authors>
+<author>
+<id>26805</id>
+<name>Ari Berk</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272919629p5/26805.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272919629p2/26805.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/26805.Ari_Berk]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>9793</ratings_count>
+<text_reviews_count>673</text_reviews_count>
+</author>
+<author>
+<id>329975</id>
+<name>Loren Long</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414774364p5/329975.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414774364p2/329975.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/329975.Loren_Long]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>27396</ratings_count>
+<text_reviews_count>4533</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13260591-nightsong">Nightsong Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1416978860&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13260591-nightsong?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="831"/>
+      <shelf name="picture-books" count="245"/>
+      <shelf name="childrens" count="66"/>
+      <shelf name="picture-book" count="64"/>
+      <shelf name="animals" count="41"/>
+      <shelf name="children-s-books" count="35"/>
+      <shelf name="children" count="30"/>
+      <shelf name="children-s" count="29"/>
+      <shelf name="bats" count="28"/>
+      <shelf name="childrens-books" count="24"/>
+      <shelf name="kids" count="22"/>
+      <shelf name="family" count="16"/>
+      <shelf name="favorites" count="16"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="kids-books" count="15"/>
+      <shelf name="childrens-picture-books" count="11"/>
+      <shelf name="picturebooks" count="10"/>
+      <shelf name="children-s-lit" count="8"/>
+      <shelf name="nature" count="8"/>
+      <shelf name="science" count="8"/>
+      <shelf name="picture" count="8"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="children-s-picture-books" count="7"/>
+      <shelf name="read-aloud" count="7"/>
+      <shelf name="classroom-library" count="6"/>
+      <shelf name="animal" count="6"/>
+      <shelf name="for-kids" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="adventure" count="6"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="night" count="5"/>
+      <shelf name="read-2015" count="4"/>
+      <shelf name="default" count="4"/>
+      <shelf name="childrens-lit" count="4"/>
+      <shelf name="read-in-2013" count="4"/>
+      <shelf name="growing-up" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="halloween" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="fall" count="4"/>
+      <shelf name="preschool" count="4"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="currently-reading" count="3"/>
+      <shelf name="storytime" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="picture-books-to-read" count="3"/>
+      <shelf name="ari-berk" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="great-illustrations" count="3"/>
+      <shelf name="coming-of-age" count="3"/>
+      <shelf name="beautiful-illustrations" count="3"/>
+      <shelf name="bedtime" count="3"/>
+      <shelf name="nighttime" count="3"/>
+      <shelf name="read-2013" count="3"/>
+      <shelf name="2013-reads" count="3"/>
+      <shelf name="primary" count="3"/>
+      <shelf name="nocturnal" count="3"/>
+      <shelf name="2012-picture-books" count="3"/>
+      <shelf name="elementary" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="juvenile-fiction" count="3"/>
+      <shelf name="read-in-2012" count="3"/>
+      <shelf name="baby-books" count="3"/>
+      <shelf name="echolocation" count="3"/>
+      <shelf name="picture_books" count="3"/>
+      <shelf name="story-time-books" count="2"/>
+      <shelf name="home" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="self-confidence" count="2"/>
+      <shelf name="children-s-books-i-own" count="2"/>
+      <shelf name="to-read-picture-books" count="2"/>
+      <shelf name="edu-365" count="2"/>
+      <shelf name="children-s-fiction" count="2"/>
+      <shelf name="d-picture-book" count="2"/>
+      <shelf name="picture-books-for-children" count="2"/>
+      <shelf name="read-to-my-kids" count="2"/>
+      <shelf name="2014-picture-books" count="2"/>
+      <shelf name="grades-1-3" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="classroom-books" count="2"/>
+      <shelf name="senses" count="2"/>
+      <shelf name="i-own-it" count="2"/>
+      <shelf name="read-in-2014" count="2"/>
+      <shelf name="courage" count="2"/>
+      <shelf name="kid-lit" count="2"/>
+      <shelf name="personification" count="2"/>
+      <shelf name="illustration" count="2"/>
+      <shelf name="kid-stuff" count="2"/>
+      <shelf name="love" count="2"/>
+      <shelf name="feelings" count="2"/>
+      <shelf name="fantasy" count="2"/>
+      <shelf name="mammals" count="2"/>
+      <shelf name="mothers" count="2"/>
+      <shelf name="parenting" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="picture_book" count="2"/>
+      <shelf name="animal-books" count="2"/>
+      <shelf name="aiden" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23281685</id>
+<title>Night Animals</title>
+<title_without_series>Night Animals</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23281685-night-animals]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412531580l/23281685._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412531580l/23281685._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42819667</id>
+</work>
+<isbn>0451469542</isbn>
+<isbn13>9780451469540</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>788953</id>
+<name>Gianna Marino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/788953.Gianna_Marino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>363973</id>
+<title><![CDATA[The Little Old Lady Who Was Not Afraid of Anything]]></title>
+<title_without_series><![CDATA[The Little Old Lady Who Was Not Afraid of Anything]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/363973.The_Little_Old_Lady_Who_Was_Not_Afraid_of_Anything]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1287577</id>
+</work>
+<isbn>0064431835</isbn>
+<isbn13>9780064431835</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>6803383</id>
+<name>Linda   Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6803383.Linda_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35297500</id>
+<title>Harriet Gets Carried Away</title>
+<title_without_series>Harriet Gets Carried Away</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35297500-harriet-gets-carried-away]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520164200l/35297500._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520164200l/35297500._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56664305</id>
+</work>
+<isbn>1481469118</isbn>
+<isbn13>9781481469111</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>15290123</id>
+<name>Jessie Sima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15290123.Jessie_Sima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3206911</id>
+<title>Bat&apos;s Big Game</title>
+<title_without_series>Bat&apos;s Big Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3206911-bat-s-big-game]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3240407</id>
+</work>
+<isbn>0807505870</isbn>
+<isbn13>9780807505878</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>302049</id>
+<name>Margaret Read MacDonald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/302049.Margaret_Read_MacDonald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864686</id>
+<title><![CDATA[Bad Kitty Does Not Like Thanksgiving]]></title>
+<title_without_series><![CDATA[Bad Kitty Does Not Like Thanksgiving]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864686-bad-kitty-does-not-like-thanksgiving]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532421861l/40864686._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532421861l/40864686._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>63657497</id>
+</work>
+<isbn>1250198429</isbn>
+<isbn13>9781250198426</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>208273</id>
+<name>Nick Bruel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/208273.Nick_Bruel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>133613</id>
+<title><![CDATA[Bat Loves the Night: Read and Wonder]]></title>
+<title_without_series><![CDATA[Bat Loves the Night: Read and Wonder]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/133613.Bat_Loves_the_Night]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320517883l/133613._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320517883l/133613._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>128709</id>
+</work>
+<isbn>0763624381</isbn>
+<isbn13>9780763624385</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>22935</id>
+<name>Nicola Davies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22935.Nicola_Davies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43522208</id>
+<title>Bruce&apos;s Big Storm</title>
+<title_without_series>Bruce&apos;s Big Storm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43522208-bruce-s-big-storm]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549844107l/43522208._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549844107l/43522208._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67689309</id>
+</work>
+<isbn>1368026222</isbn>
+<isbn13>9781368026222</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13170028</id>
+<title>Bear Has a Story to Tell</title>
+<title_without_series>Bear Has a Story to Tell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13170028-bear-has-a-story-to-tell]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362667189l/13170028._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362667189l/13170028._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18349343</id>
+</work>
+<isbn>1596437456</isbn>
+<isbn13>9781596437456</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4902018</id>
+<name>Philip C. Stead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4902018.Philip_C_Stead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33385226</id>
+<title><![CDATA[I Love You More Than the Smell of Swamp Gas]]></title>
+<title_without_series><![CDATA[I Love You More Than the Smell of Swamp Gas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33385226-i-love-you-more-than-the-smell-of-swamp-gas]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502732718l/33385226._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502732718l/33385226._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54129465</id>
+</work>
+<isbn>0062408712</isbn>
+<isbn13>9780062408716</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2989014</id>
+<name>Kevan Atteberry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2989014.Kevan_Atteberry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13531002</id>
+<title>Black Dog</title>
+<title_without_series>Black Dog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13531002-black-dog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579209l/13531002._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579209l/13531002._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>19092670</id>
+</work>
+<isbn>0763660973</isbn>
+<isbn13>9780763660970</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3370428</id>
+<name>Levi Pinfold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3370428.Levi_Pinfold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24885996</id>
+<title><![CDATA[Disney Palace Pets: Adventure Tales]]></title>
+<title_without_series><![CDATA[Disney Palace Pets: Adventure Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24885996-disney-palace-pets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427675022l/24885996._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427675022l/24885996._SX98_.jpg]]></image_url>
+<num_pages>10</num_pages>
+<work>
+<id>44534513</id>
+</work>
+<isbn>0794435041</isbn>
+<isbn13>9780794435042</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>5264</id>
+<name>Thea Feldman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5264.Thea_Feldman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43275147</id>
+<title>The Not-So-Scary Hairy Spider</title>
+<title_without_series>The Not-So-Scary Hairy Spider</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43275147-the-not-so-scary-hairy-spider]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545402268l/43275147._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545402268l/43275147._SY160_.jpg]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>67159707</id>
+</work>
+<isbn>1788436083</isbn>
+<isbn13>9781788436083</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13329310</id>
+<name>Rosie Greening</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13329310.Rosie_Greening]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36500380</id>
+<title>Grumpy Monkey</title>
+<title_without_series>Grumpy Monkey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36500380-grumpy-monkey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509373230l/36500380._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509373230l/36500380._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>58217120</id>
+</work>
+<isbn>0553537865</isbn>
+<isbn13>9780553537864</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4634332</id>
+<name>Suzanne Lang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4634332.Suzanne_Lang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13617210</id>
+<title><![CDATA[Goldilocks and the Three Dinosaurs]]></title>
+<title_without_series><![CDATA[Goldilocks and the Three Dinosaurs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13617210-goldilocks-and-the-three-dinosaurs]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335396879l/13617210._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335396879l/13617210._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19219498</id>
+</work>
+<isbn>0062104187</isbn>
+<isbn13>9780062104182</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25735875</id>
+<title>The Bear and the Piano</title>
+<title_without_series>The Bear and the Piano</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25735875-the-bear-and-the-piano]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434435540l/25735875._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434435540l/25735875._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45574997</id>
+</work>
+<isbn>1847807178</isbn>
+<isbn13>9781847807175</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>135185</id>
+<name>David  Litchfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/135185.David_Litchfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12098668</id>
+<title>Chopsticks</title>
+<title_without_series>Chopsticks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12098668-chopsticks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359124529l/12098668._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359124529l/12098668._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>17067386</id>
+</work>
+<isbn>1423107969</isbn>
+<isbn13>9781423107965</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>716944</id>
+<title>Owl Babies</title>
+<title_without_series>Owl Babies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/716944.Owl_Babies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408930554l/716944._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408930554l/716944._SX98_.jpg]]></image_url>
+<num_pages>25</num_pages>
+<work>
+<id>2961469</id>
+</work>
+<isbn>0744592704</isbn>
+<isbn13>9780744592702</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>36722</id>
+<name>Martin Waddell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36722.Martin_Waddell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13337050</id>
+<title>Dragons Love Tacos</title>
+<title_without_series>Dragons Love Tacos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13337050-dragons-love-tacos]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326100121l/13337050._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326100121l/13337050._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18545277</id>
+</work>
+<isbn>0803736800</isbn>
+<isbn13>9780803736801</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>132184</id>
+<name>Adam Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/132184.Adam_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

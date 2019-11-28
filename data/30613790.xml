@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>30613790</id>
+  <title>Dan and Phil Go Outside</title>
+  <isbn><![CDATA[1524701459]]></isbn>
+  <isbn13><![CDATA[9781524701451]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471295566l/30613790._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471295566l/30613790._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Random House Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">52039720</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">30613790</best_book_id>
+  <reviews_count type="integer">9591</reviews_count>
+  <ratings_sum type="integer">15551</ratings_sum>
+  <ratings_count type="integer">3440</ratings_count>
+  <text_reviews_count type="integer">270</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">11</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Dan and Phil Go Outside</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2391|4:646|3:266|2:77|1:60|total:3440</rating_dist>
+  <desc_user_id type="integer">17290119</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.lJ1FeZIN8CA0tmbN6DevTg</work_uri>
+</work>
+  <average_rating>4.52</average_rating>
+  <num_pages><![CDATA[224]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2897]]></ratings_count>
+  <text_reviews_count><![CDATA[226]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/30613790-dan-and-phil-go-outside]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/30613790-dan-and-phil-go-outside]]></link>
+  <authors>
+<author>
+<id>13719119</id>
+<name>Dan Howell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1431802963p5/13719119.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1431802963p2/13719119.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13719119.Dan_Howell]]></link>
+<average_rating>4.48</average_rating>
+<ratings_count>20739</ratings_count>
+<text_reviews_count>1953</text_reviews_count>
+</author>
+<author>
+<id>6993359</id>
+<name>Phil Lester</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433280254p5/6993359.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433280254p2/6993359.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6993359.Phil_Lester]]></link>
+<average_rating>4.48</average_rating>
+<ratings_count>20703</ratings_count>
+<text_reviews_count>1947</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/30613790-dan-and-phil-go-outside">Dan and Phil Go Outside Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1524701459&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/30613790-dan-and-phil-go-outside?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2869"/>
+      <shelf name="currently-reading" count="117"/>
+      <shelf name="non-fiction" count="84"/>
+      <shelf name="owned" count="63"/>
+      <shelf name="favorites" count="54"/>
+      <shelf name="books-i-own" count="40"/>
+      <shelf name="nonfiction" count="21"/>
+      <shelf name="read-in-2017" count="19"/>
+      <shelf name="youtuber-books" count="19"/>
+      <shelf name="owned-books" count="19"/>
+      <shelf name="youtubers" count="19"/>
+      <shelf name="youtube" count="15"/>
+      <shelf name="humor" count="11"/>
+      <shelf name="5-stars" count="10"/>
+      <shelf name="young-adult" count="10"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="biography" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="ya" count="7"/>
+      <shelf name="read-2017" count="6"/>
+      <shelf name="i-own" count="6"/>
+      <shelf name="youtuber" count="6"/>
+      <shelf name="my-bookshelf" count="6"/>
+      <shelf name="read-in-2018" count="5"/>
+      <shelf name="2017-reads" count="5"/>
+      <shelf name="humour" count="5"/>
+      <shelf name="autobiography" count="5"/>
+      <shelf name="memoir" count="5"/>
+      <shelf name="memoirs" count="5"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="on-my-shelf" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="2017-books" count="4"/>
+      <shelf name="on-my-bookshelf" count="4"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="want-to-buy" count="4"/>
+      <shelf name="3-stars" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="autobiographies" count="3"/>
+      <shelf name="travel" count="3"/>
+      <shelf name="my-shelf" count="3"/>
+      <shelf name="biographies" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="own-physical" count="3"/>
+      <shelf name="owned-read" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="books-owned" count="3"/>
+      <shelf name="dan-and-phil" count="3"/>
+      <shelf name="5-star" count="3"/>
+      <shelf name="2016-reads" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="books-to-buy" count="3"/>
+      <shelf name="own-read" count="2"/>
+      <shelf name="read-2018" count="2"/>
+      <shelf name="all-owned" count="2"/>
+      <shelf name="owned-and-read" count="2"/>
+      <shelf name="to-be-read" count="2"/>
+      <shelf name="books-i-want" count="2"/>
+      <shelf name="ya-nonfiction" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="books-i-love" count="2"/>
+      <shelf name="stand-alone" count="2"/>
+      <shelf name="funny" count="2"/>
+      <shelf name="real-life" count="2"/>
+      <shelf name="books-of-2017" count="2"/>
+      <shelf name="physical-books-i-own" count="2"/>
+      <shelf name="yt" count="2"/>
+      <shelf name="new-books" count="2"/>
+      <shelf name="2017-read" count="2"/>
+      <shelf name="4-stars" count="2"/>
+      <shelf name="youtbers" count="2"/>
+      <shelf name="favorite" count="2"/>
+      <shelf name="male" count="2"/>
+      <shelf name="books-read-in-2017" count="2"/>
+      <shelf name="physical-tbr" count="2"/>
+      <shelf name="favorite-books" count="2"/>
+      <shelf name="2017-tbr" count="2"/>
+      <shelf name="bought" count="2"/>
+      <shelf name="want" count="2"/>
+      <shelf name="read-in-one-sitting" count="2"/>
+      <shelf name="english" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="2016-books" count="2"/>
+      <shelf name="2016-2017-school-year" count="2"/>
+      <shelf name="books-by-youtubers" count="2"/>
+      <shelf name="celebs" count="2"/>
+      <shelf name="five-stars" count="2"/>
+      <shelf name="english-books" count="2"/>
+      <shelf name="books-of-2016" count="2"/>
+      <shelf name="phan" count="2"/>
+      <shelf name="buy" count="2"/>
+      <shelf name="really-want-to-read" count="2"/>
+      <shelf name="companion-books-biographies" count="2"/>
+      <shelf name="2016-releases" count="2"/>
+      <shelf name="reread2020" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>25507925</id>
+<title>Binge</title>
+<title_without_series>Binge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25507925-binge]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438341092l/25507925._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438341092l/25507925._SX98_.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>45286444</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>8301425</id>
+<name>Tyler Oakley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8301425.Tyler_Oakley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22886112</id>
+<title><![CDATA[In Real Life: My Journey to a Pixelated World]]></title>
+<title_without_series><![CDATA[In Real Life: My Journey to a Pixelated World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22886112-in-real-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427161086l/22886112._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427161086l/22886112._SX98_.jpg]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>42455675</id>
+</work>
+<isbn>1476794308</isbn>
+<isbn13>9781476794303</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>8434125</id>
+<name>Joey Graceffa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8434125.Joey_Graceffa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25711621</id>
+<title>This Book Loves You</title>
+<title_without_series>This Book Loves You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25711621-this-book-loves-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434066025l/25711621._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434066025l/25711621._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>45544151</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>6872957</id>
+<name>PewDiePie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6872957.PewDiePie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27274328</id>
+<title><![CDATA[It Gets Worse: A Collection of Essays]]></title>
+<title_without_series><![CDATA[It Gets Worse: A Collection of Essays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27274328-it-gets-worse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466813720l/27274328._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466813720l/27274328._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>47328161</id>
+</work>
+<isbn>1501132857</isbn>
+<isbn13>9781501132858</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>5383015</id>
+<name>Shane Dawson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5383015.Shane_Dawson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22886113</id>
+<title>A Work in Progress</title>
+<title_without_series>A Work in Progress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22886113-a-work-in-progress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426466460l/22886113._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426466460l/22886113._SX98_.jpg]]></image_url>
+<num_pages>212</num_pages>
+<work>
+<id>42455676</id>
+</work>
+<isbn>1476791619</isbn>
+<isbn13>9781476791616</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>8434126</id>
+<name>Connor Franta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8434126.Connor_Franta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22886110</id>
+<title><![CDATA[I Hate Myselfie: A Collection of Essays]]></title>
+<title_without_series><![CDATA[I Hate Myselfie: A Collection of Essays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22886110-i-hate-myselfie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425975299l/22886110._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425975299l/22886110._SX98_.jpg]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>42455673</id>
+</work>
+<isbn>1476791546</isbn>
+<isbn13>9781476791548</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5383015</id>
+<name>Shane Dawson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5383015.Shane_Dawson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22752748</id>
+<title><![CDATA[Hey, Let's Make a Band!: The Official 5SOS Book]]></title>
+<title_without_series><![CDATA[Hey, Let's Make a Band!: The Official 5SOS Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22752748-hey-let-s-make-a-band]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409230881l/22752748._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409230881l/22752748._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>42299415</id>
+</work>
+<isbn>0062366467</isbn>
+<isbn13>9780062366467</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>8394685</id>
+<name>5 Seconds of Summer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8394685.5_Seconds_of_Summer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24907318</id>
+<title><![CDATA[Life with a Sprinkle of Glitter]]></title>
+<title_without_series><![CDATA[Life with a Sprinkle of Glitter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24907318-life-with-a-sprinkle-of-glitter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431568776l/24907318._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431568776l/24907318._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>44558131</id>
+</work>
+<isbn>1471149730</isbn>
+<isbn13>9781471149733</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13050708</id>
+<name>Louise Pentland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13050708.Louise_Pentland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25898265</id>
+<title>Username: Evie (Username, #1)</title>
+<title_without_series>Username: Evie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25898265-username]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437670419l/25898265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437670419l/25898265._SX98_.jpg]]></image_url>
+<num_pages>182</num_pages>
+<work>
+<id>44428503</id>
+</work>
+<isbn>0762460105</isbn>
+<isbn13>9780762460106</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>13435870</id>
+<name>Joe Sugg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13435870.Joe_Sugg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35407312</id>
+<title>Secrets for the Mad</title>
+<title_without_series>Secrets for the Mad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35407312-secrets-for-the-mad]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501298747l/35407312._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501298747l/35407312._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>56778792</id>
+</work>
+<isbn>1785036807</isbn>
+<isbn13>9781785036804</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>16953774</id>
+<name>Dodie Clark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16953774.Dodie_Clark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19546063</id>
+<title><![CDATA[The True Lives of the Fabulous Killjoys]]></title>
+<title_without_series><![CDATA[The True Lives of the Fabulous Killjoys]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19546063-the-true-lives-of-the-fabulous-killjoys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419778l/19546063._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419778l/19546063._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>27676461</id>
+</work>
+<isbn>1595824626</isbn>
+<isbn13>9781595824622</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1218557</id>
+<name>Gerard Way</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1218557.Gerard_Way]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31443393</id>
+<title>Note to Self</title>
+<title_without_series>Note to Self</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31443393-note-to-self]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489358883l/31443393._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489358883l/31443393._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>54851902</id>
+</work>
+<isbn>1501158015</isbn>
+<isbn13>9781501158018</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>8434126</id>
+<name>Connor Franta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8434126.Connor_Franta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22510983</id>
+<title>Girl Online (Girl Online, #1)</title>
+<title_without_series>Girl Online</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22510983-girl-online]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410112710l/22510983._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410112710l/22510983._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>41954714</id>
+</work>
+<isbn>0141357274</isbn>
+<isbn13>9780141357270</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>8316649</id>
+<name>Zoe Sugg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8316649.Zoe_Sugg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29430620</id>
+<title><![CDATA[Children of Eden (Children of Eden, #1)]]></title>
+<title_without_series>Children of Eden</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29430620-children-of-eden]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475461983l/29430620._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475461983l/29430620._SX98_.jpg]]></image_url>
+<num_pages>278</num_pages>
+<work>
+<id>49695209</id>
+</work>
+<isbn>1501146556</isbn>
+<isbn13>9781501146558</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>8434125</id>
+<name>Joey Graceffa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8434125.Joey_Graceffa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29890569</id>
+<title><![CDATA[Username: Regenerated (Username, #2)]]></title>
+<title_without_series>Username: Regenerated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29890569-username]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475305899l/29890569._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475305899l/29890569._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>50264115</id>
+</work>
+<isbn>0762461500</isbn>
+<isbn13>9780762461509</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13435870</id>
+<name>Joe Sugg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13435870.Joe_Sugg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24885622</id>
+<title>Selp-Helf</title>
+<title_without_series>Selp-Helf</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24885622-selp-helf]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437370132l/24885622._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437370132l/24885622._SX98_.jpg]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>44534223</id>
+</work>
+<isbn>1501117947</isbn>
+<isbn13>9781501117947</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>8048902</id>
+<name>Miranda Sings</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8048902.Miranda_Sings]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34212686</id>
+<title>Feel Good 101</title>
+<title_without_series>Feel Good 101</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34212686-feel-good-101]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497396554l/34212686._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497396554l/34212686._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>55260657</id>
+</work>
+<isbn>0751569232</isbn>
+<isbn13>9780751569230</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7710732</id>
+<name>Emma Blackery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7710732.Emma_Blackery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25434355</id>
+<title><![CDATA[The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us]]></title>
+<title_without_series><![CDATA[The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25434355-the-nerdy-nummies-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446397956l/25434355._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446397956l/25434355._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>45916626</id>
+</work>
+<isbn>1501104012</isbn>
+<isbn13>9781501104015</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>14189298</id>
+<name>Rosanna Pansino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14189298.Rosanna_Pansino]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

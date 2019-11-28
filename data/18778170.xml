@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18778170</id>
+  <title>Joss Whedon: The Biography</title>
+  <isbn><![CDATA[1613741049]]></isbn>
+  <isbn13><![CDATA[9781613741047]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400873068l/18778170._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400873068l/18778170._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Chicago Review Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From the cult favorite <i>Buffy the Vampire Slayer</i>, which netted four million viewers per episode, to the summer blockbuster <i>The Avengers</i>, which amassed a box office of $1.5 billion, Joss Whedon has made a name for himself in Hollywood for his penchant for telling meaningful, personal tales about love, death, and redemption even against the most dramatic and larger-than-life backdrops. <br /><br />This biography follows his development from a creative child and teenager who spent years away from his family at an elite English public school, through his early successes—which often turned into frustrating heartbreak in both television (<i>Roseanne</i>) and film (<i>Buffy the Vampire Slayer</i>)—to his breakout turn as the creator, writer, and director of the <i>Buffy</i> television series. <br /><br />Extensive, original interviews with Whedon’s family, friends, collaborators, and stars—and with the man himself—offer candid, behind-the-scenes accounts of the making of groundbreaking series such as <i>Buffy</i>, <i>Angel</i>, <i>Firefly</i>, and <i>Dollhouse</i>, as well as new stories about his work with Pixar writers and animators during the creation of <i>Toy Story</i>. Most importantly, however, these conversations present an intimate and revealing portrait of a man whose creativity and storytelling ability have manifested themselves in comics, online media, television, and film.]]></description>
+  <work>
+  <id type="integer">26685314</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">18778170</best_book_id>
+  <reviews_count type="integer">7518</reviews_count>
+  <ratings_sum type="integer">5642</ratings_sum>
+  <ratings_count type="integer">1439</ratings_count>
+  <text_reviews_count type="integer">229</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Joss Whedon: The Biography</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:428|4:585|3:339|2:58|1:29|total:1439</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.ibly4S9Tts8VBd-G70Q5Uw</work_uri>
+</work>
+  <average_rating>3.92</average_rating>
+  <num_pages><![CDATA[448]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1102]]></ratings_count>
+  <text_reviews_count><![CDATA[196]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18778170-joss-whedon]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18778170-joss-whedon]]></link>
+  <authors>
+<author>
+<id>7382937</id>
+<name>Amy Pascale</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415830156p5/7382937.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415830156p2/7382937.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7382937.Amy_Pascale]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<text_reviews_count>229</text_reviews_count>
+</author>
+<author>
+<id>2943102</id>
+<name>Nathan Fillion</name>
+<role>Foreword</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2943102.Nathan_Fillion]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>2353</ratings_count>
+<text_reviews_count>270</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18778170-joss-whedon">Joss Whedon Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1613741049&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18778170-joss-whedon?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5318"/>
+      <shelf name="biography" count="122"/>
+      <shelf name="non-fiction" count="122"/>
+      <shelf name="nonfiction" count="39"/>
+      <shelf name="currently-reading" count="28"/>
+      <shelf name="biographies" count="23"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="memoir" count="12"/>
+      <shelf name="owned" count="11"/>
+      <shelf name="books-i-own" count="10"/>
+      <shelf name="pop-culture" count="10"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="memoir-biography" count="8"/>
+      <shelf name="bios" count="8"/>
+      <shelf name="to-read-non-fiction" count="7"/>
+      <shelf name="memoirs" count="7"/>
+      <shelf name="television" count="7"/>
+      <shelf name="biography-memoir" count="7"/>
+      <shelf name="kindle" count="7"/>
+      <shelf name="library" count="6"/>
+      <shelf name="nonfiction-to-read" count="5"/>
+      <shelf name="adult" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="bio" count="4"/>
+      <shelf name="biography-autobiography" count="4"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="joss-whedon" count="4"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="reference" count="3"/>
+      <shelf name="memoirs-biographies" count="3"/>
+      <shelf name="read-2015" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="2015-reading-list" count="3"/>
+      <shelf name="whedonverse" count="3"/>
+      <shelf name="hollywood" count="3"/>
+      <shelf name="biography-history" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="non-fiction-to-read" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="to-read-nonfiction" count="3"/>
+      <shelf name="2014-reads" count="3"/>
+      <shelf name="netgalley" count="3"/>
+      <shelf name="04-words" count="2"/>
+      <shelf name="didn-t-finish" count="2"/>
+      <shelf name="2017-reading-challenge" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="physical-bookshelf" count="2"/>
+      <shelf name="biographies-memoirs" count="2"/>
+      <shelf name="2016-book-riot-challenge" count="2"/>
+      <shelf name="firefly" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="abandoned" count="2"/>
+      <shelf name="books-to-buy" count="2"/>
+      <shelf name="don-t-own" count="2"/>
+      <shelf name="to-borrow" count="2"/>
+      <shelf name="to-read-own" count="2"/>
+      <shelf name="started-but-didn-t-finish" count="2"/>
+      <shelf name="creativity" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="film-making" count="2"/>
+      <shelf name="contemporary" count="2"/>
+      <shelf name="geek" count="2"/>
+      <shelf name="2015-read" count="2"/>
+      <shelf name="2015-reads" count="2"/>
+      <shelf name="books" count="2"/>
+      <shelf name="true-stories" count="2"/>
+      <shelf name="gcac-15" count="2"/>
+      <shelf name="fandom" count="2"/>
+      <shelf name="memior" count="2"/>
+      <shelf name="film" count="2"/>
+      <shelf name="to-read-nonfic" count="2"/>
+      <shelf name="people" count="2"/>
+      <shelf name="personal-library" count="2"/>
+      <shelf name="library-book" count="2"/>
+      <shelf name="on-hold" count="2"/>
+      <shelf name="nf-to-read" count="2"/>
+      <shelf name="movies" count="2"/>
+      <shelf name="autobiography" count="2"/>
+      <shelf name="buffy" count="2"/>
+      <shelf name="bios-and-memoirs" count="2"/>
+      <shelf name="writing" count="2"/>
+      <shelf name="2014-books" count="2"/>
+      <shelf name="published-2014" count="2"/>
+      <shelf name="non-fic" count="2"/>
+      <shelf name="tv-related" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="to-read-biography" count="2"/>
+      <shelf name="need-to-buy" count="2"/>
+      <shelf name="not-done-yet" count="1"/>
+      <shelf name="own-books" count="1"/>
+      <shelf name="2014nonfiction-grca" count="1"/>
+      <shelf name="j" count="1"/>
+      <shelf name="bought-unread" count="1"/>
+      <shelf name="must-get-round-to-reading-soon" count="1"/>
+      <shelf name="tbr-na" count="1"/>
+      <shelf name="pop-culture-history" count="1"/>
+      <shelf name="z1-to-read-2010s" count="1"/>
+      <shelf name="to-read-long-list" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11202541</id>
+<title><![CDATA[Shatner Rules: Your Guide to Understanding the Shatnerverse and the World at Large]]></title>
+<title_without_series><![CDATA[Shatner Rules: Your Guide to Understanding the Shatnerverse and the World at Large]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11202541-shatner-rules]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>16127621</id>
+</work>
+<isbn>0525952519</isbn>
+<isbn13>9780525952510</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>43972</id>
+<name>William Shatner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43972.William_Shatner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11868932</id>
+<title><![CDATA[Agorafabulous!: Dispatches from My Bedroom]]></title>
+<title_without_series><![CDATA[Agorafabulous!: Dispatches from My Bedroom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11868932-agorafabulous]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>255</num_pages>
+<work>
+<id>16826200</id>
+</work>
+<isbn>0062024418</isbn>
+<isbn13>9780062024411</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>4992850</id>
+<name>Sara Benincasa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4992850.Sara_Benincasa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6367</id>
+<title><![CDATA[Since You're Leaving Anyway, Take Out the Trash (Domestic Equalizers #1)]]></title>
+<title_without_series><![CDATA[Since You're Leaving Anyway, Take Out the Trash]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6367.Since_You_re_Leaving_Anyway_Take_Out_the_Trash]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>9667</id>
+</work>
+<isbn>0060595361</isbn>
+<isbn13>9780060595364</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>4310</id>
+<name>Dixie Cash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4310.Dixie_Cash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23398854</id>
+<title>I Regret Nothing</title>
+<title_without_series>I Regret Nothing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23398854-i-regret-nothing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421531010l/23398854._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421531010l/23398854._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>42955375</id>
+</work>
+<isbn>0451471075</isbn>
+<isbn13>9780451471079</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14577</id>
+<name>Jen Lancaster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14577.Jen_Lancaster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>384674</id>
+<title><![CDATA[Falling in Love with Jesus: Abandoning Yourself to the Greatest Romance of Your Life]]></title>
+<title_without_series><![CDATA[Falling in Love with Jesus: Abandoning Yourself to the Greatest Romance of Your Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/384674.Falling_in_Love_with_Jesus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380856520l/384674._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380856520l/384674._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>374406</id>
+</work>
+<isbn>0849943345</isbn>
+<isbn13>9780849943348</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>27322</id>
+<name>Dee Brestin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27322.Dee_Brestin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>123288</id>
+<title><![CDATA[The Sacred Journey: A Memoir of Early Days]]></title>
+<title_without_series><![CDATA[The Sacred Journey: A Memoir of Early Days]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/123288.The_Sacred_Journey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384259212l/123288._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384259212l/123288._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>940440</id>
+</work>
+<isbn>0060611839</isbn>
+<isbn13>9780060611835</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>19982</id>
+<name>Frederick Buechner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19982.Frederick_Buechner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13151687</id>
+<title>Summer Breeze</title>
+<title_without_series>Summer Breeze</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13151687-summer-breeze]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577701l/13151687._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577701l/13151687._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>18329739</id>
+</work>
+<isbn>0345528719</isbn>
+<isbn13>9780345528711</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>37183</id>
+<name>Nancy Thayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37183.Nancy_Thayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>772770</id>
+<title>Pieces of the Heart</title>
+<title_without_series>Pieces of the Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/772770.Pieces_of_the_Heart]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>267</num_pages>
+<work>
+<id>758822</id>
+</work>
+<isbn>0451217675</isbn>
+<isbn13>9780451217677</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>160033</id>
+<name>Karen   White</name>
+<link><![CDATA[https://www.goodreads.com/author/show/160033.Karen_White]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13163846</id>
+<title>Darth Vader and Son</title>
+<title_without_series>Darth Vader and Son</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13163846-darth-vader-and-son]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392020416l/13163846._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392020416l/13163846._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>18342898</id>
+</work>
+<isbn>145210655X</isbn>
+<isbn13>9781452106557</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>45429</id>
+<name>Jeffrey Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45429.Jeffrey_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>219949</id>
+<title><![CDATA[Motivational Interviewing: Preparing People for Change]]></title>
+<title_without_series><![CDATA[Motivational Interviewing: Preparing People for Change]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/219949.Motivational_Interviewing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>428</num_pages>
+<work>
+<id>212964</id>
+</work>
+<isbn>1572305630</isbn>
+<isbn13>9781572305632</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>128663</id>
+<name>William R. Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128663.William_R_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46186</id>
+<title>Parenting With Love and Logic</title>
+<title_without_series>Parenting With Love and Logic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46186.Parenting_With_Love_and_Logic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>271</num_pages>
+<work>
+<id>134802</id>
+</work>
+<isbn>1576839540</isbn>
+<isbn13>9781576839546</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>25836</id>
+<name>Foster W. Cline</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25836.Foster_W_Cline]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23705512</id>
+<title><![CDATA[You're Never Weird on the Internet (Almost)]]></title>
+<title_without_series><![CDATA[You're Never Weird on the Internet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23705512-you-re-never-weird-on-the-internet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440565049l/23705512._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440565049l/23705512._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>43314655</id>
+</work>
+<isbn>1476785651</isbn>
+<isbn13>9781476785653</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>3440476</id>
+<name>Felicia Day</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3440476.Felicia_Day]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35082746</id>
+<title><![CDATA[Fantasy of Frost (Tainted Accords, #1)]]></title>
+<title_without_series>Fantasy of Frost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35082746-fantasy-of-frost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494420275l/35082746._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494420275l/35082746._SX98_.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>43721083</id>
+</work>
+<isbn>0648042405</isbn>
+<isbn13>9780648042402</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>11362882</id>
+<name>Kelly St. Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11362882.Kelly_St_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15757384</id>
+<title><![CDATA[I Can Barely Take Care of Myself: Tales From a Happy Life Without Kids]]></title>
+<title_without_series><![CDATA[I Can Barely Take Care of Myself: Tales From a Happy Life Without Kids]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15757384-i-can-barely-take-care-of-myself]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342583146l/15757384._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342583146l/15757384._SX98_.jpg]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>21455621</id>
+</work>
+<isbn>1451667000</isbn>
+<isbn13>9781451667004</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6444327</id>
+<name>Jen Kirkman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6444327.Jen_Kirkman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10360518</id>
+<title><![CDATA[Death of the Doctor (Sarah Jane Adventures)]]></title>
+<title_without_series>Death of the Doctor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10360518-death-of-the-doctor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296530850l/10360518._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296530850l/10360518._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15263526</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>60</id>
+<name>Gary Russell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60.Gary_Russell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23311275</id>
+<title><![CDATA[Doctor Who: The English Way of Death]]></title>
+<title_without_series><![CDATA[Doctor Who: The English Way of Death]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23311275-doctor-who]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412558402l/23311275._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412558402l/23311275._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42865274</id>
+</work>
+<isbn>1781783438</isbn>
+<isbn13>9781781783436</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>1140010</id>
+<name>John Dorney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1140010.John_Dorney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10604070</id>
+<title>The Nightmare Man</title>
+<title_without_series>The Nightmare Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10604070-the-nightmare-man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15511924</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>363121</id>
+<name>Joseph Lidster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/363121.Joseph_Lidster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36436059</id>
+<title><![CDATA[Why I Am Not Going to Buy a Computer]]></title>
+<title_without_series><![CDATA[Why I Am Not Going to Buy a Computer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36436059-why-i-am-not-going-to-buy-a-computer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519227247l/36436059._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519227247l/36436059._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>58136644</id>
+</work>
+<isbn>0241337569</isbn>
+<isbn13>9780241337561</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1439</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>8567</id>
+<name>Wendell Berry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8567.Wendell_Berry]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

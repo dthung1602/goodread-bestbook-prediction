@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20590683</id>
+  <title><![CDATA[Life from Scratch: A Memoir of Food, Family, and Forgiveness]]></title>
+  <isbn><![CDATA[1426213743]]></isbn>
+  <isbn13><![CDATA[9781426213748]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415586266l/20590683._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415586266l/20590683._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>National Geographic</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Witty, warm, and poignant, food blogger Sasha Martin's memoir about cooking her way to happiness and self-acceptance is a culinary journey like no other.<br />  <br /> Over the course of 195 weeks, food writer and blogger Sasha Martin set out to cook—and eat—a meal from every country in the world. As cooking unlocked the memories of her rough-and-tumble childhood and the loss and heartbreak that came with it, Martin became more determined than ever to find peace and elevate her life through the prism of food and world cultures. From the tiny, makeshift kitchen of her eccentric, creative mother, to a string of foster homes, to the house from which she launched her own cooking adventure, Martin's heartfelt, brutally honest memoir reveals the power of cooking to bond, to empower, and to heal—and celebrates the simple truth that happiness is created from within.<br /><br /><br />"This beautifully written book is both poignant and uplifting. Not to mention delicious. It's an amazing family tale that reminds me of <i>The Glass Castle</i>, but with more food. And not just any food: We're talking cinnamon raisin pizza." —A.J. Jacobs, author of <i>The Year of Living Biblically</i><br /><br /> "<i>Life From Scratch</i> is an unconventional love story. This beautiful book begins with the quest of cooking a meal from every country—a noble feat of it's own!—but then turns it into something far beyond a kitchen adventure. Be prepared to be changed as you experience Sasha's journey for yourself." —Chris Guillebeau, author of <i>The Happiness Pursuit</i>]]></description>
+  <work>
+  <id type="integer">41075402</id>
+  <books_count type="integer">12</books_count>
+  <best_book_id type="integer">40940144</best_book_id>
+  <reviews_count type="integer">15350</reviews_count>
+  <ratings_sum type="integer">13328</ratings_sum>
+  <ratings_count type="integer">3507</ratings_count>
+  <text_reviews_count type="integer">452</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Life from Scratch: A Memoir of Food, Family, and Forgiveness</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:859|4:1420|3:969|2:187|1:72|total:3507</rating_dist>
+  <desc_user_id type="integer">63506028</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.L05dMViyi_K3wssYyPj5eA</work_uri>
+</work>
+  <average_rating>3.80</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2877]]></ratings_count>
+  <text_reviews_count><![CDATA[396]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20590683-life-from-scratch]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20590683-life-from-scratch]]></link>
+  <authors>
+<author>
+<id>7781556</id>
+<name>Sasha Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1412902521p5/7781556.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1412902521p2/7781556.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7781556.Sasha_Martin]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>3515</ratings_count>
+<text_reviews_count>452</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20590683-life-from-scratch">Life from Scratch Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1426213743&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20590683-life-from-scratch?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11127"/>
+      <shelf name="currently-reading" count="150"/>
+      <shelf name="memoir" count="119"/>
+      <shelf name="non-fiction" count="106"/>
+      <shelf name="food" count="98"/>
+      <shelf name="nonfiction" count="86"/>
+      <shelf name="cookbooks" count="30"/>
+      <shelf name="memoirs" count="30"/>
+      <shelf name="cooking" count="30"/>
+      <shelf name="biography-memoir" count="26"/>
+      <shelf name="book-club" count="20"/>
+      <shelf name="biography" count="20"/>
+      <shelf name="foodie" count="15"/>
+      <shelf name="food-cooking" count="13"/>
+      <shelf name="read-in-2015" count="12"/>
+      <shelf name="food-writing" count="11"/>
+      <shelf name="memoir-biography" count="11"/>
+      <shelf name="kindle" count="10"/>
+      <shelf name="read-2015" count="10"/>
+      <shelf name="travel" count="10"/>
+      <shelf name="autobiography" count="10"/>
+      <shelf name="favorites" count="9"/>
+      <shelf name="cookbook" count="9"/>
+      <shelf name="audiobook" count="9"/>
+      <shelf name="food-and-drink" count="9"/>
+      <shelf name="adult" count="9"/>
+      <shelf name="first-reads" count="9"/>
+      <shelf name="wish-list" count="9"/>
+      <shelf name="food-books" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="audiobooks" count="6"/>
+      <shelf name="memoirs-biographies" count="6"/>
+      <shelf name="food-and-cooking" count="6"/>
+      <shelf name="biographies" count="6"/>
+      <shelf name="adult-non-fiction" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="to-read-nonfiction" count="6"/>
+      <shelf name="to-read-non-fiction" count="6"/>
+      <shelf name="culinary" count="6"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="food-memoirs" count="5"/>
+      <shelf name="family" count="5"/>
+      <shelf name="foodie-books" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="memoir-autobiography" count="5"/>
+      <shelf name="inspirational" count="5"/>
+      <shelf name="memoirs-biography" count="5"/>
+      <shelf name="2016-read" count="4"/>
+      <shelf name="2016-read-harder-challenge" count="4"/>
+      <shelf name="cooking-and-food" count="4"/>
+      <shelf name="cooking-food" count="4"/>
+      <shelf name="memoir-and-biography" count="4"/>
+      <shelf name="biographies-memoirs" count="4"/>
+      <shelf name="memoir-bio" count="4"/>
+      <shelf name="bio-memoir" count="4"/>
+      <shelf name="recipes" count="4"/>
+      <shelf name="cook-books" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="bios-memoirs" count="4"/>
+      <shelf name="abandoned" count="4"/>
+      <shelf name="tbr-nonfiction" count="4"/>
+      <shelf name="chick-lit" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="read-in-2018" count="3"/>
+      <shelf name="2017-reads" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="food-drink" count="3"/>
+      <shelf name="about-food" count="3"/>
+      <shelf name="didn-t-finish" count="3"/>
+      <shelf name="2016-read-harder" count="3"/>
+      <shelf name="read-harder-2016" count="3"/>
+      <shelf name="2016-reading-challenge" count="3"/>
+      <shelf name="audio" count="3"/>
+      <shelf name="food-glorious-food" count="3"/>
+      <shelf name="biographical" count="3"/>
+      <shelf name="biography-and-memoir" count="3"/>
+      <shelf name="2015-reads" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="cookery" count="3"/>
+      <shelf name="food-related" count="3"/>
+      <shelf name="autobiography-memoir" count="3"/>
+      <shelf name="giveaways" count="3"/>
+      <shelf name="biography-memoirs" count="3"/>
+      <shelf name="recommended" count="3"/>
+      <shelf name="m-author" count="2"/>
+      <shelf name="scribd" count="2"/>
+      <shelf name="our-library" count="2"/>
+      <shelf name="hoopla" count="2"/>
+      <shelf name="read-2018" count="2"/>
+      <shelf name="book-club-books" count="2"/>
+      <shelf name="kindle-books" count="2"/>
+      <shelf name="to-read-library" count="2"/>
+      <shelf name="food-nutrition" count="2"/>
+      <shelf name="cook-the-books" count="2"/>
+      <shelf name="2017-list" count="2"/>
+      <shelf name="my-library" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>42202117</id>
+<title><![CDATA[From Scratch: A Memoir of Love, Sicily, and Finding Home]]></title>
+<title_without_series><![CDATA[From Scratch: A Memoir of Love, Sicily, and Finding Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42202117-from-scratch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556725262l/42202117._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556725262l/42202117._SX98_.jpg]]></image_url>
+<num_pages>339</num_pages>
+<work>
+<id>65814590</id>
+</work>
+<isbn>1501187651</isbn>
+<isbn13>9781501187650</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>18498709</id>
+<name>Tembi Locke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18498709.Tembi_Locke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6972425</id>
+<title><![CDATA[Kitchen Chinese: A Novel About Food, Family, and Finding Yourself]]></title>
+<title_without_series><![CDATA[Kitchen Chinese: A Novel About Food, Family, and Finding Yourself]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6972425-kitchen-chinese]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258309191l/6972425._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258309191l/6972425._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>7212427</id>
+</work>
+<isbn>0061771279</isbn>
+<isbn13>9780061771279</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>609900</id>
+<name>Ann Mah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/609900.Ann_Mah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18693752</id>
+<title><![CDATA[Burnt Toast Makes You Sing Good: A Memoir of Food and Love from an American Midwest Family]]></title>
+<title_without_series><![CDATA[Burnt Toast Makes You Sing Good: A Memoir of Food and Love from an American Midwest Family]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18693752-burnt-toast-makes-you-sing-good]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389590284l/18693752._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389590284l/18693752._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>26542298</id>
+</work>
+<isbn>067001544X</isbn>
+<isbn13>9780670015443</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>453438</id>
+<name>Kathleen Flinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/453438.Kathleen_Flinn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23281896</id>
+<title><![CDATA[Stir: My Broken Brain and the Meals That Brought Me Home]]></title>
+<title_without_series><![CDATA[Stir: My Broken Brain and the Meals That Brought Me Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23281896-stir]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430944131l/23281896._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430944131l/23281896._SX98_.jpg]]></image_url>
+<num_pages>271</num_pages>
+<work>
+<id>42819802</id>
+</work>
+<isbn>1594631328</isbn>
+<isbn13>9781594631320</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>8623116</id>
+<name>Jessica Fechtor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8623116.Jessica_Fechtor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7841677</id>
+<title><![CDATA[The Dirty Life: On Farming, Food, and Love]]></title>
+<title_without_series><![CDATA[The Dirty Life: On Farming, Food, and Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7841677-the-dirty-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277929135l/7841677._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277929135l/7841677._SX98_.jpg]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>10935145</id>
+</work>
+<isbn>1416551603</isbn>
+<isbn13>9781416551607</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>106637</id>
+<name>Kristin Kimball</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106637.Kristin_Kimball]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>822200</id>
+<title><![CDATA[The Society of S (Ethical Vampire, #1)]]></title>
+<title_without_series>The Society of S</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/822200.The_Society_of_S]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337157283l/822200._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337157283l/822200._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1032141</id>
+</work>
+<isbn>1416534571</isbn>
+<isbn13>9781416534570</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>242473</id>
+<name>Susan Hubbard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/242473.Susan_Hubbard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10381725</id>
+<title><![CDATA[The Nature Principle: Human Restoration and the End of Nature-Deficit Disorder]]></title>
+<title_without_series><![CDATA[The Nature Principle: Human Restoration and the End of Nature-Deficit Disorder]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10381725-the-nature-principle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300196481l/10381725._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1300196481l/10381725._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>15285270</id>
+</work>
+<isbn>1565125819</isbn>
+<isbn13>9781565125810</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>90594</id>
+<name>Richard Louv</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90594.Richard_Louv]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>485889</id>
+<title><![CDATA[The Triangle Shirtwaist Factory Fire]]></title>
+<title_without_series><![CDATA[The Triangle Shirtwaist Factory Fire]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/485889.The_Triangle_Shirtwaist_Factory_Fire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>474177</id>
+</work>
+<isbn>1597163597</isbn>
+<isbn13>9781597163590</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7545</id>
+<name>Jacqueline Dembar Greene</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7545.Jacqueline_Dembar_Greene]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17156571</id>
+<title>Unorthodox Debra Fieldsman</title>
+<title_without_series>Unorthodox Debra Fieldsman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17156571-unorthodox-debra-fieldsman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>23578718</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>261260</id>
+<name>Debra Feldman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/261260.Debra_Feldman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17859577</id>
+<title><![CDATA[Elementary: All-New Tales of the Elemental Masters (Elemental Masters)]]></title>
+<title_without_series><![CDATA[Elementary: All-New Tales of the Elemental Masters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17859577-elementary]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>42755438</id>
+</work>
+<isbn>0756409594</isbn>
+<isbn13>9780756409593</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8685</id>
+<name>Mercedes Lackey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8685.Mercedes_Lackey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23492783</id>
+<title><![CDATA[The Comfort Food Diaries: My Quest for the Perfect Dish to Mend a Broken Heart]]></title>
+<title_without_series><![CDATA[The Comfort Food Diaries: My Quest for the Perfect Dish to Mend a Broken Heart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23492783-the-comfort-food-diaries]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484241916l/23492783._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484241916l/23492783._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>43082934</id>
+</work>
+<isbn>1451674201</isbn>
+<isbn13>9781451674200</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>9824971</id>
+<name>Emily Nunn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9824971.Emily_Nunn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46147972</id>
+<title><![CDATA[Angel in the Rubble: The Miraculous Rescue of 9/11's Last Survivor]]></title>
+<title_without_series><![CDATA[Angel in the Rubble: The Miraculous Rescue of 9/11's Last Survivor]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46147972-angel-in-the-rubble]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71098717</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4948071</id>
+<name>Genelle Guzmán-McMillan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4948071.Genelle_Guzm_n_McMillan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44908411</id>
+<title><![CDATA[Before and After: The Incredible Real-Life Stories of Orphans Who Survived the Tennessee Children's Home Society]]></title>
+<title_without_series><![CDATA[Before and After: The Incredible Real-Life Stories of Orphans Who Survived the Tennessee Children's Home Society]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44908411-before-and-after]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563756285l/44908411._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563756285l/44908411._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>69575132</id>
+</work>
+<isbn>0593130146</isbn>
+<isbn13>9780593130148</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>2930346</id>
+<name>Judy Christie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2930346.Judy_Christie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11072732</id>
+<title>Unicorn Being a Jerk</title>
+<title_without_series>Unicorn Being a Jerk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11072732-unicorn-being-a-jerk]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>15994094</id>
+</work>
+<isbn>0062070215</isbn>
+<isbn13>9780062070210</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4781467</id>
+<name>C.W. Moss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4781467.C_W_Moss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40235423</id>
+<title><![CDATA[Pie Hard (Pie Town Mystery #3)]]></title>
+<title_without_series>Pie Hard</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40235423-pie-hard]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532383364l/40235423._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532383364l/40235423._SY160_.jpg]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>62498132</id>
+</work>
+<isbn>1496708989</isbn>
+<isbn13>9781496708984</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>5346143</id>
+<name>Kirsten Weiss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5346143.Kirsten_Weiss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13069213</id>
+<title>Yes, Chef</title>
+<title_without_series>Yes, Chef</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13069213-yes-chef]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329368167l/13069213._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329368167l/13069213._SX98_.jpg]]></image_url>
+<num_pages>319</num_pages>
+<work>
+<id>18329805</id>
+</work>
+<isbn>0385342608</isbn>
+<isbn13>9780385342605</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>200142</id>
+<name>Marcus Samuelsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/200142.Marcus_Samuelsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34558407</id>
+<title><![CDATA[Honey-Baked Homicide (Down South Café Mystery #3)]]></title>
+<title_without_series>Honey-Baked Homicide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34558407-honey-baked-homicide]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490717862l/34558407._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490717862l/34558407._SX98_.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>55701173</id>
+</work>
+<isbn>1101990821</isbn>
+<isbn13>9781101990827</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14432470</id>
+<name>Gayle Leeson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14432470.Gayle_Leeson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>65059</id>
+<title><![CDATA[Dog Days: Dispatches from Bedlam Farm]]></title>
+<title_without_series><![CDATA[Dog Days: Dispatches from Bedlam Farm]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/65059.Dog_Days]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>1966354</id>
+</work>
+<isbn>140006404X</isbn>
+<isbn13>9781400064045</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>36719</id>
+<name>Jon Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36719.Jon_Katz]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

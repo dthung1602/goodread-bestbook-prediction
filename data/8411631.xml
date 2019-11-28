@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8411631</id>
+  <title><![CDATA[Won-Ton: A Cat Tale Told in Haiku]]></title>
+  <isbn><![CDATA[0805089950]]></isbn>
+  <isbn13><![CDATA[9780805089950]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Holt, Henry &amp; Company, Inc.</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Nice place they got here. </i><br /><i>Bed. Bowl. Blankie. Just like home! </i><br /><i>Or so I've been told. </i><br /><i></i> <br /><i>Visiting hours! </i><br /><i>Yawn. I pretend not to care. </i><br /><i>Yet -- I sneak a peek. </i><br /> <br />So begins this beguiling tale of a wary shelter cat and the boy who takes him home.<br /><br />Sometimes funny, sometimes touching, this adoption story, told entirely in haiku, is unforgettable.]]></description>
+  <work>
+  <id type="integer">13273083</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">8411631</best_book_id>
+  <reviews_count type="integer">3626</reviews_count>
+  <ratings_sum type="integer">8532</ratings_sum>
+  <ratings_count type="integer">2100</ratings_count>
+  <text_reviews_count type="integer">351</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>Won-Ton: A Cat Tale Told in Haiku</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:892|4:648|3:401|2:118|1:41|total:2100</rating_dist>
+  <desc_user_id type="integer">2121940</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.hpaQ-hMKCamMDwn8gcWoSQ</work_uri>
+</work>
+  <average_rating>4.06</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2099]]></ratings_count>
+  <text_reviews_count><![CDATA[351]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8411631-won-ton]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8411631-won-ton]]></link>
+  <authors>
+<author>
+<id>37718</id>
+<name>Lee Wardlaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1358877169p5/37718.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1358877169p2/37718.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/37718.Lee_Wardlaw]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>4810</ratings_count>
+<text_reviews_count>730</text_reviews_count>
+</author>
+<author>
+<id>1119381</id>
+<name>Eugene Yelchin</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309077954p5/1119381.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309077954p2/1119381.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1119381.Eugene_Yelchin]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>17943</ratings_count>
+<text_reviews_count>3241</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8411631-won-ton">Won-Ton Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0805089950&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/8411631-won-ton?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1274"/>
+      <shelf name="poetry" count="303"/>
+      <shelf name="picture-books" count="219"/>
+      <shelf name="picture-book" count="64"/>
+      <shelf name="cats" count="58"/>
+      <shelf name="childrens" count="51"/>
+      <shelf name="animals" count="37"/>
+      <shelf name="children-s-books" count="31"/>
+      <shelf name="children" count="28"/>
+      <shelf name="children-s" count="25"/>
+      <shelf name="kids" count="19"/>
+      <shelf name="fiction" count="16"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="exploring-assignment" count="13"/>
+      <shelf name="haiku" count="13"/>
+      <shelf name="pets" count="12"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="exploring-poetry" count="10"/>
+      <shelf name="picturebooks" count="10"/>
+      <shelf name="kids-books" count="9"/>
+      <shelf name="picture" count="7"/>
+      <shelf name="currently-reading" count="7"/>
+      <shelf name="children-s-lit" count="7"/>
+      <shelf name="juvenile" count="7"/>
+      <shelf name="library" count="7"/>
+      <shelf name="storytime" count="7"/>
+      <shelf name="poetry-5" count="6"/>
+      <shelf name="read-in-2013" count="6"/>
+      <shelf name="humor" count="6"/>
+      <shelf name="friendship" count="6"/>
+      <shelf name="childrens-picture-books" count="6"/>
+      <shelf name="cat" count="5"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="childrens-poetry" count="5"/>
+      <shelf name="06-poetry" count="4"/>
+      <shelf name="children-s-literature" count="4"/>
+      <shelf name="poems" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="mentor-texts" count="4"/>
+      <shelf name="children-s-poetry" count="4"/>
+      <shelf name="preschool" count="4"/>
+      <shelf name="libs-642-book-record" count="3"/>
+      <shelf name="potential-reading-log" count="3"/>
+      <shelf name="childrens-fiction" count="3"/>
+      <shelf name="project-1" count="3"/>
+      <shelf name="edrd-314" count="3"/>
+      <shelf name="sequoyah-2014" count="3"/>
+      <shelf name="multicultural" count="3"/>
+      <shelf name="jp" count="3"/>
+      <shelf name="childrens-literature" count="3"/>
+      <shelf name="read-alouds" count="3"/>
+      <shelf name="read-in-2012" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="2011-picture-books" count="3"/>
+      <shelf name="animal" count="3"/>
+      <shelf name="read-in-2011" count="3"/>
+      <shelf name="childrens-lit" count="3"/>
+      <shelf name="cats-and-dogs" count="3"/>
+      <shelf name="children-s-picture-books" count="3"/>
+      <shelf name="kids-books-to-read" count="3"/>
+      <shelf name="picture-poetry" count="2"/>
+      <shelf name="read-2012" count="2"/>
+      <shelf name="2017-2018" count="2"/>
+      <shelf name="emergent-picture-books" count="2"/>
+      <shelf name="pb-poetry" count="2"/>
+      <shelf name="children-poetry" count="2"/>
+      <shelf name="youth" count="2"/>
+      <shelf name="for-kids" count="2"/>
+      <shelf name="2016-reads" count="2"/>
+      <shelf name="need" count="2"/>
+      <shelf name="book" count="2"/>
+      <shelf name="nerdy-book-club" count="2"/>
+      <shelf name="lee-bennett-hopkins-poetry-award" count="2"/>
+      <shelf name="read-in-2015" count="2"/>
+      <shelf name="1st-grade" count="2"/>
+      <shelf name="child-picture-book" count="2"/>
+      <shelf name="ed-689" count="2"/>
+      <shelf name="good-books-for-little-kids" count="2"/>
+      <shelf name="kid-books" count="2"/>
+      <shelf name="libs-642" count="2"/>
+      <shelf name="primary" count="2"/>
+      <shelf name="author-w" count="2"/>
+      <shelf name="beehives" count="2"/>
+      <shelf name="juvenile-non-fiction" count="2"/>
+      <shelf name="5-stars" count="2"/>
+      <shelf name="ricba2013" count="2"/>
+      <shelf name="nccba" count="2"/>
+      <shelf name="read-2013" count="2"/>
+      <shelf name="kid-lit" count="2"/>
+      <shelf name="cat-books" count="2"/>
+      <shelf name="family" count="2"/>
+      <shelf name="sequoyah-2013" count="2"/>
+      <shelf name="goodreads-author" count="2"/>
+      <shelf name="read-with-kids" count="2"/>
+      <shelf name="poetry-for-children" count="2"/>
+      <shelf name="picture-books-read" count="2"/>
+      <shelf name="verse-novels" count="2"/>
+      <shelf name="verse" count="2"/>
+      <shelf name="kindergarten" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>868505</id>
+<user_position></user_position>
+<series>
+<id>171504</id>
+<title>
+<![CDATA[
+    Won Ton
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>33377347</id>
+<title><![CDATA[The Girl Who Thought in Pictures: The Story of Dr. Temple Grandin]]></title>
+<title_without_series><![CDATA[The Girl Who Thought in Pictures: The Story of Dr. Temple Grandin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33377347-the-girl-who-thought-in-pictures]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485521272l/33377347._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485521272l/33377347._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54118629</id>
+</work>
+<isbn>1943147302</isbn>
+<isbn13>9781943147304</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>16188634</id>
+<name>Julia Finley Mosca</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16188634.Julia_Finley_Mosca]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34791187</id>
+<title>The Remember Balloons</title>
+<title_without_series>The Remember Balloons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34791187-the-remember-balloons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518200231l/34791187._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518200231l/34791187._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>55989339</id>
+</work>
+<isbn>1481489151</isbn>
+<isbn13>9781481489157</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>16668058</id>
+<name>Jessie Oliveros</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16668058.Jessie_Oliveros]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26158605</id>
+<title>Big Cat, Little Cat</title>
+<title_without_series>Big Cat, Little Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26158605-big-cat-little-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464242884l/26158605._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464242884l/26158605._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>46116141</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>130538</id>
+<name>Elisha Cooper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/130538.Elisha_Cooper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18166919</id>
+<title><![CDATA[Firefly July: A Year of Very Short Poems]]></title>
+<title_without_series><![CDATA[Firefly July: A Year of Very Short Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18166919-firefly-july]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384015361l/18166919._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384015361l/18166919._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>25533118</id>
+</work>
+<isbn>0763648426</isbn>
+<isbn13>9780763648428</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>121117</id>
+<name>Paul B. Janeczko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/121117.Paul_B_Janeczko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1660305</id>
+<title>Just a Minute!</title>
+<title_without_series>Just a Minute!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1660305.Just_a_Minute_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1655068</id>
+</work>
+<isbn>0811837580</isbn>
+<isbn13>9780811837583</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20518948</id>
+<title>Viva Frida</title>
+<title_without_series>Viva Frida</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20518948-viva-frida]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481014347l/20518948._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481014347l/20518948._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>36426085</id>
+</work>
+<isbn>1596436034</isbn>
+<isbn13>9781596436039</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23310669</id>
+<title>Giant Squid</title>
+<title_without_series>Giant Squid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23310669-giant-squid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448829666l/23310669._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448829666l/23310669._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42864795</id>
+</work>
+<isbn>1596435992</isbn>
+<isbn13>9781596435995</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>46273</id>
+<name>Candace Fleming</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46273.Candace_Fleming]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5408376</id>
+<title><![CDATA[Moonshot: The Flight of Apollo 11]]></title>
+<title_without_series><![CDATA[Moonshot: The Flight of Apollo 11]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5408376-moonshot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273844738l/5408376._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273844738l/5408376._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>5475916</id>
+</work>
+<isbn>141695046X</isbn>
+<isbn13>9781416950462</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>584482</id>
+<name>Brian Floca</name>
+<link><![CDATA[https://www.goodreads.com/author/show/584482.Brian_Floca]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18295821</id>
+<title><![CDATA[The Adventures of Beekle: The Unimaginary Friend]]></title>
+<title_without_series><![CDATA[The Adventures of Beekle: The Unimaginary Friend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18295821-the-adventures-of-beekle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25778595</id>
+</work>
+<isbn>0316199982</isbn>
+<isbn13>9780316199988</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39651067</id>
+<title>Dreamers</title>
+<title_without_series>Dreamers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39651067-dreamers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523445744l/39651067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523445744l/39651067._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>61220853</id>
+</work>
+<isbn>0823440559</isbn>
+<isbn13>9780823440559</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40796177</id>
+<title>The Undefeated</title>
+<title_without_series>The Undefeated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40796177-the-undefeated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537505970l/40796177._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537505970l/40796177._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>63521865</id>
+</work>
+<isbn>1328780961</isbn>
+<isbn13>9781328780966</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32333310</id>
+<title><![CDATA[The World Is Not a Rectangle: A Portrait of Architect Zaha Hadid]]></title>
+<title_without_series><![CDATA[The World Is Not a Rectangle: A Portrait of Architect Zaha Hadid]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32333310-the-world-is-not-a-rectangle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491126187l/32333310._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491126187l/32333310._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>52969536</id>
+</work>
+<isbn>148144669X</isbn>
+<isbn13>9781481446693</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>64206</id>
+<name>Jeanette Winter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64206.Jeanette_Winter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32510367</id>
+<title>Let the Children March</title>
+<title_without_series>Let the Children March</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32510367-let-the-children-march]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501811392l/32510367._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501811392l/32510367._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>53107969</id>
+</work>
+<isbn>0544704525</isbn>
+<isbn13>9780544704527</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>12010079</id>
+<name>Monica Clark-Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12010079.Monica_Clark_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8726737</id>
+<title>Cat Secrets</title>
+<title_without_series>Cat Secrets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8726737-cat-secrets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282256464l/8726737._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282256464l/8726737._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>13599711</id>
+</work>
+<isbn>0061920886</isbn>
+<isbn13>9780061920882</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>485393</id>
+<name>Jef Czekaj</name>
+<link><![CDATA[https://www.goodreads.com/author/show/485393.Jef_Czekaj]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6989916</id>
+<title>My Brother Charlie</title>
+<title_without_series>My Brother Charlie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6989916-my-brother-charlie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328838870l/6989916._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328838870l/6989916._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>7232271</id>
+</work>
+<isbn>0545094666</isbn>
+<isbn13>9780545094665</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>90982</id>
+<name>Holly Robinson Peete</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90982.Holly_Robinson_Peete]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12576704</id>
+<title>Z Is for Moose</title>
+<title_without_series>Z Is for Moose</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12576704-z-is-for-moose]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>17587424</id>
+</work>
+<isbn>0060799846</isbn>
+<isbn13>9780060799847</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>333002</id>
+<name>Kelly Bingham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/333002.Kelly_Bingham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33110891</id>
+<title>Carmela Full of Wishes</title>
+<title_without_series>Carmela Full of Wishes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33110891-carmela-full-of-wishes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516128841l/33110891._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516128841l/33110891._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>53775056</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2100</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

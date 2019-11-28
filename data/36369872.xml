@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36369872</id>
+  <title><![CDATA[House of Dreams: The Life of L. M. Montgomery]]></title>
+  <isbn><![CDATA[0763660574]]></isbn>
+  <isbn13><![CDATA[9780763660574]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518623634l/36369872._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518623634l/36369872._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Candlewick Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[An affecting biography of the author of Anne of Green Gables is the first for young readers to include revelations about her last days and to encompass the complexity of a brilliant and sometimes troubled life.<br /><br />Once upon a time, there was a girl named Maud who adored stories. When she was fourteen years old, Maud wrote in her journal, "I love books. I hope when I grow up to be able to have lots of them." Not only did Maud grow up to own lots of books, she wrote twenty-four of them herself as L. M. Montgomery, the world-renowned author of Anne of Green Gables. For many years, not a great deal was known about Maud’s personal life. Her childhood was spent with strict, undemonstrative grandparents, and her reflections on writing, her lifelong struggles with anxiety and depression, her "year of mad passion," and her difficult married life remained locked away, buried deep within her unpublished personal journals. Through this revealing and deeply moving biography, kindred spirits of all ages who, like Maud, never gave up "the substance of things hoped for" will be captivated anew by the words of this remarkable woman.]]></description>
+  <work>
+  <id type="integer">58055901</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">36369872</best_book_id>
+  <reviews_count type="integer">17995</reviews_count>
+  <ratings_sum type="integer">4993</ratings_sum>
+  <ratings_count type="integer">1236</ratings_count>
+  <text_reviews_count type="integer">308</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">12</original_publication_day>
+  <original_title>House of Dreams: The Life of L. M. Montgomery</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:375|4:574|3:252|2:31|1:4|total:1236</rating_dist>
+  <desc_user_id type="integer">2665705</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.d0sQ5MwxQY8Fxm1y7poEIw</work_uri>
+</work>
+  <average_rating>4.04</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1170]]></ratings_count>
+  <text_reviews_count><![CDATA[299]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36369872-house-of-dreams]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36369872-house-of-dreams]]></link>
+  <authors>
+<author>
+<id>45000</id>
+<name>Liz Rosenberg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364473520p5/45000.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364473520p2/45000.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/45000.Liz_Rosenberg]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>11228</ratings_count>
+<text_reviews_count>1545</text_reviews_count>
+</author>
+<author>
+<id>1122929</id>
+<name>Julie Morstad</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521135887p5/1122929.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521135887p2/1122929.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1122929.Julie_Morstad]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>10085</ratings_count>
+<text_reviews_count>2302</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36369872-house-of-dreams">House of Dreams Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0763660574&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36369872-house-of-dreams?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="16316"/>
+      <shelf name="non-fiction" count="178"/>
+      <shelf name="biography" count="148"/>
+      <shelf name="nonfiction" count="88"/>
+      <shelf name="currently-reading" count="82"/>
+      <shelf name="biographies" count="33"/>
+      <shelf name="biography-memoir" count="32"/>
+      <shelf name="history" count="26"/>
+      <shelf name="young-adult" count="26"/>
+      <shelf name="middle-grade" count="19"/>
+      <shelf name="memoir" count="17"/>
+      <shelf name="ya" count="16"/>
+      <shelf name="to-buy" count="15"/>
+      <shelf name="favorites" count="13"/>
+      <shelf name="library" count="13"/>
+      <shelf name="historical" count="12"/>
+      <shelf name="childrens" count="12"/>
+      <shelf name="books-about-books" count="11"/>
+      <shelf name="memoirs" count="10"/>
+      <shelf name="canada" count="10"/>
+      <shelf name="memoir-biography" count="9"/>
+      <shelf name="wish-list" count="9"/>
+      <shelf name="read-in-2018" count="8"/>
+      <shelf name="netgalley" count="8"/>
+      <shelf name="read-in-2019" count="7"/>
+      <shelf name="2018-releases" count="7"/>
+      <shelf name="2019-reads" count="6"/>
+      <shelf name="books-to-buy" count="6"/>
+      <shelf name="canadian" count="6"/>
+      <shelf name="biographies-memoirs" count="6"/>
+      <shelf name="women" count="6"/>
+      <shelf name="read-2018" count="6"/>
+      <shelf name="bio" count="6"/>
+      <shelf name="children" count="6"/>
+      <shelf name="writing" count="6"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="to-read-nonfiction" count="5"/>
+      <shelf name="teen" count="5"/>
+      <shelf name="non-fic" count="5"/>
+      <shelf name="books-read-in-2019" count="4"/>
+      <shelf name="women-authors" count="4"/>
+      <shelf name="nonfiction-to-read" count="4"/>
+      <shelf name="non-fiction-to-read" count="4"/>
+      <shelf name="biography-memoirs" count="4"/>
+      <shelf name="2018-release" count="4"/>
+      <shelf name="2018-reads" count="4"/>
+      <shelf name="ya-nonfiction" count="4"/>
+      <shelf name="classics" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="adult-non-fiction" count="4"/>
+      <shelf name="historical-fiction" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="writers" count="4"/>
+      <shelf name="to-read-non-fiction" count="4"/>
+      <shelf name="maybe" count="4"/>
+      <shelf name="literature" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="nonfiction-tbr" count="4"/>
+      <shelf name="audiobook" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="books-read-2019" count="3"/>
+      <shelf name="tbr-non-fiction" count="3"/>
+      <shelf name="2019-books" count="3"/>
+      <shelf name="2019-reading-challenge" count="3"/>
+      <shelf name="fiction" count="3"/>
+      <shelf name="want" count="3"/>
+      <shelf name="children-s" count="3"/>
+      <shelf name="l-m-montgomery" count="3"/>
+      <shelf name="bios-memoirs" count="3"/>
+      <shelf name="biography-autobiography" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="wtr-non-fiction" count="3"/>
+      <shelf name="kids" count="3"/>
+      <shelf name="nonfic" count="3"/>
+      <shelf name="bio-memoir" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="memoirs-biographies" count="3"/>
+      <shelf name="children-s-lit" count="3"/>
+      <shelf name="to-read-biography" count="3"/>
+      <shelf name="anne-of-green-gables" count="3"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="us" count="2"/>
+      <shelf name="read-next" count="2"/>
+      <shelf name="audio-book" count="2"/>
+      <shelf name="beautiful-covers" count="2"/>
+      <shelf name="young-adult-teen" count="2"/>
+      <shelf name="audio" count="2"/>
+      <shelf name="memoir-bio" count="2"/>
+      <shelf name="tbr-middle-grade" count="2"/>
+      <shelf name="available-at-the-library" count="2"/>
+      <shelf name="owned-tbr" count="2"/>
+      <shelf name="victorian" count="2"/>
+      <shelf name="2019-reading-list" count="2"/>
+      <shelf name="to-get" count="2"/>
+      <shelf name="2019-non-fiction" count="2"/>
+      <shelf name="maybe-read" count="2"/>
+      <shelf name="2019-goals" count="2"/>
+      <shelf name="best-of-2018" count="2"/>
+      <shelf name="bookish" count="2"/>
+      <shelf name="bio-autobio-memoir" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>36670752</id>
+<title>Marilla of Green Gables</title>
+<title_without_series>Marilla of Green Gables</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36670752-marilla-of-green-gables]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519579137l/36670752._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519579137l/36670752._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>55030206</id>
+</work>
+<isbn>0062697730</isbn>
+<isbn13>9780062697738</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>2770941</id>
+<name>Sarah McCoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2770941.Sarah_McCoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35489103</id>
+<title><![CDATA[The Landscapes of Anne of Green Gables]]></title>
+<title_without_series><![CDATA[The Landscapes of Anne of Green Gables]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35489103-the-landscapes-of-anne-of-green-gables]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519614322l/35489103._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519614322l/35489103._SX98_.jpg]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>56889478</id>
+</work>
+<isbn>160469789X</isbn>
+<isbn13>9781604697896</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>461319</id>
+<name>Catherine Reid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/461319.Catherine_Reid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>149543</id>
+<title>Jane of Lantern Hill</title>
+<title_without_series>Jane of Lantern Hill</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/149543.Jane_of_Lantern_Hill]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435103595l/149543._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435103595l/149543.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>839504</id>
+</work>
+<isbn>077106165X</isbn>
+<isbn13>9780771061653</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5350</id>
+<name>L.M. Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48541160</id>
+<title>Embracing Her Ever After</title>
+<title_without_series>Embracing Her Ever After</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48541160-embracing-her-ever-after]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571667805l/48541160._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571667805l/48541160._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73258107</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>18862832</id>
+<name>Brenna Jacobs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18862832.Brenna_Jacobs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31706659</id>
+<title>Maud</title>
+<title_without_series>Maud</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31706659-maud]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476723327l/31706659._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476723327l/31706659._SX98_.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>51829447</id>
+</work>
+<isbn>014319125X</isbn>
+<isbn13>9780143191254</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>15505239</id>
+<name>Melanie J. Fishbane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15505239.Melanie_J_Fishbane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>821099</id>
+<title><![CDATA[The Story Girl (The Story Girl, #1)]]></title>
+<title_without_series>The Story Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/821099.The_Story_Girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349056039l/821099._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349056039l/821099._SY160_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1161931</id>
+</work>
+<isbn>1576463214</isbn>
+<isbn13>9781576463215</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5350</id>
+<name>L.M. Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38502471</id>
+<title><![CDATA[I'd Rather Be Reading: The Delights and Dilemmas of the Reading Life]]></title>
+<title_without_series><![CDATA[I'd Rather Be Reading: The Delights and Dilemmas of the Reading Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38502471-i-d-rather-be-reading]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522239360l/38502471._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522239360l/38502471._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>60141215</id>
+</work>
+<isbn>0801072921</isbn>
+<isbn13>9780801072925</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6537850</id>
+<name>Anne Bogel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6537850.Anne_Bogel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3567</id>
+<title><![CDATA[The Alpine Path: The Story of My Career]]></title>
+<title_without_series><![CDATA[The Alpine Path: The Story of My Career]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3567.The_Alpine_Path]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344950330l/3567._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344950330l/3567._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2721650</id>
+</work>
+<isbn>1550412949</isbn>
+<isbn13>9781550412949</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5350</id>
+<name>L.M. Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38656999</id>
+<title><![CDATA[The Good Neighbor: The Life and Work of Fred Rogers]]></title>
+<title_without_series><![CDATA[The Good Neighbor: The Life and Work of Fred Rogers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38656999-the-good-neighbor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520605183l/38656999._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520605183l/38656999._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>60267584</id>
+</work>
+<isbn>1419727729</isbn>
+<isbn13>9781419727726</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15660970</id>
+<name>Maxwell King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15660970.Maxwell_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40598702</id>
+<title><![CDATA[Anne Arrives: Inspired by Anne of Green Gables]]></title>
+<title_without_series><![CDATA[Anne Arrives: Inspired by Anne of Green Gables]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40598702-anne-arrives]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529509918l/40598702._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529509918l/40598702._SX98_.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>63048847</id>
+</work>
+<isbn>177049930X</isbn>
+<isbn13>9781770499300</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3891598</id>
+<name>Kallie George</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3891598.Kallie_George]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42996807</id>
+<title><![CDATA[Just Like Beverly: A Biography of Beverly Cleary]]></title>
+<title_without_series><![CDATA[Just Like Beverly: A Biography of Beverly Cleary]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42996807-just-like-beverly]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553589168l/42996807._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553589168l/42996807._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>66829572</id>
+</work>
+<isbn>1632172224</isbn>
+<isbn13>9781632172228</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>18659809</id>
+<name>Vicki Conrad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18659809.Vicki_Conrad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77391</id>
+<title><![CDATA[Anne of Ingleside (Anne of Green Gables, #6)]]></title>
+<title_without_series>Anne of Ingleside</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77391.Anne_of_Ingleside]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285712495l/77391._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285712495l/77391._SY160_.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>1404690</id>
+</work>
+<isbn>0553213156</isbn>
+<isbn13>9780553213157</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5350</id>
+<name>L.M. Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39217633</id>
+<title>Louisiana&apos;s Way Home</title>
+<title_without_series>Louisiana&apos;s Way Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39217633-louisiana-s-way-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>60750180</id>
+</work>
+<isbn>0763694630</isbn>
+<isbn13>9780763694630</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39507318</id>
+<title>The Library Book</title>
+<title_without_series>The Library Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39507318-the-library-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>61126110</id>
+</work>
+<isbn>1476740186</isbn>
+<isbn13>9781476740188</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>45374</id>
+<name>Susan Orlean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45374.Susan_Orlean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38526611</id>
+<title><![CDATA[The Assassination of Brangwain Spurge]]></title>
+<title_without_series><![CDATA[The Assassination of Brangwain Spurge]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38526611-the-assassination-of-brangwain-spurge]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525263946l/38526611._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525263946l/38526611._SX98_.jpg]]></image_url>
+<num_pages>525</num_pages>
+<work>
+<id>60159565</id>
+</work>
+<isbn>0763698229</isbn>
+<isbn13>9780763698225</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>31688</id>
+<name>M.T. Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31688.M_T_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37581725</id>
+<title><![CDATA[Eleanor Roosevelt: Fighter for Justice]]></title>
+<title_without_series><![CDATA[Eleanor Roosevelt: Fighter for Justice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37581725-eleanor-roosevelt]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519635797l/37581725._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519635797l/37581725._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>59191097</id>
+</work>
+<isbn>1419722956</isbn>
+<isbn13>9781419722950</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>18566</id>
+<name>Ilene Cooper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18566.Ilene_Cooper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3562</id>
+<title>Emily of New Moon (Emily, #1)</title>
+<title_without_series>Emily of New Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3562.Emily_of_New_Moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563899327l/3562._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563899327l/3562._SY160_.jpg]]></image_url>
+<num_pages>339</num_pages>
+<work>
+<id>1223124</id>
+</work>
+<isbn>055323370X</isbn>
+<isbn13>9780553233704</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5350</id>
+<name>L.M. Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5350.L_M_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37811512</id>
+<title><![CDATA[Sweep: The Story of a Girl and Her Monster]]></title>
+<title_without_series><![CDATA[Sweep: The Story of a Girl and Her Monster]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37811512-sweep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536675436l/37811512._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536675436l/37811512._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>59489664</id>
+</work>
+<isbn>073526435X</isbn>
+<isbn13>9780735264359</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1236</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4722094</id>
+<name>Jonathan Auxier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4722094.Jonathan_Auxier]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

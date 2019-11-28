@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25329437</id>
+  <title>Remanence (Confluence, #2)</title>
+  <isbn><![CDATA[0692669612]]></isbn>
+  <isbn13><![CDATA[9780692669617]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458444998l/25329437._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458444998l/25329437._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>Blue Bedlam Science Fiction</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In defiance of NASA, Jane Holloway, the linguist of the Providence expedition, commandeers the alien ship that crew explored. She sets off to return that ship’s marooned navigator to his home world, determined to discover who was behind the genocide that destroyed his original crew. <br /> <br />But when she gets there, she finds his world devastated by the same plague. The remaining members of his race, uniquely gifted at navigating the stars, are stranded across the galaxy. And someone, it seems, doesn’t want those lost navigators to be found. <br /> <br />As Jane unravels the mystery of the plague and works to ensure the survival of Ei’Brai’s race, she discovers that the life of every sentient being in the galaxy may be in jeopardy…and the clock is ticking.]]></description>
+  <work>
+  <id type="integer">45064595</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">29488335</best_book_id>
+  <reviews_count type="integer">9958</reviews_count>
+  <ratings_sum type="integer">14872</ratings_sum>
+  <ratings_count type="integer">3658</ratings_count>
+  <text_reviews_count type="integer">248</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">11</original_publication_day>
+  <original_title>Remanence</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1260|4:1568|3:669|2:132|1:29|total:3658</rating_dist>
+  <desc_user_id type="integer">13208805</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.usiJg42H6B3FdGYvP-KCTg</work_uri>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[490]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[205]]></ratings_count>
+  <text_reviews_count><![CDATA[28]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25329437-remanence]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25329437-remanence]]></link>
+  <authors>
+<author>
+<id>7246594</id>
+<name>Jennifer Foehner Wells</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1526475241p5/7246594.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1526475241p2/7246594.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7246594.Jennifer_Foehner_Wells]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>19440</ratings_count>
+<text_reviews_count>1848</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25329437-remanence">Remanence Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0692669612&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25329437-remanence?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4706"/>
+      <shelf name="currently-reading" count="704"/>
+      <shelf name="science-fiction" count="99"/>
+      <shelf name="sci-fi" count="78"/>
+      <shelf name="fiction" count="23"/>
+      <shelf name="scifi" count="21"/>
+      <shelf name="kindle" count="18"/>
+      <shelf name="space-opera" count="18"/>
+      <shelf name="aliens" count="14"/>
+      <shelf name="ebook" count="12"/>
+      <shelf name="kindle-unlimited" count="12"/>
+      <shelf name="series" count="7"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="space" count="7"/>
+      <shelf name="sci-fi-fantasy" count="6"/>
+      <shelf name="sf" count="6"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="adult" count="5"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="audiobook" count="4"/>
+      <shelf name="romance" count="4"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="amazon" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="next-in-series" count="2"/>
+      <shelf name="paused" count="2"/>
+      <shelf name="2-own-audible" count="2"/>
+      <shelf name="1-fiction" count="2"/>
+      <shelf name="serial" count="2"/>
+      <shelf name="on-hold" count="2"/>
+      <shelf name="finished" count="2"/>
+      <shelf name="audiobooks" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="to-read-series" count="2"/>
+      <shelf name="series-to-finish" count="2"/>
+      <shelf name="fantasy-sci-fi" count="2"/>
+      <shelf name="confluence" count="2"/>
+      <shelf name="goodreads-choice-2016" count="2"/>
+      <shelf name="not-finished" count="2"/>
+      <shelf name="did-not-finish" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="science-fiction-romance" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="four-stars" count="2"/>
+      <shelf name="jennifer-foehner-wells" count="2"/>
+      <shelf name="not-interested" count="2"/>
+      <shelf name="to-read-in-2016" count="2"/>
+      <shelf name="action-adventure" count="2"/>
+      <shelf name="space-travel" count="2"/>
+      <shelf name="science" count="2"/>
+      <shelf name="kindle-unlimited-2016" count="1"/>
+      <shelf name="2020-book-of-the-month-club" count="1"/>
+      <shelf name="gra-scifi" count="1"/>
+      <shelf name="favorite-reads-2019" count="1"/>
+      <shelf name="book_club" count="1"/>
+      <shelf name="da-feels" count="1"/>
+      <shelf name="adelaide-s-favorites" count="1"/>
+      <shelf name="0-spl-no" count="1"/>
+      <shelf name="ridiculous" count="1"/>
+      <shelf name="starship" count="1"/>
+      <shelf name="the-reading-plan-2019" count="1"/>
+      <shelf name="she-geeks-strong-female-protagonist" count="1"/>
+      <shelf name="new-authors" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="dad-books" count="1"/>
+      <shelf name="dnf-skimmed-hard-to-stomach" count="1"/>
+      <shelf name="disappointing-sequels" count="1"/>
+      <shelf name="03" count="1"/>
+      <shelf name="2016-readers-choice" count="1"/>
+      <shelf name="2016grchoiceawards" count="1"/>
+      <shelf name="2020" count="1"/>
+      <shelf name="not-for-me" count="1"/>
+      <shelf name="aaa-own-kindle-version" count="1"/>
+      <shelf name="completed" count="1"/>
+      <shelf name="to-read-purchased" count="1"/>
+      <shelf name="sf-science" count="1"/>
+      <shelf name="gca2016" count="1"/>
+      <shelf name="unsorted-want-to-read" count="1"/>
+      <shelf name="library" count="1"/>
+      <shelf name="choice-awards-to-read" count="1"/>
+      <shelf name="btr-of-kindle-unlimited" count="1"/>
+      <shelf name="sue-s-summer-reading-list-2019" count="1"/>
+      <shelf name="tid-og-rom" count="1"/>
+      <shelf name="romreiser" count="1"/>
+      <shelf name="scifi-novels" count="1"/>
+      <shelf name="scientists" count="1"/>
+      <shelf name="female-authors" count="1"/>
+      <shelf name="astronauts" count="1"/>
+      <shelf name="z_2019-sffbc-hex" count="1"/>
+      <shelf name="own-kindle" count="1"/>
+      <shelf name="own-high" count="1"/>
+      <shelf name="own-but-not-yet-read" count="1"/>
+      <shelf name="kindle-tbr" count="1"/>
+      <shelf name="2010s" count="1"/>
+      <shelf name="my-recommend-sf" count="1"/>
+      <shelf name="4-to-5-rating-to-read" count="1"/>
+      <shelf name="adult-fiction" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>762140</id>
+<user_position>2</user_position>
+<series>
+<id>151333</id>
+<title>
+<![CDATA[
+    Confluence
+]]>
+</title>
+<description>
+<![CDATA[
+    Earth’s days are numbered.
+    
+    Two very different women race to prepare for the battle to come. The future of Earth is in their hands.
+    
+    One struggles to resurrect her ruined ship so she can navigate the politics at the galactic core in a desperate bid to recruit allies.
+    
+    The other strives to master alien technology to supply the forces of Earth with the tools needed to defend themselves against the ravenous Swarm.
+    
+    Between them, Jane and Zara offer humanity its best chance at survival, but the odds are stacked against them and their best may not be good enough.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>5</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>27301491</id>
+<title>Daybreak</title>
+<title_without_series>Daybreak</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27301491-daybreak]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456966419l/27301491._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456966419l/27301491._SX98_.jpg]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>46213655</id>
+</work>
+<isbn>1517722063</isbn>
+<isbn13>9781517722067</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5395602</id>
+<name>Cheree Alsop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5395602.Cheree_Alsop]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46002662</id>
+<title>Hero Code (Star Kingdom #3)</title>
+<title_without_series>Hero Code</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46002662-hero-code]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>70867208</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4512224</id>
+<name>Lindsay Buroker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4512224.Lindsay_Buroker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45353889</id>
+<title>Shockwave (Star Kingdom #1)</title>
+<title_without_series>Shockwave</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45353889-shockwave]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>70095418</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4512224</id>
+<name>Lindsay Buroker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4512224.Lindsay_Buroker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48412524</id>
+<title>Star Fire (Stars End, #1)</title>
+<title_without_series>Star Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48412524-star-fire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570801654l/48412524._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570801654l/48412524._SX98_.jpg]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>73711242</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>6912725</id>
+<name>M.R. Forbes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6912725.M_R_Forbes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45570391</id>
+<title><![CDATA[Ship of Ruin (Star Kingdom #2)]]></title>
+<title_without_series>Ship of Ruin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45570391-ship-of-ruin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>302</num_pages>
+<work>
+<id>70340453</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4512224</id>
+<name>Lindsay Buroker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4512224.Lindsay_Buroker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46367510</id>
+<title>Crossfire (Star Kingdom #4)</title>
+<title_without_series>Crossfire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46367510-crossfire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71397013</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4512224</id>
+<name>Lindsay Buroker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4512224.Lindsay_Buroker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47171017</id>
+<title><![CDATA[Exin Ex Machina (Asterion Noir #1; Amaranthe #11)]]></title>
+<title_without_series>Exin Ex Machina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47171017-exin-ex-machina]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61957205</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8077668</id>
+<name>G.S. Jennsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8077668.G_S_Jennsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26806893</id>
+<title><![CDATA[Lunar Discovery: Let the Space Race Begin (Discovery Series Book 1)]]></title>
+<title_without_series><![CDATA[Lunar Discovery: Let the Space Race Begin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26806893-lunar-discovery]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>46234010</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13555891</id>
+<name>Salvador Mercer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13555891.Salvador_Mercer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29604205</id>
+<title><![CDATA[Mindguard (The Mindguard Saga, #1)]]></title>
+<title_without_series>Mindguard</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29604205-mindguard]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458735813l/29604205._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458735813l/29604205._SX98_.jpg]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>42750584</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8552568</id>
+<name>Andrei Cherascu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8552568.Andrei_Cherascu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44418882</id>
+<title><![CDATA[Fight the Good Fight (Echoes of War, #1)]]></title>
+<title_without_series>Fight the Good Fight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44418882-fight-the-good-fight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>62139848</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18165451</id>
+<name>Daniel  Gibbs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18165451.Daniel_Gibbs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47812859</id>
+<title><![CDATA[Haven Ascendant (Cole & Srexx Book 3)]]></title>
+<title_without_series>Haven Ascendant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47812859-haven-ascendant]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72942933</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17831865</id>
+<name>Robert M. Kerns</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17831865.Robert_M_Kerns]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35535274</id>
+<title>The Coordinate</title>
+<title_without_series>The Coordinate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35535274-the-coordinate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553707674l/35535274._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553707674l/35535274._SX98_.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>56958493</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>15197365</id>
+<name>Marc   Jacobs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15197365.Marc_Jacobs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46858867</id>
+<title><![CDATA[...Till It's Over! (Cole & Srexx Book 2)]]></title>
+<title_without_series>...Till It&apos;s Over!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46858867-till-it-s-over]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71908540</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17831865</id>
+<name>Robert M. Kerns</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17831865.Robert_M_Kerns]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34738873</id>
+<title><![CDATA[Fall to Earth (Pillars of Fire and Light, #1)]]></title>
+<title_without_series>Fall to Earth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34738873-fall-to-earth]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55925777</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16647019</id>
+<name>Ken Britz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16647019.Ken_Britz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31072761</id>
+<title><![CDATA[Noa's Ark (Archangel Project, #2)]]></title>
+<title_without_series>Noa&apos;s Ark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31072761-noa-s-ark]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>51601026</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6433324</id>
+<name>C. Gockel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6433324.C_Gockel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47718382</id>
+<title>Gate Quest (Star Kingdom #5)</title>
+<title_without_series>Gate Quest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47718382-gate-quest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72853361</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4512224</id>
+<name>Lindsay Buroker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4512224.Lindsay_Buroker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48060622</id>
+<title><![CDATA[Gateway to War: A Military Scifi Epic (Ruins of the Galaxy Book 3)]]></title>
+<title_without_series><![CDATA[Gateway to War: A Military Scifi Epic]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48060622-gateway-to-war]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73256265</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13828892</id>
+<name>J.N. Chaney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13828892.J_N_Chaney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46764620</id>
+<title>Refuge (Exile Book 2)</title>
+<title_without_series>Refuge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46764620-refuge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71795812</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7737246</id>
+<name>Glynn Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7737246.Glynn_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

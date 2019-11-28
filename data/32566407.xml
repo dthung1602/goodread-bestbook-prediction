@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>32566407</id>
+  <title>Portrait of the Alcoholic</title>
+  <isbn><![CDATA[1943977275]]></isbn>
+  <isbn13><![CDATA[9781943977277]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478793203l/32566407._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478793203l/32566407._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>Sibling Rivalry Press, LLC</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["Was it Jung who speculated that alcoholism might be an attempt at a material solution for a spiritual problem? Kaveh Akbar seems able to contain both--he's a demotic, as well as a spiritual, poet (the only type of either I trust). Each word in this little book might rise up from somewhere deep in the earth, but they turn into stars." - Nick Flynn<br /><br />"In Islam prayer is not transactional, poetry is not divorced from the quotidian and portraiture is embraced only in the abstract. And yet here in Kaveh Akbar's book, entreaty is earnest, aimed at the human and particular more often than the divine but at the same time the language and form elevate themselves to the fevered register of desperation. Yes, sure, fine, you would think that a Muslim writing about being a drunk would have to adopt unconventional approaches, but drunkenness in the Islamic literary tradition is a long and time-honored metaphor. For what? Abandonment to God, a cessation of the self--but not so here; no. Here it's real, it's coarse, it's dangerous. The reason we Muslims do not pray <em>for</em> things is that it is similarly dangerous for one to call God's attention onto oneself. But for Kaveh Akbar, whose very name <em>means</em> 'poetry, ' it is a risk every poem takes with gusto. And speaking purely for myself, these poems give me life because 'for so long every step I've taken/ has been from one tongue to another.' Be careful, little brother. God's got His eye on you now." - Kazim Ali]]></description>
+  <work>
+  <id type="integer">53138935</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">32566407</best_book_id>
+  <reviews_count type="integer">3697</reviews_count>
+  <ratings_sum type="integer">1992</ratings_sum>
+  <ratings_count type="integer">445</ratings_count>
+  <text_reviews_count type="integer">66</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">26</original_publication_day>
+  <original_title>Portrait of the Alcoholic</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:265|4:138|3:32|2:9|1:1|total:445</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Lx5l71cEdoUR4khK8Ufhgw</work_uri>
+</work>
+  <average_rating>4.48</average_rating>
+  <num_pages><![CDATA[45]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[445]]></ratings_count>
+  <text_reviews_count><![CDATA[66]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32566407-portrait-of-the-alcoholic]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32566407-portrait-of-the-alcoholic]]></link>
+  <authors>
+<author>
+<id>15957484</id>
+<name>Kaveh Akbar</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1498584351p5/15957484.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1498584351p2/15957484.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15957484.Kaveh_Akbar]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>2429</ratings_count>
+<text_reviews_count>369</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32566407-portrait-of-the-alcoholic">Portrait of the Alcoholic Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1943977275&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/32566407-portrait-of-the-alcoholic?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3083"/>
+      <shelf name="poetry" count="208"/>
+      <shelf name="currently-reading" count="16"/>
+      <shelf name="favorites" count="11"/>
+      <shelf name="read-in-2017" count="5"/>
+      <shelf name="non-fiction" count="5"/>
+      <shelf name="contemporary-poetry" count="4"/>
+      <shelf name="chapbooks" count="4"/>
+      <shelf name="poetry-to-read" count="3"/>
+      <shelf name="addiction" count="3"/>
+      <shelf name="poems" count="3"/>
+      <shelf name="nonfiction" count="3"/>
+      <shelf name="queer-lit" count="3"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="interested" count="2"/>
+      <shelf name="recovery" count="2"/>
+      <shelf name="2018-books" count="2"/>
+      <shelf name="lgbt" count="2"/>
+      <shelf name="to-read-poetry" count="2"/>
+      <shelf name="chapbook" count="2"/>
+      <shelf name="lgbtq" count="2"/>
+      <shelf name="poc" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="thoughts" count="1"/>
+      <shelf name="home-library" count="1"/>
+      <shelf name="2019-reads" count="1"/>
+      <shelf name="diverse-authors" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="to-delete" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="published-in-2010s" count="1"/>
+      <shelf name="anti-brexit-100" count="1"/>
+      <shelf name="book-wishlist" count="1"/>
+      <shelf name="great-books-i-ve-never-read" count="1"/>
+      <shelf name="læs-højt" count="1"/>
+      <shelf name="middle-east-authors" count="1"/>
+      <shelf name="0poetry" count="1"/>
+      <shelf name="this-book-deeply-impacted-me" count="1"/>
+      <shelf name="four-to-five-star" count="1"/>
+      <shelf name="lgbtiqa" count="1"/>
+      <shelf name="look-for-at-the-poetry-center" count="1"/>
+      <shelf name="ffw2020" count="1"/>
+      <shelf name="read-for-school" count="1"/>
+      <shelf name="nonfic-poetry" count="1"/>
+      <shelf name="to-read-contemporary-and-others" count="1"/>
+      <shelf name="short-reads" count="1"/>
+      <shelf name="vs-podcast" count="1"/>
+      <shelf name="glbt-lit" count="1"/>
+      <shelf name="از-شعر-متنفرم" count="1"/>
+      <shelf name="gca2017" count="1"/>
+      <shelf name="order-from-library" count="1"/>
+      <shelf name="library-books" count="1"/>
+      <shelf name="zp-2017-p" count="1"/>
+      <shelf name="queer-author" count="1"/>
+      <shelf name="poc-author" count="1"/>
+      <shelf name="male-author" count="1"/>
+      <shelf name="united-states" count="1"/>
+      <shelf name="addictions" count="1"/>
+      <shelf name="salman" count="1"/>
+      <shelf name="to-read-fiction-poetry" count="1"/>
+      <shelf name="released-in-2017" count="1"/>
+      <shelf name="mental-illness" count="1"/>
+      <shelf name="lgbtqia" count="1"/>
+      <shelf name="2019-reading-challenge" count="1"/>
+      <shelf name="abandoned" count="1"/>
+      <shelf name="never-finished" count="1"/>
+      <shelf name="2019-books" count="1"/>
+      <shelf name="2019-goals" count="1"/>
+      <shelf name="want-to-read-2018" count="1"/>
+      <shelf name="2018-to-read-challenge" count="1"/>
+      <shelf name="format-print" count="1"/>
+      <shelf name="zzz-sibling-rivalry-press" count="1"/>
+      <shelf name="short-stories-poetry" count="1"/>
+      <shelf name="finished-in-2018" count="1"/>
+      <shelf name="queer" count="1"/>
+      <shelf name="authors-of-color" count="1"/>
+      <shelf name="books-at-home" count="1"/>
+      <shelf name="other" count="1"/>
+      <shelf name="to-process" count="1"/>
+      <shelf name="new" count="1"/>
+      <shelf name="feminism-lgbtq" count="1"/>
+      <shelf name="drugs-alcohol" count="1"/>
+      <shelf name="is-this-real-life" count="1"/>
+      <shelf name="2018-desires" count="1"/>
+      <shelf name="mental-illnesses" count="1"/>
+      <shelf name="favorites-poetry" count="1"/>
+      <shelf name="wanttbr" count="1"/>
+      <shelf name="شعر" count="1"/>
+      <shelf name="tbr-plays-poetry-comics" count="1"/>
+      <shelf name="to-acquire" count="1"/>
+      <shelf name="apartment204" count="1"/>
+      <shelf name="favored" count="1"/>
+      <shelf name="noch-nicht-gekauft" count="1"/>
+      <shelf name="poems-to-read" count="1"/>
+      <shelf name="spiritual" count="1"/>
+      <shelf name="memoir" count="1"/>
+      <shelf name="for-school" count="1"/>
+      <shelf name="family-related" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>31944953</id>
+<title><![CDATA[When I Grow Up I Want to Be a List of Further Possibilities]]></title>
+<title_without_series><![CDATA[When I Grow Up I Want to Be a List of Further Possibilities]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31944953-when-i-grow-up-i-want-to-be-a-list-of-further-possibilities]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475302164l/31944953._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475302164l/31944953._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>52603609</id>
+</work>
+<isbn>1942683332</isbn>
+<isbn13>9781942683339</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15757000</id>
+<name>Chen  Chen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15757000.Chen_Chen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20702577</id>
+<title>The New Testament</title>
+<title_without_series>The New Testament</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20702577-the-new-testament]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415678109l/20702577._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415678109l/20702577._SX98_.jpg]]></image_url>
+<num_pages>73</num_pages>
+<work>
+<id>40022408</id>
+</work>
+<isbn></isbn>
+<isbn13>9781556594571</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1877139</id>
+<name>Jericho Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1877139.Jericho_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33375618</id>
+<title>Don&apos;t Call Us Dead</title>
+<title_without_series>Don&apos;t Call Us Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33375618-don-t-call-us-dead]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>54116419</id>
+</work>
+<isbn>1555977855</isbn>
+<isbn13>9781555977856</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8473734</id>
+<name>Danez Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8473734.Danez_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36477382</id>
+<title>Not Here</title>
+<title_without_series>Not Here</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36477382-not-here]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508975284l/36477382._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508975284l/36477382._SX98_.jpg]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>58187309</id>
+</work>
+<isbn>156689509X</isbn>
+<isbn13>9781566895095</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7359620</id>
+<name>Hieu Minh Nguyen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7359620.Hieu_Minh_Nguyen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29875897</id>
+<title>Whereas</title>
+<title_without_series>Whereas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29875897-whereas]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463952757l/29875897._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463952757l/29875897._SX98_.jpg]]></image_url>
+<num_pages>110</num_pages>
+<work>
+<id>50248675</id>
+</work>
+<isbn>1555977677</isbn>
+<isbn13>9781555977672</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4037996</id>
+<name>Layli Long Soldier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4037996.Layli_Long_Soldier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30304222</id>
+<title><![CDATA[There Are More Beautiful Things Than Beyoncé]]></title>
+<title_without_series><![CDATA[There Are More Beautiful Things Than Beyoncé]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30304222-there-are-more-beautiful-things-than-beyonc]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527100042l/30304222._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527100042l/30304222._SX98_.jpg]]></image_url>
+<num_pages>85</num_pages>
+<work>
+<id>50787141</id>
+</work>
+<isbn>1941040535</isbn>
+<isbn13>9781941040539</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>14001878</id>
+<name>Morgan  Parker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14001878.Morgan_Parker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26158735</id>
+<title>Black Movie</title>
+<title_without_series>Black Movie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26158735-black-movie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440440584l/26158735._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440440584l/26158735._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>46116306</id>
+</work>
+<isbn></isbn>
+<isbn13>9781943735006</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8473734</id>
+<name>Danez Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8473734.Danez_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24945396</id>
+<title>Bright Dead Things</title>
+<title_without_series>Bright Dead Things</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24945396-bright-dead-things]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424307716l/24945396._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424307716l/24945396._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>44603834</id>
+</work>
+<isbn>1571314717</isbn>
+<isbn13>9781571314710</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>291817</id>
+<name>Ada Limon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/291817.Ada_Limon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26114310</id>
+<title>Look</title>
+<title_without_series>Look</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26114310-look]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444695417l/26114310._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444695417l/26114310._SX98_.jpg]]></image_url>
+<num_pages>98</num_pages>
+<work>
+<id>46061210</id>
+</work>
+<isbn>1555977448</isbn>
+<isbn13>9781555977443</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7052571</id>
+<name>Solmaz Sharif</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7052571.Solmaz_Sharif]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41746324</id>
+<title>The Tradition</title>
+<title_without_series>The Tradition</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41746324-the-tradition]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX98_.jpg]]></image_url>
+<num_pages>77</num_pages>
+<work>
+<id>65149638</id>
+</work>
+<isbn>1556594860</isbn>
+<isbn13>9781556594861</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1877139</id>
+<name>Jericho Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1877139.Jericho_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23841432</id>
+<title>Night Sky with Exit Wounds</title>
+<title_without_series>Night Sky with Exit Wounds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23841432-night-sky-with-exit-wounds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450971013l/23841432._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450971013l/23841432._SX98_.jpg]]></image_url>
+<num_pages>89</num_pages>
+<work>
+<id>43452251</id>
+</work>
+<isbn>155659495X</isbn>
+<isbn13></isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4456871</id>
+<name>Ocean Vuong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4456871.Ocean_Vuong]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13220873</id>
+<title>Slow Lightning</title>
+<title_without_series>Slow Lightning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13220873-slow-lightning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344668220l/13220873._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344668220l/13220873._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>18407553</id>
+</work>
+<isbn>030017893X</isbn>
+<isbn13>9780300178937</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2829680</id>
+<name>Eduardo C. Corral</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2829680.Eduardo_C_Corral]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30087886</id>
+<title>The Crown Ain&apos;t Worth Much</title>
+<title_without_series>The Crown Ain&apos;t Worth Much</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30087886-the-crown-ain-t-worth-much]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463568293l/30087886._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463568293l/30087886._SX98_.jpg]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>50507399</id>
+</work>
+<isbn>1943735042</isbn>
+<isbn13>9781943735044</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14133519</id>
+<name>Hanif Abdurraqib</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14133519.Hanif_Abdurraqib]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34419228</id>
+<title>Madness</title>
+<title_without_series>Madness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34419228-madness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500908145l/34419228._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500908145l/34419228._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>55523595</id>
+</work>
+<isbn>0143131702</isbn>
+<isbn13>9780143131700</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>14051904</id>
+<name>Sam Sax</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14051904.Sam_Sax]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28015100</id>
+<title>Bestiary: Poems</title>
+<title_without_series>Bestiary: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28015100-bestiary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061561l/28015100._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061561l/28015100._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>48025517</id>
+</work>
+<isbn>1555977588</isbn>
+<isbn13>9781555977580</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>14719597</id>
+<name>Donika Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14719597.Donika_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13124956</id>
+<title>When My Brother Was an Aztec</title>
+<title_without_series>When My Brother Was an Aztec</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13124956-when-my-brother-was-an-aztec]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758134l/13124956._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758134l/13124956._SX98_.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>18300753</id>
+</work>
+<isbn>155659383X</isbn>
+<isbn13>9781556593833</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5354524</id>
+<name>Natalie Díaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5354524.Natalie_D_az]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121980</id>
+<title>Deaf Republic: Poems</title>
+<title_without_series>Deaf Republic: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121980-deaf-republic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527398356l/40121980._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527398356l/40121980._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>62223064</id>
+</work>
+<isbn>1555978312</isbn>
+<isbn13>9781555978310</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>229975</id>
+<name>Ilya Kaminsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229975.Ilya_Kaminsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36479356</id>
+<title><![CDATA[American Sonnets for My Past and Future Assassin]]></title>
+<title_without_series><![CDATA[American Sonnets for My Past and Future Assassin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36479356-american-sonnets-for-my-past-and-future-assassin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>58190092</id>
+</work>
+<isbn>0143133187</isbn>
+<isbn13>9780143133186</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>92372</id>
+<name>Terrance Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92372.Terrance_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

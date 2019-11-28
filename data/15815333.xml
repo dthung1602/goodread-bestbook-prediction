@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15815333</id>
+  <title>The Interestings</title>
+  <isbn><![CDATA[1594488398]]></isbn>
+  <isbn13><![CDATA[9781594488399]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446889l/15815333._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446889l/15815333._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Riverhead Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Interestings explores the meaning of talent; the nature of envy; the roles of class, art, money, and power; and how all of it can shift and tilt precipitously over the course of a friendship and a life.<br /><br />The summer that Nixon resigns, six teenagers at a summer camp for the arts become inseparable. Decades later the bond remains powerful, but so much else has changed. In The Interestings, Wolitzer follows these characters from the height of youth through middle age, as their talents, fortunes, and degrees of satisfaction diverge. <br /><br />The kind of creativity that is rewarded at age fifteen is not always enough to propel someone through life at age thirty; not everyone can sustain, in adulthood, what seemed so special in adolescence. Jules Jacobson, an aspiring comic actress, eventually resigns herself to a more practical occupation and lifestyle. Her friend Jonah, a gifted musician, stops playing the guitar and becomes an engineer. But Ethan and Ash, Jules's now-married best friends, become shockingly successful—true to their initial artistic dreams, with the wealth and access that allow those dreams to keep expanding. The friendships endure and even prosper, but also underscore the differences in their fates, in what their talents have become and the shapes their lives have taken. <br /><br />Wide in scope, ambitious, and populated by complex characters who come together and apart in a changing New York City, The Interestings explores the meaning of talent; the nature of envy; the roles of class, art, money, and power; and how all of it can shift and tilt precipitously over the course of a friendship and a life.]]></description>
+  <work>
+  <id type="integer">21541829</id>
+  <books_count type="integer">40</books_count>
+  <best_book_id type="integer">15815333</best_book_id>
+  <reviews_count type="integer">205582</reviews_count>
+  <ratings_sum type="integer">356437</ratings_sum>
+  <ratings_count type="integer">99983</ratings_count>
+  <text_reviews_count type="integer">10555</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>The Interestings</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:19071|4:36796|3:29559|2:10664|1:3893|total:99983</rating_dist>
+  <desc_user_id type="integer">1463934</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.ivDvgy-hS_PUEiti5yDrrw</work_uri>
+</work>
+  <average_rating>3.56</average_rating>
+  <num_pages><![CDATA[468]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[USA / Canada]]></edition_information>
+  <ratings_count><![CDATA[88373]]></ratings_count>
+  <text_reviews_count><![CDATA[9806]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15815333-the-interestings]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15815333-the-interestings]]></link>
+  <authors>
+<author>
+<id>113936</id>
+<name>Meg Wolitzer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510237393p5/113936.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510237393p2/113936.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/113936.Meg_Wolitzer]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>199391</ratings_count>
+<text_reviews_count>24538</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15815333-the-interestings">The Interestings Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594488398&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15815333-the-interestings?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="87857"/>
+      <shelf name="currently-reading" count="3367"/>
+      <shelf name="fiction" count="1906"/>
+      <shelf name="book-club" count="738"/>
+      <shelf name="favorites" count="451"/>
+      <shelf name="contemporary" count="264"/>
+      <shelf name="literary-fiction" count="194"/>
+      <shelf name="contemporary-fiction" count="182"/>
+      <shelf name="books-i-own" count="179"/>
+      <shelf name="audiobook" count="178"/>
+      <shelf name="abandoned" count="172"/>
+      <shelf name="kindle" count="171"/>
+      <shelf name="library" count="149"/>
+      <shelf name="adult-fiction" count="149"/>
+      <shelf name="audiobooks" count="146"/>
+      <shelf name="owned" count="145"/>
+      <shelf name="read-in-2014" count="141"/>
+      <shelf name="adult" count="134"/>
+      <shelf name="audio" count="134"/>
+      <shelf name="bookclub" count="125"/>
+      <shelf name="coming-of-age" count="120"/>
+      <shelf name="novels" count="120"/>
+      <shelf name="did-not-finish" count="118"/>
+      <shelf name="friendship" count="110"/>
+      <shelf name="read-in-2013" count="102"/>
+      <shelf name="didn-t-finish" count="93"/>
+      <shelf name="dnf" count="90"/>
+      <shelf name="to-buy" count="82"/>
+      <shelf name="new-york" count="74"/>
+      <shelf name="historical-fiction" count="67"/>
+      <shelf name="literature" count="64"/>
+      <shelf name="couldn-t-finish" count="64"/>
+      <shelf name="read-2014" count="62"/>
+      <shelf name="audio-books" count="62"/>
+      <shelf name="ebook" count="61"/>
+      <shelf name="realistic-fiction" count="61"/>
+      <shelf name="owned-books" count="57"/>
+      <shelf name="general-fiction" count="57"/>
+      <shelf name="literary" count="56"/>
+      <shelf name="novel" count="53"/>
+      <shelf name="read-in-2015" count="52"/>
+      <shelf name="read-2013" count="52"/>
+      <shelf name="to-read-fiction" count="49"/>
+      <shelf name="gave-up-on" count="48"/>
+      <shelf name="book-group" count="47"/>
+      <shelf name="book-club-books" count="44"/>
+      <shelf name="audio-book" count="43"/>
+      <shelf name="unfinished" count="42"/>
+      <shelf name="2014-books" count="40"/>
+      <shelf name="gave-up" count="40"/>
+      <shelf name="wish-list" count="39"/>
+      <shelf name="drama" count="38"/>
+      <shelf name="nyc" count="38"/>
+      <shelf name="new-york-city" count="36"/>
+      <shelf name="2013-reads" count="36"/>
+      <shelf name="relationships" count="36"/>
+      <shelf name="modern-fiction" count="35"/>
+      <shelf name="american" count="34"/>
+      <shelf name="audible" count="34"/>
+      <shelf name="read-in-2017" count="31"/>
+      <shelf name="tbr" count="31"/>
+      <shelf name="read-2015" count="31"/>
+      <shelf name="own-it" count="30"/>
+      <shelf name="library-books" count="30"/>
+      <shelf name="stopped-reading" count="30"/>
+      <shelf name="book-club-reads" count="30"/>
+      <shelf name="female-author" count="30"/>
+      <shelf name="maybe" count="30"/>
+      <shelf name="read-in-2019" count="29"/>
+      <shelf name="recommended" count="29"/>
+      <shelf name="2014-reads" count="29"/>
+      <shelf name="2013-books" count="29"/>
+      <shelf name="library-book" count="27"/>
+      <shelf name="my-library" count="27"/>
+      <shelf name="read-in-2016" count="26"/>
+      <shelf name="could-not-finish" count="26"/>
+      <shelf name="art" count="26"/>
+      <shelf name="my-books" count="25"/>
+      <shelf name="favourites" count="25"/>
+      <shelf name="never-finished" count="25"/>
+      <shelf name="2015-books" count="24"/>
+      <shelf name="family" count="24"/>
+      <shelf name="read-in-2018" count="23"/>
+      <shelf name="overdrive" count="22"/>
+      <shelf name="female-authors" count="22"/>
+      <shelf name="ebooks" count="21"/>
+      <shelf name="e-book" count="21"/>
+      <shelf name="marriage" count="21"/>
+      <shelf name="read-2018" count="20"/>
+      <shelf name="21st-century" count="20"/>
+      <shelf name="own-to-read" count="20"/>
+      <shelf name="young-adult" count="20"/>
+      <shelf name="book-club-ideas" count="20"/>
+      <shelf name="fiction-general" count="19"/>
+      <shelf name="summer-2014" count="19"/>
+      <shelf name="finished" count="19"/>
+      <shelf name="bildungsroman" count="19"/>
+      <shelf name="summer-reads" count="19"/>
+      <shelf name="fiction-to-read" count="19"/>
+      <shelf name="want-to-read" count="19"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17333223</id>
+<title>The Goldfinch</title>
+<title_without_series>The Goldfinch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333223-the-goldfinch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554970l/17333223._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554970l/17333223._SX98_.jpg]]></image_url>
+<num_pages>771</num_pages>
+<work>
+<id>24065147</id>
+</work>
+<isbn>0316055433</isbn>
+<isbn13>9780316055437</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8719.Donna_Tartt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41057294</id>
+<title>Normal People</title>
+<title_without_series>Normal People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41057294-normal-people]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SX98_.jpg]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>59141209</id>
+</work>
+<isbn>1984822179</isbn>
+<isbn13>9781984822178</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41880602</id>
+<title>Fleishman Is in Trouble</title>
+<title_without_series>Fleishman Is in Trouble</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41880602-fleishman-is-in-trouble]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556374309l/41880602._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556374309l/41880602._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>70634699</id>
+</work>
+<isbn>0525510877</isbn>
+<isbn13>9780525510871</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>7235807</id>
+<name>Taffy Brodesser-Akner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7235807.Taffy_Brodesser_Akner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11447921</id>
+<title>Beautiful Ruins</title>
+<title_without_series>Beautiful Ruins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11447921-beautiful-ruins]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338161553l/11447921._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338161553l/11447921._SX98_.jpg]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>16381755</id>
+</work>
+<isbn>0061928127</isbn>
+<isbn13>9780061928123</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>12667</id>
+<name>Jess Walter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12667.Jess_Walter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32187419</id>
+<title>Conversations with Friends</title>
+<title_without_series>Conversations with Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32187419-conversations-with-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>52827120</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35277858</id>
+<title>Ordinary People</title>
+<title_without_series>Ordinary People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35277858-ordinary-people]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518385834l/35277858._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518385834l/35277858._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>56638711</id>
+</work>
+<isbn>1784742163</isbn>
+<isbn13>9781784742164</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>313731</id>
+<name>Diana Evans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/313731.Diana_Evans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42201100</id>
+<title>Three Women</title>
+<title_without_series>Three Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42201100-three-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560679612l/42201100._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560679612l/42201100._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>65558120</id>
+</work>
+<isbn>1451642296</isbn>
+<isbn13>9781451642292</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>3497436</id>
+<name>Lisa Taddeo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3497436.Lisa_Taddeo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18946007</id>
+<title>Animals</title>
+<title_without_series>Animals</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18946007-animals]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392672498l/18946007._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392672498l/18946007._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>26955128</id>
+</work>
+<isbn>1443433055</isbn>
+<isbn13>9781443433051</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>4883558</id>
+<name>Emma Jane Unsworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4883558.Emma_Jane_Unsworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44279110</id>
+<title><![CDATA[My Year of Rest and Relaxation]]></title>
+<title_without_series><![CDATA[My Year of Rest and Relaxation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44279110-my-year-of-rest-and-relaxation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>55508660</id>
+</work>
+<isbn>0525522131</isbn>
+<isbn13>9780525522133</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3276202</id>
+<name>Ottessa Moshfegh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3276202.Ottessa_Moshfegh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33590210</id>
+<title>An American Marriage</title>
+<title_without_series>An American Marriage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33590210-an-american-marriage]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>54403192</id>
+</work>
+<isbn>1616201347</isbn>
+<isbn13>9781616201340</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>292970</id>
+<name>Tayari Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292970.Tayari_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44318414</id>
+<title>The Dutch House</title>
+<title_without_series>The Dutch House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44318414-the-dutch-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68864841</id>
+</work>
+<isbn>0062963678</isbn>
+<isbn13>9780062963673</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7136914</id>
+<name>Ann Patchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7136914.Ann_Patchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45304101</id>
+<title>The Great Believers</title>
+<title_without_series>The Great Believers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45304101-the-great-believers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>58531414</id>
+</work>
+<isbn>073522353X</isbn>
+<isbn13>9780735223530</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>3134707</id>
+<name>Rebecca Makkai</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3134707.Rebecca_Makkai]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40611120</id>
+<title>Expectation</title>
+<title_without_series>Expectation</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40611120-expectation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550866611l/40611120._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550866611l/40611120._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>63082703</id>
+</work>
+<isbn>0857524909</isbn>
+<isbn13>9780857524904</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>2829663</id>
+<name>Anna Hope</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2829663.Anna_Hope]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38819868</id>
+<title>My Sister, the Serial Killer</title>
+<title_without_series>My Sister, the Serial Killer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523366732l/38819868._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523366732l/38819868._SX98_.jpg]]></image_url>
+<num_pages>226</num_pages>
+<work>
+<id>60394238</id>
+</work>
+<isbn>0385544235</isbn>
+<isbn13>9780385544238</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>14713014</id>
+<name>Oyinkan Braithwaite</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14713014.Oyinkan_Braithwaite]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26198495</id>
+<title>All at Sea</title>
+<title_without_series>All at Sea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26198495-all-at-sea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452924368l/26198495._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452924368l/26198495._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>46174922</id>
+</work>
+<isbn>0008142165</isbn>
+<isbn13>9780008142162</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>528911</id>
+<name>Decca Aitkenhead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/528911.Decca_Aitkenhead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39927096</id>
+<title>Less</title>
+<title_without_series>Less</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39927096-less]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>52588011</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>24892</id>
+<name>Andrew Sean Greer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24892.Andrew_Sean_Greer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24612118</id>
+<title>Fates and Furies</title>
+<title_without_series>Fates and Furies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24612118-fates-and-furies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434750235l/24612118._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434750235l/24612118._SX98_.jpg]]></image_url>
+<num_pages>390</num_pages>
+<work>
+<id>43913972</id>
+</work>
+<isbn>1594634475</isbn>
+<isbn13>9781594634475</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>690619</id>
+<name>Lauren Groff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/690619.Lauren_Groff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13526165</id>
+<title>Where&apos;d You Go, Bernadette</title>
+<title_without_series>Where&apos;d You Go, Bernadette</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13526165-where-d-you-go-bernadette]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338822317l/13526165._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338822317l/13526165._SX98_.jpg]]></image_url>
+<num_pages>330</num_pages>
+<work>
+<id>17626728</id>
+</work>
+<isbn>0316204277</isbn>
+<isbn13>9780316204279</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>99983</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>1588088</id>
+<name>Maria Semple</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1588088.Maria_Semple]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22875447</id>
+  <title><![CDATA[Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead]]></title>
+  <isbn><![CDATA[1455554790]]></isbn>
+  <isbn13><![CDATA[9781455554799]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420790922l/22875447._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420790922l/22875447._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Twelve</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>From the visionary head of Google's innovative People Operations comes a groundbreaking inquiry into the philosophy of work-and a blueprint for attracting the most spectacular talent to your business and ensuring that they succeed.</i><br /><br /> "We spend more time working than doing anything else in life. It's not right that the experience of work should be so demotivating and dehumanizing." So says Laszlo Bock, head of People Operations at the company that transformed how the world interacts with knowledge. <br /><br /> This insight is the heart of WORK RULES!, a compelling and surprisingly playful manifesto that offers lessons including:<br /><br /><br />Take away managers' power over employees<br />Learn from your best employees-and your worst<br />Hire only people who are smarter than you are, no matter how long it takes to find them<br />Pay unfairly (it's more fair!)<br />Don't trust your gut: Use data to predict and shape the future<br />Default to open-be transparent and welcome feedback<br />If you're comfortable with the amount of freedom you've given your employees, you haven't gone far enough.<br /><br /><br /><br /> Drawing on the latest research in behavioral economics and a profound grasp of human psychology, WORK RULES! also provides teaching examples from a range of industries-including lauded companies that happen to be hideous places to work and little-known companies that achieve spectacular results by valuing and listening to their employees. Bock takes us inside one of history's most explosively successful businesses to reveal why Google is consistently rated one of the best places to work in the world, distilling 15 years of intensive worker R&amp;D into principles that are easy to put into action, whether you're a team of one or a team of thousands.<br /><br /> WORK RULES! shows how to strike a balance between creativity and structure, leading to success you can measure in quality of life as well as market share. Read it to build a better company from within rather than from above; read it to reawaken your joy in what you do.<br /><br />]]></description>
+  <work>
+  <id type="integer">42439902</id>
+  <books_count type="integer">46</books_count>
+  <best_book_id type="integer">22875447</best_book_id>
+  <reviews_count type="integer">44453</reviews_count>
+  <ratings_sum type="integer">42098</ratings_sum>
+  <ratings_count type="integer">10109</ratings_count>
+  <text_reviews_count type="integer">818</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4155|4:3988|3:1550|2:305|1:111|total:10109</rating_dist>
+  <desc_user_id type="integer">-46</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.T94YkaCGM_BRTY0APhh_Fg</work_uri>
+</work>
+  <average_rating>4.16</average_rating>
+  <num_pages><![CDATA[406]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8338]]></ratings_count>
+  <text_reviews_count><![CDATA[708]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22875447-work-rules]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22875447-work-rules]]></link>
+  <authors>
+<author>
+<id>8431082</id>
+<name>Laszlo Bock</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421692276p5/8431082.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421692276p2/8431082.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8431082.Laszlo_Bock]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>10153</ratings_count>
+<text_reviews_count>824</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22875447-work-rules">Work Rules! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1455554790&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/22875447-work-rules?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="29823"/>
+      <shelf name="currently-reading" count="2514"/>
+      <shelf name="business" count="583"/>
+      <shelf name="non-fiction" count="275"/>
+      <shelf name="management" count="142"/>
+      <shelf name="leadership" count="136"/>
+      <shelf name="nonfiction" count="98"/>
+      <shelf name="work" count="91"/>
+      <shelf name="self-help" count="52"/>
+      <shelf name="favorites" count="42"/>
+      <shelf name="to-buy" count="37"/>
+      <shelf name="career" count="32"/>
+      <shelf name="self-improvement" count="29"/>
+      <shelf name="hr" count="28"/>
+      <shelf name="psychology" count="28"/>
+      <shelf name="audiobook" count="27"/>
+      <shelf name="productivity" count="25"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="professional" count="23"/>
+      <shelf name="technology" count="23"/>
+      <shelf name="product-management" count="20"/>
+      <shelf name="audiobooks" count="19"/>
+      <shelf name="tech" count="17"/>
+      <shelf name="personal-development" count="17"/>
+      <shelf name="business-books" count="16"/>
+      <shelf name="to-read-non-fiction" count="16"/>
+      <shelf name="to-read-business" count="16"/>
+      <shelf name="audible" count="15"/>
+      <shelf name="self-development" count="15"/>
+      <shelf name="abandoned" count="14"/>
+      <shelf name="culture" count="14"/>
+      <shelf name="education" count="14"/>
+      <shelf name="library" count="14"/>
+      <shelf name="startup" count="14"/>
+      <shelf name="read-in-2017" count="13"/>
+      <shelf name="next" count="13"/>
+      <shelf name="professional-development" count="13"/>
+      <shelf name="maybe" count="13"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="google" count="13"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="audio" count="12"/>
+      <shelf name="business-management" count="12"/>
+      <shelf name="startups" count="11"/>
+      <shelf name="to-read-nonfiction" count="11"/>
+      <shelf name="work-related" count="11"/>
+      <shelf name="first-reads" count="11"/>
+      <shelf name="pm" count="10"/>
+      <shelf name="did-not-finish" count="10"/>
+      <shelf name="must-read" count="9"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="entrepreneurship" count="9"/>
+      <shelf name="biz" count="9"/>
+      <shelf name="entrepreneur" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="innovation" count="8"/>
+      <shelf name="unfinished" count="8"/>
+      <shelf name="human-resources" count="8"/>
+      <shelf name="mba" count="7"/>
+      <shelf name="development" count="7"/>
+      <shelf name="didn-t-finish" count="7"/>
+      <shelf name="default" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="management-leadership" count="7"/>
+      <shelf name="hiring" count="7"/>
+      <shelf name="never-finished" count="6"/>
+      <shelf name="work-books" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="self" count="6"/>
+      <shelf name="read-2019" count="5"/>
+      <shelf name="on-hold" count="5"/>
+      <shelf name="overdrive" count="5"/>
+      <shelf name="listened-to" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="blinkist" count="5"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="business-work" count="5"/>
+      <shelf name="non-fiction-to-read" count="5"/>
+      <shelf name="agile" count="5"/>
+      <shelf name="improvement" count="5"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="business-economics" count="5"/>
+      <shelf name="buy" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="product" count="5"/>
+      <shelf name="other" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="paused" count="4"/>
+      <shelf name="2017-books" count="4"/>
+      <shelf name="priority" count="4"/>
+      <shelf name="2017-reading-list" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="growth" count="4"/>
+      <shelf name="leadership-management" count="4"/>
+      <shelf name="audio-book" count="4"/>
+      <shelf name="want-to-read-non-fiction" count="4"/>
+      <shelf name="strategy" count="4"/>
+      <shelf name="listened" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23158207</id>
+<title>How Google Works</title>
+<title_without_series>How Google Works</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23158207-how-google-works]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42705109</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3887089</id>
+<name>Eric Schmidt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3887089.Eric_Schmidt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39286958</id>
+<title>Measure What Matters</title>
+<title_without_series>Measure What Matters</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39286958-measure-what-matters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>54960827</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4398861</id>
+<name>John E. Doerr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4398861.John_E_Doerr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36417234</id>
+<title><![CDATA[Powerful: Building a Culture of Freedom and Responsibility]]></title>
+<title_without_series><![CDATA[Powerful: Building a Culture of Freedom and Responsibility]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36417234-powerful]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58113992</id>
+</work>
+<isbn>1939714095</isbn>
+<isbn13>9781939714091</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17238364</id>
+<name>Patty McCord</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17238364.Patty_McCord]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>324750</id>
+<title>High Output Management</title>
+<title_without_series>High Output Management</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/324750.High_Output_Management]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>315440</id>
+</work>
+<isbn>0679762884</isbn>
+<isbn13>9780679762881</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>37708</id>
+<name>Andrew S. Grove</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37708.Andrew_S_Grove]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29939161</id>
+<title><![CDATA[Radical Candor: Be a Kickass Boss Without Losing Your Humanity]]></title>
+<title_without_series><![CDATA[Radical Candor: Be a Kickass Boss Without Losing Your Humanity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29939161-radical-candor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482838407l/29939161._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482838407l/29939161._SX98_.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>50329793</id>
+</work>
+<isbn>1250103509</isbn>
+<isbn13>9781250103505</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7373118</id>
+<name>Kim Malone Scott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7373118.Kim_Malone_Scott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33517721</id>
+<title><![CDATA[The Culture Code: The Secrets of Highly Successful Groups]]></title>
+<title_without_series><![CDATA[The Culture Code: The Secrets of Highly Successful Groups]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33517721-the-culture-code]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498801824l/33517721._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498801824l/33517721._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>45743843</id>
+</work>
+<isbn>0804176981</isbn>
+<isbn13>9780804176989</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>63972</id>
+<name>Daniel Coyle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63972.Daniel_Coyle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36501797</id>
+<title><![CDATA[Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell]]></title>
+<title_without_series><![CDATA[Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36501797-trillion-dollar-coach]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551314075l/36501797._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551314075l/36501797._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65707665</id>
+</work>
+<isbn>0062839276</isbn>
+<isbn13>9780062839275</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3887089</id>
+<name>Eric Schmidt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3887089.Eric_Schmidt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76865</id>
+<title><![CDATA[Good to Great: Why Some Companies Make the Leap... and Others Don't]]></title>
+<title_without_series><![CDATA[Good to Great: Why Some Companies Make the Leap... and Others Don't]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76865.Good_to_Great]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546097703l/76865._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546097703l/76865._SX98_.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>1094028</id>
+</work>
+<isbn>0066620996</isbn>
+<isbn13>9780066620992</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>2826</id>
+<name>James C. Collins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2826.James_C_Collins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18176747</id>
+<title><![CDATA[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers]]></title>
+<title_without_series><![CDATA[The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>25548865</id>
+</work>
+<isbn>0062273205</isbn>
+<isbn13>9780062273208</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7155094</id>
+<name>Ben Horowitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7155094.Ben_Horowitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44063692</id>
+<title><![CDATA[What You Do Is Who You Are: How to Create Your Business Culture]]></title>
+<title_without_series><![CDATA[What You Do Is Who You Are: How to Create Your Business Culture]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44063692-what-you-do-is-who-you-are]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571347435l/44063692._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571347435l/44063692._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>68514322</id>
+</work>
+<isbn>0062871331</isbn>
+<isbn13>9780062871336</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7155094</id>
+<name>Ben Horowitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7155094.Ben_Horowitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44909574</id>
+<title><![CDATA[ทุกอย่างในชีวิต เริ่มจากความคิดที่เป็นระเบียบ]]></title>
+<title_without_series><![CDATA[ทุกอย่างในชีวิต เริ่มจากความคิดที่เป็นระเบียบ]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44909574]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554787089l/44909574._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554787089l/44909574._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69577878</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19040834</id>
+<name>พกจูฮวัน</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19040834._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16144853</id>
+<title>Leaders Eat Last</title>
+<title_without_series>Leaders Eat Last</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16144853-leaders-eat-last]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400881733l/16144853._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400881733l/16144853._SX98_.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>21977839</id>
+</work>
+<isbn>1591845327</isbn>
+<isbn13>9781591845324</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3158574</id>
+<name>Simon Sinek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3158574.Simon_Sinek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38821039</id>
+<title><![CDATA[The Making of a Manager: What to Do When Everyone Looks to You]]></title>
+<title_without_series><![CDATA[The Making of a Manager: What to Do When Everyone Looks to You]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38821039-the-making-of-a-manager]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548809382l/38821039._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548809382l/38821039._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>60395275</id>
+</work>
+<isbn>0735219567</isbn>
+<isbn13>9780735219564</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>14197653</id>
+<name>Julie Zhuo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14197653.Julie_Zhuo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16158498</id>
+<title><![CDATA[Give and Take: A Revolutionary Approach to Success]]></title>
+<title_without_series><![CDATA[Give and Take: A Revolutionary Approach to Success]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16158498-give-and-take]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356136579l/16158498._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356136579l/16158498._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>21998914</id>
+</work>
+<isbn>0670026557</isbn>
+<isbn13>9780670026555</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6583155</id>
+<name>Adam M. Grant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6583155.Adam_M_Grant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45186491</id>
+<title>เมื่อหัวว่าง จึงสร้างสรรค์</title>
+<title_without_series>เมื่อหัวว่าง จึงสร้างสรรค์</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45186491]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555839188l/45186491._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555839188l/45186491._SX98_.jpg]]></image_url>
+<num_pages>184</num_pages>
+<work>
+<id>69908819</id>
+</work>
+<isbn></isbn>
+<isbn13>9789740216599</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15401439</id>
+<name>กวีวุฒิ เต็มภูวภัทร</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15401439._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25814544</id>
+<title><![CDATA[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days]]></title>
+<title_without_series><![CDATA[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25814544-sprint]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284924l/25814544._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284924l/25814544._SX98_.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>45671240</id>
+</work>
+<isbn></isbn>
+<isbn13>9781501121746</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>14080260</id>
+<name>Jake Knapp</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14080260.Jake_Knapp]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>866222</id>
+<title>Winning</title>
+<title_without_series>Winning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/866222.Winning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775828l/866222._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775828l/866222._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>856917</id>
+</work>
+<isbn>0060753943</isbn>
+<isbn13>9780060753948</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3770</id>
+<name>Jack Welch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3770.Jack_Welch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25744928</id>
+<title><![CDATA[Deep Work: Rules for Focused Success in a Distracted World]]></title>
+<title_without_series><![CDATA[Deep Work: Rules for Focused Success in a Distracted World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25744928-deep-work]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447957962l/25744928._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447957962l/25744928._SX98_.jpg]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>45502249</id>
+</work>
+<isbn>1455586692</isbn>
+<isbn13>9781455586691</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>10109</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>147891</id>
+<name>Cal Newport</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147891.Cal_Newport]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

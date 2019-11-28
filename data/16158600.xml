@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16158600</id>
+  <title>The Other Typist</title>
+  <isbn><![CDATA[0399161465]]></isbn>
+  <isbn13><![CDATA[9780399161469]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356071157l/16158600._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356071157l/16158600._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Penguin Adult HC/TR</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A haunting debut novel set against the background of New York City in the 1920s…<br /><br />Confessions are Rose Baker’s job. A typist for the New York City Police Department, she sits in judgment like a high priestess. Criminals come before her to admit their transgressions, and, with a few strokes of the keys before her, she seals their fate. But while she may hear about shootings, knifings, and crimes of passion, as soon as she leaves the room, she reverts to a dignified and proper lady. Until Odalie joins the typing pool.<br /><br />As Rose quickly falls under the stylish, coquettish Odalie’s spell, she is lured into a sparkling underworld of speakeasies and jazz. And what starts as simple fascination turns into an obsession from which she may never recover.]]></description>
+  <work>
+  <id type="integer">21999016</id>
+  <books_count type="integer">33</books_count>
+  <best_book_id type="integer">17329041</best_book_id>
+  <reviews_count type="integer">43485</reviews_count>
+  <ratings_sum type="integer">60391</ratings_sum>
+  <ratings_count type="integer">17015</ratings_count>
+  <text_reviews_count type="integer">2705</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Other Typist</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2693|4:6619|3:5507|2:1733|1:463|total:17015</rating_dist>
+  <desc_user_id type="integer">3336310</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.dBWAocgcE72MMliGzlAhBg</work_uri>
+</work>
+  <average_rating>3.55</average_rating>
+  <num_pages><![CDATA[357]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[6183]]></ratings_count>
+  <text_reviews_count><![CDATA[1338]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16158600-the-other-typist]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16158600-the-other-typist]]></link>
+  <authors>
+<author>
+<id>6583177</id>
+<name>Suzanne Rindell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1447374948p5/6583177.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1447374948p2/6583177.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6583177.Suzanne_Rindell]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>20949</ratings_count>
+<text_reviews_count>3485</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16158600-the-other-typist">The Other Typist Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399161465&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16158600-the-other-typist?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="23578"/>
+      <shelf name="historical-fiction" count="549"/>
+      <shelf name="currently-reading" count="418"/>
+      <shelf name="fiction" count="383"/>
+      <shelf name="mystery" count="220"/>
+      <shelf name="book-club" count="176"/>
+      <shelf name="historical" count="117"/>
+      <shelf name="favorites" count="81"/>
+      <shelf name="1920s" count="60"/>
+      <shelf name="new-york" count="58"/>
+      <shelf name="library" count="56"/>
+      <shelf name="suspense" count="54"/>
+      <shelf name="adult" count="54"/>
+      <shelf name="books-i-own" count="50"/>
+      <shelf name="adult-fiction" count="50"/>
+      <shelf name="mystery-thriller" count="48"/>
+      <shelf name="thriller" count="42"/>
+      <shelf name="audio" count="41"/>
+      <shelf name="owned" count="41"/>
+      <shelf name="crime" count="39"/>
+      <shelf name="kindle" count="37"/>
+      <shelf name="audiobook" count="33"/>
+      <shelf name="audiobooks" count="32"/>
+      <shelf name="abandoned" count="30"/>
+      <shelf name="unreliable-narrator" count="29"/>
+      <shelf name="first-reads" count="28"/>
+      <shelf name="read-in-2013" count="28"/>
+      <shelf name="literary-fiction" count="26"/>
+      <shelf name="read-in-2014" count="25"/>
+      <shelf name="read-2013" count="25"/>
+      <shelf name="maybe" count="24"/>
+      <shelf name="read-2014" count="22"/>
+      <shelf name="ebook" count="22"/>
+      <shelf name="bookclub" count="21"/>
+      <shelf name="audio-books" count="20"/>
+      <shelf name="psychological-thriller" count="20"/>
+      <shelf name="wish-list" count="20"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="mysteries" count="18"/>
+      <shelf name="novels" count="17"/>
+      <shelf name="friendship" count="17"/>
+      <shelf name="read-in-2015" count="16"/>
+      <shelf name="did-not-finish" count="16"/>
+      <shelf name="prohibition" count="16"/>
+      <shelf name="read-in-2016" count="14"/>
+      <shelf name="read-2015" count="14"/>
+      <shelf name="recommended" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="to-read-fiction" count="14"/>
+      <shelf name="nyc" count="14"/>
+      <shelf name="drama" count="14"/>
+      <shelf name="audio-book" count="13"/>
+      <shelf name="contemporary-fiction" count="13"/>
+      <shelf name="new-york-city" count="13"/>
+      <shelf name="women" count="13"/>
+      <shelf name="bootlegging" count="12"/>
+      <shelf name="borrowed" count="12"/>
+      <shelf name="own-it" count="12"/>
+      <shelf name="general-fiction" count="12"/>
+      <shelf name="2013-reads" count="12"/>
+      <shelf name="2014-reads" count="11"/>
+      <shelf name="i-own" count="11"/>
+      <shelf name="debut" count="11"/>
+      <shelf name="book-club-picks" count="11"/>
+      <shelf name="history" count="11"/>
+      <shelf name="audible" count="11"/>
+      <shelf name="favourites" count="11"/>
+      <shelf name="suspense-thriller" count="11"/>
+      <shelf name="lgbt" count="10"/>
+      <shelf name="book-club-books" count="10"/>
+      <shelf name="listened-to" count="10"/>
+      <shelf name="jazz-age" count="10"/>
+      <shelf name="library-book" count="10"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="ebooks" count="10"/>
+      <shelf name="dnf" count="10"/>
+      <shelf name="arc" count="10"/>
+      <shelf name="2014-books" count="9"/>
+      <shelf name="default" count="9"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="my-books" count="9"/>
+      <shelf name="reviewed" count="9"/>
+      <shelf name="psychological-suspense" count="9"/>
+      <shelf name="historical-mystery" count="9"/>
+      <shelf name="mystery-thriller-suspense" count="9"/>
+      <shelf name="mystery-suspense" count="9"/>
+      <shelf name="fiction-historical" count="9"/>
+      <shelf name="female-authors" count="8"/>
+      <shelf name="crime-fiction" count="8"/>
+      <shelf name="gave-up-on" count="8"/>
+      <shelf name="psychological" count="8"/>
+      <shelf name="book-club-reads" count="8"/>
+      <shelf name="psychology" count="8"/>
+      <shelf name="mystery-crime" count="8"/>
+      <shelf name="debut-novel" count="8"/>
+      <shelf name="2013-books" count="8"/>
+      <shelf name="women-writers" count="8"/>
+      <shelf name="own-to-read" count="7"/>
+      <shelf name="finished" count="7"/>
+      <shelf name="literary" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1219123</id>
+<title>Ulverton</title>
+<title_without_series>Ulverton</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1219123.Ulverton]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327784303l/1219123._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327784303l/1219123._SX98_.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>1790526</id>
+</work>
+<isbn>0749397047</isbn>
+<isbn13>9780749397043</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>87478</id>
+<name>Adam Thorpe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87478.Adam_Thorpe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9418326</id>
+<title>To Be Sung Underwater</title>
+<title_without_series>To Be Sung Underwater</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9418326-to-be-sung-underwater]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>436</num_pages>
+<work>
+<id>14302658</id>
+</work>
+<isbn>0316127396</isbn>
+<isbn13>9780316127394</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>253358</id>
+<name>Tom McNeal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/253358.Tom_McNeal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20702582</id>
+<title>In Certain Circles</title>
+<title_without_series>In Certain Circles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20702582-in-certain-circles]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398195152l/20702582._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398195152l/20702582._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>40022413</id>
+</work>
+<isbn>192218229X</isbn>
+<isbn13>9781922182296</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>1108054</id>
+<name>Elizabeth Harrower</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1108054.Elizabeth_Harrower]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40554182</id>
+<title>How To Find Home</title>
+<title_without_series>How To Find Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40554182-how-to-find-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565243913l/40554182._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565243913l/40554182._SX98_.jpg]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>62979542</id>
+</work>
+<isbn>147354307X</isbn>
+<isbn13>9781473543072</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>11404315</id>
+<name>Mahsuda Snaith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11404315.Mahsuda_Snaith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22841065</id>
+<title>Academy Street</title>
+<title_without_series>Academy Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22841065-academy-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406685633l/22841065._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406685633l/22841065._SX98_.jpg]]></image_url>
+<num_pages>179</num_pages>
+<work>
+<id>42398227</id>
+</work>
+<isbn></isbn>
+<isbn13>9781922182449</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>863035</id>
+<name>Mary Costello</name>
+<link><![CDATA[https://www.goodreads.com/author/show/863035.Mary_Costello]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12389865</id>
+<title>The Uninvited Guests</title>
+<title_without_series>The Uninvited Guests</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12389865-the-uninvited-guests]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576548l/12389865._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576548l/12389865._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>17370885</id>
+</work>
+<isbn>0307402533</isbn>
+<isbn13>9780307402530</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>821338</id>
+<name>Sadie Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/821338.Sadie_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16071789</id>
+<title>Red Joan</title>
+<title_without_series>Red Joan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16071789-red-joan]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350605710l/16071789._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350605710l/16071789._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>21865794</id>
+</work>
+<isbn>038568004X</isbn>
+<isbn13>9780385680042</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>1786721</id>
+<name>Jennie Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1786721.Jennie_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1916493</id>
+<title><![CDATA[The Backward Shadow (Jane Graham, #2)]]></title>
+<title_without_series>The Backward Shadow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1916493.The_Backward_Shadow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>2437836</id>
+</work>
+<isbn>0140034935</isbn>
+<isbn13>9780140034936</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>72237</id>
+<name>Lynne Reid Banks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72237.Lynne_Reid_Banks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>655425</id>
+<title>Whisky Galore</title>
+<title_without_series>Whisky Galore</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/655425.Whisky_Galore]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330427795l/655425._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330427795l/655425._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>641523</id>
+</work>
+<isbn>0099453541</isbn>
+<isbn13>9780099453543</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>57182</id>
+<name>Compton Mackenzie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57182.Compton_Mackenzie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43412959</id>
+<title>The Offing</title>
+<title_without_series>The Offing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43412959-the-offing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557678656l/43412959._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557678656l/43412959._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>67454829</id>
+</work>
+<isbn>1526611317</isbn>
+<isbn13>9781526611314</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>6579300</id>
+<name>Benjamin Myers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6579300.Benjamin_Myers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22295394</id>
+<title>Hopeful</title>
+<title_without_series>Hopeful</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22295394-hopeful]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420776038l/22295394._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420776038l/22295394._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>41683429</id>
+</work>
+<isbn>1472218612</isbn>
+<isbn13>9781472218612</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>8261851</id>
+<name>Omid Djalili</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8261851.Omid_Djalili]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24315725</id>
+<title><![CDATA[Happy Is the New Healthy: 31 Ways to Relax, Let Go, and Enjoy Life NOW!]]></title>
+<title_without_series><![CDATA[Happy Is the New Healthy: 31 Ways to Relax, Let Go, and Enjoy Life NOW!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24315725-happy-is-the-new-healthy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>43894163</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1278250</id>
+<name>David Romanelli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1278250.David_Romanelli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4479186</id>
+<title><![CDATA[The Immortal Fire (Cronus Chronicles, #3)]]></title>
+<title_without_series>The Immortal Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4479186-the-immortal-fire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>4527480</id>
+</work>
+<isbn>141690591X</isbn>
+<isbn13>9781416905912</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>122302</id>
+<name>Anne Ursu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122302.Anne_Ursu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2052349</id>
+<title><![CDATA[The Book Stops Here (Mobile Library Mystery, #3)]]></title>
+<title_without_series>The Book Stops Here</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2052349.The_Book_Stops_Here]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328351313l/2052349._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328351313l/2052349._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>2057407</id>
+</work>
+<isbn>0061452009</isbn>
+<isbn13>9780061452000</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>80213</id>
+<name>Ian Sansom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80213.Ian_Sansom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33154567</id>
+<title><![CDATA[Your Chinese Horoscope for Each and Every Year]]></title>
+<title_without_series><![CDATA[Your Chinese Horoscope for Each and Every Year]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33154567-your-chinese-horoscope-for-each-and-every-year]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>53846932</id>
+</work>
+<isbn>0008239371</isbn>
+<isbn13>9780008239374</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>208140</id>
+<name>Neil Somerville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/208140.Neil_Somerville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42124411</id>
+<title><![CDATA[Cherry Scones & Broken Bones (A Very Cherry Mystery #2)]]></title>
+<title_without_series>Cherry Scones &amp; Broken Bones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42124411-cherry-scones-broken-bones]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552933304l/42124411._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552933304l/42124411._SX98_.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>65721633</id>
+</work>
+<isbn>0738758388</isbn>
+<isbn13>9780738758381</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>3155399</id>
+<name>Darci Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3155399.Darci_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>332853</id>
+<title><![CDATA[The Siren Song (Cronus Chronicles, #2)]]></title>
+<title_without_series>The Siren Song</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/332853.The_Siren_Song]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>323386</id>
+</work>
+<isbn>1416905898</isbn>
+<isbn13>9781416905899</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>17015</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>122302</id>
+<name>Anne Ursu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122302.Anne_Ursu]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

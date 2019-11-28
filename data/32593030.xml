@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>32593030</id>
+  <title>Wicked Little Words</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B01MAUYKFX]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[Edwin Allen Mercer <br />I want them all to read my words. And they do. Every last blood-stained sentence, they've read and praised me for. They love the gore and violence, the realness. And I get a sense of power with it all because I know a secret: the victims in my books—they’re real and have all died on my table. And maybe that’s why the last book had such awful reviews. Murder is, after all, a dirty little thing. Some can stomach it. Others can’t. My answer to those reviews: find a woman to co-author with. To be the next pathetic character in my book. Pity she’s so pretty. <br /> <br />Miranda Cross <br />All I’ve ever wanted was to be successful as a writer so when I was offered the opportunity to co-author a book with my idol, EA Mercer, I jumped at the chance. He’s beautiful and a literary genius, but something about him makes my stomach knot. And maybe it’s my overactive imagination making my hairs stand on end when he walks up behind me. <br />After all, these wicked little words we’re typing are only fiction. They’re only fiction…]]></description>
+  <work>
+  <id type="integer">52955279</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">32593030</best_book_id>
+  <reviews_count type="integer">4614</reviews_count>
+  <ratings_sum type="integer">3483</ratings_sum>
+  <ratings_count type="integer">831</ratings_count>
+  <text_reviews_count type="integer">279</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">31</original_publication_day>
+  <original_title>Wicked Little Words</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:441|4:208|3:108|2:48|1:26|total:831</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.jhbivBBbEzJMfdj5q-BlWA</work_uri>
+</work>
+  <average_rating>4.19</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[657]]></ratings_count>
+  <text_reviews_count><![CDATA[177]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32593030-wicked-little-words]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32593030-wicked-little-words]]></link>
+  <authors>
+<author>
+<id>7736491</id>
+<name>Stevie J. Cole</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477927299p5/7736491.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477927299p2/7736491.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7736491.Stevie_J_Cole]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>24781</ratings_count>
+<text_reviews_count>5201</text_reviews_count>
+</author>
+<author>
+<id>13453341</id>
+<name>B.T. Urruela</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1466486703p5/13453341.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1466486703p2/13453341.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13453341.B_T_Urruela]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>10152</ratings_count>
+<text_reviews_count>2586</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32593030-wicked-little-words">Wicked Little Words Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B01MAUYKFX&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/32593030-wicked-little-words?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3499"/>
+      <shelf name="currently-reading" count="89"/>
+      <shelf name="horror" count="44"/>
+      <shelf name="dark" count="33"/>
+      <shelf name="thriller" count="21"/>
+      <shelf name="suspense" count="19"/>
+      <shelf name="mystery" count="15"/>
+      <shelf name="favorites" count="15"/>
+      <shelf name="kindle-unlimited" count="13"/>
+      <shelf name="kindle" count="10"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="standalone" count="6"/>
+      <shelf name="book-club" count="5"/>
+      <shelf name="fiction" count="5"/>
+      <shelf name="2016-reads" count="5"/>
+      <shelf name="crime" count="4"/>
+      <shelf name="suspense-thriller" count="4"/>
+      <shelf name="mystery-thriller-horror" count="4"/>
+      <shelf name="twisted" count="4"/>
+      <shelf name="mystery-thriller" count="4"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="dark-romance" count="4"/>
+      <shelf name="erotica" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="to-read-horror" count="3"/>
+      <shelf name="horror-thriller" count="3"/>
+      <shelf name="crime-thriller" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="psychological" count="3"/>
+      <shelf name="taboo" count="3"/>
+      <shelf name="dark-and-twisted" count="3"/>
+      <shelf name="5-stars" count="3"/>
+      <shelf name="arcs" count="3"/>
+      <shelf name="bt-urruela" count="2"/>
+      <shelf name="mystery-suspense-thriller" count="2"/>
+      <shelf name="not-on-overdrive" count="2"/>
+      <shelf name="mental-illness" count="2"/>
+      <shelf name="scary" count="2"/>
+      <shelf name="preview" count="2"/>
+      <shelf name="need-to-buy" count="2"/>
+      <shelf name="gritty" count="2"/>
+      <shelf name="dark-read" count="2"/>
+      <shelf name="books-2016" count="2"/>
+      <shelf name="2016-books" count="2"/>
+      <shelf name="what-did-i-just-read" count="2"/>
+      <shelf name="mind-fuck" count="2"/>
+      <shelf name="dark-reads" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="romantic-suspense" count="2"/>
+      <shelf name="romance" count="2"/>
+      <shelf name="adult-fiction" count="2"/>
+      <shelf name="not-what-i-expected" count="2"/>
+      <shelf name="intriguing" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="prime-reading" count="1"/>
+      <shelf name="comprob-ceder-laa" count="1"/>
+      <shelf name="unfinished" count="1"/>
+      <shelf name="permanent-no" count="1"/>
+      <shelf name="perman" count="1"/>
+      <shelf name="tbr-other" count="1"/>
+      <shelf name="2016-readers-choice" count="1"/>
+      <shelf name="2016grchoiceawards" count="1"/>
+      <shelf name="tenho" count="1"/>
+      <shelf name="horror-i-want-to-read" count="1"/>
+      <shelf name="nopety-nopes" count="1"/>
+      <shelf name="queue" count="1"/>
+      <shelf name="200-pages-or-less" count="1"/>
+      <shelf name="thrillers-psychological" count="1"/>
+      <shelf name="multiple-personality" count="1"/>
+      <shelf name="gca2016" count="1"/>
+      <shelf name="thriller-mystery" count="1"/>
+      <shelf name="needs-review" count="1"/>
+      <shelf name="unread-owned" count="1"/>
+      <shelf name="pass" count="1"/>
+      <shelf name="wtf-i-just-read" count="1"/>
+      <shelf name="favorite-wtf-mindfu-k-books" count="1"/>
+      <shelf name="to-read-obtained" count="1"/>
+      <shelf name="read-in-2019" count="1"/>
+      <shelf name="books-i-own-tbr" count="1"/>
+      <shelf name="to-read-one-day" count="1"/>
+      <shelf name="2nd-moon" count="1"/>
+      <shelf name="don-t-own" count="1"/>
+      <shelf name="to-read-ebook" count="1"/>
+      <shelf name="tbr-standalones" count="1"/>
+      <shelf name="to-read-standalone" count="1"/>
+      <shelf name="canaries-tbr-s-2018" count="1"/>
+      <shelf name="ent-actor-celebrity" count="1"/>
+      <shelf name="psychopath" count="1"/>
+      <shelf name="books-owned-on-kindle" count="1"/>
+      <shelf name="try-a-chapter" count="1"/>
+      <shelf name="gr-16" count="1"/>
+      <shelf name="lidos-2018" count="1"/>
+      <shelf name="next-to-read" count="1"/>
+      <shelf name="crazy" count="1"/>
+      <shelf name="get-lit-erature" count="1"/>
+      <shelf name="i-own-you" count="1"/>
+      <shelf name="horrortoread" count="1"/>
+      <shelf name="owned-signed-by-author" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>26166418</id>
+<title>A Lover&apos;s Lament</title>
+<title_without_series>A Lover&apos;s Lament</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26166418-a-lover-s-lament]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>362</num_pages>
+<work>
+<id>44464324</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8299638</id>
+<name>K.L. Grayson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8299638.K_L_Grayson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35225380</id>
+<title>Never Far</title>
+<title_without_series>Never Far</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35225380-never-far]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>142</num_pages>
+<work>
+<id>56225770</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14900030</id>
+<name>A.A. Dark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14900030.A_A_Dark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35994959</id>
+<title>Bad (Bad. Dirty. Power. #1)</title>
+<title_without_series>Bad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35994959-bad]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509390697l/35994959._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509390697l/35994959._SX98_.jpg]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>57558031</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7850247</id>
+<name>L.P. Lovell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7850247.L_P_Lovell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33405492</id>
+<title><![CDATA[Into the Blood (Broken Outlaw #2)]]></title>
+<title_without_series>Into the Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33405492-into-the-blood]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>54004198</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13453341</id>
+<name>B.T. Urruela</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13453341.B_T_Urruela]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44858383</id>
+<title>Breaking Beth</title>
+<title_without_series>Breaking Beth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44858383-breaking-beth]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554689709l/44858383._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554689709l/44858383._SX98_.jpg]]></image_url>
+<num_pages>172</num_pages>
+<work>
+<id>69524587</id>
+</work>
+<isbn></isbn>
+<isbn13>9781946722218</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>9867221</id>
+<name>Jennifer Bene</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9867221.Jennifer_Bene]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30079311</id>
+<title><![CDATA[Into the Nothing (Broken Outlaw, #1)]]></title>
+<title_without_series>Into the Nothing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30079311-into-the-nothing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464072086l/30079311._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464072086l/30079311._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>50499264</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>13453341</id>
+<name>B.T. Urruela</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13453341.B_T_Urruela]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36548003</id>
+<title>Dirty (Bad. Dirty. Power. #2)</title>
+<title_without_series>Dirty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36548003-dirty]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517539091l/36548003._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517539091l/36548003._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58279636</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7850247</id>
+<name>L.P. Lovell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7850247.L_P_Lovell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13584886</id>
+<title>Held (Held, #1)</title>
+<title_without_series>Held</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13584886-held]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465695704l/13584886._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465695704l/13584886._SX98_.jpg]]></image_url>
+<num_pages>204</num_pages>
+<work>
+<id>19172015</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>5196896</id>
+<name>Kimberly A. Bettes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5196896.Kimberly_A_Bettes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35706814</id>
+<title>Pitch Dark</title>
+<title_without_series>Pitch Dark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35706814-pitch-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504923085l/35706814._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504923085l/35706814._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57203799</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>13403323</id>
+<name>A.M.  Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13403323.A_M_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33974608</id>
+<title><![CDATA[Thirty Days: Part One (SwipeDate, #1)]]></title>
+<title_without_series>Thirty Days: Part One</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33974608-thirty-days]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494416858l/33974608._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494416858l/33974608._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56409341</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>13453341</id>
+<name>B.T. Urruela</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13453341.B_T_Urruela]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43696406</id>
+<title>Death</title>
+<title_without_series>Death</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43696406-death]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562750823l/43696406._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562750823l/43696406._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67990969</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>17069360</id>
+<name>C.M. Radcliff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17069360.C_M_Radcliff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40982741</id>
+<title>The Glue</title>
+<title_without_series>The Glue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40982741-the-glue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534997383l/40982741._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534997383l/40982741._SX98_.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>63944953</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7741564</id>
+<name>K.  Webster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7741564.K_Webster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35097159</id>
+<title><![CDATA[Thirty Days: Part Two (SwipeDate, #2)]]></title>
+<title_without_series>Thirty Days: Part Two</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35097159-thirty-days]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56125448</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13453341</id>
+<name>B.T. Urruela</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13453341.B_T_Urruela]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44077866</id>
+<title>Stalk Her</title>
+<title_without_series>Stalk Her</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44077866-stalk-her]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66113976</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7313508</id>
+<name>Ker Dukey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7313508.Ker_Dukey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42278964</id>
+<title>Cold Cole Heart</title>
+<title_without_series>Cold Cole Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42278964-cold-cole-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541086252l/42278964._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541086252l/42278964._SX98_.jpg]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>65910313</id>
+</work>
+<isbn>1731147112</isbn>
+<isbn13>9781731147110</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7741564</id>
+<name>K.  Webster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7741564.K_Webster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35841274</id>
+<title><![CDATA[Thirty Days: Part Three (SwipeDate, #3)]]></title>
+<title_without_series>Thirty Days: Part Three</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35841274-thirty-days]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526154499l/35841274._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526154499l/35841274._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57351056</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>13453341</id>
+<name>B.T. Urruela</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13453341.B_T_Urruela]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30373904</id>
+<title>Blister</title>
+<title_without_series>Blister</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30373904-blister]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465397698l/30373904._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465397698l/30373904._SX98_.jpg]]></image_url>
+<num_pages>215</num_pages>
+<work>
+<id>50888037</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>207708</id>
+<name>Jeff Strand</name>
+<link><![CDATA[https://www.goodreads.com/author/show/207708.Jeff_Strand]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36307237</id>
+<title><![CDATA[Pretty Broken Dolls (Pretty Little Dolls #4)]]></title>
+<title_without_series>Pretty Broken Dolls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36307237-pretty-broken-dolls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>205</num_pages>
+<work>
+<id>57371402</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7313508</id>
+<name>Ker Dukey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7313508.Ker_Dukey]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

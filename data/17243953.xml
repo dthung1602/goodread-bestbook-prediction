@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17243953</id>
+  <title>Hi, Koo!</title>
+  <isbn><![CDATA[0545166683]]></isbn>
+  <isbn13><![CDATA[9780545166683]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384382708l/17243953._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384382708l/17243953._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Scholastic Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Caldecott Honoree and NEW YORK TIMES bestselling author/artist Jon J Muth takes a fresh and exciting new look at the four seasons!<br /><br />Eating warm cookies<br />on a cold day<br />is easy<br /><br />water catches<br />every thrown stone<br />skip skip splash<br /><br />With a featherlight touch and disarming charm, Jon J Muth--and his delightful little panda bear, Koo--challenge readers to stretch their minds and imaginations with twenty-six haikus about the four seasons.]]></description>
+  <work>
+  <id type="integer">23800251</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">17243953</best_book_id>
+  <reviews_count type="integer">5244</reviews_count>
+  <ratings_sum type="integer">8528</ratings_sum>
+  <ratings_count type="integer">2132</ratings_count>
+  <text_reviews_count type="integer">465</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title>Hi, Koo!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:738|4:842|3:411|2:96|1:45|total:2132</rating_dist>
+  <desc_user_id type="integer">4134979</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.w3L2rXkPuw2H1ZJl62qUoA</work_uri>
+</work>
+  <average_rating>4.00</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2128]]></ratings_count>
+  <text_reviews_count><![CDATA[465]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17243953-hi-koo]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17243953-hi-koo]]></link>
+  <authors>
+<author>
+<id>12733</id>
+<name>Jon J. Muth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1217438951p5/12733.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1217438951p2/12733.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12733.Jon_J_Muth]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>112206</ratings_count>
+<text_reviews_count>6978</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17243953-hi-koo">Hi, Koo! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545166683&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17243953-hi-koo?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2625"/>
+      <shelf name="poetry" count="403"/>
+      <shelf name="picture-books" count="272"/>
+      <shelf name="picture-book" count="102"/>
+      <shelf name="childrens" count="67"/>
+      <shelf name="seasons" count="54"/>
+      <shelf name="children" count="46"/>
+      <shelf name="children-s" count="44"/>
+      <shelf name="children-s-books" count="41"/>
+      <shelf name="currently-reading" count="25"/>
+      <shelf name="kids" count="24"/>
+      <shelf name="animals" count="23"/>
+      <shelf name="children-s-literature" count="15"/>
+      <shelf name="haiku" count="15"/>
+      <shelf name="childrens-books" count="15"/>
+      <shelf name="fiction" count="14"/>
+      <shelf name="nature" count="13"/>
+      <shelf name="pandas" count="12"/>
+      <shelf name="picturebooks" count="11"/>
+      <shelf name="picture" count="11"/>
+      <shelf name="kids-books" count="11"/>
+      <shelf name="childrens-poetry" count="10"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="03-informational" count="9"/>
+      <shelf name="storytime" count="9"/>
+      <shelf name="favorites" count="9"/>
+      <shelf name="mock-caldecott-2015" count="9"/>
+      <shelf name="poems" count="9"/>
+      <shelf name="nonfiction" count="8"/>
+      <shelf name="non-fiction" count="8"/>
+      <shelf name="read-2014" count="8"/>
+      <shelf name="children-s-poetry" count="8"/>
+      <shelf name="juvenile" count="8"/>
+      <shelf name="first-reads" count="8"/>
+      <shelf name="verse" count="7"/>
+      <shelf name="alphabet" count="7"/>
+      <shelf name="poetry-5" count="6"/>
+      <shelf name="informational" count="6"/>
+      <shelf name="children-s-lit" count="6"/>
+      <shelf name="read-in-2015" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="bears" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="seasonal" count="6"/>
+      <shelf name="weather" count="6"/>
+      <shelf name="winter" count="6"/>
+      <shelf name="poetry-verse" count="5"/>
+      <shelf name="childrens-lit" count="5"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="favorite-picture-books" count="5"/>
+      <shelf name="2014-picture-books" count="5"/>
+      <shelf name="reviewed" count="5"/>
+      <shelf name="friendship" count="5"/>
+      <shelf name="childrens-picture-books" count="5"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="poem" count="4"/>
+      <shelf name="1st-grade" count="4"/>
+      <shelf name="picturebook" count="4"/>
+      <shelf name="children-s-picture-books" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="preschool" count="4"/>
+      <shelf name="summer" count="4"/>
+      <shelf name="spring" count="4"/>
+      <shelf name="fall" count="4"/>
+      <shelf name="children-picture" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="cvtc-kidlit" count="3"/>
+      <shelf name="el230" count="3"/>
+      <shelf name="el-230" count="3"/>
+      <shelf name="wow-books" count="3"/>
+      <shelf name="1000-books" count="3"/>
+      <shelf name="japan" count="3"/>
+      <shelf name="zen" count="3"/>
+      <shelf name="asia" count="3"/>
+      <shelf name="general-fiction" count="3"/>
+      <shelf name="classroom" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="juvenile-poetry" count="3"/>
+      <shelf name="2015-caldecott-contenders" count="3"/>
+      <shelf name="classroom-library" count="3"/>
+      <shelf name="panda" count="3"/>
+      <shelf name="mock-caldecott" count="3"/>
+      <shelf name="baby-books" count="3"/>
+      <shelf name="books-read-in-2014" count="3"/>
+      <shelf name="kiddos" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="to-read-picture-books" count="3"/>
+      <shelf name="early-elementary" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="to-read-poetry" count="3"/>
+      <shelf name="new-books" count="3"/>
+      <shelf name="to-read-childrens" count="3"/>
+      <shelf name="concept-book" count="3"/>
+      <shelf name="audio_wanted" count="2"/>
+      <shelf name="ed-230" count="2"/>
+      <shelf name="picture-poetry" count="2"/>
+      <shelf name="diversity" count="2"/>
+      <shelf name="read-in-class" count="2"/>
+      <shelf name="age-4th-grade" count="2"/>
+      <shelf name="childrens-seasons" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>7493149</id>
+<title><![CDATA[Mirror Mirror: A Book of Reverso Poems]]></title>
+<title_without_series><![CDATA[Mirror Mirror: A Book of Reverso Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7493149-mirror-mirror]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355941572l/7493149._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355941572l/7493149._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>9639617</id>
+</work>
+<isbn>0525479015</isbn>
+<isbn13>9780525479017</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6210</id>
+<name>Marilyn Singer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6210.Marilyn_Singer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7224717</id>
+<title>City Dog, Country Frog</title>
+<title_without_series>City Dog, Country Frog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7224717-city-dog-country-frog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360569950l/7224717._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360569950l/7224717._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>8034304</id>
+</work>
+<isbn>1423103009</isbn>
+<isbn13>9781423103004</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8988888</id>
+<title><![CDATA[The Watcher: Jane Goodall's Life with the Chimps]]></title>
+<title_without_series><![CDATA[The Watcher: Jane Goodall's Life with the Chimps]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8988888-the-watcher]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469935l/8988888._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469935l/8988888._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>13866081</id>
+</work>
+<isbn>0375867740</isbn>
+<isbn13>9780375867743</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>64206</id>
+<name>Jeanette Winter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64206.Jeanette_Winter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26073068</id>
+<title>The Seventh Wish</title>
+<title_without_series>The Seventh Wish</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26073068-the-seventh-wish]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444727749l/26073068._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444727749l/26073068._SX98_.jpg]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>46010373</id>
+</work>
+<isbn>1619633760</isbn>
+<isbn13>9781619633766</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20696727</id>
+<title><![CDATA[The Right Word: Roget and His Thesaurus]]></title>
+<title_without_series><![CDATA[The Right Word: Roget and His Thesaurus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20696727-the-right-word]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424201895l/20696727._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424201895l/20696727._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>40016232</id>
+</work>
+<isbn>0802853854</isbn>
+<isbn13>9780802853851</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>500077</id>
+<name>Jen Bryant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/500077.Jen_Bryant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9796853</id>
+<title>A Dazzling Display of Dogs</title>
+<title_without_series>A Dazzling Display of Dogs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9796853-a-dazzling-display-of-dogs]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373937489l/9796853._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373937489l/9796853._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14686991</id>
+</work>
+<isbn>1582463433</isbn>
+<isbn13>9781582463438</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4234</id>
+<name>Betsy Franco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4234.Betsy_Franco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18405521</id>
+<title><![CDATA[Separate Is Never Equal: Sylvia Méndez and Her Family's Fight for Desegregation]]></title>
+<title_without_series><![CDATA[Separate Is Never Equal: Sylvia Méndez and Her Family's Fight for Desegregation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18405521-separate-is-never-equal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380754671l/18405521._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380754671l/18405521._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>26040394</id>
+</work>
+<isbn>1419710540</isbn>
+<isbn13>9781419710544</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3395383</id>
+<name>Duncan Tonatiuh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3395383.Duncan_Tonatiuh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18183382</id>
+<title>The Monkey Goes Bananas</title>
+<title_without_series>The Monkey Goes Bananas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18183382-the-monkey-goes-bananas]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380754654l/18183382._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380754654l/18183382._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25564103</id>
+</work>
+<isbn>1419708856</isbn>
+<isbn13>9781419708855</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7898514</id>
+<name>C.P. Bloom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7898514.C_P_Bloom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18166919</id>
+<title><![CDATA[Firefly July: A Year of Very Short Poems]]></title>
+<title_without_series><![CDATA[Firefly July: A Year of Very Short Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18166919-firefly-july]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384015361l/18166919._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384015361l/18166919._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>25533118</id>
+</work>
+<isbn>0763648426</isbn>
+<isbn13>9780763648428</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>121117</id>
+<name>Paul B. Janeczko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/121117.Paul_B_Janeczko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35356379</id>
+<title>Love</title>
+<title_without_series>Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35356379-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513266890l/35356379._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513266890l/35356379._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56718115</id>
+</work>
+<isbn>1524740918</isbn>
+<isbn13>9781524740917</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>821292</id>
+<title>My Name Is Yoon</title>
+<title_without_series>My Name Is Yoon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/821292.My_Name_Is_Yoon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737622l/821292._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737622l/821292._SX98_.jpg]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>807125</id>
+</work>
+<isbn>0374351147</isbn>
+<isbn13>9780374351144</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>304665</id>
+<name>Helen Recorvits</name>
+<link><![CDATA[https://www.goodreads.com/author/show/304665.Helen_Recorvits]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13531024</id>
+<title>This Is Not My Hat</title>
+<title_without_series>This Is Not My Hat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13531024-this-is-not-my-hat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360096324l/13531024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360096324l/13531024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19092692</id>
+</work>
+<isbn>0763655996</isbn>
+<isbn13>9780763655990</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>3118934</id>
+<name>Jon Klassen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118934.Jon_Klassen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28234753</id>
+<title>Alma and How She Got Her Name</title>
+<title_without_series>Alma and How She Got Her Name</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28234753-alma-and-how-she-got-her-name]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513197112l/28234753._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513197112l/28234753._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48265768</id>
+</work>
+<isbn>0763693553</isbn>
+<isbn13>9780763693558</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5300084</id>
+<name>Juana Martinez-Neal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5300084.Juana_Martinez_Neal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22553675</id>
+<title><![CDATA[Up in the Garden and Down in the Dirt]]></title>
+<title_without_series><![CDATA[Up in the Garden and Down in the Dirt]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22553675-up-in-the-garden-and-down-in-the-dirt]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415580998l/22553675._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415580998l/22553675._SX98_.jpg]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>42012495</id>
+</work>
+<isbn>1452119368</isbn>
+<isbn13>9781452119366</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40641079</id>
+<title>Lubna and Pebble</title>
+<title_without_series>Lubna and Pebble</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40641079-lubna-and-pebble]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529989281l/40641079._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529989281l/40641079._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>63146157</id>
+</work>
+<isbn>0525554165</isbn>
+<isbn13>9780525554165</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5041376</id>
+<name>Wendy Meddour</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5041376.Wendy_Meddour]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18764218</id>
+<title>Shooting at the Stars</title>
+<title_without_series>Shooting at the Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18764218-shooting-at-the-stars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397435671l/18764218._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397435671l/18764218._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>26662320</id>
+</work>
+<isbn>141971175X</isbn>
+<isbn13>9781419711756</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>343553</id>
+<name>John Hendrix</name>
+<link><![CDATA[https://www.goodreads.com/author/show/343553.John_Hendrix]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33377347</id>
+<title><![CDATA[The Girl Who Thought in Pictures: The Story of Dr. Temple Grandin]]></title>
+<title_without_series><![CDATA[The Girl Who Thought in Pictures: The Story of Dr. Temple Grandin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33377347-the-girl-who-thought-in-pictures]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485521272l/33377347._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485521272l/33377347._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54118629</id>
+</work>
+<isbn>1943147302</isbn>
+<isbn13>9781943147304</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2132</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>16188634</id>
+<name>Julia Finley Mosca</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16188634.Julia_Finley_Mosca]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

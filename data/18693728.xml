@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18693728</id>
+  <title><![CDATA[The Mockingbird Next Door: Life with Harper Lee]]></title>
+  <isbn><![CDATA[1594205191]]></isbn>
+  <isbn13><![CDATA[9781594205194]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405865883l/18693728._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405865883l/18693728._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Penguin Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>To Kill a Mockingbird </i>by Harper Lee is one of the best loved novels of the twentieth century. But for the last fifty years, the novel’s celebrated author, Harper Lee, has said almost nothing on the record. Journalists have trekked to her hometown of Monroeville, Alabama, where Harper Lee, known to her friends as Nelle, has lived with her sister, Alice, for decades, trying and failing to get an interview with the author. But in 2001, the Lee sisters opened their door to <i>Chicago Tribune </i>journalist Marja Mills. It was the beginning of a long conversation—and a great friendship.<br /> <br />In 2004, with the Lees’ blessing, Mills moved into the house next door to the sisters. She spent the next eighteen months there, sharing coffee at McDonalds and trips to the Laundromat with Nelle, feeding the ducks and going out for catfish supper with the sisters, and exploring all over lower Alabama with the Lees’ inner circle of friends.<br /> <br />Nelle shared her love of history, literature, and the Southern way of life with Mills, as well as her keen sense of how journalism should be practiced. As the sisters decided to let Mills tell their story, Nelle helped make sure she was getting the story—and the South—right. Alice, the keeper of the Lee family history, shared the stories of their family.<br /> <br /><i>The Mockingbird Next Door </i>is the story of Mills’s friendship with the Lee sisters. It is a testament to the great intelligence, sharp wit, and tremendous storytelling power of these two women, especially that of Nelle.<br /> <br />Mills was given a rare opportunity to know Nelle Harper Lee, to be part of the Lees’ life in Alabama, and to hear them reflect on their upbringing, their corner of the Deep South, how <i>To Kill a Mockingbird</i> affected their lives, and why Nelle Harper Lee chose to never write another novel.]]></description>
+  <work>
+  <id type="integer">26542274</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">18693728</best_book_id>
+  <reviews_count type="integer">20570</reviews_count>
+  <ratings_sum type="integer">24021</ratings_sum>
+  <ratings_count type="integer">7046</ratings_count>
+  <text_reviews_count type="integer">1217</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>The Mockingbird Next Door: Life with Harper Lee</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1322|4:2096|3:2203|2:993|1:432|total:7046</rating_dist>
+  <desc_user_id type="integer">-44</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.irnThDySe_HZb1Je7_49jw</work_uri>
+</work>
+  <average_rating>3.41</average_rating>
+  <num_pages><![CDATA[278]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[6122]]></ratings_count>
+  <text_reviews_count><![CDATA[1127]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18693728-the-mockingbird-next-door]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18693728-the-mockingbird-next-door]]></link>
+  <authors>
+<author>
+<id>7353452</id>
+<name>Marja Mills</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416450867p5/7353452.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416450867p2/7353452.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7353452.Marja_Mills]]></link>
+<average_rating>3.41</average_rating>
+<ratings_count>7052</ratings_count>
+<text_reviews_count>1218</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18693728-the-mockingbird-next-door">The Mockingbird Next Door Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594205191&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18693728-the-mockingbird-next-door?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1455"/>
+      <shelf name="nonfiction" count="110"/>
+      <shelf name="non-fiction" count="98"/>
+      <shelf name="memoir" count="86"/>
+      <shelf name="biography" count="82"/>
+      <shelf name="book-club" count="46"/>
+      <shelf name="biography-memoir" count="38"/>
+      <shelf name="memoirs" count="24"/>
+      <shelf name="history" count="24"/>
+      <shelf name="audio" count="22"/>
+      <shelf name="books-about-books" count="20"/>
+      <shelf name="audiobooks" count="19"/>
+      <shelf name="biographies" count="18"/>
+      <shelf name="read-in-2015" count="17"/>
+      <shelf name="library" count="17"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="harper-lee" count="12"/>
+      <shelf name="memoir-biography" count="12"/>
+      <shelf name="southern" count="12"/>
+      <shelf name="adult" count="12"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="books-i-own" count="10"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="audiobook" count="8"/>
+      <shelf name="bio-memoir" count="8"/>
+      <shelf name="to-kill-a-mockingbird" count="7"/>
+      <shelf name="friendship" count="7"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="literature" count="7"/>
+      <shelf name="alabama" count="6"/>
+      <shelf name="bookclub" count="6"/>
+      <shelf name="2015-books" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="south" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="autobiography" count="5"/>
+      <shelf name="listened-to" count="5"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="america" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="writing" count="5"/>
+      <shelf name="biography-autobiography" count="4"/>
+      <shelf name="gave-up-on" count="4"/>
+      <shelf name="memoirs-biographies" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="biography-memoirs" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="2014-books-read" count="4"/>
+      <shelf name="writers" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="overdrive" count="4"/>
+      <shelf name="books-read-in-2014" count="4"/>
+      <shelf name="bio" count="4"/>
+      <shelf name="to-read-nonfiction" count="4"/>
+      <shelf name="history-biography" count="4"/>
+      <shelf name="adult-nonfiction" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="fiction" count="4"/>
+      <shelf name="memoir-bio" count="4"/>
+      <shelf name="library-reads" count="4"/>
+      <shelf name="could-not-finish" count="4"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="own-to-read" count="3"/>
+      <shelf name="lee" count="3"/>
+      <shelf name="memoir-autobiography" count="3"/>
+      <shelf name="2015-reading-challenge" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="non-fic" count="3"/>
+      <shelf name="in-my-library" count="3"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="2015-books-read" count="3"/>
+      <shelf name="from-library" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="2015-reading-list" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="choice-awards" count="3"/>
+      <shelf name="biographical" count="3"/>
+      <shelf name="on-kindle" count="3"/>
+      <shelf name="family" count="3"/>
+      <shelf name="non-fiction-memoir" count="3"/>
+      <shelf name="book-group" count="3"/>
+      <shelf name="biography-history" count="3"/>
+      <shelf name="2014-read" count="3"/>
+      <shelf name="books-on-books" count="3"/>
+      <shelf name="new" count="3"/>
+      <shelf name="the-south" count="3"/>
+      <shelf name="sisters" count="3"/>
+      <shelf name="default" count="3"/>
+      <shelf name="american-south" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="american-literature" count="3"/>
+      <shelf name="2014-reads" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="biography-and-memoir" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>114408</id>
+<title><![CDATA[Mockingbird: A Portrait of Harper Lee]]></title>
+<title_without_series><![CDATA[Mockingbird: A Portrait of Harper Lee]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114408.Mockingbird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316728815l/114408._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316728815l/114408._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>17070</id>
+</work>
+<isbn>0805083197</isbn>
+<isbn13>9780805083194</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>9460</id>
+<name>Charles J. Shields</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9460.Charles_J_Shields]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17177648</id>
+<title><![CDATA[Covering Your Life in Prayer: Discover a Life-Changing Conversation with God]]></title>
+<title_without_series><![CDATA[Covering Your Life in Prayer: Discover a Life-Changing Conversation with God]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17177648-covering-your-life-in-prayer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371432722l/17177648._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371432722l/17177648._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>25812323</id>
+</work>
+<isbn>0736953272</isbn>
+<isbn13>9780736953276</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2988862</id>
+<name>Erwin W. Lutzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2988862.Erwin_W_Lutzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42641985</id>
+<title><![CDATA[Let's Fake a Deal (Sarah Winston Garage Sale Mystery #7)]]></title>
+<title_without_series>Let&apos;s Fake a Deal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42641985-let-s-fake-a-deal]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66378576</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6208827</id>
+<name>Sherry Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6208827.Sherry_Harris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35266995</id>
+<title><![CDATA[I Know What You Bid Last Summer (Sarah Winston Garage Sale Mystery #5)]]></title>
+<title_without_series><![CDATA[I Know What You Bid Last Summer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35266995-i-know-what-you-bid-last-summer]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>56623103</id>
+</work>
+<isbn>1496707532</isbn>
+<isbn13>9781496707536</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>6208827</id>
+<name>Sherry Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6208827.Sherry_Harris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31349508</id>
+<title><![CDATA[A Good Day to Buy (Sarah Winston Garage Sale Mystery #4)]]></title>
+<title_without_series>A Good Day to Buy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31349508-a-good-day-to-buy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471291365l/31349508._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471291365l/31349508._SY160_.jpg]]></image_url>
+<num_pages>311</num_pages>
+<work>
+<id>52027686</id>
+</work>
+<isbn>1496707516</isbn>
+<isbn13>9781496707512</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>6208827</id>
+<name>Sherry Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6208827.Sherry_Harris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26025658</id>
+<title><![CDATA[All Murders Final! (Sarah Winston Garage Sale Mystery #3)]]></title>
+<title_without_series>All Murders Final!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26025658-all-murders-final]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460991937l/26025658._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460991937l/26025658._SX98_.jpg]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>45948985</id>
+</work>
+<isbn>1617730211</isbn>
+<isbn13>9781617730214</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6208827</id>
+<name>Sherry Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6208827.Sherry_Harris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22891484</id>
+<title><![CDATA[The Longest Yard Sale (Sarah Winston Garage Sale Mystery #2)]]></title>
+<title_without_series>The Longest Yard Sale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22891484-the-longest-yard-sale]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413070728l/22891484._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413070728l/22891484._SX98_.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>42461558</id>
+</work>
+<isbn>161773019X</isbn>
+<isbn13>9781617730191</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6208827</id>
+<name>Sherry Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6208827.Sherry_Harris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18282002</id>
+<title><![CDATA[Tagged for Death (Sarah Winston Garage Sale Mystery #1)]]></title>
+<title_without_series>Tagged for Death</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18282002-tagged-for-death]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400892790l/18282002._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400892790l/18282002._SY160_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>25755208</id>
+</work>
+<isbn>1617730173</isbn>
+<isbn13>9781617730177</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>12</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6208827</id>
+<name>Sherry Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6208827.Sherry_Harris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5980771</id>
+<title>Harper Lee</title>
+<title_without_series>Harper Lee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5980771-harper-lee]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>6154108</id>
+</work>
+<isbn>0670010952</isbn>
+<isbn13>9780670010950</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>137534</id>
+<name>Kerry Madden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/137534.Kerry_Madden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41883932</id>
+<title><![CDATA[Furious Hours: Murder, Fraud, and the Last Trial of Harper Lee]]></title>
+<title_without_series><![CDATA[Furious Hours: Murder, Fraud, and the Last Trial of Harper Lee]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41883932-furious-hours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542898679l/41883932._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542898679l/41883932._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>65284419</id>
+</work>
+<isbn>1101947861</isbn>
+<isbn13>9781101947869</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>18416902</id>
+<name>Casey Cep</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18416902.Casey_Cep]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31850589</id>
+<title><![CDATA[Mockingbird Songs: My Friendship with Harper Lee]]></title>
+<title_without_series><![CDATA[Mockingbird Songs: My Friendship with Harper Lee]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31850589-mockingbird-songs]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481095059l/31850589._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481095059l/31850589._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>52520892</id>
+</work>
+<isbn>006266008X</isbn>
+<isbn13>9780062660084</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>326923</id>
+<name>Wayne Flynt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326923.Wayne_Flynt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7078095</id>
+<title><![CDATA[Scout, Atticus, and Boo: A Celebration of Fifty Years of "To Kill a Mockingbird"]]></title>
+<title_without_series><![CDATA[Scout, Atticus, and Boo: A Celebration of Fifty Years of "To Kill a Mockingbird"]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7078095-scout-atticus-and-boo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>217</num_pages>
+<work>
+<id>7332603</id>
+</work>
+<isbn>0061924075</isbn>
+<isbn13>9780061924071</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4120488</id>
+<name>Mary McDonagh Murphy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4120488.Mary_McDonagh_Murphy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>84917</id>
+<title><![CDATA[Girl Sleuth: Nancy Drew and the Women Who Created Her]]></title>
+<title_without_series><![CDATA[Girl Sleuth: Nancy Drew and the Women Who Created Her]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/84917.Girl_Sleuth]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328874868l/84917._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328874868l/84917._SX98_.jpg]]></image_url>
+<num_pages>314</num_pages>
+<work>
+<id>920928</id>
+</work>
+<isbn>015603056X</isbn>
+<isbn13>9780156030564</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>48553</id>
+<name>Melanie Rehak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48553.Melanie_Rehak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8175807</id>
+<title><![CDATA[America by Heart: Reflections on Family, Faith, and Flag]]></title>
+<title_without_series><![CDATA[America by Heart: Reflections on Family, Faith, and Flag]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8175807-america-by-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280439574l/8175807._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1280439574l/8175807._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>13022253</id>
+</work>
+<isbn>0062010964</isbn>
+<isbn13>9780062010964</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>2040815</id>
+<name>Sarah Palin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2040815.Sarah_Palin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73067</id>
+<title>Dr. Susan Love&apos;s Breast Book</title>
+<title_without_series>Dr. Susan Love&apos;s Breast Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73067.Dr_Susan_Love_s_Breast_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>70721</id>
+</work>
+<isbn>0738209732</isbn>
+<isbn13>9780738209739</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>41315</id>
+<name>Susan M. Love</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41315.Susan_M_Love]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9503928</id>
+<title>I Lost My Girlish Laughter</title>
+<title_without_series>I Lost My Girlish Laughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9503928-i-lost-my-girlish-laughter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360962329l/9503928._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360962329l/9503928._SY160_.jpg]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>14389569</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>1938</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>286976</id>
+<name>Jane Allen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/286976.Jane_Allen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18467740</id>
+<title><![CDATA[Dark Days: My Tribulations and Trials]]></title>
+<title_without_series><![CDATA[Dark Days: My Tribulations and Trials]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18467740-dark-days]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429097696l/18467740._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429097696l/18467740._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>26127340</id>
+</work>
+<isbn>0306823144</isbn>
+<isbn13>9780306823145</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>10189149</id>
+<name>D. Randall Blythe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10189149.D_Randall_Blythe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>229120</id>
+<title>Julie</title>
+<title_without_series>Julie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/229120.Julie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>381</num_pages>
+<work>
+<id>3067097</id>
+</work>
+<isbn>0310246202</isbn>
+<isbn13>9780310246206</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>7046</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>11237</id>
+<name>Catherine Marshall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11237.Catherine_Marshall]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

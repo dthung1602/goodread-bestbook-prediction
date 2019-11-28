@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15815400</id>
+  <title>Exclamation Mark</title>
+  <isbn><![CDATA[0545436796]]></isbn>
+  <isbn13><![CDATA[9780545436793]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350532222l/15815400._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350532222l/15815400._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Scholastic Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From the bestselling creators of Duck! Rabbit!, an exciting tale of self-discovery!<br /><br />He stood out here.<br /><br />He stood out there.<br /><br />He tried everything to be more like them.<br /><br />It's not easy being seen. Especially when you're NOT like everyone else. Especially when what sets you apart is YOU.<br /><br />Sometimes we squish ourselves to fit in. We shrink. Twist. Bend. Until -- ! -- a friend shows the way to endless possibilities.<br /><br />In this bold and highly visual book, an emphatic but misplaced exclamation point learns that being different can be very exciting! Period.<br /><br />]]></description>
+  <work>
+  <id type="integer">21541897</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">15815400</best_book_id>
+  <reviews_count type="integer">9315</reviews_count>
+  <ratings_sum type="integer">23212</ratings_sum>
+  <ratings_count type="integer">5455</ratings_count>
+  <text_reviews_count type="integer">793</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Exclamation Mark!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2743|4:1734|3:695|2:193|1:90|total:5455</rating_dist>
+  <desc_user_id type="integer">1019021</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Ks5tTEq5PhhLalwANmmJzQ</work_uri>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[56]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5414]]></ratings_count>
+  <text_reviews_count><![CDATA[785]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15815400-exclamation-mark]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15815400-exclamation-mark]]></link>
+  <authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472759136p5/21674.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472759136p2/21674.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>65489</ratings_count>
+<text_reviews_count>9194</text_reviews_count>
+</author>
+<author>
+<id>83081</id>
+<name>Tom Lichtenheld</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1329865734p5/83081.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1329865734p2/83081.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/83081.Tom_Lichtenheld]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>57409</ratings_count>
+<text_reviews_count>7267</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15815400-exclamation-mark">Exclamation Mark Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545436796&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15815400-exclamation-mark?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3076"/>
+      <shelf name="picture-books" count="583"/>
+      <shelf name="picture-book" count="177"/>
+      <shelf name="childrens" count="112"/>
+      <shelf name="children-s-books" count="69"/>
+      <shelf name="children" count="68"/>
+      <shelf name="children-s" count="66"/>
+      <shelf name="humor" count="66"/>
+      <shelf name="kids" count="51"/>
+      <shelf name="childrens-books" count="38"/>
+      <shelf name="favorites" count="37"/>
+      <shelf name="punctuation" count="34"/>
+      <shelf name="grammar" count="29"/>
+      <shelf name="children-s-literature" count="27"/>
+      <shelf name="picture" count="27"/>
+      <shelf name="kids-books" count="26"/>
+      <shelf name="storytime" count="24"/>
+      <shelf name="03-informational" count="23"/>
+      <shelf name="picturebooks" count="23"/>
+      <shelf name="read-in-2013" count="20"/>
+      <shelf name="march" count="19"/>
+      <shelf name="language-arts" count="19"/>
+      <shelf name="writing" count="19"/>
+      <shelf name="fiction" count="19"/>
+      <shelf name="children-s-lit" count="18"/>
+      <shelf name="read-aloud" count="17"/>
+      <shelf name="currently-reading" count="16"/>
+      <shelf name="childrens-picture-books" count="16"/>
+      <shelf name="children-s-picture-books" count="16"/>
+      <shelf name="individuality" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="elementary" count="15"/>
+      <shelf name="read-alouds" count="13"/>
+      <shelf name="humorous" count="13"/>
+      <shelf name="self-esteem" count="13"/>
+      <shelf name="friendship" count="13"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="mentor-text" count="11"/>
+      <shelf name="funny" count="10"/>
+      <shelf name="school" count="9"/>
+      <shelf name="picturebook" count="9"/>
+      <shelf name="informational" count="8"/>
+      <shelf name="favorite-picture-books" count="8"/>
+      <shelf name="childrens-lit" count="8"/>
+      <shelf name="default" count="7"/>
+      <shelf name="teaching" count="7"/>
+      <shelf name="picture-books-read" count="7"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="literacy" count="7"/>
+      <shelf name="read-2013" count="7"/>
+      <shelf name="kid-lit" count="7"/>
+      <shelf name="kids-picture-books" count="7"/>
+      <shelf name="story-time" count="6"/>
+      <shelf name="children-books" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="kindergarten" count="6"/>
+      <shelf name="child-lit" count="6"/>
+      <shelf name="mock-caldecott-2014" count="6"/>
+      <shelf name="storytime-books" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="identity" count="6"/>
+      <shelf name="peer-teacher" count="5"/>
+      <shelf name="kiddos" count="5"/>
+      <shelf name="imagination" count="5"/>
+      <shelf name="educational" count="5"/>
+      <shelf name="personification" count="5"/>
+      <shelf name="childrens-picture-book" count="5"/>
+      <shelf name="language" count="5"/>
+      <shelf name="reviewed" count="5"/>
+      <shelf name="kid-books" count="5"/>
+      <shelf name="childrens-literature" count="5"/>
+      <shelf name="2013-picture-books" count="5"/>
+      <shelf name="friends" count="5"/>
+      <shelf name="concept-book" count="5"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="life-lessons" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="classroombookaday" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="exploring-assignment" count="4"/>
+      <shelf name="exploring-academic" count="4"/>
+      <shelf name="read-to-kids" count="4"/>
+      <shelf name="book-selection" count="4"/>
+      <shelf name="edrd-314" count="4"/>
+      <shelf name="children-s-books-read" count="4"/>
+      <shelf name="children-s-fiction" count="4"/>
+      <shelf name="classroom-books" count="4"/>
+      <shelf name="childrensbooks" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="classroom" count="4"/>
+      <shelf name="being-different" count="4"/>
+      <shelf name="being-yourself" count="4"/>
+      <shelf name="concept" count="4"/>
+      <shelf name="pb" count="4"/>
+      <shelf name="2013-reads" count="4"/>
+      <shelf name="kid-s-books" count="4"/>
+      <shelf name="concepts" count="4"/>
+      <shelf name="preschool" count="4"/>
+      <shelf name="theme" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>216330</id>
+<title>The Important Book</title>
+<title_without_series>The Important Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/216330.The_Important_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>2216644</id>
+</work>
+<isbn>0064432270</isbn>
+<isbn13>9780064432276</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>18479</id>
+<name>Margaret Wise Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18479.Margaret_Wise_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7540259</id>
+<title>Memoirs of a Goldfish</title>
+<title_without_series>Memoirs of a Goldfish</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7540259-memoirs-of-a-goldfish]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359384394l/7540259._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359384394l/7540259._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>9808183</id>
+</work>
+<isbn>1585365076</isbn>
+<isbn13>9781585365074</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>43965</id>
+<name>Devin Scillian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43965.Devin_Scillian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>421118</id>
+<title>Ugly Fish</title>
+<title_without_series>Ugly Fish</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/421118.Ugly_Fish]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328875632l/421118._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328875632l/421118._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>410246</id>
+</work>
+<isbn>0152050825</isbn>
+<isbn13>9780152050825</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>237510</id>
+<name>Kara LaReau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/237510.Kara_LaReau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1680823</id>
+<title>Agate: What Good Is a Moose?</title>
+<title_without_series>Agate: What Good Is a Moose?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1680823.Agate]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1677347</id>
+</work>
+<isbn>0942235738</isbn>
+<isbn13>9780942235739</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>775412</id>
+<name>Joy Morgan Dey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/775412.Joy_Morgan_Dey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>351530</id>
+<title><![CDATA[What Do You Do With a Tail Like This?]]></title>
+<title_without_series><![CDATA[What Do You Do With a Tail Like This?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/351530.What_Do_You_Do_With_a_Tail_Like_This_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>692587</id>
+</work>
+<isbn>0439703840</isbn>
+<isbn13>9780439703840</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>27541</id>
+<name>Steve Jenkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27541.Steve_Jenkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>133678</id>
+<title>Miss Mary Mack</title>
+<title_without_series>Miss Mary Mack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/133678.Miss_Mary_Mack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344264398l/133678._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344264398l/133678._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>128773</id>
+</work>
+<isbn>0316076147</isbn>
+<isbn13>9780316076142</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>17544</id>
+<name>Mary Ann Hoberman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17544.Mary_Ann_Hoberman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>349170</id>
+<title><![CDATA[Fireboat: The Heroic Adventures of the John J. Harvey ]]></title>
+<title_without_series><![CDATA[Fireboat: The Heroic Adventures of the John J. Harvey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/349170.Fireboat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>339447</id>
+</work>
+<isbn>0142403628</isbn>
+<isbn13>9780142403624</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>55084</id>
+<name>Maira Kalman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55084.Maira_Kalman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101018</id>
+<title>The Day the Crayons Quit</title>
+<title_without_series>The Day the Crayons Quit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX98_.jpg]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>21911319</id>
+</work>
+<isbn>0399255370</isbn>
+<isbn13>9780399255373</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>601120</id>
+<title><![CDATA[Dog Breath! The Horrible Trouble with Hally Tosis (Scholastic Bookshelf): The Horrible Trouble With Hally Tosis]]></title>
+<title_without_series><![CDATA[Dog Breath! The Horrible Trouble with Hally Tosis (Scholastic Bookshelf): The Horrible Trouble With Hally Tosis]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/601120.Dog_Breath_The_Horrible_Trouble_with_Hally_Tosis_Scholastic_Bookshelf_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867924l/601120._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867924l/601120._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>837306</id>
+</work>
+<isbn>0439598397</isbn>
+<isbn13>9780439598392</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33280</id>
+<name>Dav Pilkey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33280.Dav_Pilkey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16285053</id>
+<title>That Is Not a Good Idea!</title>
+<title_without_series>That Is Not a Good Idea!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>22400269</id>
+</work>
+<isbn>0062203096</isbn>
+<isbn13>9780062203090</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9212014</id>
+<title>Cloudette</title>
+<title_without_series>Cloudette</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9212014-cloudette]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367020183l/9212014._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367020183l/9212014._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14091756</id>
+</work>
+<isbn>0805087761</isbn>
+<isbn13>9780805087765</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>83081</id>
+<name>Tom Lichtenheld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83081.Tom_Lichtenheld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7747422</id>
+<title>It&apos;s a Book</title>
+<title_without_series>It&apos;s a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7747422-it-s-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737426l/7747422._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737426l/7747422._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>10577192</id>
+</work>
+<isbn>1596436069</isbn>
+<isbn13>9781596436060</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>23573</id>
+<name>Lane Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23573.Lane_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12448586</id>
+<title>Boy + Bot</title>
+<title_without_series>Boy + Bot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12448586-boy-bot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320511825l/12448586._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320511825l/12448586._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>17431671</id>
+</work>
+<isbn>0375867562</isbn>
+<isbn13>9780375867569</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16668399</id>
+<title>Little Red Writing</title>
+<title_without_series>Little Red Writing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16668399-little-red-writing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365395205l/16668399._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365395205l/16668399._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22876379</id>
+</work>
+<isbn>0811878694</isbn>
+<isbn13>9780811878692</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>18967</id>
+<name>Joan Holub</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18967.Joan_Holub]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15798648</id>
+<title>The Matchbox Diary</title>
+<title_without_series>The Matchbox Diary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15798648-the-matchbox-diary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213489l/15798648._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213489l/15798648._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21521589</id>
+</work>
+<isbn>0763646016</isbn>
+<isbn13>9780763646011</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>67810</id>
+<name>Paul Fleischman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67810.Paul_Fleischman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>562763</id>
+<title>Scaredy Squirrel</title>
+<title_without_series>Scaredy Squirrel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/562763.Scaredy_Squirrel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515376032l/562763._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515376032l/562763._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>549907</id>
+</work>
+<isbn>1553379594</isbn>
+<isbn13>9781553379591</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>308542</id>
+<name>Mélanie Watt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/308542.M_lanie_Watt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9465166</id>
+<title><![CDATA[Hooray for Amanda & Her Alligator!]]></title>
+<title_without_series><![CDATA[Hooray for Amanda & Her Alligator!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9465166-hooray-for-amanda-her-alligator]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>69</num_pages>
+<work>
+<id>14350160</id>
+</work>
+<isbn>006200400X</isbn>
+<isbn13>9780062004000</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5564784</id>
+<title>Scaredy Squirrel at Night</title>
+<title_without_series>Scaredy Squirrel at Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5564784-scaredy-squirrel-at-night]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354630602l/5564784._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354630602l/5564784._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>5735947</id>
+</work>
+<isbn>1554532889</isbn>
+<isbn13>9781554532889</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5455</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>308542</id>
+<name>Mélanie Watt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/308542.M_lanie_Watt]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

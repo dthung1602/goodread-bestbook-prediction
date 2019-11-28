@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15786110</id>
+  <title><![CDATA[Relish: My Life in the Kitchen]]></title>
+  <isbn><![CDATA[1596436239]]></isbn>
+  <isbn13><![CDATA[9781596436237]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345686126l/15786110._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345686126l/15786110._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>Macmillan Children's Publishing Group</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A vibrant, food-themed memoir from beloved indie cartoonist Lucy Knisley.<br /><br />Lucy Knisley loves food. The daughter of a chef and a gourmet, this talented young cartoonist comes by her obsession honestly. In her forthright, thoughtful, and funny memoir, Lucy traces key episodes in her life thus far, framed by what she was eating at the time and lessons learned about food, cooking, and life. Each chapter is bookended with an illustrated recipe—many of them treasured family dishes, and a few of them Lucy's original inventions.<br /><br />A welcome read for anyone who ever felt more passion for a sandwich than is strictly speaking proper, Relish is a book for our time: it invites the reader to celebrate food as a connection to our bodies and a connection to the earth, rather than an enemy, a compulsion, or a consumer product.]]></description>
+  <work>
+  <id type="integer">21505033</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">15786110</best_book_id>
+  <reviews_count type="integer">44558</reviews_count>
+  <ratings_sum type="integer">66683</ratings_sum>
+  <ratings_count type="integer">16985</ratings_count>
+  <text_reviews_count type="integer">2178</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title>Relish: My Life in the Kitchen</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5785|4:6326|3:3321|2:938|1:615|total:16985</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.cBJgq0b7jeoOZBhCUhKk9A</work_uri>
+</work>
+  <average_rating>3.93</average_rating>
+  <num_pages><![CDATA[173]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16772]]></ratings_count>
+  <text_reviews_count><![CDATA[2144]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15786110-relish]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15786110-relish]]></link>
+  <authors>
+<author>
+<id>731384</id>
+<name>Lucy Knisley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361051635p5/731384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361051635p2/731384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/731384.Lucy_Knisley]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>55947</ratings_count>
+<text_reviews_count>7428</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15786110-relish">Relish Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1596436239&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15786110-relish?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="26360"/>
+      <shelf name="graphic-novels" count="1319"/>
+      <shelf name="graphic-novel" count="833"/>
+      <shelf name="memoir" count="596"/>
+      <shelf name="food" count="545"/>
+      <shelf name="non-fiction" count="513"/>
+      <shelf name="nonfiction" count="343"/>
+      <shelf name="comics" count="329"/>
+      <shelf name="favorites" count="144"/>
+      <shelf name="biography" count="138"/>
+      <shelf name="adult" count="121"/>
+      <shelf name="graphic" count="113"/>
+      <shelf name="cooking" count="111"/>
+      <shelf name="young-adult" count="103"/>
+      <shelf name="currently-reading" count="102"/>
+      <shelf name="memoirs" count="97"/>
+      <shelf name="cookbooks" count="92"/>
+      <shelf name="ya" count="77"/>
+      <shelf name="library" count="75"/>
+      <shelf name="biography-memoir" count="72"/>
+      <shelf name="graphic-novels-comics" count="69"/>
+      <shelf name="comics-graphic-novels" count="62"/>
+      <shelf name="comics-and-graphic-novels" count="55"/>
+      <shelf name="foodie" count="39"/>
+      <shelf name="graphic-novels-and-comics" count="37"/>
+      <shelf name="family" count="35"/>
+      <shelf name="coming-of-age" count="34"/>
+      <shelf name="read-in-2014" count="33"/>
+      <shelf name="autobiography" count="33"/>
+      <shelf name="cookbook" count="33"/>
+      <shelf name="library-books" count="31"/>
+      <shelf name="memoir-biography" count="31"/>
+      <shelf name="graphic-memoir" count="30"/>
+      <shelf name="humor" count="30"/>
+      <shelf name="chicago" count="29"/>
+      <shelf name="food-and-drink" count="28"/>
+      <shelf name="read-in-2016" count="27"/>
+      <shelf name="books-i-own" count="27"/>
+      <shelf name="comic" count="27"/>
+      <shelf name="graphics" count="25"/>
+      <shelf name="art" count="25"/>
+      <shelf name="graphicnovels" count="25"/>
+      <shelf name="read-in-2013" count="25"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="read-in-2015" count="24"/>
+      <shelf name="biographies" count="22"/>
+      <shelf name="contemporary" count="21"/>
+      <shelf name="new-york" count="21"/>
+      <shelf name="library-book" count="21"/>
+      <shelf name="food-writing" count="20"/>
+      <shelf name="food-cooking" count="20"/>
+      <shelf name="read-in-2017" count="19"/>
+      <shelf name="book-club" count="18"/>
+      <shelf name="alex-award" count="17"/>
+      <shelf name="comix" count="17"/>
+      <shelf name="female-author" count="17"/>
+      <shelf name="read-in-2019" count="16"/>
+      <shelf name="read-harder-2016" count="16"/>
+      <shelf name="autobiography-memoir" count="15"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="to-buy" count="15"/>
+      <shelf name="bio-memoir" count="14"/>
+      <shelf name="travel" count="14"/>
+      <shelf name="read-2013" count="14"/>
+      <shelf name="read-harder-2018" count="13"/>
+      <shelf name="women" count="13"/>
+      <shelf name="female-authors" count="13"/>
+      <shelf name="biography-and-memoir" count="13"/>
+      <shelf name="teen" count="13"/>
+      <shelf name="nonfic" count="13"/>
+      <shelf name="2013-reads" count="13"/>
+      <shelf name="read-2015" count="12"/>
+      <shelf name="english" count="12"/>
+      <shelf name="memoir-autobiography" count="12"/>
+      <shelf name="culinary" count="12"/>
+      <shelf name="biographies-memoirs" count="12"/>
+      <shelf name="autobiographical" count="12"/>
+      <shelf name="funny" count="12"/>
+      <shelf name="graphicnovel" count="12"/>
+      <shelf name="graphic-novels-manga" count="12"/>
+      <shelf name="read-2016" count="11"/>
+      <shelf name="read-harder-challenge-2016" count="11"/>
+      <shelf name="graphic-novel-comic" count="11"/>
+      <shelf name="adult-non-fiction" count="11"/>
+      <shelf name="memoirs-biographies" count="11"/>
+      <shelf name="adult-nonfiction" count="11"/>
+      <shelf name="favourites" count="11"/>
+      <shelf name="cooking-food" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="4-and-5-star-books" count="10"/>
+      <shelf name="graphic-nonfiction" count="10"/>
+      <shelf name="non-fic" count="10"/>
+      <shelf name="bio" count="10"/>
+      <shelf name="cook-books" count="10"/>
+      <shelf name="sequential-art" count="10"/>
+      <shelf name="food-books" count="10"/>
+      <shelf name="read-2019" count="9"/>
+      <shelf name="read-2018" count="9"/>
+      <shelf name="graphic-novel-comics" count="9"/>
+      <shelf name="2015-reads" count="9"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>29981020</id>
+<title><![CDATA[Laura Dean Keeps Breaking Up with Me]]></title>
+<title_without_series><![CDATA[Laura Dean Keeps Breaking Up with Me]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29981020-laura-dean-keeps-breaking-up-with-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538848315l/29981020._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538848315l/29981020._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>50380585</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>483588</id>
+<name>Mariko Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/483588.Mariko_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864790</id>
+<title>Pumpkinheads</title>
+<title_without_series>Pumpkinheads</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864790-pumpkinheads]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX98_.jpg]]></image_url>
+<num_pages>209</num_pages>
+<work>
+<id>42907220</id>
+</work>
+<isbn>125031285X</isbn>
+<isbn13>9781250312853</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20256612</id>
+<title>Tomboy: A Graphic Memoir</title>
+<title_without_series>Tomboy: A Graphic Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20256612-tomboy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395769985l/20256612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395769985l/20256612._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>28068606</id>
+</work>
+<isbn>1936976552</isbn>
+<isbn13>9781936976553</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>45388</id>
+<name>Liz Prince</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45388.Liz_Prince]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42837514</id>
+<title>Gender Queer</title>
+<title_without_series>Gender Queer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42837514-gender-queer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553583580l/42837514._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553583580l/42837514._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>66595691</id>
+</work>
+<isbn>1549304003</isbn>
+<isbn13>9781549304002</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>14706574</id>
+<name>Maia Kobabe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14706574.Maia_Kobabe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40909448</id>
+<title><![CDATA[I Was Their American Dream: A Graphic Memoir]]></title>
+<title_without_series><![CDATA[I Was Their American Dream: A Graphic Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40909448-i-was-their-american-dream]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550606451l/40909448._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550606451l/40909448._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>63779141</id>
+</work>
+<isbn>0525575111</isbn>
+<isbn13>9780525575115</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>18226622</id>
+<name>Malaka Gharib</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18226622.Malaka_Gharib]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39974869</id>
+<title>No Ivy League</title>
+<title_without_series>No Ivy League</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39974869-no-ivy-league]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556905163l/39974869._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556905163l/39974869._SX98_.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>61883995</id>
+</work>
+<isbn>1549303058</isbn>
+<isbn13>9781549303050</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>6549159</id>
+<name>Hazel Newlevant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6549159.Hazel_Newlevant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39296114</id>
+<title>Book Love</title>
+<title_without_series>Book Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39296114-book-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537722936l/39296114._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537722936l/39296114._SX98_.jpg]]></image_url>
+<num_pages>137</num_pages>
+<work>
+<id>60874701</id>
+</work>
+<isbn>1449494285</isbn>
+<isbn13>9781449494285</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16557741</id>
+<name>Debbie Tung</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16557741.Debbie_Tung]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42190572</id>
+<title>Guts</title>
+<title_without_series>Guts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42190572-guts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538782879l/42190572._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538782879l/42190572._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>65791922</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>21618</id>
+<name>Raina Telgemeier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21618.Raina_Telgemeier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34506912</id>
+<title>The Prince and the Dressmaker</title>
+<title_without_series>The Prince and the Dressmaker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34506912-the-prince-and-the-dressmaker]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494400495l/34506912._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494400495l/34506912._SX98_.jpg]]></image_url>
+<num_pages>277</num_pages>
+<work>
+<id>46116413</id>
+</work>
+<isbn>162672363X</isbn>
+<isbn13>9781626723634</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>1557381</id>
+<name>Jen Wang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1557381.Jen_Wang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18465566</id>
+<title>This One Summer</title>
+<title_without_series>This One Summer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18465566-this-one-summer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456895195l/18465566._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456895195l/18465566._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>26123543</id>
+</work>
+<isbn>1626720940</isbn>
+<isbn13>9781626720947</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>483588</id>
+<name>Mariko Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/483588.Mariko_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42527866</id>
+<title>They Called Us Enemy</title>
+<title_without_series>They Called Us Enemy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42527866-they-called-us-enemy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541125895l/42527866._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541125895l/42527866._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>66245778</id>
+</work>
+<isbn>1603094504</isbn>
+<isbn13>9781603094504</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>260482</id>
+<name>George Takei</name>
+<link><![CDATA[https://www.goodreads.com/author/show/260482.George_Takei]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38122416</id>
+<title>Woman World</title>
+<title_without_series>Woman World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38122416-woman-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518372475l/38122416._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518372475l/38122416._SX98_.jpg]]></image_url>
+<num_pages>259</num_pages>
+<work>
+<id>59810751</id>
+</work>
+<isbn>1770463356</isbn>
+<isbn13>9781770463356</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>17634231</id>
+<name>Aminder Dhaliwal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17634231.Aminder_Dhaliwal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22612920</id>
+<title>Kiss Number 8</title>
+<title_without_series>Kiss Number 8</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22612920-kiss-number-8]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527528887l/22612920._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527528887l/22612920._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>42104837</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3160009</id>
+<name>Colleen A.F. Venable</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3160009.Colleen_A_F_Venable]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30623067</id>
+<title>Be Prepared</title>
+<title_without_series>Be Prepared</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30623067-be-prepared]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503338056l/30623067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503338056l/30623067._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>51155060</id>
+</work>
+<isbn>162672444X</isbn>
+<isbn13>9781626724440</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>568999</id>
+<name>Vera Brosgol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/568999.Vera_Brosgol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42346392</id>
+<title><![CDATA[Best Friends (Real Friends, #2)]]></title>
+<title_without_series>Best Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42346392-best-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539635296l/42346392._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539635296l/42346392._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65992712</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>49177</id>
+<name>Shannon Hale</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49177.Shannon_Hale]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33163388</id>
+<title>Spinning</title>
+<title_without_series>Spinning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33163388-spinning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500339680l/33163388._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500339680l/33163388._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>50701152</id>
+</work>
+<isbn>1626727724</isbn>
+<isbn13>9781626727724</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13560692</id>
+<name>Tillie Walden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13560692.Tillie_Walden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29225589</id>
+<title>Bloom</title>
+<title_without_series>Bloom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29225589-bloom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528170930l/29225589._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528170930l/29225589._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>49462918</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>14131805</id>
+<name>Kevin Panetta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14131805.Kevin_Panetta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864836</id>
+<title>Stargazing</title>
+<title_without_series>Stargazing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864836-stargazing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537662757l/40864836._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537662757l/40864836._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>63657578</id>
+</work>
+<isbn>125018388X</isbn>
+<isbn13>9781250183880</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>16985</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>1557381</id>
+<name>Jen Wang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1557381.Jen_Wang]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

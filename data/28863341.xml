@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>28863341</id>
+  <title><![CDATA[What Do You Do with a Problem?]]></title>
+  <isbn><![CDATA[1943200009]]></isbn>
+  <isbn13><![CDATA[9781943200009]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462409348l/28863341._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462409348l/28863341._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Compendium Inc</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From the same author and illustrator as our #1 nationally best-selling <i>What Do You Do With an Idea?</i> comes a new book to encourage you to look closely at problems and discover the possibilities they can hold.<br /><br />What do you do with a problem? Especially one that follows you around and doesn't seem to be going away? Do you worry about it? Ignore it? Do you run and hide from it?<br /><br />This is the story of a persistent problem and the child who isn't so sure what to make of it. The longer the problem is avoided, the bigger it seems to get. But when the child finally musters up the courage to face it, the problem turns out to be something quite different than it appeared.<br /><br />This is a story for anyone, at any age, who has ever had a problem that they wished would go away. It's a story to inspire you to look closely at that problem and to find out why it's here. Because you might discover something amazing about your problem… and yourself.<br /><br />What are problems for? They challenge us, shape us, push us, and help us to discover just how strong and brave and capable we really are. Even though we don't always want them, problems have a way of bringing unexpected gifts.<br /><br />So, what will you do with your problem? Now that's up to you.]]></description>
+  <work>
+  <id type="integer">49093906</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">28863341</best_book_id>
+  <reviews_count type="integer">10693</reviews_count>
+  <ratings_sum type="integer">16840</ratings_sum>
+  <ratings_count type="integer">3862</ratings_count>
+  <text_reviews_count type="integer">614</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>What Do You Do with a Problem?</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2147|4:1147|3:425|2:99|1:44|total:3862</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.klLkfl5TGr2EB0cMpHkpcQ</work_uri>
+</work>
+  <average_rating>4.36</average_rating>
+  <num_pages><![CDATA[36]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3839]]></ratings_count>
+  <text_reviews_count><![CDATA[614]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/28863341-what-do-you-do-with-a-problem]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/28863341-what-do-you-do-with-a-problem]]></link>
+  <authors>
+<author>
+<id>59093</id>
+<name>Kobi Yamada</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/59093.Kobi_Yamada]]></link>
+<average_rating>4.43</average_rating>
+<ratings_count>12839</ratings_count>
+<text_reviews_count>2228</text_reviews_count>
+</author>
+<author>
+<id>9800949</id>
+<name>Mae Besom</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9800949.Mae_Besom]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>11153</ratings_count>
+<text_reviews_count>2029</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/28863341-what-do-you-do-with-a-problem">What Do You Do with a Problem? Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1943200009&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/28863341-what-do-you-do-with-a-problem?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5421"/>
+      <shelf name="picture-books" count="430"/>
+      <shelf name="picture-book" count="100"/>
+      <shelf name="childrens" count="98"/>
+      <shelf name="children-s-books" count="92"/>
+      <shelf name="children-s" count="70"/>
+      <shelf name="children" count="69"/>
+      <shelf name="kids" count="68"/>
+      <shelf name="kids-books" count="46"/>
+      <shelf name="favorites" count="46"/>
+      <shelf name="childrens-books" count="44"/>
+      <shelf name="fiction" count="36"/>
+      <shelf name="currently-reading" count="35"/>
+      <shelf name="growth-mindset" count="26"/>
+      <shelf name="problem-solving" count="25"/>
+      <shelf name="children-s-lit" count="23"/>
+      <shelf name="children-s-literature" count="17"/>
+      <shelf name="children-books" count="16"/>
+      <shelf name="library" count="12"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="inspirational" count="12"/>
+      <shelf name="feelings" count="12"/>
+      <shelf name="children-s-picture-books" count="12"/>
+      <shelf name="picturebooks" count="12"/>
+      <shelf name="classroom-library" count="11"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="picture" count="10"/>
+      <shelf name="read-alouds" count="10"/>
+      <shelf name="childrens-picture-books" count="9"/>
+      <shelf name="for-the-kids" count="9"/>
+      <shelf name="el-230" count="8"/>
+      <shelf name="kid-books" count="8"/>
+      <shelf name="anxiety" count="8"/>
+      <shelf name="kid-s-books" count="8"/>
+      <shelf name="classroom" count="8"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="read-3090-books-11-20" count="7"/>
+      <shelf name="read-in-2017" count="7"/>
+      <shelf name="children-s-book" count="7"/>
+      <shelf name="elementary" count="7"/>
+      <shelf name="storytime" count="7"/>
+      <shelf name="read-aloud" count="7"/>
+      <shelf name="pb" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="el230" count="6"/>
+      <shelf name="favorite-picture-books" count="6"/>
+      <shelf name="favorite-children-s-books" count="6"/>
+      <shelf name="self-help" count="6"/>
+      <shelf name="classroom-books" count="6"/>
+      <shelf name="2016-reads" count="6"/>
+      <shelf name="fear" count="6"/>
+      <shelf name="kindergarten" count="6"/>
+      <shelf name="sel" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="future-classroom" count="5"/>
+      <shelf name="classroombookaday" count="5"/>
+      <shelf name="children-picture" count="5"/>
+      <shelf name="read-3090-books-21-30" count="5"/>
+      <shelf name="kids-want-to-read" count="5"/>
+      <shelf name="emotions" count="5"/>
+      <shelf name="mindset" count="5"/>
+      <shelf name="imagination" count="5"/>
+      <shelf name="illustrated" count="5"/>
+      <shelf name="preschool" count="5"/>
+      <shelf name="childrens-literature" count="5"/>
+      <shelf name="series" count="5"/>
+      <shelf name="modern-fantasy" count="4"/>
+      <shelf name="read-2019" count="4"/>
+      <shelf name="2018-books-read" count="4"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="social-emotional-learning" count="4"/>
+      <shelf name="emotional-intelligence" count="4"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="elementary-school" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="for-children" count="4"/>
+      <shelf name="ideas" count="4"/>
+      <shelf name="beautiful-illustrations" count="4"/>
+      <shelf name="psychology" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="inspiring" count="4"/>
+      <shelf name="art" count="4"/>
+      <shelf name="personal-development" count="4"/>
+      <shelf name="fantasy" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="2016-picture-books" count="4"/>
+      <shelf name="problem-solution" count="4"/>
+      <shelf name="mentor-texts" count="4"/>
+      <shelf name="character-ed" count="4"/>
+      <shelf name="2018-reading-challenge" count="3"/>
+      <shelf name="short-stories" count="3"/>
+      <shelf name="children-s-fiction" count="3"/>
+      <shelf name="children-s-library" count="3"/>
+      <shelf name="11-20" count="3"/>
+      <shelf name="kid-stuff" count="3"/>
+      <shelf name="childrens-book" count="3"/>
+      <shelf name="character-development" count="3"/>
+      <shelf name="books-for-school" count="3"/>
+      <shelf name="steam" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1165013</id>
+<user_position></user_position>
+<series>
+<id>223298</id>
+<title>
+<![CDATA[
+    What Do You Do With...
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>17140549</id>
+<title>The Invisible Boy</title>
+<title_without_series>The Invisible Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17140549-the-invisible-boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358750840l/17140549._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358750840l/17140549._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>23543205</id>
+</work>
+<isbn>1582464502</isbn>
+<isbn13>9781582464503</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>72459</id>
+<name>Trudy Ludwig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72459.Trudy_Ludwig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33376257</id>
+<title><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title>
+<title_without_series><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33376257-after-the-fall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54117215</id>
+</work>
+<isbn>1626726825</isbn>
+<isbn13>9781626726826</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24633190</id>
+<title>Strictly No Elephants</title>
+<title_without_series>Strictly No Elephants</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24633190-strictly-no-elephants]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427331277l/24633190._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427331277l/24633190._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>44245279</id>
+</work>
+<isbn>1481416472</isbn>
+<isbn13>9781481416474</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1628012</id>
+<name>Lisa Mantchev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1628012.Lisa_Mantchev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18383325</id>
+<title>The Most Magnificent Thing</title>
+<title_without_series>The Most Magnificent Thing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18383325-the-most-magnificent-thing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384711245l/18383325._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384711245l/18383325._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>25999683</id>
+</work>
+<isbn>1554537045</isbn>
+<isbn13>9781554537044</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>755882</id>
+<name>Ashley Spires</name>
+<link><![CDATA[https://www.goodreads.com/author/show/755882.Ashley_Spires]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221498</id>
+<title>The Good Egg</title>
+<title_without_series>The Good Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221498-the-good-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>62460576</id>
+</work>
+<isbn>0062866001</isbn>
+<isbn13>9780062866004</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11526654</id>
+<title><![CDATA[The Girl Who Never Made Mistakes]]></title>
+<title_without_series><![CDATA[The Girl Who Never Made Mistakes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11526654-the-girl-who-never-made-mistakes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>16464313</id>
+</work>
+<isbn>1402255446</isbn>
+<isbn13>9781402255441</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>1273594</id>
+<name>Mark Pett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1273594.Mark_Pett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8301964</id>
+<title>Spork</title>
+<title_without_series>Spork</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8301964-spork]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>13150706</id>
+</work>
+<isbn>1553377362</isbn>
+<isbn13>9781553377368</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>428296</id>
+<name>Kyo Maclear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/428296.Kyo_Maclear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506301</id>
+<title>The Day You Begin</title>
+<title_without_series>The Day You Begin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59116604</id>
+</work>
+<isbn>0399246533</isbn>
+<isbn13>9780399246531</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31456756</id>
+<title>The Book of Mistakes</title>
+<title_without_series>The Book of Mistakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31456756-the-book-of-mistakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>52161728</id>
+</work>
+<isbn>0735227926</isbn>
+<isbn13>9780735227927</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35356379</id>
+<title>Love</title>
+<title_without_series>Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35356379-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513266890l/35356379._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513266890l/35356379._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56718115</id>
+</work>
+<isbn>1524740918</isbn>
+<isbn13>9781524740917</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35248504</id>
+<title>The Rabbit Listened</title>
+<title_without_series>The Rabbit Listened</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35248504-the-rabbit-listened]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56599297</id>
+</work>
+<isbn>073522935X</isbn>
+<isbn13>9780735229358</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>2851649</id>
+<name>Cori Doerrfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2851649.Cori_Doerrfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36959643</id>
+<title>All Are Welcome</title>
+<title_without_series>All Are Welcome</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36959643-all-are-welcome]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521107247l/36959643._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521107247l/36959643._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>58759199</id>
+</work>
+<isbn>0525579656</isbn>
+<isbn13>9780525579656</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6475425</id>
+<name>Alexandra Penfold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6475425.Alexandra_Penfold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40641149</id>
+<title>When Sadness Is at Your Door</title>
+<title_without_series>When Sadness Is at Your Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40641149-when-sadness-is-at-your-door]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530004182l/40641149._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530004182l/40641149._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>63146227</id>
+</work>
+<isbn>0525707182</isbn>
+<isbn13>9780525707189</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>17933204</id>
+<name>Eva Eland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17933204.Eva_Eland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17290220</id>
+<title>Rosie Revere, Engineer</title>
+<title_without_series>Rosie Revere, Engineer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17290220-rosie-revere-engineer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362445045l/17290220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362445045l/17290220._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>23912365</id>
+</work>
+<isbn>1419708457</isbn>
+<isbn13>9781419708459</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>379125</id>
+<name>Andrea Beaty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/379125.Andrea_Beaty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25785760</id>
+<title>Ida, Always</title>
+<title_without_series>Ida, Always</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25785760-ida-always]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45636447</id>
+</work>
+<isbn>1481426400</isbn>
+<isbn13>9781481426404</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>5573824</id>
+<name>Caron Levis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5573824.Caron_Levis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28507895</id>
+<title>Ada Twist, Scientist</title>
+<title_without_series>Ada Twist, Scientist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28507895-ada-twist-scientist]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458172796l/28507895._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458172796l/28507895._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48662472</id>
+</work>
+<isbn>1419721372</isbn>
+<isbn13>9781419721373</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>379125</id>
+<name>Andrea Beaty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/379125.Andrea_Beaty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36341954</id>
+<title>We Don&apos;t Eat Our Classmates</title>
+<title_without_series>We Don&apos;t Eat Our Classmates</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36341954-we-don-t-eat-our-classmates]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>58021963</id>
+</work>
+<isbn>1368003559</isbn>
+<isbn13>9781368003551</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13588082</id>
+<title>Each Kindness</title>
+<title_without_series>Each Kindness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13588082-each-kindness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361368608l/13588082._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361368608l/13588082._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>19175480</id>
+</work>
+<isbn>0399246525</isbn>
+<isbn13>9780399246524</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

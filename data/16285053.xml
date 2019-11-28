@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16285053</id>
+  <title>That Is Not a Good Idea!</title>
+  <isbn><![CDATA[0062203096]]></isbn>
+  <isbn13><![CDATA[9780062203090]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>23</publication_day>
+  <publisher>Balzer + Bray</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[One day a very hungry fox meets a very plump goose. A dinner invitation is offered. <br /><br />Will dinner go as planned? Or do the dinner plans involve a secret ingredient...?<br /><br />(Don't forget to listen to the baby geese!)]]></description>
+  <work>
+  <id type="integer">22400269</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">16285053</best_book_id>
+  <reviews_count type="integer">11530</reviews_count>
+  <ratings_sum type="integer">31338</ratings_sum>
+  <ratings_count type="integer">7421</ratings_count>
+  <text_reviews_count type="integer">891</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">23</original_publication_day>
+  <original_title>That Is Not a Good Idea!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3471|4:2558|3:1055|2:249|1:88|total:7421</rating_dist>
+  <desc_user_id type="integer">1019021</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.-_T1ud674uSzbMKBR9lZVA</work_uri>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[42]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[7365]]></ratings_count>
+  <text_reviews_count><![CDATA[887]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea]]></link>
+  <authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p5/33274.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p2/33274.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>478995</ratings_count>
+<text_reviews_count>33201</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea">That Is Not a Good Idea! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062203096&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2766"/>
+      <shelf name="picture-books" count="782"/>
+      <shelf name="picture-book" count="235"/>
+      <shelf name="childrens" count="169"/>
+      <shelf name="humor" count="135"/>
+      <shelf name="children" count="104"/>
+      <shelf name="storytime" count="96"/>
+      <shelf name="children-s-books" count="95"/>
+      <shelf name="children-s" count="93"/>
+      <shelf name="animals" count="89"/>
+      <shelf name="kids" count="68"/>
+      <shelf name="fiction" count="55"/>
+      <shelf name="childrens-books" count="49"/>
+      <shelf name="favorites" count="42"/>
+      <shelf name="funny" count="39"/>
+      <shelf name="children-s-lit" count="38"/>
+      <shelf name="kids-books" count="36"/>
+      <shelf name="read-aloud" count="32"/>
+      <shelf name="preschool" count="31"/>
+      <shelf name="picturebooks" count="30"/>
+      <shelf name="picture" count="29"/>
+      <shelf name="mo-willems" count="29"/>
+      <shelf name="currently-reading" count="24"/>
+      <shelf name="children-s-literature" count="23"/>
+      <shelf name="humorous" count="23"/>
+      <shelf name="library" count="23"/>
+      <shelf name="fairy-tales" count="22"/>
+      <shelf name="read-in-2013" count="22"/>
+      <shelf name="surprise-ending" count="21"/>
+      <shelf name="foxes" count="20"/>
+      <shelf name="children-s-picture-books" count="20"/>
+      <shelf name="childrens-picture-books" count="18"/>
+      <shelf name="story-time" count="17"/>
+      <shelf name="kindergarten" count="16"/>
+      <shelf name="elementary" count="16"/>
+      <shelf name="birds" count="15"/>
+      <shelf name="read-alouds" count="15"/>
+      <shelf name="monarch-2015" count="14"/>
+      <shelf name="food" count="14"/>
+      <shelf name="fractured-fairy-tales" count="14"/>
+      <shelf name="storytime-books" count="13"/>
+      <shelf name="children-books" count="12"/>
+      <shelf name="fantasy" count="12"/>
+      <shelf name="juvenile" count="11"/>
+      <shelf name="picturebook" count="11"/>
+      <shelf name="favorite-picture-books" count="11"/>
+      <shelf name="geese" count="10"/>
+      <shelf name="silly" count="10"/>
+      <shelf name="preschool-storytime" count="10"/>
+      <shelf name="chickens" count="9"/>
+      <shelf name="kid-lit" count="9"/>
+      <shelf name="kids-picture-books" count="9"/>
+      <shelf name="childrens-lit" count="9"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="read-2013" count="9"/>
+      <shelf name="read-with-kids" count="8"/>
+      <shelf name="primary-picture-books" count="8"/>
+      <shelf name="picture-books-read" count="8"/>
+      <shelf name="1000-books-before-kindergarten" count="7"/>
+      <shelf name="kid-books" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="fox" count="7"/>
+      <shelf name="fairy-tale-retold" count="6"/>
+      <shelf name="book-selection" count="6"/>
+      <shelf name="read-in-2014" count="6"/>
+      <shelf name="for-kids" count="6"/>
+      <shelf name="childhood" count="6"/>
+      <shelf name="childrens-picture" count="6"/>
+      <shelf name="storytime-favorites" count="6"/>
+      <shelf name="fairytales" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="classroom-library" count="6"/>
+      <shelf name="ducks" count="6"/>
+      <shelf name="easy" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="great-read-alouds" count="6"/>
+      <shelf name="classroombookaday" count="5"/>
+      <shelf name="exploring-children" count="5"/>
+      <shelf name="big-bad-wolf" count="5"/>
+      <shelf name="silent-movies" count="5"/>
+      <shelf name="emergent-picture-book" count="5"/>
+      <shelf name="read-in-2015" count="5"/>
+      <shelf name="kiddos" count="5"/>
+      <shelf name="classroom" count="5"/>
+      <shelf name="quirky" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="children-s-fiction" count="5"/>
+      <shelf name="animal-stories" count="5"/>
+      <shelf name="comedy" count="5"/>
+      <shelf name="wolves" count="5"/>
+      <shelf name="pb" count="5"/>
+      <shelf name="favorite-children-s-books" count="5"/>
+      <shelf name="family" count="5"/>
+      <shelf name="mock-caldecott-2014" count="5"/>
+      <shelf name="2013-picture-books" count="5"/>
+      <shelf name="good-read-aloud" count="5"/>
+      <shelf name="early-elementary" count="5"/>
+      <shelf name="kid-stuff" count="5"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="fractured-fairy-tale" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>671427</id>
+<title><![CDATA[That Rabbit Belongs to Emily Brown]]></title>
+<title_without_series><![CDATA[That Rabbit Belongs to Emily Brown]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/671427.That_Rabbit_Belongs_to_Emily_Brown]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>529935</id>
+</work>
+<isbn>1423106458</isbn>
+<isbn13>9781423106456</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5036871</id>
+<title>Kikker is een Held</title>
+<title_without_series>Kikker is een Held</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5036871-kikker-is-een-held]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>5103464</id>
+</work>
+<isbn>9025846742</isbn>
+<isbn13>9789025846749</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4236</id>
+<name>Max Velthuijs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4236.Max_Velthuijs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2564460</id>
+<title>Archie&apos;s War</title>
+<title_without_series>Archie&apos;s War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2564460-archie-s-war]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320452173l/2564460._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320452173l/2564460._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>2572964</id>
+</work>
+<isbn>0763635324</isbn>
+<isbn13>9780763635329</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>29238</id>
+<name>Marcia Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29238.Marcia_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>660100</id>
+<title>that pesky rat</title>
+<title_without_series>that pesky rat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/660100.that_pesky_rat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408940224l/660100._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408940224l/660100._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1715081</id>
+</work>
+<isbn>1841212768</isbn>
+<isbn13>9781841212760</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42016</id>
+<name>Lauren Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42016.Lauren_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2604884</id>
+<title>Jim and the Beanstalk</title>
+<title_without_series>Jim and the Beanstalk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2604884-jim-and-the-beanstalk]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2629530</id>
+</work>
+<isbn>069820641X</isbn>
+<isbn13>9780698206410</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>5</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>77098</id>
+<name>Raymond Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77098.Raymond_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1168368</id>
+<title>George Speaks</title>
+<title_without_series>George Speaks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1168368.George_Speaks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312031121l/1168368._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312031121l/1168368._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2481646</id>
+</work>
+<isbn>0761315446</isbn>
+<isbn13>9780761315445</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>23157</id>
+<name>Dick King-Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23157.Dick_King_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18166940</id>
+<title>The Promise</title>
+<title_without_series>The Promise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18166940-the-promise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384016404l/18166940._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384016404l/18166940._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25533139</id>
+</work>
+<isbn>0763666335</isbn>
+<isbn13>9780763666330</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>22935</id>
+<name>Nicola Davies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22935.Nicola_Davies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>899589</id>
+<title><![CDATA[Little Mouse's Big Book of Fears]]></title>
+<title_without_series><![CDATA[Little Mouse's Big Book of Fears]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/899589.Little_Mouse_s_Big_Book_of_Fears]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356468228l/899589._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356468228l/899589._SX98_.jpg]]></image_url>
+<num_pages>25</num_pages>
+<work>
+<id>2353192</id>
+</work>
+<isbn>1405089482</isbn>
+<isbn13>9781405089487</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>8</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>99790</id>
+<name>Emily Gravett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99790.Emily_Gravett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15138370</id>
+<title>Azzi in Between</title>
+<title_without_series>Azzi in Between</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15138370-azzi-in-between]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347671216l/15138370._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347671216l/15138370._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>20793483</id>
+</work>
+<isbn>1847802613</isbn>
+<isbn13>9781847802613</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>188094</id>
+<name>Sarah Garland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/188094.Sarah_Garland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>109418</id>
+<title>The Tunnel</title>
+<title_without_series>The Tunnel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109418.The_Tunnel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>26</num_pages>
+<work>
+<id>105446</id>
+</work>
+<isbn>0744552397</isbn>
+<isbn13>9780744552393</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>35335</id>
+<name>Anthony Browne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35335.Anthony_Browne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8582833</id>
+<title>Mr Big</title>
+<title_without_series>Mr Big</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8582833-mr-big]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>13452064</id>
+</work>
+<isbn>0141500603</isbn>
+<isbn13>9780141500607</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>703010</id>
+<name>Ed Vere</name>
+<link><![CDATA[https://www.goodreads.com/author/show/703010.Ed_Vere]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>457936</id>
+<title><![CDATA[The Diary of a Killer Cat (The Killer Cat, #1)]]></title>
+<title_without_series>The Diary of a Killer Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/457936.The_Diary_of_a_Killer_Cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316637159l/457936._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316637159l/457936._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1239384</id>
+</work>
+<isbn>0374317798</isbn>
+<isbn13>9780374317799</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>140688</id>
+<name>Anne Fine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/140688.Anne_Fine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6667690</id>
+<title>The Princess&apos; Blankets</title>
+<title_without_series>The Princess&apos; Blankets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6667690-the-princess-blankets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320446354l/6667690._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320446354l/6667690._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>6862593</id>
+</work>
+<isbn>0763645478</isbn>
+<isbn13>9780763645472</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>99727</id>
+<name>Carol Ann Duffy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99727.Carol_Ann_Duffy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101018</id>
+<title>The Day the Crayons Quit</title>
+<title_without_series>The Day the Crayons Quit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX98_.jpg]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>21911319</id>
+</work>
+<isbn>0399255370</isbn>
+<isbn13>9780399255373</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>301125</id>
+<title>Cloud Busting</title>
+<title_without_series>Cloud Busting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/301125.Cloud_Busting]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320534167l/301125._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320534167l/301125._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>292191</id>
+</work>
+<isbn>0440866154</isbn>
+<isbn13>9780440866152</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>172977</id>
+<name>Malorie Blackman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172977.Malorie_Blackman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1145614</id>
+<title>Dogger</title>
+<title_without_series>Dogger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1145614.Dogger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1133061</id>
+</work>
+<isbn>068811704X</isbn>
+<isbn13>9780688117047</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>99888</id>
+<name>Shirley Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99888.Shirley_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17333265</id>
+<title>Mr. Tiger Goes Wild</title>
+<title_without_series>Mr. Tiger Goes Wild</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333265-mr-tiger-goes-wild]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24064569</id>
+</work>
+<isbn>0316200638</isbn>
+<isbn13>9780316200639</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5988584</id>
+<title>The Naming of Tishkin Silk</title>
+<title_without_series>The Naming of Tishkin Silk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5988584-the-naming-of-tishkin-silk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257990789l/5988584._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257990789l/5988584._SY160_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>6162586</id>
+</work>
+<isbn>0733313140</isbn>
+<isbn13>9780733313141</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7421</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1280337</id>
+<name>Glenda Millard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1280337.Glenda_Millard]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

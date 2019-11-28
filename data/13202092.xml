@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13202092</id>
+  <title><![CDATA[Eat and Run: My Unlikely Journey to Ultramarathon Greatness]]></title>
+  <isbn><![CDATA[0547569653]]></isbn>
+  <isbn13><![CDATA[9780547569659]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344746039l/13202092._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344746039l/13202092._SY75_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[For nearly two decades, Scott Jurek has been a dominant force—and darling—in the grueling and growing sport of ultrarunning. Until recently he held the American 24-hour record and he was one of the elite runners profiled in the runaway bestseller Born to Run.<br /><br />In Eat and Run, Jurek opens up about his life and career as a champion athlete with a plant-based diet and inspires runners at every level. From his Midwestern childhood hunting, fishing, and cooking for his meat-and-potatoes family to his slow transition to ultrarunning and veganism, Scott’s story shows the power of an iron will and blows apart the stereotypes of what athletes should eat to fuel optimal performance. Full of stories of competition as well as science and practical advice—including his own recipes—Eat and Run will motivate readers and expand their food horizons.]]></description>
+  <work>
+  <id type="integer">18385042</id>
+  <books_count type="integer">47</books_count>
+  <best_book_id type="integer">13202092</best_book_id>
+  <reviews_count type="integer">46504</reviews_count>
+  <ratings_sum type="integer">104765</ratings_sum>
+  <ratings_count type="integer">26309</ratings_count>
+  <text_reviews_count type="integer">1952</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>Eat And Run</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8652|4:10250|3:6011|2:1076|1:320|total:26309</rating_dist>
+  <desc_user_id type="integer">845439</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.LD13-VhjsEh0RNjxdDG6xA</work_uri>
+</work>
+  <average_rating>3.98</average_rating>
+  <num_pages><![CDATA[272]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21858]]></ratings_count>
+  <text_reviews_count><![CDATA[1702]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13202092-eat-and-run]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13202092-eat-and-run]]></link>
+  <authors>
+<author>
+<id>5380332</id>
+<name>Scott Jurek</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366642678p5/5380332.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366642678p2/5380332.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5380332.Scott_Jurek]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>31726</ratings_count>
+<text_reviews_count>2479</text_reviews_count>
+</author>
+<author>
+<id>800</id>
+<name>Steve Friedman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366642839p5/800.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366642839p2/800.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/800.Steve_Friedman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>25110</ratings_count>
+<text_reviews_count>1880</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13202092-eat-and-run">Eat and Run Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0547569653&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13202092-eat-and-run?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="16367"/>
+      <shelf name="currently-reading" count="1047"/>
+      <shelf name="running" count="636"/>
+      <shelf name="non-fiction" count="417"/>
+      <shelf name="sports" count="173"/>
+      <shelf name="nonfiction" count="150"/>
+      <shelf name="health" count="133"/>
+      <shelf name="biography" count="130"/>
+      <shelf name="memoir" count="122"/>
+      <shelf name="favorites" count="98"/>
+      <shelf name="sport" count="77"/>
+      <shelf name="fitness" count="67"/>
+      <shelf name="food" count="62"/>
+      <shelf name="kindle" count="46"/>
+      <shelf name="nutrition" count="38"/>
+      <shelf name="vegan" count="37"/>
+      <shelf name="autobiography" count="36"/>
+      <shelf name="memoirs" count="33"/>
+      <shelf name="audiobook" count="29"/>
+      <shelf name="health-fitness" count="29"/>
+      <shelf name="biography-memoir" count="27"/>
+      <shelf name="biographies" count="27"/>
+      <shelf name="audible" count="26"/>
+      <shelf name="audiobooks" count="25"/>
+      <shelf name="ebook" count="20"/>
+      <shelf name="adventure" count="20"/>
+      <shelf name="running-books" count="19"/>
+      <shelf name="read-in-2012" count="19"/>
+      <shelf name="owned" count="18"/>
+      <shelf name="audio" count="18"/>
+      <shelf name="health-and-fitness" count="17"/>
+      <shelf name="library" count="17"/>
+      <shelf name="run" count="16"/>
+      <shelf name="read-in-2013" count="16"/>
+      <shelf name="exercise" count="13"/>
+      <shelf name="did-not-finish" count="12"/>
+      <shelf name="cooking" count="12"/>
+      <shelf name="self-help" count="11"/>
+      <shelf name="philosophy" count="11"/>
+      <shelf name="read-2017" count="10"/>
+      <shelf name="read-2014" count="10"/>
+      <shelf name="outdoors" count="10"/>
+      <shelf name="read-2013" count="10"/>
+      <shelf name="biographies-memoirs" count="9"/>
+      <shelf name="motivation" count="9"/>
+      <shelf name="cookbooks" count="9"/>
+      <shelf name="adult-non-fiction" count="9"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="veganism" count="9"/>
+      <shelf name="read-in-2017" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="ultramarathon" count="8"/>
+      <shelf name="owned-books" count="8"/>
+      <shelf name="default" count="8"/>
+      <shelf name="audio-books" count="8"/>
+      <shelf name="read-in-2014" count="8"/>
+      <shelf name="english" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="memoir-biography" count="8"/>
+      <shelf name="adult" count="8"/>
+      <shelf name="to-read-non-fiction" count="8"/>
+      <shelf name="read-in-2018" count="7"/>
+      <shelf name="audio-book" count="7"/>
+      <shelf name="autobiographical" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="bio" count="7"/>
+      <shelf name="ultrarunning" count="7"/>
+      <shelf name="biographical" count="7"/>
+      <shelf name="2012-reads" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="athletics" count="7"/>
+      <shelf name="running-fitness" count="7"/>
+      <shelf name="health-wellness" count="6"/>
+      <shelf name="biography-and-memoir" count="6"/>
+      <shelf name="read-in-2015" count="6"/>
+      <shelf name="cookbook" count="6"/>
+      <shelf name="deporte" count="6"/>
+      <shelf name="american" count="6"/>
+      <shelf name="reference" count="6"/>
+      <shelf name="running-and-fitness" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="inspiring" count="6"/>
+      <shelf name="training" count="6"/>
+      <shelf name="inspiration" count="6"/>
+      <shelf name="read-2012" count="6"/>
+      <shelf name="2019-reads" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="read-2015" count="5"/>
+      <shelf name="lifestyle" count="5"/>
+      <shelf name="psychology" count="5"/>
+      <shelf name="adult-nonfiction" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="outdoor-adventure" count="5"/>
+      <shelf name="healthy-living" count="5"/>
+      <shelf name="endurance" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="autobiography-memoir" count="5"/>
+      <shelf name="fitness-health" count="5"/>
+      <shelf name="finished" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6289283</id>
+<title><![CDATA[Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen]]></title>
+<title_without_series><![CDATA[Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6289283-born-to-run]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320531983l/6289283._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320531983l/6289283._SX98_.jpg]]></image_url>
+<num_pages>287</num_pages>
+<work>
+<id>6473602</id>
+</work>
+<isbn>0307266303</isbn>
+<isbn13>9780307266309</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>133538</id>
+<name>Christopher McDougall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/133538.Christopher_McDougall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>87632</id>
+<title><![CDATA[Ultramarathon Man: Confessions of an All-Night Runner]]></title>
+<title_without_series><![CDATA[Ultramarathon Man: Confessions of an All-Night Runner]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/87632.Ultramarathon_Man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309199653l/87632._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309199653l/87632._SX98_.jpg]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>402984</id>
+</work>
+<isbn>1585424803</isbn>
+<isbn13>9781585424801</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>50342</id>
+<name>Dean Karnazes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50342.Dean_Karnazes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39665673</id>
+<title><![CDATA[Finding Ultra, Revised and Updated Edition: Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself]]></title>
+<title_without_series><![CDATA[Finding Ultra, Revised and Updated Edition: Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39665673-finding-ultra-revised-and-updated-edition]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522185553l/39665673._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522185553l/39665673._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>18331102</id>
+</work>
+<isbn>0307952207</isbn>
+<isbn13>9780307952202</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>5365070</id>
+<name>Rich Roll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5365070.Rich_Roll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13147812</id>
+<title><![CDATA[Running with the Kenyans: Passion, Adventure, and the Secrets of the Fastest People on Earth]]></title>
+<title_without_series><![CDATA[Running with the Kenyans: Passion, Adventure, and the Secrets of the Fastest People on Earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13147812-running-with-the-kenyans]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577703l/13147812._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577703l/13147812._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>18321983</id>
+</work>
+<isbn>0345528794</isbn>
+<isbn13>9780345528797</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>1657627</id>
+<name>Adharanand Finn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1657627.Adharanand_Finn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9441933</id>
+<title><![CDATA[Run! 26.2 Stories of Blisters and Bliss: 26.2 Stories of Blisters and Bliss]]></title>
+<title_without_series><![CDATA[Run! 26.2 Stories of Blisters and Bliss: 26.2 Stories of Blisters and Bliss]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9441933-run-26-2-stories-of-blisters-and-bliss]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312028507l/9441933._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312028507l/9441933._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>14326560</id>
+</work>
+<isbn>1605292796</isbn>
+<isbn13>9781605292793</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>50342</id>
+<name>Dean Karnazes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50342.Dean_Karnazes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13038309</id>
+<title><![CDATA[A Life Without Limits: A World Champion's Journey]]></title>
+<title_without_series><![CDATA[A Life Without Limits: A World Champion's Journey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13038309-a-life-without-limits]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325880067l/13038309._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325880067l/13038309._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>18202102</id>
+</work>
+<isbn>1455505579</isbn>
+<isbn13>9781455505579</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>5007531</id>
+<name>Chrissie Wellington</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5007531.Chrissie_Wellington]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42287</id>
+<title><![CDATA[The Perfect Mile: Three Athletes, One Goal, and Less Than Four Minutes to Achieve It]]></title>
+<title_without_series><![CDATA[The Perfect Mile: Three Athletes, One Goal, and Less Than Four Minutes to Achieve It]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42287.The_Perfect_Mile]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>322</num_pages>
+<work>
+<id>41779</id>
+</work>
+<isbn>0618562095</isbn>
+<isbn13>9780618562091</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>23798</id>
+<name>Neal Bascomb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23798.Neal_Bascomb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2942520</id>
+<title><![CDATA[50/50: Secrets I Learned Running 50 Marathons in 50 Days -- And How You Too Can Achieve Super Endurance!]]></title>
+<title_without_series><![CDATA[50/50: Secrets I Learned Running 50 Marathons in 50 Days -- And How You Too Can Achieve Super Endurance!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2942520-50-50]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>285</num_pages>
+<work>
+<id>2971962</id>
+</work>
+<isbn>0446581836</isbn>
+<isbn13>9780446581837</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>50342</id>
+<name>Dean Karnazes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50342.Dean_Karnazes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10293025</id>
+<title><![CDATA[Relentless Forward Progress: A Guide to Running Ultramarathons]]></title>
+<title_without_series><![CDATA[Relentless Forward Progress: A Guide to Running Ultramarathons]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10293025-relentless-forward-progress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328698534l/10293025._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328698534l/10293025._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>15194878</id>
+</work>
+<isbn>1891369903</isbn>
+<isbn13>9781891369902</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4599597</id>
+<name>Bryon Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4599597.Bryon_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22889750</id>
+<title><![CDATA[Natural Born Heroes: How a Daring Band of Misfits Mastered the Lost Secrets of Strength and Endurance]]></title>
+<title_without_series><![CDATA[Natural Born Heroes: How a Daring Band of Misfits Mastered the Lost Secrets of Strength and Endurance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22889750-natural-born-heroes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410759464l/22889750._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410759464l/22889750._SX98_.jpg]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>42459905</id>
+</work>
+<isbn>0307594963</isbn>
+<isbn13>9780307594969</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>133538</id>
+<name>Christopher McDougall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/133538.Christopher_McDougall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>391659</id>
+<title><![CDATA[ChiRunning: A Revolutionary Approach to Effortless, Injury-Free Running]]></title>
+<title_without_series><![CDATA[ChiRunning: A Revolutionary Approach to Effortless, Injury-Free Running]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/391659.ChiRunning]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>236</num_pages>
+<work>
+<id>381265</id>
+</work>
+<isbn>074325144X</isbn>
+<isbn13>9780743251440</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>222634</id>
+<name>Danny Dreyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/222634.Danny_Dreyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10557318</id>
+<title><![CDATA[Running on Empty: An Ultramarathoner's Story of Love, Loss, and a Record-Setting Run Across America]]></title>
+<title_without_series><![CDATA[Running on Empty: An Ultramarathoner's Story of Love, Loss, and a Record-Setting Run Across America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10557318-running-on-empty]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355040336l/10557318._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355040336l/10557318._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>15464031</id>
+</work>
+<isbn>1101513853</isbn>
+<isbn13>9781101513859</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4500913</id>
+<name>Marshall Ulrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4500913.Marshall_Ulrich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>98250</id>
+<title>Once a Runner</title>
+<title_without_series>Once a Runner</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/98250.Once_a_Runner]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>94708</id>
+</work>
+<isbn>0915297019</isbn>
+<isbn13>9780915297016</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3264710</id>
+<name>John L. Parker Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3264710.John_L_Parker_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20578441</id>
+<title><![CDATA[Hal Koerner's Field Guide to Ultrarunning: Training for an Ultramarathon from 50K to 100 Miles and Beyond]]></title>
+<title_without_series><![CDATA[Hal Koerner's Field Guide to Ultrarunning: Training for an Ultramarathon from 50K to 100 Miles and Beyond]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20578441-hal-koerner-s-field-guide-to-ultrarunning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405867594l/20578441._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405867594l/20578441._SX98_.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>39846875</id>
+</work>
+<isbn>1937715221</isbn>
+<isbn13>9781937715229</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7778616</id>
+<name>Hal Koerner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7778616.Hal_Koerner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19120728</id>
+<title>Run or Die</title>
+<title_without_series>Run or Die</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19120728-run-or-die]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>19015624</id>
+</work>
+<isbn>193771635X</isbn>
+<isbn13>9781937716356</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5431076</id>
+<name>Kilian Jornet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5431076.Kilian_Jornet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2413209</id>
+<title><![CDATA[My Life on the Run: The Wit, Wisdom, and Insights of a Road Racing Icon]]></title>
+<title_without_series><![CDATA[My Life on the Run: The Wit, Wisdom, and Insights of a Road Racing Icon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2413209.My_Life_on_the_Run]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317792227l/2413209._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317792227l/2413209._SX98_.jpg]]></image_url>
+<num_pages>270</num_pages>
+<work>
+<id>2420386</id>
+</work>
+<isbn>1594869413</isbn>
+<isbn13>9781594869419</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>1076586</id>
+<name>Bart Yasso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1076586.Bart_Yasso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41817453</id>
+<title><![CDATA[The Rise of the Ultra Runners: A Journey to the Edge of Human Endurance]]></title>
+<title_without_series><![CDATA[The Rise of the Ultra Runners: A Journey to the Edge of Human Endurance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41817453-the-rise-of-the-ultra-runners]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539280529l/41817453._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539280529l/41817453._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>65256471</id>
+</work>
+<isbn>1643131354</isbn>
+<isbn13>9781643131351</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1657627</id>
+<name>Adharanand Finn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1657627.Adharanand_Finn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41014339</id>
+<title><![CDATA[Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance]]></title>
+<title_without_series><![CDATA[Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41014339-endure]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533053130l/41014339._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533053130l/41014339._SX98_.jpg]]></image_url>
+<num_pages>321</num_pages>
+<work>
+<id>56364072</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>26309</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5038088</id>
+<name>Alex  Hutchinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5038088.Alex_Hutchinson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

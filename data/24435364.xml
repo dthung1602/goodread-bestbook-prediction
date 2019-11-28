@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24435364</id>
+  <title><![CDATA[Yield the Night (Steel & Stone, #3)]]></title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00RH8BZOI]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[After surviving a round-trip to hell, Piper figures she can survive anything. After all, she just lived through the devastating loss of her Consul apprenticeship and a torturous stint at boarding school. How much worse could it get?<br /><br />Well, she wasn’t expecting a group of crazy radicals to burn her home to the ground and take her prisoner.<br /><br />The Gaians, a.k.a. the crazy radicals, plan to rid Earth of daemons and they need Piper’s help. In exchange for her cooperation, they promise her the answer to all her problems: magic. With her own magic, she could reclaim her apprenticeship, the only future she’s ever wanted. But her magic comes at price — it could kill her.<br /><br />With the life she’s always known crumbling around her and her future slipping from her grasp, she needs Ash’s help one more time. But the greatest danger of all lies within her, and no matter what she does, she may lose everything — including him.<br /><br />--<br /><b>Steel &amp; Stone Universe Books:</b><br /><br /><b>STEEL &amp; STONE</b><br />Chase the Dark (#1)<br />Bind the Soul (#2)<br />Yield the Night (#3)<br />Feed the Flames (#3.5)<br />Reap the Shadows (#4)<br />Unleash the Storm (#5)<br />Steel &amp; Stone (#6)<br /><br /><b>SPELL WEAVER</b><br />The Night Realm (#1)<br />The Shadow Weave (#2)<br />The Blood Curse (#3)]]></description>
+  <work>
+  <id type="integer">43588200</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">35238317</best_book_id>
+  <reviews_count type="integer">15172</reviews_count>
+  <ratings_sum type="integer">29917</ratings_sum>
+  <ratings_count type="integer">6846</ratings_count>
+  <text_reviews_count type="integer">373</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">18</original_publication_day>
+  <original_title>Yield the Night</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3500|4:2493|3:759|2:74|1:20|total:6846</rating_dist>
+  <desc_user_id type="integer">5175136</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.v80LCaaiedtRn_bdjmNkNg</work_uri>
+</work>
+  <average_rating>4.37</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5045]]></ratings_count>
+  <text_reviews_count><![CDATA[268]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24435364-yield-the-night]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24435364-yield-the-night]]></link>
+  <authors>
+<author>
+<id>8546572</id>
+<name>Annette Marie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1565858798p5/8546572.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1565858798p2/8546572.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8546572.Annette_Marie]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>77994</ratings_count>
+<text_reviews_count>7156</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24435364-yield-the-night">Yield the Night Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00RH8BZOI&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/24435364-yield-the-night?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5795"/>
+      <shelf name="currently-reading" count="629"/>
+      <shelf name="fantasy" count="164"/>
+      <shelf name="favorites" count="141"/>
+      <shelf name="paranormal" count="99"/>
+      <shelf name="urban-fantasy" count="97"/>
+      <shelf name="romance" count="89"/>
+      <shelf name="young-adult" count="83"/>
+      <shelf name="magic" count="77"/>
+      <shelf name="demons" count="74"/>
+      <shelf name="kindle-unlimited" count="57"/>
+      <shelf name="ya" count="48"/>
+      <shelf name="dragons" count="43"/>
+      <shelf name="paranormal-romance" count="27"/>
+      <shelf name="new-adult" count="26"/>
+      <shelf name="series" count="26"/>
+      <shelf name="supernatural" count="24"/>
+      <shelf name="kindle" count="23"/>
+      <shelf name="favourites" count="22"/>
+      <shelf name="angels-demons" count="20"/>
+      <shelf name="fiction" count="16"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="angels-and-demons" count="13"/>
+      <shelf name="dystopian" count="12"/>
+      <shelf name="4-stars" count="11"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="demon" count="10"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="favorite" count="10"/>
+      <shelf name="reviewed" count="9"/>
+      <shelf name="adventure" count="9"/>
+      <shelf name="fantasy-paranormal" count="9"/>
+      <shelf name="pnr" count="9"/>
+      <shelf name="annette-marie" count="9"/>
+      <shelf name="dragon" count="9"/>
+      <shelf name="audiobook" count="8"/>
+      <shelf name="dystopia" count="8"/>
+      <shelf name="shapeshifters" count="8"/>
+      <shelf name="action" count="8"/>
+      <shelf name="read-2015" count="8"/>
+      <shelf name="action-packed" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="book-boyfriends" count="7"/>
+      <shelf name="5-stars" count="7"/>
+      <shelf name="re-read" count="7"/>
+      <shelf name="fantasy-romance" count="7"/>
+      <shelf name="paranormal-fantasy" count="6"/>
+      <shelf name="read-2017" count="6"/>
+      <shelf name="e-book" count="6"/>
+      <shelf name="kickass-heroine" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="uf" count="6"/>
+      <shelf name="steel-and-stone" count="6"/>
+      <shelf name="drama" count="6"/>
+      <shelf name="on-kindle" count="6"/>
+      <shelf name="read-in-2015" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="read-in-2019" count="5"/>
+      <shelf name="4-star" count="5"/>
+      <shelf name="audible" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="ya-na" count="5"/>
+      <shelf name="angels" count="5"/>
+      <shelf name="steel-stone-series" count="5"/>
+      <shelf name="absolute-favorites" count="5"/>
+      <shelf name="kick-ass-heroine" count="5"/>
+      <shelf name="ya-paranormal" count="5"/>
+      <shelf name="fantasy-urban" count="5"/>
+      <shelf name="steel-stone" count="5"/>
+      <shelf name="na" count="5"/>
+      <shelf name="my-favs" count="5"/>
+      <shelf name="ya-fantasy" count="5"/>
+      <shelf name="kick-ass-chicks" count="5"/>
+      <shelf name="adult" count="5"/>
+      <shelf name="new-adult-fantasy" count="5"/>
+      <shelf name="2019-reads" count="4"/>
+      <shelf name="reread" count="4"/>
+      <shelf name="action-adventure" count="4"/>
+      <shelf name="favourite" count="4"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="fantasy-supernatural" count="4"/>
+      <shelf name="scifi-fantasy" count="4"/>
+      <shelf name="loved-it" count="4"/>
+      <shelf name="book-boyfriend" count="4"/>
+      <shelf name="kick-ass-heroines" count="4"/>
+      <shelf name="calibre" count="4"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="audiobooks" count="4"/>
+      <shelf name="need-to-buy" count="4"/>
+      <shelf name="shifters" count="4"/>
+      <shelf name="5-star" count="4"/>
+      <shelf name="high-fantasy" count="4"/>
+      <shelf name="funny" count="4"/>
+      <shelf name="alpha-male" count="4"/>
+      <shelf name="favs" count="4"/>
+      <shelf name="2015-release" count="4"/>
+      <shelf name="must-read" count="4"/>
+      <shelf name="awesome-series" count="4"/>
+      <shelf name="favorite-series" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>719994</id>
+<user_position>3</user_position>
+<series>
+<id>138650</id>
+<title>
+<![CDATA[
+    Steel & Stone
+]]>
+</title>
+<description>
+<![CDATA[
+    When everyone wants you dead, good help is really hard to find.
+     
+    Piper Griffiths knows the first rule for an apprentice Consul is not to trust daemons. But when she's framed for a treasonous crime, she has no choice but to trust two seriously sexy — and dangerous — daemons to help her.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1466735</id>
+<user_position>6</user_position>
+<series>
+<id>266423</id>
+<title>
+<![CDATA[
+    Steel & Stone Universe Books
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>9</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>47520474</id>
+<title><![CDATA[Dark Dancer (Rosie O'Grady's Paranormal Bar and Grill, #3)]]></title>
+<title_without_series>Dark Dancer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47520474-dark-dancer]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72623283</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5823296</id>
+<name>B.R. Kingsolver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5823296.B_R_Kingsolver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47490899</id>
+<title><![CDATA[Warrior Fae Trapped (Warrior Fae, #1)]]></title>
+<title_without_series>Warrior Fae Trapped</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47490899-warrior-fae-trapped]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564597906l/47490899._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564597906l/47490899._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72583295</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7010202</id>
+<name>K.F. Breene</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7010202.K_F_Breene]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46903448</id>
+<title><![CDATA[Dark King (Court of the Sea Fae, #1)]]></title>
+<title_without_series>Dark King</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46903448-dark-king]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71959805</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8587788</id>
+<name>C.N. Crawford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8587788.C_N_Crawford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48136858</id>
+<title><![CDATA[Heart of the Thief (The Wardbreaker Book 1)]]></title>
+<title_without_series>Heart of the Thief</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48136858-heart-of-the-thief]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73362384</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8435383</id>
+<name>Katerina Martinez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8435383.Katerina_Martinez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45869998</id>
+<title><![CDATA[Night Stalker (Rosie O'Grady's Paranormal Bar and Grill, #2)]]></title>
+<title_without_series>Night Stalker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45869998-night-stalker]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>70688115</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5823296</id>
+<name>B.R. Kingsolver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5823296.B_R_Kingsolver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44591519</id>
+<title><![CDATA[Shadow Hunter (Rosie O'Grady's Paranormal Bar and Grill, #1)]]></title>
+<title_without_series>Shadow Hunter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44591519-shadow-hunter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69218484</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5823296</id>
+<name>B.R. Kingsolver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5823296.B_R_Kingsolver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46773392</id>
+<title><![CDATA[Wishful Thinking (How To Be The Best Damn Faery Godmother In The World Or Die Trying #1)]]></title>
+<title_without_series>Wishful Thinking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46773392-wishful-thinking]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563098189l/46773392._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563098189l/46773392._SX98_.jpg]]></image_url>
+<num_pages>302</num_pages>
+<work>
+<id>71804806</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6875729</id>
+<name>Helen Harper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6875729.Helen_Harper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43879372</id>
+<title><![CDATA[Live Fae or Die Trying (The Paranormal PI Files #1)]]></title>
+<title_without_series>Live Fae or Die Trying</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43879372-live-fae-or-die-trying]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68536802</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16904986</id>
+<name>Jenna Wolfhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16904986.Jenna_Wolfhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48068236</id>
+<title><![CDATA[How to Kiss an Undead Bride: The Epilogues (The Beginner's Guide to Necromancy, #7)]]></title>
+<title_without_series><![CDATA[How to Kiss an Undead Bride: The Epilogues]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48068236-how-to-kiss-an-undead-bride]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>206</num_pages>
+<work>
+<id>73268273</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3345773</id>
+<name>Hailey Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3345773.Hailey_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40954454</id>
+<title><![CDATA[Court of Shadows (Institute of the Shadow Fae, #1)]]></title>
+<title_without_series>Court of Shadows</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40954454-court-of-shadows]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532631932l/40954454._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532631932l/40954454._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63874524</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>8587788</id>
+<name>C.N. Crawford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8587788.C_N_Crawford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41555390</id>
+<title><![CDATA[Court of Darkness (Institute of the Shadow Fae, #2)]]></title>
+<title_without_series>Court of Darkness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41555390-court-of-darkness]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64835184</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8587788</id>
+<name>C.N. Crawford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8587788.C_N_Crawford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42265797</id>
+<title><![CDATA[How to Live an Undead Lie (Beginner's Guide to Necromancy, #5)]]></title>
+<title_without_series>How to Live an Undead Lie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42265797-how-to-live-an-undead-lie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541936756l/42265797._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541936756l/42265797._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65882895</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>3345773</id>
+<name>Hailey Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3345773.Hailey_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47762658</id>
+<title><![CDATA[The Hidden (Shadowed Wings #1)]]></title>
+<title_without_series>The Hidden</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47762658-the-hidden]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565710963l/47762658._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565710963l/47762658._SX98_.jpg]]></image_url>
+<num_pages>205</num_pages>
+<work>
+<id>72892488</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18631282</id>
+<name>Ivy Asher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18631282.Ivy_Asher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44077575</id>
+<title><![CDATA[Dead Fae Walking (The Paranormal PI Files, #2)]]></title>
+<title_without_series>Dead Fae Walking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44077575-dead-fae-walking]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68539735</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16904986</id>
+<name>Jenna Wolfhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16904986.Jenna_Wolfhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47894397</id>
+<title><![CDATA[Innocent Until Proven Fae (The Paranormal PI Files #5)]]></title>
+<title_without_series>Innocent Until Proven Fae</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47894397-innocent-until-proven-fae]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73045458</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16904986</id>
+<name>Jenna Wolfhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16904986.Jenna_Wolfhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42754993</id>
+<title><![CDATA[Magic Bite (Supernatural Bounty Hunter, #1)]]></title>
+<title_without_series>Magic Bite</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42754993-magic-bite]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541987573l/42754993._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541987573l/42754993._SX98_.jpg]]></image_url>
+<num_pages>250</num_pages>
+<work>
+<id>66493037</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>3065284</id>
+<name>Leia Stone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3065284.Leia_Stone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48515681</id>
+<title><![CDATA[Fortune Favors the Cruel (Dark Maji, #1)]]></title>
+<title_without_series>Fortune Favors the Cruel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48515681-fortune-favors-the-cruel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571592166l/48515681._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571592166l/48515681._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69385018</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16067572</id>
+<name>Kel Carpenter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16067572.Kel_Carpenter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48118537</id>
+<title><![CDATA[Warrior Fae Princess (Warrior Fae, #2)]]></title>
+<title_without_series>Warrior Fae Princess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48118537-warrior-fae-princess]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73338284</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7010202</id>
+<name>K.F. Breene</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7010202.K_F_Breene]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

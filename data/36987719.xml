@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36987719</id>
+  <title>All the Little Lights</title>
+  <isbn><![CDATA[1503902781]]></isbn>
+  <isbn13><![CDATA[9781503902787]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517243886l/36987719._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517243886l/36987719._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>Montlake Romance</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>From #1 <i>New York Times</i> bestselling author Jamie McGuire comes a riveting tale of first love that starts young but runs deep.</b><br /><br />The first time Elliott Youngblood spots Catherine Calhoun, he’s just a boy with a camera, and he’s never seen a sadder and more beautiful sight. Both Elliott and Catherine feel like outcasts, yet they find an easy friendship with each other. But when Catherine needs him most, Elliott is forced to leave town.<br /><br />Elliott finally returns, but he and Catherine are now different people. He’s a star high school athlete, and she spends all her free time working at her mother’s mysterious bed-and-breakfast. Catherine hasn’t forgiven Elliott for abandoning her, but he’s determined to win back her friendship… and her heart.<br /><br />Just when Catherine is ready to fully trust Elliott, he becomes the prime suspect in a local tragedy. Despite the town’s growing suspicions, Catherine clings to her love for Elliott. But a devastating secret that Catherine has buried could destroy whatever chance of happiness they have left.]]></description>
+  <work>
+  <id type="integer">50351303</id>
+  <books_count type="integer">17</books_count>
+  <best_book_id type="integer">29958272</best_book_id>
+  <reviews_count type="integer">50131</reviews_count>
+  <ratings_sum type="integer">41979</ratings_sum>
+  <ratings_count type="integer">10652</ratings_count>
+  <text_reviews_count type="integer">1620</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_title>All the Little Lights</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3828|4:3632|3:2194|2:731|1:267|total:10652</rating_dist>
+  <desc_user_id type="integer">4391094</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.rHSP_kqoI9wB0eDLYB8R0g</work_uri>
+</work>
+  <average_rating>3.94</average_rating>
+  <num_pages><![CDATA[444]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[737]]></ratings_count>
+  <text_reviews_count><![CDATA[164]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36987719-all-the-little-lights]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36987719-all-the-little-lights]]></link>
+  <authors>
+<author>
+<id>4464118</id>
+<name>Jamie McGuire</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539783525p5/4464118.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539783525p2/4464118.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4464118.Jamie_McGuire]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>1048872</ratings_count>
+<text_reviews_count>70693</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36987719-all-the-little-lights">All the Little Lights Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1503902781&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36987719-all-the-little-lights?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="30432"/>
+      <shelf name="currently-reading" count="5102"/>
+      <shelf name="romance" count="190"/>
+      <shelf name="young-adult" count="165"/>
+      <shelf name="ya" count="100"/>
+      <shelf name="contemporary" count="93"/>
+      <shelf name="kindle-unlimited" count="75"/>
+      <shelf name="kindle" count="63"/>
+      <shelf name="fiction" count="53"/>
+      <shelf name="new-adult" count="50"/>
+      <shelf name="favorites" count="42"/>
+      <shelf name="dnf" count="41"/>
+      <shelf name="arc" count="36"/>
+      <shelf name="read-in-2018" count="35"/>
+      <shelf name="mystery" count="35"/>
+      <shelf name="to-buy" count="35"/>
+      <shelf name="netgalley" count="31"/>
+      <shelf name="jamie-mcguire" count="26"/>
+      <shelf name="owned" count="22"/>
+      <shelf name="audiobook" count="21"/>
+      <shelf name="2018-releases" count="21"/>
+      <shelf name="stand-alone" count="20"/>
+      <shelf name="2018-reads" count="20"/>
+      <shelf name="high-school" count="20"/>
+      <shelf name="audiobooks" count="19"/>
+      <shelf name="ebook" count="19"/>
+      <shelf name="2018-read" count="18"/>
+      <shelf name="read-2018" count="17"/>
+      <shelf name="contemporary-romance" count="17"/>
+      <shelf name="books-i-own" count="16"/>
+      <shelf name="maybe" count="16"/>
+      <shelf name="read-in-2019" count="15"/>
+      <shelf name="audible" count="15"/>
+      <shelf name="arcs" count="15"/>
+      <shelf name="standalone" count="13"/>
+      <shelf name="suspense" count="13"/>
+      <shelf name="did-not-finish" count="12"/>
+      <shelf name="mental-illness" count="12"/>
+      <shelf name="audio-books" count="11"/>
+      <shelf name="ya-romance" count="11"/>
+      <shelf name="coming-of-age" count="11"/>
+      <shelf name="ku" count="11"/>
+      <shelf name="ebooks" count="11"/>
+      <shelf name="tbr" count="11"/>
+      <shelf name="2018-books" count="11"/>
+      <shelf name="read-2019" count="10"/>
+      <shelf name="realistic-fiction" count="10"/>
+      <shelf name="mental-health" count="10"/>
+      <shelf name="friends-to-lovers" count="10"/>
+      <shelf name="ya-contemporary" count="10"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="may-2018" count="10"/>
+      <shelf name="want-to-buy" count="9"/>
+      <shelf name="library" count="9"/>
+      <shelf name="kindle-books" count="9"/>
+      <shelf name="stand-alones" count="9"/>
+      <shelf name="2019-reads" count="8"/>
+      <shelf name="need-to-buy" count="8"/>
+      <shelf name="2018-reading-challenge" count="8"/>
+      <shelf name="dark" count="8"/>
+      <shelf name="on-kindle" count="8"/>
+      <shelf name="5-stars" count="8"/>
+      <shelf name="owned-books" count="8"/>
+      <shelf name="books-to-buy" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="abuse" count="7"/>
+      <shelf name="on-my-kindle" count="7"/>
+      <shelf name="reviewed" count="7"/>
+      <shelf name="second-chance" count="7"/>
+      <shelf name="read-next" count="6"/>
+      <shelf name="next" count="6"/>
+      <shelf name="drama" count="6"/>
+      <shelf name="family" count="6"/>
+      <shelf name="mystery-suspense" count="6"/>
+      <shelf name="netgalley-arc" count="6"/>
+      <shelf name="3-stars" count="6"/>
+      <shelf name="2018-release" count="6"/>
+      <shelf name="chick-lit" count="6"/>
+      <shelf name="mystery-thriller" count="6"/>
+      <shelf name="kindle-tbr" count="5"/>
+      <shelf name="e-books" count="5"/>
+      <shelf name="books-read-in-2018" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="standalones" count="5"/>
+      <shelf name="romantic-suspense" count="5"/>
+      <shelf name="love" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="contemporary-tbr" count="5"/>
+      <shelf name="unlimited" count="5"/>
+      <shelf name="ya-na" count="5"/>
+      <shelf name="favorite-authors" count="5"/>
+      <shelf name="not-interested" count="5"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="2019-books" count="4"/>
+      <shelf name="tenho" count="4"/>
+      <shelf name="juvenil" count="4"/>
+      <shelf name="angst" count="4"/>
+      <shelf name="4-star" count="4"/>
+      <shelf name="death" count="4"/>
+      <shelf name="kindle-library" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>38926487</id>
+<title>All Your Perfects</title>
+<title_without_series>All Your Perfects</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38926487-all-your-perfects]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531682842l/38926487._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531682842l/38926487._SX98_.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>58113564</id>
+</work>
+<isbn>1501193325</isbn>
+<isbn13>9781501193323</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5430144</id>
+<name>Colleen Hoover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5430144.Colleen_Hoover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41957126</id>
+<title>Verity</title>
+<title_without_series>Verity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41957126-verity]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>333</num_pages>
+<work>
+<id>64581304</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5430144</id>
+<name>Colleen Hoover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5430144.Colleen_Hoover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39093527</id>
+<title>A Wish for Us</title>
+<title_without_series>A Wish for Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39093527-a-wish-for-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525352683l/39093527._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525352683l/39093527._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>60671535</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>7074846</id>
+<name>Tillie Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7074846.Tillie_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42388295</id>
+<title>Be the Girl</title>
+<title_without_series>Be the Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42388295-be-the-girl]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>333</num_pages>
+<work>
+<id>66060157</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>4866520</id>
+<name>K.A. Tucker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4866520.K_A_Tucker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39934742</id>
+<title>Folsom (End of Men, #1)</title>
+<title_without_series>Folsom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39934742-folsom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524837364l/39934742._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524837364l/39934742._SX98_.jpg]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>61823342</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>5410816</id>
+<name>Tarryn Fisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5410816.Tarryn_Fisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42657538</id>
+<title>Maybe Now (Maybe, #2)</title>
+<title_without_series>Maybe Now</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42657538-maybe-now]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541746506l/42657538._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541746506l/42657538._SX98_.jpg]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>66404145</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5430144</id>
+<name>Colleen Hoover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5430144.Colleen_Hoover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40144365</id>
+<title>Jackal (End of Men, #2)</title>
+<title_without_series>Jackal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40144365-jackal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072006l/40144365._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529072006l/40144365._SX98_.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>62279705</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>5410816</id>
+<name>Tarryn Fisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5410816.Tarryn_Fisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36893907</id>
+<title><![CDATA[Bring Down the Stars (Beautiful Hearts, #1)]]></title>
+<title_without_series>Bring Down the Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36893907-bring-down-the-stars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528983828l/36893907._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528983828l/36893907._SX98_.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>58653860</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>10405165</id>
+<name>Emma   Scott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10405165.Emma_Scott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42326152</id>
+<title><![CDATA[Long Live the Beautiful Hearts (Beautiful Hearts, #2)]]></title>
+<title_without_series><![CDATA[Long Live the Beautiful Hearts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42326152-long-live-the-beautiful-hearts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58653862</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10405165</id>
+<name>Emma   Scott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10405165.Emma_Scott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43706726</id>
+<title>When We Believed in Mermaids</title>
+<title_without_series>When We Believed in Mermaids</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43706726-when-we-believed-in-mermaids]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552035063l/43706726._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552035063l/43706726._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68012209</id>
+</work>
+<isbn>1542004527</isbn>
+<isbn13>9781542004527</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>941508</id>
+<name>Barbara O&apos;Neal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/941508.Barbara_O_Neal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36342145</id>
+<title>More Than Words</title>
+<title_without_series>More Than Words</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36342145-more-than-words]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508409321l/36342145._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508409321l/36342145._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>58022137</id>
+</work>
+<isbn>1538727390</isbn>
+<isbn13>9781538727393</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6994378</id>
+<name>Mia Sheridan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6994378.Mia_Sheridan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37805905</id>
+<title>Disgrace</title>
+<title_without_series>Disgrace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37805905-disgrace]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523545408l/37805905._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523545408l/37805905._SX98_.jpg]]></image_url>
+<num_pages>402</num_pages>
+<work>
+<id>59478331</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>7121791</id>
+<name>Brittainy C. Cherry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7121791.Brittainy_C_Cherry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41450662</id>
+<title>The Kiss Thief</title>
+<title_without_series>The Kiss Thief</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41450662-the-kiss-thief]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544101164l/41450662._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544101164l/41450662._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>64703632</id>
+</work>
+<isbn>1793307504</isbn>
+<isbn13>9781793307507</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>13531492</id>
+<name>L.J. Shen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13531492.L_J_Shen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39709060</id>
+<title><![CDATA[Pretty Reckless (All Saints High, #1)]]></title>
+<title_without_series>Pretty Reckless</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39709060-pretty-reckless]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554895598l/39709060._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554895598l/39709060._SX98_.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>61363503</id>
+</work>
+<isbn>1095447416</isbn>
+<isbn13>9781095447413</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>13531492</id>
+<name>L.J. Shen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13531492.L_J_Shen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47889491</id>
+<title>Where the Blame Lies</title>
+<title_without_series>Where the Blame Lies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47889491-where-the-blame-lies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566565327l/47889491._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566565327l/47889491._SX98_.jpg]]></image_url>
+<num_pages>426</num_pages>
+<work>
+<id>73038439</id>
+</work>
+<isbn>1689781491</isbn>
+<isbn13>9781689781497</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>6994378</id>
+<name>Mia Sheridan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6994378.Mia_Sheridan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42381708</id>
+<title>Spring House</title>
+<title_without_series>Spring House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42381708-spring-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545605342l/42381708._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545605342l/42381708._SX98_.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>66048036</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6462451</id>
+<name>Mary Ellen Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6462451.Mary_Ellen_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35660213</id>
+<title>Someone Else&apos;s Ocean</title>
+<title_without_series>Someone Else&apos;s Ocean</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35660213-someone-else-s-ocean]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529086970l/35660213._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529086970l/35660213._SX98_.jpg]]></image_url>
+<num_pages>362</num_pages>
+<work>
+<id>57115275</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>7390938</id>
+<name>Kate  Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7390938.Kate_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42606944</id>
+<title>The Wish Collector</title>
+<title_without_series>The Wish Collector</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42606944-the-wish-collector]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541101152l/42606944._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541101152l/42606944._SX98_.jpg]]></image_url>
+<num_pages>504</num_pages>
+<work>
+<id>66312457</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10652</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6994378</id>
+<name>Mia Sheridan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6994378.Mia_Sheridan]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

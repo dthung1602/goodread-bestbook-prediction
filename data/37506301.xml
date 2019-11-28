@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>37506301</id>
+  <title>The Day You Begin</title>
+  <isbn><![CDATA[0399246533]]></isbn>
+  <isbn13><![CDATA[9780399246531]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Nancy Paulsen Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[National Book Award winner Jacqueline Woodson and two-time Pura Belpre Illustrator Award winner Rafael Lopez have teamed up to create a poignant, yet heartening book about finding courage to connect, even when you feel scared and alone.<br /><br /><i> There will be times when you walk into a room</i><br /><i> and no one there is quite like you.</i><br /><br />There are many reasons to feel different. Maybe it's how you look or talk, or where you're from; maybe it's what you eat, or something just as random. It's not easy to take those first steps into a place where nobody really knows you yet, but somehow you do it.<br /><br />Jacqueline Woodson's lyrical text and Rafael Lopez's dazzling art reminds us that we all feel like outsiders sometimes-and how brave it is that we go forth anyway. And that sometimes, when we reach out and begin to share our stories, others will be happy to meet us halfway.<br /><br />Jacqueline Woodson is the 2018-2019 National Ambassador for Young People's Literature.]]></description>
+  <work>
+  <id type="integer">59116604</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">37506301</best_book_id>
+  <reviews_count type="integer">9157</reviews_count>
+  <ratings_sum type="integer">17163</ratings_sum>
+  <ratings_count type="integer">3793</ratings_count>
+  <text_reviews_count type="integer">808</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <original_title>The Day You Begin</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2480|4:943|3:280|2:61|1:29|total:3793</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.lm_nOzA1_5SCuzcmoR34fQ</work_uri>
+</work>
+  <average_rating>4.52</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3751]]></ratings_count>
+  <text_reviews_count><![CDATA[795]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+  <authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327352477p5/74640.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1327352477p2/74640.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>180377</ratings_count>
+<text_reviews_count>28678</text_reviews_count>
+</author>
+<author>
+<id>2808711</id>
+<name>Rafael López</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1358828400p5/2808711.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1358828400p2/2808711.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2808711.Rafael_L_pez]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>12298</ratings_count>
+<text_reviews_count>2845</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/37506301-the-day-you-begin">The Day You Begin Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399246533&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/37506301-the-day-you-begin?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4112"/>
+      <shelf name="picture-books" count="615"/>
+      <shelf name="picture-book" count="198"/>
+      <shelf name="childrens" count="101"/>
+      <shelf name="children-s-books" count="90"/>
+      <shelf name="children" count="76"/>
+      <shelf name="diversity" count="75"/>
+      <shelf name="friendship" count="68"/>
+      <shelf name="kids" count="62"/>
+      <shelf name="children-s" count="55"/>
+      <shelf name="realistic-fiction" count="49"/>
+      <shelf name="school" count="45"/>
+      <shelf name="multicultural" count="40"/>
+      <shelf name="currently-reading" count="40"/>
+      <shelf name="favorites" count="40"/>
+      <shelf name="fiction" count="33"/>
+      <shelf name="diverse" count="28"/>
+      <shelf name="childrens-books" count="26"/>
+      <shelf name="kids-books" count="25"/>
+      <shelf name="identity" count="21"/>
+      <shelf name="picture" count="20"/>
+      <shelf name="library" count="20"/>
+      <shelf name="back-to-school" count="19"/>
+      <shelf name="acceptance" count="19"/>
+      <shelf name="read-aloud" count="19"/>
+      <shelf name="read-in-2018" count="19"/>
+      <shelf name="children-s-literature" count="18"/>
+      <shelf name="kindness" count="18"/>
+      <shelf name="immigration" count="17"/>
+      <shelf name="children-s-lit" count="16"/>
+      <shelf name="picturebooks" count="16"/>
+      <shelf name="poetry" count="16"/>
+      <shelf name="kid-lit" count="14"/>
+      <shelf name="read-alouds" count="14"/>
+      <shelf name="children-s-picture-books" count="13"/>
+      <shelf name="feelings" count="13"/>
+      <shelf name="individuality" count="13"/>
+      <shelf name="empathy" count="13"/>
+      <shelf name="diverse-books" count="13"/>
+      <shelf name="exploring-assignment" count="12"/>
+      <shelf name="first-day-of-school" count="12"/>
+      <shelf name="emotions" count="12"/>
+      <shelf name="childrens-picture-books" count="12"/>
+      <shelf name="storytime" count="12"/>
+      <shelf name="diverse-characters" count="12"/>
+      <shelf name="read-in-2019" count="11"/>
+      <shelf name="2019-reads" count="11"/>
+      <shelf name="multi-cultural" count="11"/>
+      <shelf name="differences" count="11"/>
+      <shelf name="classroom" count="11"/>
+      <shelf name="community" count="11"/>
+      <shelf name="classroombookaday" count="11"/>
+      <shelf name="2018-reads" count="11"/>
+      <shelf name="picture-books-2018" count="11"/>
+      <shelf name="monarch-2020" count="10"/>
+      <shelf name="preschool" count="10"/>
+      <shelf name="poc" count="10"/>
+      <shelf name="own-voices" count="10"/>
+      <shelf name="inspirational" count="9"/>
+      <shelf name="childrens-lit" count="9"/>
+      <shelf name="we-need-diverse-books" count="9"/>
+      <shelf name="self-esteem" count="9"/>
+      <shelf name="illustrations" count="8"/>
+      <shelf name="immigrants" count="8"/>
+      <shelf name="classroom-library" count="8"/>
+      <shelf name="2018-picture-books" count="8"/>
+      <shelf name="2020-monarch" count="7"/>
+      <shelf name="inclusion" count="7"/>
+      <shelf name="elementary" count="7"/>
+      <shelf name="read-2018" count="7"/>
+      <shelf name="exploring-diversity" count="7"/>
+      <shelf name="kid-books" count="7"/>
+      <shelf name="pb" count="7"/>
+      <shelf name="juvenile" count="7"/>
+      <shelf name="for-the-kids" count="7"/>
+      <shelf name="favorite-picture-books" count="7"/>
+      <shelf name="mock-caldecott-2019" count="7"/>
+      <shelf name="fitting-in" count="7"/>
+      <shelf name="monarch" count="6"/>
+      <shelf name="exploring-quality" count="6"/>
+      <shelf name="read-2019" count="6"/>
+      <shelf name="ownvoices" count="6"/>
+      <shelf name="edrd-390" count="6"/>
+      <shelf name="belonging" count="6"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="friends" count="6"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="realistic" count="6"/>
+      <shelf name="african-american" count="6"/>
+      <shelf name="school-story" count="6"/>
+      <shelf name="children-books" count="6"/>
+      <shelf name="childrensbooks" count="6"/>
+      <shelf name="wndb" count="6"/>
+      <shelf name="characters-of-color" count="6"/>
+      <shelf name="2018-read" count="6"/>
+      <shelf name="realistic-fiction-5" count="5"/>
+      <shelf name="classroom-books" count="5"/>
+      <shelf name="2019-picture-books" count="5"/>
+      <shelf name="favorite-children-s-books" count="5"/>
+      <shelf name="primary" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>39651067</id>
+<title>Dreamers</title>
+<title_without_series>Dreamers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39651067-dreamers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523445744l/39651067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523445744l/39651067._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>61220853</id>
+</work>
+<isbn>0823440559</isbn>
+<isbn13>9780823440559</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34791219</id>
+<title>Drawn Together</title>
+<title_without_series>Drawn Together</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34791219-drawn-together]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510025545l/34791219._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510025545l/34791219._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>55989359</id>
+</work>
+<isbn>1484767608</isbn>
+<isbn13>9781484767603</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14355926</id>
+<name>Minh Lê</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14355926.Minh_L_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28234753</id>
+<title>Alma and How She Got Her Name</title>
+<title_without_series>Alma and How She Got Her Name</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28234753-alma-and-how-she-got-her-name]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513197112l/28234753._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513197112l/28234753._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48265768</id>
+</work>
+<isbn>0763693553</isbn>
+<isbn13>9780763693558</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5300084</id>
+<name>Juana Martinez-Neal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5300084.Juana_Martinez_Neal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34362953</id>
+<title><![CDATA[A Big Mooncake for Little Star]]></title>
+<title_without_series><![CDATA[A Big Mooncake for Little Star]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34362953-a-big-mooncake-for-little-star]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509397042l/34362953._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509397042l/34362953._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>55441756</id>
+</work>
+<isbn>0316404489</isbn>
+<isbn13>9780316404488</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>59390</id>
+<name>Grace Lin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59390.Grace_Lin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34642482</id>
+<title>Thank You, Omu!</title>
+<title_without_series>Thank You, Omu!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34642482-thank-you-omu]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>55803453</id>
+</work>
+<isbn>0316431249</isbn>
+<isbn13>9780316431248</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>16600636</id>
+<name>Oge Mora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16600636.Oge_Mora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36341954</id>
+<title>We Don&apos;t Eat Our Classmates</title>
+<title_without_series>We Don&apos;t Eat Our Classmates</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36341954-we-don-t-eat-our-classmates]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>58021963</id>
+</work>
+<isbn>1368003559</isbn>
+<isbn13>9781368003551</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36959643</id>
+<title>All Are Welcome</title>
+<title_without_series>All Are Welcome</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36959643-all-are-welcome]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521107247l/36959643._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521107247l/36959643._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>58759199</id>
+</work>
+<isbn>0525579656</isbn>
+<isbn13>9780525579656</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6475425</id>
+<name>Alexandra Penfold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6475425.Alexandra_Penfold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33110891</id>
+<title>Carmela Full of Wishes</title>
+<title_without_series>Carmela Full of Wishes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33110891-carmela-full-of-wishes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516128841l/33110891._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516128841l/33110891._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>53775056</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26532714</id>
+<title>Julián Is a Mermaid</title>
+<title_without_series>Julián Is a Mermaid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26532714-juli-n-is-a-mermaid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503977423l/26532714._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503977423l/26532714._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>46532501</id>
+</work>
+<isbn>0763690457</isbn>
+<isbn13>9780763690458</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>14347579</id>
+<name>Jessica    Love</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14347579.Jessica_Love]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35580105</id>
+<title>Hello Lighthouse</title>
+<title_without_series>Hello Lighthouse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35580105-hello-lighthouse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY160_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>57013848</id>
+</work>
+<isbn>0316362387</isbn>
+<isbn13>9780316362382</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>63115</id>
+<name>Sophie Blackall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63115.Sophie_Blackall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35248504</id>
+<title>The Rabbit Listened</title>
+<title_without_series>The Rabbit Listened</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35248504-the-rabbit-listened]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56599297</id>
+</work>
+<isbn>073522935X</isbn>
+<isbn13>9780735229358</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>2851649</id>
+<name>Cori Doerrfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2851649.Cori_Doerrfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37969835</id>
+<title><![CDATA[The Wall in the Middle of the Book]]></title>
+<title_without_series><![CDATA[The Wall in the Middle of the Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37969835-the-wall-in-the-middle-of-the-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525113313l/37969835._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525113313l/37969835._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>59693899</id>
+</work>
+<isbn>0525555455</isbn>
+<isbn13>9780525555452</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>87516</id>
+<name>Jon Agee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87516.Jon_Agee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35297368</id>
+<title>Mommy&apos;s Khimar</title>
+<title_without_series>Mommy&apos;s Khimar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35297368-mommy-s-khimar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509878603l/35297368._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509878603l/35297368._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56664211</id>
+</work>
+<isbn>1534400591</isbn>
+<isbn13>9781534400597</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>16917882</id>
+<name>Jamilah Thompkins-Bigelow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16917882.Jamilah_Thompkins_Bigelow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35887584</id>
+<title>The Rough Patch</title>
+<title_without_series>The Rough Patch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35887584-the-rough-patch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517721067l/35887584._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517721067l/35887584._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57404117</id>
+</work>
+<isbn>0062671278</isbn>
+<isbn13>9780062671271</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>77079</id>
+<name>Brian Lies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77079.Brian_Lies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35833840</id>
+<title>They Say Blue</title>
+<title_without_series>They Say Blue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35833840-they-say-blue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520017963l/35833840._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520017963l/35833840._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57340554</id>
+</work>
+<isbn>1773060201</isbn>
+<isbn13>9781773060200</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>634455</id>
+<name>Jillian Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/634455.Jillian_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35758098</id>
+<title><![CDATA[I Walk with Vanessa: A Story about a Simple Act of Kindness]]></title>
+<title_without_series><![CDATA[I Walk with Vanessa: A Story about a Simple Act of Kindness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35758098-i-walk-with-vanessa]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574028369l/35758098._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574028369l/35758098._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57259095</id>
+</work>
+<isbn>1524769568</isbn>
+<isbn13>9781524769567</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>752696</id>
+<name>Kerascoët</name>
+<link><![CDATA[https://www.goodreads.com/author/show/752696.Kerasco_t]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35631757</id>
+<title>Islandborn</title>
+<title_without_series>Islandborn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35631757-islandborn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501509374l/35631757._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501509374l/35631757._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>57202276</id>
+</work>
+<isbn>0735229864</isbn>
+<isbn13>9780735229860</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>55215</id>
+<name>Junot Díaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55215.Junot_D_az]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34791187</id>
+<title>The Remember Balloons</title>
+<title_without_series>The Remember Balloons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34791187-the-remember-balloons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518200231l/34791187._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518200231l/34791187._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>55989339</id>
+</work>
+<isbn>1481489151</isbn>
+<isbn13>9781481489157</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>3793</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>16668058</id>
+<name>Jessie Oliveros</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16668058.Jessie_Oliveros]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

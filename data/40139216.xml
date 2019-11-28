@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>40139216</id>
+  <title><![CDATA[A Crystal of Time (The School for Good and Evil: The Camelot Years, #2)]]></title>
+  <isbn><![CDATA[0062695177]]></isbn>
+  <isbn13><![CDATA[9780062695178]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528122505l/40139216._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528122505l/40139216._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A false king has seized Camelot’s throne, sentencing Tedros, the true king, to death. While Agatha, narrowly escapes the same fate, Sophie is caught in King Rhian’s trap. With her wedding to Rhian approaching, she’s forced to play a dangerous game as her friends’ lives hang in the balance.<br /><br />All the while, King Rhian’s dark plans for Camelot are taking shape. Now the students of the School for Good and Evil must find a way to restore Tedros to the throne before their stories—and the future of the Endless Woods—are rewritten . . . forever.]]></description>
+  <work>
+  <id type="integer">57834117</id>
+  <books_count type="integer">21</books_count>
+  <best_book_id type="integer">36203664</best_book_id>
+  <reviews_count type="integer">10024</reviews_count>
+  <ratings_sum type="integer">11097</ratings_sum>
+  <ratings_count type="integer">2449</ratings_count>
+  <text_reviews_count type="integer">290</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>A Crystal of Time</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1606|4:604|3:191|2:30|1:18|total:2449</rating_dist>
+  <desc_user_id type="integer">78921154</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.weZctgMk6x2_XZzOVk2c3w</work_uri>
+</work>
+  <average_rating>4.53</average_rating>
+  <num_pages><![CDATA[624]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[148]]></ratings_count>
+  <text_reviews_count><![CDATA[18]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/40139216-a-crystal-of-time]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/40139216-a-crystal-of-time]]></link>
+  <authors>
+<author>
+<id>780120</id>
+<name>Soman Chainani</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1483891427p5/780120.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1483891427p2/780120.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/780120.Soman_Chainani]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>113862</ratings_count>
+<text_reviews_count>13903</text_reviews_count>
+</author>
+<author>
+<id>2738900</id>
+<name>Iacopo Bruno</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442602026p5/2738900.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442602026p2/2738900.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2738900.Iacopo_Bruno]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>94630</ratings_count>
+<text_reviews_count>11450</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/40139216-a-crystal-of-time">A Crystal of Time Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062695177&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/40139216-a-crystal-of-time?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6304"/>
+      <shelf name="currently-reading" count="454"/>
+      <shelf name="fantasy" count="96"/>
+      <shelf name="favorites" count="51"/>
+      <shelf name="middle-grade" count="42"/>
+      <shelf name="books-i-own" count="27"/>
+      <shelf name="young-adult" count="25"/>
+      <shelf name="series" count="23"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="read-in-2019" count="17"/>
+      <shelf name="owned" count="14"/>
+      <shelf name="2019-releases" count="13"/>
+      <shelf name="school-for-good-and-evil" count="11"/>
+      <shelf name="fiction" count="10"/>
+      <shelf name="ya" count="10"/>
+      <shelf name="the-school-for-good-and-evil" count="10"/>
+      <shelf name="2019-reads" count="9"/>
+      <shelf name="fairytales" count="9"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="audiobooks" count="7"/>
+      <shelf name="favourites" count="7"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="adventure" count="6"/>
+      <shelf name="read-2019" count="6"/>
+      <shelf name="children" count="6"/>
+      <shelf name="magic" count="6"/>
+      <shelf name="fairy-tales" count="6"/>
+      <shelf name="kindle" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="favorite-books" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="ya-fantasy" count="5"/>
+      <shelf name="fairy-tale" count="5"/>
+      <shelf name="want-to-buy" count="5"/>
+      <shelf name="need-to-buy" count="5"/>
+      <shelf name="kids" count="4"/>
+      <shelf name="middle-school" count="4"/>
+      <shelf name="childrens" count="4"/>
+      <shelf name="2019-release" count="4"/>
+      <shelf name="sequels" count="4"/>
+      <shelf name="2019-new-releases" count="4"/>
+      <shelf name="not-owned" count="3"/>
+      <shelf name="love" count="3"/>
+      <shelf name="middlegrade" count="3"/>
+      <shelf name="scribd" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="books-i-have" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="2019-books" count="3"/>
+      <shelf name="audio-books" count="3"/>
+      <shelf name="on-the-shelf" count="3"/>
+      <shelf name="series-to-finish" count="3"/>
+      <shelf name="books-i-want" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="royalty" count="3"/>
+      <shelf name="need" count="3"/>
+      <shelf name="genre-fantasy" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="boughtbutnotread" count="2"/>
+      <shelf name="children-s" count="2"/>
+      <shelf name="2019-reading-challenge" count="2"/>
+      <shelf name="in-library" count="2"/>
+      <shelf name="consideration" count="2"/>
+      <shelf name="home-shelf" count="2"/>
+      <shelf name="owned-but-not-read" count="2"/>
+      <shelf name="books-i-want-to-buy" count="2"/>
+      <shelf name="mystery" count="2"/>
+      <shelf name="read-this-year" count="2"/>
+      <shelf name="teen" count="2"/>
+      <shelf name="middle-grade-fantasy" count="2"/>
+      <shelf name="childrens-middle-grade" count="2"/>
+      <shelf name="tbr" count="2"/>
+      <shelf name="owned-to-be-read" count="2"/>
+      <shelf name="best-of-2019" count="2"/>
+      <shelf name="science-fiction-fantasy" count="2"/>
+      <shelf name="fairy-tale-ish" count="2"/>
+      <shelf name="fairy-tale-retelling" count="2"/>
+      <shelf name="autographed" count="2"/>
+      <shelf name="gr-8-semester-2" count="2"/>
+      <shelf name="princesses" count="2"/>
+      <shelf name="friendship" count="2"/>
+      <shelf name="tbr-pile" count="2"/>
+      <shelf name="mine" count="2"/>
+      <shelf name="favourite" count="2"/>
+      <shelf name="new-books" count="2"/>
+      <shelf name="signed-books" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="owe" count="2"/>
+      <shelf name="juvenile-fiction" count="2"/>
+      <shelf name="2019-to-read" count="2"/>
+      <shelf name="to-read-2019" count="2"/>
+      <shelf name="1" count="2"/>
+      <shelf name="middle-grade-tbr" count="2"/>
+      <shelf name="ya-books" count="2"/>
+      <shelf name="really-want-to-read" count="2"/>
+      <shelf name="retelling" count="2"/>
+      <shelf name="lgbtq" count="2"/>
+      <shelf name="arthurian" count="2"/>
+      <shelf name="seya-2019" count="2"/>
+      <shelf name="books" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1137469</id>
+<user_position>2</user_position>
+<series>
+<id>200729</id>
+<title>
+<![CDATA[
+    The School for Good and Evil: The Camelot Years
+]]>
+</title>
+<description>
+<![CDATA[
+    The second trilogy of The School for Good and Evil series.
+    <blockquote>SGE was always meant to be divided into trilogies like Star Wars — “The School Years,” “The Camelot Years,” and then possibly a third trilogy set in the future.</blockquote>
+    Source:
+    https://schoolforgoodandevil.com/somans-blog-book-4-madness-movie-news-dallas-fun-more/
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1128756</id>
+<user_position>5</user_position>
+<series>
+<id>100839</id>
+<title>
+<![CDATA[
+    The School for Good and Evil
+]]>
+</title>
+<description>
+<![CDATA[
+    <blockquote><i>"Book 3 was the end of the trilogy. This is the fourth book that takes us on a new journey, new direction, and new arc."</i>
+    -<a href="https://www.goodreads.com/questions/819500">source</a></blockquote>
+    
+    
+    
+    In other languages:
+    - Škola dobra a zla <i>(Czech)</i>
+    - L'Accademia del Bene e del Male <i>(Italian)</i>
+    - La escuela del bien y del mal <i>(Spanish)</i>
+    - A Escola do Bem e do Mal <i>(Portuguese)</i>
+    - Akademia Dobra i Zła <i>(Polish)</i>
+    - Jók és rosszak iskolája <i>(Hungarian)</i>
+    - Škola dobra a zla <i>(Slovak)</i>
+    - Школа Добра и Зла <i>(Russian)</i>
+    - L'Ecole du Bien et du Mal <i>(French)</i>
+    - Gėrio ir Blogio mokykla <i>(Lithuanian)</i>
+    - Училището за Добро и Зло <i>(Bulgarian)</i>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>40601061</id>
+<title><![CDATA[The School for Good and Evil (B&N Exclusive Edition) (The School for Good and Evil Series #1)]]></title>
+<title_without_series><![CDATA[The School for Good and Evil (B&N Exclusive Edition)]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40601061-the-school-for-good-and-evil-b-n-exclusive-edition]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63056358</id>
+</work>
+<isbn>0062871765</isbn>
+<isbn13>9780062871763</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18143767</id>
+<name><![CDATA[Iacopo Bruno (Illustrator) Soman Chainani]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/18143767.Iacopo_Bruno_Illustrator_Soman_Chainani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44150974</id>
+<title><![CDATA[Legacy (Keeper of the Lost Cities #8)]]></title>
+<title_without_series>Legacy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44150974-legacy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557767041l/44150974._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557767041l/44150974._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62455294</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44014779</id>
+<title><![CDATA[A Tale of Magic... (A Tale of Magic, #1)]]></title>
+<title_without_series>A Tale of Magic...</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44014779-a-tale-of-magic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562465409l/44014779._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562465409l/44014779._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68433657</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36209110</id>
+<title><![CDATA[The Last Secret (Scarlet and Ivy, #6)]]></title>
+<title_without_series>The Last Secret</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36209110-the-last-secret]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563100968l/36209110._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563100968l/36209110._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57841269</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12229070</id>
+<name>Sophie Cleverly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12229070.Sophie_Cleverly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32762937</id>
+<title><![CDATA[Flashback (Keeper of the Lost Cities, #7)]]></title>
+<title_without_series>Flashback</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32762937-flashback]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520545883l/32762937._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520545883l/32762937._SX98_.jpg]]></image_url>
+<num_pages>848</num_pages>
+<work>
+<id>53353040</id>
+</work>
+<isbn>1481497456</isbn>
+<isbn13>9781481497459</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36323794</id>
+<title><![CDATA[Aru Shah and the Song of Death (Pandava Quartet, #2)]]></title>
+<title_without_series><![CDATA[Aru Shah and the Song of Death]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36323794-aru-shah-and-the-song-of-death]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536069777l/36323794._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536069777l/36323794._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>57999539</id>
+</work>
+<isbn></isbn>
+<isbn13>9781368045858</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>13695109</id>
+<name>Roshani Chokshi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13695109.Roshani_Chokshi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28006109</id>
+<title><![CDATA[The Tyrant's Tomb (The Trials of Apollo, #4)]]></title>
+<title_without_series>The Tyrant&apos;s Tomb</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28006109-the-tyrant-s-tomb]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552008792l/28006109._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552008792l/28006109._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>48012699</id>
+</work>
+<isbn>1368001440</isbn>
+<isbn13>9781368001441</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27272698</id>
+<title><![CDATA[Lodestar (Keeper of the Lost Cities, #5)]]></title>
+<title_without_series>Lodestar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27272698-lodestar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456938808l/27272698._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456938808l/27272698._SX98_.jpg]]></image_url>
+<num_pages>688</num_pages>
+<work>
+<id>47326233</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13260670</id>
+<title><![CDATA[Exile (Keeper of the Lost Cities, #2)]]></title>
+<title_without_series>Exile</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13260670-exile]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365178949l/13260670._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365178949l/13260670._SX98_.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>18462176</id>
+</work>
+<isbn>1442445963</isbn>
+<isbn13>9781442445987</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22733616</id>
+<title><![CDATA[Neverseen (Keeper of the Lost Cities, #4)]]></title>
+<title_without_series>Neverseen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22733616-neverseen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422383369l/22733616._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422383369l/22733616._SX98_.jpg]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>42270645</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32762917</id>
+<title><![CDATA[Nightfall (Keeper of the Lost Cities #6)]]></title>
+<title_without_series>Nightfall</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32762917-nightfall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488996054l/32762917._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488996054l/32762917._SX98_.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>53353021</id>
+</work>
+<isbn>1481497421</isbn>
+<isbn13>9781481497428</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12842828</id>
+<title><![CDATA[Keeper of the Lost Cities (Keeper of the Lost Cities, #1)]]></title>
+<title_without_series>Keeper of the Lost Cities</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12842828-keeper-of-the-lost-cities]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326469854l/12842828._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326469854l/12842828._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>17993650</id>
+</work>
+<isbn>1442445939</isbn>
+<isbn13>9781442445932</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13260668</id>
+<title><![CDATA[Everblaze (Keeper of the Lost Cities #3)]]></title>
+<title_without_series>Everblaze</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13260668-everblaze]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397660776l/13260668._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397660776l/13260668._SX98_.jpg]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>18462174</id>
+</work>
+<isbn>1442445998</isbn>
+<isbn13>9781442445994</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40409725</id>
+<title><![CDATA[Wished (Fairy Tale Reform School #5)]]></title>
+<title_without_series>Wished</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40409725-wished]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532700650l/40409725._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532700650l/40409725._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>62732999</id>
+</work>
+<isbn>1492651672</isbn>
+<isbn13>9781492651673</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>114528</id>
+<name>Jen Calonita</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114528.Jen_Calonita]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42190572</id>
+<title>Guts</title>
+<title_without_series>Guts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42190572-guts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538782879l/42190572._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538782879l/42190572._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>65791922</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>21618</id>
+<name>Raina Telgemeier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21618.Raina_Telgemeier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25394458</id>
+<title><![CDATA[The Whispers in the Walls (Scarlet and Ivy, #2)]]></title>
+<title_without_series>The Whispers in the Walls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25394458-the-whispers-in-the-walls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429876783l/25394458._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429876783l/25394458._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>45146082</id>
+</work>
+<isbn>0007589204</isbn>
+<isbn13>9780007589203</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>12229070</id>
+<name>Sophie Cleverly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12229070.Sophie_Cleverly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23611997</id>
+<title><![CDATA[An Author's Odyssey (The Land of Stories, #5)]]></title>
+<title_without_series>An Author&apos;s Odyssey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23611997-an-author-s-odyssey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459805785l/23611997._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459805785l/23611997._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>43215991</id>
+</work>
+<isbn>0316317780</isbn>
+<isbn13>9780316317788</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43352256</id>
+<title><![CDATA[Outlaws (Royal Academy Rebels, #2)]]></title>
+<title_without_series>Outlaws</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43352256-outlaws]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562580305l/43352256._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562580305l/43352256._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>67322534</id>
+</work>
+<isbn>1492651311</isbn>
+<isbn13>9781492651314</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2449</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>114528</id>
+<name>Jen Calonita</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114528.Jen_Calonita]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

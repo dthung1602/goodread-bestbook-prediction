@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20578940</id>
+  <title><![CDATA[The Iron Trial (Magisterium, #1)]]></title>
+  <isbn><![CDATA[0545522250]]></isbn>
+  <isbn13><![CDATA[9780545522250]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526511151l/20578940._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526511151l/20578940._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Scholastic Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[All his life, Call has been warned by his father to stay away from magic. To succeed at the Iron Trial and be admitted into the vaunted Magisterium school would bring bad things. But he fails at failing. Only hard work, loyal friends, danger, and a puppy await.]]></description>
+  <work>
+  <id type="integer">19205879</id>
+  <books_count type="integer">88</books_count>
+  <best_book_id type="integer">20578940</best_book_id>
+  <reviews_count type="integer">148188</reviews_count>
+  <ratings_sum type="integer">222208</ratings_sum>
+  <ratings_count type="integer">56259</ratings_count>
+  <text_reviews_count type="integer">6520</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:19740|4:20408|3:11475|2:2815|1:1821|total:56259</rating_dist>
+  <desc_user_id type="integer">4863716</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.qOj7EiueSrUVX_AePHEHCQ</work_uri>
+</work>
+  <average_rating>3.95</average_rating>
+  <num_pages><![CDATA[295]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[45369]]></ratings_count>
+  <text_reviews_count><![CDATA[4679]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20578940-the-iron-trial]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20578940-the-iron-trial]]></link>
+  <authors>
+<author>
+<id>25422</id>
+<name>Holly Black</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1261867163p5/25422.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1261867163p2/25422.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25422.Holly_Black]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>1034777</ratings_count>
+<text_reviews_count>109702</text_reviews_count>
+</author>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1270502031p5/150038.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1270502031p2/150038.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>6284604</ratings_count>
+<text_reviews_count>351824</text_reviews_count>
+</author>
+<author>
+<id>1972004</id>
+<name>Scott Fischer</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1972004.Scott_Fischer]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>5439</ratings_count>
+<text_reviews_count>702</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20578940-the-iron-trial">The Iron Trial Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545522250&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20578940-the-iron-trial?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="78839"/>
+      <shelf name="fantasy" count="2547"/>
+      <shelf name="currently-reading" count="1962"/>
+      <shelf name="middle-grade" count="758"/>
+      <shelf name="young-adult" count="593"/>
+      <shelf name="favorites" count="578"/>
+      <shelf name="books-i-own" count="542"/>
+      <shelf name="magic" count="459"/>
+      <shelf name="owned" count="365"/>
+      <shelf name="series" count="327"/>
+      <shelf name="ya" count="321"/>
+      <shelf name="fiction" count="187"/>
+      <shelf name="cassandra-clare" count="171"/>
+      <shelf name="owned-books" count="162"/>
+      <shelf name="adventure" count="157"/>
+      <shelf name="childrens" count="154"/>
+      <shelf name="to-buy" count="135"/>
+      <shelf name="audiobook" count="120"/>
+      <shelf name="urban-fantasy" count="120"/>
+      <shelf name="read-in-2015" count="112"/>
+      <shelf name="read-in-2014" count="112"/>
+      <shelf name="library" count="112"/>
+      <shelf name="audiobooks" count="103"/>
+      <shelf name="paranormal" count="100"/>
+      <shelf name="magisterium" count="96"/>
+      <shelf name="children" count="90"/>
+      <shelf name="tbr" count="90"/>
+      <shelf name="dnf" count="84"/>
+      <shelf name="ya-fantasy" count="83"/>
+      <shelf name="maybe" count="79"/>
+      <shelf name="read-2015" count="77"/>
+      <shelf name="wish-list" count="77"/>
+      <shelf name="favourites" count="75"/>
+      <shelf name="children-s" count="73"/>
+      <shelf name="ebook" count="71"/>
+      <shelf name="my-books" count="70"/>
+      <shelf name="kindle" count="67"/>
+      <shelf name="2014-releases" count="66"/>
+      <shelf name="audio" count="62"/>
+      <shelf name="kids" count="62"/>
+      <shelf name="read-in-2016" count="58"/>
+      <shelf name="supernatural" count="57"/>
+      <shelf name="middle-school" count="53"/>
+      <shelf name="arc" count="53"/>
+      <shelf name="sub" count="51"/>
+      <shelf name="friendship" count="50"/>
+      <shelf name="i-own" count="49"/>
+      <shelf name="4-stars" count="49"/>
+      <shelf name="juvenile" count="49"/>
+      <shelf name="default" count="47"/>
+      <shelf name="did-not-finish" count="46"/>
+      <shelf name="my-library" count="46"/>
+      <shelf name="read-in-2018" count="45"/>
+      <shelf name="ebooks" count="45"/>
+      <shelf name="holly-black" count="44"/>
+      <shelf name="reviewed" count="44"/>
+      <shelf name="on-my-shelf" count="44"/>
+      <shelf name="read-in-2017" count="43"/>
+      <shelf name="books" count="41"/>
+      <shelf name="mystery" count="40"/>
+      <shelf name="teen" count="40"/>
+      <shelf name="owned-tbr" count="39"/>
+      <shelf name="2014-reads" count="38"/>
+      <shelf name="2015-reads" count="37"/>
+      <shelf name="my-bookshelf" count="37"/>
+      <shelf name="2014-release" count="37"/>
+      <shelf name="read-2014" count="36"/>
+      <shelf name="3-stars" count="35"/>
+      <shelf name="e-book" count="35"/>
+      <shelf name="netgalley" count="35"/>
+      <shelf name="boarding-school" count="35"/>
+      <shelf name="middlegrade" count="35"/>
+      <shelf name="first-in-series" count="35"/>
+      <shelf name="read-2018" count="34"/>
+      <shelf name="middle-grades" count="34"/>
+      <shelf name="5-stars" count="33"/>
+      <shelf name="want-to-buy" count="33"/>
+      <shelf name="bookshelf" count="32"/>
+      <shelf name="fantasia" count="32"/>
+      <shelf name="fantasy-sci-fi" count="31"/>
+      <shelf name="juvenile-fiction" count="31"/>
+      <shelf name="children-s-books" count="31"/>
+      <shelf name="read-2016" count="30"/>
+      <shelf name="audio-book" count="30"/>
+      <shelf name="action" count="30"/>
+      <shelf name="signed" count="30"/>
+      <shelf name="own-it" count="29"/>
+      <shelf name="school" count="29"/>
+      <shelf name="sci-fi-fantasy" count="29"/>
+      <shelf name="mg" count="29"/>
+      <shelf name="have" count="28"/>
+      <shelf name="library-books" count="28"/>
+      <shelf name="lost-interest" count="27"/>
+      <shelf name="ya-fiction" count="27"/>
+      <shelf name="read-2017" count="26"/>
+      <shelf name="childrens-books" count="26"/>
+      <shelf name="read-in-english" count="26"/>
+      <shelf name="want-to-read" count="26"/>
+      <shelf name="tenho" count="25"/>
+      <shelf name="audio-books" count="25"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>503829</id>
+<user_position>1</user_position>
+<series>
+<id>104048</id>
+<title>
+<![CDATA[
+    Magisterium
+]]>
+</title>
+<description>
+<![CDATA[
+    The Magisterium series is a <b>five-book series </b>of fantasy novels, one book for each year of Call’s life between twelve and seventeen. The series is cowritten by Holly Black and Cassandra Clare.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>6</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>34725524</id>
+<title><![CDATA[El guante de cobre. Magisterium 2]]></title>
+<title_without_series><![CDATA[El guante de cobre. Magisterium 2]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34725524-el-guante-de-cobre-magisterium-2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55906335</id>
+</work>
+<isbn>6070732510</isbn>
+<isbn13>9786070732515</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16640264</id>
+<name>BLACK - CLARE</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16640264.BLACK_CLARE]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30295312</id>
+<title><![CDATA[The Red Scrolls of Magic (The Eldest Curses #1)]]></title>
+<title_without_series>The Red Scrolls of Magic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30295312-the-red-scrolls-of-magic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528915777l/30295312._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528915777l/30295312._SX98_.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>50775355</id>
+</work>
+<isbn>1471162141</isbn>
+<isbn13>9781471162145</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23270216</id>
+<title><![CDATA[The Blackthorn Key (The Blackthorn Key, #1)]]></title>
+<title_without_series>The Blackthorn Key</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23270216-the-blackthorn-key]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433428562l/23270216._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433428562l/23270216._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>42810383</id>
+</work>
+<isbn>1481446517</isbn>
+<isbn13>9781481446518</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8599864</id>
+<name>Kevin Sands</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8599864.Kevin_Sands]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13541056</id>
+<title><![CDATA[Queen of Air and Darkness (The Dark Artifices, #3)]]></title>
+<title_without_series>Queen of Air and Darkness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13541056-queen-of-air-and-darkness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510447136l/13541056._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510447136l/13541056._SX98_.jpg]]></image_url>
+<num_pages>912</num_pages>
+<work>
+<id>19104298</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16303287</id>
+<title>The Bane Chronicles</title>
+<title_without_series>The Bane Chronicles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16303287-the-bane-chronicles]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395159015l/16303287._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395159015l/16303287._SX98_.jpg]]></image_url>
+<num_pages>507</num_pages>
+<work>
+<id>22436394</id>
+</work>
+<isbn>1442495995</isbn>
+<isbn13>9781442495999</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15724396</id>
+<title><![CDATA[The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)]]></title>
+<title_without_series>The Sword of Summer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15724396-the-sword-of-summer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434701340l/15724396._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434701340l/15724396._SX98_.jpg]]></image_url>
+<num_pages>499</num_pages>
+<work>
+<id>21400019</id>
+</work>
+<isbn>1423160916</isbn>
+<isbn13>9781423160915</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25494343</id>
+<title><![CDATA[Lady Midnight (The Dark Artifices, #1)]]></title>
+<title_without_series>Lady Midnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25494343-lady-midnight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477682l/25494343._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477682l/25494343._SX98_.jpg]]></image_url>
+<num_pages>698</num_pages>
+<work>
+<id>19104294</id>
+</work>
+<isbn>1442468351</isbn>
+<isbn13>9781442468351</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28954137</id>
+<title><![CDATA[Tales from the Shadowhunter Academy]]></title>
+<title_without_series><![CDATA[Tales from the Shadowhunter Academy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28954137-tales-from-the-shadowhunter-academy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454864103l/28954137._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454864103l/28954137._SX98_.jpg]]></image_url>
+<num_pages>655</num_pages>
+<work>
+<id>46924845</id>
+</work>
+<isbn>1481443259</isbn>
+<isbn13>9781481443258</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36314220</id>
+<title>Ghosts of the Shadow Market</title>
+<title_without_series>Ghosts of the Shadow Market</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36314220-ghosts-of-the-shadow-market]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541104574l/36314220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541104574l/36314220._SX98_.jpg]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>57986998</id>
+</work>
+<isbn>1406385379</isbn>
+<isbn13>9781406385373</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30312891</id>
+<title><![CDATA[Lord of Shadows (The Dark Artifices, #2)]]></title>
+<title_without_series>Lord of Shadows</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30312891-lord-of-shadows]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479513427l/30312891._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479513427l/30312891._SX98_.jpg]]></image_url>
+<num_pages>701</num_pages>
+<work>
+<id>19104295</id>
+</work>
+<isbn>1442468408</isbn>
+<isbn13>9781442468405</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16061340</id>
+<title><![CDATA[The Colossus Rises (Seven Wonders, #1)]]></title>
+<title_without_series>The Colossus Rises</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16061340-the-colossus-rises]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349467850l/16061340._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349467850l/16061340._SX98_.jpg]]></image_url>
+<num_pages>348</num_pages>
+<work>
+<id>21803378</id>
+</work>
+<isbn>0062070401</isbn>
+<isbn13>9780062070401</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17216</id>
+<name>Peter Lerangis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17216.Peter_Lerangis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18335634</id>
+<title><![CDATA[Clockwork Princess (The Infernal Devices, #3)]]></title>
+<title_without_series>Clockwork Princess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18335634-clockwork-princess]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436788488l/18335634._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436788488l/18335634._SX98_.jpg]]></image_url>
+<num_pages>567</num_pages>
+<work>
+<id>6309710</id>
+</work>
+<isbn>1406321346</isbn>
+<isbn13>9781406321340</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8755785</id>
+<title><![CDATA[City of Heavenly Fire (The Mortal Instruments, #6)]]></title>
+<title_without_series>City of Heavenly Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477794l/8755785._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477794l/8755785._SX98_.jpg]]></image_url>
+<num_pages>725</num_pages>
+<work>
+<id>13629068</id>
+</work>
+<isbn>1481426303</isbn>
+<isbn13>9781481426305</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27904311</id>
+<title><![CDATA[The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)]]></title>
+<title_without_series>The Hammer of Thor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27904311-the-hammer-of-thor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567236708l/27904311._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567236708l/27904311._SX98_.jpg]]></image_url>
+<num_pages>459</num_pages>
+<work>
+<id>46919813</id>
+</work>
+<isbn>1423160924</isbn>
+<isbn13>9781423160922</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1582996</id>
+<title><![CDATA[City of Ashes (The Mortal Instruments, #2)]]></title>
+<title_without_series>City of Ashes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1582996.City_of_Ashes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730356l/1582996._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730356l/1582996._SX98_.jpg]]></image_url>
+<num_pages>453</num_pages>
+<work>
+<id>1575860</id>
+</work>
+<isbn>1416914293</isbn>
+<isbn13>9781416914297</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6752378</id>
+<title><![CDATA[City of Fallen Angels (The Mortal Instruments, #4)]]></title>
+<title_without_series>City of Fallen Angels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6752378-city-of-fallen-angels]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369452302l/6752378._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369452302l/6752378._SX98_.jpg]]></image_url>
+<num_pages>425</num_pages>
+<work>
+<id>6948844</id>
+</work>
+<isbn>1442403543</isbn>
+<isbn13>9781442403543</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8755776</id>
+<title><![CDATA[City of Lost Souls (The Mortal Instruments, #5)]]></title>
+<title_without_series>City of Lost Souls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8755776-city-of-lost-souls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477703l/8755776._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477703l/8755776._SX98_.jpg]]></image_url>
+<num_pages>546</num_pages>
+<work>
+<id>13629058</id>
+</work>
+<isbn>1442416866</isbn>
+<isbn13>9781442416864</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42080479</id>
+<title><![CDATA[The School for Good and Evil (The School for Good and Evil, #1)]]></title>
+<title_without_series>The School for Good and Evil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42080479-the-school-for-good-and-evil]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538034910l/42080479._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538034910l/42080479._SX98_.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>21599439</id>
+</work>
+<isbn>006210490X</isbn>
+<isbn13>9780062104908</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>56259</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>780120</id>
+<name>Soman Chainani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/780120.Soman_Chainani]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

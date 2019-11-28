@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23657459</id>
+  <title>Beyond the Kingdoms</title>
+  <isbn><![CDATA[0316406899]]></isbn>
+  <isbn13><![CDATA[9780316406895]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428758972l/23657459._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428758972l/23657459._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Fairy tales are just the beginning.<br /><br />The Masked Man is on the loose in the Land of Stories, and it's up to Alex and Conner Bailey to stop him...except Alex has been thrown off the Fairy Council, and no one will believe they're in danger.<br /><br />With only the help of the ragtag group of Goldilocks, Jack, Red Riding Hood, and Mother Goose and her gander, Lester, the Bailey twins discover the Masked Man's secret scheme: He possesses a powerful magic potion that turns every book it touches into a portal, and he is recruiting an army of literature's greatest villains!<br /><br />So begins a race through the magical Land of Oz, the fantastical world of Neverland, the madness of Wonderland, and beyond. Can Alex and Conner catch up to the Masked Man, or will they be one step behind until it's too late?<br /><br />Fairy tales and classic stories collide in the fourth adventure in the bestselling Land of Stories series as the twins travel beyond the kingdoms!]]></description>
+  <work>
+  <id type="integer">26526615</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">24968392</best_book_id>
+  <reviews_count type="integer">47570</reviews_count>
+  <ratings_sum type="integer">98581</ratings_sum>
+  <ratings_count type="integer">21878</ratings_count>
+  <text_reviews_count type="integer">1520</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">7</original_publication_day>
+  <original_title>Beyond the Kingdoms (The Land of Stories, #4)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:13986|4:5565|3:1870|2:324|1:133|total:21878</rating_dist>
+  <desc_user_id type="integer">6870762</desc_user_id>
+  <default_chaptering_book_id type="integer">23657459</default_chaptering_book_id>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.WLaN_OTdK4hBJ86hkFm6aw</work_uri>
+</work>
+  <average_rating>4.51</average_rating>
+  <num_pages><![CDATA[422]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1077]]></ratings_count>
+  <text_reviews_count><![CDATA[126]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23657459-beyond-the-kingdoms]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23657459-beyond-the-kingdoms]]></link>
+  <authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361053103p5/4919495.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361053103p2/4919495.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>220605</ratings_count>
+<text_reviews_count>18479</text_reviews_count>
+</author>
+<author>
+<id>2086916</id>
+<name>Brandon Dorman</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2086916.Brandon_Dorman]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>181101</ratings_count>
+<text_reviews_count>14862</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23657459-beyond-the-kingdoms">Beyond the Kingdoms Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316406899&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23657459-beyond-the-kingdoms?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="18343"/>
+      <shelf name="currently-reading" count="1535"/>
+      <shelf name="fantasy" count="409"/>
+      <shelf name="favorites" count="264"/>
+      <shelf name="middle-grade" count="134"/>
+      <shelf name="books-i-own" count="118"/>
+      <shelf name="owned" count="91"/>
+      <shelf name="series" count="82"/>
+      <shelf name="land-of-stories" count="76"/>
+      <shelf name="the-land-of-stories" count="71"/>
+      <shelf name="fiction" count="69"/>
+      <shelf name="childrens" count="63"/>
+      <shelf name="adventure" count="58"/>
+      <shelf name="young-adult" count="55"/>
+      <shelf name="fairy-tales" count="54"/>
+      <shelf name="children" count="45"/>
+      <shelf name="audiobook" count="41"/>
+      <shelf name="magic" count="41"/>
+      <shelf name="owned-books" count="39"/>
+      <shelf name="fairy-tale" count="35"/>
+      <shelf name="to-buy" count="33"/>
+      <shelf name="kids" count="32"/>
+      <shelf name="chris-colfer" count="30"/>
+      <shelf name="audiobooks" count="29"/>
+      <shelf name="favourites" count="28"/>
+      <shelf name="children-s" count="25"/>
+      <shelf name="ya" count="24"/>
+      <shelf name="library" count="24"/>
+      <shelf name="retellings" count="24"/>
+      <shelf name="audio" count="23"/>
+      <shelf name="my-books" count="22"/>
+      <shelf name="read-in-2017" count="21"/>
+      <shelf name="read-in-2018" count="19"/>
+      <shelf name="audio-book" count="19"/>
+      <shelf name="read-in-2015" count="19"/>
+      <shelf name="kids-books" count="19"/>
+      <shelf name="children-s-books" count="17"/>
+      <shelf name="fairytales" count="17"/>
+      <shelf name="i-own" count="16"/>
+      <shelf name="need-to-buy" count="16"/>
+      <shelf name="default" count="15"/>
+      <shelf name="fairytale" count="15"/>
+      <shelf name="juvenile" count="15"/>
+      <shelf name="romance" count="14"/>
+      <shelf name="wish-list" count="14"/>
+      <shelf name="own-it" count="13"/>
+      <shelf name="my-library" count="12"/>
+      <shelf name="audio-books" count="12"/>
+      <shelf name="books-i-have" count="11"/>
+      <shelf name="tbr" count="11"/>
+      <shelf name="2015-books" count="11"/>
+      <shelf name="read-2015" count="11"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="read-2017" count="10"/>
+      <shelf name="read-in-2016" count="10"/>
+      <shelf name="my-favorites" count="10"/>
+      <shelf name="want-to-buy" count="10"/>
+      <shelf name="favorite" count="10"/>
+      <shelf name="retelling" count="9"/>
+      <shelf name="favorite-books" count="9"/>
+      <shelf name="5-stars" count="9"/>
+      <shelf name="fairy-tale-retellings" count="9"/>
+      <shelf name="bookshelf" count="8"/>
+      <shelf name="grade-7" count="8"/>
+      <shelf name="action" count="8"/>
+      <shelf name="have" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="read-with-kids" count="7"/>
+      <shelf name="on-my-shelf" count="7"/>
+      <shelf name="favorite-series" count="7"/>
+      <shelf name="read-2016" count="7"/>
+      <shelf name="want-to-read" count="7"/>
+      <shelf name="urban-fantasy" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="sci-fi-fantasy" count="7"/>
+      <shelf name="all-time-favorites" count="7"/>
+      <shelf name="youth" count="7"/>
+      <shelf name="mystery" count="7"/>
+      <shelf name="english" count="7"/>
+      <shelf name="4-stars" count="7"/>
+      <shelf name="owned-tbr" count="7"/>
+      <shelf name="read-in-2019" count="6"/>
+      <shelf name="read-2018" count="6"/>
+      <shelf name="classroom-library" count="6"/>
+      <shelf name="2017-reads" count="6"/>
+      <shelf name="children-s-lit" count="6"/>
+      <shelf name="ya-fantasy" count="6"/>
+      <shelf name="witches" count="6"/>
+      <shelf name="fun" count="6"/>
+      <shelf name="fairy-tale-retelling" count="6"/>
+      <shelf name="fairies" count="6"/>
+      <shelf name="buy" count="6"/>
+      <shelf name="read-aloud" count="6"/>
+      <shelf name="books-read-in-2015" count="6"/>
+      <shelf name="great-books" count="6"/>
+      <shelf name="pirates" count="6"/>
+      <shelf name="juvenile-fiction" count="6"/>
+      <shelf name="middle-school" count="6"/>
+      <shelf name="land-of-stories-4" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>554848</id>
+<user_position>4</user_position>
+<series>
+<id>81462</id>
+<title>
+<![CDATA[
+    The Land of Stories
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>17</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>18004320</id>
+<title><![CDATA[The Last Ever After (The School for Good and Evil, #3)]]></title>
+<title_without_series>The Last Ever After</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18004320-the-last-ever-after]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421947451l/18004320._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421947451l/18004320._SX98_.jpg]]></image_url>
+<num_pages>655</num_pages>
+<work>
+<id>25268052</id>
+</work>
+<isbn>0062104950</isbn>
+<isbn13>9780062104953</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>780120</id>
+<name>Soman Chainani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/780120.Soman_Chainani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13260668</id>
+<title><![CDATA[Everblaze (Keeper of the Lost Cities #3)]]></title>
+<title_without_series>Everblaze</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13260668-everblaze]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397660776l/13260668._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397660776l/13260668._SX98_.jpg]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>18462174</id>
+</work>
+<isbn>1442445998</isbn>
+<isbn13>9781442445994</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13260670</id>
+<title><![CDATA[Exile (Keeper of the Lost Cities, #2)]]></title>
+<title_without_series>Exile</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13260670-exile]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365178949l/13260670._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365178949l/13260670._SX98_.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>18462176</id>
+</work>
+<isbn>1442445963</isbn>
+<isbn13>9781442445987</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22733616</id>
+<title><![CDATA[Neverseen (Keeper of the Lost Cities, #4)]]></title>
+<title_without_series>Neverseen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22733616-neverseen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422383369l/22733616._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422383369l/22733616._SX98_.jpg]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>42270645</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18172465</id>
+<title><![CDATA[A World Without Princes (The School for Good and Evil, #2)]]></title>
+<title_without_series>A World Without Princes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18172465-a-world-without-princes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379015944l/18172465._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379015944l/18172465._SX98_.jpg]]></image_url>
+<num_pages>433</num_pages>
+<work>
+<id>25268036</id>
+</work>
+<isbn>0062104926</isbn>
+<isbn13>9780062104922</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>780120</id>
+<name>Soman Chainani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/780120.Soman_Chainani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42080479</id>
+<title><![CDATA[The School for Good and Evil (The School for Good and Evil, #1)]]></title>
+<title_without_series>The School for Good and Evil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42080479-the-school-for-good-and-evil]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538034910l/42080479._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538034910l/42080479._SX98_.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>21599439</id>
+</work>
+<isbn>006210490X</isbn>
+<isbn13>9780062104908</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>780120</id>
+<name>Soman Chainani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/780120.Soman_Chainani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12842828</id>
+<title><![CDATA[Keeper of the Lost Cities (Keeper of the Lost Cities, #1)]]></title>
+<title_without_series>Keeper of the Lost Cities</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12842828-keeper-of-the-lost-cities]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326469854l/12842828._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326469854l/12842828._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>17993650</id>
+</work>
+<isbn>1442445939</isbn>
+<isbn13>9781442445932</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7327326</id>
+<title><![CDATA[Half Upon a Time (Half Upon a Time, #1)]]></title>
+<title_without_series>Half Upon a Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7327326-half-upon-a-time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>8944721</id>
+</work>
+<isbn>1416995935</isbn>
+<isbn13>9781416995937</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4337106</id>
+<name>James  Riley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4337106.James_Riley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23399287</id>
+<title><![CDATA[Grounded: The Adventures of Rapunzel (Tyme #1)]]></title>
+<title_without_series><![CDATA[Grounded: The Adventures of Rapunzel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23399287-grounded]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419320920l/23399287._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419320920l/23399287._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>42955734</id>
+</work>
+<isbn>0545638267</isbn>
+<isbn13>9780545638265</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>9879340</id>
+<name>Megan   Morrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9879340.Megan_Morrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27272698</id>
+<title><![CDATA[Lodestar (Keeper of the Lost Cities, #5)]]></title>
+<title_without_series>Lodestar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27272698-lodestar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456938808l/27272698._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456938808l/27272698._SX98_.jpg]]></image_url>
+<num_pages>688</num_pages>
+<work>
+<id>47326233</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15766776</id>
+<title><![CDATA[Rump: The True Story of Rumpelstiltskin]]></title>
+<title_without_series><![CDATA[Rump: The True Story of Rumpelstiltskin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15766776-rump]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343071412l/15766776._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343071412l/15766776._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>21471584</id>
+</work>
+<isbn>0307977935</isbn>
+<isbn13>9780307977939</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6448210</id>
+<name>Liesl Shurtliff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6448210.Liesl_Shurtliff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13263764</id>
+<title>Story&apos;s End (Storybound, #2)</title>
+<title_without_series>Story&apos;s End</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13263764-story-s-end]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340557013l/13263764._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340557013l/13263764._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>18465455</id>
+</work>
+<isbn>0062020544</isbn>
+<isbn13>9780062020543</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4575301</id>
+<name>Marissa Burt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4575301.Marissa_Burt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15802794</id>
+<title><![CDATA[Once Upon the End (Half Upon a Time, #3)]]></title>
+<title_without_series>Once Upon the End</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15802794-once-upon-the-end]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413166779l/15802794._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413166779l/15802794._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>21526203</id>
+</work>
+<isbn>1442474238</isbn>
+<isbn13>9781442474239</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4337106</id>
+<name>James  Riley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4337106.James_Riley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31212082</id>
+<title><![CDATA[Quests for Glory (The School for Good and Evil: The Camelot Years, #1)]]></title>
+<title_without_series>Quests for Glory</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31212082-quests-for-glory]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488534185l/31212082._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488534185l/31212082._SX98_.jpg]]></image_url>
+<num_pages>18</num_pages>
+<work>
+<id>51866008</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>780120</id>
+<name>Soman Chainani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/780120.Soman_Chainani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25387393</id>
+<title><![CDATA[Mr. Lemoncello's Library Olympics (Mr. Lemoncello's Library, #2)]]></title>
+<title_without_series><![CDATA[Mr. Lemoncello's Library Olympics]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25387393-mr-lemoncello-s-library-olympics]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436876016l/25387393._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436876016l/25387393._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>43699428</id>
+</work>
+<isbn>0553510401</isbn>
+<isbn13>9780553510409</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>95190</id>
+<name>Chris Grabenstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95190.Chris_Grabenstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32762917</id>
+<title><![CDATA[Nightfall (Keeper of the Lost Cities #6)]]></title>
+<title_without_series>Nightfall</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32762917-nightfall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488996054l/32762917._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488996054l/32762917._SX98_.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>53353021</id>
+</work>
+<isbn>1481497421</isbn>
+<isbn13>9781481497428</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32762937</id>
+<title><![CDATA[Flashback (Keeper of the Lost Cities, #7)]]></title>
+<title_without_series>Flashback</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32762937-flashback]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520545883l/32762937._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520545883l/32762937._SX98_.jpg]]></image_url>
+<num_pages>848</num_pages>
+<work>
+<id>53353040</id>
+</work>
+<isbn>1481497456</isbn>
+<isbn13>9781481497459</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10194224</id>
+<title>Storybound (Storybound #1)</title>
+<title_without_series>Storybound</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10194224-storybound]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332191667l/10194224._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332191667l/10194224._SX98_.jpg]]></image_url>
+<num_pages>403</num_pages>
+<work>
+<id>15093395</id>
+</work>
+<isbn>0062020528</isbn>
+<isbn13>9780062020529</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>21878</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4575301</id>
+<name>Marissa Burt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4575301.Marissa_Burt]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

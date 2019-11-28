@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>37822649</id>
+  <title>Hey, Kiddo</title>
+  <isbn><![CDATA[0545902479]]></isbn>
+  <isbn13><![CDATA[9780545902472]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529196460l/37822649._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529196460l/37822649._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Graphix</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A National Book Award Finalist!</b><br />  In kindergarten, Jarrett Krosoczka's teacher asks him to draw his family, with a mommy and a daddy. But Jarrett's family is much more complicated than that. His mom is an addict, in and out of rehab, and in and out of Jarrett's life. His father is a mystery -- Jarrett doesn't know where to find him, or even what his name is. Jarrett lives with his grandparents -- two very loud, very loving, very opinionated people who had thought they were through with raising children until Jarrett came along.<br /><br /> Jarrett goes through his childhood trying to make his non-normal life as normal as possible, finding a way to express himself through drawing even as so little is being said to him about what's going on. Only as a teenager can Jarrett begin to piece together the truth of his family, reckoning with his mother and tracking down his father.<br /><br /><i>Hey, Kiddo</i> is a profoundly important memoir about growing up in a family grappling with addiction, and finding the art that helps you survive.]]></description>
+  <work>
+  <id type="integer">57294506</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">37822650</best_book_id>
+  <reviews_count type="integer">39389</reviews_count>
+  <ratings_sum type="integer">75190</ratings_sum>
+  <ratings_count type="integer">18340</ratings_count>
+  <text_reviews_count type="integer">2158</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>Hey, Kiddo</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8529|4:5727|3:2372|2:809|1:903|total:18340</rating_dist>
+  <desc_user_id type="integer">12785148</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.7LcM5tKudwjd-32e6O5hTQ</work_uri>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[314]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[780]]></ratings_count>
+  <text_reviews_count><![CDATA[158]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/37822649-hey-kiddo]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/37822649-hey-kiddo]]></link>
+  <authors>
+<author>
+<id>85232</id>
+<name>Jarrett J. Krosoczka</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194900509p5/85232.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194900509p2/85232.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/85232.Jarrett_J_Krosoczka]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>67363</ratings_count>
+<text_reviews_count>5905</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/37822649-hey-kiddo">Hey, Kiddo Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545902479&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/37822649-hey-kiddo?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="19633"/>
+      <shelf name="graphic-novels" count="835"/>
+      <shelf name="graphic-novel" count="755"/>
+      <shelf name="young-adult" count="478"/>
+      <shelf name="currently-reading" count="451"/>
+      <shelf name="memoir" count="414"/>
+      <shelf name="ya" count="336"/>
+      <shelf name="non-fiction" count="246"/>
+      <shelf name="nonfiction" count="222"/>
+      <shelf name="biography" count="140"/>
+      <shelf name="family" count="113"/>
+      <shelf name="comics" count="111"/>
+      <shelf name="graphic" count="83"/>
+      <shelf name="teen" count="82"/>
+      <shelf name="addiction" count="79"/>
+      <shelf name="biography-memoir" count="70"/>
+      <shelf name="favorites" count="65"/>
+      <shelf name="memoirs" count="62"/>
+      <shelf name="art" count="61"/>
+      <shelf name="read-in-2019" count="51"/>
+      <shelf name="read-in-2018" count="51"/>
+      <shelf name="middle-grade" count="49"/>
+      <shelf name="coming-of-age" count="46"/>
+      <shelf name="library" count="39"/>
+      <shelf name="graphic-novels-comics" count="38"/>
+      <shelf name="comics-graphic-novels" count="36"/>
+      <shelf name="autobiography" count="35"/>
+      <shelf name="realistic-fiction" count="33"/>
+      <shelf name="mental-health" count="31"/>
+      <shelf name="high-school" count="31"/>
+      <shelf name="memoir-biography" count="30"/>
+      <shelf name="ya-books" count="27"/>
+      <shelf name="ya-lit" count="26"/>
+      <shelf name="grandparents" count="26"/>
+      <shelf name="comics-and-graphic-novels" count="25"/>
+      <shelf name="adult" count="25"/>
+      <shelf name="read-2019" count="24"/>
+      <shelf name="middle-school" count="24"/>
+      <shelf name="2019-books" count="23"/>
+      <shelf name="2019-reads" count="23"/>
+      <shelf name="graphic-memoir" count="23"/>
+      <shelf name="fiction" count="23"/>
+      <shelf name="realistic" count="20"/>
+      <shelf name="ya-nonfiction" count="19"/>
+      <shelf name="2018-reads" count="19"/>
+      <shelf name="read-2018" count="18"/>
+      <shelf name="ya-graphic-novels" count="18"/>
+      <shelf name="ya-fiction" count="17"/>
+      <shelf name="graphic-novels-and-comics" count="17"/>
+      <shelf name="families" count="17"/>
+      <shelf name="biographies" count="17"/>
+      <shelf name="arc" count="17"/>
+      <shelf name="graphicnovels" count="15"/>
+      <shelf name="drugs" count="15"/>
+      <shelf name="friendship" count="14"/>
+      <shelf name="contemporary" count="14"/>
+      <shelf name="biography-and-memoir" count="14"/>
+      <shelf name="adoption" count="14"/>
+      <shelf name="graphic-novel-comic" count="13"/>
+      <shelf name="2018-releases" count="13"/>
+      <shelf name="book-club" count="13"/>
+      <shelf name="library-books" count="12"/>
+      <shelf name="project-lit" count="12"/>
+      <shelf name="autobiography-memoir" count="12"/>
+      <shelf name="graphics" count="12"/>
+      <shelf name="gn" count="12"/>
+      <shelf name="ya-graphic-novel" count="12"/>
+      <shelf name="library-book" count="11"/>
+      <shelf name="youngadult" count="11"/>
+      <shelf name="classroom-library" count="11"/>
+      <shelf name="childrens" count="11"/>
+      <shelf name="biography-autobiography-memoir" count="11"/>
+      <shelf name="kids" count="10"/>
+      <shelf name="substance-abuse" count="10"/>
+      <shelf name="relationships" count="10"/>
+      <shelf name="graphic-novels-manga" count="10"/>
+      <shelf name="bio-memoir" count="10"/>
+      <shelf name="2018-books" count="10"/>
+      <shelf name="grief" count="10"/>
+      <shelf name="graphic-format" count="10"/>
+      <shelf name="social-issues" count="10"/>
+      <shelf name="dysfunctional-families" count="10"/>
+      <shelf name="national-book-award" count="9"/>
+      <shelf name="ya-reads" count="9"/>
+      <shelf name="sequential-art" count="9"/>
+      <shelf name="graphicnovel" count="9"/>
+      <shelf name="family-relationships" count="9"/>
+      <shelf name="growing-up" count="9"/>
+      <shelf name="young-adult-lit" count="9"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="2019-reading-challenge" count="8"/>
+      <shelf name="award-winners" count="8"/>
+      <shelf name="new-books" count="8"/>
+      <shelf name="teen-books" count="8"/>
+      <shelf name="graphic-novel-comics" count="8"/>
+      <shelf name="drug-use" count="8"/>
+      <shelf name="young-adult-books" count="8"/>
+      <shelf name="tween" count="8"/>
+      <shelf name="teen-graphic-novels" count="8"/>
+      <shelf name="manga-graphic-novels" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>36005510</id>
+<title>New Kid</title>
+<title_without_series>New Kid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36005510-new-kid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544415378l/36005510._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544415378l/36005510._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57574554</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>919377</id>
+<name>Jerry Craft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/919377.Jerry_Craft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6659434</id>
+<title><![CDATA[The Artist's Way Every Day: A Year of Creative Living]]></title>
+<title_without_series><![CDATA[The Artist's Way Every Day: A Year of Creative Living]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6659434-the-artist-s-way-every-day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>413</num_pages>
+<work>
+<id>6854111</id>
+</work>
+<isbn>1585427470</isbn>
+<isbn13>9781585427475</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13229</id>
+<name>Julia Cameron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13229.Julia_Cameron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30623067</id>
+<title>Be Prepared</title>
+<title_without_series>Be Prepared</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30623067-be-prepared]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503338056l/30623067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503338056l/30623067._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>51155060</id>
+</work>
+<isbn>162672444X</isbn>
+<isbn13>9781626724440</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>568999</id>
+<name>Vera Brosgol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/568999.Vera_Brosgol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2784</id>
+<title>Ways of Seeing</title>
+<title_without_series>Ways of Seeing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2784.Ways_of_Seeing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464018308l/2784._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464018308l/2784._SY160_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>2507145</id>
+</work>
+<isbn>0140135154</isbn>
+<isbn13>9780140135152</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>29919</id>
+<name>John Berger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29919.John_Berger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40519254</id>
+<title>Shout</title>
+<title_without_series>Shout</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40519254-shout]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536542610l/40519254._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536542610l/40519254._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>62882044</id>
+</work>
+<isbn></isbn>
+<isbn13>9780698195264</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>10003</id>
+<name>Laurie Halse Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10003.Laurie_Halse_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36912588</id>
+<title><![CDATA[The Unwanted: Stories of the Syrian Refugees]]></title>
+<title_without_series><![CDATA[The Unwanted: Stories of the Syrian Refugees]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36912588-the-unwanted]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518124719l/36912588._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518124719l/36912588._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>58671831</id>
+</work>
+<isbn>1328810151</isbn>
+<isbn13>9781328810151</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>4198059</id>
+<name>Don  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4198059.Don_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27414475</id>
+<title>Mighty Jack (Mighty Jack, #1)</title>
+<title_without_series>Mighty Jack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27414475-mighty-jack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454294382l/27414475._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454294382l/27414475._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>45467641</id>
+</work>
+<isbn>162672265X</isbn>
+<isbn13>9781626722651</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3212743</id>
+<name>Ben Hatke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3212743.Ben_Hatke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35963837</id>
+<title>Illegal</title>
+<title_without_series>Illegal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35963837-illegal]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57522645</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10896</id>
+<name>Eoin Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10896.Eoin_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13099738</id>
+<title><![CDATA[Steal Like an Artist: 10 Things Nobody Told You About Being Creative]]></title>
+<title_without_series><![CDATA[Steal Like an Artist: 10 Things Nobody Told You About Being Creative]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13099738-steal-like-an-artist]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404576602l/13099738._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404576602l/13099738._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>18272194</id>
+</work>
+<isbn>0761169253</isbn>
+<isbn13>9780761169253</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2985039</id>
+<name>Austin Kleon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2985039.Austin_Kleon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42190572</id>
+<title>Guts</title>
+<title_without_series>Guts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42190572-guts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538782879l/42190572._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538782879l/42190572._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>65791922</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>21618</id>
+<name>Raina Telgemeier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21618.Raina_Telgemeier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33163388</id>
+<title>Spinning</title>
+<title_without_series>Spinning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33163388-spinning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500339680l/33163388._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500339680l/33163388._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>50701152</id>
+</work>
+<isbn>1626727724</isbn>
+<isbn13>9781626727724</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13560692</id>
+<name>Tillie Walden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13560692.Tillie_Walden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>567616</id>
+<title>The Art Book</title>
+<title_without_series>The Art Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/567616.The_Art_Book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411210646l/567616._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411210646l/567616._SX98_.jpg]]></image_url>
+<num_pages>515</num_pages>
+<work>
+<id>347606</id>
+</work>
+<isbn>0714836257</isbn>
+<isbn13>9780714836256</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6456394</id>
+<name>Phaidon Press</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6456394.Phaidon_Press]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38185346</id>
+<title>Merci Suárez Changes Gears</title>
+<title_without_series>Merci Suárez Changes Gears</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38185346-merci-su-rez-changes-gears]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561068468l/38185346._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561068468l/38185346._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>50140884</id>
+</work>
+<isbn>076369049X</isbn>
+<isbn13>9780763690496</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>1373005</id>
+<name>Meg Medina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1373005.Meg_Medina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35890044</id>
+<title><![CDATA[The Benefits of Being an Octopus]]></title>
+<title_without_series><![CDATA[The Benefits of Being an Octopus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35890044-the-benefits-of-being-an-octopus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522849548l/35890044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522849548l/35890044._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57406781</id>
+</work>
+<isbn>1510737480</isbn>
+<isbn13>9781510737488</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>17071283</id>
+<name>Ann Braden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17071283.Ann_Braden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33517044</id>
+<title>All&apos;s Faire in Middle School</title>
+<title_without_series>All&apos;s Faire in Middle School</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33517044-all-s-faire-in-middle-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491468858l/33517044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491468858l/33517044._SX98_.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>54279492</id>
+</work>
+<isbn>0525429980</isbn>
+<isbn13>9780525429982</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2849126</id>
+<name>Victoria Jamieson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2849126.Victoria_Jamieson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36127488</id>
+<title>Front Desk</title>
+<title_without_series>Front Desk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36127488-front-desk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX98_.jpg]]></image_url>
+<num_pages>298</num_pages>
+<work>
+<id>51903030</id>
+</work>
+<isbn>1338157795</isbn>
+<isbn13>9781338157796</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>15524279</id>
+<name>Kelly Yang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15524279.Kelly_Yang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>627206</id>
+<title><![CDATA[The New Drawing on the Right Side of the Brain]]></title>
+<title_without_series><![CDATA[The New Drawing on the Right Side of the Brain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>1763052</id>
+</work>
+<isbn>0874774241</isbn>
+<isbn13>9780874774245</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42010</id>
+<name>Betty Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42010.Betty_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38664775</id>
+<title>Sea Prayer</title>
+<title_without_series>Sea Prayer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38664775-sea-prayer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522162108l/38664775._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522162108l/38664775._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>60274026</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>18340</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>569</id>
+<name>Khaled Hosseini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
