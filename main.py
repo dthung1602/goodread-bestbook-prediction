@@ -11,7 +11,7 @@ file_names = [
 
 
 def main():
-    with open('result.csv', 'w') as csv_file:
+    with open('result.csv', 'w', encoding='utf8') as csv_file:
         csv_writer = csv.writer(csv_file)
         files = [Book.from_file(f + '.xml') for f in file_names]
         Book.write_header_csv(csv_writer)

@@ -10,7 +10,7 @@ def get_date(node, date_name):
 class Book:
     @staticmethod
     def from_file(xml_file_name):
-        with open(xml_file_name, 'r') as f:
+        with open(xml_file_name, 'r', encoding='utf8') as f:
             return Book(f.read())
 
     @classmethod
@@ -35,6 +35,7 @@ class Book:
                 'ratings_count',
                 'text_reviews_count',
                 'authors_count',
+                'authors_average_rating'
                 'shelves_count',
             ] + ['shelf_' + n for n in cls.shelves_names]
         )
@@ -73,11 +74,12 @@ class Book:
         shelves = book.find('popular_shelves')
         book_data.append(len(authors))
 
-        # for author in book.find('authors'):
-        #     authors_data.append(author.findtext('average_rating'))
-        #     authors_data.append(author.findtext('ratings_count'))
-        #     authors_data.append(author.findtext('text_reviews_count'))
-        #
+        average_ratings = []
+        ratings_counts = []
+        for author in book.find('authors'):
+            average_ratings.append(float(author.findtext('average_rating')))
+            ratings_counts.append(float(author.findtext('ratings_count')))
+        book_data.append(str(sum(x*y for x, y in zip(average_ratings, ratings_counts))/sum(ratings_counts)))
 
         for shelf in shelves:
             name = shelf.attrib['name']
