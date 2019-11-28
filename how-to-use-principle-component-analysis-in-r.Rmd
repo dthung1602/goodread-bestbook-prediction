@@ -129,16 +129,11 @@ pca_df <- data.frame(pca$x)
 pca_df <- pca_df %>% select(-PC5,-PC6) 
 pca_df$y = filter_df$y
 
-corrgram(pca_df,lower.panel=panel.cor,upper.panel=panel.pie)
+corrgram(pca_df,lower.panel=panel.cor,upper.panel=panel.pie, cor.method = "pearson")
 ```
 
 All of this seems correct, but can we still use this to predict the y as good as before?
 Yes, we can! Look at the R-squared, it is 0.3221 compared to 0.3223 (before PCA). 
-
-```{r}
-model <- lm(data = pca_df, Tiếng.Anh ~ .)
-summary(model)
-```
 
 
 # 7. Use PCA to plot the most important relations
