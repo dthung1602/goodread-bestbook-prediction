@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>31450633</id>
+  <title>The Breakdown</title>
+  <isbn><![CDATA[1250122465]]></isbn>
+  <isbn13><![CDATA[9781250122469]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492234495l/31450633._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492234495l/31450633._SY75_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>18</publication_day>
+  <publisher>St. Martin's Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Cass is having a hard time since the night she saw the car in the woods, on the winding rural road, in the middle of a downpour, with the woman sitting inside—the woman who was killed. She’s been trying to put the crime out of her mind; what could she have done, really? It’s a dangerous road to be on in the middle of a storm. Her husband would be furious if he knew she’d broken her promise not to take that shortcut home. And she probably would only have been hurt herself if she’d stopped.<br /><br />But since then, she’s been forgetting every little thing: where she left the car, if she took her pills, the alarm code, why she ordered a pram when she doesn’t have a baby.<br /><br />The only thing she can’t forget is that woman, the woman she might have saved, and the terrible nagging guilt.<br /><br />Or the silent calls she’s receiving, or the feeling that someone’s watching her…]]></description>
+  <work>
+  <id type="integer">49326982</id>
+  <books_count type="integer">77</books_count>
+  <best_book_id type="integer">31450633</best_book_id>
+  <reviews_count type="integer">153753</reviews_count>
+  <ratings_sum type="integer">260495</ratings_sum>
+  <ratings_count type="integer">66832</ratings_count>
+  <text_reviews_count type="integer">8374</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>The Breakdown</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:19441|4:27248|3:15105|2:3945|1:1093|total:66832</rating_dist>
+  <desc_user_id type="integer">1517100</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.ods0sgjqhKuIUwg9oWzjiQ</work_uri>
+</work>
+  <average_rating>3.90</average_rating>
+  <num_pages><![CDATA[328]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[48215]]></ratings_count>
+  <text_reviews_count><![CDATA[6417]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/31450633-the-breakdown]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/31450633-the-breakdown]]></link>
+  <authors>
+<author>
+<id>14425604</id>
+<name>B.A. Paris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497031605p5/14425604.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497031605p2/14425604.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14425604.B_A_Paris]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>357374</ratings_count>
+<text_reviews_count>38768</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/31450633-the-breakdown">The Breakdown Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250122465&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/31450633-the-breakdown?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="69398"/>
+      <shelf name="currently-reading" count="4925"/>
+      <shelf name="thriller" count="665"/>
+      <shelf name="mystery" count="590"/>
+      <shelf name="fiction" count="420"/>
+      <shelf name="suspense" count="241"/>
+      <shelf name="mystery-thriller" count="238"/>
+      <shelf name="favorites" count="176"/>
+      <shelf name="psychological-thriller" count="163"/>
+      <shelf name="netgalley" count="149"/>
+      <shelf name="read-in-2017" count="148"/>
+      <shelf name="books-i-own" count="147"/>
+      <shelf name="audiobook" count="144"/>
+      <shelf name="audiobooks" count="137"/>
+      <shelf name="thrillers" count="127"/>
+      <shelf name="audio" count="124"/>
+      <shelf name="read-in-2018" count="116"/>
+      <shelf name="crime" count="114"/>
+      <shelf name="owned" count="112"/>
+      <shelf name="kindle" count="107"/>
+      <shelf name="library" count="107"/>
+      <shelf name="adult" count="91"/>
+      <shelf name="read-2018" count="87"/>
+      <shelf name="ebook" count="84"/>
+      <shelf name="read-2017" count="81"/>
+      <shelf name="book-club" count="74"/>
+      <shelf name="audio-books" count="64"/>
+      <shelf name="mystery-suspense" count="63"/>
+      <shelf name="2017-reads" count="61"/>
+      <shelf name="adult-fiction" count="57"/>
+      <shelf name="thriller-mystery" count="55"/>
+      <shelf name="contemporary" count="55"/>
+      <shelf name="audible" count="54"/>
+      <shelf name="read-in-2019" count="52"/>
+      <shelf name="arc" count="52"/>
+      <shelf name="giveaways" count="50"/>
+      <shelf name="2018-reads" count="48"/>
+      <shelf name="2017-books" count="48"/>
+      <shelf name="to-buy" count="48"/>
+      <shelf name="b-a-paris" count="48"/>
+      <shelf name="owned-books" count="47"/>
+      <shelf name="audio-book" count="47"/>
+      <shelf name="suspense-thriller" count="47"/>
+      <shelf name="mysteries" count="46"/>
+      <shelf name="2017-read" count="42"/>
+      <shelf name="thriller-suspense" count="42"/>
+      <shelf name="read-2019" count="39"/>
+      <shelf name="drama" count="39"/>
+      <shelf name="psychological" count="38"/>
+      <shelf name="2017-releases" count="38"/>
+      <shelf name="did-not-finish" count="35"/>
+      <shelf name="wish-list" count="34"/>
+      <shelf name="2018-books" count="33"/>
+      <shelf name="first-reads" count="33"/>
+      <shelf name="2018-read" count="32"/>
+      <shelf name="dnf" count="31"/>
+      <shelf name="ebooks" count="31"/>
+      <shelf name="psychological-thrillers" count="30"/>
+      <shelf name="mystery-thrillers" count="28"/>
+      <shelf name="mystery-suspense-thriller" count="28"/>
+      <shelf name="books-read-in-2017" count="27"/>
+      <shelf name="mystery-thriller-suspense" count="27"/>
+      <shelf name="stand-alone" count="27"/>
+      <shelf name="2018-books-read" count="25"/>
+      <shelf name="dark" count="25"/>
+      <shelf name="overdrive" count="25"/>
+      <shelf name="british" count="24"/>
+      <shelf name="library-book" count="23"/>
+      <shelf name="my-books" count="23"/>
+      <shelf name="crime-thriller" count="23"/>
+      <shelf name="books-i-have" count="22"/>
+      <shelf name="2019-reads" count="21"/>
+      <shelf name="arcs" count="21"/>
+      <shelf name="tbr" count="21"/>
+      <shelf name="2017-reading-challenge" count="21"/>
+      <shelf name="crime-mystery-thriller" count="21"/>
+      <shelf name="maybe" count="21"/>
+      <shelf name="2019-books" count="20"/>
+      <shelf name="e-book" count="20"/>
+      <shelf name="mystery-crime" count="20"/>
+      <shelf name="2017-books-read" count="20"/>
+      <shelf name="books-read-in-2018" count="19"/>
+      <shelf name="library-books" count="19"/>
+      <shelf name="england" count="19"/>
+      <shelf name="my-library" count="19"/>
+      <shelf name="contemporary-fiction" count="19"/>
+      <shelf name="have" count="18"/>
+      <shelf name="on-my-shelf" count="18"/>
+      <shelf name="mystery-thriller-horror" count="18"/>
+      <shelf name="purchased" count="17"/>
+      <shelf name="psychological-suspense" count="17"/>
+      <shelf name="standalone" count="17"/>
+      <shelf name="2018-reading-challenge" count="16"/>
+      <shelf name="i-own" count="16"/>
+      <shelf name="net-galley" count="16"/>
+      <shelf name="murder" count="16"/>
+      <shelf name="abandoned" count="15"/>
+      <shelf name="favorite-authors" count="15"/>
+      <shelf name="novels" count="15"/>
+      <shelf name="listened-to" count="14"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>33984056</id>
+<title>A Stranger in the House</title>
+<title_without_series>A Stranger in the House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33984056-a-stranger-in-the-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910615l/33984056._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910615l/33984056._SX98_.jpg]]></image_url>
+<num_pages>305</num_pages>
+<work>
+<id>53565612</id>
+</work>
+<isbn>073522112X</isbn>
+<isbn13>9780735221123</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>1278320</id>
+<name>Shari Lapena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1278320.Shari_Lapena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34189556</id>
+<title>The Wife Between Us</title>
+<title_without_series>The Wife Between Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34189556-the-wife-between-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496862122l/34189556._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496862122l/34189556._SX98_.jpg]]></image_url>
+<num_pages>346</num_pages>
+<work>
+<id>55227731</id>
+</work>
+<isbn>1250130921</isbn>
+<isbn13>9781250130921</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>16935182</id>
+<name>Greer Hendricks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16935182.Greer_Hendricks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38240386</id>
+<title>An Unwanted Guest</title>
+<title_without_series>An Unwanted Guest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38240386-an-unwanted-guest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526389330l/38240386._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526389330l/38240386._SX98_.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>59633382</id>
+</work>
+<isbn>0525557628</isbn>
+<isbn13>9780525557623</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1278320</id>
+<name>Shari Lapena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1278320.Shari_Lapena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35297426</id>
+<title>Then She Was Gone</title>
+<title_without_series>Then She Was Gone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35297426-then-she-was-gone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523891273l/35297426._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523891273l/35297426._SX98_.jpg]]></image_url>
+<num_pages>359</num_pages>
+<work>
+<id>56020593</id>
+</work>
+<isbn>1501154648</isbn>
+<isbn13>9781501154645</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>93504</id>
+<name>Lisa Jewell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93504.Lisa_Jewell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32326398</id>
+<title>Sometimes I Lie</title>
+<title_without_series>Sometimes I Lie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32326398-sometimes-i-lie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498135142l/32326398._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498135142l/32326398._SX98_.jpg]]></image_url>
+<num_pages>387</num_pages>
+<work>
+<id>52960112</id>
+</work>
+<isbn>0008225354</isbn>
+<isbn13>9780008225353</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>15904689</id>
+<name>Alice Feeney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15904689.Alice_Feeney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39863515</id>
+<title>An Anonymous Girl</title>
+<title_without_series>An Anonymous Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39863515-an-anonymous-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546956642l/39863515._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546956642l/39863515._SX98_.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>61659722</id>
+</work>
+<isbn>1250133734</isbn>
+<isbn13>9781250133731</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>16935182</id>
+<name>Greer Hendricks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16935182.Greer_Hendricks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32895291</id>
+<title>The Lying Game</title>
+<title_without_series>The Lying Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32895291-the-lying-game]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497632504l/32895291._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497632504l/32895291._SX98_.jpg]]></image_url>
+<num_pages>370</num_pages>
+<work>
+<id>52694768</id>
+</work>
+<isbn>1501156004</isbn>
+<isbn13>9781501156007</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>9013543</id>
+<name>Ruth Ware</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9013543.Ruth_Ware]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40389527</id>
+<title>The Woman in the Window</title>
+<title_without_series>The Woman in the Window</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40389527-the-woman-in-the-window]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528225499l/40389527._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528225499l/40389527._SX98_.jpg]]></image_url>
+<num_pages>455</num_pages>
+<work>
+<id>52941950</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7992137</id>
+<name>A.J. Finn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7992137.A_J_Finn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28815474</id>
+<title>The Couple Next Door</title>
+<title_without_series>The Couple Next Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28815474-the-couple-next-door]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471502242l/28815474._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471502242l/28815474._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>48284103</id>
+</work>
+<isbn>0735221081</isbn>
+<isbn13>9780735221086</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>1278320</id>
+<name>Shari Lapena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1278320.Shari_Lapena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42080142</id>
+<title>The Turn of the Key</title>
+<title_without_series>The Turn of the Key</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42080142-the-turn-of-the-key]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548204800l/42080142._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548204800l/42080142._SX98_.jpg]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>62793178</id>
+</work>
+<isbn>1501188771</isbn>
+<isbn13>9781501188770</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>9013543</id>
+<name>Ruth Ware</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9013543.Ruth_Ware]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373481</id>
+<title>The Death of Mrs. Westaway</title>
+<title_without_series>The Death of Mrs. Westaway</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373481-the-death-of-mrs-westaway]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518710953l/36373481._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518710953l/36373481._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>57880170</id>
+</work>
+<isbn>1501156217</isbn>
+<isbn13>9781501156212</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>9013543</id>
+<name>Ruth Ware</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9013543.Ruth_Ware]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28016509</id>
+<title>The Girl Before</title>
+<title_without_series>The Girl Before</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28016509-the-girl-before]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485972587l/28016509._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485972587l/28016509._SX98_.jpg]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>48027180</id>
+</work>
+<isbn>0425285049</isbn>
+<isbn13>9780425285046</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>14719991</id>
+<name>J.P. Delaney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14719991.J_P_Delaney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43982433</id>
+<title>Someone We Know</title>
+<title_without_series>Someone We Know</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43982433-someone-we-know]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552515516l/43982433._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552515516l/43982433._SX98_.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>68017246</id>
+</work>
+<isbn>0525557652</isbn>
+<isbn13>9780525557654</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1278320</id>
+<name>Shari Lapena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1278320.Shari_Lapena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40097951</id>
+<title>The Silent Patient</title>
+<title_without_series>The Silent Patient</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40097951-the-silent-patient]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573745054l/40097951._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573745054l/40097951._SX98_.jpg]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>59752778</id>
+</work>
+<isbn>1250301696</isbn>
+<isbn13>9781250301697</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17621440</id>
+<name>Alex Michaelides</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17621440.Alex_Michaelides]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28965131</id>
+<title>Behind Her Eyes</title>
+<title_without_series>Behind Her Eyes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28965131-behind-her-eyes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485279813l/28965131._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485279813l/28965131._SX98_.jpg]]></image_url>
+<num_pages>307</num_pages>
+<work>
+<id>49193186</id>
+</work>
+<isbn>125011117X</isbn>
+<isbn13>9781250111173</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>457300</id>
+<name>Sarah Pinborough</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457300.Sarah_Pinborough]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38355282</id>
+<title>Watching You</title>
+<title_without_series>Watching You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38355282-watching-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545496322l/38355282._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545496322l/38355282._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>58189380</id>
+</work>
+<isbn>1501190075</isbn>
+<isbn13>9781501190070</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>93504</id>
+<name>Lisa Jewell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93504.Lisa_Jewell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33230889</id>
+<title><![CDATA[The Good Daughter (Good Daughter, #1)]]></title>
+<title_without_series>The Good Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33230889-the-good-daughter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502131816l/33230889._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502131816l/33230889._SX98_.jpg]]></image_url>
+<num_pages>656</num_pages>
+<work>
+<id>53941188</id>
+</work>
+<isbn>0062430262</isbn>
+<isbn13>9780062430267</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>12504</id>
+<name>Karin Slaughter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12504.Karin_Slaughter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36212848</id>
+<title>The Other Woman</title>
+<title_without_series>The Other Woman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36212848-the-other-woman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525957746l/36212848._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525957746l/36212848._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>57846205</id>
+</work>
+<isbn>125019198X</isbn>
+<isbn13>9781250191984</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>66832</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>3917070</id>
+<name>Sandie Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3917070.Sandie_Jones]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

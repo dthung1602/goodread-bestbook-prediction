@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>14823980</id>
+  <title><![CDATA[A Fine Dessert: Four Centuries, Four Families, One Delicious Treat]]></title>
+  <isbn><![CDATA[0375968326]]></isbn>
+  <isbn13><![CDATA[9780375968327]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408308881l/14823980._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408308881l/14823980._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Schwartz &amp; Wade</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A <i>New York Times</i> Best Illustrated Book</b><br /><br />From highly acclaimed author Jenkins and Caldecott Medal–winning illustrator Blackall comes a fascinating picture book in which four families, in four different cities, over four centuries, make the same delicious dessert: blackberry fool. This richly detailed book ingeniously shows how food, technology, and even families have changed throughout American history. <br /><br />In 1710, a girl and her mother in Lyme, England, prepare a blackberry fool, picking wild blackberries and beating cream from their cow with a bundle of twigs. The same dessert is prepared by an enslaved girl and her mother in 1810 in Charleston, South Carolina; by a mother and daughter in 1910 in Boston; and finally by a boy and his father in present-day San Diego. <br /><br />Kids and parents alike will delight in discovering the differences in daily life over the course of four centuries. <br /><br />Includes a recipe for blackberry fool and notes from the author and illustrator about their research.<br /><br /><br /><i>From the Hardcover edition.</i>]]></description>
+  <work>
+  <id type="integer">20477524</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">14823980</best_book_id>
+  <reviews_count type="integer">4892</reviews_count>
+  <ratings_sum type="integer">8902</ratings_sum>
+  <ratings_count type="integer">2230</ratings_count>
+  <text_reviews_count type="integer">484</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>A Fine Dessert: Four Centuries, Four Families, One Delicious Treat</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:862|4:773|3:393|2:119|1:83|total:2230</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.zJJDO_7ogW6oEeGvRppCqg</work_uri>
+</work>
+  <average_rating>3.99</average_rating>
+  <num_pages><![CDATA[44]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2017]]></ratings_count>
+  <text_reviews_count><![CDATA[432]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/14823980-a-fine-dessert]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/14823980-a-fine-dessert]]></link>
+  <authors>
+<author>
+<id>13899</id>
+<name>Emily Jenkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1500579262p5/13899.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1500579262p2/13899.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13899.Emily_Jenkins]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>22327</ratings_count>
+<text_reviews_count>3979</text_reviews_count>
+</author>
+<author>
+<id>63115</id>
+<name>Sophie Blackall</name>
+<role>illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310139817p5/63115.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310139817p2/63115.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/63115.Sophie_Blackall]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>69439</ratings_count>
+<text_reviews_count>9428</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/14823980-a-fine-dessert">A Fine Dessert Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375968326&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/14823980-a-fine-dessert?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2170"/>
+      <shelf name="picture-books" count="382"/>
+      <shelf name="historical-fiction" count="131"/>
+      <shelf name="picture-book" count="114"/>
+      <shelf name="food" count="77"/>
+      <shelf name="history" count="67"/>
+      <shelf name="childrens" count="62"/>
+      <shelf name="children-s-books" count="48"/>
+      <shelf name="cooking" count="40"/>
+      <shelf name="children" count="39"/>
+      <shelf name="historical" count="39"/>
+      <shelf name="children-s" count="34"/>
+      <shelf name="family" count="31"/>
+      <shelf name="picturebooks" count="22"/>
+      <shelf name="kids" count="21"/>
+      <shelf name="fiction" count="20"/>
+      <shelf name="mock-caldecott-2016" count="18"/>
+      <shelf name="multicultural" count="17"/>
+      <shelf name="read-in-2015" count="17"/>
+      <shelf name="nonfiction" count="16"/>
+      <shelf name="picture" count="15"/>
+      <shelf name="childrens-books" count="15"/>
+      <shelf name="childrens-picture-books" count="14"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="children-s-literature" count="13"/>
+      <shelf name="library" count="12"/>
+      <shelf name="diversity" count="12"/>
+      <shelf name="kids-books" count="12"/>
+      <shelf name="children-s-picture-books" count="11"/>
+      <shelf name="children-s-lit" count="10"/>
+      <shelf name="non-fiction" count="10"/>
+      <shelf name="slavery" count="9"/>
+      <shelf name="bluebonnet" count="8"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="1st-grade" count="7"/>
+      <shelf name="juvenile" count="7"/>
+      <shelf name="dessert" count="7"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="read-alouds" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="families" count="6"/>
+      <shelf name="mock-caldecott" count="6"/>
+      <shelf name="cookbook" count="6"/>
+      <shelf name="2016-mock-caldecott" count="6"/>
+      <shelf name="social-studies" count="5"/>
+      <shelf name="storytime" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="2015-picture-books" count="5"/>
+      <shelf name="middle-grade" count="4"/>
+      <shelf name="food-and-drink" count="4"/>
+      <shelf name="bluebonnets" count="4"/>
+      <shelf name="bluebonnet-2016-17" count="4"/>
+      <shelf name="4-stars" count="4"/>
+      <shelf name="children-fiction" count="4"/>
+      <shelf name="picture-books-read" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="2nd-grade" count="4"/>
+      <shelf name="2015-read" count="4"/>
+      <shelf name="children-books" count="4"/>
+      <shelf name="2015-reads" count="4"/>
+      <shelf name="19th-century" count="4"/>
+      <shelf name="american-history" count="4"/>
+      <shelf name="england" count="4"/>
+      <shelf name="informational" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="children-s-books-read" count="4"/>
+      <shelf name="multi-cultural" count="4"/>
+      <shelf name="foodie" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="pb" count="4"/>
+      <shelf name="cookbooks-food" count="4"/>
+      <shelf name="african-american" count="4"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="read-picture-books" count="3"/>
+      <shelf name="read-in-2016" count="3"/>
+      <shelf name="desserts" count="3"/>
+      <shelf name="blackberry-fool" count="3"/>
+      <shelf name="bluebonnet-16-17" count="3"/>
+      <shelf name="youth" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="cultural" count="3"/>
+      <shelf name="homeschooling" count="3"/>
+      <shelf name="technology" count="3"/>
+      <shelf name="food-cooking" count="3"/>
+      <shelf name="read-2015" count="3"/>
+      <shelf name="african-americans" count="3"/>
+      <shelf name="18th-century" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="kid-s-books" count="3"/>
+      <shelf name="illustrated" count="3"/>
+      <shelf name="2nd" count="3"/>
+      <shelf name="picture-books-2015" count="3"/>
+      <shelf name="children-s-nonfiction" count="3"/>
+      <shelf name="realistic-fiction" count="3"/>
+      <shelf name="preschool" count="3"/>
+      <shelf name="2015-books" count="3"/>
+      <shelf name="cvtc-kidlit" count="2"/>
+      <shelf name="texas-bluebonnet-nominee" count="2"/>
+      <shelf name="childrens-non-fiction" count="2"/>
+      <shelf name="diverse" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>20256581</id>
+<title><![CDATA[Gingerbread for Liberty!: How a German Baker Helped Win the American Revolution]]></title>
+<title_without_series><![CDATA[Gingerbread for Liberty!: How a German Baker Helped Win the American Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20256581-gingerbread-for-liberty]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389671469l/20256581._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389671469l/20256581._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>28068579</id>
+</work>
+<isbn>0544130014</isbn>
+<isbn13>9780544130012</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>198514</id>
+<name>Mara Rockliff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/198514.Mara_Rockliff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12220009</id>
+<title>We March</title>
+<title_without_series>We March</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12220009-we-march]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316739995l/12220009._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316739995l/12220009._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>17193279</id>
+</work>
+<isbn>1596435399</isbn>
+<isbn13>9781596435391</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1349429</id>
+<name>Shane W. Evans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1349429.Shane_W_Evans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35580105</id>
+<title>Hello Lighthouse</title>
+<title_without_series>Hello Lighthouse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35580105-hello-lighthouse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY160_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>57013848</id>
+</work>
+<isbn>0316362387</isbn>
+<isbn13>9780316362382</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>63115</id>
+<name>Sophie Blackall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63115.Sophie_Blackall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22749711</id>
+<title><![CDATA[Drum Dream Girl: How One Girl's Courage Changed Music]]></title>
+<title_without_series><![CDATA[Drum Dream Girl: How One Girl's Courage Changed Music]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22749711-drum-dream-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407813960l/22749711._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407813960l/22749711._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>42295111</id>
+</work>
+<isbn>0544102290</isbn>
+<isbn13>9780544102293</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>103963</id>
+<name>Margarita Engle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103963.Margarita_Engle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38929947</id>
+<title>Don&apos;t Touch My Hair!</title>
+<title_without_series>Don&apos;t Touch My Hair!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38929947-don-t-touch-my-hair]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311664l/38929947._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523311664l/38929947._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>60510981</id>
+</work>
+<isbn>0316562580</isbn>
+<isbn13>9780316562584</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>14300643</id>
+<name>Sharee Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14300643.Sharee_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30364127</id>
+<title>Over and Under the Pond</title>
+<title_without_series>Over and Under the Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30364127-over-and-under-the-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>50874368</id>
+</work>
+<isbn>1452145423</isbn>
+<isbn13>9781452145426</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24819508</id>
+<title><![CDATA[Finding Winnie: The True Story of the World's Most Famous Bear]]></title>
+<title_without_series><![CDATA[Finding Winnie: The True Story of the World's Most Famous Bear]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24819508-finding-winnie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453570693l/24819508._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453570693l/24819508._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>44460289</id>
+</work>
+<isbn>0316324906</isbn>
+<isbn13>9780316324908</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>13451720</id>
+<name>Lindsay Mattick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13451720.Lindsay_Mattick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15791063</id>
+<title>Flora and the Flamingo</title>
+<title_without_series>Flora and the Flamingo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15791063-flora-and-the-flamingo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424309341l/15791063._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424309341l/15791063._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21512643</id>
+</work>
+<isbn>1452110069</isbn>
+<isbn13>9781452110066</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2917253</id>
+<name>Molly Idle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2917253.Molly_Idle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101044</id>
+<title><![CDATA[This Is the Rope: A Story From the Great Migration]]></title>
+<title_without_series><![CDATA[This Is the Rope: A Story From the Great Migration]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101044-this-is-the-rope]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365983494l/16101044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365983494l/16101044._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21911345</id>
+</work>
+<isbn>0399239863</isbn>
+<isbn13>9780399239861</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35553581</id>
+<title><![CDATA[Joan Procter, Dragon Doctor: The Woman Who Loved Reptiles]]></title>
+<title_without_series><![CDATA[Joan Procter, Dragon Doctor: The Woman Who Loved Reptiles]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35553581-joan-procter-dragon-doctor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499128154l/35553581._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499128154l/35553581._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>49641701</id>
+</work>
+<isbn>0399557261</isbn>
+<isbn13>9780399557262</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>15050086</id>
+<name>Patricia Valdez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15050086.Patricia_Valdez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38369306</id>
+<title>The Very Last Castle</title>
+<title_without_series>The Very Last Castle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38369306-the-very-last-castle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518036538l/38369306._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518036538l/38369306._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60033291</id>
+</work>
+<isbn>1419725742</isbn>
+<isbn13>9781419725746</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>17138168</id>
+<name>Travis Jonker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17138168.Travis_Jonker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39693198</id>
+<title><![CDATA[Mother Teresa (Little People, Big Dreams)]]></title>
+<title_without_series>Mother Teresa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39693198-mother-teresa]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61316920</id>
+</work>
+<isbn>1786032902</isbn>
+<isbn13>9781786032904</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14886582</id>
+<name>Mª Isabel Sánchez Vegara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14886582.M_Isabel_S_nchez_Vegara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6629316</id>
+<title>Big Red Lollipop</title>
+<title_without_series>Big Red Lollipop</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6629316-big-red-lollipop]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308058336l/6629316._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308058336l/6629316._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>6823661</id>
+</work>
+<isbn>0670062871</isbn>
+<isbn13>9780670062874</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>331593</id>
+<name>Rukhsana Khan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/331593.Rukhsana_Khan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26827329</id>
+<title>Bunny&apos;s Book Club</title>
+<title_without_series>Bunny&apos;s Book Club</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26827329-bunny-s-book-club]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485234646l/26827329._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485234646l/26827329._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>46857492</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14425281</id>
+<name>Annie Silvestro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14425281.Annie_Silvestro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22875387</id>
+<title><![CDATA[How to Read a Story: (Illustrated Children's Book, Picture Book for Kids, Read Aloud Kindergarten Books)]]></title>
+<title_without_series>How to Read a Story:</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22875387-how-to-read-a-story]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587500l/22875387._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587500l/22875387._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42439845</id>
+</work>
+<isbn>1452112339</isbn>
+<isbn13>9781452112336</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34144489</id>
+<title><![CDATA[Crown: An Ode to the Fresh Cut]]></title>
+<title_without_series><![CDATA[Crown: An Ode to the Fresh Cut]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34144489-crown]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55181311</id>
+</work>
+<isbn>1572842245</isbn>
+<isbn13>9781572842243</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>229556</id>
+<name>Derrick Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229556.Derrick_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20708761</id>
+<title>Sam and Dave Dig a Hole</title>
+<title_without_series>Sam and Dave Dig a Hole</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20708761-sam-and-dave-dig-a-hole]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>39789300</id>
+</work>
+<isbn>0763662291</isbn>
+<isbn13>9780763662295</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

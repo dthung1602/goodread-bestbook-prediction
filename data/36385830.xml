@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36385830</id>
+  <title><![CDATA[Thrawn: Alliances (Star Wars: Thrawn, #2)]]></title>
+  <isbn><![CDATA[052548048X]]></isbn>
+  <isbn13><![CDATA[9780525480488]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511385584l/36385830._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511385584l/36385830._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>24</publication_day>
+  <publisher>Del Rey</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>"I have sensed a disturbance in the Force."</b><br /><br />Ominous words under any circumstances, but all the more so when uttered by Emperor Palpatine. On Batuu, at the edges of the Unknown Regions, a threat to the Empire is taking root—its existence little more than a glimmer, its consequences as yet unknowable. But it is troubling enough to the Imperial leader to warrant investigation by his most powerful agents: ruthless enforcer Lord Darth Vader and brilliant strategist Grand Admiral Thrawn. Fierce rivals for the emperor's favor, and outspoken adversaries on Imperial affairs—including the Death Star project—the formidable pair seem unlikely partners for such a crucial mission. But the Emperor knows it's not the first time Vader and Thrawn have joined forces. And there's more behind his royal command than either man suspects.<br /><br />In what seems like a lifetime ago, General Anakin Skywalker of the Galactic Republic, and Commander Mitth'raw'nuruodo, officer of the Chiss Ascendancy, crossed paths for the first time. One on a desperate personal quest, the other with motives unknown . . . and undisclosed. But facing a gauntlet of dangers on a far-flung world, they forged an uneasy alliance—neither remotely aware of what their futures held in store.<br /><br />Now, thrust together once more, they find themselves bound again for the planet where they once fought side by side. There they will be doubly challenged—by a test of their allegiance to the Empire . . . and an enemy that threatens even their combined might.]]></description>
+  <work>
+  <id type="integer">58053416</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">36385830</best_book_id>
+  <reviews_count type="integer">22313</reviews_count>
+  <ratings_sum type="integer">36658</ratings_sum>
+  <ratings_count type="integer">9417</ratings_count>
+  <text_reviews_count type="integer">1012</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">24</original_publication_day>
+  <original_title>Alliances</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2589|4:3890|3:2380|2:455|1:103|total:9417</rating_dist>
+  <desc_user_id type="integer">1481887</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.RkufSSc6ypOl5pxVjJcPWw</work_uri>
+</work>
+  <average_rating>3.89</average_rating>
+  <num_pages><![CDATA[342]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[6771]]></ratings_count>
+  <text_reviews_count><![CDATA[783]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36385830-thrawn]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36385830-thrawn]]></link>
+  <authors>
+<author>
+<id>12479</id>
+<name>Timothy Zahn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215545810p5/12479.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215545810p2/12479.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12479.Timothy_Zahn]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>343478</ratings_count>
+<text_reviews_count>14668</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36385830-thrawn">Thrawn Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=052548048X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36385830-thrawn?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8734"/>
+      <shelf name="currently-reading" count="1805"/>
+      <shelf name="star-wars" count="940"/>
+      <shelf name="sci-fi" count="218"/>
+      <shelf name="science-fiction" count="217"/>
+      <shelf name="fiction" count="161"/>
+      <shelf name="star-wars-canon" count="109"/>
+      <shelf name="audiobooks" count="56"/>
+      <shelf name="audiobook" count="53"/>
+      <shelf name="owned" count="45"/>
+      <shelf name="scifi" count="36"/>
+      <shelf name="fantasy" count="32"/>
+      <shelf name="audible" count="27"/>
+      <shelf name="starwars" count="23"/>
+      <shelf name="favorites" count="23"/>
+      <shelf name="sci-fi-fantasy" count="20"/>
+      <shelf name="library" count="20"/>
+      <shelf name="audio-books" count="19"/>
+      <shelf name="space-opera" count="19"/>
+      <shelf name="read-2018" count="18"/>
+      <shelf name="audio" count="17"/>
+      <shelf name="read-in-2018" count="16"/>
+      <shelf name="star-wars-books" count="16"/>
+      <shelf name="to-buy" count="16"/>
+      <shelf name="read-2019" count="14"/>
+      <shelf name="read-in-2019" count="14"/>
+      <shelf name="books-i-own" count="14"/>
+      <shelf name="star-wars-new-canon" count="14"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="audio-book" count="12"/>
+      <shelf name="star-wars-novels" count="12"/>
+      <shelf name="abandoned" count="11"/>
+      <shelf name="novels" count="11"/>
+      <shelf name="scifi-fantasy" count="10"/>
+      <shelf name="star-wars-read" count="10"/>
+      <shelf name="sf" count="10"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="fantasy-sci-fi" count="9"/>
+      <shelf name="canon" count="9"/>
+      <shelf name="star-wars-cannon" count="9"/>
+      <shelf name="adventure" count="9"/>
+      <shelf name="media-tie-in" count="9"/>
+      <shelf name="star-wars-to-read" count="9"/>
+      <shelf name="sw" count="9"/>
+      <shelf name="2019-reads" count="8"/>
+      <shelf name="did-not-finish" count="8"/>
+      <shelf name="series" count="8"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="2018-books" count="8"/>
+      <shelf name="2018-reads" count="8"/>
+      <shelf name="owned-books" count="8"/>
+      <shelf name="timothy-zahn" count="8"/>
+      <shelf name="books" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="2019-books" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="space" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="star-wars-canon-novels" count="6"/>
+      <shelf name="science-fiction-fantasy" count="6"/>
+      <shelf name="want-to-buy" count="6"/>
+      <shelf name="star_wars" count="6"/>
+      <shelf name="default" count="5"/>
+      <shelf name="2018-read" count="5"/>
+      <shelf name="star-wars-new-cannon" count="5"/>
+      <shelf name="star-wars-thrawn" count="5"/>
+      <shelf name="unowned" count="5"/>
+      <shelf name="science-fantasy" count="5"/>
+      <shelf name="star-wars-disney-canon" count="5"/>
+      <shelf name="sw-canon" count="5"/>
+      <shelf name="laser-2019" count="4"/>
+      <shelf name="books-read-in-2019" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="listened-to" count="4"/>
+      <shelf name="tbr" count="4"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="tbr-star-wars" count="4"/>
+      <shelf name="audio_wanted" count="4"/>
+      <shelf name="star-wars-collection" count="4"/>
+      <shelf name="signed" count="4"/>
+      <shelf name="bookshelf" count="4"/>
+      <shelf name="thrawn" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="e-book" count="4"/>
+      <shelf name="fantasy-science-fiction" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="sci-fi-and-fantasy" count="4"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="to-read-owned" count="3"/>
+      <shelf name="fun" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="not-owned" count="3"/>
+      <shelf name="tie-in" count="3"/>
+      <shelf name="2019-reading-list" count="3"/>
+      <shelf name="2018-reading-challenge" count="3"/>
+      <shelf name="read-sci-fi" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="overdrive" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1126593</id>
+<user_position>2</user_position>
+<series>
+<id>217515</id>
+<title>
+<![CDATA[
+    Star Wars: Thrawn
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1123776</id>
+<user_position></user_position>
+<series>
+<id>194089</id>
+<title>
+<![CDATA[
+    Star Wars Disney Canon Novel
+]]>
+</title>
+<description>
+<![CDATA[
+    A list of Star Wars adult and young-adult novels considered canon by the Lucasfilm Story Group in chronological order.
+    
+    <b>Related Series</b>
+    <a href="https://www.goodreads.com/series/150234" target="_blank">Star Wars Disney Canon Junior Novels</a>
+    <a href="https://www.goodreads.com/series/150448" target="_blank">Star Wars Disney Canon Graphic Novels</a>
+    <a href="https://www.goodreads.com/series/222451" target="_blank">Star Wars Disney Canon Reference Books</a>
+    <a href="https://www.goodreads.com/series/180541" target="_blank">Star Wars Disney Canon Short Stories</a>
+    
+    <b>Related Lists</b>
+    <a href="https://www.goodreads.com/list/show/94720" target="_blank">Best Star Wars Canon Novels</a>
+    
+    <b>External Links</b>
+    <a href="http://starwars.wikia.com/wiki/Timeline_of_canon_books" target="_blank">Star Wars Disney Canon Books Timeline on Wookieepedia</a>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>45</series_works_count>
+<primary_work_count>43</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>40917496</id>
+<title><![CDATA[Master and Apprentice (Star Wars)]]></title>
+<title_without_series>Master and Apprentice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40917496-master-and-apprentice]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541691242l/40917496._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541691242l/40917496._SX98_.jpg]]></image_url>
+<num_pages>330</num_pages>
+<work>
+<id>63719739</id>
+</work>
+<isbn>0525619372</isbn>
+<isbn13>9780525619376</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1192311</id>
+<name>Claudia Gray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1192311.Claudia_Gray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42207529</id>
+<title><![CDATA[Alphabet Squadron (Star Wars: Alphabet Squadron, #1)]]></title>
+<title_without_series>Alphabet Squadron</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42207529-alphabet-squadron]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547840032l/42207529._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547840032l/42207529._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65824824</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>535923</id>
+<name>Alexander Freed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/535923.Alexander_Freed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38602136</id>
+<title><![CDATA[Last Shot: A Han and Lando Novel (Star Wars)]]></title>
+<title_without_series><![CDATA[Last Shot: A Han and Lando Novel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38602136-last-shot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518834314l/38602136._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518834314l/38602136._SX98_.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>60209238</id>
+</work>
+<isbn>0525622136</isbn>
+<isbn13>9780525622130</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5137530</id>
+<name>Daniel José Older</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5137530.Daniel_Jos_Older]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44643629</id>
+<title>Dooku: Jedi Lost (Star Wars)</title>
+<title_without_series>Dooku: Jedi Lost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44643629-dooku]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553716174l/44643629._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553716174l/44643629._SX98_.jpg]]></image_url>
+<num_pages>7</num_pages>
+<work>
+<id>69271824</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>87934</id>
+<name>Cavan Scott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87934.Cavan_Scott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40219589</id>
+<title><![CDATA[Solo: A Star Wars Story (Star Wars: Novelizations, #3.25)]]></title>
+<title_without_series>Solo: A Star Wars Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40219589-solo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532138289l/40219589._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532138289l/40219589._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62456084</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>97284</id>
+<name>Mur Lafferty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/97284.Mur_Lafferty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40886114</id>
+<title>Queen&apos;s Shadow (Star Wars)</title>
+<title_without_series>Queen&apos;s Shadow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40886114-queen-s-shadow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532125038l/40886114._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532125038l/40886114._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>63718901</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7418796</id>
+<name>E.K. Johnston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7418796.E_K_Johnston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38600062</id>
+<title>Most Wanted (Star Wars)</title>
+<title_without_series>Most Wanted</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38600062-most-wanted]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518809651l/38600062._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518809651l/38600062._SX98_.jpg]]></image_url>
+<num_pages>348</num_pages>
+<work>
+<id>60206050</id>
+</work>
+<isbn>1368016308</isbn>
+<isbn13>9781368016308</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4074051</id>
+<name>Rae Carson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4074051.Rae_Carson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43837995</id>
+<title><![CDATA[Black Spire (Star Wars: Galaxy's Edge, #2)]]></title>
+<title_without_series>Black Spire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43837995-black-spire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553282628l/43837995._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553282628l/43837995._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68220681</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>5135449</id>
+<name>Delilah S. Dawson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5135449.Delilah_S_Dawson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45452530</id>
+<title>Resistance Reborn</title>
+<title_without_series>Resistance Reborn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45452530-resistance-reborn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572828304l/45452530._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572828304l/45452530._SX98_.jpg]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>70220653</id>
+</work>
+<isbn>0593128427</isbn>
+<isbn13>9780593128428</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>15862877</id>
+<name>Rebecca Roanhorse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15862877.Rebecca_Roanhorse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22012250</id>
+<title>Tarkin (Star Wars)</title>
+<title_without_series>Tarkin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22012250-tarkin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398456370l/22012250._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398456370l/22012250._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>41325637</id>
+</work>
+<isbn>0553392891</isbn>
+<isbn13>9780553392890</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>9346</id>
+<name>James Luceno</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9346.James_Luceno]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43810650</id>
+<title><![CDATA[A Crash of Fate (Star Wars: Galaxy's Edge, #1)]]></title>
+<title_without_series>A Crash of Fate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43810650-a-crash-of-fate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555186651l/43810650._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555186651l/43810650._SX98_.jpg]]></image_url>
+<num_pages>250</num_pages>
+<work>
+<id>68171518</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4824952</id>
+<name>Zoraida Córdova</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4824952.Zoraida_C_rdova]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29749107</id>
+<title>Ahsoka (Star Wars)</title>
+<title_without_series>Ahsoka</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29749107-ahsoka]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468595529l/29749107._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468595529l/29749107._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>50105366</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>7418796</id>
+<name>E.K. Johnston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7418796.E_K_Johnston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34859132</id>
+<title><![CDATA[Phasma (Journey to Star Wars: The Last Jedi, #2)]]></title>
+<title_without_series>Phasma</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34859132-phasma]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492211485l/34859132._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492211485l/34859132._SX98_.jpg]]></image_url>
+<num_pages>381</num_pages>
+<work>
+<id>56100365</id>
+</work>
+<isbn>152479631X</isbn>
+<isbn13>9781524796310</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5135449</id>
+<name>Delilah S. Dawson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5135449.Delilah_S_Dawson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23277298</id>
+<title>Dark Disciple (Star Wars)</title>
+<title_without_series>Dark Disciple</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23277298-dark-disciple]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419965425l/23277298._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419965425l/23277298._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>44980862</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7710</id>
+<name>Christie Golden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7710.Christie_Golden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22012290</id>
+<title>Lords of the Sith (Star Wars)</title>
+<title_without_series>Lords of the Sith</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22012290-lords-of-the-sith]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398457143l/22012290._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398457143l/22012290._SX98_.jpg]]></image_url>
+<num_pages>285</num_pages>
+<work>
+<id>41325693</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>32912</id>
+<name>Paul S. Kemp</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32912.Paul_S_Kemp]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35798468</id>
+<title><![CDATA[Canto Bight (Journey to Star Wars: The Last Jedi, #1)]]></title>
+<title_without_series>Canto Bight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35798468-canto-bight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505354146l/35798468._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505354146l/35798468._SX98_.jpg]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>57213360</id>
+</work>
+<isbn>152479953X</isbn>
+<isbn13>9781524799533</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4025591</id>
+<name>Saladin Ahmed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4025591.Saladin_Ahmed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34377564</id>
+<title><![CDATA[Inferno Squad (Star Wars: Battlefront, #2)]]></title>
+<title_without_series>Inferno Squad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34377564-inferno-squad]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499530485l/34377564._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499530485l/34377564._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55394526</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7710</id>
+<name>Christie Golden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7710.Christie_Golden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35724037</id>
+<title>Star Wars: Thrawn</title>
+<title_without_series>Star Wars: Thrawn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35724037-star-wars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544710003l/35724037._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544710003l/35724037._SX98_.jpg]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>57226988</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>9417</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>6851816</id>
+<name>Jody Houser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6851816.Jody_Houser]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

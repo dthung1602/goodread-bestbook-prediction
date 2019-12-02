@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11422798</id>
+  <title>Seed</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>1</publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[Fans of Stephen King, Jack Kilborn, and Blake Crouch… prepare to meet the Devil.<br /><br />In the vine-twisted swamps of Louisiana, the shadows have teeth.<br /><br />Jack Winter has spent his entire life running from something no one else can see. His childhood is his darkest secret, but after a near fatal accident along a deserted road, the darkness he was sure he’d escaped rears its ugly head… and smiles.<br /><br />But this time, he isn’t the only one who sees the soulless eyes of his past. This time, his six-year-old daughter Charlie leans into his ear and whispers: Daddy, I saw it too.<br /><br />And then she begins to change.<br /><br />Faced with reliving the nightmares of his childhood, Jack watches his daughter spiral into the shadows that had nearly consumed him twenty years before. <br /><br />But Charlie isn’t the only one who’s changing. <br /><br />Jack never outran the darkness. It’s been with him all along. <br /><br />And it’s hungrier than ever. <br /><br />A new breed of dark fiction: the subtlety of Seed will haunt you, and the end will wickedly satisfy.]]></description>
+  <work>
+  <id type="integer">16356035</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">11422798</best_book_id>
+  <reviews_count type="integer">18559</reviews_count>
+  <ratings_sum type="integer">30839</ratings_sum>
+  <ratings_count type="integer">8442</ratings_count>
+  <text_reviews_count type="integer">1090</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <original_title>Seed</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2026|4:2926|3:2327|2:861|1:302|total:8442</rating_dist>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.FIi2TRkN29eA4Ntjak0tFQ</work_uri>
+</work>
+  <average_rating>3.65</average_rating>
+  <num_pages><![CDATA[460]]></num_pages>
+  <format><![CDATA[ebook]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5090]]></ratings_count>
+  <text_reviews_count><![CDATA[729]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11422798-seed]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11422798-seed]]></link>
+  <authors>
+<author>
+<id>4867939</id>
+<name>Ania Ahlborn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1473193726p5/4867939.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1473193726p2/4867939.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4867939.Ania_Ahlborn]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>33810</ratings_count>
+<text_reviews_count>4956</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11422798-seed">Seed Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/11422798-seed?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8442"/>
+      <shelf name="horror" count="611"/>
+      <shelf name="currently-reading" count="557"/>
+      <shelf name="kindle" count="99"/>
+      <shelf name="fiction" count="79"/>
+      <shelf name="favorites" count="48"/>
+      <shelf name="fantasy" count="45"/>
+      <shelf name="paranormal" count="45"/>
+      <shelf name="thriller" count="30"/>
+      <shelf name="owned" count="26"/>
+      <shelf name="ebooks" count="25"/>
+      <shelf name="ebook" count="24"/>
+      <shelf name="supernatural" count="22"/>
+      <shelf name="kindle-books" count="22"/>
+      <shelf name="audiobooks" count="21"/>
+      <shelf name="kindle-unlimited" count="20"/>
+      <shelf name="books-i-own" count="18"/>
+      <shelf name="ania-ahlborn" count="13"/>
+      <shelf name="demons" count="13"/>
+      <shelf name="audible" count="12"/>
+      <shelf name="audiobook" count="12"/>
+      <shelf name="mystery" count="12"/>
+      <shelf name="horror-thriller" count="10"/>
+      <shelf name="to-buy" count="10"/>
+      <shelf name="read-in-2014" count="9"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="library" count="9"/>
+      <shelf name="creepy" count="9"/>
+      <shelf name="horror-to-read" count="9"/>
+      <shelf name="suspense" count="8"/>
+      <shelf name="mystery-thriller" count="8"/>
+      <shelf name="scary" count="8"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="e-book" count="7"/>
+      <shelf name="read-in-2013" count="6"/>
+      <shelf name="stand-alone" count="5"/>
+      <shelf name="paranormal-supernatural" count="5"/>
+      <shelf name="abandoned" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="science-fiction" count="5"/>
+      <shelf name="horror-fiction" count="5"/>
+      <shelf name="spooky" count="5"/>
+      <shelf name="to-read-own" count="5"/>
+      <shelf name="own-kindle" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="gothic" count="5"/>
+      <shelf name="owned-kindle" count="5"/>
+      <shelf name="read-in-2012" count="5"/>
+      <shelf name="not-at-library" count="5"/>
+      <shelf name="e-books" count="5"/>
+      <shelf name="to-read-horror" count="5"/>
+      <shelf name="tbr-horror" count="5"/>
+      <shelf name="louisiana" count="5"/>
+      <shelf name="nook" count="5"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="horror-tbr" count="4"/>
+      <shelf name="tbr" count="4"/>
+      <shelf name="female-author" count="4"/>
+      <shelf name="female-authors" count="4"/>
+      <shelf name="2015-reads" count="4"/>
+      <shelf name="read-2015" count="4"/>
+      <shelf name="might-read" count="4"/>
+      <shelf name="read-2014" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="on-kindle" count="4"/>
+      <shelf name="horror-supernatural" count="4"/>
+      <shelf name="my-ebooks" count="4"/>
+      <shelf name="sci-fi" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="possession" count="4"/>
+      <shelf name="southern" count="4"/>
+      <shelf name="horror-suspense" count="4"/>
+      <shelf name="amazon" count="3"/>
+      <shelf name="read-in-2018" count="3"/>
+      <shelf name="tbr-own" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="unread-on-kindle" count="3"/>
+      <shelf name="thrillers" count="3"/>
+      <shelf name="books-read-in-2014" count="3"/>
+      <shelf name="speculative-fiction" count="3"/>
+      <shelf name="owned-not-read" count="3"/>
+      <shelf name="southern-gothic" count="3"/>
+      <shelf name="books-on-kindle" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="e-reader" count="3"/>
+      <shelf name="mystery-thriller-suspense" count="3"/>
+      <shelf name="women-writers" count="3"/>
+      <shelf name="occult" count="3"/>
+      <shelf name="want-to-buy" count="3"/>
+      <shelf name="dark-fiction" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="fantasy-paranormal" count="3"/>
+      <shelf name="my-kindle-books" count="3"/>
+      <shelf name="ghost-stories" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>12850063</id>
+<title><![CDATA[Dead Leaves: 9 Tales from the Witching Season]]></title>
+<title_without_series><![CDATA[Dead Leaves: 9 Tales from the Witching Season]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12850063-dead-leaves]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321943904l/12850063._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321943904l/12850063._SX98_.jpg]]></image_url>
+<num_pages>92</num_pages>
+<work>
+<id>18001347</id>
+</work>
+<isbn></isbn>
+<isbn13>2940013231856</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27687495</id>
+<title>Sour Candy</title>
+<title_without_series>Sour Candy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27687495-sour-candy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446998302l/27687495._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446998302l/27687495._SX98_.jpg]]></image_url>
+<num_pages>67</num_pages>
+<work>
+<id>47686413</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41595990</id>
+<title><![CDATA[The Forgotten Island: A Horror Novel]]></title>
+<title_without_series><![CDATA[The Forgotten Island: A Horror Novel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41595990-the-forgotten-island]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64937481</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18377192</id>
+<name>David Sodergren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18377192.David_Sodergren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43550319</id>
+<title>Halloween Fiend</title>
+<title_without_series>Halloween Fiend</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43550319-halloween-fiend]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547344532l/43550319._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547344532l/43550319._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>67747710</id>
+</work>
+<isbn>1941918433</isbn>
+<isbn13>9781941918432</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>4667751</id>
+<name>C.V. Hunt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4667751.C_V_Hunt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45718831</id>
+<title>The Reddening</title>
+<title_without_series>The Reddening</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45718831-the-reddening]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566913256l/45718831._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566913256l/45718831._SX98_.jpg]]></image_url>
+<num_pages>415</num_pages>
+<work>
+<id>70497929</id>
+</work>
+<isbn>1916094104</isbn>
+<isbn13>9781916094109</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>3381686</id>
+<name>Adam Nevill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3381686.Adam_Nevill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45868683</id>
+<title>Intercepts</title>
+<title_without_series>Intercepts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45868683-intercepts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558137793l/45868683._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558137793l/45868683._SX98_.jpg]]></image_url>
+<num_pages>327</num_pages>
+<work>
+<id>68836011</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>18547206</id>
+<name>T.J. Payne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18547206.T_J_Payne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44668151</id>
+<title>We Live Inside Your Eyes</title>
+<title_without_series>We Live Inside Your Eyes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44668151-we-live-inside-your-eyes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69321537</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17839402</id>
+<title>The Tent</title>
+<title_without_series>The Tent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17839402-the-tent]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366678208l/17839402._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366678208l/17839402._SX98_.jpg]]></image_url>
+<num_pages>134</num_pages>
+<work>
+<id>24963701</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44774269</id>
+<title>Rotten Little Things</title>
+<title_without_series>Rotten Little Things</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44774269-rotten-little-things]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554259498l/44774269._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554259498l/44774269._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69411618</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>15612928</id>
+<name>Justin M. Woodward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15612928.Justin_M_Woodward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45181921</id>
+<title>Night Shoot</title>
+<title_without_series>Night Shoot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45181921-night-shoot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565991995l/45181921._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565991995l/45181921._SY160_.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>69898656</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>18377192</id>
+<name>David Sodergren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18377192.David_Sodergren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35917172</id>
+<title>Blanky</title>
+<title_without_series>Blanky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35917172-blanky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501936113l/35917172._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501936113l/35917172._SX98_.jpg]]></image_url>
+<num_pages>73</num_pages>
+<work>
+<id>57447246</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12231218</id>
+<title>Kin</title>
+<title_without_series>Kin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12231218-kin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372368323l/12231218._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372368323l/12231218._SX98_.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>17204936</id>
+</work>
+<isbn>1587672197</isbn>
+<isbn13>9781587672194</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10080948</id>
+<title>Ravenous Ghosts</title>
+<title_without_series>Ravenous Ghosts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10080948-ravenous-ghosts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302173288l/10080948._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302173288l/10080948._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2485088</id>
+</work>
+<isbn></isbn>
+<isbn13>2940011154362</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31193620</id>
+<title>Of Foster Homes and Flies</title>
+<title_without_series>Of Foster Homes and Flies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31193620-of-foster-homes-and-flies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>51839230</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8436955</id>
+<name>Chad Lutzke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8436955.Chad_Lutzke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47144974</id>
+<title>Camp Slaughter</title>
+<title_without_series>Camp Slaughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47144974-camp-slaughter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72196293</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15166031</id>
+<name>Sergio   Gomez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15166031.Sergio_Gomez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34065268</id>
+<title>Kill Creek</title>
+<title_without_series>Kill Creek</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34065268-kill-creek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490250721l/34065268._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490250721l/34065268._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>55075669</id>
+</work>
+<isbn>1942645821</isbn>
+<isbn13>9781942645825</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>15418022</id>
+<name>Scott   Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15418022.Scott_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40499855</id>
+<title><![CDATA[Something Borrowed, Something Blood-Soaked]]></title>
+<title_without_series><![CDATA[Something Borrowed, Something Blood-Soaked]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40499855-something-borrowed-something-blood-soaked]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>188</num_pages>
+<work>
+<id>62823142</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15179583</id>
+<name>Christa Carmen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15179583.Christa_Carmen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9933459</id>
+<title>Dead of Winter</title>
+<title_without_series>Dead of Winter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9933459-dead-of-winter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>57</num_pages>
+<work>
+<id>14826578</id>
+</work>
+<isbn></isbn>
+<isbn13>9781452417295</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8442</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>283369</id>
+<name>Kealan Patrick Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/283369.Kealan_Patrick_Burke]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

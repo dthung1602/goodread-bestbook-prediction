@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24833423</id>
+  <title>Twenty Yawns</title>
+  <isbn><![CDATA[1477826351]]></isbn>
+  <isbn13><![CDATA[9781477826355]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449339756l/24833423._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449339756l/24833423._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Two Lions</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Featuring lyrical text and beautiful illustrations, this bedtime tale from Pulitzer Prize winner Jane Smiley and Caldecott Honor recipient Lauren Castillo evokes the splashy fun of the beach and the quietude of a moonlit night, with twenty yawns sprinkled in for children to discover and count.<br /><br />As her mom reads a bedtime story, Lucy drifts off. But later, she awakens in a dark, still room, and everything looks mysterious. How will she ever get back to sleep?]]></description>
+  <work>
+  <id type="integer">44476775</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">24833423</best_book_id>
+  <reviews_count type="integer">5722</reviews_count>
+  <ratings_sum type="integer">8705</ratings_sum>
+  <ratings_count type="integer">2272</ratings_count>
+  <text_reviews_count type="integer">361</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Twenty Yawns</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:689|4:783|3:590|2:148|1:62|total:2272</rating_dist>
+  <desc_user_id type="integer">25205349</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.zrL-QYo3doTRL2nKYAEWRg</work_uri>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1433]]></ratings_count>
+  <text_reviews_count><![CDATA[253]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24833423-twenty-yawns]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24833423-twenty-yawns]]></link>
+  <authors>
+<author>
+<id>1339</id>
+<name>Jane Smiley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245100250p5/1339.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245100250p2/1339.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1339.Jane_Smiley]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>130736</ratings_count>
+<text_reviews_count>12410</text_reviews_count>
+</author>
+<author>
+<id>1307032</id>
+<name>Lauren Castillo</name>
+<role>illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1467648325p5/1307032.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1467648325p2/1307032.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1307032.Lauren_Castillo]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>11435</ratings_count>
+<text_reviews_count>2447</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24833423-twenty-yawns">Twenty Yawns Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1477826351&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/24833423-twenty-yawns?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2404"/>
+      <shelf name="picture-books" count="305"/>
+      <shelf name="currently-reading" count="266"/>
+      <shelf name="picture-book" count="80"/>
+      <shelf name="bedtime" count="64"/>
+      <shelf name="childrens" count="41"/>
+      <shelf name="realistic-fiction" count="37"/>
+      <shelf name="children-s" count="37"/>
+      <shelf name="children-s-books" count="36"/>
+      <shelf name="children" count="30"/>
+      <shelf name="family" count="26"/>
+      <shelf name="kids" count="23"/>
+      <shelf name="storytime" count="18"/>
+      <shelf name="fiction" count="16"/>
+      <shelf name="beach" count="16"/>
+      <shelf name="primary-picture-books" count="15"/>
+      <shelf name="read-in-2016" count="14"/>
+      <shelf name="picturebooks" count="13"/>
+      <shelf name="multicultural" count="12"/>
+      <shelf name="preschool" count="12"/>
+      <shelf name="bedtime-stories" count="12"/>
+      <shelf name="kids-books" count="11"/>
+      <shelf name="picture" count="11"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="diversity" count="10"/>
+      <shelf name="mock-caldecott-2017" count="10"/>
+      <shelf name="read-2016" count="9"/>
+      <shelf name="children-s-lit" count="8"/>
+      <shelf name="children-s-literature" count="7"/>
+      <shelf name="emergent-picture-books" count="6"/>
+      <shelf name="summer" count="6"/>
+      <shelf name="kindle-first" count="6"/>
+      <shelf name="children-s-picture-books" count="5"/>
+      <shelf name="counting" count="5"/>
+      <shelf name="read-alouds" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="picture-books-2016" count="5"/>
+      <shelf name="childrens-picture-books" count="5"/>
+      <shelf name="sleep" count="5"/>
+      <shelf name="1000-books-before-kindergarten" count="5"/>
+      <shelf name="pb" count="5"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="2016-picture-books" count="5"/>
+      <shelf name="diverse-books" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="picturebook" count="4"/>
+      <shelf name="diverse-characters" count="4"/>
+      <shelf name="bedtime-story" count="4"/>
+      <shelf name="children-s-books-read" count="4"/>
+      <shelf name="pb-bedtime" count="4"/>
+      <shelf name="diverse" count="4"/>
+      <shelf name="african-american" count="4"/>
+      <shelf name="2016-reads" count="4"/>
+      <shelf name="families" count="4"/>
+      <shelf name="we-need-diverse-books" count="4"/>
+      <shelf name="bedtime-books" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="kid-s-books" count="3"/>
+      <shelf name="poc" count="3"/>
+      <shelf name="primary-picture-book" count="3"/>
+      <shelf name="primary" count="3"/>
+      <shelf name="bed-time" count="3"/>
+      <shelf name="kindergarten" count="3"/>
+      <shelf name="to-read-picture-books" count="3"/>
+      <shelf name="yawn" count="3"/>
+      <shelf name="nighttime" count="3"/>
+      <shelf name="caldecott-2017" count="3"/>
+      <shelf name="pre-k" count="3"/>
+      <shelf name="toys" count="3"/>
+      <shelf name="read-to-kids" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="2016-books" count="3"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="kiddos" count="2"/>
+      <shelf name="multiracial-families" count="2"/>
+      <shelf name="funny" count="2"/>
+      <shelf name="gray-block-books" count="2"/>
+      <shelf name="diverse-literature" count="2"/>
+      <shelf name="1-000-books-before-kindergarten" count="2"/>
+      <shelf name="fantasy" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="3-star" count="2"/>
+      <shelf name="picture-books-2017" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="small-moments" count="2"/>
+      <shelf name="charlotte" count="2"/>
+      <shelf name="kindle-unlimited" count="2"/>
+      <shelf name="kids-lit" count="2"/>
+      <shelf name="juvenile-easy" count="2"/>
+      <shelf name="school-books" count="2"/>
+      <shelf name="library-books" count="2"/>
+      <shelf name="k-3" count="2"/>
+      <shelf name="multi-cultural" count="2"/>
+      <shelf name="childrens-fiction" count="2"/>
+      <shelf name="new-in-2016" count="2"/>
+      <shelf name="jp" count="2"/>
+      <shelf name="juvenile-picture-book" count="2"/>
+      <shelf name="picture-books-bedtime" count="2"/>
+      <shelf name="classroom" count="2"/>
+      <shelf name="toddlers" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>20518948</id>
+<title>Viva Frida</title>
+<title_without_series>Viva Frida</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20518948-viva-frida]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481014347l/20518948._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481014347l/20518948._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>36426085</id>
+</work>
+<isbn>1596436034</isbn>
+<isbn13>9781596436039</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>389601</id>
+<name>Yuyi Morales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/389601.Yuyi_Morales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35297368</id>
+<title>Mommy&apos;s Khimar</title>
+<title_without_series>Mommy&apos;s Khimar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35297368-mommy-s-khimar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509878603l/35297368._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509878603l/35297368._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56664211</id>
+</work>
+<isbn>1534400591</isbn>
+<isbn13>9781534400597</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>16917882</id>
+<name>Jamilah Thompkins-Bigelow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16917882.Jamilah_Thompkins_Bigelow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36873092</id>
+<title><![CDATA[The Dreamer: (Inspirational Story, Picture Book for Children, Books About Perseverance)]]></title>
+<title_without_series>The Dreamer:</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36873092-the-dreamer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527223031l/36873092._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527223031l/36873092._SX98_.jpg]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>58639151</id>
+</work>
+<isbn>1452156085</isbn>
+<isbn13>9781452156088</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>2930191</id>
+<name>Il Sung Na</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2930191.Il_Sung_Na]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8158172</id>
+<title>Camino a casa</title>
+<title_without_series>Camino a casa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8158172-camino-a-casa]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>22</num_pages>
+<work>
+<id>12999494</id>
+</work>
+<isbn>6071600073</isbn>
+<isbn13>9786071600073</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3523650</id>
+<name>Jairo Buitrago</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3523650.Jairo_Buitrago]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6611660</id>
+<title>Sleep, Big Bear, Sleep!</title>
+<title_without_series>Sleep, Big Bear, Sleep!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6611660-sleep-big-bear-sleep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355033204l/6611660._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355033204l/6611660._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>6805652</id>
+</work>
+<isbn>0761455604</isbn>
+<isbn13>9780761455608</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1121574</id>
+<name>Maureen Wright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1121574.Maureen_Wright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22635853</id>
+<title>If You Plant a Seed</title>
+<title_without_series>If You Plant a Seed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22635853-if-you-plant-a-seed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414348254l/22635853._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414348254l/22635853._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42136572</id>
+</work>
+<isbn>0062298895</isbn>
+<isbn13>9780062298898</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>21345</id>
+<name>Kadir Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21345.Kadir_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25785760</id>
+<title>Ida, Always</title>
+<title_without_series>Ida, Always</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25785760-ida-always]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45636447</id>
+</work>
+<isbn>1481426400</isbn>
+<isbn13>9781481426404</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>5573824</id>
+<name>Caron Levis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5573824.Caron_Levis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15828287</id>
+<title>My Grandpa</title>
+<title_without_series>My Grandpa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15828287-my-grandpa]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344959942l/15828287._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344959942l/15828287._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21584946</id>
+</work>
+<isbn>0230760392</isbn>
+<isbn13>9780230760394</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5051719</id>
+<name>Marta Altés</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5051719.Marta_Alt_s]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506301</id>
+<title>The Day You Begin</title>
+<title_without_series>The Day You Begin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59116604</id>
+</work>
+<isbn>0399246533</isbn>
+<isbn13>9780399246531</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17262290</id>
+<title>Journey</title>
+<title_without_series>Journey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17262290-journey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552528957l/17262290._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552528957l/17262290._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>23859090</id>
+</work>
+<isbn>0763660531</isbn>
+<isbn13>9780763660536</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6897717</id>
+<name>Aaron Becker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6897717.Aaron_Becker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32333310</id>
+<title><![CDATA[The World Is Not a Rectangle: A Portrait of Architect Zaha Hadid]]></title>
+<title_without_series><![CDATA[The World Is Not a Rectangle: A Portrait of Architect Zaha Hadid]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32333310-the-world-is-not-a-rectangle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491126187l/32333310._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491126187l/32333310._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>52969536</id>
+</work>
+<isbn>148144669X</isbn>
+<isbn13>9781481446693</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>64206</id>
+<name>Jeanette Winter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64206.Jeanette_Winter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21469058</id>
+<title>Supertruck</title>
+<title_without_series>Supertruck</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21469058-supertruck]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421087423l/21469058._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421087423l/21469058._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>40786984</id>
+</work>
+<isbn>1596438215</isbn>
+<isbn13>9781596438217</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>80572</id>
+<name>Stephen  Savage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80572.Stephen_Savage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20917828</id>
+<title>You Are (Not) Small</title>
+<title_without_series>You Are (Not) Small</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20917828-you-are-not-small]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455983562l/20917828._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455983562l/20917828._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>40281739</id>
+</work>
+<isbn>1477847723</isbn>
+<isbn13>9781477847725</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7889837</id>
+<name>Anna Kang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7889837.Anna_Kang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31125552</id>
+<title>Pandora</title>
+<title_without_series>Pandora</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31125552-pandora]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471578994l/31125552._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471578994l/31125552._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>51739336</id>
+</work>
+<isbn>0544947339</isbn>
+<isbn13>9780544947337</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>8447350</id>
+<name>Victoria Turnbull</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8447350.Victoria_Turnbull]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34791187</id>
+<title>The Remember Balloons</title>
+<title_without_series>The Remember Balloons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34791187-the-remember-balloons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518200231l/34791187._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518200231l/34791187._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>55989339</id>
+</work>
+<isbn>1481489151</isbn>
+<isbn13>9781481489157</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>16668058</id>
+<name>Jessie Oliveros</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16668058.Jessie_Oliveros]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29102937</id>
+<title>Wolf in the Snow</title>
+<title_without_series>Wolf in the Snow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29102937-wolf-in-the-snow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481158645l/29102937._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481158645l/29102937._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>49340957</id>
+</work>
+<isbn>1250076366</isbn>
+<isbn13>9781250076366</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2867601</id>
+<name>Matthew Cordell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2867601.Matthew_Cordell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24633190</id>
+<title>Strictly No Elephants</title>
+<title_without_series>Strictly No Elephants</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24633190-strictly-no-elephants]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427331277l/24633190._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427331277l/24633190._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>44245279</id>
+</work>
+<isbn>1481416472</isbn>
+<isbn13>9781481416474</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1628012</id>
+<name>Lisa Mantchev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1628012.Lisa_Mantchev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33891271</id>
+<title><![CDATA[Dazzle Ships: World War I and the Art of Confusion]]></title>
+<title_without_series><![CDATA[Dazzle Ships: World War I and the Art of Confusion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33891271-dazzle-ships]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490681926l/33891271._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490681926l/33891271._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54851479</id>
+</work>
+<isbn>151245110X</isbn>
+<isbn13>9781512451108</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8472101</id>
+<name>Chris  Barton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8472101.Chris_Barton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

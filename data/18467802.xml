@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18467802</id>
+  <title>Euphoria</title>
+  <isbn><![CDATA[0802122558]]></isbn>
+  <isbn13><![CDATA[9780802122551]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418788366l/18467802._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418788366l/18467802._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Atlantic Monthly Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Inspired by the true story of a woman who changed the way we understand our world.<br /><br />In 1933 three young, gifted anthropologists are thrown together in the jungle of New Guinea. They are Nell Stone, fascinating, magnetic and famous for her controversial work studying South Pacific tribes, her intelligent and aggressive husband Fen, and Andrew Bankson, who stumbles into the lives of this strange couple and becomes totally enthralled. Within months the trio are producing their best ever work, but soon a firestorm of fierce love and jealousy begins to burn out of control, threatening their bonds, their careers, and, ultimately, their lives...]]></description>
+  <work>
+  <id type="integer">26127419</id>
+  <books_count type="integer">54</books_count>
+  <best_book_id type="integer">18467802</best_book_id>
+  <reviews_count type="integer">128768</reviews_count>
+  <ratings_sum type="integer">230166</ratings_sum>
+  <ratings_count type="integer">59895</ratings_count>
+  <text_reviews_count type="integer">6353</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Euphoria</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:15100|4:25714|3:14683|2:3363|1:1035|total:59895</rating_dist>
+  <desc_user_id type="integer">39669069</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Yqnsju63gE4POfnBhA3wlg</work_uri>
+</work>
+  <average_rating>3.84</average_rating>
+  <num_pages><![CDATA[256]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[50562]]></ratings_count>
+  <text_reviews_count><![CDATA[5632]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18467802-euphoria]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18467802-euphoria]]></link>
+  <authors>
+<author>
+<id>117786</id>
+<name>Lily King</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404743838p5/117786.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404743838p2/117786.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/117786.Lily_King]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>67344</ratings_count>
+<text_reviews_count>7385</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18467802-euphoria">Euphoria Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0802122558&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18467802-euphoria?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="58069"/>
+      <shelf name="currently-reading" count="1802"/>
+      <shelf name="historical-fiction" count="1199"/>
+      <shelf name="fiction" count="1197"/>
+      <shelf name="book-club" count="616"/>
+      <shelf name="favorites" count="372"/>
+      <shelf name="anthropology" count="173"/>
+      <shelf name="historical" count="171"/>
+      <shelf name="audiobook" count="162"/>
+      <shelf name="audio" count="136"/>
+      <shelf name="audiobooks" count="122"/>
+      <shelf name="romance" count="121"/>
+      <shelf name="literary-fiction" count="119"/>
+      <shelf name="library" count="114"/>
+      <shelf name="bookclub" count="101"/>
+      <shelf name="books-i-own" count="98"/>
+      <shelf name="kindle" count="95"/>
+      <shelf name="read-in-2015" count="94"/>
+      <shelf name="adult" count="92"/>
+      <shelf name="owned" count="88"/>
+      <shelf name="adult-fiction" count="81"/>
+      <shelf name="book-group" count="70"/>
+      <shelf name="read-in-2016" count="63"/>
+      <shelf name="novels" count="62"/>
+      <shelf name="read-2015" count="60"/>
+      <shelf name="audio-book" count="47"/>
+      <shelf name="audio-books" count="47"/>
+      <shelf name="literature" count="47"/>
+      <shelf name="contemporary-fiction" count="46"/>
+      <shelf name="audible" count="42"/>
+      <shelf name="ebook" count="39"/>
+      <shelf name="contemporary" count="39"/>
+      <shelf name="book-club-books" count="38"/>
+      <shelf name="new-guinea" count="38"/>
+      <shelf name="adventure" count="38"/>
+      <shelf name="history" count="36"/>
+      <shelf name="to-buy" count="35"/>
+      <shelf name="abandoned" count="34"/>
+      <shelf name="general-fiction" count="34"/>
+      <shelf name="novel" count="34"/>
+      <shelf name="to-read-fiction" count="33"/>
+      <shelf name="1930s" count="33"/>
+      <shelf name="travel" count="31"/>
+      <shelf name="dnf" count="30"/>
+      <shelf name="literary" count="30"/>
+      <shelf name="2015-books" count="29"/>
+      <shelf name="read-2016" count="28"/>
+      <shelf name="science" count="28"/>
+      <shelf name="21st-century" count="28"/>
+      <shelf name="read-in-2017" count="27"/>
+      <shelf name="wish-list" count="27"/>
+      <shelf name="australia" count="25"/>
+      <shelf name="relationships" count="25"/>
+      <shelf name="maybe" count="25"/>
+      <shelf name="read-in-2014" count="25"/>
+      <shelf name="didn-t-finish" count="24"/>
+      <shelf name="book-club-reads" count="24"/>
+      <shelf name="2016-books" count="23"/>
+      <shelf name="did-not-finish" count="23"/>
+      <shelf name="own-it" count="22"/>
+      <shelf name="library-book" count="22"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="read-2017" count="21"/>
+      <shelf name="2015-reads" count="21"/>
+      <shelf name="read-in-2018" count="20"/>
+      <shelf name="2016-reads" count="20"/>
+      <shelf name="american" count="20"/>
+      <shelf name="listened-to" count="19"/>
+      <shelf name="ebooks" count="19"/>
+      <shelf name="female-author" count="19"/>
+      <shelf name="papua-new-guinea" count="19"/>
+      <shelf name="anthropologists" count="18"/>
+      <shelf name="female-authors" count="18"/>
+      <shelf name="2015-read" count="18"/>
+      <shelf name="favourites" count="18"/>
+      <shelf name="tbr" count="18"/>
+      <shelf name="2017-reads" count="17"/>
+      <shelf name="book-club-ideas" count="17"/>
+      <shelf name="realistic-fiction" count="17"/>
+      <shelf name="own-to-read" count="16"/>
+      <shelf name="best-of-2014" count="16"/>
+      <shelf name="around-the-world" count="16"/>
+      <shelf name="women-authors" count="16"/>
+      <shelf name="overdrive" count="16"/>
+      <shelf name="recommended" count="16"/>
+      <shelf name="2014-books" count="16"/>
+      <shelf name="read-in-2019" count="15"/>
+      <shelf name="my-library" count="15"/>
+      <shelf name="love-triangle" count="15"/>
+      <shelf name="love" count="15"/>
+      <shelf name="e-books" count="15"/>
+      <shelf name="library-books" count="15"/>
+      <shelf name="read-2014" count="15"/>
+      <shelf name="fiction-to-read" count="15"/>
+      <shelf name="read-2018" count="14"/>
+      <shelf name="clsc" count="14"/>
+      <shelf name="asia" count="14"/>
+      <shelf name="2015-reading-challenge" count="14"/>
+      <shelf name="oceania" count="14"/>
+      <shelf name="american-literature" count="14"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17333223</id>
+<title>The Goldfinch</title>
+<title_without_series>The Goldfinch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333223-the-goldfinch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554970l/17333223._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554970l/17333223._SX98_.jpg]]></image_url>
+<num_pages>771</num_pages>
+<work>
+<id>24065147</id>
+</work>
+<isbn>0316055433</isbn>
+<isbn13>9780316055437</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8719.Donna_Tartt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36692478</id>
+<title>There There</title>
+<title_without_series>There There</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36692478-there-there]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512071034l/36692478._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512071034l/36692478._SX98_.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>58040066</id>
+</work>
+<isbn>0525520376</isbn>
+<isbn13>9780525520375</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17205711</id>
+<name>Tommy Orange</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17205711.Tommy_Orange]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15815333</id>
+<title>The Interestings</title>
+<title_without_series>The Interestings</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15815333-the-interestings]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446889l/15815333._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446889l/15815333._SX98_.jpg]]></image_url>
+<num_pages>468</num_pages>
+<work>
+<id>21541829</id>
+</work>
+<isbn>1594488398</isbn>
+<isbn13>9781594488399</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>113936</id>
+<name>Meg Wolitzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/113936.Meg_Wolitzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45998694</id>
+<title>Рюрик</title>
+<title_without_series>Рюрик</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45998694]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558620346l/45998694._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558620346l/45998694._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>70858136</id>
+</work>
+<isbn></isbn>
+<isbn13>9785864718193</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14554129</id>
+<name>Анна Козлова</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14554129._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28214365</id>
+<title>Commonwealth</title>
+<title_without_series>Commonwealth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28214365-commonwealth]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483278132l/28214365._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483278132l/28214365._SX98_.jpg]]></image_url>
+<num_pages>322</num_pages>
+<work>
+<id>48242398</id>
+</work>
+<isbn>0062491792</isbn>
+<isbn13>9780062491794</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>7136914</id>
+<name>Ann Patchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7136914.Ann_Patchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34051011</id>
+<title>Pachinko</title>
+<title_without_series>Pachinko</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34051011-pachinko]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529845599l/34051011._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529845599l/34051011._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>50384116</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>378209</id>
+<name>Min Jin Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/378209.Min_Jin_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39927096</id>
+<title>Less</title>
+<title_without_series>Less</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39927096-less]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>52588011</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>24892</id>
+<name>Andrew Sean Greer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24892.Andrew_Sean_Greer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>91494</id>
+<title>The Death of the Heart</title>
+<title_without_series>The Death of the Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/91494.The_Death_of_the_Heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497190244l/91494._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497190244l/91494._SX98_.jpg]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>2225358</id>
+</work>
+<isbn>0385720173</isbn>
+<isbn13>9780385720175</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>52578</id>
+<name>Elizabeth Bowen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52578.Elizabeth_Bowen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45304101</id>
+<title>The Great Believers</title>
+<title_without_series>The Great Believers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45304101-the-great-believers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>58531414</id>
+</work>
+<isbn>073522353X</isbn>
+<isbn13>9780735223530</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>3134707</id>
+<name>Rebecca Makkai</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3134707.Rebecca_Makkai]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33590210</id>
+<title>An American Marriage</title>
+<title_without_series>An American Marriage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33590210-an-american-marriage]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>54403192</id>
+</work>
+<isbn>1616201347</isbn>
+<isbn13>9781616201340</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>292970</id>
+<name>Tayari Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292970.Tayari_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48405709</id>
+<title>Korngult hár, grá augu</title>
+<title_without_series>Korngult hár, grá augu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48405709-korngult-h-r-gr-augu]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570711442l/48405709._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570711442l/48405709._SX98_.jpg]]></image_url>
+<num_pages>117</num_pages>
+<work>
+<id>73702538</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>424265</id>
+<name>Sjón</name>
+<link><![CDATA[https://www.goodreads.com/author/show/424265.Sj_n]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35133922</id>
+<title>Educated</title>
+<title_without_series>Educated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35133922-educated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>53814228</id>
+</work>
+<isbn>0399590501</isbn>
+<isbn13>9780399590504</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16121977</id>
+<name>Tara Westover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16121977.Tara_Westover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30288282</id>
+<title>The Immortalists</title>
+<title_without_series>The Immortalists</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30288282-the-immortalists]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493015963l/30288282._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493015963l/30288282._SX98_.jpg]]></image_url>
+<num_pages>346</num_pages>
+<work>
+<id>50766250</id>
+</work>
+<isbn>0735213186</isbn>
+<isbn13>9780735213180</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>15968276</id>
+<name>Chloe  Benjamin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15968276.Chloe_Benjamin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41057294</id>
+<title>Normal People</title>
+<title_without_series>Normal People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41057294-normal-people]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SX98_.jpg]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>59141209</id>
+</work>
+<isbn>1984822179</isbn>
+<isbn13>9781984822178</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48348970</id>
+<title>Við erum ekki morðingjar</title>
+<title_without_series>Við erum ekki morðingjar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48348970-vi-erum-ekki-mor-ingjar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570122354l/48348970._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570122354l/48348970._SX98_.jpg]]></image_url>
+<num_pages>173</num_pages>
+<work>
+<id>73624815</id>
+</work>
+<isbn></isbn>
+<isbn13>9789935119469</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7084087</id>
+<name>Dagur Hjartarson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7084087.Dagur_Hjartarson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27071490</id>
+<title>Homegoing</title>
+<title_without_series>Homegoing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27071490-homegoing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448108591l/27071490._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448108591l/27071490._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>47113792</id>
+</work>
+<isbn>1101947136</isbn>
+<isbn13>9781101947135</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14493315</id>
+<name>Yaa Gyasi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14493315.Yaa_Gyasi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37959904</id>
+<title>Unsheltered</title>
+<title_without_series>Unsheltered</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37959904-unsheltered]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59686314</id>
+</work>
+<isbn>0062865501</isbn>
+<isbn13>9780062865502</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>59895</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3541</id>
+<name>Barbara Kingsolver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3541.Barbara_Kingsolver]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

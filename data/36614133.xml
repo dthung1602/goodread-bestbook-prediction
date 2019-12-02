@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36614133</id>
+  <title>Love and Ruin</title>
+  <isbn><![CDATA[1101967382]]></isbn>
+  <isbn13><![CDATA[9781101967386]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515608665l/36614133._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515608665l/36614133._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Ballantine Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The bestselling author of The Paris Wife returns to the subject of Ernest Hemingway in a novel about his passionate, stormy marriage to Martha Gellhorn—a fiercely independent, ambitious young woman who would become one of the greatest war correspondents of the twentieth century<br /> <br />In 1937, twenty-eight-year-old Martha travels alone to Madrid to report on the atrocities of the Spanish Civil War and becomes drawn to the stories of ordinary people caught in devastating conflict. She also finds herself unexpectedly—and uncontrollably—falling in love with Hemingway, a man already on his way to becoming a legend. In the shadow of the impending Second World War, and set against the tumultuous backdrops of Madrid, Finland, China, Key West, and especially Cuba, where Martha and Ernest make their home, their relationship and professional careers ignite. But when Ernest publishes the biggest literary success of his career, For Whom the Bell Tolls, they are no longer equals, and Martha must make a choice: surrender to the confining demands of being a famous man's wife or risk losing Ernest by forging a path as her own woman and writer. It is a dilemma that will force her to break his heart, and her own.]]></description>
+  <work>
+  <id type="integer">58253601</id>
+  <books_count type="integer">34</books_count>
+  <best_book_id type="integer">36529552</best_book_id>
+  <reviews_count type="integer">66484</reviews_count>
+  <ratings_sum type="integer">69379</ratings_sum>
+  <ratings_count type="integer">18079</ratings_count>
+  <text_reviews_count type="integer">2294</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Love and Ruin</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4689|4:7668|3:4289|2:962|1:471|total:18079</rating_dist>
+  <desc_user_id type="integer">39669069</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.3QFFwfdf37vfB0Cq9Xhcnw</work_uri>
+</work>
+  <average_rating>3.84</average_rating>
+  <num_pages><![CDATA[389]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1615]]></ratings_count>
+  <text_reviews_count><![CDATA[327]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36614133-love-and-ruin]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36614133-love-and-ruin]]></link>
+  <authors>
+<author>
+<id>290189</id>
+<name>Paula McLain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521037060p5/290189.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521037060p2/290189.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/290189.Paula_McLain]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>338929</ratings_count>
+<text_reviews_count>31551</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36614133-love-and-ruin">Love and Ruin Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101967382&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36614133-love-and-ruin?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="37936"/>
+      <shelf name="currently-reading" count="3770"/>
+      <shelf name="historical-fiction" count="585"/>
+      <shelf name="fiction" count="214"/>
+      <shelf name="book-club" count="78"/>
+      <shelf name="netgalley" count="58"/>
+      <shelf name="kindle" count="53"/>
+      <shelf name="historical" count="47"/>
+      <shelf name="audio" count="43"/>
+      <shelf name="read-in-2018" count="43"/>
+      <shelf name="audiobooks" count="40"/>
+      <shelf name="library" count="40"/>
+      <shelf name="war" count="34"/>
+      <shelf name="audiobook" count="31"/>
+      <shelf name="romance" count="30"/>
+      <shelf name="favorites" count="30"/>
+      <shelf name="read-2018" count="29"/>
+      <shelf name="adult-fiction" count="28"/>
+      <shelf name="arc" count="25"/>
+      <shelf name="abandoned" count="24"/>
+      <shelf name="did-not-finish" count="24"/>
+      <shelf name="2018-reads" count="24"/>
+      <shelf name="giveaways" count="24"/>
+      <shelf name="books-i-own" count="23"/>
+      <shelf name="spain" count="23"/>
+      <shelf name="read-in-2019" count="22"/>
+      <shelf name="adult" count="22"/>
+      <shelf name="wwii" count="22"/>
+      <shelf name="audio-books" count="20"/>
+      <shelf name="audio-book" count="19"/>
+      <shelf name="history" count="18"/>
+      <shelf name="2018-books" count="18"/>
+      <shelf name="owned" count="17"/>
+      <shelf name="didn-t-finish" count="16"/>
+      <shelf name="cuba" count="16"/>
+      <shelf name="ebook" count="15"/>
+      <shelf name="library-book" count="15"/>
+      <shelf name="net-galley" count="15"/>
+      <shelf name="read-2019" count="14"/>
+      <shelf name="biography" count="14"/>
+      <shelf name="literary-fiction" count="14"/>
+      <shelf name="biographical-fiction" count="13"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="owned-books" count="12"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="ebooks" count="12"/>
+      <shelf name="overdrive" count="11"/>
+      <shelf name="2018-read" count="11"/>
+      <shelf name="hemingway" count="11"/>
+      <shelf name="2019-books" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="couldn-t-finish" count="9"/>
+      <shelf name="unfinished" count="9"/>
+      <shelf name="2018-books-read" count="9"/>
+      <shelf name="summer-2018" count="9"/>
+      <shelf name="marriage" count="9"/>
+      <shelf name="arcs" count="9"/>
+      <shelf name="writing" count="9"/>
+      <shelf name="20th-century" count="9"/>
+      <shelf name="2019-reads" count="8"/>
+      <shelf name="2019-read" count="8"/>
+      <shelf name="books-read-in-2018" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="historic-fiction" count="8"/>
+      <shelf name="relationships" count="8"/>
+      <shelf name="paula-mclain" count="8"/>
+      <shelf name="e-book" count="8"/>
+      <shelf name="first-reads" count="8"/>
+      <shelf name="1930s" count="8"/>
+      <shelf name="bookclub" count="8"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="2019-challenge" count="7"/>
+      <shelf name="finished" count="7"/>
+      <shelf name="drama" count="7"/>
+      <shelf name="2018-releases" count="7"/>
+      <shelf name="want-to-read" count="7"/>
+      <shelf name="2018-reading-challenge" count="7"/>
+      <shelf name="historical-romance" count="7"/>
+      <shelf name="contemporary" count="7"/>
+      <shelf name="have" count="6"/>
+      <shelf name="own-kindle" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="could-not-finish" count="6"/>
+      <shelf name="2018-challenge" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="novels" count="6"/>
+      <shelf name="europe" count="6"/>
+      <shelf name="skimm-reads" count="6"/>
+      <shelf name="audible" count="6"/>
+      <shelf name="need-to-buy" count="6"/>
+      <shelf name="literature" count="6"/>
+      <shelf name="women-s-fiction" count="6"/>
+      <shelf name="non-fiction" count="6"/>
+      <shelf name="2019-reading-challenge" count="5"/>
+      <shelf name="kindle-books" count="5"/>
+      <shelf name="journalism" count="5"/>
+      <shelf name="adult-historical-fiction" count="5"/>
+      <shelf name="recommended" count="5"/>
+      <shelf name="finland" count="5"/>
+      <shelf name="china" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>36381085</id>
+<title>The Summer Wives</title>
+<title_without_series>The Summer Wives</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36381085-the-summer-wives]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509586304l/36381085._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509586304l/36381085._SX98_.jpg]]></image_url>
+<num_pages>371</num_pages>
+<work>
+<id>56364131</id>
+</work>
+<isbn>0062660349</isbn>
+<isbn13>9780062660343</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>4927506</id>
+<name>Beatriz Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4927506.Beatriz_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40988979</id>
+<title>Lost Roses (Lilac Girls #2)</title>
+<title_without_series>Lost Roses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40988979-lost-roses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536843020l/40988979._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536843020l/40988979._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>55023202</id>
+</work>
+<isbn>1524796379</isbn>
+<isbn13>9781524796372</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>14160478</id>
+<name>Martha Hall Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14160478.Martha_Hall_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35876524</id>
+<title>White Houses</title>
+<title_without_series>White Houses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35876524-white-houses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506236718l/35876524._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506236718l/35876524._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>57394344</id>
+</work>
+<isbn>0525589929</isbn>
+<isbn13>9780525589921</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>115220</id>
+<name>Amy Bloom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/115220.Amy_Bloom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34374628</id>
+<title>Next Year in Havana</title>
+<title_without_series>Next Year in Havana</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34374628-next-year-in-havana]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498524468l/34374628._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498524468l/34374628._SX98_.jpg]]></image_url>
+<num_pages>361</num_pages>
+<work>
+<id>55459615</id>
+</work>
+<isbn>0399586687</isbn>
+<isbn13>9780399586682</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7383025</id>
+<name>Chanel Cleeton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7383025.Chanel_Cleeton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36645972</id>
+<title>Clock Dance</title>
+<title_without_series>Clock Dance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36645972-clock-dance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530555151l/36645972._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530555151l/36645972._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>58417089</id>
+</work>
+<isbn>1784742449</isbn>
+<isbn13>9781784742447</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>457</id>
+<name>Anne Tyler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457.Anne_Tyler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39816076</id>
+<title>The Lost Girls of Paris</title>
+<title_without_series>The Lost Girls of Paris</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39816076-the-lost-girls-of-paris]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527997527l/39816076._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527997527l/39816076._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>61573651</id>
+</work>
+<isbn>0778330273</isbn>
+<isbn13>9780778330271</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>213562</id>
+<name>Pam Jenoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213562.Pam_Jenoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37504654</id>
+<title>The Masterpiece</title>
+<title_without_series>The Masterpiece</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37504654-the-masterpiece]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513199542l/37504654._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513199542l/37504654._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>59112137</id>
+</work>
+<isbn>1524742953</isbn>
+<isbn13>9781524742959</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14903705</id>
+<name>Fiona  Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14903705.Fiona_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44318414</id>
+<title>The Dutch House</title>
+<title_without_series>The Dutch House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44318414-the-dutch-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68864841</id>
+</work>
+<isbn>0062963678</isbn>
+<isbn13>9780062963673</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7136914</id>
+<name>Ann Patchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7136914.Ann_Patchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38376046</id>
+<title>The Huntress</title>
+<title_without_series>The Huntress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38376046-the-huntress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534172306l/38376046._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534172306l/38376046._SX98_.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>60039109</id>
+</work>
+<isbn>0062740385</isbn>
+<isbn13>9780062740380</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>2974095</id>
+<name>Kate Quinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2974095.Kate_Quinn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41708180</id>
+<title>Mistress of the Ritz</title>
+<title_without_series>Mistress of the Ritz</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41708180-mistress-of-the-ritz]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541283746l/41708180._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541283746l/41708180._SX98_.jpg]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>64910115</id>
+</work>
+<isbn>0399182241</isbn>
+<isbn13>9780399182242</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>2958717</id>
+<name>Melanie Benjamin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2958717.Melanie_Benjamin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40538657</id>
+<title>The Island of Sea Women</title>
+<title_without_series>The Island of Sea Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40538657-the-island-of-sea-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549839392l/40538657._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549839392l/40538657._SX98_.jpg]]></image_url>
+<num_pages>374</num_pages>
+<work>
+<id>62803411</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>713</id>
+<name>Lisa See</name>
+<link><![CDATA[https://www.goodreads.com/author/show/713.Lisa_See]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41138424</id>
+<title>The Guest Book</title>
+<title_without_series>The Guest Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41138424-the-guest-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538159371l/41138424._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538159371l/41138424._SX98_.jpg]]></image_url>
+<num_pages>484</num_pages>
+<work>
+<id>64288056</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>179578</id>
+<name>Sarah Blake</name>
+<link><![CDATA[https://www.goodreads.com/author/show/179578.Sarah_Blake]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41014257</id>
+<title><![CDATA[My Dear Hamilton: A Novel of Eliza Schuyler Hamilton]]></title>
+<title_without_series><![CDATA[My Dear Hamilton: A Novel of Eliza Schuyler Hamilton]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41014257-my-dear-hamilton]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533052327l/41014257._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533052327l/41014257._SX98_.jpg]]></image_url>
+<num_pages>652</num_pages>
+<work>
+<id>56364049</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4072332</id>
+<name>Stephanie Dray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4072332.Stephanie_Dray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37638194</id>
+<title><![CDATA[A Well-Behaved Woman: A Novel of the Vanderbilts]]></title>
+<title_without_series><![CDATA[A Well-Behaved Woman: A Novel of the Vanderbilts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37638194-a-well-behaved-woman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517996842l/37638194._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517996842l/37638194._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>59225592</id>
+</work>
+<isbn>1250095476</isbn>
+<isbn13>9781250095473</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6521646</id>
+<name>Therese Anne Fowler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6521646.Therese_Anne_Fowler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37959904</id>
+<title>Unsheltered</title>
+<title_without_series>Unsheltered</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37959904-unsheltered]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59686314</id>
+</work>
+<isbn>0062865501</isbn>
+<isbn13>9780062865502</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3541</id>
+<name>Barbara Kingsolver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3541.Barbara_Kingsolver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42135029</id>
+<title>City of Girls</title>
+<title_without_series>City of Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42135029-city-of-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545498817l/42135029._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545498817l/42135029._SX98_.jpg]]></image_url>
+<num_pages>470</num_pages>
+<work>
+<id>65729493</id>
+</work>
+<isbn>1594634734</isbn>
+<isbn13>9781594634734</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>11679</id>
+<name>Elizabeth Gilbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11679.Elizabeth_Gilbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42282946</id>
+<title>The Golden Hour</title>
+<title_without_series>The Golden Hour</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42282946-the-golden-hour]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545848891l/42282946._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545848891l/42282946._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>68944872</id>
+</work>
+<isbn>0062834754</isbn>
+<isbn13>9780062834751</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>18079</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>4927506</id>
+<name>Beatriz Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4927506.Beatriz_Williams]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24728470</id>
+  <title>M Train</title>
+  <isbn><![CDATA[1101875100]]></isbn>
+  <isbn13><![CDATA[9781101875100]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429289871l/24728470._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429289871l/24728470._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Knopf</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[M Train begins in the tiny Greenwich Village café where Smith goes every morning for black coffee, ruminates on the world as it is and the world as it was, and writes in her notebook. Through prose that shifts fluidly between dreams and reality, past and present, we travel to Frida Kahlo's Casa Azul in Mexico; to the fertile moon terrain of Iceland; to a ramshackle seaside bungalow in New York's Far Rockaway that Smith acquires just before Hurricane Sandy hits; to the West 4th Street subway station, filled with the sounds of the Velvet Underground after the death of Lou Reed; and to the graves of Genet, Plath, Rimbaud, and Mishima.<br />Woven throughout are reflections on the writer's craft and on artistic creation. Here, too, are singular memories of Smith's life in Michigan and the irremediable loss of her husband, Fred Sonic Smith.<br />Braiding despair with hope and consolation, illustrated with her signature Polaroids, M Train is a meditation on travel, detective shows, literature, and coffee. It is a powerful, deeply moving book by one of the most remarkable multiplatform artists at work today.]]></description>
+  <work>
+  <id type="integer">43579550</id>
+  <books_count type="integer">53</books_count>
+  <best_book_id type="integer">24728470</best_book_id>
+  <reviews_count type="integer">71545</reviews_count>
+  <ratings_sum type="integer">104292</ratings_sum>
+  <ratings_count type="integer">26146</ratings_count>
+  <text_reviews_count type="integer">2681</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">6</original_publication_day>
+  <original_title>M Train</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9863|4:9210|3:4821|2:1422|1:830|total:26146</rating_dist>
+  <desc_user_id type="integer">1237196</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.LqcAJ7hRVI4gD1V-q_atgg</work_uri>
+</work>
+  <average_rating>3.99</average_rating>
+  <num_pages><![CDATA[256]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21522]]></ratings_count>
+  <text_reviews_count><![CDATA[2053]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24728470-m-train]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24728470-m-train]]></link>
+  <authors>
+<author>
+<id>196092</id>
+<name>Patti Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564508308p5/196092.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564508308p2/196092.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/196092.Patti_Smith]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>205944</ratings_count>
+<text_reviews_count>15011</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24728470-m-train">M Train Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101875100&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/24728470-m-train?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="39437"/>
+      <shelf name="currently-reading" count="1973"/>
+      <shelf name="non-fiction" count="565"/>
+      <shelf name="memoir" count="500"/>
+      <shelf name="favorites" count="336"/>
+      <shelf name="music" count="257"/>
+      <shelf name="nonfiction" count="239"/>
+      <shelf name="biography" count="205"/>
+      <shelf name="memoirs" count="135"/>
+      <shelf name="biography-memoir" count="102"/>
+      <shelf name="autobiography" count="79"/>
+      <shelf name="poetry" count="65"/>
+      <shelf name="owned" count="62"/>
+      <shelf name="art" count="60"/>
+      <shelf name="travel" count="58"/>
+      <shelf name="audiobook" count="55"/>
+      <shelf name="books-i-own" count="51"/>
+      <shelf name="audiobooks" count="51"/>
+      <shelf name="essays" count="45"/>
+      <shelf name="memoir-biography" count="45"/>
+      <shelf name="favourites" count="43"/>
+      <shelf name="library" count="42"/>
+      <shelf name="read-in-2016" count="41"/>
+      <shelf name="new-york" count="41"/>
+      <shelf name="abandoned" count="39"/>
+      <shelf name="to-buy" count="36"/>
+      <shelf name="owned-books" count="34"/>
+      <shelf name="audio" count="33"/>
+      <shelf name="read-in-2015" count="32"/>
+      <shelf name="read-2016" count="31"/>
+      <shelf name="american" count="30"/>
+      <shelf name="book-club" count="28"/>
+      <shelf name="biographies" count="28"/>
+      <shelf name="women" count="28"/>
+      <shelf name="read-in-2017" count="27"/>
+      <shelf name="autobiography-memoir" count="26"/>
+      <shelf name="writing" count="24"/>
+      <shelf name="nyc" count="23"/>
+      <shelf name="2016-reads" count="22"/>
+      <shelf name="bio-memoir" count="22"/>
+      <shelf name="ebook" count="21"/>
+      <shelf name="2016-books" count="20"/>
+      <shelf name="bio" count="20"/>
+      <shelf name="usa" count="19"/>
+      <shelf name="female-authors" count="18"/>
+      <shelf name="contemporary" count="18"/>
+      <shelf name="photography" count="17"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="biography-and-memoir" count="16"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="read-2017" count="14"/>
+      <shelf name="audio-book" count="14"/>
+      <shelf name="literature" count="14"/>
+      <shelf name="english" count="14"/>
+      <shelf name="kindle" count="14"/>
+      <shelf name="female-author" count="13"/>
+      <shelf name="unfinished" count="13"/>
+      <shelf name="new-york-city" count="13"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="audio-books" count="12"/>
+      <shelf name="didn-t-finish" count="12"/>
+      <shelf name="memoir-autobiography" count="12"/>
+      <shelf name="american-literature" count="12"/>
+      <shelf name="memoir-bio" count="12"/>
+      <shelf name="americana" count="11"/>
+      <shelf name="adult" count="11"/>
+      <shelf name="21st-century" count="11"/>
+      <shelf name="biographies-memoirs" count="11"/>
+      <shelf name="creativity" count="11"/>
+      <shelf name="read-in-2019" count="10"/>
+      <shelf name="read-in-2018" count="10"/>
+      <shelf name="women-writers" count="10"/>
+      <shelf name="biographies-and-memoirs" count="10"/>
+      <shelf name="women-authors" count="10"/>
+      <shelf name="auto-biography" count="10"/>
+      <shelf name="on-writing" count="10"/>
+      <shelf name="ebooks" count="10"/>
+      <shelf name="read-2015" count="10"/>
+      <shelf name="non-fiction-to-read" count="10"/>
+      <shelf name="feminism" count="9"/>
+      <shelf name="books-read-in-2016" count="9"/>
+      <shelf name="did-not-finish" count="9"/>
+      <shelf name="on-my-shelf" count="9"/>
+      <shelf name="e-book" count="9"/>
+      <shelf name="favorite-books" count="9"/>
+      <shelf name="punk" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="to-read-non-fiction" count="9"/>
+      <shelf name="2016-read" count="8"/>
+      <shelf name="america" count="8"/>
+      <shelf name="biography-autobiography" count="8"/>
+      <shelf name="couldn-t-finish" count="8"/>
+      <shelf name="borrowed" count="8"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="japan" count="8"/>
+      <shelf name="biographical" count="8"/>
+      <shelf name="books-to-buy" count="7"/>
+      <shelf name="non-fic" count="7"/>
+      <shelf name="read-in-english" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>22693211</id>
+<title>Girl in a Band</title>
+<title_without_series>Girl in a Band</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22693211-girl-in-a-band]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412840109l/22693211._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412840109l/22693211._SX98_.jpg]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>42205774</id>
+</work>
+<isbn>0062295896</isbn>
+<isbn13>9780062295897</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>362852</id>
+<name>Kim Gordon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/362852.Kim_Gordon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>788587</id>
+<title><![CDATA[Patti Smith: An Unauthorized Biography]]></title>
+<title_without_series><![CDATA[Patti Smith: An Unauthorized Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/788587.Patti_Smith]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1043058</id>
+</work>
+<isbn>0684823632</isbn>
+<isbn13>9780684823638</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>13463</id>
+<name>Victor Bockris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13463.Victor_Bockris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25065629</id>
+<title>Hunger Makes Me a Modern Girl</title>
+<title_without_series>Hunger Makes Me a Modern Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25065629-hunger-makes-me-a-modern-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435507354l/25065629._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435507354l/25065629._SX98_.jpg]]></image_url>
+<num_pages>244</num_pages>
+<work>
+<id>44749816</id>
+</work>
+<isbn>1594486638</isbn>
+<isbn13>9781594486630</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1026791</id>
+<name>Carrie Brownstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1026791.Carrie_Brownstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11275</id>
+<title>The Wind-Up Bird Chronicle</title>
+<title_without_series>The Wind-Up Bird Chronicle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872639l/11275._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872639l/11275._SX98_.jpg]]></image_url>
+<num_pages>607</num_pages>
+<work>
+<id>2531376</id>
+</work>
+<isbn>0965341984</isbn>
+<isbn13>9780965341981</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>424</id>
+<title>Slouching Towards Bethlehem</title>
+<title_without_series>Slouching Towards Bethlehem</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/424.Slouching_Towards_Bethlehem]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565376368l/424._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565376368l/424._SX98_.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>1844</id>
+</work>
+<isbn>0374521727</isbn>
+<isbn13>9780374521721</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>238</id>
+<name>Joan Didion</name>
+<link><![CDATA[https://www.goodreads.com/author/show/238.Joan_Didion]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40654363</id>
+<title>Tunnel Vision</title>
+<title_without_series>Tunnel Vision</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40654363-tunnel-vision]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552103194l/40654363._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552103194l/40654363._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63183360</id>
+</work>
+<isbn>0571340083</isbn>
+<isbn13>9780571340088</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>18157823</id>
+<name>Kevin Breathnach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18157823.Kevin_Breathnach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2053472</id>
+<title>Wicked But Virtuous</title>
+<title_without_series>Wicked But Virtuous</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2053472.Wicked_But_Virtuous]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2118362</id>
+</work>
+<isbn>0670880396</isbn>
+<isbn13>9780670880393</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>933130</id>
+<name>Mirka Mora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/933130.Mirka_Mora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6798263</id>
+<title>Bluets</title>
+<title_without_series>Bluets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6798263-bluets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354902976l/6798263._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354902976l/6798263._SX98_.jpg]]></image_url>
+<num_pages>98</num_pages>
+<work>
+<id>7003912</id>
+</work>
+<isbn>1933517409</isbn>
+<isbn13>9781933517407</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>58605</id>
+<name>Maggie Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58605.Maggie_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7815</id>
+<title>The Year of Magical Thinking</title>
+<title_without_series>The Year of Magical Thinking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7815.The_Year_of_Magical_Thinking]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878638l/7815._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878638l/7815._SX98_.jpg]]></image_url>
+<num_pages>227</num_pages>
+<work>
+<id>1659905</id>
+</work>
+<isbn>1400078431</isbn>
+<isbn13>9781400078431</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>238</id>
+<name>Joan Didion</name>
+<link><![CDATA[https://www.goodreads.com/author/show/238.Joan_Didion]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44279110</id>
+<title><![CDATA[My Year of Rest and Relaxation]]></title>
+<title_without_series><![CDATA[My Year of Rest and Relaxation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44279110-my-year-of-rest-and-relaxation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>55508660</id>
+</work>
+<isbn>0525522131</isbn>
+<isbn13>9780525522133</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3276202</id>
+<name>Ottessa Moshfegh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3276202.Ottessa_Moshfegh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>88444</id>
+<title>After Nature</title>
+<title_without_series>After Nature</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88444.After_Nature]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320451449l/88444._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320451449l/88444._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>17952187</id>
+</work>
+<isbn>0375756582</isbn>
+<isbn13>9780375756580</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6580622</id>
+<name>W.G. Sebald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6580622.W_G_Sebald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36820477</id>
+<title><![CDATA[The Cost of Living: A Working Autobiography]]></title>
+<title_without_series><![CDATA[The Cost of Living: A Working Autobiography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36820477-the-cost-of-living]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513713760l/36820477._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513713760l/36820477._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>58043514</id>
+</work>
+<isbn>163557191X</isbn>
+<isbn13>9781635571912</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>147246</id>
+<name>Deborah Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147246.Deborah_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>421</id>
+<title>The White Album</title>
+<title_without_series>The White Album</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/421.The_White_Album]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>682500</id>
+</work>
+<isbn>0374522219</isbn>
+<isbn13>9780374522216</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>238</id>
+<name>Joan Didion</name>
+<link><![CDATA[https://www.goodreads.com/author/show/238.Joan_Didion]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10252302</id>
+<title>Blue Nights</title>
+<title_without_series>Blue Nights</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10252302-blue-nights]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319148558l/10252302._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319148558l/10252302._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>15152485</id>
+</work>
+<isbn>0307267679</isbn>
+<isbn13>9780307267672</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>238</id>
+<name>Joan Didion</name>
+<link><![CDATA[https://www.goodreads.com/author/show/238.Joan_Didion]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32187419</id>
+<title>Conversations with Friends</title>
+<title_without_series>Conversations with Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32187419-conversations-with-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>52827120</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18913505</id>
+<title>Mapa dibujado por un espía</title>
+<title_without_series>Mapa dibujado por un espía</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18913505-mapa-dibujado-por-un-esp-a]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385240505l/18913505._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385240505l/18913505._SX98_.jpg]]></image_url>
+<num_pages>396</num_pages>
+<work>
+<id>26919201</id>
+</work>
+<isbn></isbn>
+<isbn13>9788415472766</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>49326</id>
+<name>Guillermo Cabrera Infante</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49326.Guillermo_Cabrera_Infante]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25667449</id>
+<title><![CDATA[The Lonely City: Adventures in the Art of Being Alone]]></title>
+<title_without_series><![CDATA[The Lonely City: Adventures in the Art of Being Alone]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25667449-the-lonely-city]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039964l/25667449._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039964l/25667449._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>45123764</id>
+</work>
+<isbn>1250039576</isbn>
+<isbn13>9781250039576</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4463840</id>
+<name>Olivia Laing</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4463840.Olivia_Laing]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>341875</id>
+<title>Patti Smith: American Artist</title>
+<title_without_series>Patti Smith: American Artist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/341875.Patti_Smith]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>164</num_pages>
+<work>
+<id>332238</id>
+</work>
+<isbn>1933784067</isbn>
+<isbn13>9781933784069</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>26146</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>196091</id>
+<name>Frank Stefanko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/196091.Frank_Stefanko]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

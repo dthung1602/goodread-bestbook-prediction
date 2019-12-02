@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22571629</id>
+  <title>The Architect&apos;s Apprentice</title>
+  <isbn><![CDATA[052542797X]]></isbn>
+  <isbn13><![CDATA[9780525427971]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404484149l/22571629._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404484149l/22571629._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>Viking</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>From the acclaimed author of <i>The Bastard of Istanbul</i>, a colorful, magical tale set during the height of the Ottoman Empire</b><br /><br /> In her latest novel, Elif Shafak spins an epic tale spanning nearly a century in the life of the Ottoman Empire. In 1540, twelve-year-old Jahan arrives in Istanbul. As an animal tamer in the sultan’s menagerie, he looks after the exceptionally smart elephant Chota and befriends (and falls for) the sultan’s beautiful daughter, Princess Mihrimah. A palace education leads Jahan to Mimar Sinan, the empire’s chief architect, who takes Jahan under his wing as they construct (with Chota’s help) some of the most magnificent buildings in history. Yet even as they build Sinan’s triumphant masterpieces—the incredible Suleymaniye and Selimiye mosques—dangerous undercurrents begin to emerge, with jealousy erupting among Sinan’s four apprentices.<br /><br /> A memorable story of artistic freedom, creativity, and the clash between science and fundamentalism, Shafak’s intricate novel brims with vibrant characters, intriguing adventure, and the lavish backdrop of the Ottoman court, where love and loyalty are no match for raw power.]]></description>
+  <work>
+  <id type="integer">27226028</id>
+  <books_count type="integer">62</books_count>
+  <best_book_id type="integer">22571629</best_book_id>
+  <reviews_count type="integer">47852</reviews_count>
+  <ratings_sum type="integer">50024</ratings_sum>
+  <ratings_count type="integer">12569</ratings_count>
+  <text_reviews_count type="integer">1751</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">13</original_publication_day>
+  <original_title>Ustam ve Ben</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4169|4:4989|3:2598|2:616|1:197|total:12569</rating_dist>
+  <desc_user_id type="integer">88260319</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.BOXs-MXZoGKjftcGZCxywg</work_uri>
+</work>
+  <average_rating>3.98</average_rating>
+  <num_pages><![CDATA[432]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[6052]]></ratings_count>
+  <text_reviews_count><![CDATA[706]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22571629-the-architect-s-apprentice]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22571629-the-architect-s-apprentice]]></link>
+  <authors>
+<author>
+<id>6542440</id>
+<name>Elif Shafak</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1395322919p5/6542440.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1395322919p2/6542440.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6542440.Elif_Shafak]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>209246</ratings_count>
+<text_reviews_count>25910</text_reviews_count>
+</author>
+<author>
+<id>16451455</id>
+<name>رضا اسکندری آذر</name>
+<role>translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1526827654p5/16451455.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1526827654p2/16451455.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16451455._]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>273</ratings_count>
+<text_reviews_count>78</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22571629-the-architect-s-apprentice">The Architect&#39;s Apprentice Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=052542797X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/22571629-the-architect-s-apprentice?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="30295"/>
+      <shelf name="currently-reading" count="1478"/>
+      <shelf name="historical-fiction" count="405"/>
+      <shelf name="fiction" count="231"/>
+      <shelf name="favorites" count="136"/>
+      <shelf name="owned" count="63"/>
+      <shelf name="turkey" count="60"/>
+      <shelf name="historical" count="56"/>
+      <shelf name="novels" count="52"/>
+      <shelf name="books-i-own" count="43"/>
+      <shelf name="middle-east" count="41"/>
+      <shelf name="elif-shafak" count="39"/>
+      <shelf name="to-buy" count="36"/>
+      <shelf name="history" count="33"/>
+      <shelf name="روايات" count="31"/>
+      <shelf name="turkish-literature" count="30"/>
+      <shelf name="book-club" count="26"/>
+      <shelf name="turkish" count="25"/>
+      <shelf name="wish-list" count="23"/>
+      <shelf name="مكتبتي" count="22"/>
+      <shelf name="library" count="22"/>
+      <shelf name="literature" count="21"/>
+      <shelf name="my-library" count="19"/>
+      <shelf name="ebook" count="18"/>
+      <shelf name="adult" count="18"/>
+      <shelf name="to-read-fiction" count="17"/>
+      <shelf name="tbr" count="17"/>
+      <shelf name="owned-books" count="17"/>
+      <shelf name="kindle" count="16"/>
+      <shelf name="literary-fiction" count="15"/>
+      <shelf name="novel" count="14"/>
+      <shelf name="abandoned" count="14"/>
+      <shelf name="favourites" count="13"/>
+      <shelf name="asia" count="13"/>
+      <shelf name="dnf" count="13"/>
+      <shelf name="architecture" count="13"/>
+      <shelf name="default" count="12"/>
+      <shelf name="في-مكتبتي" count="12"/>
+      <shelf name="ebooks" count="12"/>
+      <shelf name="did-not-finish" count="11"/>
+      <shelf name="إليف-شافاق" count="10"/>
+      <shelf name="translated" count="10"/>
+      <shelf name="istanbul" count="10"/>
+      <shelf name="first-reads" count="10"/>
+      <shelf name="bookclub" count="10"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="unfinished" count="9"/>
+      <shelf name="my-books" count="9"/>
+      <shelf name="adult-fiction" count="9"/>
+      <shelf name="to-get" count="9"/>
+      <shelf name="around-the-world" count="9"/>
+      <shelf name="ottoman-empire" count="8"/>
+      <shelf name="cultural" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="16th-century" count="8"/>
+      <shelf name="read-in-2015" count="8"/>
+      <shelf name="have" count="7"/>
+      <shelf name="e-book" count="7"/>
+      <shelf name="روايات-مترجمة" count="7"/>
+      <shelf name="must-read" count="7"/>
+      <shelf name="female-authors" count="7"/>
+      <shelf name="want-to-buy" count="7"/>
+      <shelf name="e-books" count="7"/>
+      <shelf name="scanned" count="7"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="sub" count="6"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="2016-books" count="6"/>
+      <shelf name="international" count="6"/>
+      <shelf name="read-in-2016" count="6"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="magical-realism" count="6"/>
+      <shelf name="رواية" count="6"/>
+      <shelf name="female-author" count="6"/>
+      <shelf name="animals" count="6"/>
+      <shelf name="general-fiction" count="6"/>
+      <shelf name="stand-alone" count="6"/>
+      <shelf name="favourite" count="6"/>
+      <shelf name="india" count="6"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="audiobook" count="5"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="bought" count="5"/>
+      <shelf name="أدب-مترجم" count="5"/>
+      <shelf name="stopped-reading" count="5"/>
+      <shelf name="مكتبتي-الورقية" count="5"/>
+      <shelf name="home-library" count="5"/>
+      <shelf name="fantasy" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="اليف-شافاق" count="5"/>
+      <shelf name="مترجم" count="5"/>
+      <shelf name="audible" count="5"/>
+      <shelf name="historical-fiction-to-read" count="5"/>
+      <shelf name="arabic" count="5"/>
+      <shelf name="أدب-عالمي" count="5"/>
+      <shelf name="favorite" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="pdf" count="5"/>
+      <shelf name="أليف-شافاق" count="5"/>
+      <shelf name="fiction-historical" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>3438000</id>
+<title>ثلاثية غرناطة</title>
+<title_without_series>ثلاثية غرناطة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3438000]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503755688l/3438000._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503755688l/3438000._SX98_.jpg]]></image_url>
+<num_pages>502</num_pages>
+<work>
+<id>3479009</id>
+</work>
+<isbn>9770907375</isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1446194</id>
+<name>رضوى عاشور</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1446194._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15808573</id>
+<title><![CDATA[Piruze - Şam'da Bir Türk Gelin]]></title>
+<title_without_series><![CDATA[Piruze - Şam'da Bir Türk Gelin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15808573-piruze---am-da-bir-t-rk-gelin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344465169l/15808573._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344465169l/15808573._SX98_.jpg]]></image_url>
+<num_pages>453</num_pages>
+<work>
+<id>21533213</id>
+</work>
+<isbn></isbn>
+<isbn13>9786051063058</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3158426</id>
+<name>Sinan Akyüz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3158426.Sinan_Aky_z]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2517</id>
+<title>My Name Is Red</title>
+<title_without_series>My Name Is Red</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2517.My_Name_Is_Red]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450869l/2517._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450869l/2517._SX98_.jpg]]></image_url>
+<num_pages>417</num_pages>
+<work>
+<id>2150886</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1728</id>
+<name>Orhan Pamuk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1728.Orhan_Pamuk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1546842</id>
+<title>İsyan Günlerinde Aşk</title>
+<title_without_series>İsyan Günlerinde Aşk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1546842._syan_G_nlerinde_A_k]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473516273l/1546842._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473516273l/1546842._SX98_.jpg]]></image_url>
+<num_pages>468</num_pages>
+<work>
+<id>1539146</id>
+</work>
+<isbn>9750700902</isbn>
+<isbn13>9789750700903</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>604010</id>
+<name>Ahmet Altan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/604010.Ahmet_Altan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10202570</id>
+<title>Hayat</title>
+<title_without_series>Hayat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10202570-hayat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381242926l/10202570._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381242926l/10202570._SX98_.jpg]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>15101881</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2882488</id>
+<name>Ayşe Kulin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2882488.Ay_e_Kulin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6177641</id>
+<title>Veda: Esir Şehirde Bir Konak</title>
+<title_without_series>Veda: Esir Şehirde Bir Konak</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6177641-veda]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328378910l/6177641._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328378910l/6177641._SX98_.jpg]]></image_url>
+<num_pages>390</num_pages>
+<work>
+<id>6357431</id>
+</work>
+<isbn>9752894402</isbn>
+<isbn13>9789752894402</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2882488</id>
+<name>Ayşe Kulin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2882488.Ay_e_Kulin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29414792</id>
+<title>موت صغير</title>
+<title_without_series>موت صغير</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29414792]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457081513l/29414792._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457081513l/29414792._SX98_.jpg]]></image_url>
+<num_pages>592</num_pages>
+<work>
+<id>49672760</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>1344300</id>
+<name>محمد حسن علوان</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1344300._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16115612</id>
+<title>And the Mountains Echoed</title>
+<title_without_series>And the Mountains Echoed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16115612-and-the-mountains-echoed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358190204l/16115612._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358190204l/16115612._SX98_.jpg]]></image_url>
+<num_pages>404</num_pages>
+<work>
+<id>21933087</id>
+</work>
+<isbn>159463176X</isbn>
+<isbn13>9781594631764</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>569</id>
+<name>Khaled Hosseini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36486828</id>
+<title>حمام الدار</title>
+<title_without_series>حمام الدار</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36486828]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509117885l/36486828._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509117885l/36486828._SX98_.jpg]]></image_url>
+<num_pages>182</num_pages>
+<work>
+<id>58198794</id>
+</work>
+<isbn></isbn>
+<isbn13>9786140123779</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4603829</id>
+<name>سعود السنعوسي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4603829._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>142395</id>
+<title>Samarkand</title>
+<title_without_series>Samarkand</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/142395.Samarkand]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327995121l/142395._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327995121l/142395._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>2944319</id>
+</work>
+<isbn>1566562937</isbn>
+<isbn13>9781566562935</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>36378</id>
+<name>Amin Maalouf</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36378.Amin_Maalouf]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46829971</id>
+<title>Celestial Bodies</title>
+<title_without_series>Celestial Bodies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46829971-celestial-bodies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562822902l/46829971._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562822902l/46829971._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>14808230</id>
+</work>
+<isbn>1948226944</isbn>
+<isbn13>9781948226943</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>17883580</id>
+<name>Jokha Alharthi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17883580.Jokha_Alharthi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>220826</id>
+<title>Kürk Mantolu Madonna</title>
+<title_without_series>Kürk Mantolu Madonna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/220826.K_rk_Mantolu_Madonna]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362477552l/220826._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362477552l/220826._SY160_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>213828</id>
+</work>
+<isbn>9753638027</isbn>
+<isbn13>9789753638027</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>116623</id>
+<name>Sabahattin Ali</name>
+<link><![CDATA[https://www.goodreads.com/author/show/116623.Sabahattin_Ali]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16226174</id>
+<title>الحريم: رحلة حب</title>
+<title_without_series>الحريم: رحلة حب</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16226174]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354596318l/16226174._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354596318l/16226174._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>22216431</id>
+</work>
+<isbn></isbn>
+<isbn13>9786140105348</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>1107932</id>
+<name>Aslı Sancar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1107932.Asl_Sancar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43590059</id>
+<title>Beyaz Diş</title>
+<title_without_series>Beyaz Diş</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43590059-beyaz-di]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547645004l/43590059._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547645004l/43590059._SX98_.jpg]]></image_url>
+<num_pages>75</num_pages>
+<work>
+<id>67819528</id>
+</work>
+<isbn>9786052951</isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>1906</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1240</id>
+<name>Jack London</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1240.Jack_London]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24997390</id>
+<title>A Strangeness in My Mind</title>
+<title_without_series>A Strangeness in My Mind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24997390-a-strangeness-in-my-mind]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450367279l/24997390._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450367279l/24997390._SX98_.jpg]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>43247607</id>
+</work>
+<isbn>0571275974</isbn>
+<isbn13>9780571275977</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1728</id>
+<name>Orhan Pamuk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1728.Orhan_Pamuk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47888681</id>
+<title>ناقة صالحة</title>
+<title_without_series>ناقة صالحة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47888681]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566554669l/47888681._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566554669l/47888681._SX98_.jpg]]></image_url>
+<num_pages>173</num_pages>
+<work>
+<id>73037529</id>
+</work>
+<isbn></isbn>
+<isbn13>9786140128880</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4603829</id>
+<name>سعود السنعوسي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4603829._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29505138</id>
+<title>Darul lui Serafim</title>
+<title_without_series>Darul lui Serafim</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29505138-darul-lui-serafim]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457958812l/29505138._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457958812l/29505138._SX98_.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>49794180</id>
+</work>
+<isbn>9732331372</isbn>
+<isbn13>9789732331378</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13759386</id>
+<name>Simona Antonescu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13759386.Simona_Antonescu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8239301</id>
+<title>الطنطورية</title>
+<title_without_series>الطنطورية</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8239301]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314481218l/8239301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314481218l/8239301._SX98_.jpg]]></image_url>
+<num_pages>463</num_pages>
+<work>
+<id>13086736</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>12569</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1446194</id>
+<name>رضوى عاشور</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1446194._]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

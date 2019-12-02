@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23287193</id>
+  <title>Born Survivors</title>
+  <isbn><![CDATA[0062370251]]></isbn>
+  <isbn13><![CDATA[9780062370259]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422216343l/23287193._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422216343l/23287193._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Harper</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Nazis murdered their husbands but concentration camp prisoners Priska, Rachel, and Anka would not let evil take their unborn children too—a remarkable true story that will appeal to readers of <em>The Lost</em> and <em>The Nazi Officer’s Wife, Born Survivors</em> celebrates three mothers who defied death to give their children life.<br /><br />Eastern Europe, 1944: Three women believe they are pregnant, but are torn from their husbands before they can be certain. Rachel is sent to Auschwitz, unaware that her husband has been shot. Priska and her husband travel there together, but are immediately separated. Also at Auschwitz, Anka hopes in vain to be reunited with her husband. With the rest of their families gassed, these young wives are determined to hold on to all they have left—their lives, and those of their unborn babies. Having concealed their condition from infamous Nazi doctor Josef Mengele, they are forced to work and almost starved to death, living in daily fear of their pregnancies being detected by the SS. In April 1945, as the Allies close in, the inmates are sent to Mauthausen concentration camp on a hellish seventeen-day train journey. <br /><br />On the seventieth anniversary of Mauthausen’s liberation from the Nazis by American soldiers, renowned biographer Wendy Holden recounts this extraordinary story of three children united by their mothers’ unbelievable—yet ultimately successful—fight for survival.]]></description>
+  <work>
+  <id type="integer">42803224</id>
+  <books_count type="integer">40</books_count>
+  <best_book_id type="integer">23287193</best_book_id>
+  <reviews_count type="integer">70000</reviews_count>
+  <ratings_sum type="integer">64283</ratings_sum>
+  <ratings_count type="integer">15226</ratings_count>
+  <text_reviews_count type="integer">1461</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>Born Survivors: Three Young Mothers and Their Extraordinary Story of Courage, Defiance, and Hope</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7897|4:4381|3:1860|2:606|1:482|total:15226</rating_dist>
+  <desc_user_id type="integer">-47</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.WyGjcGKg5LVBdzj1kclczw</work_uri>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[385]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8145]]></ratings_count>
+  <text_reviews_count><![CDATA[684]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23287193-born-survivors]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23287193-born-survivors]]></link>
+  <authors>
+<author>
+<id>6887358</id>
+<name>Wendy   Holden</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1363450348p5/6887358.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1363450348p2/6887358.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6887358.Wendy_Holden]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>19994</ratings_count>
+<text_reviews_count>2071</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23287193-born-survivors">Born Survivors Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062370251&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23287193-born-survivors?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="34564"/>
+      <shelf name="currently-reading" count="13815"/>
+      <shelf name="non-fiction" count="235"/>
+      <shelf name="history" count="230"/>
+      <shelf name="nonfiction" count="104"/>
+      <shelf name="holocaust" count="94"/>
+      <shelf name="wwii" count="68"/>
+      <shelf name="biography" count="60"/>
+      <shelf name="war" count="47"/>
+      <shelf name="historical" count="36"/>
+      <shelf name="world-war-ii" count="36"/>
+      <shelf name="kindle" count="35"/>
+      <shelf name="favorites" count="33"/>
+      <shelf name="ww2" count="33"/>
+      <shelf name="historical-fiction" count="31"/>
+      <shelf name="to-buy" count="29"/>
+      <shelf name="book-club" count="27"/>
+      <shelf name="memoir" count="20"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="biography-memoir" count="19"/>
+      <shelf name="library" count="19"/>
+      <shelf name="biographies" count="18"/>
+      <shelf name="ebook" count="17"/>
+      <shelf name="kindle-unlimited" count="15"/>
+      <shelf name="books-i-own" count="14"/>
+      <shelf name="ww-ii" count="13"/>
+      <shelf name="read-in-2018" count="12"/>
+      <shelf name="audiobook" count="12"/>
+      <shelf name="world-war-2" count="11"/>
+      <shelf name="adult" count="10"/>
+      <shelf name="non-fiction-to-read" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="2019-books" count="9"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="historical-non-fiction" count="9"/>
+      <shelf name="to-read-non-fiction" count="9"/>
+      <shelf name="fiction" count="8"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="need-to-buy" count="8"/>
+      <shelf name="women" count="8"/>
+      <shelf name="read-2018" count="7"/>
+      <shelf name="kindle-books" count="7"/>
+      <shelf name="holocausto" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="abandoned" count="7"/>
+      <shelf name="did-not-finish" count="7"/>
+      <shelf name="memoirs" count="7"/>
+      <shelf name="to-read-nonfiction" count="7"/>
+      <shelf name="adult-non-fiction" count="7"/>
+      <shelf name="must-read" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="historical-nonfiction" count="7"/>
+      <shelf name="read-in-2019" count="6"/>
+      <shelf name="read-2019" count="6"/>
+      <shelf name="i-own" count="6"/>
+      <shelf name="wendy-holden" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="memoir-biography" count="6"/>
+      <shelf name="germany" count="6"/>
+      <shelf name="wwii-holocaust" count="6"/>
+      <shelf name="prime-reading" count="5"/>
+      <shelf name="nao-ficção" count="5"/>
+      <shelf name="2018-books" count="5"/>
+      <shelf name="bio-memoir" count="5"/>
+      <shelf name="memoirs-biographies" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="want" count="5"/>
+      <shelf name="jewish" count="5"/>
+      <shelf name="recommended" count="5"/>
+      <shelf name="read-in-2015" count="5"/>
+      <shelf name="holocaust-books" count="5"/>
+      <shelf name="survival" count="5"/>
+      <shelf name="world-war-two" count="5"/>
+      <shelf name="real-life" count="5"/>
+      <shelf name="book-club-books" count="4"/>
+      <shelf name="didn-t-finish" count="4"/>
+      <shelf name="2018-reads" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="hoopla" count="4"/>
+      <shelf name="read-in-2017" count="4"/>
+      <shelf name="on-my-shelf" count="4"/>
+      <shelf name="to-get" count="4"/>
+      <shelf name="want-to-read" count="4"/>
+      <shelf name="to-read-history" count="4"/>
+      <shelf name="stopped-reading" count="4"/>
+      <shelf name="2016-reading-challenge" count="4"/>
+      <shelf name="drama" count="4"/>
+      <shelf name="non-fiction-history" count="4"/>
+      <shelf name="recommend" count="4"/>
+      <shelf name="done" count="4"/>
+      <shelf name="finished" count="4"/>
+      <shelf name="european-history" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="really-want-to-read" count="4"/>
+      <shelf name="europe" count="4"/>
+      <shelf name="got-for-christmas" count="3"/>
+      <shelf name="christmas-reading-list" count="3"/>
+      <shelf name="xmas-gift" count="3"/>
+      <shelf name="books-as-gifts" count="3"/>
+      <shelf name="favorite-reads" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>20890478</id>
+<title><![CDATA[Ravensbrück: Life and Death in Hitler's Concentration Camp for Women]]></title>
+<title_without_series><![CDATA[Ravensbrück: Life and Death in Hitler's Concentration Camp for Women]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20890478-ravensbr-ck]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400833322l/20890478._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400833322l/20890478._SX98_.jpg]]></image_url>
+<num_pages>768</num_pages>
+<work>
+<id>15752237</id>
+</work>
+<isbn>038552059X</isbn>
+<isbn13>9780385520591</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>265909</id>
+<name>Sarah Helm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/265909.Sarah_Helm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32165320</id>
+<title><![CDATA[First One In, Last One Out: Auschwitz Survivor 31321]]></title>
+<title_without_series><![CDATA[First One In, Last One Out: Auschwitz Survivor 31321]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32165320-first-one-in-last-one-out]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474736835l/32165320._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474736835l/32165320._SX98_.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>52802835</id>
+</work>
+<isbn>1533305498</isbn>
+<isbn13>9781533305497</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>15850764</id>
+<name>Marilyn Shimon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15850764.Marilyn_Shimon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18090167</id>
+<title><![CDATA[Such Good Girls: The Journey of the Hidden Child Survivors of the Holocaust]]></title>
+<title_without_series><![CDATA[Such Good Girls: The Journey of the Hidden Child Survivors of the Holocaust]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18090167-such-good-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179344l/18090167._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403179344l/18090167._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>28141291</id>
+</work>
+<isbn>0062297104</isbn>
+<isbn13>9780062297105</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>367661</id>
+<name>R.D. Rosen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/367661.R_D_Rosen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18505779</id>
+<title><![CDATA[50 Children: One Ordinary American Couple's Extraordinary Rescue Mission into the Heart of Nazi Germany]]></title>
+<title_without_series><![CDATA[50 Children: One Ordinary American Couple's Extraordinary Rescue Mission into the Heart of Nazi Germany]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18505779-50-children]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392578714l/18505779._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392578714l/18505779._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>26198795</id>
+</work>
+<isbn>0062237470</isbn>
+<isbn13>9780062237477</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>589536</id>
+<name>Steven Pressman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/589536.Steven_Pressman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31111462</id>
+<title><![CDATA[Sluta aldrig gå - Från gatan i Sao Paulo till Vindeln i Norrland]]></title>
+<title_without_series><![CDATA[Sluta aldrig gå - Från gatan i Sao Paulo till Vindeln i Norrland]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31111462-sluta-aldrig-g---fr-n-gatan-i-sao-paulo-till-vindeln-i-norrland]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468403076l/31111462._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468403076l/31111462._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>51715998</id>
+</work>
+<isbn></isbn>
+<isbn13>9789137146256</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>15481024</id>
+<name>Christina Rickardsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15481024.Christina_Rickardsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27879047</id>
+<title>De Amerikaanse prinses</title>
+<title_without_series>De Amerikaanse prinses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27879047-de-amerikaanse-prinses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>46184647</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>353749</id>
+<name>Annejet van der Zijl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/353749.Annejet_van_der_Zijl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44285117</id>
+<title>The Dressmaker&apos;s Gift</title>
+<title_without_series>The Dressmaker&apos;s Gift</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44285117-the-dressmaker-s-gift]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565791024l/44285117._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565791024l/44285117._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68801023</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5820694</id>
+<name>Fiona Valpy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5820694.Fiona_Valpy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8427894</id>
+<title>Theodore Roosevelt Trilogy</title>
+<title_without_series>Theodore Roosevelt Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8427894-theodore-roosevelt-trilogy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>2528</num_pages>
+<work>
+<id>19219960</id>
+</work>
+<isbn>0812958632</isbn>
+<isbn13>9780812958638</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>23013</id>
+<name>Edmund Morris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23013.Edmund_Morris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22715829</id>
+<title><![CDATA[When Books Went to War: The Stories that Helped Us Win World War II]]></title>
+<title_without_series><![CDATA[When Books Went to War: The Stories that Helped Us Win World War II]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22715829-when-books-went-to-war]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409807603l/22715829._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409807603l/22715829._SX98_.jpg]]></image_url>
+<num_pages>267</num_pages>
+<work>
+<id>42243064</id>
+</work>
+<isbn>0544535022</isbn>
+<isbn13>9780544535022</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>12</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6462160</id>
+<name>Molly Guptill Manning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6462160.Molly_Guptill_Manning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43159032</id>
+<title>A Fire Sparkling</title>
+<title_without_series>A Fire Sparkling</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43159032-a-fire-sparkling]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556857202l/43159032._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556857202l/43159032._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>66951994</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>186987</id>
+<name>Julianne MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/186987.Julianne_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22485178</id>
+<title>Finding Rebecca</title>
+<title_without_series>Finding Rebecca</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22485178-finding-rebecca]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408470442l/22485178._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408470442l/22485178._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>22246649</id>
+</work>
+<isbn>1477826106</isbn>
+<isbn13>9781477826102</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>6620682</id>
+<name>Eoin Dempsey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6620682.Eoin_Dempsey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43704650</id>
+<title><![CDATA[My Family's Survival: The true story of how the Shwartz family escaped the Nazis and survived the Holocaust]]></title>
+<title_without_series><![CDATA[My Family's Survival: The true story of how the Shwartz family escaped the Nazis and survived the Holocaust]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43704650-my-family-s-survival]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548441570l/43704650._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548441570l/43704650._SX98_.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>68008712</id>
+</work>
+<isbn>1794470204</isbn>
+<isbn13>9781794470200</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18820237</id>
+<name>Aviva Gat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18820237.Aviva_Gat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23481669</id>
+<title>Maude</title>
+<title_without_series>Maude</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23481669-maude]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>43072491</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3346050</id>
+<name>Donna Foley Mabry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3346050.Donna_Foley_Mabry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38096424</id>
+<title>The Ragged Edge of Night</title>
+<title_without_series>The Ragged Edge of Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38096424-the-ragged-edge-of-night]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534851337l/38096424._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534851337l/38096424._SX98_.jpg]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>59386159</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17547870</id>
+<name>Olivia Hawker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17547870.Olivia_Hawker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38503833</id>
+<title>A Curve in the Road</title>
+<title_without_series>A Curve in the Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38503833-a-curve-in-the-road]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530042587l/38503833._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530042587l/38503833._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>60142860</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>186987</id>
+<name>Julianne MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/186987.Julianne_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36529552</id>
+<title>Love and Ruin</title>
+<title_without_series>Love and Ruin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36529552-love-and-ruin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515333912l/36529552._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515333912l/36529552._SX98_.jpg]]></image_url>
+<num_pages>389</num_pages>
+<work>
+<id>58253601</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>290189</id>
+<name>Paula McLain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/290189.Paula_McLain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40968318</id>
+<title>The Beantown Girls</title>
+<title_without_series>The Beantown Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40968318-the-beantown-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540932752l/40968318._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540932752l/40968318._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63913427</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15711296</id>
+<name>Jane Healey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15711296.Jane_Healey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42931500</id>
+<title>The Rabbit Girls</title>
+<title_without_series>The Rabbit Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42931500-the-rabbit-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551498094l/42931500._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551498094l/42931500._SX98_.jpg]]></image_url>
+<num_pages>396</num_pages>
+<work>
+<id>66714129</id>
+</work>
+<isbn>1542094194</isbn>
+<isbn13>9781542094191</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>15226</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18642606</id>
+<name>Anna Ellory</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18642606.Anna_Ellory]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

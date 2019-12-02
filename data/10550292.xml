@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10550292</id>
+  <title>If You Give a Dog a Donut</title>
+  <isbn><![CDATA[006026683X]]></isbn>
+  <isbn13><![CDATA[9780060266837]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>Balzer + Bray</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[If you give a dog a donut, he’ll ask for some apple juice to go with it.<br /><br />When you give him the juice, he’ll drink it all up.<br /><br />Then, before you can say “Woof” . . . Dog is off on a backyard adventure!<br /><br />The exuberant dog who first appeared in if you give a pig a party is now the star of his very own book. Written in the irresistible “If You Give…” tradition, if you give a dog a donut is another home run from the beloved team of Laura Numeroff and Felicia Bond.]]></description>
+  <work>
+  <id type="integer">15456917</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">10550292</best_book_id>
+  <reviews_count type="integer">6937</reviews_count>
+  <ratings_sum type="integer">14558</ratings_sum>
+  <ratings_count type="integer">3682</ratings_count>
+  <text_reviews_count type="integer">369</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">4</original_publication_day>
+  <original_title>If You Give a Dog a Donut</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1363|4:1085|3:975|2:219|1:40|total:3682</rating_dist>
+  <desc_user_id type="integer">1153732</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.u15FqzxD02GQegUYo5wd5A</work_uri>
+</work>
+  <average_rating>3.95</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3602]]></ratings_count>
+  <text_reviews_count><![CDATA[359]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10550292-if-you-give-a-dog-a-donut]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10550292-if-you-give-a-dog-a-donut]]></link>
+  <authors>
+<author>
+<id>87184</id>
+<name>Laura Joffe Numeroff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508372317p5/87184.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508372317p2/87184.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/87184.Laura_Joffe_Numeroff]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>451869</ratings_count>
+<text_reviews_count>9489</text_reviews_count>
+</author>
+<author>
+<id>42436</id>
+<name>Felicia Bond</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/42436.Felicia_Bond]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>458507</ratings_count>
+<text_reviews_count>9045</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10550292-if-you-give-a-dog-a-donut">If You Give a Dog a Donut Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006026683X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/10550292-if-you-give-a-dog-a-donut?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1886"/>
+      <shelf name="picture-books" count="259"/>
+      <shelf name="childrens" count="95"/>
+      <shelf name="picture-book" count="73"/>
+      <shelf name="children-s-books" count="72"/>
+      <shelf name="kids" count="58"/>
+      <shelf name="children-s" count="58"/>
+      <shelf name="childrens-books" count="55"/>
+      <shelf name="animals" count="55"/>
+      <shelf name="dogs" count="52"/>
+      <shelf name="children" count="49"/>
+      <shelf name="currently-reading" count="33"/>
+      <shelf name="fiction" count="33"/>
+      <shelf name="kids-books" count="31"/>
+      <shelf name="library" count="20"/>
+      <shelf name="food" count="20"/>
+      <shelf name="children-books" count="20"/>
+      <shelf name="storytime" count="19"/>
+      <shelf name="laura-numeroff" count="18"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="children-s-literature" count="15"/>
+      <shelf name="humor" count="15"/>
+      <shelf name="series" count="14"/>
+      <shelf name="cause-and-effect" count="13"/>
+      <shelf name="picture" count="13"/>
+      <shelf name="children-s-lit" count="12"/>
+      <shelf name="childrens-lit" count="11"/>
+      <shelf name="childrens-picture-books" count="11"/>
+      <shelf name="preschool" count="11"/>
+      <shelf name="1000-books-before-kindergarten" count="10"/>
+      <shelf name="post-2000" count="10"/>
+      <shelf name="default" count="10"/>
+      <shelf name="classroom-library" count="10"/>
+      <shelf name="kid-books" count="10"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="children-s-picture-books" count="10"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="picturebooks" count="9"/>
+      <shelf name="elementary" count="9"/>
+      <shelf name="early-childhood" count="8"/>
+      <shelf name="ch-02-child-choice" count="8"/>
+      <shelf name="if-you-give" count="8"/>
+      <shelf name="classroom" count="7"/>
+      <shelf name="sequencing" count="7"/>
+      <shelf name="kindergarten" count="7"/>
+      <shelf name="kiddos" count="7"/>
+      <shelf name="read-aloud" count="7"/>
+      <shelf name="pets" count="7"/>
+      <shelf name="children-s-books-read" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="fantasy" count="6"/>
+      <shelf name="funny" count="6"/>
+      <shelf name="1st-grade" count="6"/>
+      <shelf name="dog" count="6"/>
+      <shelf name="read-alouds" count="5"/>
+      <shelf name="read-to-kids" count="5"/>
+      <shelf name="ece-3601" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="if-you-give-a" count="5"/>
+      <shelf name="storytime-books" count="5"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="2017-books" count="4"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="books-we-own" count="4"/>
+      <shelf name="read-with-kids" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="children-s-book" count="4"/>
+      <shelf name="picturebook" count="4"/>
+      <shelf name="emma" count="4"/>
+      <shelf name="kid-lit" count="4"/>
+      <shelf name="little-kids" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="animal" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="for-kids" count="4"/>
+      <shelf name="friendship" count="4"/>
+      <shelf name="childrens-picture" count="3"/>
+      <shelf name="skylar" count="3"/>
+      <shelf name="adventure" count="3"/>
+      <shelf name="00-exploring-1" count="3"/>
+      <shelf name="classics" count="3"/>
+      <shelf name="my-classroom-library" count="3"/>
+      <shelf name="humour" count="3"/>
+      <shelf name="fun" count="3"/>
+      <shelf name="future-classroom" count="3"/>
+      <shelf name="from-library" count="3"/>
+      <shelf name="toddler-books" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="ellie" count="3"/>
+      <shelf name="numeroff" count="3"/>
+      <shelf name="if-you" count="3"/>
+      <shelf name="school-library" count="3"/>
+      <shelf name="school" count="3"/>
+      <shelf name="kids-favorites" count="3"/>
+      <shelf name="elementary-k-6" count="3"/>
+      <shelf name="story-time" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="ed-310" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>315133</id>
+<user_position></user_position>
+<series>
+<id>69955</id>
+<title>
+<![CDATA[
+    If You Give...
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>23</series_works_count>
+<primary_work_count>14</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>10845916</id>
+<title><![CDATA[Happy Pig Day! (Elephant & Piggie, #16)]]></title>
+<title_without_series>Happy Pig Day!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10845916-happy-pig-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379900660l/10845916._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379900660l/10845916._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>15760394</id>
+</work>
+<isbn>1423143426</isbn>
+<isbn13>9781423143420</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11345770</id>
+<title>Llama Llama Home with Mama</title>
+<title_without_series>Llama Llama Home with Mama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11345770-llama-llama-home-with-mama]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327898208l/11345770._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327898208l/11345770._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16275044</id>
+</work>
+<isbn>0670012327</isbn>
+<isbn13>9780670012329</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17350555</id>
+<title><![CDATA[Llama Llama and the Bully Goat]]></title>
+<title_without_series><![CDATA[Llama Llama and the Bully Goat]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17350555-llama-llama-and-the-bully-goat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373229362l/17350555._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373229362l/17350555._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24092209</id>
+</work>
+<isbn>0670013951</isbn>
+<isbn13>9780670013951</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15818449</id>
+<title><![CDATA[Pete's Big Lunch (Pete the Cat: I Can Read)]]></title>
+<title_without_series>Pete&apos;s Big Lunch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15818449-pete-s-big-lunch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362766934l/15818449._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362766934l/15818449._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21546068</id>
+</work>
+<isbn>0062110691</isbn>
+<isbn13>9780062110695</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12875557</id>
+<title><![CDATA[Pete the Cat and His Four Groovy Buttons]]></title>
+<title_without_series><![CDATA[Pete the Cat and His Four Groovy Buttons]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12875557-pete-the-cat-and-his-four-groovy-buttons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389222385l/12875557._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389222385l/12875557._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18028389</id>
+</work>
+<isbn>0062110586</isbn>
+<isbn13>9780062110589</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1644249</id>
+<name>Eric Litwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1644249.Eric_Litwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15818184</id>
+<title><![CDATA[Play Ball! (Pete the Cat: I Can Read)]]></title>
+<title_without_series>Play Ball!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15818184-play-ball]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353400097l/15818184._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353400097l/15818184._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21545790</id>
+</work>
+<isbn>0062110675</isbn>
+<isbn13>9780062110671</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9466024</id>
+<title><![CDATA[Pete the Cat: Rocking in My School Shoes]]></title>
+<title_without_series><![CDATA[Pete the Cat: Rocking in My School Shoes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9466024-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648110l/9466024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648110l/9466024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14351052</id>
+</work>
+<isbn>0061910244</isbn>
+<isbn13>9780061910241</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1644249</id>
+<name>Eric Litwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1644249.Eric_Litwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>238988</id>
+<title><![CDATA[How Do Dinosaurs Go to School?]]></title>
+<title_without_series><![CDATA[How Do Dinosaurs Go to School?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/238988.How_Do_Dinosaurs_Go_to_School_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>3635382</id>
+</work>
+<isbn>0439020816</isbn>
+<isbn13>9780439020817</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5989</id>
+<name>Jane Yolen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5989.Jane_Yolen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6871646</id>
+<title><![CDATA[Pete the Cat: I Love My White Shoes]]></title>
+<title_without_series><![CDATA[Pete the Cat: I Love My White Shoes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6871646-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319030278l/6871646._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319030278l/6871646._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>7088029</id>
+</work>
+<isbn>0061906220</isbn>
+<isbn13>9780061906220</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1644249</id>
+<name>Eric Litwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1644249.Eric_Litwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8999818</id>
+<title><![CDATA[I Broke My Trunk! (Elephant & Piggie, #14)]]></title>
+<title_without_series>I Broke My Trunk!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8999818-i-broke-my-trunk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360573429l/8999818._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360573429l/8999818._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>13877103</id>
+</work>
+<isbn>1423133099</isbn>
+<isbn13>9781423133094</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13589170</id>
+<title>Llama Llama Time to Share</title>
+<title_without_series>Llama Llama Time to Share</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13589170-llama-llama-time-to-share]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346513412l/13589170._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346513412l/13589170._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19176663</id>
+</work>
+<isbn>0670012335</isbn>
+<isbn13>9780670012336</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22693171</id>
+<title><![CDATA[Pete the Cat: Construction Destruction]]></title>
+<title_without_series><![CDATA[Pete the Cat: Construction Destruction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22693171-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407710792l/22693171._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407710792l/22693171._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>42097798</id>
+</work>
+<isbn>0062198610</isbn>
+<isbn13>9780062198617</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62573</id>
+<title>Bear Feels Sick</title>
+<title_without_series>Bear Feels Sick</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62573.Bear_Feels_Sick]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60774</id>
+</work>
+<isbn>0689859856</isbn>
+<isbn13>9780689859854</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>35105</id>
+<name>Karma Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35105.Karma_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22546632</id>
+<title>Click, Clack, Peep!</title>
+<title_without_series>Click, Clack, Peep!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22546632-click-clack-peep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486256l/22546632._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486256l/22546632._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42003373</id>
+</work>
+<isbn>1481424114</isbn>
+<isbn13>9781481424110</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6536675</id>
+<title><![CDATA[How Do Dinosaurs Say I Love You?]]></title>
+<title_without_series><![CDATA[How Do Dinosaurs Say I Love You?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6536675-how-do-dinosaurs-say-i-love-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837210l/6536675._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837210l/6536675._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>6728847</id>
+</work>
+<isbn>0545143144</isbn>
+<isbn13>9780545143141</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5989</id>
+<name>Jane Yolen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5989.Jane_Yolen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34228347</id>
+<title>Click, Clack, Moo I Love You!</title>
+<title_without_series>Click, Clack, Moo I Love You!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34228347-click-clack-moo-i-love-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493548205l/34228347._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493548205l/34228347._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55282059</id>
+</work>
+<isbn>1481444964</isbn>
+<isbn13>9781481444965</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36026313</id>
+<title>Llama Llama Loves to Read</title>
+<title_without_series>Llama Llama Loves to Read</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36026313-llama-llama-loves-to-read]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517523655l/36026313._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517523655l/36026313._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57599811</id>
+</work>
+<isbn>0670013978</isbn>
+<isbn13>9780670013975</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6642732</id>
+<title><![CDATA[I am Going! (Elephant and Piggie, #11)]]></title>
+<title_without_series>I am Going!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6642732-i-am-going]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888289l/6642732._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888289l/6642732._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>6837210</id>
+</work>
+<isbn>1423119908</isbn>
+<isbn13>9781423119906</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3682</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

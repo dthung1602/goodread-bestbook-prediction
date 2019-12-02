@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>44429515</id>
+  <title><![CDATA[The Little Women Cookbook: Tempting Recipes from the March Sisters and Their Friends and Family]]></title>
+  <isbn><![CDATA[1558329919]]></isbn>
+  <isbn13><![CDATA[9781558329911]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560224400l/44429515._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560224400l/44429515._SX50_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Harvard Common Press</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Experience the exciting and heartwarming world of the March sisters and <i>Little Women</i> right in your own kitchen.</b><br /><br /> Here at last is <b>the first cookbook to celebrate the scrumptious and comforting foods</b> that play a prominent role <b>in Louisa May Alcott’s classic novel </b><i><b>Little Women</b>.</i> If your family includes a <i>Little Women</i> fan, or if you yourself are one, with this book you can keep the magic and wonder of the beloved tale alive for years to come. Do you wonder what makes the characters so excited to make—and eat!—sweets and desserts like the exotically named <b>Blancmange</b> or the mysterious <b>Bonbons with Mottoes</b>, along with favorites like <b>Apple Turnovers</b>, <b>Plum Pudding</b>, and <b>Gingerbread Cake</b>? Find out for yourself with <b>over 50 easy-to-make recipes</b> for these delectable treats and more, all updated for the modern kitchen.<br /><br /> From <b>Hannah’s Pounded Potatoes</b> to <b>Amy’s Picnic Lemonade</b>, from the charming <b>Chocolate Drop Cookies</b> that Professor Bhaer always offers to Meg’s twins to hearty dinners that Hannah and Marmee encourage the March sisters to learn to make, you’ll find <b>an abundance of delicious teatime drinks and snacks</b>, plus <b>breakfasts</b>, <b>brunches</b>, <b>lunches</b>, <b>suppers</b>, and <b>desserts</b>. Featuring <b>full-color photos</b>, <b>evocative illustrations</b>, fun and uplifting <b>quotes from the novel</b>, and <b>anecdotes</b> about Louisa May Alcott, this is a book that any<i> Little Women </i>fan will love to have.]]></description>
+  <work>
+  <id type="integer">68991424</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">44429515</best_book_id>
+  <reviews_count type="integer">6199</reviews_count>
+  <ratings_sum type="integer">480</ratings_sum>
+  <ratings_count type="integer">109</ratings_count>
+  <text_reviews_count type="integer">79</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title nil="true"/>
+  <original_language_id type="integer" nil="true"/>
+  <media_type nil="true"/>
+  <rating_dist>5:61|4:35|3:10|2:2|1:1|total:109</rating_dist>
+  <desc_user_id type="integer">-46</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.foWrFXJDfG1CSkGEOdYXiQ</work_uri>
+</work>
+  <average_rating>4.40</average_rating>
+  <num_pages><![CDATA[112]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[105]]></ratings_count>
+  <text_reviews_count><![CDATA[76]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/44429515-the-little-women-cookbook]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/44429515-the-little-women-cookbook]]></link>
+  <authors>
+<author>
+<id>5268376</id>
+<name>Wini Moranville</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1559314109p5/5268376.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1559314109p2/5268376.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5268376.Wini_Moranville]]></link>
+<average_rating>4.41</average_rating>
+<ratings_count>298</ratings_count>
+<text_reviews_count>98</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/44429515-the-little-women-cookbook">The Little Women Cookbook Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1558329919&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/44429515-the-little-women-cookbook?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6030"/>
+      <shelf name="cookbooks" count="34"/>
+      <shelf name="non-fiction" count="20"/>
+      <shelf name="netgalley" count="12"/>
+      <shelf name="cookbook" count="10"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="cooking" count="8"/>
+      <shelf name="food" count="7"/>
+      <shelf name="nonfiction" count="7"/>
+      <shelf name="giveaways" count="7"/>
+      <shelf name="books-about-books" count="6"/>
+      <shelf name="arc" count="5"/>
+      <shelf name="food-cooking" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="cook-books" count="3"/>
+      <shelf name="books-about-cooking" count="2"/>
+      <shelf name="gift-ideas" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="beta-arc" count="2"/>
+      <shelf name="2019-releases" count="2"/>
+      <shelf name="classics" count="2"/>
+      <shelf name="non-fic" count="2"/>
+      <shelf name="kindle" count="2"/>
+      <shelf name="vegan" count="1"/>
+      <shelf name="tbr-i-don-t-own" count="1"/>
+      <shelf name="pairings" count="1"/>
+      <shelf name="other-nonfiction" count="1"/>
+      <shelf name="short-list" count="1"/>
+      <shelf name="2020-reading-list" count="1"/>
+      <shelf name="lsc-ponte-vecchio-bridge-challenge" count="1"/>
+      <shelf name="cooking-and-baking" count="1"/>
+      <shelf name="food-recipes" count="1"/>
+      <shelf name="books-with-recipes-i-want-to-try" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="little-women" count="1"/>
+      <shelf name="food-drink-or-cooking" count="1"/>
+      <shelf name="2019-choice-awards" count="1"/>
+      <shelf name="a-bit-of-evrything" count="1"/>
+      <shelf name="reference" count="1"/>
+      <shelf name="not-available-at-the-library" count="1"/>
+      <shelf name="what-s-cookin" count="1"/>
+      <shelf name="barnes-and-noble-wishlist" count="1"/>
+      <shelf name="tbr-nonfiction" count="1"/>
+      <shelf name="goodreads-choice-awards" count="1"/>
+      <shelf name="unusual-or-interesting" count="1"/>
+      <shelf name="ebooks-i-dont-have" count="1"/>
+      <shelf name="to-read-need-to-buy" count="1"/>
+      <shelf name="tr-othmix" count="1"/>
+      <shelf name="shelf-1" count="1"/>
+      <shelf name="cooking-books-and-health" count="1"/>
+      <shelf name="liste-à-lire" count="1"/>
+      <shelf name="interested" count="1"/>
+      <shelf name="book-club" count="1"/>
+      <shelf name="goodreads-2019" count="1"/>
+      <shelf name="hard-copy-wishlist" count="1"/>
+      <shelf name="i" count="1"/>
+      <shelf name="2020-to-read" count="1"/>
+      <shelf name="adult-nonfiction" count="1"/>
+      <shelf name="to-read-maybe" count="1"/>
+      <shelf name="nf-food" count="1"/>
+      <shelf name="recommended-bloggers" count="1"/>
+      <shelf name="library" count="1"/>
+      <shelf name="cooking-food-history" count="1"/>
+      <shelf name="lifestyle-coffee-table-books" count="1"/>
+      <shelf name="reading-for-fun" count="1"/>
+      <shelf name="bought-for-the-library" count="1"/>
+      <shelf name="want-to-own" count="1"/>
+      <shelf name="new-books-2019" count="1"/>
+      <shelf name="american-autors" count="1"/>
+      <shelf name="choice-awards" count="1"/>
+      <shelf name="nypl-requests" count="1"/>
+      <shelf name="beg-borrow-steal" count="1"/>
+      <shelf name="for-mom" count="1"/>
+      <shelf name="l" count="1"/>
+      <shelf name="tbr-hobby" count="1"/>
+      <shelf name="a-wishlist" count="1"/>
+      <shelf name="ongoing-to-read" count="1"/>
+      <shelf name="library-to-request" count="1"/>
+      <shelf name="netgalley-ew" count="1"/>
+      <shelf name="my-reviews" count="1"/>
+      <shelf name="favorites" count="1"/>
+      <shelf name="books-read-2019" count="1"/>
+      <shelf name="on-food-and-cooking" count="1"/>
+      <shelf name="to-read-january" count="1"/>
+      <shelf name="tlc-open-ended-baskin-robins-2-0-ch" count="1"/>
+      <shelf name="lsc-ongoing-scentsy-challenge" count="1"/>
+      <shelf name="food-cookbooks" count="1"/>
+      <shelf name="read-in-2019" count="1"/>
+      <shelf name="apl-recommend-to" count="1"/>
+      <shelf name="apl-hold-b-list" count="1"/>
+      <shelf name="apl-borrow-asap" count="1"/>
+      <shelf name="genre-food" count="1"/>
+      <shelf name="for-netgalley" count="1"/>
+      <shelf name="for-me" count="1"/>
+      <shelf name="english" count="1"/>
+      <shelf name="books-netgalley" count="1"/>
+      <shelf name="tbr" count="1"/>
+      <shelf name="grca19" count="1"/>
+      <shelf name="choice-award-nominee" count="1"/>
+      <shelf name="to-read-soon" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>43523056</id>
+<title><![CDATA[Modern Sourdough: Sweet and Savoury Recipes from Margot Bakery]]></title>
+<title_without_series><![CDATA[Modern Sourdough: Sweet and Savoury Recipes from Margot Bakery]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43523056-modern-sourdough]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566255217l/43523056._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566255217l/43523056._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>67690683</id>
+</work>
+<isbn>178131876X</isbn>
+<isbn13>9781781318768</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>18776032</id>
+<name>Michelle Eshkeri</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18776032.Michelle_Eshkeri]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43886322</id>
+<title><![CDATA[Incredible Plant-Based Desserts: Colorful Vegan Cakes, Cookies, Tarts, and other Epic Delights]]></title>
+<title_without_series><![CDATA[Incredible Plant-Based Desserts: Colorful Vegan Cakes, Cookies, Tarts, and other Epic Delights]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43886322-incredible-plant-based-desserts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553565576l/43886322._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553565576l/43886322._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>68280859</id>
+</work>
+<isbn>1631597183</isbn>
+<isbn13>9781631597183</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>18860207</id>
+<name>Anthea Cheng</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18860207.Anthea_Cheng]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43885163</id>
+<title><![CDATA[Judy Joo's Korean Soul Food: Authentic dishes and modern twists]]></title>
+<title_without_series><![CDATA[Judy Joo's Korean Soul Food: Authentic dishes and modern twists]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43885163-judy-joo-s-korean-soul-food]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568266176l/43885163._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568266176l/43885163._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>68279050</id>
+</work>
+<isbn>0711242100</isbn>
+<isbn13>9780711242104</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>14161614</id>
+<name>Judy Joo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14161614.Judy_Joo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39977443</id>
+<title>Antoni in the Kitchen</title>
+<title_without_series>Antoni in the Kitchen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39977443-antoni-in-the-kitchen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552708587l/39977443._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552708587l/39977443._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>61889745</id>
+</work>
+<isbn>1328631346</isbn>
+<isbn13>9781328631343</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>17986086</id>
+<name>Antoni Porowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17986086.Antoni_Porowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46650840</id>
+<title><![CDATA[Epic Air Fryer Cookbook: 100 Inspired Recipes That Take Air-Frying in Deliciously Exciting New Directions]]></title>
+<title_without_series><![CDATA[Epic Air Fryer Cookbook: 100 Inspired Recipes That Take Air-Frying in Deliciously Exciting New Directions]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46650840-epic-air-fryer-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569900764l/46650840._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569900764l/46650840._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>71666816</id>
+</work>
+<isbn>1558329951</isbn>
+<isbn13>9781558329959</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>12</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>14125682</id>
+<name>Emily Paster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14125682.Emily_Paster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43886332</id>
+<title><![CDATA[Inspired Artist: Draw Every Little Thing: Learn to draw more than 100 everyday items, from food to fashion]]></title>
+<title_without_series><![CDATA[Inspired Artist: Draw Every Little Thing: Learn to draw more than 100 everyday items, from food to fashion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43886332-inspired-artist]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559521103l/43886332._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559521103l/43886332._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>68280872</id>
+</work>
+<isbn>1633228010</isbn>
+<isbn13>9781633228016</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14884682</id>
+<name>Flora Waycott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14884682.Flora_Waycott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43522923</id>
+<title><![CDATA[Seeking Slow: Reclaim Moments of Calm in Your Day]]></title>
+<title_without_series><![CDATA[Seeking Slow: Reclaim Moments of Calm in Your Day]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43522923-seeking-slow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566106394l/43522923._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566106394l/43522923._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>67690458</id>
+</work>
+<isbn>1631066307</isbn>
+<isbn13>9781631066306</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>14787272</id>
+<name>Melanie Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14787272.Melanie_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46305819</id>
+<title><![CDATA[Winner, Winner! Chicken Dinner: 50 Winning Ways to Cook it Up!]]></title>
+<title_without_series><![CDATA[Winner, Winner! Chicken Dinner: 50 Winning Ways to Cook it Up!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46305819-winner-winner-chicken-dinner]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569938329l/46305819._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569938329l/46305819._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>71323045</id>
+</work>
+<isbn>163586156X</isbn>
+<isbn13>9781635861563</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2020</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>7144169</id>
+<name>Stacie Billis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7144169.Stacie_Billis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43523078</id>
+<title><![CDATA[Nature Tonic: A Year in My Mindful Life]]></title>
+<title_without_series><![CDATA[Nature Tonic: A Year in My Mindful Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43523078-nature-tonic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566254800l/43523078._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566254800l/43523078._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>67690708</id>
+</work>
+<isbn>1782407863</isbn>
+<isbn13>9781782407867</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>17725286</id>
+<name>Jocelyn de Kwant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17725286.Jocelyn_de_Kwant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43213058</id>
+<title><![CDATA[Fresh Flavours for the Slow Cooker Reinvent the Slow-Cooked Meal; 77 Mouthwatering Recipes]]></title>
+<title_without_series><![CDATA[Fresh Flavours for the Slow Cooker Reinvent the Slow-Cooked Meal; 77 Mouthwatering Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43213058-fresh-flavours-for-the-slow-cooker-reinvent-the-slow-cooked-meal-77-mou]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572202301l/43213058._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572202301l/43213058._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>67056670</id>
+</work>
+<isbn>1635861233</isbn>
+<isbn13>9781635861235</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>14654210</id>
+<name>Nicki Sizemore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14654210.Nicki_Sizemore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43351107</id>
+<title><![CDATA[Keto Sweet Tooth Cookbook: 80 Low-Carb Ketogenic Dessert Recipes for Cakes, Cookies, Pies, Fat Bombs, Shakes, Ice Cream, and More]]></title>
+<title_without_series><![CDATA[Keto Sweet Tooth Cookbook: 80 Low-Carb Ketogenic Dessert Recipes for Cakes, Cookies, Pies, Fat Bombs, Shakes, Ice Cream, and More]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43351107-keto-sweet-tooth-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556152680l/43351107._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556152680l/43351107._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>67319994</id>
+</work>
+<isbn>1465483837</isbn>
+<isbn13>9781465483836</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>4891025</id>
+<name>Aaron Day</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4891025.Aaron_Day]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47943072</id>
+<title><![CDATA[Greta and the Giants: inspired by Greta Thunberg's stand to save the world]]></title>
+<title_without_series><![CDATA[Greta and the Giants: inspired by Greta Thunberg's stand to save the world]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47943072-greta-and-the-giants]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574160887l/47943072._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574160887l/47943072._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>73108229</id>
+</work>
+<isbn>0711253773</isbn>
+<isbn13>9780711253773</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>19702881</id>
+<name>Zoë Tucker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19702881.Zo_Tucker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43617156</id>
+<title><![CDATA[Vegan Mac and Cheese - More than 50 Delicious Plant-Based Recipes for the Ultimate Comfort Food]]></title>
+<title_without_series><![CDATA[Vegan Mac and Cheese - More than 50 Delicious Plant-Based Recipes for the Ultimate Comfort Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43617156-vegan-mac-and-cheese---more-than-50-delicious-plant-based-recipes-for-th]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562027696l/43617156._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562027696l/43617156._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>67874238</id>
+</work>
+<isbn>1558329730</isbn>
+<isbn13>9781558329737</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1844111</id>
+<name>Robin Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1844111.Robin_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43821542</id>
+<title><![CDATA[The Pasta Friday Cookbook: Let's Eat Together]]></title>
+<title_without_series><![CDATA[The Pasta Friday Cookbook: Let's Eat Together]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43821542-the-pasta-friday-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553609984l/43821542._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553609984l/43821542._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>68193214</id>
+</work>
+<isbn>1449497896</isbn>
+<isbn13>9781449497897</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6587744</id>
+<name>Allison Arévalo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6587744.Allison_Ar_valo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43886334</id>
+<title><![CDATA[Art Starts in the Heart: Creative projects and inspirational ideas for learning to make expressive, mindful art]]></title>
+<title_without_series><![CDATA[Art Starts in the Heart: Creative projects and inspirational ideas for learning to make expressive, mindful art]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43886334-art-starts-in-the-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562589047l/43886334._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562589047l/43886334._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>68280874</id>
+</work>
+<isbn>163322810X</isbn>
+<isbn13>9781633228108</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>8078873</id>
+<name>Erin McManness</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8078873.Erin_McManness]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43886226</id>
+<title><![CDATA[10-Minute Declutter: Hundreds of Tips to Organize Every Room of Your House]]></title>
+<title_without_series><![CDATA[10-Minute Declutter: Hundreds of Tips to Organize Every Room of Your House]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43886226-10-minute-declutter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561637540l/43886226._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561637540l/43886226._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>68280667</id>
+</work>
+<isbn>159233914X</isbn>
+<isbn13>9781592339143</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>138926</id>
+<name>Skye Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138926.Skye_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43886224</id>
+<title><![CDATA[10-Minute Feng Shui: Hundreds of Easy Tips and Techniques for Prosperity, Health, and Happiness]]></title>
+<title_without_series><![CDATA[10-Minute Feng Shui: Hundreds of Easy Tips and Techniques for Prosperity, Health, and Happiness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43886224-10-minute-feng-shui]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561636482l/43886224._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561636482l/43886224._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>68280665</id>
+</work>
+<isbn>1592339123</isbn>
+<isbn13>9781592339129</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>138926</id>
+<name>Skye Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138926.Skye_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43522921</id>
+<title><![CDATA[Find Your Mantra: Inspire and Empower Your Life with 75 Positive Affirmations]]></title>
+<title_without_series><![CDATA[Find Your Mantra: Inspire and Empower Your Life with 75 Positive Affirmations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43522921-find-your-mantra]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557842334l/43522921._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557842334l/43522921._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>67690455</id>
+</work>
+<isbn>1631066226</isbn>
+<isbn13>9781631066221</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>109</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>18776010</id>
+<name>Aysel Gunar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18776010.Aysel_Gunar]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

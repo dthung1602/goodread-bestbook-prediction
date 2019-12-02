@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9465166</id>
+  <title><![CDATA[Hooray for Amanda & Her Alligator!]]></title>
+  <isbn><![CDATA[006200400X]]></isbn>
+  <isbn13><![CDATA[9780062004000]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>Balzer + Bray</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[6½ stories about 2 surprising friends.<br /><br />Having a stuffed alligator for a best friend can be surprising.<br /><br />Sometimes Amanda surprises her alligator with books. Sometimes Alligator surprises Amanda by <em>eating them</em>.<br /><br />But what happens when Amanda brings home a special—and not entirely welcome—surprise? The result might be unexpected indeed.<br /><br />Beloved author-illustrator Mo Willems has created a funny and tender portrait of friendship that readers of any age will love.]]></description>
+  <work>
+  <id type="integer">14350160</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">9465166</best_book_id>
+  <reviews_count type="integer">6482</reviews_count>
+  <ratings_sum type="integer">19312</ratings_sum>
+  <ratings_count type="integer">4732</ratings_count>
+  <text_reviews_count type="integer">396</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">26</original_publication_day>
+  <original_title>Hooray for Amanda &amp; Her Alligator!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1899|4:1639|3:936|2:195|1:63|total:4732</rating_dist>
+  <desc_user_id type="integer">4134979</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.415SVEpL8NR-aXl5J3NaFw</work_uri>
+</work>
+  <average_rating>4.08</average_rating>
+  <num_pages><![CDATA[69]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4730]]></ratings_count>
+  <text_reviews_count><![CDATA[396]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9465166-hooray-for-amanda-her-alligator]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9465166-hooray-for-amanda-her-alligator]]></link>
+  <authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p5/33274.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p2/33274.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>478989</ratings_count>
+<text_reviews_count>33201</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9465166-hooray-for-amanda-her-alligator">Hooray for Amanda &amp;amp; Her Alligator! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006200400X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9465166-hooray-for-amanda-her-alligator?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1205"/>
+      <shelf name="picture-books" count="448"/>
+      <shelf name="picture-book" count="118"/>
+      <shelf name="childrens" count="100"/>
+      <shelf name="children-s" count="67"/>
+      <shelf name="children-s-books" count="61"/>
+      <shelf name="friendship" count="60"/>
+      <shelf name="humor" count="45"/>
+      <shelf name="children" count="41"/>
+      <shelf name="kids" count="39"/>
+      <shelf name="fiction" count="35"/>
+      <shelf name="childrens-books" count="27"/>
+      <shelf name="mo-willems" count="25"/>
+      <shelf name="animals" count="23"/>
+      <shelf name="favorites" count="21"/>
+      <shelf name="storytime" count="18"/>
+      <shelf name="children-s-literature" count="17"/>
+      <shelf name="library" count="16"/>
+      <shelf name="friends" count="16"/>
+      <shelf name="kids-books" count="15"/>
+      <shelf name="picture" count="14"/>
+      <shelf name="picturebooks" count="13"/>
+      <shelf name="preschool" count="13"/>
+      <shelf name="children-s-picture-books" count="12"/>
+      <shelf name="fantasy" count="10"/>
+      <shelf name="childrens-lit" count="9"/>
+      <shelf name="silly" count="9"/>
+      <shelf name="funny" count="9"/>
+      <shelf name="kid-s-books" count="8"/>
+      <shelf name="read-aloud" count="8"/>
+      <shelf name="toys" count="8"/>
+      <shelf name="children-s-lit" count="8"/>
+      <shelf name="kindergarten" count="8"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="read-in-2013" count="7"/>
+      <shelf name="childrens-picture-books" count="7"/>
+      <shelf name="stuffed-animals" count="6"/>
+      <shelf name="alligator" count="6"/>
+      <shelf name="kids-picture-books" count="6"/>
+      <shelf name="favorite-picture-books" count="6"/>
+      <shelf name="humorous" count="6"/>
+      <shelf name="kid-lit" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="kid-books" count="5"/>
+      <shelf name="read-alouds" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="beginning-readers" count="5"/>
+      <shelf name="early-reader" count="5"/>
+      <shelf name="read-with-kids" count="4"/>
+      <shelf name="chapter-book" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="children-s-book" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="imagination" count="4"/>
+      <shelf name="children-picture-book" count="4"/>
+      <shelf name="picture-books-read" count="4"/>
+      <shelf name="read-2011" count="4"/>
+      <shelf name="story-time" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="read-in-2018" count="3"/>
+      <shelf name="storytime-books" count="3"/>
+      <shelf name="1000-books-before-kindergarten" count="3"/>
+      <shelf name="1000-books" count="3"/>
+      <shelf name="read-to-me" count="3"/>
+      <shelf name="picture-books-to-read" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="age-children" count="3"/>
+      <shelf name="early-readers" count="3"/>
+      <shelf name="kiddos" count="3"/>
+      <shelf name="preschool-storytime" count="3"/>
+      <shelf name="elementary-school" count="3"/>
+      <shelf name="fun" count="3"/>
+      <shelf name="panda" count="3"/>
+      <shelf name="books-for-kids" count="3"/>
+      <shelf name="humour" count="3"/>
+      <shelf name="reptiles" count="3"/>
+      <shelf name="sn13" count="3"/>
+      <shelf name="kids-picture" count="3"/>
+      <shelf name="alligators-crocodiles" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="edu-365" count="3"/>
+      <shelf name="picturebook" count="3"/>
+      <shelf name="2011-picture-books" count="3"/>
+      <shelf name="read-in-2011" count="3"/>
+      <shelf name="short-stories" count="3"/>
+      <shelf name="reading" count="3"/>
+      <shelf name="great-illustrations" count="3"/>
+      <shelf name="2nd-grade" count="3"/>
+      <shelf name="early-elementary" count="3"/>
+      <shelf name="read-children-s-books" count="2"/>
+      <shelf name="oliver" count="2"/>
+      <shelf name="mila" count="2"/>
+      <shelf name="z2011-new" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="pb" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11051230</id>
+<title>You Will Be My Friend!</title>
+<title_without_series>You Will Be My Friend!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11051230-you-will-be-my-friend]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327971419l/11051230._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327971419l/11051230._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>15972285</id>
+</work>
+<isbn>0316070300</isbn>
+<isbn13>9780316070300</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8471013</id>
+<title>Perfect Square</title>
+<title_without_series>Perfect Square</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8471013-perfect-square]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327974028l/8471013._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327974028l/8471013._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>13335680</id>
+</work>
+<isbn>0061915130</isbn>
+<isbn13>9780061915130</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>6570330</id>
+<name>Michael  Hall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6570330.Michael_Hall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9771739</id>
+<title>Say Hello to Zorro!</title>
+<title_without_series>Say Hello to Zorro!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9771739-say-hello-to-zorro]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>14661327</id>
+</work>
+<isbn>1416938931</isbn>
+<isbn13>9781416938934</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>676353</id>
+<name>Carter Goodrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/676353.Carter_Goodrich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8471012</id>
+<title>Little White Rabbit</title>
+<title_without_series>Little White Rabbit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8471012-little-white-rabbit]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>13335679</id>
+</work>
+<isbn>0062006428</isbn>
+<isbn13>9780062006424</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15815400</id>
+<title>Exclamation Mark</title>
+<title_without_series>Exclamation Mark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15815400-exclamation-mark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350532222l/15815400._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350532222l/15815400._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>21541897</id>
+</work>
+<isbn>0545436796</isbn>
+<isbn13>9780545436793</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>507402</id>
+<title>Little Pea</title>
+<title_without_series>Little Pea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/507402.Little_Pea]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>495427</id>
+</work>
+<isbn>081184658X</isbn>
+<isbn13>9780811846585</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10803061</id>
+<title>Stars</title>
+<title_without_series>Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10803061-stars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>15716423</id>
+</work>
+<isbn>1442422491</isbn>
+<isbn13>9781442422490</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>241682</id>
+<name>Mary Lyn Ray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/241682.Mary_Lyn_Ray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7949530</id>
+<title>Children Make Terrible Pets</title>
+<title_without_series>Children Make Terrible Pets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7949530-children-make-terrible-pets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289507052l/7949530._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289507052l/7949530._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>11559857</id>
+</work>
+<isbn>0316015482</isbn>
+<isbn13>9780316015486</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16250904</id>
+<title><![CDATA[Unicorn Thinks He's Pretty Great]]></title>
+<title_without_series><![CDATA[Unicorn Thinks He's Pretty Great]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16250904-unicorn-thinks-he-s-pretty-great]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22292082</id>
+</work>
+<isbn>1423159527</isbn>
+<isbn13>9781423159520</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10168924</id>
+<title>Blackout</title>
+<title_without_series>Blackout</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10168924-blackout]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360565979l/10168924._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360565979l/10168924._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>15067694</id>
+</work>
+<isbn>1423121902</isbn>
+<isbn13>9781423121909</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>14920</id>
+<name>John Rocco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14920.John_Rocco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5530988</id>
+<title>The Curious Garden</title>
+<title_without_series>The Curious Garden</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5530988-the-curious-garden]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>5702021</id>
+</work>
+<isbn>0316015474</isbn>
+<isbn13>9780316015479</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10725489</id>
+<title>Blue Chicken</title>
+<title_without_series>Blue Chicken</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10725489-blue-chicken]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567171489l/10725489._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567171489l/10725489._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>15636241</id>
+</work>
+<isbn>0670012939</isbn>
+<isbn13>9780670012930</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>401059</id>
+<name>Deborah Freedman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/401059.Deborah_Freedman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8411631</id>
+<title><![CDATA[Won-Ton: A Cat Tale Told in Haiku]]></title>
+<title_without_series><![CDATA[Won-Ton: A Cat Tale Told in Haiku]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8411631-won-ton]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>13273083</id>
+</work>
+<isbn>0805089950</isbn>
+<isbn13>9780805089950</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>37718</id>
+<name>Lee Wardlaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37718.Lee_Wardlaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8726737</id>
+<title>Cat Secrets</title>
+<title_without_series>Cat Secrets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8726737-cat-secrets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282256464l/8726737._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282256464l/8726737._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>13599711</id>
+</work>
+<isbn>0061920886</isbn>
+<isbn13>9780061920882</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>485393</id>
+<name>Jef Czekaj</name>
+<link><![CDATA[https://www.goodreads.com/author/show/485393.Jef_Czekaj]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23735067</id>
+<title>Waiting</title>
+<title_without_series>Waiting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23735067-waiting]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>43347119</id>
+</work>
+<isbn>0062368435</isbn>
+<isbn13>9780062368430</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9212014</id>
+<title>Cloudette</title>
+<title_without_series>Cloudette</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9212014-cloudette]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367020183l/9212014._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367020183l/9212014._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14091756</id>
+</work>
+<isbn>0805087761</isbn>
+<isbn13>9780805087765</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>83081</id>
+<name>Tom Lichtenheld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83081.Tom_Lichtenheld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26796307</id>
+<title>Poor Little Guy</title>
+<title_without_series>Poor Little Guy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26796307-poor-little-guy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453059027l/26796307._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453059027l/26796307._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>46818752</id>
+</work>
+<isbn>0525428259</isbn>
+<isbn13>9780525428251</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4349879</id>
+<name>Elanna Allen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4349879.Elanna_Allen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9474214</id>
+<title>Blue Chameleon</title>
+<title_without_series>Blue Chameleon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9474214-blue-chameleon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330039665l/9474214._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330039665l/9474214._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13609613</id>
+</work>
+<isbn>0230704247</isbn>
+<isbn13>9780230704244</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4732</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>99790</id>
+<name>Emily Gravett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99790.Emily_Gravett]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10596103</id>
+  <title><![CDATA[The Filter Bubble: What the Internet is Hiding From You]]></title>
+  <isbn><![CDATA[1594203008]]></isbn>
+  <isbn13><![CDATA[9781594203008]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Penguin Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[An eye-opening account of how the hidden rise of personalization on the Internet is controlling - and limiting - the information we consume.<br /><br />In December 2009, Google began customizing its search results for each user. Instead of giving you the most broadly popular result, Google now tries to predict what you are most likely to click on. According to MoveOn.org board president Eli Pariser, Google's change in policy is symptomatic of the most significant shift to take place on the Web in recent years - the rise of personalization. In this groundbreaking investigation of the new hidden Web, Pariser uncovers how this growing trend threatens to control how we consume and share information as a society-and reveals what we can do about it.<br /><br />Though the phenomenon has gone largely undetected until now, personalized filters are sweeping the Web, creating individual universes of information for each of us. Facebook - the primary news source for an increasing number of Americans - prioritizes the links it believes will appeal to you so that if you are a liberal, you can expect to see only progressive links. Even an old-media bastion like "The Washington Post" devotes the top of its home page to a news feed with the links your Facebook friends are sharing. Behind the scenes a burgeoning industry of data companies is tracking your personal information to sell to advertisers, from your political leanings to the color you painted your living room to the hiking boots you just browsed on Zappos.<br /><br />In a personalized world, we will increasingly be typed and fed only news that is pleasant, familiar, and confirms our beliefs - and because these filters are invisible, we won't know what is being hidden from us. Our past interests will determine what we are exposed to in the future, leaving less room for the unexpected encounters that spark creativity, innovation, and the democratic exchange of ideas.<br /><br />While we all worry that the Internet is eroding privacy or shrinking our attention spans, Pariser uncovers a more pernicious and far-reaching trend on the Internet and shows how we can - and must - change course. With vivid detail and remarkable scope, <i>The Filter Bubble</i> reveals how personalization undermines the Internet's original purpose as an open platform for the spread of ideas and could leave us all in an isolated, echoing world.]]></description>
+  <work>
+  <id type="integer">15503719</id>
+  <books_count type="integer">29</books_count>
+  <best_book_id type="integer">10596103</best_book_id>
+  <reviews_count type="integer">14028</reviews_count>
+  <ratings_sum type="integer">17953</ratings_sum>
+  <ratings_count type="integer">4761</ratings_count>
+  <text_reviews_count type="integer">498</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Filter Bubble: What the Internet is Hiding From You</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1242|4:1827|3:1207|2:329|1:156|total:4761</rating_dist>
+  <desc_user_id type="integer">7359773</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.2o0JEuiCOsxbO85ORhOHRw</work_uri>
+</work>
+  <average_rating>3.77</average_rating>
+  <num_pages><![CDATA[294]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4077]]></ratings_count>
+  <text_reviews_count><![CDATA[388]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10596103-the-filter-bubble]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10596103-the-filter-bubble]]></link>
+  <authors>
+<author>
+<id>3951463</id>
+<name>Eli Pariser</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479634610p5/3951463.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479634610p2/3951463.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3951463.Eli_Pariser]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<text_reviews_count>498</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10596103-the-filter-bubble">The Filter Bubble Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594203008&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/10596103-the-filter-bubble?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8276"/>
+      <shelf name="non-fiction" count="329"/>
+      <shelf name="currently-reading" count="305"/>
+      <shelf name="technology" count="161"/>
+      <shelf name="nonfiction" count="136"/>
+      <shelf name="science" count="58"/>
+      <shelf name="business" count="53"/>
+      <shelf name="internet" count="53"/>
+      <shelf name="tech" count="37"/>
+      <shelf name="psychology" count="34"/>
+      <shelf name="politics" count="26"/>
+      <shelf name="media" count="25"/>
+      <shelf name="sociology" count="25"/>
+      <shelf name="favorites" count="24"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="culture" count="20"/>
+      <shelf name="work" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="library" count="14"/>
+      <shelf name="social-media" count="13"/>
+      <shelf name="audiobooks" count="13"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="information" count="12"/>
+      <shelf name="abandoned" count="10"/>
+      <shelf name="computer-science" count="9"/>
+      <shelf name="computers" count="9"/>
+      <shelf name="journalism" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="professional" count="8"/>
+      <shelf name="audible" count="8"/>
+      <shelf name="society" count="8"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="marketing" count="7"/>
+      <shelf name="audiobook" count="7"/>
+      <shelf name="to-read-non-fiction" count="7"/>
+      <shelf name="books-i-own" count="6"/>
+      <shelf name="social-science" count="6"/>
+      <shelf name="thinking" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="privacy" count="6"/>
+      <shelf name="it" count="6"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="work-related" count="5"/>
+      <shelf name="google" count="5"/>
+      <shelf name="social" count="5"/>
+      <shelf name="research" count="5"/>
+      <shelf name="library-science" count="5"/>
+      <shelf name="media-studies" count="5"/>
+      <shelf name="philosophy" count="5"/>
+      <shelf name="to-read-nonfiction" count="5"/>
+      <shelf name="english" count="5"/>
+      <shelf name="web" count="5"/>
+      <shelf name="digital" count="5"/>
+      <shelf name="current-affairs" count="5"/>
+      <shelf name="first-reads" count="5"/>
+      <shelf name="ensayo" count="4"/>
+      <shelf name="blinkist" count="4"/>
+      <shelf name="non-fictie" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="education" count="4"/>
+      <shelf name="digital-age" count="4"/>
+      <shelf name="business-books" count="4"/>
+      <shelf name="non-fiction-to-read" count="4"/>
+      <shelf name="computer" count="4"/>
+      <shelf name="calibre" count="4"/>
+      <shelf name="educational" count="4"/>
+      <shelf name="lis" count="4"/>
+      <shelf name="political" count="4"/>
+      <shelf name="finished" count="4"/>
+      <shelf name="information-science" count="4"/>
+      <shelf name="non-fic" count="4"/>
+      <shelf name="american" count="4"/>
+      <shelf name="history" count="4"/>
+      <shelf name="science-tech" count="3"/>
+      <shelf name="nf" count="3"/>
+      <shelf name="others" count="3"/>
+      <shelf name="self-help" count="3"/>
+      <shelf name="current-events" count="3"/>
+      <shelf name="ryan-holiday-recommendations" count="3"/>
+      <shelf name="life" count="3"/>
+      <shelf name="learning" count="3"/>
+      <shelf name="science-technology" count="3"/>
+      <shelf name="hoopla" count="3"/>
+      <shelf name="saggistica" count="3"/>
+      <shelf name="search" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="social-political" count="3"/>
+      <shelf name="cyber" count="3"/>
+      <shelf name="school" count="3"/>
+      <shelf name="general-non-fiction" count="3"/>
+      <shelf name="information-studies" count="3"/>
+      <shelf name="strategy" count="3"/>
+      <shelf name="other" count="3"/>
+      <shelf name="librarianship" count="3"/>
+      <shelf name="read-2011" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="2012-reads" count="3"/>
+      <shelf name="professional-development" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11581907</id>
+<title><![CDATA[Too Big to Know: Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest Person in the Room Is the Room]]></title>
+<title_without_series><![CDATA[Too Big to Know: Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest Person in the Room Is the Room]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11581907-too-big-to-know]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323615582l/11581907._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323615582l/11581907._SX98_.jpg]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>16523223</id>
+</work>
+<isbn>0465021425</isbn>
+<isbn13>9780465021420</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>46222</id>
+<name>David Weinberger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46222.David_Weinberger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7954936</id>
+<title>What Technology Wants</title>
+<title_without_series>What Technology Wants</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7954936-what-technology-wants]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>11619217</id>
+</work>
+<isbn>0670022152</isbn>
+<isbn13>9780670022151</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>27388</id>
+<name>Kevin Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27388.Kevin_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12799077</id>
+<title><![CDATA[The Information Diet: A Case for Conscious Consumption]]></title>
+<title_without_series><![CDATA[The Information Diet: A Case for Conscious Consumption]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12799077-the-information-diet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327911076l/12799077._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327911076l/12799077._SX98_.jpg]]></image_url>
+<num_pages>150</num_pages>
+<work>
+<id>17947362</id>
+</work>
+<isbn>1449304680</isbn>
+<isbn13>9781449304683</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>5253898</id>
+<name>Clay A. Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5253898.Clay_A_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12625589</id>
+<title><![CDATA[Turing's Cathedral: The Origins of the Digital Universe]]></title>
+<title_without_series><![CDATA[Turing's Cathedral: The Origins of the Digital Universe]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12625589-turing-s-cathedral]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322700777l/12625589._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322700777l/12625589._SX98_.jpg]]></image_url>
+<num_pages>505</num_pages>
+<work>
+<id>17677574</id>
+</work>
+<isbn>0307907066</isbn>
+<isbn13>9780307907066</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>111356</id>
+<name>George Dyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/111356.George_Dyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7614793</id>
+<title><![CDATA[Cognitive Surplus: Creativity and Generosity in a Connected Age]]></title>
+<title_without_series><![CDATA[Cognitive Surplus: Creativity and Generosity in a Connected Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7614793-cognitive-surplus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>10074639</id>
+</work>
+<isbn>1594202532</isbn>
+<isbn13>9781594202537</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>442126</id>
+<name>Clay Shirky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/442126.Clay_Shirky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10003400</id>
+<title><![CDATA[The Net Delusion: The Dark Side of Internet Freedom]]></title>
+<title_without_series><![CDATA[The Net Delusion: The Dark Side of Internet Freedom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10003400-the-net-delusion]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297025324l/10003400._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297025324l/10003400._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>14898476</id>
+</work>
+<isbn>1586488759</isbn>
+<isbn13>9781586488758</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4113527</id>
+<name>Evgeny Morozov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4113527.Evgeny_Morozov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7841446</id>
+<title><![CDATA[In the Plex: How Google Thinks, Works, and Shapes Our Lives]]></title>
+<title_without_series><![CDATA[In the Plex: How Google Thinks, Works, and Shapes Our Lives]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7841446-in-the-plex]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>10934698</id>
+</work>
+<isbn>1416596585</isbn>
+<isbn13>9781416596585</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>32131</id>
+<name>Steven Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32131.Steven_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8201080</id>
+<title><![CDATA[The Master Switch: The Rise and Fall of Information Empires]]></title>
+<title_without_series><![CDATA[The Master Switch: The Rise and Fall of Information Empires]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8201080-the-master-switch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518400l/8201080._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518400l/8201080._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>13048036</id>
+</work>
+<isbn>0307269930</isbn>
+<isbn13>9780307269935</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>303279</id>
+<name>Tim Wu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/303279.Tim_Wu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6683549</id>
+<title>You Are Not a Gadget</title>
+<title_without_series>You Are Not a Gadget</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6683549-you-are-not-a-gadget]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320388392l/6683549._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320388392l/6683549._SX98_.jpg]]></image_url>
+<num_pages>221</num_pages>
+<work>
+<id>6878840</id>
+</work>
+<isbn>0307269647</isbn>
+<isbn13>9780307269645</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3010868</id>
+<name>Jaron Lanier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3010868.Jaron_Lanier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2442173</id>
+<title><![CDATA[The Future of the Internet and How to Stop It]]></title>
+<title_without_series><![CDATA[The Future of the Internet and How to Stop It]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2442173.The_Future_of_the_Internet_and_How_to_Stop_It]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328828182l/2442173._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328828182l/2442173._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>2449367</id>
+</work>
+<isbn>0300124872</isbn>
+<isbn13>9780300124873</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>733045</id>
+<name>Jonathan L. Zittrain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/733045.Jonathan_L_Zittrain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3345583</id>
+<title><![CDATA[Content: Selected Essays on Technology, Creativity, Copyright, and the Future of the Future]]></title>
+<title_without_series><![CDATA[Content: Selected Essays on Technology, Creativity, Copyright, and the Future of the Future]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3345583-content]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395145931l/3345583._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395145931l/3345583._SX98_.jpg]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>3383931</id>
+</work>
+<isbn>1892391813</isbn>
+<isbn13>9781892391810</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>12581</id>
+<name>Cory Doctorow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12581.Cory_Doctorow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9408311</id>
+<title><![CDATA[Program or Be Programmed: Ten Commands for a Digital Age]]></title>
+<title_without_series><![CDATA[Program or Be Programmed: Ten Commands for a Digital Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9408311-program-or-be-programmed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399495284l/9408311._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399495284l/9408311._SX98_.jpg]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>14292334</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>80801</id>
+<name>Douglas Rushkoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80801.Douglas_Rushkoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16241165</id>
+<title><![CDATA[The Big Switch: Rewiring the World, from Edison to Google]]></title>
+<title_without_series><![CDATA[The Big Switch: Rewiring the World, from Edison to Google]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16241165-the-big-switch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367516473l/16241165._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367516473l/16241165._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1141344</id>
+</work>
+<isbn>039334522X</isbn>
+<isbn13>9780393345223</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>151353</id>
+<name>Nicholas Carr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/151353.Nicholas_Carr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14721</id>
+<title><![CDATA[The Wealth of Networks: How Social Production Transforms Markets and Freedom]]></title>
+<title_without_series><![CDATA[The Wealth of Networks: How Social Production Transforms Markets and Freedom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>16739</id>
+</work>
+<isbn>0300110561</isbn>
+<isbn13>9780300110562</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>9195</id>
+<name>Yochai Benkler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9195.Yochai_Benkler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>281818</id>
+<title><![CDATA[Where Wizards Stay Up Late: The Origins of the Internet]]></title>
+<title_without_series><![CDATA[Where Wizards Stay Up Late: The Origins of the Internet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259838l/281818._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259838l/281818._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1290875</id>
+</work>
+<isbn>0684832674</isbn>
+<isbn13>9780684832678</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>6938812</id>
+<name>Katie Hafner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6938812.Katie_Hafner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11238922</id>
+<title><![CDATA[Public Parts: How Sharing in the Digital Age is Revolutionizing Life, Business, and Society]]></title>
+<title_without_series><![CDATA[Public Parts: How Sharing in the Digital Age is Revolutionizing Life, Business, and Society]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11238922-public-parts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>16165113</id>
+</work>
+<isbn>1451636008</isbn>
+<isbn13>9781451636000</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>2111906</id>
+<name>Jeff Jarvis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2111906.Jeff_Jarvis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32475</id>
+<title><![CDATA[Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software]]></title>
+<title_without_series><![CDATA[Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32475.Dreaming_in_Code]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1217032</id>
+</work>
+<isbn>1400082463</isbn>
+<isbn13>9781400082469</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18257</id>
+<name>Scott Rosenberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18257.Scott_Rosenberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>57020</id>
+<title>Being Digital</title>
+<title_without_series>Being Digital</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/57020.Being_Digital]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328975313l/57020._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328975313l/57020._SY160_.jpg]]></image_url>
+<num_pages>249</num_pages>
+<work>
+<id>55548</id>
+</work>
+<isbn>0340649305</isbn>
+<isbn13>9780340649305</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4761</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>32227</id>
+<name>Nicholas Negroponte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32227.Nicholas_Negroponte]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

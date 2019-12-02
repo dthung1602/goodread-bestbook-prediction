@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12099550</id>
+  <title>Nocturnal</title>
+  <isbn><![CDATA[0307406342]]></isbn>
+  <isbn13><![CDATA[9780307406347]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576552l/12099550._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576552l/12099550._SY75_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Crown</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Scott Sigler reinvented the alien-invasion story in his bestselling novels <i>Infected</i> and <i>Contagious</i> … rebooted the biotech thriller in <i>Ancestor</i> …now, in his most ambitious, sweeping novel to date, he works his magic on the paranormal thriller, taking us inside a terrifying underworld of subterranean predators that only his twisted mind could invent. <br /><br />Homicide detective Bryan Clauser is losing his mind. How else to explain the dreams he keeps having—dreams that mirror, with impossible accuracy, the gruesome serial murders taking place all over San Francisco? How else to explain the <i>feelings</i> these dreams provoke in him—not disgust, not horror, but <i>excitement?</i>  <br /><br />As Bryan and his longtime partner, Lawrence “Pookie” Chang, investigate the murders, they learn that things are even stranger than they at first seem. For the victims are all enemies of a seemingly ordinary young boy—a boy who is gripped by the same dreams that haunt Bryan.  Meanwhile, a shadowy vigilante, seemingly armed with superhuman powers, is out there killing the killers.  And Bryan and Pookie’s superiors—from the mayor on down—seem strangely eager to keep the detectives from discovering the truth.<br /><br />Doubting his own sanity and stripped of his badge, Bryan begins to suspect that he’s stumbled into the crosshairs of a shadow war that has gripped his city for more than a century—a war waged by a race of killers living in San Francisco’s unknown, underground ruins, emerging at night to feed on those who will not be missed. <br /><br />And as Bryan learns the truth about his own intimate connections to the killings, he discovers that those who matter most to him are in mortal danger…and that he may be the only man gifted—or cursed—with the power to do battle with the <i>nocturnals. </i><br /><br />Featuring a dazzlingly plotted mystery and a terrifying descent into a nightmarish underworld—along with some of the most incredible action scenes ever put to paper, and an explosive, gut-wrenching conclusion you won’t soon forget—<i>Nocturnal</i> is the most spectacular outing to date from one of the genre’s brightest stars.  ]]></description>
+  <work>
+  <id type="integer">19211417</id>
+  <books_count type="integer">19</books_count>
+  <best_book_id type="integer">12099550</best_book_id>
+  <reviews_count type="integer">11073</reviews_count>
+  <ratings_sum type="integer">20346</ratings_sum>
+  <ratings_count type="integer">5010</ratings_count>
+  <text_reviews_count type="integer">466</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Nocturnal</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1947|4:1826|3:918|2:234|1:85|total:5010</rating_dist>
+  <desc_user_id type="integer">-50</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.WuCStsZprx_lZYzlDlfrVA</work_uri>
+</work>
+  <average_rating>4.06</average_rating>
+  <num_pages><![CDATA[566]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4173]]></ratings_count>
+  <text_reviews_count><![CDATA[383]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12099550-nocturnal]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12099550-nocturnal]]></link>
+  <authors>
+<author>
+<id>114504</id>
+<name>Scott Sigler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434042056p5/114504.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434042056p2/114504.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/114504.Scott_Sigler]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>89076</ratings_count>
+<text_reviews_count>8736</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12099550-nocturnal">Nocturnal Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307406342&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/12099550-nocturnal?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5035"/>
+      <shelf name="horror" count="263"/>
+      <shelf name="currently-reading" count="220"/>
+      <shelf name="thriller" count="74"/>
+      <shelf name="fiction" count="64"/>
+      <shelf name="science-fiction" count="48"/>
+      <shelf name="sci-fi" count="46"/>
+      <shelf name="fantasy" count="44"/>
+      <shelf name="urban-fantasy" count="32"/>
+      <shelf name="favorites" count="32"/>
+      <shelf name="paranormal" count="27"/>
+      <shelf name="owned" count="24"/>
+      <shelf name="mystery" count="22"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="kindle" count="18"/>
+      <shelf name="scott-sigler" count="17"/>
+      <shelf name="crime" count="16"/>
+      <shelf name="audio" count="15"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="audible" count="14"/>
+      <shelf name="audiobook" count="14"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="default" count="12"/>
+      <shelf name="supernatural" count="12"/>
+      <shelf name="suspense" count="9"/>
+      <shelf name="sigler" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="monsters" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="action" count="7"/>
+      <shelf name="audio-book" count="6"/>
+      <shelf name="scifi" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="favourites" count="6"/>
+      <shelf name="e-books" count="5"/>
+      <shelf name="dnf" count="5"/>
+      <shelf name="adult" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="fiction-horror" count="5"/>
+      <shelf name="mystery-thriller" count="5"/>
+      <shelf name="tbr" count="4"/>
+      <shelf name="dystopian" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="abandoned" count="4"/>
+      <shelf name="fantasy-sci-fi" count="4"/>
+      <shelf name="sci-fi-fantasy" count="4"/>
+      <shelf name="crime-mystery" count="4"/>
+      <shelf name="horror-thriller" count="4"/>
+      <shelf name="detective" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="tenho" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="gave-up" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="to-read-soon" count="3"/>
+      <shelf name="listened-to" count="3"/>
+      <shelf name="sf" count="3"/>
+      <shelf name="have-audiobook" count="3"/>
+      <shelf name="read-2014" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="podcast" count="3"/>
+      <shelf name="recommendations" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="vampires" count="3"/>
+      <shelf name="read-in-2013" count="3"/>
+      <shelf name="podiobooks" count="3"/>
+      <shelf name="stand-alone" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="to-get" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="hardcover" count="3"/>
+      <shelf name="crime-fiction" count="2"/>
+      <shelf name="audio_wanted" count="2"/>
+      <shelf name="5-stars" count="2"/>
+      <shelf name="tsundoku" count="2"/>
+      <shelf name="scifi-fantasy" count="2"/>
+      <shelf name="livros" count="2"/>
+      <shelf name="amazon" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="signed" count="2"/>
+      <shelf name="calibre" count="2"/>
+      <shelf name="own-but-havent-read" count="2"/>
+      <shelf name="next-up" count="2"/>
+      <shelf name="horror-fantasy" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="don-t-own" count="2"/>
+      <shelf name="books" count="2"/>
+      <shelf name="owned-not-read" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="own-it" count="2"/>
+      <shelf name="supernatural-paranormal" count="2"/>
+      <shelf name="violent" count="2"/>
+      <shelf name="read-in-2015" count="2"/>
+      <shelf name="owned-unread" count="2"/>
+      <shelf name="unfinished" count="2"/>
+      <shelf name="thriller-suspence" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>20608</id>
+        <document_url>
+          https://s3.amazonaws.com/compressed.photo.goodreads.com/documents/1333579985books/12099550.pdf
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>22545462</id>
+<title>MirrorWorld</title>
+<title_without_series>MirrorWorld</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22545462-mirrorworld]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426664424l/22545462._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426664424l/22545462._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>42001562</id>
+</work>
+<isbn>1250054109</isbn>
+<isbn13>9781250054104</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>12328</id>
+<name>Jeremy Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12328.Jeremy_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11878058</id>
+<title><![CDATA[We're Alive: A Story of Survival, the First Season]]></title>
+<title_without_series><![CDATA[We're Alive: A Story of Survival, the First Season]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11878058-we-re-alive]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>16534118</id>
+</work>
+<isbn>145511457X</isbn>
+<isbn13>9781455114573</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4915737</id>
+<name>K.C. Wayland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4915737.K_C_Wayland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>423332</id>
+<title><![CDATA[7th Son:  Descent (7th Son, #1)]]></title>
+<title_without_series>7th Son:  Descent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/423332.7th_Son]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1</num_pages>
+<work>
+<id>412429</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>238756</id>
+<name>J.C. Hutchins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/238756.J_C_Hutchins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35223345</id>
+<title>Tomb (Derelict Saga #2)</title>
+<title_without_series>Tomb</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35223345-tomb]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56566895</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3167922</id>
+<name>Paul Elard Cooley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3167922.Paul_Elard_Cooley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2367009</id>
+<title>7th Son: Deceit (7th Son, #2)</title>
+<title_without_series>7th Son: Deceit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2367009.7th_Son]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352847104l/2367009._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352847104l/2367009._SX98_.jpg]]></image_url>
+<num_pages>1</num_pages>
+<work>
+<id>2373829</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>238756</id>
+<name>J.C. Hutchins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/238756.J_C_Hutchins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33812020</id>
+<title>Marines (Derelict Saga #1)</title>
+<title_without_series>Marines</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33812020-marines]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>54721403</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3167922</id>
+<name>Paul Elard Cooley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3167922.Paul_Elard_Cooley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37638241</id>
+<title>Deep Silence (Joe Ledger #10)</title>
+<title_without_series>Deep Silence</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37638241-deep-silence]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517708950l/37638241._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517708950l/37638241._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>59225632</id>
+</work>
+<isbn>1250098467</isbn>
+<isbn13>9781250098467</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>72451</id>
+<name>Jonathan Maberry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72451.Jonathan_Maberry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3993839</id>
+<title>Patient Zero (Joe Ledger, #1)</title>
+<title_without_series>Patient Zero</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3993839-patient-zero]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>421</num_pages>
+<work>
+<id>4039913</id>
+</work>
+<isbn>0312382855</isbn>
+<isbn13>9780312382858</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>72451</id>
+<name>Jonathan Maberry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72451.Jonathan_Maberry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25565461</id>
+<title>Joe Ledger: Unstoppable</title>
+<title_without_series>Joe Ledger: Unstoppable</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25565461-joe-ledger]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484327769l/25565461._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484327769l/25565461._SX98_.jpg]]></image_url>
+<num_pages>486</num_pages>
+<work>
+<id>45363687</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>72451</id>
+<name>Jonathan Maberry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72451.Jonathan_Maberry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2314130</id>
+<title><![CDATA[Bad Moon Rising (Pine Deep, #3)]]></title>
+<title_without_series>Bad Moon Rising</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2314130.Bad_Moon_Rising]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>45088866</id>
+</work>
+<isbn>0786018178</isbn>
+<isbn13>9780786018178</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72451</id>
+<name>Jonathan Maberry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72451.Jonathan_Maberry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17934470</id>
+<title>XOM-B</title>
+<title_without_series>XOM-B</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17934470-xom-b]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393647600l/17934470._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393647600l/17934470._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>25142332</id>
+</work>
+<isbn>1250031710</isbn>
+<isbn13>9781250031716</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>12328</id>
+<name>Jeremy Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12328.Jeremy_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7819220</id>
+<title>Underwood and Flinch</title>
+<title_without_series>Underwood and Flinch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7819220-underwood-and-flinch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465300406l/7819220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465300406l/7819220._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10853558</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11394</id>
+<name>Mike  Bennett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11394.Mike_Bennett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43244176</id>
+<title><![CDATA[By Darkness Forged (Seeker's Tales From The Golden Age Of The Solar Clipper, #3)]]></title>
+<title_without_series>By Darkness Forged</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43244176-by-darkness-forged]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544926787l/43244176._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544926787l/43244176._SX98_.jpg]]></image_url>
+<num_pages>364</num_pages>
+<work>
+<id>67104045</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>1048167</id>
+<name>Nathan Lowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1048167.Nathan_Lowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>219523</id>
+<title>The Night Boat</title>
+<title_without_series>The Night Boat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/219523.The_Night_Boat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297549365l/219523._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297549365l/219523._SX98_.jpg]]></image_url>
+<num_pages>284</num_pages>
+<work>
+<id>16696210</id>
+</work>
+<isbn>187053221X</isbn>
+<isbn13>9781870532211</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5244478</id>
+<name>Robert R. McCammon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5244478.Robert_R_McCammon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>215606</id>
+<title><![CDATA[Dead Man's Song (Pine Deep, #2)]]></title>
+<title_without_series>Dead Man&apos;s Song</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/215606.Dead_Man_s_Song]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>501</num_pages>
+<work>
+<id>208735</id>
+</work>
+<isbn>078601816X</isbn>
+<isbn13>9780786018161</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72451</id>
+<name>Jonathan Maberry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72451.Jonathan_Maberry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43542011</id>
+<title>Dead Moon (Threshold, #3)</title>
+<title_without_series>Dead Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43542011-dead-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547278716l/43542011._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547278716l/43542011._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>67731558</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>3396842</id>
+<name>Peter Clines</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3396842.Peter_Clines]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18371375</id>
+<title>The Montauk Monster</title>
+<title_without_series>The Montauk Monster</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18371375-the-montauk-monster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385355700l/18371375._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385355700l/18371375._SY160_.jpg]]></image_url>
+<num_pages>347</num_pages>
+<work>
+<id>25981465</id>
+</work>
+<isbn>0786034750</isbn>
+<isbn13>9780786034758</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5224760</id>
+<name>Hunter Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5224760.Hunter_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40019475</id>
+<title><![CDATA[Derelict: Destruction (Derelict Saga Book 3)]]></title>
+<title_without_series>Derelict: Destruction</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40019475-derelict]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61977671</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5010</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3167922</id>
+<name>Paul Elard Cooley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3167922.Paul_Elard_Cooley]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

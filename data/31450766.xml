@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>31450766</id>
+  <title>Jane Austen at Home</title>
+  <isbn><![CDATA[125013160X]]></isbn>
+  <isbn13><![CDATA[9781250131607]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506144874l/31450766._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506144874l/31450766._SY75_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>St. Martin's Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>"Jane Austen at Home offers a fascinating look at Jane Austen's world through the lens of the homes in which she lived and worked throughout her life. The result is a refreshingly unique perspective on Austen and her work and a beautifully nuanced exploration of gender, creativity, and domesticity."--Amanda Foreman, bestselling author of Georgianna, Duchess of Devonshire</b><br /><br />Take a trip back to Jane Austen's world and the many places she lived as historian Lucy Worsley visits Austen's childhood home, her schools, her holiday accommodations, the houses--both grand and small--of the relations upon whom she was dependent, and the home she shared with her mother and sister towards the end of her life. In places like Steventon Parsonage, Godmersham Park, Chawton House and a small rented house in Winchester, Worsley discovers a Jane Austen very different from the one who famously lived a 'life without incident'. <br /><br />Worsley examines the rooms, spaces and possessions which mattered to her, and the varying ways in which homes are used in her novels as both places of pleasure and as prisons. She shows readers a passionate Jane Austen who fought for her freedom, a woman who had at least five marriage prospects, but--in the end--a woman who refused to settle for anything less than Mr. Darcy. <br /><br />Illustrated with two sections of color plates, Lucy Worsley's Jane Austen at Home is a richly entertaining and illuminating new book about one of the world’s favorite novelists and one of the subjects she returned to over and over in her unforgettable novels: home.]]></description>
+  <work>
+  <id type="integer">55016435</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">34018949</best_book_id>
+  <reviews_count type="integer">20335</reviews_count>
+  <ratings_sum type="integer">12400</ratings_sum>
+  <ratings_count type="integer">2911</ratings_count>
+  <text_reviews_count type="integer">514</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">18</original_publication_day>
+  <original_title>Jane Austen at Home</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1262|4:1231|3:347|2:54|1:17|total:2911</rating_dist>
+  <desc_user_id type="integer">312880</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.gosqkOHwvRUNiusFOMLetA</work_uri>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[387]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[541]]></ratings_count>
+  <text_reviews_count><![CDATA[112]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/31450766-jane-austen-at-home]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/31450766-jane-austen-at-home]]></link>
+  <authors>
+<author>
+<id>541690</id>
+<name>Lucy Worsley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311891638p5/541690.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311891638p2/541690.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/541690.Lucy_Worsley]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>13243</ratings_count>
+<text_reviews_count>2103</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/31450766-jane-austen-at-home">Jane Austen at Home Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=125013160X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/31450766-jane-austen-at-home?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="16208"/>
+      <shelf name="currently-reading" count="490"/>
+      <shelf name="non-fiction" count="322"/>
+      <shelf name="biography" count="242"/>
+      <shelf name="history" count="179"/>
+      <shelf name="nonfiction" count="160"/>
+      <shelf name="jane-austen" count="74"/>
+      <shelf name="historical" count="37"/>
+      <shelf name="biographies" count="34"/>
+      <shelf name="books-i-own" count="34"/>
+      <shelf name="biography-memoir" count="34"/>
+      <shelf name="audiobooks" count="30"/>
+      <shelf name="kindle" count="24"/>
+      <shelf name="audiobook" count="23"/>
+      <shelf name="austen" count="23"/>
+      <shelf name="owned" count="22"/>
+      <shelf name="audio" count="22"/>
+      <shelf name="favorites" count="20"/>
+      <shelf name="read-in-2018" count="19"/>
+      <shelf name="england" count="19"/>
+      <shelf name="library" count="18"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="british" count="16"/>
+      <shelf name="wish-list" count="14"/>
+      <shelf name="bio" count="12"/>
+      <shelf name="audible" count="12"/>
+      <shelf name="19th-century" count="11"/>
+      <shelf name="books-about-books" count="11"/>
+      <shelf name="regency" count="11"/>
+      <shelf name="read-in-2019" count="9"/>
+      <shelf name="women" count="9"/>
+      <shelf name="adult" count="9"/>
+      <shelf name="audio-book" count="9"/>
+      <shelf name="biography-and-memoir" count="9"/>
+      <shelf name="british-history" count="9"/>
+      <shelf name="read-2018" count="8"/>
+      <shelf name="tbr" count="8"/>
+      <shelf name="ebook" count="8"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="austenesque" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="to-read-nonfiction" count="8"/>
+      <shelf name="literature" count="8"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="nonfiction-to-read" count="7"/>
+      <shelf name="biographies-memoirs" count="7"/>
+      <shelf name="jane-austen-related" count="7"/>
+      <shelf name="2019-reads" count="6"/>
+      <shelf name="non-fiction-tbr" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="bio-memoir" count="6"/>
+      <shelf name="non-fic" count="6"/>
+      <shelf name="historical-non-fiction" count="6"/>
+      <shelf name="to-read-non-fiction" count="6"/>
+      <shelf name="memoir" count="6"/>
+      <shelf name="giveaways" count="6"/>
+      <shelf name="read-2019" count="5"/>
+      <shelf name="owned-tbr" count="5"/>
+      <shelf name="2018-books" count="5"/>
+      <shelf name="ebooks" count="5"/>
+      <shelf name="janeite" count="5"/>
+      <shelf name="auto-biography" count="5"/>
+      <shelf name="female-author" count="5"/>
+      <shelf name="18th-century" count="5"/>
+      <shelf name="georgian" count="5"/>
+      <shelf name="memoir-biography" count="5"/>
+      <shelf name="2017-reads" count="5"/>
+      <shelf name="biography-autobiography" count="5"/>
+      <shelf name="austen-related" count="5"/>
+      <shelf name="read-in-2017" count="5"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="biographical" count="5"/>
+      <shelf name="2017-releases" count="5"/>
+      <shelf name="want-to-read-non-fiction" count="4"/>
+      <shelf name="english" count="4"/>
+      <shelf name="hoopla" count="4"/>
+      <shelf name="uk" count="4"/>
+      <shelf name="writing" count="4"/>
+      <shelf name="books-read-in-2018" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="biography-and-autobiography" count="4"/>
+      <shelf name="2018-read" count="4"/>
+      <shelf name="memoirs-biographies" count="4"/>
+      <shelf name="biography-autobiography-memoir" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="autobiography-biography" count="4"/>
+      <shelf name="kindle-books" count="4"/>
+      <shelf name="own-to-read" count="4"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="2018-reading-list" count="4"/>
+      <shelf name="nonfiction-tbr" count="4"/>
+      <shelf name="classics" count="4"/>
+      <shelf name="non-fiction-history" count="4"/>
+      <shelf name="jane" count="4"/>
+      <shelf name="writers" count="4"/>
+      <shelf name="historical-nonfiction" count="4"/>
+      <shelf name="women-authors" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="interested" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>15793663</id>
+<title><![CDATA[What Matters in Jane Austen?: Twenty Crucial Puzzles Solved]]></title>
+<title_without_series><![CDATA[What Matters in Jane Austen?: Twenty Crucial Puzzles Solved]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15793663-what-matters-in-jane-austen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350952788l/15793663._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350952788l/15793663._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>19694832</id>
+</work>
+<isbn>1620400413</isbn>
+<isbn13>9781620400418</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>6793</id>
+<name>John Mullan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6793.John_Mullan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15819023</id>
+<title><![CDATA[The Real Jane Austen: A Life in Small Things]]></title>
+<title_without_series><![CDATA[The Real Jane Austen: A Life in Small Things]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15819023-the-real-jane-austen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353345358l/15819023._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353345358l/15819023._SX98_.jpg]]></image_url>
+<num_pages>380</num_pages>
+<work>
+<id>21547731</id>
+</work>
+<isbn>0061999091</isbn>
+<isbn13>9780061999093</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>367213</id>
+<name>Paula Byrne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/367213.Paula_Byrne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16158557</id>
+<title>Jane Austen&apos;s England</title>
+<title_without_series>Jane Austen&apos;s England</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16158557-jane-austen-s-england]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372042670l/16158557._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372042670l/16158557._SX98_.jpg]]></image_url>
+<num_pages>422</num_pages>
+<work>
+<id>21998973</id>
+</work>
+<isbn>0670785849</isbn>
+<isbn13>9780670785841</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2862438</id>
+<name>Roy A. Adkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2862438.Roy_A_Adkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32319761</id>
+<title><![CDATA[The Genius of Jane Austen: Her Love of Theatre and Why She Works in Hollywood]]></title>
+<title_without_series><![CDATA[The Genius of Jane Austen: Her Love of Theatre and Why She Works in Hollywood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32319761-the-genius-of-jane-austen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492657449l/32319761._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492657449l/32319761._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>52951160</id>
+</work>
+<isbn>0062674501</isbn>
+<isbn13>9780062674500</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>367213</id>
+<name>Paula Byrne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/367213.Paula_Byrne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20702717</id>
+<title>At Home with Jane Austen</title>
+<title_without_series>At Home with Jane Austen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20702717-at-home-with-jane-austen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403360943l/20702717._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403360943l/20702717._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>40022530</id>
+</work>
+<isbn>0789212099</isbn>
+<isbn13>9780789212092</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1449</id>
+<name>Kim Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1449.Kim_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32441705</id>
+<title><![CDATA[Jane Austen, the Secret Radical]]></title>
+<title_without_series><![CDATA[Jane Austen, the Secret Radical]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32441705-jane-austen-the-secret-radical]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479695315l/32441705._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479695315l/32441705._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>53028942</id>
+</work>
+<isbn>1524732109</isbn>
+<isbn13>9781524732103</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6813299</id>
+<name>Helena Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6813299.Helena_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6011246</id>
+<title><![CDATA[Jane's Fame: How Jane Austen Conquered the World]]></title>
+<title_without_series><![CDATA[Jane's Fame: How Jane Austen Conquered the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6011246-jane-s-fame]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356146852l/6011246._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356146852l/6011246._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>6186435</id>
+</work>
+<isbn>1847672949</isbn>
+<isbn13>9781847672940</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>99176</id>
+<name>Claire Harman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99176.Claire_Harman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17380041</id>
+<title>Longbourn</title>
+<title_without_series>Longbourn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17380041-longbourn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452268403l/17380041._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452268403l/17380041._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>24080996</id>
+</work>
+<isbn>0385351232</isbn>
+<isbn13>9780385351232</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>965819</id>
+<name>Jo Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/965819.Jo_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25739007</id>
+<title><![CDATA[Charlotte Brontë: A Fiery Heart]]></title>
+<title_without_series><![CDATA[Charlotte Brontë: A Fiery Heart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25739007-charlotte-bront]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445791643l/25739007._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445791643l/25739007._SX98_.jpg]]></image_url>
+<num_pages>462</num_pages>
+<work>
+<id>45956188</id>
+</work>
+<isbn>0307962083</isbn>
+<isbn13>9780307962089</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>99176</id>
+<name>Claire Harman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99176.Claire_Harman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37545347</id>
+<title><![CDATA[The Five: The Untold Lives of the Women Killed by Jack the Ripper]]></title>
+<title_without_series><![CDATA[The Five: The Untold Lives of the Women Killed by Jack the Ripper]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37545347-the-five]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519263187l/37545347._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519263187l/37545347._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59148767</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>474408</id>
+<name>Hallie Rubenhold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/474408.Hallie_Rubenhold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>208729</id>
+<title><![CDATA[Lady Susan, The Watsons, Sanditon]]></title>
+<title_without_series><![CDATA[Lady Susan, The Watsons, Sanditon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/208729.Lady_Susan_The_Watsons_Sanditon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371223264l/208729._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371223264l/208729._SX98_.jpg]]></image_url>
+<num_pages>211</num_pages>
+<work>
+<id>1890744</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>11</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>1265</id>
+<name>Jane Austen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20819711</id>
+<title><![CDATA[Jane Austen Cover to Cover: 200 Years of Classic Book Covers]]></title>
+<title_without_series><![CDATA[Jane Austen Cover to Cover: 200 Years of Classic Book Covers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20819711-jane-austen-cover-to-cover]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406506271l/20819711._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406506271l/20819711._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>40165597</id>
+</work>
+<isbn>1594747253</isbn>
+<isbn13>9781594747250</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>28348</id>
+<name>Margaret C. Sullivan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28348.Margaret_C_Sullivan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33413920</id>
+<title><![CDATA[A Secret Sisterhood: The Literary Friendships of Jane Austen, Charlotte Brontë, George Eliot, and Virginia Woolf]]></title>
+<title_without_series><![CDATA[A Secret Sisterhood: The Literary Friendships of Jane Austen, Charlotte Brontë, George Eliot, and Virginia Woolf]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33413920-a-secret-sisterhood]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487314376l/33413920._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487314376l/33413920._SX98_.jpg]]></image_url>
+<num_pages>331</num_pages>
+<work>
+<id>54173037</id>
+</work>
+<isbn>054488373X</isbn>
+<isbn13>9780544883734</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>16203632</id>
+<name>Emily Midorikawa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16203632.Emily_Midorikawa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29858727</id>
+<title>The Lives of Tudor Women</title>
+<title_without_series>The Lives of Tudor Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29858727-the-lives-of-tudor-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467490178l/29858727._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467490178l/29858727._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>50222746</id>
+</work>
+<isbn>1784081752</isbn>
+<isbn13>9781784081751</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2107297</id>
+<name>Elizabeth Norton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2107297.Elizabeth_Norton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35182350</id>
+<title><![CDATA[Queen Victoria's Matchmaking: The Royal Marriages that Shaped Europe]]></title>
+<title_without_series><![CDATA[Queen Victoria's Matchmaking: The Royal Marriages that Shaped Europe]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35182350-queen-victoria-s-matchmaking]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499759238l/35182350._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499759238l/35182350._SX98_.jpg]]></image_url>
+<num_pages>382</num_pages>
+<work>
+<id>56519364</id>
+</work>
+<isbn>1610398467</isbn>
+<isbn13>9781610398466</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>126005</id>
+<name>Deborah Cadbury</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126005.Deborah_Cadbury]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6043500</id>
+<title>The Mistresses of Henry VIII</title>
+<title_without_series>The Mistresses of Henry VIII</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6043500-the-mistresses-of-henry-viii]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328820262l/6043500._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328820262l/6043500._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>6219073</id>
+</work>
+<isbn>0752448358</isbn>
+<isbn13>9780752448350</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>814025</id>
+<name>Kelly Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/814025.Kelly_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30965666</id>
+<title><![CDATA[The Time Traveller's Guide to Restoration Britain: Life in the Age of Samuel Pepys, Isaac Newton and The Great Fire of London]]></title>
+<title_without_series><![CDATA[The Time Traveller's Guide to Restoration Britain: Life in the Age of Samuel Pepys, Isaac Newton and The Great Fire of London]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30965666-the-time-traveller-s-guide-to-restoration-britain]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483431834l/30965666._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483431834l/30965666._SX98_.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>50830854</id>
+</work>
+<isbn>1847923046</isbn>
+<isbn13>9781847923042</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>436455</id>
+<name>Ian Mortimer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/436455.Ian_Mortimer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17196514</id>
+<title><![CDATA[Among the Janeites: A Journey Through the World of Jane Austen Fandom]]></title>
+<title_without_series><![CDATA[Among the Janeites: A Journey Through the World of Jane Austen Fandom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17196514-among-the-janeites]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361993947l/17196514._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361993947l/17196514._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>23670475</id>
+</work>
+<isbn>0547757794</isbn>
+<isbn13>9780547757797</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2911</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>931720</id>
+<name>Deborah Yaffe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/931720.Deborah_Yaffe]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

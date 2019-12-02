@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>31625795</id>
+  <title>Jabari Jumps</title>
+  <isbn><![CDATA[0763678384]]></isbn>
+  <isbn13><![CDATA[9780763678388]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474598253l/31625795._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474598253l/31625795._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Candlewick Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Working up the courage to take a big, important leap is hard, but Jabari is <i>almost</i> absolutely ready to make a giant splash.</b><br /><br />Jabari is definitely ready to jump off the diving board. He's finished his swimming lessons and passed his swim test, and he's a great jumper, so he's not scared at all. "Looks easy," says Jabari, watching the other kids take their turns. But when his dad squeezes his hand, Jabari squeezes back. He needs to figure out what kind of special jump to do anyway, and he should probably do some stretches before climbing up onto the diving board. <br /><br /><b>In a sweetly appealing tale of overcoming your fears, newcomer Gaia Cornwall captures a moment between a patient and encouraging father and a determined little boy you can't help but root for.</b>]]></description>
+  <work>
+  <id type="integer">52307886</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">31625795</best_book_id>
+  <reviews_count type="integer">5818</reviews_count>
+  <ratings_sum type="integer">10787</ratings_sum>
+  <ratings_count type="integer">2499</ratings_count>
+  <text_reviews_count type="integer">493</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>Jabari Jumps</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1181|4:987|3:282|2:39|1:10|total:2499</rating_dist>
+  <desc_user_id type="integer">489381</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.e0Br3VVNECfxrQBe5e4xkQ</work_uri>
+</work>
+  <average_rating>4.32</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2492]]></ratings_count>
+  <text_reviews_count><![CDATA[493]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/31625795-jabari-jumps]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/31625795-jabari-jumps]]></link>
+  <authors>
+<author>
+<id>15662189</id>
+<name>Gaia Cornwall</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1488392169p5/15662189.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1488392169p2/15662189.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15662189.Gaia_Cornwall]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<text_reviews_count>493</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/31625795-jabari-jumps">Jabari Jumps Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0763678384&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/31625795-jabari-jumps?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2403"/>
+      <shelf name="picture-books" count="490"/>
+      <shelf name="picture-book" count="135"/>
+      <shelf name="childrens" count="64"/>
+      <shelf name="children-s-books" count="62"/>
+      <shelf name="kids" count="48"/>
+      <shelf name="storytime" count="46"/>
+      <shelf name="children" count="46"/>
+      <shelf name="children-s" count="40"/>
+      <shelf name="courage" count="32"/>
+      <shelf name="childrens-books" count="32"/>
+      <shelf name="summer" count="32"/>
+      <shelf name="swimming" count="30"/>
+      <shelf name="diversity" count="30"/>
+      <shelf name="family" count="29"/>
+      <shelf name="fiction" count="29"/>
+      <shelf name="realistic-fiction" count="27"/>
+      <shelf name="preschool" count="25"/>
+      <shelf name="african-american" count="22"/>
+      <shelf name="read-in-2017" count="19"/>
+      <shelf name="picture" count="19"/>
+      <shelf name="children-s-lit" count="18"/>
+      <shelf name="favorites" count="18"/>
+      <shelf name="growth-mindset" count="18"/>
+      <shelf name="kids-books" count="18"/>
+      <shelf name="sports" count="18"/>
+      <shelf name="fear" count="17"/>
+      <shelf name="bravery" count="17"/>
+      <shelf name="picturebooks" count="16"/>
+      <shelf name="we-need-diverse-books" count="15"/>
+      <shelf name="multicultural" count="15"/>
+      <shelf name="diverse" count="14"/>
+      <shelf name="monarch-2019" count="13"/>
+      <shelf name="children-s-literature" count="12"/>
+      <shelf name="currently-reading" count="12"/>
+      <shelf name="feelings" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="children-books" count="11"/>
+      <shelf name="preschool-storytime" count="11"/>
+      <shelf name="read-alouds" count="11"/>
+      <shelf name="read-aloud" count="11"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="classroombookaday" count="10"/>
+      <shelf name="childrens-picture-books" count="10"/>
+      <shelf name="poc" count="9"/>
+      <shelf name="picture-books-2017" count="9"/>
+      <shelf name="diverse-books" count="9"/>
+      <shelf name="fears" count="9"/>
+      <shelf name="edrd-390" count="8"/>
+      <shelf name="fathers" count="8"/>
+      <shelf name="monarch" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="families" count="7"/>
+      <shelf name="kid-lit" count="7"/>
+      <shelf name="children-s-picture-books" count="7"/>
+      <shelf name="diverse-characters" count="7"/>
+      <shelf name="pb" count="7"/>
+      <shelf name="diving" count="7"/>
+      <shelf name="story-time" count="7"/>
+      <shelf name="read-in-2018" count="6"/>
+      <shelf name="read-2018" count="6"/>
+      <shelf name="favorite-picture-books" count="6"/>
+      <shelf name="perseverance" count="6"/>
+      <shelf name="mentor-texts" count="6"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="2017-picture-books" count="6"/>
+      <shelf name="water" count="6"/>
+      <shelf name="picture-books-read" count="5"/>
+      <shelf name="exploring-quality" count="5"/>
+      <shelf name="exploring-assignment" count="5"/>
+      <shelf name="classroom-books" count="5"/>
+      <shelf name="to-read-picture-books" count="5"/>
+      <shelf name="people-of-color" count="5"/>
+      <shelf name="adventure" count="5"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="storytime-books" count="5"/>
+      <shelf name="dads" count="5"/>
+      <shelf name="1st-grade" count="5"/>
+      <shelf name="read-in-2019" count="4"/>
+      <shelf name="2019-monarch" count="4"/>
+      <shelf name="kidlit" count="4"/>
+      <shelf name="classroom-library" count="4"/>
+      <shelf name="charlie" count="4"/>
+      <shelf name="children-s-lit-2018" count="4"/>
+      <shelf name="overcoming-fears" count="4"/>
+      <shelf name="2018-reads" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="emotions" count="4"/>
+      <shelf name="life-lessons" count="4"/>
+      <shelf name="childrens-picture" count="4"/>
+      <shelf name="facing-fears" count="4"/>
+      <shelf name="small-moments" count="4"/>
+      <shelf name="2018-mock-caldecott" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="perserverance" count="4"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="character-ed" count="4"/>
+      <shelf name="mock-caldecott-2018" count="4"/>
+      <shelf name="wndb" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>33376257</id>
+<title><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title>
+<title_without_series><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33376257-after-the-fall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54117215</id>
+</work>
+<isbn>1626726825</isbn>
+<isbn13>9781626726826</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31456756</id>
+<title>The Book of Mistakes</title>
+<title_without_series>The Book of Mistakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31456756-the-book-of-mistakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>52161728</id>
+</work>
+<isbn>0735227926</isbn>
+<isbn13>9780735227927</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31215005</id>
+<title><![CDATA[The Legend of Rock Paper Scissors]]></title>
+<title_without_series><![CDATA[The Legend of Rock Paper Scissors]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31215005-the-legend-of-rock-paper-scissors]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484283303l/31215005._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484283303l/31215005._SX98_.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>51870043</id>
+</work>
+<isbn>0062438891</isbn>
+<isbn13>9780062438898</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34137106</id>
+<title>A Different Pond</title>
+<title_without_series>A Different Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34137106-a-different-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55174398</id>
+</work>
+<isbn>1479597465</isbn>
+<isbn13>9781479597468</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5042071</id>
+<name>Bao Phi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5042071.Bao_Phi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30364127</id>
+<title>Over and Under the Pond</title>
+<title_without_series>Over and Under the Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30364127-over-and-under-the-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>50874368</id>
+</work>
+<isbn>1452145423</isbn>
+<isbn13>9781452145426</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31423547</id>
+<title>Be Quiet!</title>
+<title_without_series>Be Quiet!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31423547-be-quiet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>52115181</id>
+</work>
+<isbn>148473162X</isbn>
+<isbn13>9781484731628</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34227634</id>
+<title><![CDATA[Alfie: (The Turtle That Disappeared)]]></title>
+<title_without_series>Alfie:</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34227634-alfie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490295860l/34227634._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490295860l/34227634._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>55281383</id>
+</work>
+<isbn>1419725297</isbn>
+<isbn13>9781419725296</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6907866</id>
+<name>Thyra Heder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6907866.Thyra_Heder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28234753</id>
+<title>Alma and How She Got Her Name</title>
+<title_without_series>Alma and How She Got Her Name</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28234753-alma-and-how-she-got-her-name]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513197112l/28234753._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513197112l/28234753._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48265768</id>
+</work>
+<isbn>0763693553</isbn>
+<isbn13>9780763693558</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5300084</id>
+<name>Juana Martinez-Neal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5300084.Juana_Martinez_Neal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506301</id>
+<title>The Day You Begin</title>
+<title_without_series>The Day You Begin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59116604</id>
+</work>
+<isbn>0399246533</isbn>
+<isbn13>9780399246531</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34362953</id>
+<title><![CDATA[A Big Mooncake for Little Star]]></title>
+<title_without_series><![CDATA[A Big Mooncake for Little Star]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34362953-a-big-mooncake-for-little-star]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509397042l/34362953._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509397042l/34362953._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>55441756</id>
+</work>
+<isbn>0316404489</isbn>
+<isbn13>9780316404488</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>59390</id>
+<name>Grace Lin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59390.Grace_Lin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34642482</id>
+<title>Thank You, Omu!</title>
+<title_without_series>Thank You, Omu!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34642482-thank-you-omu]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>55803453</id>
+</work>
+<isbn>0316431249</isbn>
+<isbn13>9780316431248</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>16600636</id>
+<name>Oge Mora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16600636.Oge_Mora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36959643</id>
+<title>All Are Welcome</title>
+<title_without_series>All Are Welcome</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36959643-all-are-welcome]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521107247l/36959643._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521107247l/36959643._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>58759199</id>
+</work>
+<isbn>0525579656</isbn>
+<isbn13>9780525579656</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6475425</id>
+<name>Alexandra Penfold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6475425.Alexandra_Penfold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34144489</id>
+<title><![CDATA[Crown: An Ode to the Fresh Cut]]></title>
+<title_without_series><![CDATA[Crown: An Ode to the Fresh Cut]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34144489-crown]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55181311</id>
+</work>
+<isbn>1572842245</isbn>
+<isbn13>9781572842243</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>229556</id>
+<name>Derrick Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229556.Derrick_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23208702</id>
+<title>A Greyhound, A Groundhog</title>
+<title_without_series>A Greyhound, A Groundhog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23208702-a-greyhound-a-groundhog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488842570l/23208702._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488842570l/23208702._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42752039</id>
+</work>
+<isbn>0605976147</isbn>
+<isbn13>9780605976146</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13899</id>
+<name>Emily Jenkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13899.Emily_Jenkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35959676</id>
+<title>What If...</title>
+<title_without_series>What If...</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35959676-what-if]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503308481l/35959676._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503308481l/35959676._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>57517624</id>
+</work>
+<isbn>0316390968</isbn>
+<isbn13>9780316390965</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>126530</id>
+<name>Samantha Berger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126530.Samantha_Berger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30555639</id>
+<title>Little Fox in the Forest</title>
+<title_without_series>Little Fox in the Forest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30555639-little-fox-in-the-forest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410990l/30555639._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410990l/30555639._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>51102487</id>
+</work>
+<isbn>055353789X</isbn>
+<isbn13>9780553537895</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>5398581</id>
+<name>Stephanie Graegin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5398581.Stephanie_Graegin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41735921</id>
+<title><![CDATA[The Pigeon Has to Go to School]]></title>
+<title_without_series><![CDATA[The Pigeon Has to Go to School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41735921-the-pigeon-has-to-go-to-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536365316l/41735921._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536365316l/41735921._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>65122143</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41854889</id>
+<title>The King of Kindergarten</title>
+<title_without_series>The King of Kindergarten</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41854889-the-king-of-kindergarten]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542006818l/41854889._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542006818l/41854889._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>65338397</id>
+</work>
+<isbn>1524740748</isbn>
+<isbn13>9781524740740</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>229556</id>
+<name>Derrick Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229556.Derrick_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

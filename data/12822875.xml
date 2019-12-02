@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12822875</id>
+  <title>The Council of Mirrors</title>
+  <isbn><![CDATA[141970186X]]></isbn>
+  <isbn13><![CDATA[9781419701863]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397787334l/12822875._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397787334l/12822875._SX50_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>24</publication_day>
+  <publisher>Harry N. Abrams</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In the final volume in the Sisters Grimm series, Sabrina, Daphne, and the rest of the Grimms and their friends must face off against the Master to decide the fate of Ferryport Landing—and the world. When Mirror fails to escape the barrier using Granny Relda’s body, he turns to his plan B: killing all the Grimms so that the magical barrier collapses. In the meantime, Sabrina has gathered the other magic mirrors as advisors on how to deal with their mortal enemy. They tell her to join forces with the Scarlet Hand against Mirror, in exchange for offering all the citizens of Ferryport Landing their freedom. This final chapter is the end of the road for several beloved characters, but the conclusion is sure to satisfy devoted fans of the series.]]></description>
+  <work>
+  <id type="integer">17972564</id>
+  <books_count type="integer">12</books_count>
+  <best_book_id type="integer">12822875</best_book_id>
+  <reviews_count type="integer">17545</reviews_count>
+  <ratings_sum type="integer">46449</ratings_sum>
+  <ratings_count type="integer">10612</ratings_count>
+  <text_reviews_count type="integer">651</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">24</original_publication_day>
+  <original_title>The Council of Mirrors</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6116|4:2921|3:1172|2:266|1:137|total:10612</rating_dist>
+  <desc_user_id type="integer">87835420</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Ej4c0GuFZrdk6wqq-7ANBQ</work_uri>
+</work>
+  <average_rating>4.38</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9863]]></ratings_count>
+  <text_reviews_count><![CDATA[588]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12822875-the-council-of-mirrors]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12822875-the-council-of-mirrors]]></link>
+  <authors>
+<author>
+<id>65335</id>
+<name>Michael Buckley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417053488p5/65335.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417053488p2/65335.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/65335.Michael_Buckley]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>207497</ratings_count>
+<text_reviews_count>10810</text_reviews_count>
+</author>
+<author>
+<id>65334</id>
+<name>Peter Ferguson</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/65334.Peter_Ferguson]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>189465</ratings_count>
+<text_reviews_count>9021</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12822875-the-council-of-mirrors">The Council of Mirrors Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=141970186X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/12822875-the-council-of-mirrors?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4766"/>
+      <shelf name="fantasy" count="287"/>
+      <shelf name="favorites" count="175"/>
+      <shelf name="currently-reading" count="133"/>
+      <shelf name="fairy-tales" count="76"/>
+      <shelf name="series" count="67"/>
+      <shelf name="middle-grade" count="62"/>
+      <shelf name="mystery" count="58"/>
+      <shelf name="childrens" count="53"/>
+      <shelf name="adventure" count="46"/>
+      <shelf name="fiction" count="45"/>
+      <shelf name="sisters-grimm" count="44"/>
+      <shelf name="young-adult" count="40"/>
+      <shelf name="books-i-own" count="35"/>
+      <shelf name="magic" count="32"/>
+      <shelf name="fairy-tale" count="30"/>
+      <shelf name="children" count="29"/>
+      <shelf name="ya" count="27"/>
+      <shelf name="the-sisters-grimm" count="27"/>
+      <shelf name="kids" count="27"/>
+      <shelf name="children-s" count="25"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="juvenile" count="22"/>
+      <shelf name="fairytales" count="19"/>
+      <shelf name="retellings" count="15"/>
+      <shelf name="juvenile-fiction" count="14"/>
+      <shelf name="fairytale" count="14"/>
+      <shelf name="romance" count="14"/>
+      <shelf name="childhood" count="13"/>
+      <shelf name="audiobook" count="13"/>
+      <shelf name="michael-buckley" count="13"/>
+      <shelf name="childrens-books" count="13"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="kids-books" count="12"/>
+      <shelf name="fairy-tale-retellings" count="12"/>
+      <shelf name="library" count="11"/>
+      <shelf name="children-s-books" count="11"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="middle-school" count="10"/>
+      <shelf name="family" count="9"/>
+      <shelf name="fairytale-retellings" count="8"/>
+      <shelf name="retelling" count="8"/>
+      <shelf name="childhood-books" count="8"/>
+      <shelf name="favorite" count="8"/>
+      <shelf name="audiobooks" count="8"/>
+      <shelf name="favorite-books" count="8"/>
+      <shelf name="children-s-lit" count="8"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="humor" count="7"/>
+      <shelf name="fairies" count="7"/>
+      <shelf name="5-stars" count="7"/>
+      <shelf name="read-in-2012" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="4-stars" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="completed-series" count="6"/>
+      <shelf name="all-time-favorites" count="6"/>
+      <shelf name="re-read" count="6"/>
+      <shelf name="sci-fi-fantasy" count="6"/>
+      <shelf name="funny" count="6"/>
+      <shelf name="audio-books" count="6"/>
+      <shelf name="books" count="6"/>
+      <shelf name="action-adventure" count="6"/>
+      <shelf name="favorite-series" count="6"/>
+      <shelf name="middle-grades" count="5"/>
+      <shelf name="3-stars" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="want-to-own" count="5"/>
+      <shelf name="childhood-reads" count="5"/>
+      <shelf name="coming-of-age" count="5"/>
+      <shelf name="need-to-buy" count="5"/>
+      <shelf name="kindle" count="5"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="witches" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="reviewed" count="5"/>
+      <shelf name="read-2012" count="5"/>
+      <shelf name="childrens-fantasy" count="5"/>
+      <shelf name="books-i-have" count="4"/>
+      <shelf name="urban-fantasy" count="4"/>
+      <shelf name="read-2015" count="4"/>
+      <shelf name="detective" count="4"/>
+      <shelf name="tween" count="4"/>
+      <shelf name="fractured-fairy-tales" count="4"/>
+      <shelf name="sister-s-grimm" count="4"/>
+      <shelf name="hardcover" count="4"/>
+      <shelf name="best-books-ever" count="4"/>
+      <shelf name="fairytale-retelling" count="4"/>
+      <shelf name="fairy-tale-retelling" count="4"/>
+      <shelf name="school" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="in-a-series" count="4"/>
+      <shelf name="kid-books" count="4"/>
+      <shelf name="listened-to" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>335376</id>
+<user_position>9</user_position>
+<series>
+<id>42939</id>
+<title>
+<![CDATA[
+    The Sisters Grimm
+]]>
+</title>
+<description>
+<![CDATA[
+    "Sabrina and Daphne Grimm have gone through a series of foster homes after their parents disappear. They have been treated as maids, servants, and other things that children shouldn't be. They've even been abused and ignored. This is mostly because they have a harsh and uncaring caseworker, Ms. Smirt, who is supposed to help find a safe new home for them. After all of their trouble, they end up in the care of their long-lost and supposedly dead grandmother whom Sabrina believes is crazy. They soon find that they are living in a town of Everafters, live characters from fantasy and fairy tales. Their family business is working as detectives, who solve mysteries that might be connected to the disappearance of their parents. Unluckily for them, an evil group of Everafters, called The Scarlet Hand, are determined to find a way out of the barrier created by a witch and take over the world; they also have to deal with Puck the fairy boy that lives with them. This barrier stops the Everafters in Ferryport Landing from leaving. The only way to destroy the barrier is if all the Grimms leave the town or if they all die."
+]]>
+</description>
+<note>
+<![CDATA[
+    The description was taken from the Sisters Grimm page on Wikipedia. The link on the author page no longer works.
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>9</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>11607446</id>
+<title><![CDATA[The Wishing Spell (The Land of Stories, #1)]]></title>
+<title_without_series>The Wishing Spell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11607446-the-wishing-spell]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326920505l/11607446._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326920505l/11607446._SX98_.jpg]]></image_url>
+<num_pages>438</num_pages>
+<work>
+<id>16550024</id>
+</work>
+<isbn>031620157X</isbn>
+<isbn13>9780316201575</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20418003</id>
+<title><![CDATA[Sisters Grimm Complete Box Set Series Collection Books 1-8]]></title>
+<title_without_series><![CDATA[Sisters Grimm Complete Box Set Series Collection Books 1-8]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20418003-sisters-grimm-complete-box-set-series-collection-books-1-8]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>29673236</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7731001</id>
+<name>Micheal Buckley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7731001.Micheal_Buckley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9307674</id>
+<title><![CDATA[The Last Guardian (Artemis Fowl #8)]]></title>
+<title_without_series>The Last Guardian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9307674-the-last-guardian]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522745526l/9307674._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522745526l/9307674._SX98_.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>14190669</id>
+</work>
+<isbn>1423161610</isbn>
+<isbn13>9781423161615</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>10896</id>
+<name>Eoin Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10896.Eoin_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16248123</id>
+<title><![CDATA[The Hero's Guide to Storming the Castle (The League of Princes, #2)]]></title>
+<title_without_series><![CDATA[The Hero's Guide to Storming the Castle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16248123-the-hero-s-guide-to-storming-the-castle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>477</num_pages>
+<work>
+<id>21856130</id>
+</work>
+<isbn>0062118455</isbn>
+<isbn13>9780062118455</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>418792</id>
+<name>Christopher Healy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/418792.Christopher_Healy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15766776</id>
+<title><![CDATA[Rump: The True Story of Rumpelstiltskin]]></title>
+<title_without_series><![CDATA[Rump: The True Story of Rumpelstiltskin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15766776-rump]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343071412l/15766776._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343071412l/15766776._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>21471584</id>
+</work>
+<isbn>0307977935</isbn>
+<isbn13>9780307977939</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6448210</id>
+<name>Liesl Shurtliff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6448210.Liesl_Shurtliff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10552088</id>
+<title><![CDATA[The Bridge to Never Land (Peter and the Starcatchers, #5)]]></title>
+<title_without_series>The Bridge to Never Land</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10552088-the-bridge-to-never-land]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>438</num_pages>
+<work>
+<id>15458735</id>
+</work>
+<isbn>1423138651</isbn>
+<isbn13>9781423138655</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6245</id>
+<name>Dave Barry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6245.Dave_Barry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12969560</id>
+<title><![CDATA[The Hero's Guide to Saving Your Kingdom (The League of Princes, #1)]]></title>
+<title_without_series><![CDATA[The Hero's Guide to Saving Your Kingdom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12969560-the-hero-s-guide-to-saving-your-kingdom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334867348l/12969560._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334867348l/12969560._SX98_.jpg]]></image_url>
+<num_pages>436</num_pages>
+<work>
+<id>18127772</id>
+</work>
+<isbn>0062117432</isbn>
+<isbn13>9780062117434</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>418792</id>
+<name>Christopher Healy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/418792.Christopher_Healy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6383800</id>
+<title>Dragon Kiss</title>
+<title_without_series>Dragon Kiss</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6383800-dragon-kiss]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>6571858</id>
+</work>
+<isbn>1599903482</isbn>
+<isbn13>9781599903484</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>272814</id>
+<name>E.D. Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/272814.E_D_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23611997</id>
+<title><![CDATA[An Author's Odyssey (The Land of Stories, #5)]]></title>
+<title_without_series>An Author&apos;s Odyssey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23611997-an-author-s-odyssey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459805785l/23611997._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459805785l/23611997._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>43215991</id>
+</work>
+<isbn>0316317780</isbn>
+<isbn13>9780316317788</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20706320</id>
+<title><![CDATA[A Grimm Warning (The Land of Stories, #3)]]></title>
+<title_without_series>A Grimm Warning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20706320-a-grimm-warning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391709728l/20706320._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391709728l/20706320._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>26476394</id>
+</work>
+<isbn>0316406813</isbn>
+<isbn13>9780316406819</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12317217</id>
+<title><![CDATA[Twice Upon a Time (Half Upon a Time, #2)]]></title>
+<title_without_series>Twice Upon a Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12317217-twice-upon-a-time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17295113</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4337106</id>
+<name>James  Riley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4337106.James_Riley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32940857</id>
+<title><![CDATA[Worlds Collide (The Land of Stories, #6)]]></title>
+<title_without_series>Worlds Collide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32940857-worlds-collide]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492570739l/32940857._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492570739l/32940857._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>53562381</id>
+</work>
+<isbn>0316355895</isbn>
+<isbn13>9780316355896</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>65093</id>
+<title>Dragon&apos;s Breath</title>
+<title_without_series>Dragon&apos;s Breath</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/65093.Dragon_s_Breath]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>5992787</id>
+</work>
+<isbn>1582346666</isbn>
+<isbn13>9781582346663</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>272814</id>
+<name>E.D. Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/272814.E_D_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13262797</id>
+<title><![CDATA[The Fire Chronicle (The Books of Beginning, #2)]]></title>
+<title_without_series>The Fire Chronicle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13262797-the-fire-chronicle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403664360l/13262797._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403664360l/13262797._SX98_.jpg]]></image_url>
+<num_pages>437</num_pages>
+<work>
+<id>18464395</id>
+</work>
+<isbn>0375868712</isbn>
+<isbn13>9780375868719</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>4766257</id>
+<name>John  Stephens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4766257.John_Stephens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17722973</id>
+<title><![CDATA[The Enchantress Returns (The Land of Stories, #2)]]></title>
+<title_without_series>The Enchantress Returns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17722973-the-enchantress-returns]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364843824l/17722973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364843824l/17722973._SX98_.jpg]]></image_url>
+<num_pages>517</num_pages>
+<work>
+<id>24790180</id>
+</work>
+<isbn>0316201545</isbn>
+<isbn13>9780316201544</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24968392</id>
+<title><![CDATA[Beyond the Kingdoms (The Land of Stories, #4)]]></title>
+<title_without_series>Beyond the Kingdoms</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24968392-beyond-the-kingdoms]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430009826l/24968392._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430009826l/24968392._SX98_.jpg]]></image_url>
+<num_pages>433</num_pages>
+<work>
+<id>26526615</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13012638</id>
+<title><![CDATA[The End of Infinity (Jack Blank Adventure, #3)]]></title>
+<title_without_series>The End of Infinity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13012638-the-end-of-infinity]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>18174455</id>
+</work>
+<isbn>1416995676</isbn>
+<isbn13>9781416995678</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3180076</id>
+<name>Matt Myklusch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3180076.Matt_Myklusch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7151456</id>
+<title>Frenzy (Dreamhouse Kings #6)</title>
+<title_without_series>Frenzy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7151456-frenzy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327897899l/7151456._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327897899l/7151456._SX98_.jpg]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>7416863</id>
+</work>
+<isbn>1595548165</isbn>
+<isbn13>9781595548160</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>10612</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>230226</id>
+<name>Robert Liparulo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/230226.Robert_Liparulo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

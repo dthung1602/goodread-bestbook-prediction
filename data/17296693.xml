@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17296693</id>
+  <title>I Am Otter</title>
+  <isbn><![CDATA[0062247751]]></isbn>
+  <isbn13><![CDATA[9780062247759]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384734675l/17296693._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384734675l/17296693._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>Balzer + Bray</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The curious, charming, playful, and internet-famous Otter makes her picture book debut in <em>I Am Otter</em> by author-illustrator Sam Garton. Here's what Otter has to say about her book: "Hi! I am Otter, and this is a book about me and my best friends, Otter Keeper and Teddy. And it's about the fun and messy (and little bit scary) adventure we had one day when Otter Keeper was at work. I hope you like the story! (And if you don't, it's probably Teddy's fault.)"<br /><br />Otter's utterly winning voice and Sam Garton's classic yet fresh artwork combine to create a truly hilarious and unforgettable friendship story.]]></description>
+  <work>
+  <id type="integer">23931855</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">17296693</best_book_id>
+  <reviews_count type="integer">1560</reviews_count>
+  <ratings_sum type="integer">3147</ratings_sum>
+  <ratings_count type="integer">777</ratings_count>
+  <text_reviews_count type="integer">162</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>I Am Otter</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:305|4:262|3:164|2:36|1:10|total:777</rating_dist>
+  <desc_user_id type="integer">-47</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.XoaqMF6oDDafXZeKmY30Tg</work_uri>
+</work>
+  <average_rating>4.05</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[760]]></ratings_count>
+  <text_reviews_count><![CDATA[159]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17296693-i-am-otter]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17296693-i-am-otter]]></link>
+  <authors>
+<author>
+<id>6910196</id>
+<name>Sam Garton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1379579579p5/6910196.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1379579579p2/6910196.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6910196.Sam_Garton]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>2773</ratings_count>
+<text_reviews_count>539</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17296693-i-am-otter">I Am Otter Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062247751&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17296693-i-am-otter?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="579"/>
+      <shelf name="picture-books" count="113"/>
+      <shelf name="picture-book" count="34"/>
+      <shelf name="childrens" count="24"/>
+      <shelf name="children-s-books" count="21"/>
+      <shelf name="children-s" count="19"/>
+      <shelf name="humor" count="18"/>
+      <shelf name="children" count="17"/>
+      <shelf name="animals" count="16"/>
+      <shelf name="otters" count="14"/>
+      <shelf name="favorites" count="12"/>
+      <shelf name="friendship" count="11"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="storytime" count="10"/>
+      <shelf name="kids" count="10"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="kids-books" count="7"/>
+      <shelf name="fiction" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="picturebooks" count="5"/>
+      <shelf name="toys" count="5"/>
+      <shelf name="pets" count="5"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="children-books" count="4"/>
+      <shelf name="picture" count="4"/>
+      <shelf name="children-s-picture-books" count="4"/>
+      <shelf name="children-s-lit" count="4"/>
+      <shelf name="childrens-picture-books" count="4"/>
+      <shelf name="fantasy" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="pb" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="stuffed-animals" count="3"/>
+      <shelf name="character-doorway" count="3"/>
+      <shelf name="children-picture" count="3"/>
+      <shelf name="kindergarten" count="3"/>
+      <shelf name="humorous" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="otter" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="luke-1000-books-before-kindergarten" count="2"/>
+      <shelf name="children-s-books-to-read" count="2"/>
+      <shelf name="library-book" count="2"/>
+      <shelf name="juvenile-easy" count="2"/>
+      <shelf name="animal-stories" count="2"/>
+      <shelf name="kiddies" count="2"/>
+      <shelf name="4-stars" count="2"/>
+      <shelf name="balzer-bray" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="baby-books" count="2"/>
+      <shelf name="food" count="2"/>
+      <shelf name="mischief" count="2"/>
+      <shelf name="humour" count="2"/>
+      <shelf name="preschool" count="2"/>
+      <shelf name="juvenile" count="2"/>
+      <shelf name="books-for-children" count="2"/>
+      <shelf name="kiddos" count="2"/>
+      <shelf name="funny" count="2"/>
+      <shelf name="2014-picture-books" count="2"/>
+      <shelf name="childrensbooks" count="2"/>
+      <shelf name="bears" count="2"/>
+      <shelf name="picture-books-read" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="wyatt" count="1"/>
+      <shelf name="what-logan-needs" count="1"/>
+      <shelf name="baby-reading" count="1"/>
+      <shelf name="akiva-want-to-read" count="1"/>
+      <shelf name="lib-301" count="1"/>
+      <shelf name="picture-books-gr-choice-awards" count="1"/>
+      <shelf name="a-riot" count="1"/>
+      <shelf name="with-my-kids" count="1"/>
+      <shelf name="jamie" count="1"/>
+      <shelf name="lunchtime-stories" count="1"/>
+      <shelf name="gca2014" count="1"/>
+      <shelf name="books-for-c" count="1"/>
+      <shelf name="everett" count="1"/>
+      <shelf name="book-series" count="1"/>
+      <shelf name="bedtime" count="1"/>
+      <shelf name="animal-character" count="1"/>
+      <shelf name="age-4-to-8" count="1"/>
+      <shelf name="pbf-mammals" count="1"/>
+      <shelf name="2019-picture-books" count="1"/>
+      <shelf name="robert-s-books" count="1"/>
+      <shelf name="readtoshire" count="1"/>
+      <shelf name="1-picturebooks" count="1"/>
+      <shelf name="kids-books-to-read" count="1"/>
+      <shelf name="2019-extras" count="1"/>
+      <shelf name="1k-before-k" count="1"/>
+      <shelf name="picture-book-fiction" count="1"/>
+      <shelf name="food-bookshelf" count="1"/>
+      <shelf name="animal-bookshelf" count="1"/>
+      <shelf name="forests-books" count="1"/>
+      <shelf name="children-s-fiction" count="1"/>
+      <shelf name="angela-s-books" count="1"/>
+      <shelf name="amar-books" count="1"/>
+      <shelf name="daphne" count="1"/>
+      <shelf name="dylan" count="1"/>
+      <shelf name="benson-storytime" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1349845</id>
+<user_position>1</user_position>
+<series>
+<id>248966</id>
+<title>
+<![CDATA[
+    Otter
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>9</series_works_count>
+<primary_work_count>9</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>38090144</id>
+<title>Sulwe</title>
+<title_without_series>Sulwe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38090144-sulwe]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>59759904</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17623053</id>
+<name>Lupita Nyong’o</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17623053.Lupita_Nyong_o]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33114444</id>
+<title>Letters to a Prisoner</title>
+<title_without_series>Letters to a Prisoner</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33114444-letters-to-a-prisoner]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492925751l/33114444._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492925751l/33114444._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>53778346</id>
+</work>
+<isbn>1771472510</isbn>
+<isbn13>9781771472517</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>5214879</id>
+<name>Jacques Goldstyn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5214879.Jacques_Goldstyn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31145180</id>
+<title>Goldfish Ghost</title>
+<title_without_series>Goldfish Ghost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31145180-goldfish-ghost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492929472l/31145180._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492929472l/31145180._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>51774818</id>
+</work>
+<isbn>1626725071</isbn>
+<isbn13>9781626725072</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>36746</id>
+<name>Lemony Snicket</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36746.Lemony_Snicket]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>911579</id>
+<title>Bread and Jam for Frances</title>
+<title_without_series>Bread and Jam for Frances</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/911579.Bread_and_Jam_for_Frances]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384258893l/911579._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384258893l/911579._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>896682</id>
+</work>
+<isbn>0064430960</isbn>
+<isbn13>9780064430968</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>1</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>12076</id>
+<name>Russell Hoban</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12076.Russell_Hoban]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39983603</id>
+<title>Felipe and Claudette</title>
+<title_without_series>Felipe and Claudette</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39983603-felipe-and-claudette]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529197799l/39983603._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529197799l/39983603._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>61906495</id>
+</work>
+<isbn>0545914329</isbn>
+<isbn13>9780545914321</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>46994</id>
+<name>Mark Teague</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46994.Mark_Teague]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244269</id>
+<title>The House on East 88th Street</title>
+<title_without_series>The House on East 88th Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244269.The_House_on_East_88th_Street]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>236661</id>
+</work>
+<isbn>0395199700</isbn>
+<isbn13>9780395199701</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>55758</id>
+<name>Bernard Waber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55758.Bernard_Waber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3308834</id>
+<title>Bats at the Library</title>
+<title_without_series>Bats at the Library</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3308834-bats-at-the-library]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1279029016l/3308834._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1279029016l/3308834._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3346049</id>
+</work>
+<isbn>061899923X</isbn>
+<isbn13>9780618999231</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>77079</id>
+<name>Brian Lies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77079.Brian_Lies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22749769</id>
+<title>Mummy Cat</title>
+<title_without_series>Mummy Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22749769-mummy-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407813993l/22749769._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407813993l/22749769._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>42295158</id>
+</work>
+<isbn>0544340825</isbn>
+<isbn13>9780544340824</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>801142</id>
+<name>Marcus Ewert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/801142.Marcus_Ewert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33155216</id>
+<title>Read the Book, Lemmings!</title>
+<title_without_series>Read the Book, Lemmings!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33155216-read-the-book-lemmings]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497983072l/33155216._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497983072l/33155216._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>53848224</id>
+</work>
+<isbn>031634348X</isbn>
+<isbn13>9780316343480</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30268429</id>
+<title>The Tree: A Fable</title>
+<title_without_series>The Tree: A Fable</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30268429-the-tree]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465641996l/30268429._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465641996l/30268429._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>50744486</id>
+</work>
+<isbn>0763689521</isbn>
+<isbn13>9780763689520</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>163779</id>
+<name>Neal Layton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163779.Neal_Layton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6185121</id>
+<title>Wombat Walkabout</title>
+<title_without_series>Wombat Walkabout</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6185121-wombat-walkabout]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>6365344</id>
+</work>
+<isbn>0525478655</isbn>
+<isbn13>9780525478652</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>3429</id>
+<name>Carol Diggory Shields</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3429.Carol_Diggory_Shields]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40065740</id>
+<title>Love, Z</title>
+<title_without_series>Love, Z</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40065740-love-z]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531864433l/40065740._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531864433l/40065740._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>62098655</id>
+</work>
+<isbn>1481496786</isbn>
+<isbn13>9781481496780</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>15290123</id>
+<name>Jessie Sima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15290123.Jessie_Sima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11507059</id>
+<title>Ten Little Caterpillars</title>
+<title_without_series>Ten Little Caterpillars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11507059-ten-little-caterpillars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16442846</id>
+</work>
+<isbn>144243385X</isbn>
+<isbn13>9781442433854</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>5086768</id>
+<name>Bill Martin Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5086768.Bill_Martin_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27210226</id>
+<title>There&apos;s a Bear on My Chair</title>
+<title_without_series>There&apos;s a Bear on My Chair</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27210226-there-s-a-bear-on-my-chair]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>47251727</id>
+</work>
+<isbn>0857633937</isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>266391</id>
+<name>Ross Collins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/266391.Ross_Collins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4600</id>
+<title>Moo, Baa, La La La!</title>
+<title_without_series>Moo, Baa, La La La!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4600.Moo_Baa_La_La_La_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451996462l/4600._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451996462l/4600._SX98_.jpg]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>477124</id>
+</work>
+<isbn>0689861133</isbn>
+<isbn13>9780689861130</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42350073</id>
+<title>How to Read a Book</title>
+<title_without_series>How to Read a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42350073-how-to-read-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65997738</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9466024</id>
+<title><![CDATA[Pete the Cat: Rocking in My School Shoes]]></title>
+<title_without_series><![CDATA[Pete the Cat: Rocking in My School Shoes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9466024-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648110l/9466024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648110l/9466024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14351052</id>
+</work>
+<isbn>0061910244</isbn>
+<isbn13>9780061910241</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>777</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1644249</id>
+<name>Eric Litwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1644249.Eric_Litwin]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>35068683</id>
+  <title>Brave</title>
+  <isbn><![CDATA[006265599X]]></isbn>
+  <isbn13><![CDATA[9780062655998]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516647279l/35068683._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516647279l/35068683._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>HarperOne</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[Rose McGowan was born in one cult and came of age in another, more visible cult: Hollywood.<br /><br />In a strange world where she was continually on display, stardom soon became a personal nightmare of constant exposure and sexualization. Rose escaped into the world of her mind, something she had done as a child, and into high-profile relationships. Every detail of her personal life became public, and the realities of an inherently sexist industry emerged with every script, role, public appearance, and magazine cover. The Hollywood machine packaged her as a sexualized bombshell, hijacking her image and identity and marketing them for profit.<br /><br />Hollywood expected Rose to be silent and cooperative and to stay the path. Instead, she rebelled and asserted her true identity and voice. She reemerged unscripted, courageous, victorious, angry, smart, fierce, unapologetic, controversial, and real as f*ck.]]></description>
+  <work>
+  <id type="integer">56364124</id>
+  <books_count type="integer">28</books_count>
+  <best_book_id type="integer">35068683</best_book_id>
+  <reviews_count type="integer">21060</reviews_count>
+  <ratings_sum type="integer">20903</ratings_sum>
+  <ratings_count type="integer">5456</ratings_count>
+  <text_reviews_count type="integer">844</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_title>Brave</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1687|4:1941|3:1243|2:390|1:195|total:5456</rating_dist>
+  <desc_user_id type="integer">1237196</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.tq8XOZ6ZHliUBXITiyHwvQ</work_uri>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[272]]></num_pages>
+  <format><![CDATA[ebook]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4103]]></ratings_count>
+  <text_reviews_count><![CDATA[612]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/35068683-brave]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/35068683-brave]]></link>
+  <authors>
+<author>
+<id>4802580</id>
+<name>Rose McGowan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1498232360p5/4802580.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1498232360p2/4802580.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4802580.Rose_McGowan]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>5459</ratings_count>
+<text_reviews_count>845</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/35068683-brave">Brave Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006265599X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/35068683-brave?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="13003"/>
+      <shelf name="currently-reading" count="462"/>
+      <shelf name="non-fiction" count="259"/>
+      <shelf name="memoir" count="144"/>
+      <shelf name="feminism" count="120"/>
+      <shelf name="nonfiction" count="89"/>
+      <shelf name="biography" count="81"/>
+      <shelf name="audiobooks" count="50"/>
+      <shelf name="audiobook" count="47"/>
+      <shelf name="memoirs" count="36"/>
+      <shelf name="autobiography" count="36"/>
+      <shelf name="read-in-2018" count="34"/>
+      <shelf name="favorites" count="25"/>
+      <shelf name="biography-memoir" count="25"/>
+      <shelf name="read-2018" count="23"/>
+      <shelf name="feminist" count="22"/>
+      <shelf name="biographies" count="21"/>
+      <shelf name="library" count="19"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="audio" count="18"/>
+      <shelf name="memoir-biography" count="16"/>
+      <shelf name="audible" count="15"/>
+      <shelf name="audio-books" count="14"/>
+      <shelf name="2018-releases" count="14"/>
+      <shelf name="hollywood" count="13"/>
+      <shelf name="owned" count="12"/>
+      <shelf name="ebook" count="11"/>
+      <shelf name="women" count="11"/>
+      <shelf name="audio-book" count="10"/>
+      <shelf name="biographies-memoirs" count="10"/>
+      <shelf name="read-in-2019" count="9"/>
+      <shelf name="2018-reads" count="9"/>
+      <shelf name="female-authors" count="9"/>
+      <shelf name="autobiography-memoir" count="9"/>
+      <shelf name="2019-reads" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="cults" count="8"/>
+      <shelf name="2018-reading-challenge" count="8"/>
+      <shelf name="maybe" count="8"/>
+      <shelf name="celebrity" count="8"/>
+      <shelf name="read-2019" count="7"/>
+      <shelf name="dnf" count="7"/>
+      <shelf name="did-not-finish" count="7"/>
+      <shelf name="auto-biography" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="bio" count="7"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="books-read-in-2018" count="6"/>
+      <shelf name="2018-books" count="6"/>
+      <shelf name="biography-memoirs" count="6"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="want-to-buy" count="6"/>
+      <shelf name="unfinished" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="female-author" count="5"/>
+      <shelf name="2018-read" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="biographical" count="5"/>
+      <shelf name="biography-autobiography" count="5"/>
+      <shelf name="women-authors" count="5"/>
+      <shelf name="memoir-autobiography" count="5"/>
+      <shelf name="acting" count="5"/>
+      <shelf name="memoir-and-biography" count="5"/>
+      <shelf name="bio-memoir" count="5"/>
+      <shelf name="memoirs-biographies" count="5"/>
+      <shelf name="autobiographical" count="4"/>
+      <shelf name="rape" count="4"/>
+      <shelf name="memoir-bio" count="4"/>
+      <shelf name="trauma" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="scribd" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="overdrive" count="4"/>
+      <shelf name="read-in-english" count="4"/>
+      <shelf name="feminist-lit" count="4"/>
+      <shelf name="auto-biographies" count="4"/>
+      <shelf name="memoirs-biography" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="read-non-fiction" count="4"/>
+      <shelf name="bios-memoirs" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="non-fic" count="4"/>
+      <shelf name="autobiographies" count="4"/>
+      <shelf name="usa" count="4"/>
+      <shelf name="2019-books" count="3"/>
+      <shelf name="feminisme" count="3"/>
+      <shelf name="2010s" count="3"/>
+      <shelf name="nonfiction-to-read" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="sexual-assault" count="3"/>
+      <shelf name="actors" count="3"/>
+      <shelf name="cinema" count="3"/>
+      <shelf name="listened" count="3"/>
+      <shelf name="autobiography-biography" count="3"/>
+      <shelf name="books-read-2018" count="3"/>
+      <shelf name="biographie" count="3"/>
+      <shelf name="books-i-read-in-2018" count="3"/>
+      <shelf name="public-library" count="3"/>
+      <shelf name="my-books" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>46650277</id>
+<title><![CDATA[Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators]]></title>
+<title_without_series><![CDATA[Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46650277-catch-and-kill]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570798239l/46650277._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570798239l/46650277._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>72177046</id>
+</work>
+<isbn>0316486639</isbn>
+<isbn13>9780316486637</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>17176042</id>
+<name>Ronan Farrow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17176042.Ronan_Farrow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40598936</id>
+<title>This Will Only Hurt a Little</title>
+<title_without_series>This Will Only Hurt a Little</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40598936-this-will-only-hurt-a-little]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>321</num_pages>
+<work>
+<id>63049435</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17977629</id>
+<name>Busy Philipps</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17977629.Busy_Philipps]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45167624</id>
+<title>Inside Out</title>
+<title_without_series>Inside Out</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45167624-inside-out]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558586807l/45167624._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558586807l/45167624._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>69869756</id>
+</work>
+<isbn>0062049534</isbn>
+<isbn13>9780062049537</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2542810</id>
+<name>Demi Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2542810.Demi_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35582344</id>
+<title><![CDATA[This Is Me: Loving the Person You Are Today]]></title>
+<title_without_series><![CDATA[This Is Me: Loving the Person You Are Today]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35582344-this-is-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518327615l/35582344._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518327615l/35582344._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>57016243</id>
+</work>
+<isbn>0062837877</isbn>
+<isbn13>9780062837875</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>17000243</id>
+<name>Chrissy Metz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17000243.Chrissy_Metz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40776256</id>
+<title>Brutally Honest</title>
+<title_without_series>Brutally Honest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40776256-brutally-honest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535885326l/40776256._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535885326l/40776256._SX98_.jpg]]></image_url>
+<num_pages>270</num_pages>
+<work>
+<id>63471962</id>
+</work>
+<isbn>1787133524</isbn>
+<isbn13>9781787133525</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>18277006</id>
+<name>Melanie   Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18277006.Melanie_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34974310</id>
+<title>The Last Black Unicorn</title>
+<title_without_series>The Last Black Unicorn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34974310-the-last-black-unicorn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508059685l/34974310._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508059685l/34974310._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>56250949</id>
+</work>
+<isbn>1501181823</isbn>
+<isbn13>9781501181825</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>16781738</id>
+<name>Tiffany Haddish</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16781738.Tiffany_Haddish]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068524</id>
+<title><![CDATA[Not That Bad: Dispatches from Rape Culture]]></title>
+<title_without_series><![CDATA[Not That Bad: Dispatches from Rape Culture]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068524-not-that-bad]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509771460l/35068524._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509771460l/35068524._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>56363981</id>
+</work>
+<isbn>0062413503</isbn>
+<isbn13>9780062413505</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3360355</id>
+<name>Roxane Gay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3360355.Roxane_Gay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37955748</id>
+<title>In Pieces</title>
+<title_without_series>In Pieces</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37955748-in-pieces]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527406438l/37955748._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527406438l/37955748._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59524878</id>
+</work>
+<isbn>1549143077</isbn>
+<isbn13>9781549143076</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>3118775</id>
+<name>Sally Field</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118775.Sally_Field]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44767249</id>
+<title><![CDATA[She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement]]></title>
+<title_without_series><![CDATA[She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44767249-she-said]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573830483l/44767249._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573830483l/44767249._SX98_.jpg]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>69397793</id>
+</work>
+<isbn>0525560343</isbn>
+<isbn13>9780525560340</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>325181</id>
+<name>Jodi Kantor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/325181.Jodi_Kantor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35721506</id>
+<title>Pretty Mess</title>
+<title_without_series>Pretty Mess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35721506-pretty-mess]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521363448l/35721506._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521363448l/35721506._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>57224627</id>
+</work>
+<isbn>1501181890</isbn>
+<isbn13>9781501181894</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>17587916</id>
+<name>Erika  Jayne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17587916.Erika_Jayne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38919266</id>
+<title><![CDATA[The Greatest Love Story Ever Told]]></title>
+<title_without_series><![CDATA[The Greatest Love Story Ever Told]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38919266-the-greatest-love-story-ever-told]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527694386l/38919266._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527694386l/38919266._SX98_.jpg]]></image_url>
+<num_pages>269</num_pages>
+<work>
+<id>60487199</id>
+</work>
+<isbn>1101986670</isbn>
+<isbn13>9781101986677</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8191852</id>
+<name>Megan Mullally</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8191852.Megan_Mullally]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068432</id>
+<title><![CDATA[I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer]]></title>
+<title_without_series><![CDATA[I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>56363890</id>
+</work>
+<isbn>0062319809</isbn>
+<isbn13>9780062319807</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16819959</id>
+<name>Michelle McNamara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16819959.Michelle_McNamara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34130008</id>
+<title>Unqualified</title>
+<title_without_series>Unqualified</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34130008-unqualified]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498797632l/34130008._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498797632l/34130008._SX98_.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>51965720</id>
+</work>
+<isbn>1101986425</isbn>
+<isbn13>9781101986424</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3338931</id>
+<name>Anna Faris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3338931.Anna_Faris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35840657</id>
+<title>Heart Berries</title>
+<title_without_series>Heart Berries</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35840657-heart-berries]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521733690l/35840657._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521733690l/35840657._SX98_.jpg]]></image_url>
+<num_pages>143</num_pages>
+<work>
+<id>57082725</id>
+</work>
+<isbn>1619023342</isbn>
+<isbn13>9781619023345</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>17060663</id>
+<name>Terese Marie Mailhot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17060663.Terese_Marie_Mailhot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25065522</id>
+<title>Wildflower</title>
+<title_without_series>Wildflower</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25065522-wildflower]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446537126l/25065522._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446537126l/25065522._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>44749694</id>
+</work>
+<isbn>1101983795</isbn>
+<isbn13>9781101983799</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>33117</id>
+<name>Drew Barrymore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33117.Drew_Barrymore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43885930</id>
+<title><![CDATA[Life Will Be the Death of Me: . . . and You Too!]]></title>
+<title_without_series><![CDATA[Life Will Be the Death of Me: . . . and You Too!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43885930-life-will-be-the-death-of-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552494925l/43885930._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552494925l/43885930._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>68280269</id>
+</work>
+<isbn>0525511776</isbn>
+<isbn13>9780525511779</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>20357</id>
+<name>Chelsea Handler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20357.Chelsea_Handler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34964998</id>
+<title><![CDATA[When They Call You a Terrorist: A Black Lives Matter Memoir]]></title>
+<title_without_series><![CDATA[When They Call You a Terrorist: A Black Lives Matter Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34964998-when-they-call-you-a-terrorist]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499148072l/34964998._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499148072l/34964998._SX98_.jpg]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>56239969</id>
+</work>
+<isbn>1250171083</isbn>
+<isbn13>9781250171085</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>16799287</id>
+<name>Patrisse Khan-Cullors</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16799287.Patrisse_Khan_Cullors]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35069544</id>
+<title><![CDATA[This Will Be My Undoing: Living at the Intersection of Black, Female, and Feminist in (White) America]]></title>
+<title_without_series><![CDATA[This Will Be My Undoing: Living at the Intersection of Black, Female, and Feminist in (White) America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35069544-this-will-be-my-undoing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502099764l/35069544._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502099764l/35069544._SX98_.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>52959624</id>
+</work>
+<isbn>0062666150</isbn>
+<isbn13>9780062666154</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>5456</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>15904567</id>
+<name>Morgan Jerkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15904567.Morgan_Jerkins]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

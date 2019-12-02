@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25897953</id>
+  <title>Booked</title>
+  <isbn><![CDATA[0544570987]]></isbn>
+  <isbn13><![CDATA[9780544570986]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447139181l/25897953._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447139181l/25897953._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>HMH Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>National Book Award Long List<br /><i>New York Times </i>Bestseller </b><br /><br /><i>Like lightning/you strike/fast and free/legs zoom/down field/eyes fixed/on the checkered ball/on the goal/ten yards to go/can’t nobody stop you/</i><br /><i>can’t nobody cop you…</i><br />In this follow-up to the Newbery-winning novel THE CROSSOVER,  soccer, family, love, and friendship, take center stage as twelve-year-old Nick learns the power of words as he wrestles with problems at home, stands up to a bully, and tries to impress the girl of his dreams. Helping him along are his best friend and sometimes teammate Coby, and The Mac, a rapping librarian who gives Nick inspiring books to read.  <br />This electric and heartfelt novel-in-verse by poet Kwame Alexander bends and breaks as it captures all the thrills and setbacks, action and emotion of a World Cup match!]]></description>
+  <work>
+  <id type="integer">42587772</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">25897953</best_book_id>
+  <reviews_count type="integer">27628</reviews_count>
+  <ratings_sum type="integer">54896</ratings_sum>
+  <ratings_count type="integer">13085</ratings_count>
+  <text_reviews_count type="integer">2217</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>Booked</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5774|4:4894|3:1835|2:363|1:219|total:13085</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.APBy92Idwbb8rxZNt7qoNg</work_uri>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12317]]></ratings_count>
+  <text_reviews_count><![CDATA[2083]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25897953-booked]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25897953-booked]]></link>
+  <authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459810611p5/326609.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459810611p2/326609.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>82004</ratings_count>
+<text_reviews_count>15327</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25897953-booked">Booked Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0544570987&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25897953-booked?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2953"/>
+      <shelf name="currently-reading" count="733"/>
+      <shelf name="poetry" count="459"/>
+      <shelf name="sports" count="294"/>
+      <shelf name="middle-grade" count="255"/>
+      <shelf name="young-adult" count="249"/>
+      <shelf name="realistic-fiction" count="202"/>
+      <shelf name="ya" count="164"/>
+      <shelf name="novels-in-verse" count="123"/>
+      <shelf name="fiction" count="120"/>
+      <shelf name="novel-in-verse" count="106"/>
+      <shelf name="verse" count="97"/>
+      <shelf name="family" count="78"/>
+      <shelf name="favorites" count="57"/>
+      <shelf name="friendship" count="57"/>
+      <shelf name="bullying" count="51"/>
+      <shelf name="read-in-2016" count="43"/>
+      <shelf name="divorce" count="43"/>
+      <shelf name="realistic" count="41"/>
+      <shelf name="soccer" count="41"/>
+      <shelf name="childrens" count="35"/>
+      <shelf name="kids" count="34"/>
+      <shelf name="middle-grades" count="34"/>
+      <shelf name="children-s" count="34"/>
+      <shelf name="contemporary" count="30"/>
+      <shelf name="read-in-8th-grade" count="29"/>
+      <shelf name="verse-novel" count="28"/>
+      <shelf name="teen" count="27"/>
+      <shelf name="juvenile" count="27"/>
+      <shelf name="diversity" count="25"/>
+      <shelf name="juvenile-fiction" count="24"/>
+      <shelf name="coming-of-age" count="23"/>
+      <shelf name="school" count="23"/>
+      <shelf name="multicultural" count="22"/>
+      <shelf name="children" count="22"/>
+      <shelf name="ya-lit" count="22"/>
+      <shelf name="audiobooks" count="21"/>
+      <shelf name="books-in-verse" count="21"/>
+      <shelf name="verse-novels" count="21"/>
+      <shelf name="2016-reads" count="21"/>
+      <shelf name="romance" count="21"/>
+      <shelf name="tween" count="21"/>
+      <shelf name="chapter-books" count="20"/>
+      <shelf name="free-verse" count="20"/>
+      <shelf name="children-s-books" count="20"/>
+      <shelf name="children-s-lit" count="19"/>
+      <shelf name="african-american" count="19"/>
+      <shelf name="grade-7" count="18"/>
+      <shelf name="sports-fiction" count="18"/>
+      <shelf name="audio" count="18"/>
+      <shelf name="library" count="18"/>
+      <shelf name="ya-books" count="18"/>
+      <shelf name="audiobook" count="16"/>
+      <shelf name="contemporary-fiction" count="16"/>
+      <shelf name="grade-8-semester-1" count="15"/>
+      <shelf name="booked" count="15"/>
+      <shelf name="middle-grade-fiction" count="15"/>
+      <shelf name="novels" count="14"/>
+      <shelf name="8th-grade" count="14"/>
+      <shelf name="poetry-novels-in-verse" count="14"/>
+      <shelf name="middle-school" count="13"/>
+      <shelf name="read-in-2017" count="13"/>
+      <shelf name="ya-fiction" count="13"/>
+      <shelf name="classroom-library" count="13"/>
+      <shelf name="poetry-verse" count="13"/>
+      <shelf name="read-in-2019" count="12"/>
+      <shelf name="kid-lit" count="12"/>
+      <shelf name="mg" count="12"/>
+      <shelf name="families" count="12"/>
+      <shelf name="mock-newbery-2017" count="12"/>
+      <shelf name="caudill-2019" count="11"/>
+      <shelf name="read-in-2018" count="11"/>
+      <shelf name="owned" count="11"/>
+      <shelf name="battle-of-the-books" count="11"/>
+      <shelf name="grade-8-semester-2" count="11"/>
+      <shelf name="40-book-challenge" count="11"/>
+      <shelf name="grade-8" count="11"/>
+      <shelf name="kids-books" count="11"/>
+      <shelf name="j-fiction" count="11"/>
+      <shelf name="project-lit" count="10"/>
+      <shelf name="read-2016" count="10"/>
+      <shelf name="boys" count="10"/>
+      <shelf name="2016-books" count="10"/>
+      <shelf name="books-i-own" count="10"/>
+      <shelf name="diverse" count="10"/>
+      <shelf name="poc" count="9"/>
+      <shelf name="caudill" count="9"/>
+      <shelf name="young-adult-fiction" count="9"/>
+      <shelf name="relationships" count="9"/>
+      <shelf name="family-relationships" count="9"/>
+      <shelf name="funny" count="9"/>
+      <shelf name="5th-grade" count="9"/>
+      <shelf name="read-aloud" count="9"/>
+      <shelf name="humor" count="9"/>
+      <shelf name="read-2018" count="8"/>
+      <shelf name="2019-caudill" count="8"/>
+      <shelf name="own-voices" count="8"/>
+      <shelf name="middle-grade-books" count="8"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="juv-fiction" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>28954126</id>
+<title>Ghost (Track, #1)</title>
+<title_without_series>Ghost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28954126-ghost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468787024l/28954126._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468787024l/28954126._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>49179183</id>
+</work>
+<isbn>1481450158</isbn>
+<isbn13>9781481450157</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34218224</id>
+<title>Patina (Track, #2)</title>
+<title_without_series>Patina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34218224-patina]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486748484l/34218224._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486748484l/34218224._SX98_.jpg]]></image_url>
+<num_pages>233</num_pages>
+<work>
+<id>55269274</id>
+</work>
+<isbn>1481450182</isbn>
+<isbn13>9781481450188</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24905366</id>
+<title><![CDATA[House Arrest (House Arrest, #1)]]></title>
+<title_without_series>House Arrest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24905366-house-arrest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429322011l/24905366._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429322011l/24905366._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>44555771</id>
+</work>
+<isbn>1452134774</isbn>
+<isbn13>9781452134772</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>1053288</id>
+<name>K.A. Holt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1053288.K_A_Holt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35297562</id>
+<title>Sunny (Track, #3)</title>
+<title_without_series>Sunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35297562-sunny]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508662056l/35297562._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508662056l/35297562._SX98_.jpg]]></image_url>
+<num_pages>159</num_pages>
+<work>
+<id>56664343</id>
+</work>
+<isbn>1481450212</isbn>
+<isbn13>9781481450218</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27064348</id>
+<title>Ms. Bixby&apos;s Last Day</title>
+<title_without_series>Ms. Bixby&apos;s Last Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27064348-ms-bixby-s-last-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457894475l/27064348._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457894475l/27064348._SX98_.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>47104897</id>
+</work>
+<isbn>006233817X</isbn>
+<isbn13>9780062338174</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>6981617</id>
+<name>John David  Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6981617.John_David_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38507968</id>
+<title>Lu (Track, #4)</title>
+<title_without_series>Lu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38507968-lu]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538920108l/38507968._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538920108l/38507968._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>60146091</id>
+</work>
+<isbn>1508246173</isbn>
+<isbn13>9781508246176</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34647324</id>
+<title>Ghost Boys</title>
+<title_without_series>Ghost Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34647324-ghost-boys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513608390l/34647324._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513608390l/34647324._SX98_.jpg]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>55808344</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>135707</id>
+<name>Jewell Parker Rhodes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/135707.Jewell_Parker_Rhodes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29230725</id>
+<title>Unbound: A Novel in Verse</title>
+<title_without_series>Unbound: A Novel in Verse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29230725-unbound]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455981994l/29230725._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455981994l/29230725._SX98_.jpg]]></image_url>
+<num_pages>347</num_pages>
+<work>
+<id>49470038</id>
+</work>
+<isbn>0545934273</isbn>
+<isbn13>9780545934275</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>3215469</id>
+<name>Ann E. Burg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3215469.Ann_E_Burg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4296443</id>
+<title>All the Broken Pieces</title>
+<title_without_series>All the Broken Pieces</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4296443-all-the-broken-pieces]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328838681l/4296443._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328838681l/4296443._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>4344030</id>
+</work>
+<isbn>0545080924</isbn>
+<isbn13>9780545080927</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3215469</id>
+<name>Ann E. Burg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3215469.Ann_E_Burg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28217808</id>
+<title>Moo</title>
+<title_without_series>Moo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28217808-moo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460310388l/28217808._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460310388l/28217808._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>48245426</id>
+</work>
+<isbn>0062415271</isbn>
+<isbn13>9780062415271</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>11633</id>
+<name>Sharon Creech</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11633.Sharon_Creech]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25657130</id>
+<title>All American Boys</title>
+<title_without_series>All American Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25657130-all-american-boys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444506678l/25657130._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444506678l/25657130._SX98_.jpg]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>45479026</id>
+</work>
+<isbn>1481463330</isbn>
+<isbn13>9781481463331</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33118312</id>
+<title>Refugee</title>
+<title_without_series>Refugee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33118312-refugee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487620933l/33118312._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487620933l/33118312._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>53784597</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>68794</id>
+<name>Alan Gratz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68794.Alan_Gratz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22552026</id>
+<title>Long Way Down</title>
+<title_without_series>Long Way Down</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22552026-long-way-down]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520008013l/22552026._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520008013l/22552026._SX98_.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>42009801</id>
+</work>
+<isbn>1481438255</isbn>
+<isbn13>9781481438254</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23714521</id>
+<title>Orbiting Jupiter</title>
+<title_without_series>Orbiting Jupiter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23714521-orbiting-jupiter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430501923l/23714521._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430501923l/23714521._SX98_.jpg]]></image_url>
+<num_pages>183</num_pages>
+<work>
+<id>43324356</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>96375</id>
+<name>Gary D. Schmidt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/96375.Gary_D_Schmidt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28899</id>
+<title>Heat</title>
+<title_without_series>Heat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28899.Heat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>7577</id>
+</work>
+<isbn>0142407577</isbn>
+<isbn13>9780142407578</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2607</id>
+<name>Mike Lupica</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2607.Mike_Lupica]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19533196</id>
+<title><![CDATA[Rhyme Schemer: (Book for Middle School Kids, Middle Grade Novel, In Verse Novel for Boys)]]></title>
+<title_without_series>Rhyme Schemer:</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19533196-rhyme-schemer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397429516l/19533196._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397429516l/19533196._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>27659827</id>
+</work>
+<isbn>145212700X</isbn>
+<isbn13>9781452127002</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>1053288</id>
+<name>K.A. Holt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1053288.K_A_Holt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36127488</id>
+<title>Front Desk</title>
+<title_without_series>Front Desk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36127488-front-desk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX98_.jpg]]></image_url>
+<num_pages>298</num_pages>
+<work>
+<id>51903030</id>
+</work>
+<isbn>1338157795</isbn>
+<isbn13>9781338157796</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>15524279</id>
+<name>Kelly Yang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15524279.Kelly_Yang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32819894</id>
+<title>Restart</title>
+<title_without_series>Restart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32819894-restart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484220170l/32819894._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484220170l/32819894._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>53421249</id>
+</work>
+<isbn>1338053779</isbn>
+<isbn13>9781338053777</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>13085</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

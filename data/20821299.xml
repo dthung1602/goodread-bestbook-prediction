@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20821299</id>
+  <title>The Book with No Pictures</title>
+  <isbn><![CDATA[0803741715]]></isbn>
+  <isbn13><![CDATA[9780803741713]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400873472l/20821299._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400873472l/20821299._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>Dial Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A book with no pictures? <br /><br />What could be fun about that?<br /><br />After all, if a book has no pictures, there's nothing to look at but the words on the page. <br /><br />Words that might make you say silly sounds... In ridiculous voices...<br /><br />Hey, what kind of book <i>is</i> this, anyway?<br /><br />At once disarmingly simple and ingeniously imaginative, <i>The Book With No Pictures</i> inspires laughter every time it is opened, creating a warm and joyous experience to share--and introducing young children to the powerful idea that the written word can be an unending source of mischief and delight.]]></description>
+  <work>
+  <id type="integer">40167157</id>
+  <books_count type="integer">36</books_count>
+  <best_book_id type="integer">20821299</best_book_id>
+  <reviews_count type="integer">35481</reviews_count>
+  <ratings_sum type="integer">83439</ratings_sum>
+  <ratings_count type="integer">19132</ratings_count>
+  <text_reviews_count type="integer">2959</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_title>The Book with No Pictures</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11169|4:5037|3:1984|2:552|1:390|total:19132</rating_dist>
+  <desc_user_id type="integer">-44</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.KSwf-oYxIsVY977fCQ6gHQ</work_uri>
+</work>
+  <average_rating>4.36</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[18095]]></ratings_count>
+  <text_reviews_count><![CDATA[2843]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20821299-the-book-with-no-pictures]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20821299-the-book-with-no-pictures]]></link>
+  <authors>
+<author>
+<id>7115158</id>
+<name>B.J. Novak</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1392933716p5/7115158.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1392933716p2/7115158.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7115158.B_J_Novak]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>59882</ratings_count>
+<text_reviews_count>8125</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20821299-the-book-with-no-pictures">The Book with No Pictures Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0803741715&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20821299-the-book-with-no-pictures?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11843"/>
+      <shelf name="picture-books" count="1045"/>
+      <shelf name="childrens" count="414"/>
+      <shelf name="children-s-books" count="345"/>
+      <shelf name="humor" count="294"/>
+      <shelf name="children" count="287"/>
+      <shelf name="picture-book" count="251"/>
+      <shelf name="children-s" count="244"/>
+      <shelf name="kids" count="225"/>
+      <shelf name="childrens-books" count="174"/>
+      <shelf name="favorites" count="156"/>
+      <shelf name="kids-books" count="154"/>
+      <shelf name="currently-reading" count="151"/>
+      <shelf name="storytime" count="114"/>
+      <shelf name="fiction" count="97"/>
+      <shelf name="funny" count="84"/>
+      <shelf name="children-s-literature" count="73"/>
+      <shelf name="read-aloud" count="67"/>
+      <shelf name="children-s-lit" count="65"/>
+      <shelf name="library" count="45"/>
+      <shelf name="picturebooks" count="45"/>
+      <shelf name="read-alouds" count="45"/>
+      <shelf name="read-in-2014" count="42"/>
+      <shelf name="children-books" count="41"/>
+      <shelf name="children-s-picture-books" count="40"/>
+      <shelf name="humour" count="36"/>
+      <shelf name="read-in-2015" count="35"/>
+      <shelf name="interactive" count="34"/>
+      <shelf name="owned" count="33"/>
+      <shelf name="picture" count="32"/>
+      <shelf name="to-buy" count="32"/>
+      <shelf name="books-i-own" count="31"/>
+      <shelf name="kid-books" count="29"/>
+      <shelf name="humorous" count="29"/>
+      <shelf name="preschool" count="29"/>
+      <shelf name="juvenile" count="28"/>
+      <shelf name="kiddos" count="27"/>
+      <shelf name="audiobooks" count="26"/>
+      <shelf name="fantasy-4" count="25"/>
+      <shelf name="comedy" count="25"/>
+      <shelf name="audiobook" count="24"/>
+      <shelf name="story-time" count="24"/>
+      <shelf name="childrens-lit" count="23"/>
+      <shelf name="kindergarten" count="23"/>
+      <shelf name="silly" count="20"/>
+      <shelf name="children-s-book" count="19"/>
+      <shelf name="for-kids" count="19"/>
+      <shelf name="kid-s-books" count="19"/>
+      <shelf name="childrens-picture-books" count="19"/>
+      <shelf name="for-the-kids" count="19"/>
+      <shelf name="imagination" count="18"/>
+      <shelf name="read-2015" count="17"/>
+      <shelf name="favorite-picture-books" count="17"/>
+      <shelf name="read-in-2016" count="16"/>
+      <shelf name="default" count="16"/>
+      <shelf name="borrowed" count="16"/>
+      <shelf name="elementary" count="16"/>
+      <shelf name="storytime-books" count="16"/>
+      <shelf name="childrens-book" count="15"/>
+      <shelf name="childrens-literature" count="15"/>
+      <shelf name="classroom" count="15"/>
+      <shelf name="ks1" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="edrd-314" count="14"/>
+      <shelf name="classroom-library" count="14"/>
+      <shelf name="library-book" count="13"/>
+      <shelf name="1st-grade" count="13"/>
+      <shelf name="2nd-grade" count="13"/>
+      <shelf name="fun" count="13"/>
+      <shelf name="kid-lit" count="13"/>
+      <shelf name="read-in-2018" count="12"/>
+      <shelf name="kids-picture-books" count="12"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="read-in-2017" count="11"/>
+      <shelf name="read-with-the-kids" count="11"/>
+      <shelf name="read-to-kids" count="11"/>
+      <shelf name="books-for-kids" count="11"/>
+      <shelf name="non-fiction" count="11"/>
+      <shelf name="picturebook" count="11"/>
+      <shelf name="want-to-own" count="11"/>
+      <shelf name="reviewed" count="11"/>
+      <shelf name="library-books" count="11"/>
+      <shelf name="1000-books-before-kindergarten" count="10"/>
+      <shelf name="children-s-fiction" count="10"/>
+      <shelf name="2015-reads" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="reading" count="10"/>
+      <shelf name="metafiction" count="10"/>
+      <shelf name="books" count="10"/>
+      <shelf name="classroombookaday" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="free-choice-5" count="9"/>
+      <shelf name="read-with-kids" count="9"/>
+      <shelf name="school" count="9"/>
+      <shelf name="meta" count="9"/>
+      <shelf name="books-about-books" count="9"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="sounds" count="9"/>
+      <shelf name="for-the-classroom" count="9"/>
+      <shelf name="primary" count="9"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>133678</id>
+<title>Miss Mary Mack</title>
+<title_without_series>Miss Mary Mack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/133678.Miss_Mary_Mack]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344264398l/133678._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344264398l/133678._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>128773</id>
+</work>
+<isbn>0316076147</isbn>
+<isbn13>9780316076142</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>17544</id>
+<name>Mary Ann Hoberman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17544.Mary_Ann_Hoberman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7747422</id>
+<title>It&apos;s a Book</title>
+<title_without_series>It&apos;s a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7747422-it-s-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737426l/7747422._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737426l/7747422._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>10577192</id>
+</work>
+<isbn>1596436069</isbn>
+<isbn13>9781596436060</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>23573</id>
+<name>Lane Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23573.Lane_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>349170</id>
+<title><![CDATA[Fireboat: The Heroic Adventures of the John J. Harvey ]]></title>
+<title_without_series><![CDATA[Fireboat: The Heroic Adventures of the John J. Harvey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/349170.Fireboat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>339447</id>
+</work>
+<isbn>0142403628</isbn>
+<isbn13>9780142403624</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>55084</id>
+<name>Maira Kalman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55084.Maira_Kalman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101018</id>
+<title>The Day the Crayons Quit</title>
+<title_without_series>The Day the Crayons Quit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX98_.jpg]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>21911319</id>
+</work>
+<isbn>0399255370</isbn>
+<isbn13>9780399255373</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13337050</id>
+<title>Dragons Love Tacos</title>
+<title_without_series>Dragons Love Tacos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13337050-dragons-love-tacos]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326100121l/13337050._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326100121l/13337050._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18545277</id>
+</work>
+<isbn>0803736800</isbn>
+<isbn13>9780803736801</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>132184</id>
+<name>Adam Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/132184.Adam_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>839852</id>
+<title>First Day Jitters</title>
+<title_without_series>First Day Jitters</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/839852.First_Day_Jitters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>825405</id>
+</work>
+<isbn>158089061X</isbn>
+<isbn13>9781580890618</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59182</id>
+<name>Julie Danneberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59182.Julie_Danneberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9677870</id>
+<title>Press Here</title>
+<title_without_series>Press Here</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9677870-press-here]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934372l/9677870._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934372l/9677870._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>14565750</id>
+</work>
+<isbn>0811879542</isbn>
+<isbn13>9780811879545</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>339632</id>
+<name>Hervé Tullet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/339632.Herv_Tullet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39827561</id>
+<title>Three Little Birds</title>
+<title_without_series>Three Little Birds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39827561-three-little-birds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548706311l/39827561._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548706311l/39827561._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>61583491</id>
+</work>
+<isbn>1433829479</isbn>
+<isbn13>9781433829475</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17660131</id>
+<name>Lysa Mullady</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17660131.Lysa_Mullady]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20518873</id>
+<title>This Book Just Ate My Dog!</title>
+<title_without_series>This Book Just Ate My Dog!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20518873-this-book-just-ate-my-dog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390176480l/20518873._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390176480l/20518873._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>36424618</id>
+</work>
+<isbn>1627790713</isbn>
+<isbn13>9781627790710</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>124850</id>
+<name>Richard Byrne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/124850.Richard_Byrne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8036440</id>
+<title>Interrupting Chicken</title>
+<title_without_series>Interrupting Chicken</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8036440-interrupting-chicken]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327885989l/8036440._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327885989l/8036440._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>12651818</id>
+</work>
+<isbn>0763641685</isbn>
+<isbn13>9780763641689</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>400898</id>
+<name>David Ezra Stein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/400898.David_Ezra_Stein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23310161</id>
+<title>The Day the Crayons Came Home</title>
+<title_without_series>The Day the Crayons Came Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23310161-the-day-the-crayons-came-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448911756l/23310161._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448911756l/23310161._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>42864407</id>
+</work>
+<isbn>0399172750</isbn>
+<isbn13>9780399172755</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221498</id>
+<title>The Good Egg</title>
+<title_without_series>The Good Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221498-the-good-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>62460576</id>
+</work>
+<isbn>0062866001</isbn>
+<isbn13>9780062866004</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11233988</id>
+<title>I Want My Hat Back</title>
+<title_without_series>I Want My Hat Back</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11233988-i-want-my-hat-back]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888784l/11233988._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888784l/11233988._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16160067</id>
+</work>
+<isbn>0763655988</isbn>
+<isbn13>9780763655983</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3118934</id>
+<name>Jon Klassen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118934.Jon_Klassen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36341954</id>
+<title>We Don&apos;t Eat Our Classmates</title>
+<title_without_series>We Don&apos;t Eat Our Classmates</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36341954-we-don-t-eat-our-classmates]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509512923l/36341954._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>58021963</id>
+</work>
+<isbn>1368003559</isbn>
+<isbn13>9781368003551</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7699554</id>
+<title>The Wonky Donkey</title>
+<title_without_series>The Wonky Donkey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7699554-the-wonky-donkey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265439507l/7699554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1265439507l/7699554._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>10390290</id>
+</work>
+<isbn>1869439260</isbn>
+<isbn13>9781869439262</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19722899</id>
+<name>Craig           Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19722899.Craig_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13531024</id>
+<title>This Is Not My Hat</title>
+<title_without_series>This Is Not My Hat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13531024-this-is-not-my-hat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360096324l/13531024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360096324l/13531024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19092692</id>
+</work>
+<isbn>0763655996</isbn>
+<isbn13>9780763655990</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>3118934</id>
+<name>Jon Klassen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118934.Jon_Klassen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18295821</id>
+<title><![CDATA[The Adventures of Beekle: The Unimaginary Friend]]></title>
+<title_without_series><![CDATA[The Adventures of Beekle: The Unimaginary Friend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18295821-the-adventures-of-beekle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25778595</id>
+</work>
+<isbn>0316199982</isbn>
+<isbn13>9780316199988</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18570357</id>
+<title>What Do You Do with an Idea?</title>
+<title_without_series>What Do You Do with an Idea?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18570357-what-do-you-do-with-an-idea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391248131l/18570357._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391248131l/18570357._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>26301325</id>
+</work>
+<isbn>1938298071</isbn>
+<isbn13>9781938298073</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>19132</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59093</id>
+<name>Kobi Yamada</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59093.Kobi_Yamada]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

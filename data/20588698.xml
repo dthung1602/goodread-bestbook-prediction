@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20588698</id>
+  <title><![CDATA[Not That Kind of Girl: A Young Woman Tells You What She's "Learned"]]></title>
+  <isbn><![CDATA[081299499X]]></isbn>
+  <isbn13><![CDATA[9780812994995]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402816003l/20588698._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402816003l/20588698._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Random House</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["There is nothing gutsier to me than a person announcing that their story is one that deserves to be told," writes Lena Dunham, and it certainly takes guts to share the stories that make up her first book, <i>Not That Kind of Girl</i>. These are stories about getting your butt touched by your boss, about friendship and dieting (kind of) and having two existential crises before the age of 20. Stories about travel, both successful and less so, and about having the kind of sex where you feel like keeping your sneakers on in case you have to run away during the act. Stories about proving yourself to a room of 50-year-old men in Hollywood and showing up to "an outlandishly high-fashion event with the crustiest red nose you ever saw." Fearless, smart, and as heartbreakingly honest as ever, <i>Not That Kind of Girl</i> establishes Lena Dunham as more than a hugely talented director, actress and producer-it announces her as a fresh and vibrant new literary voice.]]></description>
+  <work>
+  <id type="integer">21933444</id>
+  <books_count type="integer">75</books_count>
+  <best_book_id type="integer">20588698</best_book_id>
+  <reviews_count type="integer">216045</reviews_count>
+  <ratings_sum type="integer">373077</ratings_sum>
+  <ratings_count type="integer">113180</ratings_count>
+  <text_reviews_count type="integer">8316</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_title>Not that Kind of Girl</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:17177|4:31951|3:38829|2:17678|1:7545|total:113180</rating_dist>
+  <desc_user_id type="integer">21736616</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.7QsNtVY9J93KojdVdzk3yQ</work_uri>
+</work>
+  <average_rating>3.30</average_rating>
+  <num_pages><![CDATA[265]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[101536]]></ratings_count>
+  <text_reviews_count><![CDATA[7435]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20588698-not-that-kind-of-girl]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20588698-not-that-kind-of-girl]]></link>
+  <authors>
+<author>
+<id>5877493</id>
+<name>Lena Dunham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1418849196p5/5877493.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1418849196p2/5877493.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5877493.Lena_Dunham]]></link>
+<average_rating>3.30</average_rating>
+<ratings_count>114862</ratings_count>
+<text_reviews_count>8626</text_reviews_count>
+</author>
+<author>
+<id>9281272</id>
+<name>Joana Avillez</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9281272.Joana_Avillez]]></link>
+<average_rating>3.29</average_rating>
+<ratings_count>101702</ratings_count>
+<text_reviews_count>7465</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20588698-not-that-kind-of-girl">Not That Kind of Girl Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=081299499X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20588698-not-that-kind-of-girl?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="7940"/>
+      <shelf name="memoir" count="1159"/>
+      <shelf name="feminism" count="486"/>
+      <shelf name="non-fiction" count="454"/>
+      <shelf name="memoirs" count="444"/>
+      <shelf name="humor" count="418"/>
+      <shelf name="essays" count="325"/>
+      <shelf name="audiobooks" count="320"/>
+      <shelf name="audiobook" count="299"/>
+      <shelf name="nonfiction" count="198"/>
+      <shelf name="read-in-2014" count="183"/>
+      <shelf name="audio" count="171"/>
+      <shelf name="biographies" count="145"/>
+      <shelf name="biography-memoir" count="142"/>
+      <shelf name="kindle" count="136"/>
+      <shelf name="book-club" count="130"/>
+      <shelf name="biography" count="109"/>
+      <shelf name="read-2015" count="109"/>
+      <shelf name="library" count="106"/>
+      <shelf name="comedy" count="105"/>
+      <shelf name="adult" count="105"/>
+      <shelf name="books-i-own" count="101"/>
+      <shelf name="dnf" count="100"/>
+      <shelf name="audio-books" count="93"/>
+      <shelf name="read-in-2016" count="90"/>
+      <shelf name="abandoned" count="90"/>
+      <shelf name="humour" count="90"/>
+      <shelf name="did-not-finish" count="89"/>
+      <shelf name="feminist" count="88"/>
+      <shelf name="owned" count="86"/>
+      <shelf name="funny" count="86"/>
+      <shelf name="owned-books" count="84"/>
+      <shelf name="women" count="76"/>
+      <shelf name="2015-reads" count="73"/>
+      <shelf name="contemporary" count="70"/>
+      <shelf name="read-2014" count="68"/>
+      <shelf name="memoir-biography" count="66"/>
+      <shelf name="audio-book" count="61"/>
+      <shelf name="to-buy" count="60"/>
+      <shelf name="autobiography" count="58"/>
+      <shelf name="bio" count="53"/>
+      <shelf name="didn-t-finish" count="52"/>
+      <shelf name="new-york" count="52"/>
+      <shelf name="2015-reading-challenge" count="51"/>
+      <shelf name="ebook" count="51"/>
+      <shelf name="chick-lit" count="51"/>
+      <shelf name="american" count="49"/>
+      <shelf name="audible" count="48"/>
+      <shelf name="read-2016" count="46"/>
+      <shelf name="unfinished" count="42"/>
+      <shelf name="2014-reads" count="42"/>
+      <shelf name="bio-memoir" count="42"/>
+      <shelf name="2015-books" count="40"/>
+      <shelf name="female-author" count="40"/>
+      <shelf name="english" count="40"/>
+      <shelf name="female-authors" count="40"/>
+      <shelf name="autobiography-memoir" count="39"/>
+      <shelf name="read-in-english" count="38"/>
+      <shelf name="my-library" count="38"/>
+      <shelf name="read-in-2017" count="37"/>
+      <shelf name="ebooks" count="37"/>
+      <shelf name="favorites" count="36"/>
+      <shelf name="library-books" count="35"/>
+      <shelf name="listened-to" count="33"/>
+      <shelf name="adult-non-fiction" count="33"/>
+      <shelf name="short-stories" count="33"/>
+      <shelf name="non-fic" count="33"/>
+      <shelf name="gave-up-on" count="32"/>
+      <shelf name="my-books" count="32"/>
+      <shelf name="couldn-t-finish" count="32"/>
+      <shelf name="celebrity" count="30"/>
+      <shelf name="listened" count="29"/>
+      <shelf name="autobiographies" count="28"/>
+      <shelf name="never-finished" count="28"/>
+      <shelf name="biographies-memoirs" count="28"/>
+      <shelf name="coming-of-age" count="28"/>
+      <shelf name="favourites" count="28"/>
+      <shelf name="memoirs-biographies" count="28"/>
+      <shelf name="bios" count="28"/>
+      <shelf name="2014-books" count="28"/>
+      <shelf name="borrowed" count="27"/>
+      <shelf name="i-own" count="27"/>
+      <shelf name="auto-biography" count="27"/>
+      <shelf name="wish-list" count="27"/>
+      <shelf name="own-it" count="26"/>
+      <shelf name="memoir-autobiography" count="26"/>
+      <shelf name="gave-up" count="25"/>
+      <shelf name="books-read-in-2014" count="24"/>
+      <shelf name="essay" count="24"/>
+      <shelf name="nyc" count="24"/>
+      <shelf name="memoir-bio" count="24"/>
+      <shelf name="e-book" count="23"/>
+      <shelf name="biographies-and-memoirs" count="23"/>
+      <shelf name="biographical" count="23"/>
+      <shelf name="nonfic" count="23"/>
+      <shelf name="21st-century" count="23"/>
+      <shelf name="home-library" count="22"/>
+      <shelf name="girl-power" count="22"/>
+      <shelf name="usa" count="22"/>
+      <shelf name="maybe" count="22"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>29405093</id>
+<title><![CDATA[The Girl with the Lower Back Tattoo]]></title>
+<title_without_series><![CDATA[The Girl with the Lower Back Tattoo]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29405093-the-girl-with-the-lower-back-tattoo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462657819l/29405093._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462657819l/29405093._SX98_.jpg]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>48759154</id>
+</work>
+<isbn>1501139886</isbn>
+<isbn13>9781501139888</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>13672918</id>
+<name>Amy Schumer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13672918.Amy_Schumer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10335308</id>
+<title><![CDATA[Is Everyone Hanging Out Without Me? (And Other Concerns)]]></title>
+<title_without_series><![CDATA[Is Everyone Hanging Out Without Me?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10335308-is-everyone-hanging-out-without-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443264638l/10335308._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443264638l/10335308._SX98_.jpg]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>15237902</id>
+</work>
+<isbn>0307886263</isbn>
+<isbn13>9780307886262</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>194416</id>
+<name>Mindy Kaling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194416.Mindy_Kaling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20910157</id>
+<title>Yes Please</title>
+<title_without_series>Yes Please</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20910157-yes-please]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402815435l/20910157._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402815435l/20910157._SX98_.jpg]]></image_url>
+<num_pages>329</num_pages>
+<work>
+<id>40098620</id>
+</work>
+<isbn>0062268341</isbn>
+<isbn13>9780062268341</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>7350402</id>
+<name>Amy Poehler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7350402.Amy_Poehler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30268522</id>
+<title>Why Not Me?</title>
+<title_without_series>Why Not Me?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30268522-why-not-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473956249l/30268522._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473956249l/30268522._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>41897766</id>
+</work>
+<isbn>0804138168</isbn>
+<isbn13>9780804138161</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>194416</id>
+<name>Mindy Kaling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194416.Mindy_Kaling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10600242</id>
+<title>How to Be a Woman</title>
+<title_without_series>How to Be a Woman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10600242-how-to-be-a-woman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405909800l/10600242._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405909800l/10600242._SX98_.jpg]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>15507935</id>
+</work>
+<isbn>0091940737</isbn>
+<isbn13>9780091940737</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>939363</id>
+<name>Caitlin Moran</name>
+<link><![CDATA[https://www.goodreads.com/author/show/939363.Caitlin_Moran]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9418327</id>
+<title>Bossypants</title>
+<title_without_series>Bossypants</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9418327-bossypants]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481509554l/9418327._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481509554l/9418327._SX98_.jpg]]></image_url>
+<num_pages>283</num_pages>
+<work>
+<id>14302659</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4385839</id>
+<name>Tina Fey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4385839.Tina_Fey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46041465</id>
+<title>Everything I Know About Love</title>
+<title_without_series>Everything I Know About Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46041465-everything-i-know-about-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563761980l/46041465._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563761980l/46041465._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>55533818</id>
+</work>
+<isbn>0062968785</isbn>
+<isbn13>9780062968784</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2020</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>16508320</id>
+<name>Dolly Alderton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16508320.Dolly_Alderton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23453112</id>
+<title>Modern Romance</title>
+<title_without_series>Modern Romance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23453112-modern-romance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432335014l/23453112._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432335014l/23453112._SX98_.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>43014915</id>
+</work>
+<isbn>1594206279</isbn>
+<isbn13>9781594206276</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>9802136</id>
+<name>Aziz Ansari</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9802136.Aziz_Ansari]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18813642</id>
+<title>Bad Feminist</title>
+<title_without_series>Bad Feminist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18813642-bad-feminist]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421292744l/18813642._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421292744l/18813642._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>26563816</id>
+</work>
+<isbn>0062282719</isbn>
+<isbn13>9780062282712</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3360355</id>
+<name>Roxane Gay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3360355.Roxane_Gay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18667945</id>
+<title>#GIRLBOSS</title>
+<title_without_series>#GIRLBOSS</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18667945-girlboss]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390931472l/18667945._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390931472l/18667945._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>26493608</id>
+</work>
+<isbn>039916927X</isbn>
+<isbn13>9780399169274</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7341059</id>
+<name>Sophia Amoruso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7341059.Sophia_Amoruso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35982</id>
+<title><![CDATA[My Horizontal Life: A Collection of One-Night Stands]]></title>
+<title_without_series><![CDATA[My Horizontal Life: A Collection of One-Night Stands]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35982.My_Horizontal_Life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388631721l/35982._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388631721l/35982._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>979256</id>
+</work>
+<isbn>1582346186</isbn>
+<isbn13>9781582346182</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20357</id>
+<name>Chelsea Handler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20357.Chelsea_Handler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32187419</id>
+<title>Conversations with Friends</title>
+<title_without_series>Conversations with Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32187419-conversations-with-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>52827120</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41057294</id>
+<title>Normal People</title>
+<title_without_series>Normal People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41057294-normal-people]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SX98_.jpg]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>59141209</id>
+</work>
+<isbn>1984822179</isbn>
+<isbn13>9781984822178</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40598936</id>
+<title>This Will Only Hurt a Little</title>
+<title_without_series>This Will Only Hurt a Little</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40598936-this-will-only-hurt-a-little]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>321</num_pages>
+<work>
+<id>63049435</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17977629</id>
+<name>Busy Philipps</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17977629.Busy_Philipps]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46858711</id>
+<title>Doctor Faustus</title>
+<title_without_series>Doctor Faustus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46858711-doctor-faustus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71908390</id>
+</work>
+<isbn>1539719200</isbn>
+<isbn13>9781539719205</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19350338</id>
+<name>Christoper Marlowe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19350338.Christoper_Marlowe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29868610</id>
+<title>Scrappy Little Nobody</title>
+<title_without_series>Scrappy Little Nobody</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29868610-scrappy-little-nobody]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410391l/29868610._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410391l/29868610._SX98_.jpg]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>45352758</id>
+</work>
+<isbn>1501117203</isbn>
+<isbn13>9781501117206</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>7041930</id>
+<name>Anna Kendrick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7041930.Anna_Kendrick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26893819</id>
+<title>The Girls</title>
+<title_without_series>The Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26893819-the-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492065338l/26893819._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492065338l/26893819._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>42856015</id>
+</work>
+<isbn>081299860X</isbn>
+<isbn13>9780812998603</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2926065</id>
+<name>Emma Cline</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2926065.Emma_Cline]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12262741</id>
+<title><![CDATA[Wild: From Lost to Found on the Pacific Crest Trail]]></title>
+<title_without_series><![CDATA[Wild: From Lost to Found on the Pacific Crest Trail]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12262741-wild]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453189881l/12262741._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453189881l/12262741._SX98_.jpg]]></image_url>
+<num_pages>315</num_pages>
+<work>
+<id>17237712</id>
+</work>
+<isbn>0307592731</isbn>
+<isbn13>9780307592736</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>113180</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>155717</id>
+<name>Cheryl Strayed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155717.Cheryl_Strayed]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

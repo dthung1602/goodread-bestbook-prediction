@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15791586</id>
+  <title><![CDATA[Fables, Vol. 18: Cubs in Toyland]]></title>
+  <isbn><![CDATA[140123769X]]></isbn>
+  <isbn13><![CDATA[9781401237691]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405494l/15791586._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405494l/15791586._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>22</publication_day>
+  <publisher>Vertigo</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The most harrowing epic since the inception of the series starts when Snow and Bigby's cub Therese receives a Christmas gift from an unknown admirer. This red plastic boat may hold the key to a deep, disturbing secret that will incite a series of soul-crushing events for the denizens of Fabletown. Plus, a backup feature that shows how Bigby received his fate, drawn by artist Gene Ha.<br /><br /><b>Collecting</b>: <i>Fables</i> 114-123]]></description>
+  <work>
+  <id type="integer">21513205</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">15791586</best_book_id>
+  <reviews_count type="integer">10766</reviews_count>
+  <ratings_sum type="integer">26234</ratings_sum>
+  <ratings_count type="integer">6282</ratings_count>
+  <text_reviews_count type="integer">528</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">22</original_publication_day>
+  <original_title>Fables, Volume 18: Cubs in Toyland</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2619|4:2427|3:1006|2:183|1:47|total:6282</rating_dist>
+  <desc_user_id type="integer">7548830</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.bbrW_PEuz-JZtZx2w6Urbw</work_uri>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[192]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Trade]]></edition_information>
+  <ratings_count><![CDATA[6138]]></ratings_count>
+  <text_reviews_count><![CDATA[516]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15791586-fables-vol-18]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15791586-fables-vol-18]]></link>
+  <authors>
+<author>
+<id>12444</id>
+<name>Bill Willingham</name>
+<role>Writer</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1347423972p5/12444.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1347423972p2/12444.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12444.Bill_Willingham]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>569349</ratings_count>
+<text_reviews_count>24523</text_reviews_count>
+</author>
+<author>
+<id>55811</id>
+<name>Mark Buckingham</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309051248p5/55811.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309051248p2/55811.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/55811.Mark_Buckingham]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>648067</ratings_count>
+<text_reviews_count>25456</text_reviews_count>
+</author>
+<author>
+<id>89614</id>
+<name>Gene Ha</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/89614.Gene_Ha]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>85646</ratings_count>
+<text_reviews_count>4781</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15791586-fables-vol-18">Fables, Vol. 18 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=140123769X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15791586-fables-vol-18?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3220"/>
+      <shelf name="graphic-novels" count="601"/>
+      <shelf name="comics" count="499"/>
+      <shelf name="fantasy" count="312"/>
+      <shelf name="graphic-novel" count="240"/>
+      <shelf name="fables" count="86"/>
+      <shelf name="fairy-tales" count="77"/>
+      <shelf name="fiction" count="68"/>
+      <shelf name="comics-graphic-novels" count="53"/>
+      <shelf name="comic" count="50"/>
+      <shelf name="favorites" count="45"/>
+      <shelf name="series" count="44"/>
+      <shelf name="graphic-novels-comics" count="39"/>
+      <shelf name="vertigo" count="38"/>
+      <shelf name="currently-reading" count="35"/>
+      <shelf name="owned" count="32"/>
+      <shelf name="comic-books" count="30"/>
+      <shelf name="comics-and-graphic-novels" count="30"/>
+      <shelf name="graphic" count="29"/>
+      <shelf name="fairy-tale" count="27"/>
+      <shelf name="urban-fantasy" count="26"/>
+      <shelf name="adult" count="25"/>
+      <shelf name="library" count="19"/>
+      <shelf name="graphic-novels-and-comics" count="18"/>
+      <shelf name="read-in-2013" count="18"/>
+      <shelf name="magic" count="15"/>
+      <shelf name="adventure" count="15"/>
+      <shelf name="read-2013" count="14"/>
+      <shelf name="books-i-own" count="13"/>
+      <shelf name="read-in-2014" count="12"/>
+      <shelf name="comic-book" count="12"/>
+      <shelf name="read-comics" count="11"/>
+      <shelf name="comics-to-read" count="11"/>
+      <shelf name="fairytale" count="10"/>
+      <shelf name="horror" count="10"/>
+      <shelf name="vertigo-comics" count="9"/>
+      <shelf name="graphic-novels-read" count="9"/>
+      <shelf name="2013-reads" count="9"/>
+      <shelf name="fairytales" count="9"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="comics-read" count="8"/>
+      <shelf name="comic-graphic-novel" count="8"/>
+      <shelf name="retelling" count="8"/>
+      <shelf name="adult-fiction" count="8"/>
+      <shelf name="family" count="8"/>
+      <shelf name="default" count="7"/>
+      <shelf name="comics-manga" count="7"/>
+      <shelf name="fairy-tale-retellings" count="7"/>
+      <shelf name="retellings" count="7"/>
+      <shelf name="dc-comics" count="7"/>
+      <shelf name="graphicnovels" count="7"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="read-in-2018" count="6"/>
+      <shelf name="library-book" count="6"/>
+      <shelf name="supernatural" count="6"/>
+      <shelf name="fantasy-scifi" count="6"/>
+      <shelf name="mythology" count="6"/>
+      <shelf name="graphics" count="6"/>
+      <shelf name="read-in-english" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="sci-fi-fantasy" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="american" count="5"/>
+      <shelf name="borrowed" count="5"/>
+      <shelf name="fumetti" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="fables-series" count="5"/>
+      <shelf name="fairy-tales-retold" count="5"/>
+      <shelf name="sequential-art" count="5"/>
+      <shelf name="animals" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="manga-comics" count="5"/>
+      <shelf name="graphic-novels-and-comic-books" count="5"/>
+      <shelf name="want" count="5"/>
+      <shelf name="action" count="5"/>
+      <shelf name="manga-graphic-novels" count="4"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="fables-comics" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="2014-reads" count="4"/>
+      <shelf name="part-of-a-series" count="4"/>
+      <shelf name="fairy-tale-retelling" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="kindle" count="4"/>
+      <shelf name="drama" count="4"/>
+      <shelf name="graphic-novels-comic-books" count="4"/>
+      <shelf name="bill-willingham" count="4"/>
+      <shelf name="dc-vertigo" count="4"/>
+      <shelf name="dark" count="4"/>
+      <shelf name="graphic-novel-manga" count="4"/>
+      <shelf name="series-fables" count="4"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="hoopla" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="comics-and-manga" count="3"/>
+      <shelf name="2016-reads" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>414157</id>
+<user_position>18</user_position>
+<series>
+<id>54296</id>
+<title>
+<![CDATA[
+    Fables (Collected Editions)
+]]>
+</title>
+<description>
+<![CDATA[
+    Trade paperbacks and novels released in the <i>Fables</i> series created by <a href=https://www.goodreads.com/author/show/12444.Bill_Willingham"">Bill Willingham</a>. The order listed below is the chronological publication order of both volumes of paperbacks and original graphic novels in the main narrative - supplemental works are at the bottom. <i>Fables</i> has also been published in <a href="http://www.goodreads.com/series/54621-fables-deluxe-editions">Deluxe Edition hardcovers</a>.
+    
+    There have been five spin-off titles:
+    * <a href="http://www.goodreads.com/series/54295-jack-of-fables"><i>Jack of Fables</i></a> (Volumes 1-6 are highly recommended reading, after Volume 8 of <i>Fables</i>, for the crossover event in Volume 13)
+    * <a href="http://www.goodreads.com/series/109195-cinderella"><i>Cinderella</i></a>
+    * <a href="http://www.goodreads.com/series/87120-fairest"><i>Fairest</i></a>
+    * <a href="https://www.goodreads.com/series/161102-fables-the-wolf-among-us"><i>Fables: The Wolf Among Us</i></a>
+    * <a href="https://www.goodreads.com/series/188738-everafter-from-the-pages-of-fables"><i>Everafter: From the Pages of Fables</i></a>
+    
+    For a list of all Fables titles in publication order (can be useful as a reading guide) please <a href="http://www.goodreads.com/series/111232-fables">click here</a>.
+]]>
+</description>
+<note>
+<![CDATA[
+    Have removed The Unwritten as a spin-off (it's still to be found in the complete list pointed by the links to the other series with advice on reading order).
+    Please do not link to single issues, as they do not belong on Goodreads, per Librarians' Manual. Thank you.
+]]>
+</note>
+<series_works_count>27</series_works_count>
+<primary_work_count>22</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>538296</id>
+<user_position></user_position>
+<series>
+<id>111232</id>
+<title>
+<![CDATA[
+    Fables +
+]]>
+</title>
+<description>
+<![CDATA[
+    Listing Fables, Jack of Fables, and all other Fables-related spin-offs. Can be useful as a reading order guide (based on <a href="http://comicbooklibrarian.tumblr.com/post/121130691844/fables-reading-list">Comic Book Librarian</a>.)
+    Also, see the <a href="https://www.goodreads.com/series/54621-fables-deluxe-editions">Deluxe Editions</a>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>48</series_works_count>
+<primary_work_count>48</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1144737</id>
+<user_position>21</user_position>
+<series>
+<id>192614</id>
+<title>
+<![CDATA[
+    Fables (édition française)
+]]>
+</title>
+<description>
+<![CDATA[
+    Edition française de la série Fables (découpage différent de l'édition originale).
+    French edition of Fables serie (volumes content differs from the original edition).
+]]>
+</description>
+<note>
+<![CDATA[
+    The content of several volumes of this French edition differs from the original one, even if volume titles / covers may be the same. Be careful when adding / combining.
+]]>
+</note>
+<series_works_count>26</series_works_count>
+<primary_work_count>25</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>18465920</id>
+<title><![CDATA[Fairest, Volume 3: The Return of the Maharaja]]></title>
+<title_without_series><![CDATA[Fairest, Volume 3: The Return of the Maharaja]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18465920-fairest-volume-3]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399306299l/18465920._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399306299l/18465920._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>26124034</id>
+</work>
+<isbn>1401245935</isbn>
+<isbn13>9781401245931</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4760550</id>
+<name>Sean E. Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4760550.Sean_E_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23846750</id>
+<title><![CDATA[Fairest, Volume 5: The Clamour for Glamour]]></title>
+<title_without_series><![CDATA[Fairest, Volume 5: The Clamour for Glamour]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23846750-fairest-volume-5]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438780616l/23846750._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438780616l/23846750._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>43456945</id>
+</work>
+<isbn>1401254268</isbn>
+<isbn13>9781401254261</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>55811</id>
+<name>Mark Buckingham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55811.Mark_Buckingham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17137611</id>
+<title><![CDATA[Fairest, Volume 2: The Hidden Kingdom]]></title>
+<title_without_series><![CDATA[Fairest, Volume 2: The Hidden Kingdom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17137611-fairest-volume-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375406969l/17137611._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375406969l/17137611._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>23539651</id>
+</work>
+<isbn>1401240216</isbn>
+<isbn13>9781401240219</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>426034</id>
+<name>Lauren Beukes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/426034.Lauren_Beukes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21532163</id>
+<title><![CDATA[Fairest, Volume 4: Of Men and Mice]]></title>
+<title_without_series><![CDATA[Fairest, Volume 4: Of Men and Mice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21532163-fairest-volume-4]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406933055l/21532163._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406933055l/21532163._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>40860520</id>
+</work>
+<isbn>140125005X</isbn>
+<isbn13>9781401250058</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>19806</id>
+<name>Marc Andreyko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19806.Marc_Andreyko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25489164</id>
+<title><![CDATA[Fables: The Wolf Among Us, Volume 1]]></title>
+<title_without_series><![CDATA[Fables: The Wolf Among Us, Volume 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25489164-fables]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439836033l/25489164._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439836033l/25489164._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>45263611</id>
+</work>
+<isbn>1401256848</isbn>
+<isbn13>9781401256845</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>92149</id>
+<name>Matthew Sturges</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92149.Matthew_Sturges]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25810144</id>
+<title><![CDATA[Fables: The Wolf Among Us, Volume 2]]></title>
+<title_without_series><![CDATA[Fables: The Wolf Among Us, Volume 2]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25810144-fables]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468187008l/25810144._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468187008l/25810144._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>45666190</id>
+</work>
+<isbn>140126137X</isbn>
+<isbn13>9781401261375</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>92149</id>
+<name>Matthew Sturges</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92149.Matthew_Sturges]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31616111</id>
+<title><![CDATA[Everafter, Vol. 1: The Pandora Protocol]]></title>
+<title_without_series><![CDATA[Everafter, Vol. 1: The Pandora Protocol]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31616111-everafter-vol-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505353684l/31616111._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505353684l/31616111._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>52294565</id>
+</work>
+<isbn>1401268366</isbn>
+<isbn13>9781401268367</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>16620176</id>
+<name>Lilah Sturges</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16620176.Lilah_Sturges]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34892101</id>
+<title><![CDATA[Everafter, Vol. 2: The Unsentimental Education]]></title>
+<title_without_series><![CDATA[Everafter, Vol. 2: The Unsentimental Education]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34892101-everafter-vol-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519347088l/34892101._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519347088l/34892101._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>56145835</id>
+</work>
+<isbn>1401275028</isbn>
+<isbn13>9781401275020</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>9245133</id>
+<name>Dave Justus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9245133.Dave_Justus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12308801</id>
+<title><![CDATA[Cinderella: Fables are Forever (Vol. 2)]]></title>
+<title_without_series><![CDATA[Cinderella: Fables are Forever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12308801-cinderella]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375409516l/12308801._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375409516l/12308801._SX98_.jpg]]></image_url>
+<num_pages>154</num_pages>
+<work>
+<id>17101486</id>
+</work>
+<isbn>1401233856</isbn>
+<isbn13>9781401233853</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>162936</id>
+<name>Chris Roberson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/162936.Chris_Roberson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7219667</id>
+<title><![CDATA[Cinderella, Volume 1: From Fabletown with Love]]></title>
+<title_without_series><![CDATA[Cinderella, Volume 1: From Fabletown with Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7219667-cinderella-volume-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375409235l/7219667._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375409235l/7219667._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>8002394</id>
+</work>
+<isbn>1401227503</isbn>
+<isbn13>9781401227500</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>162936</id>
+<name>Chris Roberson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/162936.Chris_Roberson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18361516</id>
+<title><![CDATA[The Unwritten, Vol. 9: The Unwritten Fables]]></title>
+<title_without_series><![CDATA[The Unwritten, Vol. 9: The Unwritten Fables]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18361516-the-unwritten-vol-9]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401379562l/18361516._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401379562l/18361516._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>25962350</id>
+</work>
+<isbn>140124694X</isbn>
+<isbn13>9781401246945</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>9018</id>
+<name>Mike Carey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9018.Mike_Carey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15798404</id>
+<title><![CDATA[The Unwritten, Vol. 7: The Wound]]></title>
+<title_without_series><![CDATA[The Unwritten, Vol. 7: The Wound]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15798404-the-unwritten-vol-7]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363837245l/15798404._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363837245l/15798404._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>21521330</id>
+</work>
+<isbn>1401238068</isbn>
+<isbn13>9781401238063</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>9018</id>
+<name>Mike Carey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9018.Mike_Carey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21556003</id>
+<title><![CDATA[The Unwritten, Vol. 10: War Stories]]></title>
+<title_without_series><![CDATA[The Unwritten, Vol. 10: War Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21556003-the-unwritten-vol-10]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411038578l/21556003._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411038578l/21556003._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>40889306</id>
+</work>
+<isbn>1401250556</isbn>
+<isbn13>9781401250553</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>9018</id>
+<name>Mike Carey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9018.Mike_Carey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23128353</id>
+<title><![CDATA[The Unwritten, Vol. 11: Apocalypse]]></title>
+<title_without_series><![CDATA[The Unwritten, Vol. 11: Apocalypse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23128353-the-unwritten-vol-11]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435502241l/23128353._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435502241l/23128353._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>42676417</id>
+</work>
+<isbn>1401253482</isbn>
+<isbn13>9781401253486</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>9018</id>
+<name>Mike Carey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9018.Mike_Carey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13495085</id>
+<title><![CDATA[The Unwritten, Vol. 6: Tommy Taylor and the War of Words]]></title>
+<title_without_series><![CDATA[The Unwritten, Vol. 6: Tommy Taylor and the War of Words]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13495085-the-unwritten-vol-6]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449259719l/13495085._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449259719l/13495085._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>19037230</id>
+</work>
+<isbn>1401235603</isbn>
+<isbn13>9781401235604</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>9018</id>
+<name>Mike Carey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9018.Mike_Carey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42835868</id>
+<title><![CDATA[The Walking Dead, Vol. 32: Rest In Peace]]></title>
+<title_without_series><![CDATA[The Walking Dead, Vol. 32: Rest In Peace]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42835868-the-walking-dead-vol-32]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559508143l/42835868._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559508143l/42835868._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>66594097</id>
+</work>
+<isbn>1534312412</isbn>
+<isbn13>9781534312418</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>12425</id>
+<name>Robert Kirkman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12425.Robert_Kirkman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9256590</id>
+<title>Chew, Vol. 3: Just Desserts</title>
+<title_without_series>Chew, Vol. 3: Just Desserts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9256590-chew-vol-3]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>14137249</id>
+</work>
+<isbn>1607063352</isbn>
+<isbn13>9781607063353</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>93094</id>
+<name>John Layman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93094.John_Layman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13532252</id>
+<title><![CDATA[Scalped, Vol. 10: Trail's End (Scalped, #10)]]></title>
+<title_without_series>Scalped, Vol. 10: Trail&apos;s End</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13532252-scalped-vol-10]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347585324l/13532252._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347585324l/13532252._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>19093928</id>
+</work>
+<isbn>1401237347</isbn>
+<isbn13>9781401237349</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6282</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>580494</id>
+<name>Jason Aaron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/580494.Jason_Aaron]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

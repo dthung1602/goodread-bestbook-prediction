@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>32508692</id>
+  <title>The Case of the Stinky Stench</title>
+  <isbn><![CDATA[1454919604]]></isbn>
+  <isbn13><![CDATA[9781454919605]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482953093l/32508692._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482953093l/32508692._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>Sterling Children's Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>
+  <i>"Uncle,” Crossaint said, “the fridge is in trouble! </i>
+</b><br /><b>
+  <i>A mystery stench turned a whole shelf to rubble! </i>
+</b><br /><b>
+  <i>I’m the last hope or the fridge will be lost! </i>
+</b><br /><b>
+  <i>Help me or else we’ll be cooked, served, and sauced.”</i>
+</b><br />  <br /> There’s a stinky stench in the fridge—and our favorite foodie friends must solve a smelly mystery! Sir French Toast’s nephew, Inspector Croissant, begs him and Lady Pancake for help in finding the source of the foul odor. Could it be the devious Baron Von Waffle? A fetid fish lurking in the bottom of Corn Chowder Lake? Featuring the same delectable wordplay and delicious art that won critical raves for <i>Lady Pancake &amp; Sir French Toast</i>—there’s even an actual red herring—his fun follow-up is an absolutely tasty treat for kids!]]></description>
+  <work>
+  <id type="integer">51400282</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">30812543</best_book_id>
+  <reviews_count type="integer">2492</reviews_count>
+  <ratings_sum type="integer">3531</ratings_sum>
+  <ratings_count type="integer">876</ratings_count>
+  <text_reviews_count type="integer">182</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title>The Case of the Stinky Stench</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:322|4:320|3:180|2:47|1:7|total:876</rating_dist>
+  <desc_user_id type="integer">16440858</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.mwDZ4KsewbFaholwQOhMUw</work_uri>
+</work>
+  <average_rating>4.03</average_rating>
+  <num_pages><![CDATA[34]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[281]]></ratings_count>
+  <text_reviews_count><![CDATA[32]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32508692-the-case-of-the-stinky-stench]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32508692-the-case-of-the-stinky-stench]]></link>
+  <authors>
+<author>
+<id>8642874</id>
+<name>Josh Funk</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1499970230p5/8642874.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1499970230p2/8642874.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8642874.Josh_Funk]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>7560</ratings_count>
+<text_reviews_count>1569</text_reviews_count>
+</author>
+<author>
+<id>2727705</id>
+<name>Brendan Kearney</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402500888p5/2727705.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402500888p2/2727705.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2727705.Brendan_Kearney]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>2965</ratings_count>
+<text_reviews_count>702</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32508692-the-case-of-the-stinky-stench">The Case of the Stinky Stench Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1454919604&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/32508692-the-case-of-the-stinky-stench?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1296"/>
+      <shelf name="picture-books" count="165"/>
+      <shelf name="picture-book" count="39"/>
+      <shelf name="food" count="35"/>
+      <shelf name="childrens" count="35"/>
+      <shelf name="humor" count="23"/>
+      <shelf name="mystery" count="21"/>
+      <shelf name="children-s" count="21"/>
+      <shelf name="children-s-books" count="20"/>
+      <shelf name="kids" count="18"/>
+      <shelf name="children" count="17"/>
+      <shelf name="rhyming" count="14"/>
+      <shelf name="kids-books" count="13"/>
+      <shelf name="read-in-2017" count="11"/>
+      <shelf name="childrens-books" count="8"/>
+      <shelf name="storytime" count="6"/>
+      <shelf name="read-2017" count="6"/>
+      <shelf name="children-s-picture-books" count="6"/>
+      <shelf name="funny" count="5"/>
+      <shelf name="fiction" count="5"/>
+      <shelf name="series" count="5"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="detective" count="4"/>
+      <shelf name="favorites" count="4"/>
+      <shelf name="children-s-literature" count="4"/>
+      <shelf name="adventure" count="4"/>
+      <shelf name="children-books" count="4"/>
+      <shelf name="picture" count="4"/>
+      <shelf name="pb" count="4"/>
+      <shelf name="2017-picture-books" count="4"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="picturebooks" count="3"/>
+      <shelf name="to-read-picture-books" count="3"/>
+      <shelf name="classroombookaday" count="3"/>
+      <shelf name="read-aloud" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="rhyme" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="1000-books-before-kindergarten" count="3"/>
+      <shelf name="picture-books-2017" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="kindergarten" count="3"/>
+      <shelf name="1st-grade" count="3"/>
+      <shelf name="childrens-picture-books" count="3"/>
+      <shelf name="picture-books-2019" count="2"/>
+      <shelf name="finn-500-before-k" count="2"/>
+      <shelf name="avi-500-before-k" count="2"/>
+      <shelf name="3-stars" count="2"/>
+      <shelf name="kiddos" count="2"/>
+      <shelf name="preschool" count="2"/>
+      <shelf name="early-elementary" count="2"/>
+      <shelf name="story-time" count="2"/>
+      <shelf name="childhood-read" count="2"/>
+      <shelf name="arya" count="2"/>
+      <shelf name="picturebook" count="2"/>
+      <shelf name="books-for-children" count="2"/>
+      <shelf name="silliness" count="2"/>
+      <shelf name="plot-doorway" count="2"/>
+      <shelf name="language-doorway" count="2"/>
+      <shelf name="character-doorway" count="2"/>
+      <shelf name="pb-rhyming" count="2"/>
+      <shelf name="oliver" count="2"/>
+      <shelf name="child-picture-book" count="2"/>
+      <shelf name="foodie" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="childrens-literature" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="picture-book-humor" count="2"/>
+      <shelf name="kid-s-books" count="2"/>
+      <shelf name="favorite-picture-books" count="2"/>
+      <shelf name="classroom-wishlist" count="2"/>
+      <shelf name="fiction-jv" count="2"/>
+      <shelf name="great-read-alouds" count="2"/>
+      <shelf name="fun" count="2"/>
+      <shelf name="children-s-lit" count="2"/>
+      <shelf name="pbs" count="2"/>
+      <shelf name="childrens-picturebooks" count="2"/>
+      <shelf name="currently-reading" count="2"/>
+      <shelf name="poetry" count="2"/>
+      <shelf name="humour" count="2"/>
+      <shelf name="juvenile" count="2"/>
+      <shelf name="kindness" count="2"/>
+      <shelf name="2nd" count="2"/>
+      <shelf name="2017-reads" count="2"/>
+      <shelf name="humorous" count="2"/>
+      <shelf name="alex" count="2"/>
+      <shelf name="children-picture-books" count="2"/>
+      <shelf name="detective-mystery" count="1"/>
+      <shelf name="mystery-2" count="1"/>
+      <shelf name="2019-books" count="1"/>
+      <shelf name="elsie-library-books" count="1"/>
+      <shelf name="will-to-read" count="1"/>
+      <shelf name="victor-books" count="1"/>
+      <shelf name="series-to-finish" count="1"/>
+      <shelf name="published-in-2010s" count="1"/>
+      <shelf name="oliver-s-books" count="1"/>
+      <shelf name="kid" count="1"/>
+      <shelf name="2017childrens-grca" count="1"/>
+      <shelf name="delaney-2000-books" count="1"/>
+      <shelf name="delaney" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1013058</id>
+<user_position>2</user_position>
+<series>
+<id>198040</id>
+<title>
+<![CDATA[
+    Lady Pancake & Sir French Toast
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>31423547</id>
+<title>Be Quiet!</title>
+<title_without_series>Be Quiet!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31423547-be-quiet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>52115181</id>
+</work>
+<isbn>148473162X</isbn>
+<isbn13>9781484731628</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30254920</id>
+<title>Spunky Little Monkey</title>
+<title_without_series>Spunky Little Monkey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30254920-spunky-little-monkey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465946850l/30254920._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465946850l/30254920._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>50725291</id>
+</work>
+<isbn>0545776430</isbn>
+<isbn13>9780545776431</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5086768</id>
+<name>Bill Martin Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5086768.Bill_Martin_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31215005</id>
+<title><![CDATA[The Legend of Rock Paper Scissors]]></title>
+<title_without_series><![CDATA[The Legend of Rock Paper Scissors]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31215005-the-legend-of-rock-paper-scissors]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484283303l/31215005._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484283303l/31215005._SX98_.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>51870043</id>
+</work>
+<isbn>0062438891</isbn>
+<isbn13>9780062438898</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31625795</id>
+<title>Jabari Jumps</title>
+<title_without_series>Jabari Jumps</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31625795-jabari-jumps]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474598253l/31625795._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474598253l/31625795._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>52307886</id>
+</work>
+<isbn>0763678384</isbn>
+<isbn13>9780763678388</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>15662189</id>
+<name>Gaia Cornwall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15662189.Gaia_Cornwall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31456756</id>
+<title>The Book of Mistakes</title>
+<title_without_series>The Book of Mistakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31456756-the-book-of-mistakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>52161728</id>
+</work>
+<isbn>0735227926</isbn>
+<isbn13>9780735227927</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30364127</id>
+<title>Over and Under the Pond</title>
+<title_without_series>Over and Under the Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30364127-over-and-under-the-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>50874368</id>
+</work>
+<isbn>1452145423</isbn>
+<isbn13>9781452145426</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30555639</id>
+<title>Little Fox in the Forest</title>
+<title_without_series>Little Fox in the Forest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30555639-little-fox-in-the-forest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410990l/30555639._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410990l/30555639._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>51102487</id>
+</work>
+<isbn>055353789X</isbn>
+<isbn13>9780553537895</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>5398581</id>
+<name>Stephanie Graegin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5398581.Stephanie_Graegin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20670612</id>
+<title><![CDATA[The Youngest Marcher: The Story of Audrey Faye Hendricks, a Young Civil Rights Activist]]></title>
+<title_without_series><![CDATA[The Youngest Marcher: The Story of Audrey Faye Hendricks, a Young Civil Rights Activist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20670612-the-youngest-marcher]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460835l/20670612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460835l/20670612._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>39968140</id>
+</work>
+<isbn>1481400703</isbn>
+<isbn13>9781481400701</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5231111</id>
+<name>Cynthia Levinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5231111.Cynthia_Levinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31247841</id>
+<title>Triangle</title>
+<title_without_series>Triangle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31247841-triangle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474550592l/31247841._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474550592l/31247841._SX98_.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>51904134</id>
+</work>
+<isbn>076369603X</isbn>
+<isbn13>9780763696030</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33376257</id>
+<title><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title>
+<title_without_series><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33376257-after-the-fall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54117215</id>
+</work>
+<isbn>1626726825</isbn>
+<isbn13>9781626726826</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23208702</id>
+<title>A Greyhound, A Groundhog</title>
+<title_without_series>A Greyhound, A Groundhog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23208702-a-greyhound-a-groundhog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488842570l/23208702._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488842570l/23208702._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42752039</id>
+</work>
+<isbn>0605976147</isbn>
+<isbn13>9780605976146</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13899</id>
+<name>Emily Jenkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13899.Emily_Jenkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31522122</id>
+<title><![CDATA[Dragons Love Tacos 2: The Sequel]]></title>
+<title_without_series><![CDATA[Dragons Love Tacos 2: The Sequel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31522122-dragons-love-tacos-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485922963l/31522122._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485922963l/31522122._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>52206885</id>
+</work>
+<isbn>0525428887</isbn>
+<isbn13>9780525428886</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>132184</id>
+<name>Adam Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/132184.Adam_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30312747</id>
+<title>Not Quite Narwhal</title>
+<title_without_series>Not Quite Narwhal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30312747-not-quite-narwhal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476030563l/30312747._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476030563l/30312747._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>50799503</id>
+</work>
+<isbn>1481469096</isbn>
+<isbn13>9781481469098</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>15290123</id>
+<name>Jessie Sima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15290123.Jessie_Sima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32700995</id>
+<title><![CDATA[Duck and Hippo in the Rainstorm (Duck and Hippo, #1)]]></title>
+<title_without_series><![CDATA[Duck and Hippo in the Rainstorm]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32700995-duck-and-hippo-in-the-rainstorm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>53276609</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>39781</id>
+<name>Jonathan London</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39781.Jonathan_London]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32498545</id>
+<title>7 Ate 9: The Untold Story</title>
+<title_without_series>7 Ate 9: The Untold Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32498545-7-ate-9]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492741677l/32498545._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492741677l/32498545._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>53091319</id>
+</work>
+<isbn>1484717791</isbn>
+<isbn13>9781484717790</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6509353</id>
+<name>Tara Lazar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6509353.Tara_Lazar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31932921</id>
+<title>Malala&apos;s Magic Pencil</title>
+<title_without_series>Malala&apos;s Magic Pencil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31932921-malala-s-magic-pencil]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507609477l/31932921._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507609477l/31932921._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57552364</id>
+</work>
+<isbn>031631966X</isbn>
+<isbn13>9780316319669</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7064545</id>
+<name>Malala Yousafzai</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7064545.Malala_Yousafzai]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23612011</id>
+<title><![CDATA[Trollbella Throws a Party: A Tale from the Land of Stories]]></title>
+<title_without_series><![CDATA[Trollbella Throws a Party: A Tale from the Land of Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23612011-trollbella-throws-a-party]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497981677l/23612011._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497981677l/23612011._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>43216003</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42996662</id>
+<title>SumoKitty</title>
+<title_without_series>SumoKitty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42996662-sumokitty]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551734943l/42996662._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551734943l/42996662._SX98_.jpg]]></image_url>
+<num_pages>50</num_pages>
+<work>
+<id>66829167</id>
+</work>
+<isbn>1580896820</isbn>
+<isbn13>9781580896825</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>850133</id>
+<name>David Biedrzycki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/850133.David_Biedrzycki]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

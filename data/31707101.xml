@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>31707101</id>
+  <title>This Is Really Happening</title>
+  <isbn><![CDATA[0448493586]]></isbn>
+  <isbn13><![CDATA[9780448493589]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485339276l/31707101._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485339276l/31707101._SY75_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Razorbill</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>BuzzFeed</i> senior writer Erin Chack provides a collection of personal essays for the Snapchat generation. <br /><br />Erin recounts everything from meeting her soulmate at age 14 to her first chemotherapy session at age 19 to what <i>really</i> goes on behind the scenes at a major Internet media company. She authentically captures the agony and the ecstasy of the millennial experience, whether it's her first kiss ("Sean's tongue! In my mouth! Slippery and wet like a slug in the rain.") or her struggles with anxiety ("When people throw caution to the wind, I am stuck imagining the poor soul who has to break his back sweeping caution into a dustpan"). <br /><br />Yet Erin also offers a fresh perspective on universal themes of resilience and love as she writes about surviving cancer, including learning of her mother's own cancer diagnosis within the same year, and her attempts to hide the diagnosis from friends to avoid "un-normaling" everything.]]></description>
+  <work>
+  <id type="integer">52389992</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">31707101</best_book_id>
+  <reviews_count type="integer">6564</reviews_count>
+  <ratings_sum type="integer">4048</ratings_sum>
+  <ratings_count type="integer">1012</ratings_count>
+  <text_reviews_count type="integer">184</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title>This Is Really Happening</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:359|4:376|3:209|2:54|1:14|total:1012</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.YPuPB_2DHZLWCSRetcF06Q</work_uri>
+</work>
+  <average_rating>4.00</average_rating>
+  <num_pages><![CDATA[240]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[944]]></ratings_count>
+  <text_reviews_count><![CDATA[176]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/31707101-this-is-really-happening]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/31707101-this-is-really-happening]]></link>
+  <authors>
+<author>
+<id>15691173</id>
+<name>Erin Chack</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472739808p5/15691173.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472739808p2/15691173.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15691173.Erin_Chack]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<text_reviews_count>184</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/31707101-this-is-really-happening">This Is Really Happening Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0448493586&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/31707101-this-is-really-happening?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5274"/>
+      <shelf name="non-fiction" count="87"/>
+      <shelf name="memoir" count="54"/>
+      <shelf name="nonfiction" count="52"/>
+      <shelf name="humor" count="47"/>
+      <shelf name="currently-reading" count="30"/>
+      <shelf name="essays" count="28"/>
+      <shelf name="memoirs" count="19"/>
+      <shelf name="ya" count="18"/>
+      <shelf name="young-adult" count="17"/>
+      <shelf name="to-buy" count="15"/>
+      <shelf name="arc" count="14"/>
+      <shelf name="favorites" count="12"/>
+      <shelf name="read-in-2017" count="11"/>
+      <shelf name="short-stories" count="8"/>
+      <shelf name="biography" count="8"/>
+      <shelf name="audio" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="audiobook" count="7"/>
+      <shelf name="audiobooks" count="6"/>
+      <shelf name="2017-reads" count="6"/>
+      <shelf name="arcs" count="6"/>
+      <shelf name="2017-releases" count="6"/>
+      <shelf name="read-in-2018" count="5"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="autobiography" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="funny" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="to-read-nonfiction" count="4"/>
+      <shelf name="memoir-biography" count="4"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="biography-memoir" count="4"/>
+      <shelf name="biography-and-memoir" count="3"/>
+      <shelf name="nonfiction-to-read" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="on-kindle" count="3"/>
+      <shelf name="teen-nonfiction" count="3"/>
+      <shelf name="2017-pub" count="3"/>
+      <shelf name="new-jersey" count="3"/>
+      <shelf name="non-fic" count="3"/>
+      <shelf name="want-to-own" count="3"/>
+      <shelf name="memoirs-biographies" count="3"/>
+      <shelf name="biographies-memoirs" count="3"/>
+      <shelf name="coming-of-age" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="penguin-first-to-read" count="3"/>
+      <shelf name="memoir-bio" count="3"/>
+      <shelf name="first-to-read" count="3"/>
+      <shelf name="cancer" count="3"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="books-read-in-2019" count="2"/>
+      <shelf name="nonfic" count="2"/>
+      <shelf name="tbr-nonfiction" count="2"/>
+      <shelf name="new-adult" count="2"/>
+      <shelf name="overdrive" count="2"/>
+      <shelf name="memoirs-bios" count="2"/>
+      <shelf name="do-not-own" count="2"/>
+      <shelf name="goodreads-choice-awards" count="2"/>
+      <shelf name="books-to-buy" count="2"/>
+      <shelf name="not-on-overdrive" count="2"/>
+      <shelf name="2017-books-read" count="2"/>
+      <shelf name="bio-memoir" count="2"/>
+      <shelf name="books-i-want" count="2"/>
+      <shelf name="2017-reading" count="2"/>
+      <shelf name="realistic-fiction" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="listened-to" count="2"/>
+      <shelf name="contemporary" count="2"/>
+      <shelf name="friendship" count="2"/>
+      <shelf name="family" count="2"/>
+      <shelf name="2017-reading-challenge" count="2"/>
+      <shelf name="short-story" count="2"/>
+      <shelf name="consideration" count="2"/>
+      <shelf name="humour" count="2"/>
+      <shelf name="biographies-and-memoirs" count="2"/>
+      <shelf name="relationships" count="2"/>
+      <shelf name="2017-release" count="2"/>
+      <shelf name="writing" count="2"/>
+      <shelf name="short-stories-essays" count="2"/>
+      <shelf name="female-authors" count="2"/>
+      <shelf name="books-read-in-2017" count="2"/>
+      <shelf name="first-reads" count="2"/>
+      <shelf name="ya-nonfiction" count="2"/>
+      <shelf name="netgalley" count="2"/>
+      <shelf name="kindle" count="2"/>
+      <shelf name="2017-published" count="2"/>
+      <shelf name="2020-psrc" count="1"/>
+      <shelf name="light-reading" count="1"/>
+      <shelf name="memoirs-autobiographies-essays" count="1"/>
+      <shelf name="library-reads" count="1"/>
+      <shelf name="celebrity-memoirs" count="1"/>
+      <shelf name="standalone" count="1"/>
+      <shelf name="school" count="1"/>
+      <shelf name="romance" count="1"/>
+      <shelf name="pov-womans" count="1"/>
+      <shelf name="era-modern" count="1"/>
+      <shelf name="entertainment-industry" count="1"/>
+      <shelf name="age-3adult" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>31750228</id>
+<title>Gender Studies</title>
+<title_without_series>Gender Studies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31750228-gender-studies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472778212l/31750228._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472778212l/31750228._SX98_.jpg]]></image_url>
+<num_pages>5</num_pages>
+<work>
+<id>52419124</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>6429</id>
+<name>Curtis Sittenfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6429.Curtis_Sittenfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8261477</id>
+<title>A Regular Couple</title>
+<title_without_series>A Regular Couple</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8261477-a-regular-couple]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330629520l/8261477._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330629520l/8261477._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>9645847</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6429</id>
+<name>Curtis Sittenfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6429.Curtis_Sittenfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33381433</id>
+<title><![CDATA[We Are Never Meeting In Real Life]]></title>
+<title_without_series><![CDATA[We Are Never Meeting In Real Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33381433-we-are-never-meeting-in-real-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530160228l/33381433._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530160228l/33381433._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>54123625</id>
+</work>
+<isbn>1101912197</isbn>
+<isbn13>9781101912195</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6896957</id>
+<name>Samantha Irby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6896957.Samantha_Irby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31930490</id>
+<title>Public Relations</title>
+<title_without_series>Public Relations</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31930490-public-relations]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486258607l/31930490._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486258607l/31930490._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>52584398</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6860774</id>
+<name>Katie Heaney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6860774.Katie_Heaney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37794009</id>
+<title>Equipped for Reading Success</title>
+<title_without_series>Equipped for Reading Success</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37794009-equipped-for-reading-success]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562621705l/37794009._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562621705l/37794009._SX98_.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>59456851</id>
+</work>
+<isbn></isbn>
+<isbn13>9780964690363</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>915983</id>
+<name>David A. Kilpatrick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/915983.David_A_Kilpatrick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24964480</id>
+<title><![CDATA[Across the Inlet, A Story about Unconditional Love in Alaska The Alyeska Saga:Book 1]]></title>
+<title_without_series><![CDATA[Across the Inlet, A Story about Unconditional Love in Alaska The Alyeska Saga:Book 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24964480-across-the-inlet-a-story-about-unconditional-love-in-alaska-the-alyeska]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424749957l/24964480._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424749957l/24964480._SX98_.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>44627613</id>
+</work>
+<isbn>9781505206</isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7981454</id>
+<name>Gail Summers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7981454.Gail_Summers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42590607</id>
+<title>JFK: The Last Speech</title>
+<title_without_series>JFK: The Last Speech</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42590607-jfk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540910521l/42590607._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540910521l/42590607._SX98_.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>66280984</id>
+</work>
+<isbn>1643070746</isbn>
+<isbn13>9781643070742</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>18573766</id>
+<name>Reunion &apos;64 Inc</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18573766.Reunion_64_Inc]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>754250</id>
+<title><![CDATA[Button, Button: Uncanny Stories]]></title>
+<title_without_series><![CDATA[Button, Button: Uncanny Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/754250.Button_Button]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323418364l/754250._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323418364l/754250._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>740369</id>
+</work>
+<isbn>0765312573</isbn>
+<isbn13>9780765312570</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8726</id>
+<name>Richard Matheson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8726.Richard_Matheson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45417493</id>
+<title><![CDATA[Mango Rash: Coming of Age in the Land of Frangipani and Fanta]]></title>
+<title_without_series><![CDATA[Mango Rash: Coming of Age in the Land of Frangipani and Fanta]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45417493-mango-rash]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556718227l/45417493._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556718227l/45417493._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>70162892</id>
+</work>
+<isbn></isbn>
+<isbn13>9781941887066</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>19116875</id>
+<name>Nan Sanders Pokerwinski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19116875.Nan_Sanders_Pokerwinski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43478991</id>
+<title>The Green Soldier</title>
+<title_without_series>The Green Soldier</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43478991-the-green-soldier]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546786853l/43478991._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546786853l/43478991._SX98_.jpg]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>67617689</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>18764476</id>
+<name>J. Edward Gore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18764476.J_Edward_Gore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34775491</id>
+<title>Dying Room Only</title>
+<title_without_series>Dying Room Only</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34775491-dying-room-only]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491251573l/34775491._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491251573l/34775491._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55972682</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8726</id>
+<name>Richard Matheson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8726.Richard_Matheson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30658435</id>
+<title><![CDATA[One Day We'll All Be Dead and None of This Will Matter]]></title>
+<title_without_series><![CDATA[One Day We'll All Be Dead and None of This Will Matter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30658435-one-day-we-ll-all-be-dead-and-none-of-this-will-matter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469411966l/30658435._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469411966l/30658435._SX98_.jpg]]></image_url>
+<num_pages>241</num_pages>
+<work>
+<id>51204272</id>
+</work>
+<isbn>0385685351</isbn>
+<isbn13>9780385685351</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>15117590</id>
+<name>Scaachi Koul</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15117590.Scaachi_Koul]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36447028</id>
+<title>The Will and the Wilds</title>
+<title_without_series>The Will and the Wilds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36447028-the-will-and-the-wilds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558547453l/36447028._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558547453l/36447028._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58149752</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2020</publication_year>
+<publication_month>1</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>7801879</id>
+<name>Charlie N. Holmberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7801879.Charlie_N_Holmberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1127067</id>
+<title><![CDATA[Personality: What Makes You the Way You Are]]></title>
+<title_without_series><![CDATA[Personality: What Makes You the Way You Are]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1127067.Personality]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>298</num_pages>
+<work>
+<id>1114236</id>
+</work>
+<isbn>0199211426</isbn>
+<isbn13>9780199211425</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>57759</id>
+<name>Daniel Nettle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57759.Daniel_Nettle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864814</id>
+<title><![CDATA[The Singing Rock & Other Brand-New Fairy Tales]]></title>
+<title_without_series><![CDATA[The Singing Rock & Other Brand-New Fairy Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864814-the-singing-rock-other-brand-new-fairy-tales]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535602766l/40864814._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535602766l/40864814._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>63657561</id>
+</work>
+<isbn>1596437502</isbn>
+<isbn13>9781596437500</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>79240</id>
+<name>Nathaniel Lachenmeyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79240.Nathaniel_Lachenmeyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27069094</id>
+<title><![CDATA[The Wonder Trail: True Stories from Los Angeles to the End of the World]]></title>
+<title_without_series><![CDATA[The Wonder Trail: True Stories from Los Angeles to the End of the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27069094-the-wonder-trail]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459723093l/27069094._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459723093l/27069094._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>47111632</id>
+</work>
+<isbn>0525955011</isbn>
+<isbn13>9780525955016</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>1280066</id>
+<name>Steve Hely</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1280066.Steve_Hely]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22571576</id>
+<title><![CDATA[Unabrow: Misadventures of a Late Bloomer]]></title>
+<title_without_series><![CDATA[Unabrow: Misadventures of a Late Bloomer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22571576-unabrow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404484698l/22571576._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404484698l/22571576._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>42038054</id>
+</work>
+<isbn>0142181447</isbn>
+<isbn13>9780142181447</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>6561857</id>
+<name>Una LaMarche</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561857.Una_LaMarche]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>698079</id>
+<title>Momzillas</title>
+<title_without_series>Momzillas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/698079.Momzillas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>684397</id>
+</work>
+<isbn>0767924789</isbn>
+<isbn13>9780767924788</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>51438</id>
+<name>Jill Kargman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51438.Jill_Kargman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

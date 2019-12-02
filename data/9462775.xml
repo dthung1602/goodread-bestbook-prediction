@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9462775</id>
+  <title><![CDATA[The Last Little Blue Envelope (Little Blue Envelope, #2)]]></title>
+  <isbn><![CDATA[0061976792]]></isbn>
+  <isbn13><![CDATA[9780061976797]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288297853l/9462775._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288297853l/9462775._SY75_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>HarperTeen</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Ginny Blackstone thought that the biggest adventure of her life was behind her. She spent last summer traveling around Europe, following the tasks her aunt Peg laid out in a series of letters before she died. When someone stole Ginny's backpack—and the last little blue envelope inside—she resigned herself to never knowing how it was supposed to end.<br /><br />Months later, a mysterious boy contacts Ginny from London, saying he's found her bag. Finally, Ginny can finish what she started. But instead of ending her journey, the last letter starts a new adventure—one filled with old friends, new loves, and once-in-a-lifetime experiences. Ginny finds she must hold on to her wits . . . and her heart. This time, there are no instructions.]]></description>
+  <work>
+  <id type="integer">7269956</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">9462775</best_book_id>
+  <reviews_count type="integer">41730</reviews_count>
+  <ratings_sum type="integer">87057</ratings_sum>
+  <ratings_count type="integer">22612</ratings_count>
+  <text_reviews_count type="integer">1653</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">26</original_publication_day>
+  <original_title>The Last Little Blue Envelope</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6521|4:8345|3:5960|2:1406|1:380|total:22612</rating_dist>
+  <desc_user_id type="integer">18014586</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.MrWOC4LTiZptoaY9HLVsBQ</work_uri>
+</work>
+  <average_rating>3.85</average_rating>
+  <num_pages><![CDATA[282]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21051]]></ratings_count>
+  <text_reviews_count><![CDATA[1484]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9462775-the-last-little-blue-envelope]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9462775-the-last-little-blue-envelope]]></link>
+  <authors>
+<author>
+<id>10317</id>
+<name>Maureen Johnson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1553388891p5/10317.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1553388891p2/10317.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10317.Maureen_Johnson]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>557248</ratings_count>
+<text_reviews_count>56736</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9462775-the-last-little-blue-envelope">The Last Little Blue Envelope Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0061976792&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9462775-the-last-little-blue-envelope?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="15477"/>
+      <shelf name="young-adult" count="683"/>
+      <shelf name="ya" count="448"/>
+      <shelf name="currently-reading" count="224"/>
+      <shelf name="romance" count="209"/>
+      <shelf name="contemporary" count="196"/>
+      <shelf name="favorites" count="181"/>
+      <shelf name="fiction" count="171"/>
+      <shelf name="series" count="162"/>
+      <shelf name="books-i-own" count="136"/>
+      <shelf name="travel" count="104"/>
+      <shelf name="chick-lit" count="99"/>
+      <shelf name="owned" count="93"/>
+      <shelf name="realistic-fiction" count="90"/>
+      <shelf name="read-in-2011" count="87"/>
+      <shelf name="teen" count="71"/>
+      <shelf name="library" count="66"/>
+      <shelf name="adventure" count="57"/>
+      <shelf name="ya-fiction" count="54"/>
+      <shelf name="kindle" count="46"/>
+      <shelf name="ebook" count="37"/>
+      <shelf name="road-trip" count="36"/>
+      <shelf name="ya-contemporary" count="32"/>
+      <shelf name="audiobooks" count="30"/>
+      <shelf name="read-in-2012" count="30"/>
+      <shelf name="ebooks" count="30"/>
+      <shelf name="to-buy" count="30"/>
+      <shelf name="read-2011" count="29"/>
+      <shelf name="owned-books" count="28"/>
+      <shelf name="young-adult-fiction" count="28"/>
+      <shelf name="realistic" count="28"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="mystery" count="25"/>
+      <shelf name="ya-lit" count="24"/>
+      <shelf name="maureen-johnson" count="24"/>
+      <shelf name="read-in-2014" count="23"/>
+      <shelf name="teen-fiction" count="23"/>
+      <shelf name="england" count="22"/>
+      <shelf name="wish-list" count="22"/>
+      <shelf name="europe" count="21"/>
+      <shelf name="contemporary-fiction" count="21"/>
+      <shelf name="i-own" count="20"/>
+      <shelf name="ya-books" count="19"/>
+      <shelf name="coming-of-age" count="18"/>
+      <shelf name="reviewed" count="18"/>
+      <shelf name="read-in-2013" count="17"/>
+      <shelf name="my-books" count="16"/>
+      <shelf name="2011-reads" count="16"/>
+      <shelf name="arc" count="16"/>
+      <shelf name="youngadult" count="15"/>
+      <shelf name="high-school" count="14"/>
+      <shelf name="audio" count="14"/>
+      <shelf name="netgalley" count="14"/>
+      <shelf name="read-2013" count="13"/>
+      <shelf name="signed" count="13"/>
+      <shelf name="kindle-books" count="13"/>
+      <shelf name="favourites" count="13"/>
+      <shelf name="family" count="12"/>
+      <shelf name="summer-reads" count="12"/>
+      <shelf name="my-library" count="12"/>
+      <shelf name="library-books" count="12"/>
+      <shelf name="funny" count="12"/>
+      <shelf name="friendship" count="12"/>
+      <shelf name="want-to-read" count="12"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="ya-romance" count="11"/>
+      <shelf name="ireland" count="11"/>
+      <shelf name="france" count="11"/>
+      <shelf name="library-book" count="11"/>
+      <shelf name="e-book" count="11"/>
+      <shelf name="read-in-2016" count="10"/>
+      <shelf name="borrowed" count="10"/>
+      <shelf name="series-to-finish" count="10"/>
+      <shelf name="summer" count="10"/>
+      <shelf name="4-stars" count="10"/>
+      <shelf name="2011-books" count="10"/>
+      <shelf name="read-2015" count="9"/>
+      <shelf name="wanderlust" count="9"/>
+      <shelf name="read-2012" count="9"/>
+      <shelf name="have" count="9"/>
+      <shelf name="contemporary-ya" count="9"/>
+      <shelf name="london" count="9"/>
+      <shelf name="relationships" count="9"/>
+      <shelf name="love" count="9"/>
+      <shelf name="chicklit" count="9"/>
+      <shelf name="art" count="9"/>
+      <shelf name="humor" count="9"/>
+      <shelf name="teens" count="9"/>
+      <shelf name="read-in-2017" count="8"/>
+      <shelf name="owned-tbr" count="8"/>
+      <shelf name="read-2014" count="8"/>
+      <shelf name="completed-series" count="8"/>
+      <shelf name="default" count="8"/>
+      <shelf name="book-series" count="8"/>
+      <shelf name="3-stars" count="8"/>
+      <shelf name="2012-reads" count="8"/>
+      <shelf name="books-i-have" count="8"/>
+      <shelf name="did-not-finish" count="8"/>
+      <shelf name="novels" count="8"/>
+      <shelf name="nook" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>180357</id>
+<user_position>2</user_position>
+<series>
+<id>49295</id>
+<title>
+<![CDATA[
+    Little Blue Envelopes
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>10327303</id>
+<title><![CDATA[Uncommon Criminals (Heist Society, #2)]]></title>
+<title_without_series>Uncommon Criminals</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10327303-uncommon-criminals]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298155996l/10327303._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298155996l/10327303._SX98_.jpg]]></image_url>
+<num_pages>298</num_pages>
+<work>
+<id>14547795</id>
+</work>
+<isbn>1423147952</isbn>
+<isbn13>9781423147954</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>56224</id>
+<name>Ally Carter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/56224.Ally_Carter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12154294</id>
+<title>Getting Over Garrett Delaney</title>
+<title_without_series>Getting Over Garrett Delaney</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12154294-getting-over-garrett-delaney]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316979607l/12154294._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316979607l/12154294._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>17125047</id>
+</work>
+<isbn>0763655074</isbn>
+<isbn13>9780763655075</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2717365</id>
+<name>Abby McDonald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2717365.Abby_McDonald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6442769</id>
+<title>Paper Towns</title>
+<title_without_series>Paper Towns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6442769-paper-towns]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349013610l/6442769._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349013610l/6442769._SX98_.jpg]]></image_url>
+<num_pages>305</num_pages>
+<work>
+<id>3364505</id>
+</work>
+<isbn>014241493X</isbn>
+<isbn13>9780142414934</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8734467</id>
+<title>Sean Griswold&apos;s Head</title>
+<title_without_series>Sean Griswold&apos;s Head</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8734467-sean-griswold-s-head]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312038442l/8734467._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312038442l/8734467._SX98_.jpg]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>13492111</id>
+</work>
+<isbn>1599904985</isbn>
+<isbn13>9781599904986</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2945688</id>
+<name>Lindsey Leavitt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2945688.Lindsey_Leavitt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>846984</id>
+<title>Love, Stargirl (Stargirl, #2)</title>
+<title_without_series>Love, Stargirl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/846984.Love_Stargirl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320395760l/846984._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320395760l/846984._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>23288</id>
+</work>
+<isbn>0375913750</isbn>
+<isbn13>9780375913754</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>12696</id>
+<name>Jerry Spinelli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12696.Jerry_Spinelli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9266810</id>
+<title><![CDATA[Ten Things We Did (and Probably Shouldn't Have)]]></title>
+<title_without_series>Ten Things We Did</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9266810-ten-things-we-did]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293821561l/9266810._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293821561l/9266810._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>14147661</id>
+</work>
+<isbn>0061701246</isbn>
+<isbn13>9780061701245</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>771</id>
+<name>Sarah Mlynowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/771.Sarah_Mlynowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38251237</id>
+<title><![CDATA[Fame, Fate, and the First Kiss]]></title>
+<title_without_series><![CDATA[Fame, Fate, and the First Kiss]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38251237-fame-fate-and-the-first-kiss]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529946335l/38251237._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529946335l/38251237._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>59931985</id>
+</work>
+<isbn>006267580X</isbn>
+<isbn13>9780062675804</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5027236</id>
+<name>Kasie West</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5027236.Kasie_West]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32333026</id>
+<title><![CDATA[Love & Luck (Love & Gelato, #2)]]></title>
+<title_without_series>Love &amp; Luck</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32333026-love-luck]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519640543l/32333026._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519640543l/32333026._SX98_.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>52969315</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>14115788</id>
+<name>Jenna Evans Welch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14115788.Jenna_Evans_Welch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41473823</id>
+<title>Maybe This Time</title>
+<title_without_series>Maybe This Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41473823-maybe-this-time]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542221309l/41473823._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542221309l/41473823._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>64748609</id>
+</work>
+<isbn>1338210084</isbn>
+<isbn13>9781338210088</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>5027236</id>
+<name>Kasie West</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5027236.Kasie_West]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13060734</id>
+<title>Unbreak My Heart</title>
+<title_without_series>Unbreak My Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13060734-unbreak-my-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324618881l/13060734._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324618881l/13060734._SX98_.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>18226128</id>
+</work>
+<isbn>1599905280</isbn>
+<isbn13>9781599905280</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>888893</id>
+<name>Melissa C. Walker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/888893.Melissa_C_Walker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12842134</id>
+<title><![CDATA[Just One Year (Just One Day, #2)]]></title>
+<title_without_series>Just One Year</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12842134-just-one-year]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375129683l/12842134._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375129683l/12842134._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>17992883</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>295178</id>
+<name>Gayle Forman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/295178.Gayle_Forman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47908384</id>
+<title><![CDATA[The Wrong Costar (The Wrong Match Book 2)]]></title>
+<title_without_series>The Wrong Costar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47908384-the-wrong-costar]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73067781</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9786904</id>
+<name>Alexandra Moody</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9786904.Alexandra_Moody]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16059446</id>
+<title><![CDATA[Extremities: Stories of Death, Murder, and Revenge]]></title>
+<title_without_series><![CDATA[Extremities: Stories of Death, Murder, and Revenge]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16059446-extremities]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362226021l/16059446._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362226021l/16059446._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>21846208</id>
+</work>
+<isbn>0765334607</isbn>
+<isbn13>9780765334602</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>20936</id>
+<name>David Lubar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20936.David_Lubar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9669989</id>
+<title><![CDATA[The Dragon in the Volcano (Dragon Keepers #4)]]></title>
+<title_without_series>The Dragon in the Volcano</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9669989-the-dragon-in-the-volcano]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320456072l/9669989._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320456072l/9669989._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>14557800</id>
+</work>
+<isbn>0375866922</isbn>
+<isbn13>9780375866920</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>73154</id>
+<name>Kate Klimo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73154.Kate_Klimo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10798398</id>
+<title>Unraveling Isobel</title>
+<title_without_series>Unraveling Isobel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10798398-unraveling-isobel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322841241l/10798398._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322841241l/10798398._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>15711101</id>
+</work>
+<isbn>1442413271</isbn>
+<isbn13>9781442413276</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1049315</id>
+<name>Eileen Cook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1049315.Eileen_Cook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38251245</id>
+<title><![CDATA[A Question of Holmes (Charlotte Holmes, #4)]]></title>
+<title_without_series>A Question of Holmes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38251245-a-question-of-holmes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529947589l/38251245._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529947589l/38251245._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>59931993</id>
+</work>
+<isbn>006284024X</isbn>
+<isbn13>9780062840240</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6894322</id>
+<name>Brittany Cavallaro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6894322.Brittany_Cavallaro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35583527</id>
+<title><![CDATA[There's Something About Sweetie (Dimple and Rishi, #2)]]></title>
+<title_without_series><![CDATA[There's Something About Sweetie]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35583527-there-s-something-about-sweetie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539796761l/35583527._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539796761l/35583527._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>57017289</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>14834224</id>
+<name>Sandhya Menon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14834224.Sandhya_Menon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42245770</id>
+<title>The Rest of the Story</title>
+<title_without_series>The Rest of the Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42245770-the-rest-of-the-story]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553281123l/42245770._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553281123l/42245770._SX98_.jpg]]></image_url>
+<num_pages>440</num_pages>
+<work>
+<id>65853524</id>
+</work>
+<isbn>0062933620</isbn>
+<isbn13>9780062933621</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>22612</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>2987</id>
+<name>Sarah Dessen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2987.Sarah_Dessen]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

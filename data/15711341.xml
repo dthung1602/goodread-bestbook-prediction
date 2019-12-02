@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15711341</id>
+  <title><![CDATA[Written in Red (The Others, #1)]]></title>
+  <isbn><![CDATA[0451464966]]></isbn>
+  <isbn13><![CDATA[9780451464965]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411439502l/15711341._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411439502l/15711341._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Roc</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[As a <i>cassandra sangue</i>, or blood prophet, Meg Corbyn can see the future when her skin is cut—a gift that feels more like a curse. Meg’s Controller keeps her enslaved so he can have full access to her visions. But when she escapes, the only safe place Meg can hide is at the Lakeside Courtyard—a business district operated by the Others. <br /><br />Shape-shifter Simon Wolfgard is reluctant to hire the stranger who inquires about the Human Liaison job. First, he senses she’s keeping a secret, and second, she doesn’t smell like human prey. Yet a stronger instinct propels him to give Meg the job. And when he learns the truth about Meg and that she’s wanted by the government, he’ll have to decide if she’s worth the fight between humans and the Others that will surely follow.]]></description>
+  <work>
+  <id type="integer">21378102</id>
+  <books_count type="integer">28</books_count>
+  <best_book_id type="integer">15711341</best_book_id>
+  <reviews_count type="integer">105211</reviews_count>
+  <ratings_sum type="integer">194430</ratings_sum>
+  <ratings_count type="integer">45475</ratings_count>
+  <text_reviews_count type="integer">5388</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Written in Red</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:23147|4:14797|3:5253|2:1470|1:808|total:45475</rating_dist>
+  <desc_user_id type="integer">69914205</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.hhM-4gaJ-J_wD5JIRDwSyw</work_uri>
+</work>
+  <average_rating>4.28</average_rating>
+  <num_pages><![CDATA[433]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[38098]]></ratings_count>
+  <text_reviews_count><![CDATA[4263]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15711341-written-in-red]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15711341-written-in-red]]></link>
+  <authors>
+<author>
+<id>26897</id>
+<name>Anne Bishop</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1237258217p5/26897.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1237258217p2/26897.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/26897.Anne_Bishop]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>368389</ratings_count>
+<text_reviews_count>24575</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15711341-written-in-red">Written in Red Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451464966&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15711341-written-in-red?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="50693"/>
+      <shelf name="fantasy" count="2572"/>
+      <shelf name="urban-fantasy" count="2051"/>
+      <shelf name="favorites" count="1323"/>
+      <shelf name="paranormal" count="1311"/>
+      <shelf name="currently-reading" count="1042"/>
+      <shelf name="vampires" count="776"/>
+      <shelf name="series" count="384"/>
+      <shelf name="adult" count="361"/>
+      <shelf name="werewolves" count="328"/>
+      <shelf name="shifters" count="290"/>
+      <shelf name="shapeshifters" count="288"/>
+      <shelf name="romance" count="254"/>
+      <shelf name="magic" count="253"/>
+      <shelf name="fiction" count="250"/>
+      <shelf name="supernatural" count="219"/>
+      <shelf name="vampire" count="212"/>
+      <shelf name="audiobook" count="197"/>
+      <shelf name="kindle" count="186"/>
+      <shelf name="paranormal-romance" count="172"/>
+      <shelf name="owned" count="160"/>
+      <shelf name="ebook" count="151"/>
+      <shelf name="books-i-own" count="150"/>
+      <shelf name="favourites" count="142"/>
+      <shelf name="anne-bishop" count="123"/>
+      <shelf name="dnf" count="120"/>
+      <shelf name="library" count="115"/>
+      <shelf name="audiobooks" count="112"/>
+      <shelf name="young-adult" count="111"/>
+      <shelf name="ebooks" count="89"/>
+      <shelf name="first-in-series" count="88"/>
+      <shelf name="audible" count="87"/>
+      <shelf name="to-buy" count="85"/>
+      <shelf name="5-stars" count="81"/>
+      <shelf name="maybe" count="81"/>
+      <shelf name="audio" count="81"/>
+      <shelf name="shifter" count="80"/>
+      <shelf name="adult-fiction" count="75"/>
+      <shelf name="read-in-2014" count="70"/>
+      <shelf name="ya" count="69"/>
+      <shelf name="werewolf" count="69"/>
+      <shelf name="uf" count="68"/>
+      <shelf name="favorite" count="66"/>
+      <shelf name="re-read" count="65"/>
+      <shelf name="shape-shifters" count="63"/>
+      <shelf name="paranormal-fantasy" count="62"/>
+      <shelf name="favorite-series" count="62"/>
+      <shelf name="sci-fi-fantasy" count="62"/>
+      <shelf name="fantasy-urban" count="60"/>
+      <shelf name="read-in-2016" count="60"/>
+      <shelf name="read-in-2017" count="58"/>
+      <shelf name="mystery" count="57"/>
+      <shelf name="shapeshifter" count="57"/>
+      <shelf name="the-others" count="57"/>
+      <shelf name="wish-list" count="56"/>
+      <shelf name="pnr" count="53"/>
+      <shelf name="read-in-2015" count="53"/>
+      <shelf name="vamps" count="52"/>
+      <shelf name="did-not-finish" count="52"/>
+      <shelf name="dark-fantasy" count="49"/>
+      <shelf name="reread" count="47"/>
+      <shelf name="e-book" count="47"/>
+      <shelf name="reviewed" count="47"/>
+      <shelf name="fantasy-sci-fi" count="45"/>
+      <shelf name="read-in-2013" count="45"/>
+      <shelf name="fantasy-paranormal" count="42"/>
+      <shelf name="owned-books" count="42"/>
+      <shelf name="urban" count="41"/>
+      <shelf name="contemporary" count="41"/>
+      <shelf name="all-time-favorites" count="41"/>
+      <shelf name="action" count="40"/>
+      <shelf name="read-2015" count="40"/>
+      <shelf name="read-in-2018" count="40"/>
+      <shelf name="audio-book" count="40"/>
+      <shelf name="1st-in-series" count="39"/>
+      <shelf name="read-2016" count="38"/>
+      <shelf name="suspense" count="38"/>
+      <shelf name="paranormal-urban-fantasy" count="37"/>
+      <shelf name="recommended" count="36"/>
+      <shelf name="mythology" count="36"/>
+      <shelf name="alpha-male" count="36"/>
+      <shelf name="adventure" count="36"/>
+      <shelf name="dystopian" count="36"/>
+      <shelf name="tbr" count="36"/>
+      <shelf name="scifi-fantasy" count="35"/>
+      <shelf name="alternate-history" count="35"/>
+      <shelf name="5-star" count="34"/>
+      <shelf name="read-2017" count="34"/>
+      <shelf name="genre-urban-fantasy" count="34"/>
+      <shelf name="read-2014" count="34"/>
+      <shelf name="4-stars" count="32"/>
+      <shelf name="new-adult" count="32"/>
+      <shelf name="sci-fi" count="32"/>
+      <shelf name="fantasy-romance" count="31"/>
+      <shelf name="favorite-books" count="31"/>
+      <shelf name="e-books" count="30"/>
+      <shelf name="book-club" count="30"/>
+      <shelf name="2016-reads" count="30"/>
+      <shelf name="dark" count="30"/>
+      <shelf name="dystopia" count="29"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>481375</id>
+<user_position>1</user_position>
+<series>
+<id>99557</id>
+<title>
+<![CDATA[
+    The Others
+]]>
+</title>
+<description>
+<![CDATA[
+    The first 5 books form the "The Others" series, and books 6 onwards are the "The World of the Others" series.
+    
+    FR: Meg Corbyn
+    PT: Os Outros
+    DE: Die Anderen
+    NL: De Anderen
+    PL: Inni
+    HUN: A Mások
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>7</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>19090384</id>
+<title><![CDATA[Clean Sweep (Innkeeper Chronicles, #1)]]></title>
+<title_without_series>Clean Sweep</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19090384-clean-sweep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385939257l/19090384._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385939257l/19090384._SX98_.jpg]]></image_url>
+<num_pages>225</num_pages>
+<work>
+<id>21910727</id>
+</work>
+<isbn>1625173431</isbn>
+<isbn13>9781625173430</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6329547</id>
+<title>On the Edge (The Edge, #1)</title>
+<title_without_series>On the Edge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6329547-on-the-edge]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307445575l/6329547._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307445575l/6329547._SX98_.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>6515186</id>
+</work>
+<isbn>0441017800</isbn>
+<isbn13>9780441017805</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19504964</id>
+<title><![CDATA[Sweep in Peace (Innkeeper Chronicles, #2)]]></title>
+<title_without_series>Sweep in Peace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19504964-sweep-in-peace]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428084310l/19504964._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428084310l/19504964._SX98_.jpg]]></image_url>
+<num_pages>237</num_pages>
+<work>
+<id>27621610</id>
+</work>
+<isbn>1943772320</isbn>
+<isbn13>9781943772322</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>71811</id>
+<title><![CDATA[Moon Called (Mercy Thompson, #1)]]></title>
+<title_without_series>Moon Called</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/71811.Moon_Called]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1272070347l/71811._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1272070347l/71811._SX98_.jpg]]></image_url>
+<num_pages>289</num_pages>
+<work>
+<id>69530</id>
+</work>
+<isbn>0441013813</isbn>
+<isbn13>9780441013814</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>40563</id>
+<name>Patricia Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20705702</id>
+<title><![CDATA[Burn for Me (Hidden Legacy, #1)]]></title>
+<title_without_series>Burn for Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20705702-burn-for-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396368355l/20705702._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396368355l/20705702._SX98_.jpg]]></image_url>
+<num_pages>406</num_pages>
+<work>
+<id>40025563</id>
+</work>
+<isbn>0062289241</isbn>
+<isbn13>9780062289247</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38619</id>
+<title><![CDATA[Magic Bites (Kate Daniels, #1)]]></title>
+<title_without_series>Magic Bites</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38619.Magic_Bites]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331612872l/38619._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331612872l/38619._SX98_.jpg]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>38381</id>
+</work>
+<isbn>0441014895</isbn>
+<isbn13>9780441014897</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1811543</id>
+<title><![CDATA[Magic Burns (Kate Daniels, #2)]]></title>
+<title_without_series>Magic Burns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1811543.Magic_Burns]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311280284l/1811543._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311280284l/1811543._SX98_.jpg]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>1810889</id>
+</work>
+<isbn>0441015832</isbn>
+<isbn13>9780441015832</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4345498</id>
+<title><![CDATA[Magic Strikes (Kate Daniels, #3)]]></title>
+<title_without_series>Magic Strikes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4345498-magic-strikes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507378423l/4345498._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507378423l/4345498._SX98_.jpg]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>4393420</id>
+</work>
+<isbn>0441017029</isbn>
+<isbn13>9780441017027</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41088576</id>
+<title><![CDATA[Sapphire Flames (Hidden Legacy, #4)]]></title>
+<title_without_series>Sapphire Flames</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41088576-sapphire-flames]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550080843l/41088576._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550080843l/41088576._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>61763670</id>
+</work>
+<isbn>0062878336</isbn>
+<isbn13>9780062878335</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11544421</id>
+<title><![CDATA[Magic Rises (Kate Daniels, #6)]]></title>
+<title_without_series>Magic Rises</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11544421-magic-rises]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359571572l/11544421._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359571572l/11544421._SX98_.jpg]]></image_url>
+<num_pages>357</num_pages>
+<work>
+<id>16484134</id>
+</work>
+<isbn>1937007588</isbn>
+<isbn13>9781937007584</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6479550</id>
+<title><![CDATA[Magic Bleeds (Kate Daniels, #4)]]></title>
+<title_without_series>Magic Bleeds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6479550-magic-bleeds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407110429l/6479550._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407110429l/6479550._SX98_.jpg]]></image_url>
+<num_pages>349</num_pages>
+<work>
+<id>6670775</id>
+</work>
+<isbn>0441018521</isbn>
+<isbn13>9780441018529</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2355575</id>
+<title>Cry Wolf (Alpha &amp; Omega, #1)</title>
+<title_without_series>Cry Wolf</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2355575.Cry_Wolf]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310494063l/2355575._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310494063l/2355575._SX98_.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>2362332</id>
+</work>
+<isbn>0441016154</isbn>
+<isbn13>9780441016150</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>40563</id>
+<name>Patricia Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28756485</id>
+<title><![CDATA[One Fell Sweep (Innkeeper Chronicles, #3)]]></title>
+<title_without_series>One Fell Sweep</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28756485-one-fell-sweep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478112786l/28756485._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478112786l/28756485._SX98_.jpg]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>48948282</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>12</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8559047</id>
+<title><![CDATA[Magic Slays (Kate Daniels, #5)]]></title>
+<title_without_series>Magic Slays</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8559047-magic-slays]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288727226l/8559047._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288727226l/8559047._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>13427398</id>
+</work>
+<isbn>0441020429</isbn>
+<isbn13>9780441020423</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>285205</id>
+<title><![CDATA[Blood Bound (Mercy Thompson, #2)]]></title>
+<title_without_series>Blood Bound</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/285205.Blood_Bound]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229157l/285205._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229157l/285205._SX98_.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>2577848</id>
+</work>
+<isbn>0441014739</isbn>
+<isbn13>9780441014736</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>40563</id>
+<name>Patricia Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40563.Patricia_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7823038</id>
+<title>Grave Witch (Alex Craft, #1)</title>
+<title_without_series>Grave Witch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7823038-grave-witch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327440625l/7823038._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327440625l/7823038._SX98_.jpg]]></image_url>
+<num_pages>325</num_pages>
+<work>
+<id>10865876</id>
+</work>
+<isbn>0451463803</isbn>
+<isbn13>9780451463807</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2803627</id>
+<name>Kalayna Price</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2803627.Kalayna_Price]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22303684</id>
+<title>White Hot (Hidden Legacy, #2)</title>
+<title_without_series>White Hot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22303684-white-hot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477567905l/22303684._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477567905l/22303684._SX98_.jpg]]></image_url>
+<num_pages>389</num_pages>
+<work>
+<id>41692791</id>
+</work>
+<isbn>006228925X</isbn>
+<isbn13>9780062289254</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12119529</id>
+<title><![CDATA[Magic Breaks (Kate Daniels, #7)]]></title>
+<title_without_series>Magic Breaks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12119529-magic-breaks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383236969l/12119529._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383236969l/12119529._SX98_.jpg]]></image_url>
+<num_pages>381</num_pages>
+<work>
+<id>17088822</id>
+</work>
+<isbn>0425256227</isbn>
+<isbn13>9780425256220</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>45475</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9500416</id>
+  <title><![CDATA[Dreams of Joy (Shanghai Girls #2)]]></title>
+  <isbn><![CDATA[140006712X]]></isbn>
+  <isbn13><![CDATA[9781400067121]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>Random House</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In her most powerful novel yet, acclaimed author Lisa See returns to the story of sisters Pearl and May from Shanghai Girls, and Pearl’s strong-willed nineteen-year-old daughter, Joy. Reeling from newly uncovered family secrets, Joy runs away to Shanghai in early 1957 to find her birth father—the artist Z.G. Li, with whom both May and Pearl were once in love. Dazzled by him, and blinded by idealism and defiance, Joy throws herself into the New Society of Red China, heedless of the dangers in the Communist regime. Devastated by Joy’s flight and terrified for her safety, Pearl is determined to save her daughter, no matter the personal cost. From the crowded city to remote villages, Pearl confronts old demons and almost insurmountable challenges as she follows Joy, hoping for reconciliation. Yet even as Joy’s and Pearl’s separate journeys converge, one of the most tragic episodes in China’s history threatens their very lives.]]></description>
+  <work>
+  <id type="integer">14385974</id>
+  <books_count type="integer">50</books_count>
+  <best_book_id type="integer">9500416</best_book_id>
+  <reviews_count type="integer">86594</reviews_count>
+  <ratings_sum type="integer">223677</ratings_sum>
+  <ratings_count type="integer">54848</ratings_count>
+  <text_reviews_count type="integer">4689</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Dreams of Joy</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:18626|4:24268|3:9951|2:1619|1:384|total:54848</rating_dist>
+  <desc_user_id type="integer">5574208</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.9MMWbRvgNVZTJUA8cefycA</work_uri>
+</work>
+  <average_rating>4.08</average_rating>
+  <num_pages><![CDATA[354]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[50152]]></ratings_count>
+  <text_reviews_count><![CDATA[4312]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9500416-dreams-of-joy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9500416-dreams-of-joy]]></link>
+  <authors>
+<author>
+<id>713</id>
+<name>Lisa See</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209949634p5/713.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209949634p2/713.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/713.Lisa_See]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>682019</ratings_count>
+<text_reviews_count>51836</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9500416-dreams-of-joy">Dreams of Joy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=140006712X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9500416-dreams-of-joy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="24384"/>
+      <shelf name="currently-reading" count="1145"/>
+      <shelf name="historical-fiction" count="1031"/>
+      <shelf name="fiction" count="533"/>
+      <shelf name="china" count="254"/>
+      <shelf name="favorites" count="231"/>
+      <shelf name="historical" count="143"/>
+      <shelf name="asia" count="117"/>
+      <shelf name="book-club" count="113"/>
+      <shelf name="series" count="100"/>
+      <shelf name="books-i-own" count="87"/>
+      <shelf name="kindle" count="85"/>
+      <shelf name="audiobook" count="84"/>
+      <shelf name="audio" count="84"/>
+      <shelf name="asian" count="77"/>
+      <shelf name="owned" count="75"/>
+      <shelf name="library" count="72"/>
+      <shelf name="lisa-see" count="63"/>
+      <shelf name="audiobooks" count="62"/>
+      <shelf name="adult-fiction" count="49"/>
+      <shelf name="adult" count="43"/>
+      <shelf name="read-in-2011" count="43"/>
+      <shelf name="cultural" count="42"/>
+      <shelf name="audio-book" count="41"/>
+      <shelf name="read-in-2012" count="39"/>
+      <shelf name="audio-books" count="36"/>
+      <shelf name="communism" count="34"/>
+      <shelf name="owned-books" count="33"/>
+      <shelf name="ebook" count="28"/>
+      <shelf name="chick-lit" count="28"/>
+      <shelf name="history" count="27"/>
+      <shelf name="novels" count="27"/>
+      <shelf name="first-reads" count="25"/>
+      <shelf name="chinese" count="24"/>
+      <shelf name="abandoned" count="24"/>
+      <shelf name="family" count="22"/>
+      <shelf name="women" count="22"/>
+      <shelf name="read-2011" count="22"/>
+      <shelf name="default" count="21"/>
+      <shelf name="novel" count="21"/>
+      <shelf name="chinese-culture" count="20"/>
+      <shelf name="wish-list" count="20"/>
+      <shelf name="bookclub" count="19"/>
+      <shelf name="ebooks" count="19"/>
+      <shelf name="general-fiction" count="18"/>
+      <shelf name="to-buy" count="18"/>
+      <shelf name="my-books" count="17"/>
+      <shelf name="asian-lit" count="17"/>
+      <shelf name="asian-fiction" count="17"/>
+      <shelf name="read-in-2014" count="15"/>
+      <shelf name="romance" count="15"/>
+      <shelf name="asian-literature" count="15"/>
+      <shelf name="favorite-authors" count="15"/>
+      <shelf name="literature" count="15"/>
+      <shelf name="2011-books" count="15"/>
+      <shelf name="sequel-to-shanghai-girls" count="14"/>
+      <shelf name="read-in-2013" count="14"/>
+      <shelf name="listened-to" count="14"/>
+      <shelf name="drama" count="14"/>
+      <shelf name="did-not-finish" count="14"/>
+      <shelf name="contemporary" count="14"/>
+      <shelf name="library-book" count="14"/>
+      <shelf name="library-books" count="14"/>
+      <shelf name="contemporary-fiction" count="14"/>
+      <shelf name="cultural-china" count="13"/>
+      <shelf name="asian-culture" count="13"/>
+      <shelf name="literary-fiction" count="13"/>
+      <shelf name="audible" count="13"/>
+      <shelf name="see-lisa" count="13"/>
+      <shelf name="overdrive" count="12"/>
+      <shelf name="fiction-historical" count="12"/>
+      <shelf name="finished" count="12"/>
+      <shelf name="20th-century" count="12"/>
+      <shelf name="shanghai" count="11"/>
+      <shelf name="read-2012" count="11"/>
+      <shelf name="book-club-books" count="11"/>
+      <shelf name="family-relationships" count="11"/>
+      <shelf name="books-read-in-2011" count="11"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="have" count="10"/>
+      <shelf name="2012-books" count="10"/>
+      <shelf name="unfinished" count="10"/>
+      <shelf name="strong-women" count="10"/>
+      <shelf name="sequel" count="10"/>
+      <shelf name="asian-american" count="10"/>
+      <shelf name="didn-t-finish" count="10"/>
+      <shelf name="multicultural" count="10"/>
+      <shelf name="read-2013" count="9"/>
+      <shelf name="favorite-books" count="9"/>
+      <shelf name="survival" count="9"/>
+      <shelf name="women-s-fiction" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="relationships" count="9"/>
+      <shelf name="nook" count="9"/>
+      <shelf name="communist-china" count="8"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="shelfari-favorites" count="8"/>
+      <shelf name="famine" count="8"/>
+      <shelf name="owned-tbr" count="8"/>
+      <shelf name="on-my-shelf" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>304557</id>
+<user_position>2</user_position>
+<series>
+<id>68414</id>
+<title>
+<![CDATA[
+    Shanghai Girls
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>3367956</id>
+<title><![CDATA[Hotel on the Corner of Bitter and Sweet]]></title>
+<title_without_series><![CDATA[Hotel on the Corner of Bitter and Sweet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3367956-hotel-on-the-corner-of-bitter-and-sweet]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>3407295</id>
+</work>
+<isbn>0345505336</isbn>
+<isbn13>9780345505330</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>1</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1421619</id>
+<name>Jamie Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1421619.Jamie_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6951073</id>
+<title>Pearl of China</title>
+<title_without_series>Pearl of China</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6951073-pearl-of-china]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312044125l/6951073._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312044125l/6951073._SX98_.jpg]]></image_url>
+<num_pages>278</num_pages>
+<work>
+<id>7185599</id>
+</work>
+<isbn>1596916974</isbn>
+<isbn13>9781596916975</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>686103</id>
+<name>Anchee Min</name>
+<link><![CDATA[https://www.goodreads.com/author/show/686103.Anchee_Min]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12555</id>
+<title>The Bonesetter&apos;s Daughter</title>
+<title_without_series>The Bonesetter&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12555.The_Bonesetter_s_Daughter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>387</num_pages>
+<work>
+<id>1898187</id>
+</work>
+<isbn>0345457374</isbn>
+<isbn13>9780345457370</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>5246</id>
+<name>Amy Tan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5246.Amy_Tan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4618728</id>
+<title>Honolulu</title>
+<title_without_series>Honolulu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4618728-honolulu]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>4668682</id>
+</work>
+<isbn>0312360401</isbn>
+<isbn13>9780312360405</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2226</id>
+<name>Alan Brennert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2226.Alan_Brennert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7504179</id>
+<title><![CDATA[How to Be an American Housewife]]></title>
+<title_without_series><![CDATA[How to Be an American Housewife]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7504179-how-to-be-an-american-housewife]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>277</num_pages>
+<work>
+<id>9681662</id>
+</work>
+<isbn>0399156372</isbn>
+<isbn13>9780399156373</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3285599</id>
+<name>Margaret Dilloway</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3285599.Margaret_Dilloway]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3273</id>
+<title>Moloka&apos;i (Moloka&apos;i #1)</title>
+<title_without_series>Moloka&apos;i</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3273.Moloka_i]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>405</num_pages>
+<work>
+<id>3303291</id>
+</work>
+<isbn>0312304358</isbn>
+<isbn13>9780312304355</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>2226</id>
+<name>Alan Brennert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2226.Alan_Brennert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7362158</id>
+<title>Girl in Translation</title>
+<title_without_series>Girl in Translation</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7362158-girl-in-translation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347022887l/7362158._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347022887l/7362158._SX98_.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>9152917</id>
+</work>
+<isbn>1594487561</isbn>
+<isbn13>9781594487569</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>3246397</id>
+<name>Jean Kwok</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3246397.Jean_Kwok]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6837103</id>
+<title>The Kitchen House</title>
+<title_without_series>The Kitchen House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6837103-the-kitchen-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463229128l/6837103._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463229128l/6837103._SX98_.jpg]]></image_url>
+<num_pages>369</num_pages>
+<work>
+<id>7048306</id>
+</work>
+<isbn>1439153663</isbn>
+<isbn13>9781439153666</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3067074</id>
+<name>Kathleen Grissom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3067074.Kathleen_Grissom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9684523</id>
+<title>Caleb&apos;s Crossing</title>
+<title_without_series>Caleb&apos;s Crossing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9684523-caleb-s-crossing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303284000l/9684523._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303284000l/9684523._SX98_.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>14572532</id>
+</work>
+<isbn>0670021040</isbn>
+<isbn13>9780670021048</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>211268</id>
+<name>Geraldine Brooks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/211268.Geraldine_Brooks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>51108</id>
+<title><![CDATA[The Language of Threads (Women of the Silk #2)]]></title>
+<title_without_series>The Language of Threads</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/51108.The_Language_of_Threads]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>634066</id>
+</work>
+<isbn>0312267568</isbn>
+<isbn13>9780312267568</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>28719</id>
+<name>Gail Tsukiyama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28719.Gail_Tsukiyama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12557</id>
+<title>The Kitchen God&apos;s Wife</title>
+<title_without_series>The Kitchen God&apos;s Wife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12557.The_Kitchen_God_s_Wife]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1131637</id>
+</work>
+<isbn>0143038109</isbn>
+<isbn13>9780143038108</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>5246</id>
+<name>Amy Tan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5246.Amy_Tan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6617928</id>
+<title>Saving CeeCee Honeycutt</title>
+<title_without_series>Saving CeeCee Honeycutt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6617928-saving-ceecee-honeycutt]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348364490l/6617928._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348364490l/6617928._SX98_.jpg]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>6812044</id>
+</work>
+<isbn>0143145541</isbn>
+<isbn13>9780143145547</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>63630</id>
+<name>Beth Hoffman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63630.Beth_Hoffman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>690866</id>
+<title>The Hundred Secret Senses</title>
+<title_without_series>The Hundred Secret Senses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/690866.The_Hundred_Secret_Senses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869967l/690866._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869967l/690866._SY160_.jpg]]></image_url>
+<num_pages>406</num_pages>
+<work>
+<id>747996</id>
+</work>
+<isbn>080411109X</isbn>
+<isbn13>9780804111096</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5246</id>
+<name>Amy Tan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5246.Amy_Tan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34051011</id>
+<title>Pachinko</title>
+<title_without_series>Pachinko</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34051011-pachinko]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529845599l/34051011._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529845599l/34051011._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>50384116</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>378209</id>
+<name>Min Jin Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/378209.Min_Jin_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40988979</id>
+<title>Lost Roses (Lilac Girls #2)</title>
+<title_without_series>Lost Roses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40988979-lost-roses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536843020l/40988979._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536843020l/40988979._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>55023202</id>
+</work>
+<isbn>1524796379</isbn>
+<isbn13>9781524796372</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>14160478</id>
+<name>Martha Hall Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14160478.Martha_Hall_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294084</id>
+<title><![CDATA[The Street of a Thousand Blossoms]]></title>
+<title_without_series><![CDATA[The Street of a Thousand Blossoms]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294084.The_Street_of_a_Thousand_Blossoms]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>422</num_pages>
+<work>
+<id>2103150</id>
+</work>
+<isbn>0312274823</isbn>
+<isbn13>9780312274825</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>28719</id>
+<name>Gail Tsukiyama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28719.Gail_Tsukiyama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47305</id>
+<title><![CDATA[The Last Empress (Empress Orchid, #2)]]></title>
+<title_without_series>The Last Empress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47305.The_Last_Empress]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>3011152</id>
+</work>
+<isbn>0618531467</isbn>
+<isbn13>9780618531462</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>54848</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>686103</id>
+<name>Anchee Min</name>
+<link><![CDATA[https://www.goodreads.com/author/show/686103.Anchee_Min]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

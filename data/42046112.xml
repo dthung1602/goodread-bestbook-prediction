@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>42046112</id>
+  <title>Recursion</title>
+  <isbn><![CDATA[1524759783]]></isbn>
+  <isbn13><![CDATA[9781524759780]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543687940l/42046112._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543687940l/42046112._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>Crown Publishing Group (NY)</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Memory makes reality.</b><br /><br />That’s what New York City cop Barry Sutton is learning as he investigates the devastating phenomenon the media has dubbed False Memory Syndrome—a mysterious affliction that drives its victims mad with memories of a life they never lived.<br /><br />That's what neuroscientist Helena Smith believes. It’s why she’s dedicated her life to creating a technology that will let us preserve our most precious memories. If she succeeds, anyone will be able to re-experience a first kiss, the birth of a child, the final moment with a dying parent. <br /><br />As Barry searches for the truth, he comes face-to-face with an opponent more terrifying than any disease—a force that attacks not just our minds but the very fabric of the past. And as its effects begin to unmake the world as we know it, only he and Helena, working together, will stand a chance at defeating it.<br /><br />But how can they make a stand when reality itself is shifting and crumbling all around them?]]></description>
+  <work>
+  <id type="integer">64277987</id>
+  <books_count type="integer">32</books_count>
+  <best_book_id type="integer">42046112</best_book_id>
+  <reviews_count type="integer">127240</reviews_count>
+  <ratings_sum type="integer">163935</ratings_sum>
+  <ratings_count type="integer">39021</ratings_count>
+  <text_reviews_count type="integer">6773</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">11</original_publication_day>
+  <original_title>Recursion</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:16349|4:15768|3:5595|2:1024|1:285|total:39021</rating_dist>
+  <desc_user_id type="integer">4391094</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.LoileaUSue-LBjIjXSVIvQ</work_uri>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[336]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[30968]]></ratings_count>
+  <text_reviews_count><![CDATA[5716]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/42046112-recursion]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/42046112-recursion]]></link>
+  <authors>
+<author>
+<id>442240</id>
+<name>Blake Crouch</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479398727p5/442240.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479398727p2/442240.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/442240.Blake_Crouch]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>487204</ratings_count>
+<text_reviews_count>53350</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/42046112-recursion">Recursion Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1524759783&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/42046112-recursion?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="76765"/>
+      <shelf name="currently-reading" count="5276"/>
+      <shelf name="science-fiction" count="1205"/>
+      <shelf name="sci-fi" count="1154"/>
+      <shelf name="fiction" count="812"/>
+      <shelf name="thriller" count="538"/>
+      <shelf name="favorites" count="373"/>
+      <shelf name="read-in-2019" count="330"/>
+      <shelf name="time-travel" count="285"/>
+      <shelf name="botm" count="215"/>
+      <shelf name="audiobook" count="212"/>
+      <shelf name="scifi" count="178"/>
+      <shelf name="audiobooks" count="157"/>
+      <shelf name="2019-releases" count="157"/>
+      <shelf name="2019-reads" count="152"/>
+      <shelf name="library" count="150"/>
+      <shelf name="read-2019" count="142"/>
+      <shelf name="netgalley" count="131"/>
+      <shelf name="adult" count="130"/>
+      <shelf name="book-of-the-month" count="123"/>
+      <shelf name="mystery" count="118"/>
+      <shelf name="owned" count="117"/>
+      <shelf name="books-i-own" count="112"/>
+      <shelf name="book-club" count="111"/>
+      <shelf name="audio" count="107"/>
+      <shelf name="2019-books" count="106"/>
+      <shelf name="mystery-thriller" count="105"/>
+      <shelf name="sci-fi-fantasy" count="100"/>
+      <shelf name="to-buy" count="86"/>
+      <shelf name="kindle" count="80"/>
+      <shelf name="fantasy" count="80"/>
+      <shelf name="suspense" count="70"/>
+      <shelf name="adult-fiction" count="69"/>
+      <shelf name="2019-read" count="66"/>
+      <shelf name="arc" count="60"/>
+      <shelf name="dnf" count="49"/>
+      <shelf name="fantasy-sci-fi" count="47"/>
+      <shelf name="thrillers" count="43"/>
+      <shelf name="ebook" count="43"/>
+      <shelf name="dystopian" count="42"/>
+      <shelf name="wish-list" count="42"/>
+      <shelf name="audio-book" count="39"/>
+      <shelf name="contemporary" count="39"/>
+      <shelf name="books-read-in-2019" count="39"/>
+      <shelf name="maybe" count="39"/>
+      <shelf name="tbr" count="39"/>
+      <shelf name="book-of-the-month-club" count="37"/>
+      <shelf name="audible" count="37"/>
+      <shelf name="audio-books" count="36"/>
+      <shelf name="2019-release" count="36"/>
+      <shelf name="scifi-fantasy" count="35"/>
+      <shelf name="speculative-fiction" count="34"/>
+      <shelf name="2019-books-read" count="33"/>
+      <shelf name="did-not-finish" count="33"/>
+      <shelf name="sf" count="33"/>
+      <shelf name="science-fiction-fantasy" count="32"/>
+      <shelf name="ebooks" count="31"/>
+      <shelf name="summer-2019" count="31"/>
+      <shelf name="library-books" count="30"/>
+      <shelf name="favourites" count="29"/>
+      <shelf name="arcs" count="29"/>
+      <shelf name="abandoned" count="28"/>
+      <shelf name="suspense-thriller" count="27"/>
+      <shelf name="physical-tbr" count="26"/>
+      <shelf name="novels" count="26"/>
+      <shelf name="fantasy-scifi" count="26"/>
+      <shelf name="library-book" count="25"/>
+      <shelf name="5-stars" count="24"/>
+      <shelf name="dystopia" count="24"/>
+      <shelf name="romance" count="24"/>
+      <shelf name="stand-alone" count="24"/>
+      <shelf name="2019-challenge" count="23"/>
+      <shelf name="best-of-2019" count="23"/>
+      <shelf name="standalone" count="23"/>
+      <shelf name="need-to-buy" count="23"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="science" count="22"/>
+      <shelf name="thriller-suspense" count="22"/>
+      <shelf name="2019-reading-challenge" count="22"/>
+      <shelf name="horror" count="21"/>
+      <shelf name="owned-tbr" count="20"/>
+      <shelf name="giveaways" count="20"/>
+      <shelf name="overdrive" count="20"/>
+      <shelf name="thriller-mystery" count="20"/>
+      <shelf name="novel" count="20"/>
+      <shelf name="interested" count="20"/>
+      <shelf name="to-read-fiction" count="19"/>
+      <shelf name="2019-reading-list" count="19"/>
+      <shelf name="own-it" count="18"/>
+      <shelf name="apocalyptic" count="18"/>
+      <shelf name="blake-crouch" count="18"/>
+      <shelf name="fiction-to-read" count="18"/>
+      <shelf name="sff" count="18"/>
+      <shelf name="contemporary-fiction" count="17"/>
+      <shelf name="reviewed" count="17"/>
+      <shelf name="net-galley" count="17"/>
+      <shelf name="borrowed" count="16"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="e-book" count="16"/>
+      <shelf name="e-books" count="15"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>41837243</id>
+<title>Lock Every Door</title>
+<title_without_series>Lock Every Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41837243-lock-every-door]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540938359l/41837243._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540938359l/41837243._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>65308942</id>
+</work>
+<isbn>1524745154</isbn>
+<isbn13>9781524745158</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>15263414</id>
+<name>Riley Sager</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15263414.Riley_Sager]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41940236</id>
+<title>The Whisper Man</title>
+<title_without_series>The Whisper Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41940236-the-whisper-man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541864083l/41940236._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541864083l/41940236._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>63202631</id>
+</work>
+<isbn>1250317991</isbn>
+<isbn13>9781250317995</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>7938829</id>
+<name>Alex North</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7938829.Alex_North]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42080142</id>
+<title>The Turn of the Key</title>
+<title_without_series>The Turn of the Key</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42080142-the-turn-of-the-key]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548204800l/42080142._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548204800l/42080142._SX98_.jpg]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>62793178</id>
+</work>
+<isbn>1501188771</isbn>
+<isbn13>9781501188770</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>9013543</id>
+<name>Ruth Ware</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9013543.Ruth_Ware]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43798285</id>
+<title>The Institute</title>
+<title_without_series>The Institute</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43798285-the-institute]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SX98_.jpg]]></image_url>
+<num_pages>561</num_pages>
+<work>
+<id>68147322</id>
+</work>
+<isbn>1982110562</isbn>
+<isbn13>9781982110567</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121959</id>
+<title>Miracle Creek</title>
+<title_without_series>Miracle Creek</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121959-miracle-creek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537287675l/40121959._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537287675l/40121959._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>55758063</id>
+</work>
+<isbn>0374156026</isbn>
+<isbn13>9780374156022</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>18035146</id>
+<name>Angie  Kim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18035146.Angie_Kim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42201996</id>
+<title>Ask Again, Yes</title>
+<title_without_series>Ask Again, Yes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42201996-ask-again-yes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052821l/42201996._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052821l/42201996._SX98_.jpg]]></image_url>
+<num_pages>390</num_pages>
+<work>
+<id>60897878</id>
+</work>
+<isbn>1982106980</isbn>
+<isbn13>9781982106980</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2776754</id>
+<name>Mary Beth Keane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2776754.Mary_Beth_Keane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32603079</id>
+<title>Wanderers</title>
+<title_without_series>Wanderers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32603079-wanderers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542215231l/32603079._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542215231l/32603079._SX98_.jpg]]></image_url>
+<num_pages>800</num_pages>
+<work>
+<id>53184096</id>
+</work>
+<isbn></isbn>
+<isbn13>9780399182112</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>17152</id>
+<name>Chuck Wendig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17152.Chuck_Wendig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42779092</id>
+<title>The Chain</title>
+<title_without_series>The Chain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42779092-the-chain]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543430536l/42779092._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543430536l/42779092._SX98_.jpg]]></image_url>
+<num_pages>357</num_pages>
+<work>
+<id>66538301</id>
+</work>
+<isbn>031653126X</isbn>
+<isbn13>9780316531269</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>12433</id>
+<name>Adrian McKinty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12433.Adrian_McKinty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40216324</id>
+<title>The River</title>
+<title_without_series>The River</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40216324-the-river]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534803593l/40216324._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534803593l/40216324._SX98_.jpg]]></image_url>
+<num_pages>253</num_pages>
+<work>
+<id>62446028</id>
+</work>
+<isbn>0525521879</isbn>
+<isbn13>9780525521877</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>134408</id>
+<name>Peter Heller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134408.Peter_Heller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42036534</id>
+<title>A Nearly Normal Family</title>
+<title_without_series>A Nearly Normal Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42036534-a-nearly-normal-family]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561400740l/42036534._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561400740l/42036534._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>65563238</id>
+</work>
+<isbn>1250204437</isbn>
+<isbn13>9781250204431</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>18464973</id>
+<name>M.T. Edvardsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18464973.M_T_Edvardsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45885120</id>
+<title>The Warehouse</title>
+<title_without_series>The Warehouse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45885120-the-warehouse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65284413</id>
+</work>
+<isbn>1984823795</isbn>
+<isbn13>9781984823793</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6525349</id>
+<name>Rob Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6525349.Rob_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41150382</id>
+<title>Things You Save in a Fire</title>
+<title_without_series>Things You Save in a Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41150382-things-you-save-in-a-fire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539876418l/41150382._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539876418l/41150382._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>64320815</id>
+</work>
+<isbn>1250047323</isbn>
+<isbn13>9781250047328</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>409113</id>
+<name>Katherine Center</name>
+<link><![CDATA[https://www.goodreads.com/author/show/409113.Katherine_Center]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40514431</id>
+<title>Evvie Drake Starts Over</title>
+<title_without_series>Evvie Drake Starts Over</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40514431-evvie-drake-starts-over]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538446504l/40514431._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538446504l/40514431._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>62869040</id>
+</work>
+<isbn>0525619240</isbn>
+<isbn13>9780525619246</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>13575034</id>
+<name>Linda  Holmes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13575034.Linda_Holmes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47137668</id>
+<title>Emergency Skin</title>
+<title_without_series>Emergency Skin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47137668-emergency-skin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563468452l/47137668._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563468452l/47137668._SX98_.jpg]]></image_url>
+<num_pages>33</num_pages>
+<work>
+<id>72182694</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>2917917</id>
+<name>N.K. Jemisin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2917917.N_K_Jemisin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40097951</id>
+<title>The Silent Patient</title>
+<title_without_series>The Silent Patient</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40097951-the-silent-patient]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573745054l/40097951._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573745054l/40097951._SX98_.jpg]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>59752778</id>
+</work>
+<isbn>1250301696</isbn>
+<isbn13>9781250301697</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>17621440</id>
+<name>Alex Michaelides</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17621440.Alex_Michaelides]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36510722</id>
+<title>Gods of Jade and Shadow</title>
+<title_without_series>Gods of Jade and Shadow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36510722-gods-of-jade-and-shadow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543268579l/36510722._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543268579l/36510722._SX98_.jpg]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>58230232</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>4088550</id>
+<name>Silvia Moreno-Garcia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4088550.Silvia_Moreno_Garcia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47137575</id>
+<title>Randomize</title>
+<title_without_series>Randomize</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47137575-randomize]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563467829l/47137575._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563467829l/47137575._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72182564</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6540057</id>
+<name>Andy Weir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6540057.Andy_Weir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42207168</id>
+<title>The Gifted School</title>
+<title_without_series>The Gifted School</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42207168-the-gifted-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541188758l/42207168._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541188758l/42207168._SX98_.jpg]]></image_url>
+<num_pages>450</num_pages>
+<work>
+<id>65823849</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>39021</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7231634</id>
+<name>Bruce Holsinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7231634.Bruce_Holsinger]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

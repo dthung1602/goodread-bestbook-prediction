@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25667449</id>
+  <title><![CDATA[The Lonely City: Adventures in the Art of Being Alone]]></title>
+  <isbn><![CDATA[1250039576]]></isbn>
+  <isbn13><![CDATA[9781250039576]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039964l/25667449._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039964l/25667449._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Picador</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[What does it mean to be lonely? How do we live, if we're not intimately engaged with another human being? How do we connect with other people? Does technology draw us closer together or trap us behind screens?<br /><br />When Olivia Laing moved to New York City in her mid-thirties, she found herself inhabiting loneliness on a daily basis. Increasingly fascinated by this most shameful of experiences, she began to explore the lonely city by way of art. Moving fluidly between works and lives -- from Edward Hopper's <i>Nighthawks</i> to Andy Warhol's <i>Time Capsules</i>, from Henry Darger's hoarding to the depredations of the AIDS crisis -- Laing conducts an electric, dazzling investigation into what it means to be alone, illuminating not only the causes of loneliness but also how it might be resisted and redeemed.]]></description>
+  <work>
+  <id type="integer">45123764</id>
+  <books_count type="integer">32</books_count>
+  <best_book_id type="integer">25667449</best_book_id>
+  <reviews_count type="integer">62515</reviews_count>
+  <ratings_sum type="integer">43932</ratings_sum>
+  <ratings_count type="integer">11234</ratings_count>
+  <text_reviews_count type="integer">1426</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>The Lonely City: Adventures in the Art of Being Alone</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3776|4:4039|3:2355|2:767|1:297|total:11234</rating_dist>
+  <desc_user_id type="integer">17290119</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.cD6ANAzO6MkFX1NDeA1e2Q</work_uri>
+</work>
+  <average_rating>3.91</average_rating>
+  <num_pages><![CDATA[336]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8558]]></ratings_count>
+  <text_reviews_count><![CDATA[1005]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25667449-the-lonely-city]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25667449-the-lonely-city]]></link>
+  <authors>
+<author>
+<id>4463840</id>
+<name>Olivia Laing</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465720235p5/4463840.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465720235p2/4463840.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4463840.Olivia_Laing]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>18316</ratings_count>
+<text_reviews_count>2486</text_reviews_count>
+</author>
+<author>
+<id>17685593</id>
+<name>Gizem Gözde Uçar</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17685593.Gizem_G_zde_U_ar]]></link>
+<average_rating>3.50</average_rating>
+<ratings_count>12</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25667449-the-lonely-city">The Lonely City Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250039576&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25667449-the-lonely-city?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="46819"/>
+      <shelf name="currently-reading" count="1977"/>
+      <shelf name="non-fiction" count="888"/>
+      <shelf name="nonfiction" count="385"/>
+      <shelf name="memoir" count="248"/>
+      <shelf name="art" count="223"/>
+      <shelf name="favorites" count="190"/>
+      <shelf name="biography" count="126"/>
+      <shelf name="psychology" count="104"/>
+      <shelf name="to-buy" count="82"/>
+      <shelf name="essays" count="76"/>
+      <shelf name="new-york" count="60"/>
+      <shelf name="memoirs" count="52"/>
+      <shelf name="biography-memoir" count="51"/>
+      <shelf name="library" count="49"/>
+      <shelf name="owned" count="41"/>
+      <shelf name="favourites" count="39"/>
+      <shelf name="abandoned" count="33"/>
+      <shelf name="kindle" count="32"/>
+      <shelf name="audiobook" count="31"/>
+      <shelf name="books-i-own" count="31"/>
+      <shelf name="history" count="29"/>
+      <shelf name="fiction" count="27"/>
+      <shelf name="read-in-2017" count="26"/>
+      <shelf name="nyc" count="25"/>
+      <shelf name="book-club" count="25"/>
+      <shelf name="wish-list" count="25"/>
+      <shelf name="read-in-2018" count="24"/>
+      <shelf name="philosophy" count="24"/>
+      <shelf name="travel" count="24"/>
+      <shelf name="mental-health" count="23"/>
+      <shelf name="autobiography" count="22"/>
+      <shelf name="non-fic" count="22"/>
+      <shelf name="to-read-non-fiction" count="22"/>
+      <shelf name="contemporary" count="22"/>
+      <shelf name="did-not-finish" count="21"/>
+      <shelf name="sociology" count="21"/>
+      <shelf name="memoir-biography" count="20"/>
+      <shelf name="unfinished" count="19"/>
+      <shelf name="dnf" count="19"/>
+      <shelf name="maybe" count="19"/>
+      <shelf name="female-authors" count="18"/>
+      <shelf name="read-in-2016" count="18"/>
+      <shelf name="loneliness" count="18"/>
+      <shelf name="on-hold" count="17"/>
+      <shelf name="culture" count="17"/>
+      <shelf name="read-in-2019" count="16"/>
+      <shelf name="audiobooks" count="16"/>
+      <shelf name="lgbt" count="16"/>
+      <shelf name="tbr" count="16"/>
+      <shelf name="adult" count="16"/>
+      <shelf name="read-2017" count="15"/>
+      <shelf name="self-help" count="15"/>
+      <shelf name="cities" count="15"/>
+      <shelf name="women" count="14"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="to-read-nonfiction" count="14"/>
+      <shelf name="art-history" count="14"/>
+      <shelf name="nonfic" count="13"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="female-author" count="13"/>
+      <shelf name="to-get" count="13"/>
+      <shelf name="21st-century" count="13"/>
+      <shelf name="between-two-books" count="12"/>
+      <shelf name="didn-t-finish" count="12"/>
+      <shelf name="women-writers" count="12"/>
+      <shelf name="nonfiction-to-read" count="12"/>
+      <shelf name="read-2018" count="11"/>
+      <shelf name="english" count="11"/>
+      <shelf name="best-of-2016" count="11"/>
+      <shelf name="biographies" count="11"/>
+      <shelf name="queer" count="10"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="brain-pickings" count="10"/>
+      <shelf name="next" count="10"/>
+      <shelf name="tbr-non-fiction" count="10"/>
+      <shelf name="essay" count="10"/>
+      <shelf name="bio-memoir" count="10"/>
+      <shelf name="memoir-bio" count="10"/>
+      <shelf name="biography-and-memoir" count="10"/>
+      <shelf name="non-fiction-to-read" count="9"/>
+      <shelf name="women-authors" count="9"/>
+      <shelf name="new-york-city" count="9"/>
+      <shelf name="criticism" count="9"/>
+      <shelf name="read-2016" count="9"/>
+      <shelf name="2016-releases" count="9"/>
+      <shelf name="owned-tbr" count="8"/>
+      <shelf name="british" count="8"/>
+      <shelf name="novels" count="8"/>
+      <shelf name="american" count="8"/>
+      <shelf name="biographies-memoirs" count="8"/>
+      <shelf name="bios-memoirs" count="8"/>
+      <shelf name="recommended" count="8"/>
+      <shelf name="creativity" count="8"/>
+      <shelf name="biographical" count="8"/>
+      <shelf name="adult-nonfiction" count="8"/>
+      <shelf name="to-acquire" count="8"/>
+      <shelf name="2019-reads" count="7"/>
+      <shelf name="2018-reads" count="7"/>
+      <shelf name="want-to-buy" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>89213</id>
+<title><![CDATA[Close to the Knives: A Memoir of Disintegration]]></title>
+<title_without_series><![CDATA[Close to the Knives: A Memoir of Disintegration]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/89213.Close_to_the_Knives]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351500256l/89213._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351500256l/89213._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>86102</id>
+</work>
+<isbn>0679732276</isbn>
+<isbn13>9780679732273</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>20664</id>
+<name>David Wojnarowicz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20664.David_Wojnarowicz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12798674</id>
+<title><![CDATA[The Gentrification of the Mind: Witness to a Lost Imagination]]></title>
+<title_without_series><![CDATA[The Gentrification of the Mind: Witness to a Lost Imagination]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12798674-the-gentrification-of-the-mind]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320526309l/12798674._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320526309l/12798674._SX98_.jpg]]></image_url>
+<num_pages>179</num_pages>
+<work>
+<id>17946935</id>
+</work>
+<isbn>0520264770</isbn>
+<isbn13>9780520264779</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>98476</id>
+<name>Sarah Schulman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/98476.Sarah_Schulman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44279110</id>
+<title><![CDATA[My Year of Rest and Relaxation]]></title>
+<title_without_series><![CDATA[My Year of Rest and Relaxation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44279110-my-year-of-rest-and-relaxation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553096683l/44279110._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>55508660</id>
+</work>
+<isbn>0525522131</isbn>
+<isbn13>9780525522133</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3276202</id>
+<name>Ottessa Moshfegh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3276202.Ottessa_Moshfegh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36820477</id>
+<title><![CDATA[The Cost of Living: A Working Autobiography]]></title>
+<title_without_series><![CDATA[The Cost of Living: A Working Autobiography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36820477-the-cost-of-living]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513713760l/36820477._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513713760l/36820477._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>58043514</id>
+</work>
+<isbn>163557191X</isbn>
+<isbn13>9781635571912</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>147246</id>
+<name>Deborah Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147246.Deborah_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32187419</id>
+<title>Conversations with Friends</title>
+<title_without_series>Conversations with Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32187419-conversations-with-friends]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>52827120</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17329120</id>
+<title>Things I Don&apos;t Want to Know</title>
+<title_without_series>Things I Don&apos;t Want to Know</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17329120-things-i-don-t-want-to-know]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>109</num_pages>
+<work>
+<id>24027184</id>
+</work>
+<isbn>1907903631</isbn>
+<isbn13>9781907903632</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>147246</id>
+<name>Deborah Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147246.Deborah_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41057294</id>
+<title>Normal People</title>
+<title_without_series>Normal People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41057294-normal-people]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SX98_.jpg]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>59141209</id>
+</work>
+<isbn>1984822179</isbn>
+<isbn13>9781984822178</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15860970</id>
+<name>Sally Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15860970.Sally_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21400742</id>
+<title>Outline</title>
+<title_without_series>Outline</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21400742-outline]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403832251l/21400742._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403832251l/21400742._SX98_.jpg]]></image_url>
+<num_pages>249</num_pages>
+<work>
+<id>40698498</id>
+</work>
+<isbn>0571233627</isbn>
+<isbn13>9780571233625</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>46051</id>
+<name>Rachel Cusk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46051.Rachel_Cusk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>303941</id>
+<title><![CDATA[In the Shadow of the American Dream: The Diaries of David Wojnarowicz]]></title>
+<title_without_series><![CDATA[In the Shadow of the American Dream: The Diaries of David Wojnarowicz]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/303941.In_the_Shadow_of_the_American_Dream]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>294975</id>
+</work>
+<isbn>0802136710</isbn>
+<isbn13>9780802136718</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>20664</id>
+<name>David Wojnarowicz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20664.David_Wojnarowicz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44567250</id>
+<title>الأيام حين تعبر خائفة</title>
+<title_without_series>الأيام حين تعبر خائفة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44567250]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553240372l/44567250._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553240372l/44567250._SX98_.jpg]]></image_url>
+<num_pages>82</num_pages>
+<work>
+<id>69169687</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5827350</id>
+<name>محمود خير الله</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5827350._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6798263</id>
+<title>Bluets</title>
+<title_without_series>Bluets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6798263-bluets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354902976l/6798263._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354902976l/6798263._SX98_.jpg]]></image_url>
+<num_pages>98</num_pages>
+<work>
+<id>7003912</id>
+</work>
+<isbn>1933517409</isbn>
+<isbn13>9781933517407</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>58605</id>
+<name>Maggie Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58605.Maggie_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43126457</id>
+<title><![CDATA[Trick Mirror: Reflections on Self-Delusion]]></title>
+<title_without_series><![CDATA[Trick Mirror: Reflections on Self-Delusion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43126457-trick-mirror]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544069605l/43126457._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544069605l/43126457._SX98_.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>66925717</id>
+</work>
+<isbn>0525510540</isbn>
+<isbn13>9780525510543</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>17276202</id>
+<name>Jia Tolentino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17276202.Jia_Tolentino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76479</id>
+<title>A Field Guide to Getting Lost</title>
+<title_without_series>A Field Guide to Getting Lost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76479.A_Field_Guide_to_Getting_Lost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422984723l/76479._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422984723l/76479._SX98_.jpg]]></image_url>
+<num_pages>209</num_pages>
+<work>
+<id>2756721</id>
+</work>
+<isbn>0143037242</isbn>
+<isbn13>9780143037248</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>15811</id>
+<name>Rebecca Solnit</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15811.Rebecca_Solnit]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29939363</id>
+<title>Transit</title>
+<title_without_series>Transit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29939363-transit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468505188l/29939363._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468505188l/29939363._SX98_.jpg]]></image_url>
+<num_pages>260</num_pages>
+<work>
+<id>50329952</id>
+</work>
+<isbn>0374278628</isbn>
+<isbn13>9780374278625</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>46051</id>
+<name>Rachel Cusk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46051.Rachel_Cusk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19260939</id>
+<title>السعادة</title>
+<title_without_series>السعادة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19260939]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422435236l/19260939._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422435236l/19260939._SX98_.jpg]]></image_url>
+<num_pages>86</num_pages>
+<work>
+<id>27307560</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5170454</id>
+<name>رنا التونسي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5170454._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7544888</id>
+<title>هدايا الوحدة</title>
+<title_without_series>هدايا الوحدة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7544888]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1263252331l/7544888._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1263252331l/7544888._SX98_.jpg]]></image_url>
+<num_pages>83</num_pages>
+<work>
+<id>9824412</id>
+</work>
+<isbn></isbn>
+<isbn13>9773514536</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15062467</id>
+<name>محمد خير</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15062467._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42401122</id>
+<title>Exposure</title>
+<title_without_series>Exposure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42401122-exposure]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540058476l/42401122._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540058476l/42401122._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>66085879</id>
+</work>
+<isbn>1999922336</isbn>
+<isbn13>9781999922337</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14560217</id>
+<name>Olivia Sudjic</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14560217.Olivia_Sudjic]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22929741</id>
+<title>The Argonauts</title>
+<title_without_series>The Argonauts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22929741-the-argonauts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410981835l/22929741._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410981835l/22929741._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>42499230</id>
+</work>
+<isbn>1555977073</isbn>
+<isbn13>9781555977078</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>11234</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>58605</id>
+<name>Maggie Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58605.Maggie_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

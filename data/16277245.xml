@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16277245</id>
+  <title><![CDATA[The Drunken Botanist: The Plants That Create the World's Great Drinks]]></title>
+  <isbn><![CDATA[1616200464]]></isbn>
+  <isbn13><![CDATA[9781616200466]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404581364l/16277245._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404581364l/16277245._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>19</publication_day>
+  <publisher>Algonquin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Every great drink starts with a plant. Sake began with a grain of rice. Scotch emerged from barley. Gin was born from a conifer shrub when a Dutch physician added oil of juniper to a clear spirit, believing that juniper berries would cure kidney disorders. "The Drunken Botanist" uncovers the enlightening botanical history and the fascinating science and chemistry of over 150 plants, flowers, trees, and fruits (and even one fungus).<br /><br />Some of the most extraordinary and obscure plants have been fermented and distilled, and they each represent a unique cultural contribution to our global drinking traditions and our history. Molasses was an essential ingredient in American independence: when the British forced the colonies to buy British (not French) molasses for their New World rum-making, the settlers outrage kindled the American Revolution. Rye, which turns up in countless spirits, is vulnerable to ergot, which contains a precursor to LSD, and some historians have speculated that the Salem witch trials occurred because girls poisoned by ergot had seizures that made townspeople think they d been bewitched. Then there's the tale of the thirty-year court battle that took place over the trademarking of Angostura bitters, which may or may not actually contain bark from the Angostura tree.<br /><br />With a delightful two-color vintage-style interior, over fifty drink recipes, growing tips for gardeners, and advice that carries Stewart's trademark wit, this is the perfect gift for gardeners and cocktail aficionados alike.]]></description>
+  <work>
+  <id type="integer">23532823</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">16277245</best_book_id>
+  <reviews_count type="integer">28497</reviews_count>
+  <ratings_sum type="integer">29940</ratings_sum>
+  <ratings_count type="integer">7522</ratings_count>
+  <text_reviews_count type="integer">790</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <original_title>The Drunken Botanist: The Plants that Create the World's Great Drinks</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2392|4:3113|3:1601|2:309|1:107|total:7522</rating_dist>
+  <desc_user_id type="integer">52572779</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.0HoHuEqIr6zE5BzU7t7scQ</work_uri>
+</work>
+  <average_rating>3.98</average_rating>
+  <num_pages><![CDATA[362]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[6383]]></ratings_count>
+  <text_reviews_count><![CDATA[695]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16277245-the-drunken-botanist]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16277245-the-drunken-botanist]]></link>
+  <authors>
+<author>
+<id>34893</id>
+<name>Amy  Stewart</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387927116p5/34893.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387927116p2/34893.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/34893.Amy_Stewart]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>60598</ratings_count>
+<text_reviews_count>9698</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16277245-the-drunken-botanist">The Drunken Botanist Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1616200464&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16277245-the-drunken-botanist?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="18110"/>
+      <shelf name="currently-reading" count="1409"/>
+      <shelf name="non-fiction" count="568"/>
+      <shelf name="nonfiction" count="304"/>
+      <shelf name="science" count="302"/>
+      <shelf name="food" count="207"/>
+      <shelf name="history" count="114"/>
+      <shelf name="cookbooks" count="80"/>
+      <shelf name="gardening" count="70"/>
+      <shelf name="food-and-drink" count="64"/>
+      <shelf name="cooking" count="58"/>
+      <shelf name="kindle" count="57"/>
+      <shelf name="owned" count="50"/>
+      <shelf name="nature" count="46"/>
+      <shelf name="botany" count="45"/>
+      <shelf name="audiobook" count="41"/>
+      <shelf name="plants" count="39"/>
+      <shelf name="reference" count="36"/>
+      <shelf name="audiobooks" count="33"/>
+      <shelf name="favorites" count="33"/>
+      <shelf name="audio" count="32"/>
+      <shelf name="ebook" count="31"/>
+      <shelf name="books-i-own" count="30"/>
+      <shelf name="cookbook" count="26"/>
+      <shelf name="food-drink" count="24"/>
+      <shelf name="to-buy" count="22"/>
+      <shelf name="cocktails" count="21"/>
+      <shelf name="library" count="21"/>
+      <shelf name="abandoned" count="19"/>
+      <shelf name="to-read-nonfiction" count="17"/>
+      <shelf name="audible" count="16"/>
+      <shelf name="unfinished" count="16"/>
+      <shelf name="to-read-non-fiction" count="16"/>
+      <shelf name="biology" count="16"/>
+      <shelf name="booze" count="15"/>
+      <shelf name="natural-history" count="14"/>
+      <shelf name="food-cooking" count="14"/>
+      <shelf name="alcohol" count="13"/>
+      <shelf name="drinks" count="13"/>
+      <shelf name="food-history" count="13"/>
+      <shelf name="default" count="12"/>
+      <shelf name="female-author" count="12"/>
+      <shelf name="audio-books" count="12"/>
+      <shelf name="did-not-finish" count="12"/>
+      <shelf name="foodie" count="12"/>
+      <shelf name="adult" count="12"/>
+      <shelf name="owned-books" count="12"/>
+      <shelf name="wish-list" count="12"/>
+      <shelf name="didn-t-finish" count="11"/>
+      <shelf name="non-fiction-to-read" count="11"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="ebooks" count="11"/>
+      <shelf name="on-hold" count="10"/>
+      <shelf name="humor" count="10"/>
+      <shelf name="historical" count="10"/>
+      <shelf name="microhistory" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="garden" count="9"/>
+      <shelf name="herbalism" count="8"/>
+      <shelf name="nonfic" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="cook-books" count="8"/>
+      <shelf name="bartending" count="8"/>
+      <shelf name="female-authors" count="8"/>
+      <shelf name="overdrive" count="8"/>
+      <shelf name="recipes" count="8"/>
+      <shelf name="food-writing" count="8"/>
+      <shelf name="cooking-food" count="7"/>
+      <shelf name="beer" count="7"/>
+      <shelf name="gifts" count="7"/>
+      <shelf name="culinary" count="7"/>
+      <shelf name="wine" count="7"/>
+      <shelf name="drink" count="7"/>
+      <shelf name="want-to-own" count="7"/>
+      <shelf name="health" count="7"/>
+      <shelf name="dnf" count="6"/>
+      <shelf name="shelfari-wishlist" count="6"/>
+      <shelf name="tbr-nonfiction" count="6"/>
+      <shelf name="tbr" count="6"/>
+      <shelf name="herbs" count="6"/>
+      <shelf name="library-book" count="6"/>
+      <shelf name="want-to-buy" count="6"/>
+      <shelf name="book-club" count="6"/>
+      <shelf name="popular-science" count="6"/>
+      <shelf name="cookery" count="6"/>
+      <shelf name="nf" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="microhistories" count="5"/>
+      <shelf name="brewing" count="5"/>
+      <shelf name="on-kindle" count="5"/>
+      <shelf name="science-and-nature" count="5"/>
+      <shelf name="herbal" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="own-ebook" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="food-related" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="adult-non-fiction" count="5"/>
+      <shelf name="read-2013" count="5"/>
+      <shelf name="science-nature" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11093116</id>
+<title><![CDATA[Bitters: A Spirited History of a Classic Cure-All, with Cocktails, Recipes, and Formulas]]></title>
+<title_without_series><![CDATA[Bitters: A Spirited History of a Classic Cure-All, with Cocktails, Recipes, and Formulas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11093116-bitters]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213331l/11093116._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213331l/11093116._SX98_.jpg]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>15697505</id>
+</work>
+<isbn>1580083595</isbn>
+<isbn13>9781580083591</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4715809</id>
+<name>Brad Thomas Parsons</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4715809.Brad_Thomas_Parsons]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>154969</id>
+<title><![CDATA[Imbibe!: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to "Professor" Jerry Thomas, Pioneer of the American Bar]]></title>
+<title_without_series><![CDATA[Imbibe!: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to "Professor" Jerry Thomas, Pioneer of the American Bar]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/154969.Imbibe_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>317</num_pages>
+<work>
+<id>149583</id>
+</work>
+<isbn>0399532870</isbn>
+<isbn13>9780399532870</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>89649</id>
+<name>David Wondrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89649.David_Wondrich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11420025</id>
+<title><![CDATA[The PDT Cocktail Book: The Complete Bartender's Guide from the Celebrated Speakeasy]]></title>
+<title_without_series><![CDATA[The PDT Cocktail Book: The Complete Bartender's Guide from the Celebrated Speakeasy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11420025-the-pdt-cocktail-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767313l/11420025._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767313l/11420025._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>16353172</id>
+</work>
+<isbn>1402779232</isbn>
+<isbn13>9781402779237</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8344594</id>
+<name>Jim  Meehan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8344594.Jim_Meehan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41075441</id>
+<title><![CDATA[Cocktail Codex: Fundamentals, Formulas, Evolutions]]></title>
+<title_without_series><![CDATA[Cocktail Codex: Fundamentals, Formulas, Evolutions]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41075441-cocktail-codex]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64168957</id>
+</work>
+<isbn>160774970X</isbn>
+<isbn13>9781607749707</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4718273</id>
+<name>Alex Day</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4718273.Alex_Day]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18453209</id>
+<title><![CDATA[The Bar Book: Elements of Cocktail Technique]]></title>
+<title_without_series><![CDATA[The Bar Book: Elements of Cocktail Technique]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18453209-the-bar-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391414809l/18453209._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391414809l/18453209._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>26098201</id>
+</work>
+<isbn>145211384X</isbn>
+<isbn13>9781452113845</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7254364</id>
+<name>Jeffrey Morgenthaler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7254364.Jeffrey_Morgenthaler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20600316</id>
+<title><![CDATA[Death & Co: Modern Classic Cocktails, with More than 500 Recipes]]></title>
+<title_without_series><![CDATA[Death & Co: Modern Classic Cocktails, with More than 500 Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20600316-death-co]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394408361l/20600316._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394408361l/20600316._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>39872046</id>
+</work>
+<isbn>1607745259</isbn>
+<isbn13>9781607745259</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>6905840</id>
+<name>David Kaplan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6905840.David_Kaplan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20707970</id>
+<title><![CDATA[Liquid Intelligence: The Art and Science of the Perfect Cocktail]]></title>
+<title_without_series><![CDATA[Liquid Intelligence: The Art and Science of the Perfect Cocktail]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20707970-liquid-intelligence]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400888782l/20707970._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400888782l/20707970._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>40030592</id>
+</work>
+<isbn>0393089037</isbn>
+<isbn13>9780393089035</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>13598914</id>
+<name>Dave   Arnold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13598914.Dave_Arnold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18222694</id>
+<title>Proof: The Science of Booze</title>
+<title_without_series>Proof: The Science of Booze</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18222694-proof]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400955089l/18222694._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400955089l/18222694._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>25656359</id>
+</work>
+<isbn>0547897960</isbn>
+<isbn13>9780547897967</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1211230</id>
+<name>Adam Rogers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1211230.Adam_Rogers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>154964</id>
+<title><![CDATA[The Craft of the Cocktail: Everything You Need to Know to Be a Master Bartender, with 500 Recipes]]></title>
+<title_without_series><![CDATA[The Craft of the Cocktail: Everything You Need to Know to Be a Master Bartender, with 500 Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/154964.The_Craft_of_the_Cocktail]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320501846l/154964._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320501846l/154964._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>149578</id>
+</work>
+<isbn>0609608754</isbn>
+<isbn13>9780609608753</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>89646</id>
+<name>Dale DeGroff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89646.Dale_DeGroff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34013740</id>
+<title>Meehan&apos;s Bartender Manual</title>
+<title_without_series>Meehan&apos;s Bartender Manual</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34013740-meehan-s-bartender-manual]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513852580l/34013740._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513852580l/34013740._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55010460</id>
+</work>
+<isbn>1607748622</isbn>
+<isbn13>9781607748625</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>8344594</id>
+<name>Jim  Meehan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8344594.Jim_Meehan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>454346</id>
+<title><![CDATA[The Joy of Mixology: The Consummate Guide to the Bartender's Craft]]></title>
+<title_without_series><![CDATA[The Joy of Mixology: The Consummate Guide to the Bartender's Craft]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/454346.The_Joy_of_Mixology]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320501849l/454346._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320501849l/454346._SY160_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>442932</id>
+</work>
+<isbn>0609608843</isbn>
+<isbn13>9780609608845</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>225993</id>
+<name>Gary Regan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/225993.Gary_Regan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28587666</id>
+<title><![CDATA[Amaro: The Spirited World of Bittersweet, Herbal Liqueurs with Cocktails, Recipes, and Formulas]]></title>
+<title_without_series><![CDATA[Amaro: The Spirited World of Bittersweet, Herbal Liqueurs with Cocktails, Recipes, and Formulas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28587666-amaro]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468964134l/28587666._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468964134l/28587666._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>48754883</id>
+</work>
+<isbn>1607747499</isbn>
+<isbn13>9781607747499</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4715809</id>
+<name>Brad Thomas Parsons</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4715809.Brad_Thomas_Parsons]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27208847</id>
+<title><![CDATA[Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki]]></title>
+<title_without_series><![CDATA[Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27208847-smuggler-s-cove]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465600858l/27208847._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465600858l/27208847._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>47250514</id>
+</work>
+<isbn>1607747332</isbn>
+<isbn13>9781607747338</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14542848</id>
+<name>Martin Cate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14542848.Martin_Cate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33897634</id>
+<title><![CDATA[3-Ingredient Cocktails: An Opinionated Guide to the Most Enduring Drinks in the Cocktail Canon]]></title>
+<title_without_series><![CDATA[3-Ingredient Cocktails: An Opinionated Guide to the Most Enduring Drinks in the Cocktail Canon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33897634-3-ingredient-cocktails]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498850548l/33897634._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498850548l/33897634._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>54860680</id>
+</work>
+<isbn>0399578544</isbn>
+<isbn13>9780399578540</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>344398</id>
+<name>Robert Simonson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/344398.Robert_Simonson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>542307</id>
+<title><![CDATA[Firestorm at Peshtigo: A Town, Its People, and the Deadliest Fire in American History]]></title>
+<title_without_series><![CDATA[Firestorm at Peshtigo: A Town, Its People, and the Deadliest Fire in American History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/542307.Firestorm_at_Peshtigo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316130543l/542307._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316130543l/542307._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>529638</id>
+</work>
+<isbn>0805072934</isbn>
+<isbn13>9780805072938</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>95139</id>
+<name>Denise Gess</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95139.Denise_Gess]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25205333</id>
+<title><![CDATA[Bitterman's Field Guide to Bitters  Amari: 500 Bitters; 50 Amari; 123 Recipes for Cocktails, Food  Homemade Bitters]]></title>
+<title_without_series><![CDATA[Bitterman's Field Guide to Bitters  Amari: 500 Bitters; 50 Amari; 123 Recipes for Cocktails, Food  Homemade Bitters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25205333-bitterman-s-field-guide-to-bitters-amari]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439169656l/25205333._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439169656l/25205333._SX98_.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>44918012</id>
+</work>
+<isbn>1449470696</isbn>
+<isbn13>9781449470692</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3433612</id>
+<name>Mark Bitterman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3433612.Mark_Bitterman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15843172</id>
+<title><![CDATA[Tequila Mockingbird: Cocktails with a Literary Twist]]></title>
+<title_without_series><![CDATA[Tequila Mockingbird: Cocktails with a Literary Twist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15843172-tequila-mockingbird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359423297l/15843172._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359423297l/15843172._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>19221873</id>
+</work>
+<isbn>0762448652</isbn>
+<isbn13>9780762448654</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>5446689</id>
+<name>Tim Federle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5446689.Tim_Federle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13598307</id>
+<title><![CDATA[The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World]]></title>
+<title_without_series><![CDATA[The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13598307-the-art-of-fermentation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334185796l/13598307._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334185796l/13598307._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>19188832</id>
+</work>
+<isbn>160358286X</isbn>
+<isbn13>9781603582865</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>7522</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>63537</id>
+<name>Sandor Ellix Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63537.Sandor_Ellix_Katz]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

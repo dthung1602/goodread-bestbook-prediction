@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>38452813</id>
+  <title>Teen Titans: Raven</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528738829l/38452813._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528738829l/38452813._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>DC Ink</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[When a tragic accident takes the life of 17-year-old Raven Roth's foster mom—and Raven's memory—she moves to New Orleans to recover and finish her senior year of high school.<br /><br />Starting over isn't easy. Raven remembers everyday stuff like how to solve math equations and make pasta, but she can't remember her favorite song or who she was before the accident. And when impossible things start happening, Raven begins to think it might even be better not to know who she was before.<br /><br />But as she grows closer to her new friends, her foster sister, Max, and Tommy Torres, a guy who accepts her for who she is now, Raven has to decide if she's ready to face what's buried in the past... and the darkness building inside her.<br /><br />From #1 <i>New York Times</i> bestselling author Kami Garcia and first-time graphic novel artist Gabriel Picolo comes this riveting tale of finding the strength to face who you are and learning to trust others—and yourself.]]></description>
+  <work>
+  <id type="integer">60077986</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">38452813</best_book_id>
+  <reviews_count type="integer">20510</reviews_count>
+  <ratings_sum type="integer">19028</ratings_sum>
+  <ratings_count type="integer">4820</ratings_count>
+  <text_reviews_count type="integer">1074</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1459|4:1942|3:1168|2:210|1:41|total:4820</rating_dist>
+  <desc_user_id type="integer">2292654</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.pCbK0fzbufMJIrjQKnfuiw</work_uri>
+</work>
+  <average_rating>3.95</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3582]]></ratings_count>
+  <text_reviews_count><![CDATA[754]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/38452813-teen-titans]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/38452813-teen-titans]]></link>
+  <authors>
+<author>
+<id>2895706</id>
+<name>Kami Garcia</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1452664536p5/2895706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1452664536p2/2895706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2895706.Kami_Garcia]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>882703</ratings_count>
+<text_reviews_count>49019</text_reviews_count>
+</author>
+<author>
+<id>15746836</id>
+<name>Gabriel Picolo</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528739428p5/15746836.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528739428p2/15746836.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15746836.Gabriel_Picolo]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>5042</ratings_count>
+<text_reviews_count>1106</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/38452813-teen-titans">Teen Titans Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/38452813-teen-titans?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="14630"/>
+      <shelf name="graphic-novels" count="418"/>
+      <shelf name="comics" count="238"/>
+      <shelf name="graphic-novel" count="226"/>
+      <shelf name="young-adult" count="192"/>
+      <shelf name="currently-reading" count="162"/>
+      <shelf name="fantasy" count="116"/>
+      <shelf name="ya" count="93"/>
+      <shelf name="2019-releases" count="72"/>
+      <shelf name="read-in-2019" count="63"/>
+      <shelf name="superheroes" count="57"/>
+      <shelf name="favorites" count="43"/>
+      <shelf name="comics-graphic-novels" count="43"/>
+      <shelf name="read-2019" count="36"/>
+      <shelf name="dc" count="35"/>
+      <shelf name="arc" count="33"/>
+      <shelf name="fiction" count="32"/>
+      <shelf name="2019-reads" count="31"/>
+      <shelf name="library" count="27"/>
+      <shelf name="owned" count="27"/>
+      <shelf name="comics-and-graphic-novels" count="26"/>
+      <shelf name="dc-comics" count="26"/>
+      <shelf name="graphic-novels-comics" count="25"/>
+      <shelf name="comic" count="23"/>
+      <shelf name="teen" count="23"/>
+      <shelf name="superhero" count="22"/>
+      <shelf name="books-i-own" count="21"/>
+      <shelf name="comic-books" count="21"/>
+      <shelf name="graphic-novels-and-comics" count="20"/>
+      <shelf name="magic" count="20"/>
+      <shelf name="series" count="20"/>
+      <shelf name="romance" count="19"/>
+      <shelf name="netgalley" count="19"/>
+      <shelf name="to-buy" count="18"/>
+      <shelf name="arcs" count="15"/>
+      <shelf name="paranormal" count="14"/>
+      <shelf name="supernatural" count="13"/>
+      <shelf name="manga-graphic-novels" count="12"/>
+      <shelf name="ebook" count="11"/>
+      <shelf name="2019-read" count="11"/>
+      <shelf name="2019-release" count="11"/>
+      <shelf name="maybe" count="11"/>
+      <shelf name="graphic-novels-manga" count="10"/>
+      <shelf name="ya-fiction" count="10"/>
+      <shelf name="graphic" count="10"/>
+      <shelf name="graphics" count="10"/>
+      <shelf name="2019-books" count="10"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="lgbtq" count="9"/>
+      <shelf name="hoopla" count="8"/>
+      <shelf name="urban-fantasy" count="8"/>
+      <shelf name="ghosts" count="7"/>
+      <shelf name="lgbt" count="7"/>
+      <shelf name="super-hero" count="7"/>
+      <shelf name="sequential-art" count="7"/>
+      <shelf name="mystery" count="7"/>
+      <shelf name="super-heroes" count="7"/>
+      <shelf name="high-school" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="want-to-buy" count="7"/>
+      <shelf name="2019-tbr" count="7"/>
+      <shelf name="ya-lit" count="6"/>
+      <shelf name="manga-comics" count="6"/>
+      <shelf name="want-to-own" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="friendship" count="6"/>
+      <shelf name="2019-reading-challenge" count="6"/>
+      <shelf name="tbr-graphic-novels" count="6"/>
+      <shelf name="comics-and-manga" count="6"/>
+      <shelf name="comics-manga" count="6"/>
+      <shelf name="comics-graphic-novels-manga" count="6"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="read-in-english" count="5"/>
+      <shelf name="books-read-in-2019" count="5"/>
+      <shelf name="lgbtqia" count="5"/>
+      <shelf name="english" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="manga" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="ya-books" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="poc" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="family" count="5"/>
+      <shelf name="reviewed" count="5"/>
+      <shelf name="graphic-novels-tbr" count="5"/>
+      <shelf name="comic-graphic-novel" count="5"/>
+      <shelf name="cover-love" count="5"/>
+      <shelf name="raven" count="5"/>
+      <shelf name="manga-and-graphic-novels" count="4"/>
+      <shelf name="own-tbr" count="4"/>
+      <shelf name="ya-fantasy" count="4"/>
+      <shelf name="2019-favorites" count="4"/>
+      <shelf name="retellings" count="4"/>
+      <shelf name="kindle" count="4"/>
+      <shelf name="feminist" count="4"/>
+      <shelf name="sci-fi-fantasy" count="4"/>
+      <shelf name="superhero-comics" count="4"/>
+      <shelf name="e-book" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1452155</id>
+<user_position>1</user_position>
+<series>
+<id>263774</id>
+<title>
+<![CDATA[
+    Teen Titans
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>38452822</id>
+<title><![CDATA[Under The Moon: A Catwoman Tale]]></title>
+<title_without_series><![CDATA[Under The Moon: A Catwoman Tale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38452822-under-the-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562088570l/38452822._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562088570l/38452822._SX98_.jpg]]></image_url>
+<num_pages>219</num_pages>
+<work>
+<id>60077998</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>157676</id>
+<name>Lauren Myracle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157676.Lauren_Myracle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47185144</id>
+<title>Harley Quinn: Breaking Glass</title>
+<title_without_series>Harley Quinn: Breaking Glass</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47185144-harley-quinn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563979244l/47185144._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563979244l/47185144._SX98_.jpg]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>60077747</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>483588</id>
+<name>Mariko Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/483588.Mariko_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38452566</id>
+<title>Mera: Tidebreaker</title>
+<title_without_series>Mera: Tidebreaker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38452566-mera]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562089450l/38452566._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562089450l/38452566._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>60077753</id>
+</work>
+<isbn>140128339X</isbn>
+<isbn13>9781401283391</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7305254</id>
+<name>Danielle  Paige</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7305254.Danielle_Paige]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44433717</id>
+<title>Black Canary: Ignite</title>
+<title_without_series>Black Canary: Ignite</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44433717-black-canary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554909232l/44433717._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554909232l/44433717._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>60078062</id>
+</work>
+<isbn>1401286208</isbn>
+<isbn13>9781401286200</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>11654</id>
+<name>Meg Cabot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11654.Meg_Cabot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864790</id>
+<title>Pumpkinheads</title>
+<title_without_series>Pumpkinheads</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864790-pumpkinheads]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX98_.jpg]]></image_url>
+<num_pages>209</num_pages>
+<work>
+<id>42907220</id>
+</work>
+<isbn>125031285X</isbn>
+<isbn13>9781250312853</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43434705</id>
+<title>Batman: Nightwalker</title>
+<title_without_series>Batman: Nightwalker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43434705-batman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546373540l/43434705._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546373540l/43434705._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>67520158</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10181</id>
+<name>Stuart Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10181.Stuart_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29981020</id>
+<title><![CDATA[Laura Dean Keeps Breaking Up with Me]]></title>
+<title_without_series><![CDATA[Laura Dean Keeps Breaking Up with Me]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29981020-laura-dean-keeps-breaking-up-with-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538848315l/29981020._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538848315l/29981020._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>50380585</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>483588</id>
+<name>Mariko Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/483588.Mariko_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29225550</id>
+<title>Grimoire Noir</title>
+<title_without_series>Grimoire Noir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29225550-grimoire-noir]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538733242l/29225550._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538733242l/29225550._SX98_.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>49462863</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>6926295</id>
+<name>Vera Greentea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6926295.Vera_Greentea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44774415</id>
+<title>Mooncakes</title>
+<title_without_series>Mooncakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44774415-mooncakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565183719l/44774415._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565183719l/44774415._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57982519</id>
+</work>
+<isbn>154930304X</isbn>
+<isbn13>9781549303043</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>7008509</id>
+<name>Suzanne  Walker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7008509.Suzanne_Walker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42835878</id>
+<title>Blackbird, Vol. 1</title>
+<title_without_series>Blackbird, Vol. 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42835878-blackbird-vol-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548937630l/42835878._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548937630l/42835878._SX98_.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>66594106</id>
+</work>
+<isbn>1534312595</isbn>
+<isbn13>9781534312593</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>5819870</id>
+<name>Sam Humphries</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5819870.Sam_Humphries]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38452894</id>
+<title>Dear Justice League</title>
+<title_without_series>Dear Justice League</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38452894-dear-justice-league]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565141659l/38452894._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565141659l/38452894._SX98_.jpg]]></image_url>
+<num_pages>154</num_pages>
+<work>
+<id>60078069</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2769036</id>
+<name>Michael Northrop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2769036.Michael_Northrop]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822757</id>
+<title>The Okay Witch</title>
+<title_without_series>The Okay Witch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822757-the-okay-witch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052630l/43822757._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557052630l/43822757._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>68194603</id>
+</work>
+<isbn>1534431454</isbn>
+<isbn13>9781534431454</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>16313412</id>
+<name>Emma Steinkellner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16313412.Emma_Steinkellner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864836</id>
+<title>Stargazing</title>
+<title_without_series>Stargazing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864836-stargazing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537662757l/40864836._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537662757l/40864836._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>63657578</id>
+</work>
+<isbn>125018388X</isbn>
+<isbn13>9781250183880</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>1557381</id>
+<name>Jen Wang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1557381.Jen_Wang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29225589</id>
+<title>Bloom</title>
+<title_without_series>Bloom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29225589-bloom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528170930l/29225589._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528170930l/29225589._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>49462918</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>14131805</id>
+<name>Kevin Panetta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14131805.Kevin_Panetta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22612920</id>
+<title>Kiss Number 8</title>
+<title_without_series>Kiss Number 8</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22612920-kiss-number-8]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527528887l/22612920._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527528887l/22612920._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>42104837</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3160009</id>
+<name>Colleen A.F. Venable</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3160009.Colleen_A_F_Venable]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42369064</id>
+<title>The Tea Dragon Festival</title>
+<title_without_series>The Tea Dragon Festival</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42369064-the-tea-dragon-festival]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539868119l/42369064._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539868119l/42369064._SX98_.jpg]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>66025511</id>
+</work>
+<isbn>1620106558</isbn>
+<isbn13>9781620106556</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>7831390</id>
+<name>Katie O&apos;Neill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7831390.Katie_O_Neill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43837351</id>
+<title><![CDATA[Nancy Drew: The Palace of Wisdom]]></title>
+<title_without_series><![CDATA[Nancy Drew: The Palace of Wisdom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43837351-nancy-drew]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549317718l/43837351._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549317718l/43837351._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>68219347</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6543330</id>
+<name>Kelly Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6543330.Kelly_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40538764</id>
+<title>Fence, Vol. 3</title>
+<title_without_series>Fence, Vol. 3</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40538764-fence-vol-3]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625610l/40538764._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625610l/40538764._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>62941355</id>
+</work>
+<isbn>1684153344</isbn>
+<isbn13>9781684153343</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4820</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>4349837</id>
+<name>C.S. Pacat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4349837.C_S_Pacat]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

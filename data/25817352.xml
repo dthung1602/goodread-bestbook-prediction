@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25817352</id>
+  <title>Worm Loves Worm</title>
+  <isbn><![CDATA[0062386336]]></isbn>
+  <isbn13><![CDATA[9780062386335]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442816894l/25817352._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442816894l/25817352._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Balzer + Bray</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Perfect for fans of <em>And Tango Makes Three</em> and <em>The Sissy Duckling</em>, this irresistible picture book is a celebration of love in all its splendid forms from debut author J. J. Austrian and the acclaimed author-illustrator of <em>Little Elliot, Big City</em>, Mike Curato.<br /><br />You are cordially invited to celebrate the wedding of a worm . . . and a worm.<br /><br />When a worm meets a special worm and they fall in love, you know what happens next: They get married! But their friends want to know—who will wear the dress? And who will wear the tux?<br /><br />The answer is: It doesn't matter. Because Worm loves worm.]]></description>
+  <work>
+  <id type="integer">44702587</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">25027836</best_book_id>
+  <reviews_count type="integer">3897</reviews_count>
+  <ratings_sum type="integer">7394</ratings_sum>
+  <ratings_count type="integer">1835</ratings_count>
+  <text_reviews_count type="integer">374</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>Worm Loves Worm</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:739|4:635|3:302|2:94|1:65|total:1835</rating_dist>
+  <desc_user_id type="integer">1145788</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.nGcM2Bacj-A95oKsdeztBQ</work_uri>
+</work>
+  <average_rating>4.03</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[495]]></ratings_count>
+  <text_reviews_count><![CDATA[72]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25817352-worm-loves-worm]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25817352-worm-loves-worm]]></link>
+  <authors>
+<author>
+<id>13547845</id>
+<name>J.J. Austrian</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13547845.J_J_Austrian]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<text_reviews_count>374</text_reviews_count>
+</author>
+<author>
+<id>7760185</id>
+<name>Mike Curato</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429298216p5/7760185.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429298216p2/7760185.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7760185.Mike_Curato]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>7832</ratings_count>
+<text_reviews_count>1585</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25817352-worm-loves-worm">Worm Loves Worm Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062386336&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25817352-worm-loves-worm?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1535"/>
+      <shelf name="picture-books" count="382"/>
+      <shelf name="picture-book" count="98"/>
+      <shelf name="lgbtq" count="89"/>
+      <shelf name="childrens" count="68"/>
+      <shelf name="lgbt" count="61"/>
+      <shelf name="children-s-books" count="50"/>
+      <shelf name="children-s" count="47"/>
+      <shelf name="children" count="38"/>
+      <shelf name="animals" count="26"/>
+      <shelf name="love" count="23"/>
+      <shelf name="fiction" count="21"/>
+      <shelf name="kids-books" count="21"/>
+      <shelf name="diversity" count="21"/>
+      <shelf name="kids" count="19"/>
+      <shelf name="picturebooks" count="19"/>
+      <shelf name="read-in-2016" count="19"/>
+      <shelf name="storytime" count="17"/>
+      <shelf name="childrens-books" count="17"/>
+      <shelf name="queer" count="16"/>
+      <shelf name="lgbtqia" count="16"/>
+      <shelf name="picture" count="15"/>
+      <shelf name="worms" count="14"/>
+      <shelf name="gender" count="12"/>
+      <shelf name="favorites" count="11"/>
+      <shelf name="exploring-diversity" count="10"/>
+      <shelf name="romance" count="10"/>
+      <shelf name="preschool" count="10"/>
+      <shelf name="family" count="10"/>
+      <shelf name="children-s-picture-books" count="10"/>
+      <shelf name="exploring-assignment" count="9"/>
+      <shelf name="lgbtqa" count="9"/>
+      <shelf name="story-time" count="8"/>
+      <shelf name="insects" count="8"/>
+      <shelf name="wedding" count="8"/>
+      <shelf name="weddings" count="8"/>
+      <shelf name="children-s-lit" count="8"/>
+      <shelf name="childrens-picture-books" count="8"/>
+      <shelf name="currently-reading" count="7"/>
+      <shelf name="read-2016" count="7"/>
+      <shelf name="pb" count="7"/>
+      <shelf name="marriage" count="7"/>
+      <shelf name="glbtq" count="7"/>
+      <shelf name="juvenile" count="7"/>
+      <shelf name="2016-picture-books" count="7"/>
+      <shelf name="glbt" count="7"/>
+      <shelf name="bugs" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="children-s-literature" count="5"/>
+      <shelf name="2016-releases" count="5"/>
+      <shelf name="picture-books-2016" count="5"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="humor" count="4"/>
+      <shelf name="picture_book" count="4"/>
+      <shelf name="e" count="4"/>
+      <shelf name="animal-stories" count="4"/>
+      <shelf name="kid-books" count="4"/>
+      <shelf name="gender-roles" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="children-s-books-read" count="4"/>
+      <shelf name="social-justice" count="4"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="classroombookaday" count="3"/>
+      <shelf name="childrens-fiction" count="3"/>
+      <shelf name="diverse" count="3"/>
+      <shelf name="diverse-picture-books" count="3"/>
+      <shelf name="pride" count="3"/>
+      <shelf name="inclusion" count="3"/>
+      <shelf name="books-for-kids" count="3"/>
+      <shelf name="gender-identity" count="3"/>
+      <shelf name="books-read-in-2016" count="3"/>
+      <shelf name="elementary" count="3"/>
+      <shelf name="read-to-me" count="3"/>
+      <shelf name="for-kids" count="3"/>
+      <shelf name="kindergarten" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="mock-caldecott-2017" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="pub-2016" count="3"/>
+      <shelf name="balzer-bray" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="2016-reads" count="3"/>
+      <shelf name="baby-books" count="3"/>
+      <shelf name="storytime-books" count="3"/>
+      <shelf name="equality" count="3"/>
+      <shelf name="easy" count="3"/>
+      <shelf name="picturebook" count="3"/>
+      <shelf name="friendship" count="3"/>
+      <shelf name="oz" count="2"/>
+      <shelf name="lindy" count="2"/>
+      <shelf name="lgbt-books-read-want-to-read" count="2"/>
+      <shelf name="worm-moon" count="2"/>
+      <shelf name="favorite-kids-books" count="2"/>
+      <shelf name="feelings" count="2"/>
+      <shelf name="picture-books-2018" count="2"/>
+      <shelf name="daphne" count="2"/>
+      <shelf name="mini-library" count="2"/>
+      <shelf name="2018-reads" count="2"/>
+      <shelf name="illustrations" count="2"/>
+      <shelf name="favorite-children-s-books" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>27158837</id>
+<title><![CDATA[Introducing Teddy: A Gentle Story About Gender and Friendship]]></title>
+<title_without_series><![CDATA[Introducing Teddy: A Gentle Story About Gender and Friendship]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27158837-introducing-teddy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456095084l/27158837._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456095084l/27158837._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>47198277</id>
+</work>
+<isbn>1681192101</isbn>
+<isbn13>9781681192109</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>14530580</id>
+<name>Jess Walton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14530580.Jess_Walton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18406836</id>
+<title><![CDATA[Morris Micklewhite and the Tangerine Dress]]></title>
+<title_without_series><![CDATA[Morris Micklewhite and the Tangerine Dress]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18406836-morris-micklewhite-and-the-tangerine-dress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379393170l/18406836._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379393170l/18406836._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>26041950</id>
+</work>
+<isbn>1554983479</isbn>
+<isbn13>9781554983476</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7247141</id>
+<name>Christine  Baldacchino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7247141.Christine_Baldacchino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18615267</id>
+<title>This Day in June</title>
+<title_without_series>This Day in June</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18615267-this-day-in-june]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585992l/18615267._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585992l/18615267._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>26390662</id>
+</work>
+<isbn>143381658X</isbn>
+<isbn13>9781433816581</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5142181</id>
+<name>Gayle E. Pitman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5142181.Gayle_E_Pitman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19353809</id>
+<title>Stella Brings the Family</title>
+<title_without_series>Stella Brings the Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19353809-stella-brings-the-family]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420522749l/19353809._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420522749l/19353809._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>27414876</id>
+</work>
+<isbn>1452111901</isbn>
+<isbn13>9781452111902</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>12052367</id>
+<name>Miriam B. Schiffer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12052367.Miriam_B_Schiffer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864913</id>
+<title><![CDATA[It Feels Good to Be Yourself: A Book about Gender Identity]]></title>
+<title_without_series><![CDATA[It Feels Good to Be Yourself: A Book about Gender Identity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864913-it-feels-good-to-be-yourself]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538423336l/40864913._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538423336l/40864913._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>63657625</id>
+</work>
+<isbn>1250302951</isbn>
+<isbn13>9781250302953</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15298725</id>
+<name>Theresa Thorn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15298725.Theresa_Thorn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18378828</id>
+<title>Jacob&apos;s New Dress</title>
+<title_without_series>Jacob&apos;s New Dress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18378828-jacob-s-new-dress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378709732l/18378828._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378709732l/18378828._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>25994767</id>
+</work>
+<isbn>0807563730</isbn>
+<isbn13>9780807563731</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7237519</id>
+<name>Sarah Hoffman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7237519.Sarah_Hoffman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39987021</id>
+<title>When Aidan Became A Brother</title>
+<title_without_series>When Aidan Became A Brother</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39987021-when-aidan-became-a-brother]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553384101l/39987021._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553384101l/39987021._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>61915492</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4972570</id>
+<name>Kyle Lukoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4972570.Kyle_Lukoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18763344</id>
+<title>I Am Jazz</title>
+<title_without_series>I Am Jazz</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18763344-i-am-jazz]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585999l/18763344._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585999l/18763344._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>26661115</id>
+</work>
+<isbn>0803741073</isbn>
+<isbn13>9780803741072</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7377796</id>
+<name>Jessica Herthel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7377796.Jessica_Herthel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22249668</id>
+<title>Red: A Crayon&apos;s Story</title>
+<title_without_series>Red: A Crayon&apos;s Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22249668-red]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421012559l/22249668._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421012559l/22249668._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>41626053</id>
+</work>
+<isbn>0062252097</isbn>
+<isbn13>9780062252098</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6570330</id>
+<name>Michael  Hall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6570330.Michael_Hall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33113622</id>
+<title>Sparkle Boy</title>
+<title_without_series>Sparkle Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33113622-sparkle-boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497975408l/33113622._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497975408l/33113622._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>47847291</id>
+</work>
+<isbn>1620142856</isbn>
+<isbn13>9781620142851</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>226812</id>
+<name>Lesléa Newman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/226812.Lesl_a_Newman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3463007</id>
+<title>10,000 Dresses</title>
+<title_without_series>10,000 Dresses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3463007-10-000-dresses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3504291</id>
+</work>
+<isbn>1583228500</isbn>
+<isbn13>9781583228500</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>801142</id>
+<name>Marcus Ewert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/801142.Marcus_Ewert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28256239</id>
+<title><![CDATA[A Family Is a Family Is a Family]]></title>
+<title_without_series><![CDATA[A Family Is a Family Is a Family]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28256239-a-family-is-a-family-is-a-family]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472734074l/28256239._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472734074l/28256239._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48295030</id>
+</work>
+<isbn>1554987946</isbn>
+<isbn13>9781554987948</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5664</id>
+<name>Sara O&apos;Leary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5664.Sara_O_Leary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9476783</id>
+<title>Donovan&apos;s Big Day</title>
+<title_without_series>Donovan&apos;s Big Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9476783-donovan-s-big-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320554548l/9476783._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320554548l/9476783._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>14362052</id>
+</work>
+<isbn>1582463328</isbn>
+<isbn13>9781582463322</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>226812</id>
+<name>Lesléa Newman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/226812.Lesl_a_Newman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22693815</id>
+<title>Families, Families, Families!</title>
+<title_without_series>Families, Families, Families!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22693815-families-families-families]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405290325l/22693815._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405290325l/22693815._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42206601</id>
+</work>
+<isbn>0375974261</isbn>
+<isbn13>9780375974267</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>4634332</id>
+<name>Suzanne Lang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4634332.Suzanne_Lang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22875387</id>
+<title><![CDATA[How to Read a Story: (Illustrated Children's Book, Picture Book for Kids, Read Aloud Kindergarten Books)]]></title>
+<title_without_series>How to Read a Story:</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22875387-how-to-read-a-story]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587500l/22875387._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587500l/22875387._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42439845</id>
+</work>
+<isbn>1452112339</isbn>
+<isbn13>9781452112336</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25785760</id>
+<title>Ida, Always</title>
+<title_without_series>Ida, Always</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25785760-ida-always]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45636447</id>
+</work>
+<isbn>1481426400</isbn>
+<isbn13>9781481426404</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>5573824</id>
+<name>Caron Levis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5573824.Caron_Levis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9436049</id>
+<title>My Princess Boy</title>
+<title_without_series>My Princess Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9436049-my-princess-boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422657584l/9436049._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422657584l/9436049._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>14320630</id>
+</work>
+<isbn>0615395945</isbn>
+<isbn13>9780615395944</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4390498</id>
+<name>Cheryl Kilodavis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4390498.Cheryl_Kilodavis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37829001</id>
+<title>I Will Be Fierce</title>
+<title_without_series>I Will Be Fierce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37829001-i-will-be-fierce]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537386616l/37829001._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537386616l/37829001._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59509084</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1835</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>17571403</id>
+<name>Bea Birdsong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17571403.Bea_Birdsong]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

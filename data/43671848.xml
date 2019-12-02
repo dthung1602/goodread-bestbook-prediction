@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>43671848</id>
+  <title>Just Because</title>
+  <isbn><![CDATA[0763696803]]></isbn>
+  <isbn13><![CDATA[9780763696801]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX50_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>10</publication_day>
+  <publisher>Candlewick Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<em>Why is the ocean blue? What is the rain? What happened to the dinosaurs?</em> It might be time for bed, but one child is too full of questions about the world to go to sleep just yet. Little ones and their parents will be charmed and delighted as a patient father offers up increasingly creative responses to his child’s nighttime wonderings. Any child who has ever asked “Why?” — and any parent who has attempted an explanation — will recognize themselves in this sweet storybook for dreamers who are looking for answers beyond “Just because.”<br /><br />Curious minds are rewarded with curious answers in a fantastical bedtime book by Mac Barnett and Isabelle Arsenault.]]></description>
+  <work>
+  <id type="integer">67946194</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">43671848</best_book_id>
+  <reviews_count type="integer">4687</reviews_count>
+  <ratings_sum type="integer">2375</ratings_sum>
+  <ratings_count type="integer">617</ratings_count>
+  <text_reviews_count type="integer">148</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">10</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:172|4:239|3:157|2:39|1:10|total:617</rating_dist>
+  <desc_user_id type="integer">12785148</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.KrtO-2hSCKfateItCoc7jQ</work_uri>
+</work>
+  <average_rating>3.85</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[587]]></ratings_count>
+  <text_reviews_count><![CDATA[146]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/43671848-just-because]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/43671848-just-because]]></link>
+  <authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1551206377p5/2855221.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1551206377p2/2855221.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>77490</ratings_count>
+<text_reviews_count>12105</text_reviews_count>
+</author>
+<author>
+<id>1193457</id>
+<name>Isabelle Arsenault</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417430995p5/1193457.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417430995p2/1193457.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1193457.Isabelle_Arsenault]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>19212</ratings_count>
+<text_reviews_count>3298</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/43671848-just-because">Just Because Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0763696803&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/43671848-just-because?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3849"/>
+      <shelf name="picture-books" count="154"/>
+      <shelf name="picture-book" count="56"/>
+      <shelf name="childrens" count="24"/>
+      <shelf name="bedtime" count="23"/>
+      <shelf name="children" count="23"/>
+      <shelf name="imagination" count="17"/>
+      <shelf name="children-s" count="17"/>
+      <shelf name="children-s-books" count="16"/>
+      <shelf name="picturebooks" count="12"/>
+      <shelf name="read-in-2019" count="12"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="picture" count="10"/>
+      <shelf name="kids" count="10"/>
+      <shelf name="questions" count="10"/>
+      <shelf name="fiction" count="10"/>
+      <shelf name="humor" count="9"/>
+      <shelf name="kids-books" count="9"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="storytime" count="7"/>
+      <shelf name="read-2019" count="6"/>
+      <shelf name="2019-picture-books" count="6"/>
+      <shelf name="picture-books-2019" count="5"/>
+      <shelf name="curiosity" count="5"/>
+      <shelf name="family" count="5"/>
+      <shelf name="giveaways" count="5"/>
+      <shelf name="bedtime-stories" count="5"/>
+      <shelf name="currently-reading" count="4"/>
+      <shelf name="animals" count="4"/>
+      <shelf name="dinosaurs" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="pre-k" count="4"/>
+      <shelf name="childrens-picture-books" count="4"/>
+      <shelf name="pb" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="read-aloud" count="3"/>
+      <shelf name="kindergarten" count="3"/>
+      <shelf name="funny" count="3"/>
+      <shelf name="early-elementary" count="3"/>
+      <shelf name="2019-reads" count="3"/>
+      <shelf name="illustrations" count="3"/>
+      <shelf name="1st-grade" count="3"/>
+      <shelf name="juvenile" count="3"/>
+      <shelf name="2019-pub" count="3"/>
+      <shelf name="kid-s-books" count="2"/>
+      <shelf name="book-a-day" count="2"/>
+      <shelf name="age-children" count="2"/>
+      <shelf name="grca19" count="2"/>
+      <shelf name="families" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="for-the-kids" count="2"/>
+      <shelf name="2019-read" count="2"/>
+      <shelf name="kidlit" count="2"/>
+      <shelf name="childrens-picture" count="2"/>
+      <shelf name="bilderböcker" count="2"/>
+      <shelf name="creativity" count="2"/>
+      <shelf name="2nd" count="2"/>
+      <shelf name="picture-book-bedtime" count="2"/>
+      <shelf name="2019-releases" count="2"/>
+      <shelf name="read-alouds" count="2"/>
+      <shelf name="kids-picture-books" count="2"/>
+      <shelf name="preschool" count="2"/>
+      <shelf name="picturebook" count="2"/>
+      <shelf name="children-picture-books" count="2"/>
+      <shelf name="pb-bedtime" count="2"/>
+      <shelf name="school-age" count="2"/>
+      <shelf name="fathers" count="2"/>
+      <shelf name="asking-questions" count="2"/>
+      <shelf name="2nd-grade" count="2"/>
+      <shelf name="giveaway-entry" count="2"/>
+      <shelf name="2019-picture-book" count="2"/>
+      <shelf name="booklist-nypl-nyt-best-illustrated" count="1"/>
+      <shelf name="j-2019" count="1"/>
+      <shelf name="tbr-library" count="1"/>
+      <shelf name="pub-2019" count="1"/>
+      <shelf name="p-imagination" count="1"/>
+      <shelf name="p-bedtime" count="1"/>
+      <shelf name="p-all" count="1"/>
+      <shelf name="want-to-read-h2" count="1"/>
+      <shelf name="children-s-library" count="1"/>
+      <shelf name="2019-choice-awards" count="1"/>
+      <shelf name="e-books" count="1"/>
+      <shelf name="children-literature" count="1"/>
+      <shelf name="childrens-je" count="1"/>
+      <shelf name="picture-books-middle-grades-2019" count="1"/>
+      <shelf name="pisd-workshop-2020" count="1"/>
+      <shelf name="mentor-texts" count="1"/>
+      <shelf name="kid-stuff" count="1"/>
+      <shelf name="2019-119-book-project" count="1"/>
+      <shelf name="books-for-mirabel" count="1"/>
+      <shelf name="kiddie-lit" count="1"/>
+      <shelf name="for-fraser" count="1"/>
+      <shelf name="to-read-kids" count="1"/>
+      <shelf name="olivias-1000" count="1"/>
+      <shelf name="lukas-1000" count="1"/>
+      <shelf name="un-seul-volume" count="1"/>
+      <shelf name="lecture-terminée" count="1"/>
+      <shelf name="album" count="1"/>
+      <shelf name="ch-fic" count="1"/>
+      <shelf name="picture-books-read-in-2019" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>38595349</id>
+<title>Unicorn Day</title>
+<title_without_series>Unicorn Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38595349-unicorn-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>60200136</id>
+</work>
+<isbn>1492667226</isbn>
+<isbn13>9781492667223</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14153562</id>
+<name>Diana  Murray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14153562.Diana_Murray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41183554</id>
+<title>A Piglet Named Mercy</title>
+<title_without_series>A Piglet Named Mercy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41183554-a-piglet-named-mercy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64361636</id>
+</work>
+<isbn>0763677531</isbn>
+<isbn13>9780763677534</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822059</id>
+<title>Pokko and the Drum</title>
+<title_without_series>Pokko and the Drum</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822059-pokko-and-the-drum]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567951084l/43822059._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567951084l/43822059._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>68193993</id>
+</work>
+<isbn>1481480391</isbn>
+<isbn13>9781481480390</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>489939</id>
+<name>Matthew Forsythe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/489939.Matthew_Forsythe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38090144</id>
+<title>Sulwe</title>
+<title_without_series>Sulwe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38090144-sulwe]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>59759904</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17623053</id>
+<name>Lupita Nyong’o</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17623053.Lupita_Nyong_o]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41954471</id>
+<title><![CDATA[What If Everybody Thought That?]]></title>
+<title_without_series><![CDATA[What If Everybody Thought That?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41954471-what-if-everybody-thought-that]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554313139l/41954471._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554313139l/41954471._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>65462045</id>
+</work>
+<isbn>1542091373</isbn>
+<isbn13>9781542091374</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>493352</id>
+<name>Ellen Javernick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/493352.Ellen_Javernick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43503065</id>
+<title>I Want a Dog</title>
+<title_without_series>I Want a Dog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43503065-i-want-a-dog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566882045l/43503065._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566882045l/43503065._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>67657479</id>
+</work>
+<isbn>0525555463</isbn>
+<isbn13>9780525555469</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>87516</id>
+<name>Jon Agee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87516.Jon_Agee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41859658</id>
+<title>Who Wet My Pants?</title>
+<title_without_series>Who Wet My Pants?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41859658-who-wet-my-pants]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555733657l/41859658._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555733657l/41859658._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>65347109</id>
+</work>
+<isbn>0316525219</isbn>
+<isbn13>9780316525213</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43289978</id>
+<title>Small in the City</title>
+<title_without_series>Small in the City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43289978-small-in-the-city]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551843976l/43289978._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551843976l/43289978._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67177859</id>
+</work>
+<isbn>0823442616</isbn>
+<isbn13>9780823442614</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6434326</id>
+<name>Sydney  Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6434326.Sydney_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43853210</id>
+<title>The Proudest Blue</title>
+<title_without_series>The Proudest Blue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43853210-the-proudest-blue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549414261l/43853210._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549414261l/43853210._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68238463</id>
+</work>
+<isbn>0316519006</isbn>
+<isbn13>9780316519007</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>17325166</id>
+<name>Ibtihaj Muhammad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17325166.Ibtihaj_Muhammad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41451729</id>
+<title><![CDATA[Vacation for Dexter! (Dexter T. Rexter, #3)]]></title>
+<title_without_series>Vacation for Dexter!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41451729-vacation-for-dexter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541502318l/41451729._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541502318l/41451729._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64706452</id>
+</work>
+<isbn>1542043204</isbn>
+<isbn13>9781542043205</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3426409</id>
+<name>Lindsay Ward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3426409.Lindsay_Ward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45167777</id>
+<title>The Fate of Fausto</title>
+<title_without_series>The Fate of Fausto</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45167777-the-fate-of-fausto]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>69870067</id>
+</work>
+<isbn>0008357919</isbn>
+<isbn13>9780008357917</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43212545</id>
+<title>Spencer&apos;s New Pet</title>
+<title_without_series>Spencer&apos;s New Pet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43212545-spencer-s-new-pet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564945662l/43212545._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564945662l/43212545._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>67055901</id>
+</work>
+<isbn>1534418776</isbn>
+<isbn13>9781534418776</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>15290123</id>
+<name>Jessie Sima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15290123.Jessie_Sima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221498</id>
+<title>The Good Egg</title>
+<title_without_series>The Good Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221498-the-good-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>62460576</id>
+</work>
+<isbn>0062866001</isbn>
+<isbn13>9780062866004</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42350073</id>
+<title>How to Read a Book</title>
+<title_without_series>How to Read a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42350073-how-to-read-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65997738</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43387393</id>
+<title>A Stone Sat Still</title>
+<title_without_series>A Stone Sat Still</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43387393-a-stone-sat-still]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792296l/43387393._SX98_.jpg]]></image_url>
+<num_pages>50</num_pages>
+<work>
+<id>67409570</id>
+</work>
+<isbn>1452173184</isbn>
+<isbn13>9781452173184</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>7126026</id>
+<name>Brendan Wenzel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126026.Brendan_Wenzel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822466</id>
+<title>Fly!</title>
+<title_without_series>Fly!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822466-fly]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566731634l/43822466._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566731634l/43822466._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68194354</id>
+</work>
+<isbn>1534451285</isbn>
+<isbn13>9781534451285</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>46994</id>
+<name>Mark Teague</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46994.Mark_Teague]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42453554</id>
+<title>Why?</title>
+<title_without_series>Why?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42453554-why]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551796498l/42453554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551796498l/42453554._SX98_.jpg]]></image_url>
+<num_pages>60</num_pages>
+<work>
+<id>66184908</id>
+</work>
+<isbn>1452168636</isbn>
+<isbn13>9781452168630</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11137</id>
+<name>Adam Rex</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11137.Adam_Rex]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38791999</id>
+<title>Because</title>
+<title_without_series>Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38791999-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60366827</id>
+</work>
+<isbn>1368019013</isbn>
+<isbn13>9781368019019</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

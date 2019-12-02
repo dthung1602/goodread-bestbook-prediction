@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16250904</id>
+  <title><![CDATA[Unicorn Thinks He's Pretty Great]]></title>
+  <isbn><![CDATA[1423159527]]></isbn>
+  <isbn13><![CDATA[9781423159520]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Disney-Hyperion</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Hi, I'm Goat. <br /><br />Things were just fine around here until UNICORN showed up.<br /><br />So what if he can fly?<br /><br />Or make it rain cupcakes?<br /><br />And turn stuff into gold?<br /><br />Big deal. <br /><br />I can do some cool stuff too, like...<br /><br />Hey! What are you doing? Why are you opening the book?<br /><br />He's just going to tell you how great he is. Blah, blah, blah.<br /><br />Go ahead. Just don't say I didn't warn you.<br /><br />Dopey Unicorn.]]></description>
+  <work>
+  <id type="integer">22292082</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">16250904</best_book_id>
+  <reviews_count type="integer">8771</reviews_count>
+  <ratings_sum type="integer">21703</ratings_sum>
+  <ratings_count type="integer">5273</ratings_count>
+  <text_reviews_count type="integer">643</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title>Unicorn Thinks He's Pretty Great</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2197|4:1848|3:935|2:228|1:65|total:5273</rating_dist>
+  <desc_user_id type="integer">1630205</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.Vs-iobFVtnntDvjO3JOkHQ</work_uri>
+</work>
+  <average_rating>4.12</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5262]]></ratings_count>
+  <text_reviews_count><![CDATA[642]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16250904-unicorn-thinks-he-s-pretty-great]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16250904-unicorn-thinks-he-s-pretty-great]]></link>
+  <authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416809830p5/351550.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416809830p2/351550.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>32582</ratings_count>
+<text_reviews_count>4922</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16250904-unicorn-thinks-he-s-pretty-great">Unicorn Thinks He&#39;s Pretty Great Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1423159527&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16250904-unicorn-thinks-he-s-pretty-great?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2808"/>
+      <shelf name="picture-books" count="680"/>
+      <shelf name="picture-book" count="193"/>
+      <shelf name="childrens" count="148"/>
+      <shelf name="friendship" count="119"/>
+      <shelf name="humor" count="84"/>
+      <shelf name="children-s-books" count="82"/>
+      <shelf name="storytime" count="77"/>
+      <shelf name="children" count="74"/>
+      <shelf name="children-s" count="74"/>
+      <shelf name="animals" count="61"/>
+      <shelf name="unicorns" count="59"/>
+      <shelf name="kids" count="57"/>
+      <shelf name="fantasy" count="48"/>
+      <shelf name="fiction" count="48"/>
+      <shelf name="funny" count="39"/>
+      <shelf name="childrens-books" count="38"/>
+      <shelf name="kids-books" count="33"/>
+      <shelf name="jealousy" count="31"/>
+      <shelf name="favorites" count="30"/>
+      <shelf name="friends" count="28"/>
+      <shelf name="children-s-picture-books" count="27"/>
+      <shelf name="picturebooks" count="24"/>
+      <shelf name="goats" count="22"/>
+      <shelf name="picture" count="22"/>
+      <shelf name="read-aloud" count="21"/>
+      <shelf name="library" count="20"/>
+      <shelf name="read-in-2013" count="20"/>
+      <shelf name="preschool" count="19"/>
+      <shelf name="children-s-lit" count="19"/>
+      <shelf name="unicorn" count="15"/>
+      <shelf name="read-alouds" count="13"/>
+      <shelf name="children-s-literature" count="12"/>
+      <shelf name="feelings" count="12"/>
+      <shelf name="favorite-picture-books" count="12"/>
+      <shelf name="juvenile" count="12"/>
+      <shelf name="humorous" count="12"/>
+      <shelf name="story-time" count="11"/>
+      <shelf name="storytime-books" count="11"/>
+      <shelf name="kids-picture-books" count="11"/>
+      <shelf name="preschool-storytime" count="10"/>
+      <shelf name="childrens-picture-books" count="10"/>
+      <shelf name="library-book" count="9"/>
+      <shelf name="kid-lit" count="9"/>
+      <shelf name="childrens-lit" count="9"/>
+      <shelf name="elementary" count="8"/>
+      <shelf name="envy" count="8"/>
+      <shelf name="pb" count="8"/>
+      <shelf name="picture-books-read" count="8"/>
+      <shelf name="self-esteem" count="8"/>
+      <shelf name="currently-reading" count="7"/>
+      <shelf name="acceptance" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="2013-reads" count="7"/>
+      <shelf name="pb-friendship" count="6"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="kid-books" count="6"/>
+      <shelf name="funny-picture-books" count="6"/>
+      <shelf name="magic" count="6"/>
+      <shelf name="kiddos" count="6"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="classroom-library" count="5"/>
+      <shelf name="school" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="children-s-fiction" count="5"/>
+      <shelf name="2013-picture-books" count="5"/>
+      <shelf name="disney-hyperion" count="5"/>
+      <shelf name="imagination" count="5"/>
+      <shelf name="children-picture" count="5"/>
+      <shelf name="for-kids" count="5"/>
+      <shelf name="kindergarten" count="5"/>
+      <shelf name="edrd-314" count="4"/>
+      <shelf name="story-time-books" count="4"/>
+      <shelf name="emma" count="4"/>
+      <shelf name="read-2014" count="4"/>
+      <shelf name="kidlit" count="4"/>
+      <shelf name="books-for-kids" count="4"/>
+      <shelf name="read-to-kids" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="theme" count="4"/>
+      <shelf name="children-ya" count="4"/>
+      <shelf name="goat" count="4"/>
+      <shelf name="kids-stuff" count="4"/>
+      <shelf name="being-yourself" count="4"/>
+      <shelf name="making-friends" count="4"/>
+      <shelf name="classroom" count="4"/>
+      <shelf name="silly" count="4"/>
+      <shelf name="good-read-aloud" count="4"/>
+      <shelf name="character-ed" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="picture-books-to-read" count="4"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="edu316" count="3"/>
+      <shelf name="edu-316" count="3"/>
+      <shelf name="1-000-books-before-kindergarten" count="3"/>
+      <shelf name="self-acceptance" count="3"/>
+      <shelf name="1000-books-before-kindergarten" count="3"/>
+      <shelf name="to-read-childrens" count="3"/>
+      <shelf name="mythical-creatures" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17333265</id>
+<title>Mr. Tiger Goes Wild</title>
+<title_without_series>Mr. Tiger Goes Wild</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333265-mr-tiger-goes-wild]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24064569</id>
+</work>
+<isbn>0316200638</isbn>
+<isbn13>9780316200639</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25689017</id>
+<title><![CDATA[A Unicorn Named Sparkle (A Unicorn Named Sparkle #1)]]></title>
+<title_without_series>A Unicorn Named Sparkle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25689017-a-unicorn-named-sparkle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454880543l/25689017._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454880543l/25689017._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>45517422</id>
+</work>
+<isbn>0374301859</isbn>
+<isbn13>9780374301859</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>146859</id>
+<name>Amy Young</name>
+<link><![CDATA[https://www.goodreads.com/author/show/146859.Amy_Young]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41735921</id>
+<title><![CDATA[The Pigeon Has to Go to School]]></title>
+<title_without_series><![CDATA[The Pigeon Has to Go to School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41735921-the-pigeon-has-to-go-to-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536365316l/41735921._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536365316l/41735921._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>65122143</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31342180</id>
+<title>The Great Indoors</title>
+<title_without_series>The Great Indoors</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31342180-the-great-indoors]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538484702l/31342180._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538484702l/31342180._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>52017306</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>13922414</id>
+<name>Julie Falatko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13922414.Julie_Falatko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13792594</id>
+<title>It&apos;s a Tiger!</title>
+<title_without_series>It&apos;s a Tiger!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13792594-it-s-a-tiger]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341006707l/13792594._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341006707l/13792594._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>19426470</id>
+</work>
+<isbn>0811869253</isbn>
+<isbn13>9780811869256</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>191508</id>
+<name>David LaRochelle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/191508.David_LaRochelle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38595349</id>
+<title>Unicorn Day</title>
+<title_without_series>Unicorn Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38595349-unicorn-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>60200136</id>
+</work>
+<isbn>1492667226</isbn>
+<isbn13>9781492667223</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14153562</id>
+<name>Diana  Murray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14153562.Diana_Murray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16109187</id>
+<title>Crankenstein</title>
+<title_without_series>Crankenstein</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16109187-crankenstein]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352151785l/16109187._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352151785l/16109187._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21923243</id>
+</work>
+<isbn>031612656X</isbn>
+<isbn13>9780316126564</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>126530</id>
+<name>Samantha Berger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126530.Samantha_Berger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16285053</id>
+<title>That Is Not a Good Idea!</title>
+<title_without_series>That Is Not a Good Idea!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>22400269</id>
+</work>
+<isbn>0062203096</isbn>
+<isbn13>9780062203090</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101018</id>
+<title>The Day the Crayons Quit</title>
+<title_without_series>The Day the Crayons Quit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX98_.jpg]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>21911319</id>
+</work>
+<isbn>0399255370</isbn>
+<isbn13>9780399255373</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29068867</id>
+<title>You Don&apos;t Want a Unicorn!</title>
+<title_without_series>You Don&apos;t Want a Unicorn!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29068867-you-don-t-want-a-unicorn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485204643l/29068867._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485204643l/29068867._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>49298146</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20307024</id>
+<title>Wolfie the Bunny</title>
+<title_without_series>Wolfie the Bunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20307024-wolfie-the-bunny]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>28141570</id>
+</work>
+<isbn>0316226149</isbn>
+<isbn13>9780316226141</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16650266</id>
+<title>Count the Monkeys</title>
+<title_without_series>Count the Monkeys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16650266-count-the-monkeys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564793l/16650266._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564793l/16650266._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22856763</id>
+</work>
+<isbn>1423160657</isbn>
+<isbn13>9781423160656</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38791999</id>
+<title>Because</title>
+<title_without_series>Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38791999-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60366827</id>
+</work>
+<isbn>1368019013</isbn>
+<isbn13>9781368019019</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18349884</id>
+<title><![CDATA[My Teacher Is a Monster! (No, I Am Not.)]]></title>
+<title_without_series>My Teacher Is a Monster!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18349884-my-teacher-is-a-monster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25947111</id>
+</work>
+<isbn>0316070297</isbn>
+<isbn13>9780316070294</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30312747</id>
+<title>Not Quite Narwhal</title>
+<title_without_series>Not Quite Narwhal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30312747-not-quite-narwhal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476030563l/30312747._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476030563l/30312747._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>50799503</id>
+</work>
+<isbn>1481469096</isbn>
+<isbn13>9781481469098</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>15290123</id>
+<name>Jessie Sima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15290123.Jessie_Sima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18225019</id>
+<title><![CDATA[Uni the Unicorn (Uni the Unicorn, #1)]]></title>
+<title_without_series>Uni the Unicorn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18225019-uni-the-unicorn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389593458l/18225019._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389593458l/18225019._SX98_.jpg]]></image_url>
+<num_pages>38</num_pages>
+<work>
+<id>25659590</id>
+</work>
+<isbn>0375972064</isbn>
+<isbn13>9780375972065</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221498</id>
+<title>The Good Egg</title>
+<title_without_series>The Good Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221498-the-good-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>62460576</id>
+</work>
+<isbn>0062866001</isbn>
+<isbn13>9780062866004</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43208925</id>
+<title>The Scarecrow</title>
+<title_without_series>The Scarecrow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43208925-the-scarecrow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554068414l/43208925._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554068414l/43208925._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67049699</id>
+</work>
+<isbn>0062475762</isbn>
+<isbn13>9780062475763</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>5273</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8393959</id>
+<name>Beth Ferry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8393959.Beth_Ferry]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

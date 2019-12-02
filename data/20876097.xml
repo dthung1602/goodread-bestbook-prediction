@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20876097</id>
+  <title>Tied (Tangled, #4)</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00IWTWFOU]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398355635l/20876097._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398355635l/20876097._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Gallery Books </publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[In the fourth sexy romance by the New York Times bestselling author of Tangled and Twisted, Drew and Kate can’t wait to tie the knot—if they can survive the pre-wedding festivities.<br /><br />For most of my life, I never imagined I’d get married. But Kate did the impossible: she changed me. I think we can all agree I was pretty frigging awesome before, but now I’m even better.<br /><br />The road to this day wasn’t all rainbows and boners. There were mistakes and misunderstandings worthy of a Greek tragedy. But Kate and I made it through with our inexhaustible lust, boundless admiration, and everlasting love for one another intact.<br /><br />That being said, there were some unexpected incidents in Vegas last weekend that could have been a problem. It was kind of... my final test.<br /><br />I know what you’re thinking—what the hell did you do this time? Relax. Let’s not judge, or call for my castration, until you've heard the whole story.<br /><br />And hold on tight, because you’re in for a wild ride. Did you expect anything less?]]></description>
+  <work>
+  <id type="integer">40215475</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">20876097</best_book_id>
+  <reviews_count type="integer">33005</reviews_count>
+  <ratings_sum type="integer">65420</ratings_sum>
+  <ratings_count type="integer">15420</ratings_count>
+  <text_reviews_count type="integer">1430</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">7</original_publication_day>
+  <original_title>Tied</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7262|4:5370|3:2195|2:452|1:141|total:15420</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.RL3_AVpY9bJ5P1p7a05VwA</work_uri>
+</work>
+  <average_rating>4.24</average_rating>
+  <num_pages><![CDATA[256]]></num_pages>
+  <format><![CDATA[Kindle Edition]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[14515]]></ratings_count>
+  <text_reviews_count><![CDATA[1254]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20876097-tied]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20876097-tied]]></link>
+  <authors>
+<author>
+<id>6551005</id>
+<name>Emma Chase</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349731311p5/6551005.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349731311p2/6551005.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6551005.Emma_Chase]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>345434</ratings_count>
+<text_reviews_count>35072</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20876097-tied">Tied Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00IWTWFOU&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20876097-tied?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="13173"/>
+      <shelf name="romance" count="381"/>
+      <shelf name="favorites" count="301"/>
+      <shelf name="currently-reading" count="248"/>
+      <shelf name="contemporary-romance" count="155"/>
+      <shelf name="contemporary" count="151"/>
+      <shelf name="series" count="139"/>
+      <shelf name="funny" count="105"/>
+      <shelf name="new-adult" count="102"/>
+      <shelf name="adult" count="82"/>
+      <shelf name="emma-chase" count="74"/>
+      <shelf name="humor" count="67"/>
+      <shelf name="audiobook" count="54"/>
+      <shelf name="chick-lit" count="51"/>
+      <shelf name="male-pov" count="51"/>
+      <shelf name="erotica" count="42"/>
+      <shelf name="ebook" count="41"/>
+      <shelf name="kindle" count="38"/>
+      <shelf name="read-in-2014" count="35"/>
+      <shelf name="erotic-romance" count="28"/>
+      <shelf name="audiobooks" count="26"/>
+      <shelf name="favorite" count="26"/>
+      <shelf name="4-stars" count="25"/>
+      <shelf name="read-2014" count="25"/>
+      <shelf name="book-boyfriend" count="25"/>
+      <shelf name="tangled" count="25"/>
+      <shelf name="favourites" count="24"/>
+      <shelf name="favorite-series" count="24"/>
+      <shelf name="audio" count="24"/>
+      <shelf name="owned" count="23"/>
+      <shelf name="5-stars" count="22"/>
+      <shelf name="romantic-comedy" count="21"/>
+      <shelf name="alpha-male" count="21"/>
+      <shelf name="part-of-a-series" count="21"/>
+      <shelf name="book-boyfriends" count="20"/>
+      <shelf name="2014-reads" count="20"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="arc" count="19"/>
+      <shelf name="read-in-2015" count="18"/>
+      <shelf name="hilarious" count="18"/>
+      <shelf name="comedy" count="17"/>
+      <shelf name="ebooks" count="17"/>
+      <shelf name="fiction" count="16"/>
+      <shelf name="2015-reads" count="15"/>
+      <shelf name="books-i-own" count="15"/>
+      <shelf name="erotic" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="made-me-laugh" count="14"/>
+      <shelf name="lol" count="14"/>
+      <shelf name="humour" count="14"/>
+      <shelf name="audible" count="14"/>
+      <shelf name="laugh-out-loud" count="14"/>
+      <shelf name="read-in-2017" count="13"/>
+      <shelf name="read-2015" count="13"/>
+      <shelf name="romance-contemporary" count="13"/>
+      <shelf name="office-romance" count="12"/>
+      <shelf name="funny-as-hell" count="12"/>
+      <shelf name="ibooks" count="12"/>
+      <shelf name="hea" count="12"/>
+      <shelf name="rom-com" count="12"/>
+      <shelf name="audio-books" count="12"/>
+      <shelf name="favorite-authors" count="12"/>
+      <shelf name="adult-romance" count="12"/>
+      <shelf name="adult-fiction" count="12"/>
+      <shelf name="2014-read" count="11"/>
+      <shelf name="humorous" count="11"/>
+      <shelf name="romcom" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="all-time-favorites" count="10"/>
+      <shelf name="steamy" count="10"/>
+      <shelf name="na" count="10"/>
+      <shelf name="read-2017" count="9"/>
+      <shelf name="loved-it" count="9"/>
+      <shelf name="fun" count="9"/>
+      <shelf name="3-stars" count="9"/>
+      <shelf name="read-in-english" count="9"/>
+      <shelf name="faves" count="9"/>
+      <shelf name="2014-releases" count="9"/>
+      <shelf name="october-2014" count="9"/>
+      <shelf name="wish-list" count="9"/>
+      <shelf name="oct-2014" count="9"/>
+      <shelf name="2015-read" count="8"/>
+      <shelf name="lost-interest" count="8"/>
+      <shelf name="paperback" count="8"/>
+      <shelf name="hot" count="8"/>
+      <shelf name="chase-emma" count="8"/>
+      <shelf name="e-books" count="8"/>
+      <shelf name="netgalley" count="8"/>
+      <shelf name="part-of-series" count="8"/>
+      <shelf name="to-be-released" count="8"/>
+      <shelf name="audio-book" count="7"/>
+      <shelf name="love" count="7"/>
+      <shelf name="bad-boys" count="7"/>
+      <shelf name="dnf" count="7"/>
+      <shelf name="swoon-worthy" count="7"/>
+      <shelf name="bad-boy" count="7"/>
+      <shelf name="downloaded" count="7"/>
+      <shelf name="favs" count="7"/>
+      <shelf name="series-to-finish" count="7"/>
+      <shelf name="tbr" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>597613</id>
+<user_position>4</user_position>
+<series>
+<id>104332</id>
+<title>
+<![CDATA[
+    Tangled
+]]>
+</title>
+<description>
+<![CDATA[
+    Also known as:
+    French - <i>Love Game</i>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>14</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>18775203</id>
+<title>Rusty Nailed (Cocktail, #2)</title>
+<title_without_series>Rusty Nailed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18775203-rusty-nailed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470670923l/18775203._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470670923l/18775203._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>26680333</id>
+</work>
+<isbn>1476766665</isbn>
+<isbn13>9781476766669</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3379564</id>
+<name>Alice Clayton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3379564.Alice_Clayton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21412215</id>
+<title>Last Call (Cocktail, #4.5)</title>
+<title_without_series>Last Call</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21412215-last-call]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455477908l/21412215._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455477908l/21412215._SX98_.jpg]]></image_url>
+<num_pages>135</num_pages>
+<work>
+<id>40713219</id>
+</work>
+<isbn>1476766762</isbn>
+<isbn13>9781476766768</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3379564</id>
+<name>Alice Clayton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3379564.Alice_Clayton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18775664</id>
+<title>Mai Tai&apos;d Up (Cocktail, #4)</title>
+<title_without_series>Mai Tai&apos;d Up</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18775664-mai-tai-d-up]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395238903l/18775664._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395238903l/18775664._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>26680950</id>
+</work>
+<isbn>1476766746</isbn>
+<isbn13>9781476766744</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>12</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3379564</id>
+<name>Alice Clayton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3379564.Alice_Clayton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21412502</id>
+<title>Baby, It&apos;s Cold Outside</title>
+<title_without_series>Baby, It&apos;s Cold Outside</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21412502-baby-it-s-cold-outside]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414368698l/21412502._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414368698l/21412502._SY160_.jpg]]></image_url>
+<num_pages>534</num_pages>
+<work>
+<id>40713419</id>
+</work>
+<isbn>1476783837</isbn>
+<isbn13>9781476783833</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2965489</id>
+<name>Jennifer Probst</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2965489.Jennifer_Probst]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18759748</id>
+<title>Screwdrivered (Cocktail, #3)</title>
+<title_without_series>Screwdrivered</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18759748-screwdrivered]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387087555l/18759748._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387087555l/18759748._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>26655402</id>
+</work>
+<isbn>147676672X</isbn>
+<isbn13>9781476766720</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3379564</id>
+<name>Alice Clayton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3379564.Alice_Clayton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15858248</id>
+<title>Wallbanger (Cocktail, #1)</title>
+<title_without_series>Wallbanger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15858248-wallbanger]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352205960l/15858248._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352205960l/15858248._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>21607771</id>
+</work>
+<isbn>1623420024</isbn>
+<isbn13>9781623420024</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3379564</id>
+<name>Alice Clayton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3379564.Alice_Clayton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16117506</id>
+<title><![CDATA[Beautiful Stranger (Beautiful Bastard, #2)]]></title>
+<title_without_series>Beautiful Stranger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16117506-beautiful-stranger]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359073239l/16117506._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359073239l/16117506._SX98_.jpg]]></image_url>
+<num_pages>345</num_pages>
+<work>
+<id>21935683</id>
+</work>
+<isbn>1476731535</isbn>
+<isbn13>9781476731537</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17831616</id>
+<title><![CDATA[Beautiful Bitch (Beautiful Bastard, #1.5)]]></title>
+<title_without_series>Beautiful Bitch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17831616-beautiful-bitch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368101793l/17831616._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368101793l/17831616._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>24948170</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31140847</id>
+<title>Bossman</title>
+<title_without_series>Bossman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31140847-bossman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>319</num_pages>
+<work>
+<id>50572087</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6887119</id>
+<name>Vi Keeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6887119.Vi_Keeland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28477789</id>
+<title>Stuck-Up Suit</title>
+<title_without_series>Stuck-Up Suit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28477789-stuck-up-suit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456315337l/28477789._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456315337l/28477789._SX98_.jpg]]></image_url>
+<num_pages>245</num_pages>
+<work>
+<id>48619088</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>6887119</id>
+<name>Vi Keeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6887119.Vi_Keeland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28597587</id>
+<title>The Baller</title>
+<title_without_series>The Baller</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28597587-the-baller]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>285</num_pages>
+<work>
+<id>47453830</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6887119</id>
+<name>Vi Keeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6887119.Vi_Keeland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7743783</id>
+<title><![CDATA[The Unidentified Redhead (Redhead, #1)]]></title>
+<title_without_series>The Unidentified Redhead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7743783-the-unidentified-redhead]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355688970l/7743783._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355688970l/7743783._SX98_.jpg]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>10561678</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3379564</id>
+<name>Alice Clayton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3379564.Alice_Clayton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17831614</id>
+<title><![CDATA[Beautiful Player (Beautiful Bastard, #3)]]></title>
+<title_without_series>Beautiful Player</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17831614-beautiful-player]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375285002l/17831614._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375285002l/17831614._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>24948167</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17831617</id>
+<title><![CDATA[Beautiful Bombshell (Beautiful Bastard, #2.5)]]></title>
+<title_without_series>Beautiful Bombshell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17831617-beautiful-bombshell]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373436923l/17831617._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373436923l/17831617._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>24948174</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22431039</id>
+<title><![CDATA[Beautiful Secret (Beautiful Bastard, #4)]]></title>
+<title_without_series>Beautiful Secret</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22431039-beautiful-secret]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416624825l/22431039._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416624825l/22431039._SX98_.jpg]]></image_url>
+<num_pages>401</num_pages>
+<work>
+<id>41852426</id>
+</work>
+<isbn>1476778019</isbn>
+<isbn13>9781476778013</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17831619</id>
+<title><![CDATA[Beautiful Beginning (Beautiful Bastard, #3.5)]]></title>
+<title_without_series>Beautiful Beginning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17831619-beautiful-beginning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377128262l/17831619._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377128262l/17831619._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>24948181</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21411902</id>
+<title><![CDATA[Dirty Rowdy Thing (Wild Seasons, #2)]]></title>
+<title_without_series>Dirty Rowdy Thing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21411902-dirty-rowdy-thing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397738746l/21411902._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397738746l/21411902._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>40277014</id>
+</work>
+<isbn>1476777969</isbn>
+<isbn13>9781476777962</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18775297</id>
+<title><![CDATA[Sweet Filthy Boy (Wild Seasons, #1)]]></title>
+<title_without_series>Sweet Filthy Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18775297-sweet-filthy-boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395723782l/18775297._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395723782l/18775297._SX98_.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>26751379</id>
+</work>
+<isbn>1476751803</isbn>
+<isbn13>9781476751801</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15420</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>6556689</id>
+<name>Christina Lauren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556689.Christina_Lauren]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

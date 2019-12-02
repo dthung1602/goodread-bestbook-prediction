@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36739330</id>
+  <title><![CDATA[Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures]]></title>
+  <isbn><![CDATA[0735224560]]></isbn>
+  <isbn13><![CDATA[9780735224568]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516122268l/36739330._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516122268l/36739330._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>Viking</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The Smithsonian's star paleontologist takes us to the ends of the earth and to the cutting edge of whale research</b><br /><br />Whales are among the largest, most intelligent, deepest diving species to have ever lived on our planet. They evolved from land-roaming, dog-like creatures into animals that move like fish, breathe like us, can grow to 300,000 pounds, live 200 years and roam entire ocean basins. Whales fill us with terror, awe, and affection--yet we know hardly anything about them, and they only enter our awareness when they die, struck by a ship or stranded in the surf. Why did it take whales over 50 million years to evolve to such big sizes, and how do they eat enough to stay that big? How did their ancestors return from land to the sea? Why do they beach themselves? What do their lives tell us about our oceans, and evolution as a whole? Importantly, in the sweepstakes of human-driven habitat and climate change, will whales survive?<br /><br />Nick Pyenson's research has given us the answers to some of our biggest questions about whales. Nick's rich storytelling takes us to the cool halls deep inside the Smithsonian's priceless fossil collection, to the frigid fishing decks on Antarctic whaling stations, and to the blazing hot desert of Chile where scientists race against time to document the largest fossil whalebone site on earth. <i>Spying on Whales</i> is science writing at its best: an author who is an incredible, passionate writer, at the forefront of his field, on a topic that invokes deep fascination.]]></description>
+  <work>
+  <id type="integer">58531415</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">36739330</best_book_id>
+  <reviews_count type="integer">18348</reviews_count>
+  <ratings_sum type="integer">5777</ratings_sum>
+  <ratings_count type="integer">1531</ratings_count>
+  <text_reviews_count type="integer">262</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">26</original_publication_day>
+  <original_title>Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:344|4:615|3:470|2:85|1:17|total:1531</rating_dist>
+  <desc_user_id type="integer">2665050</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.9xiEKCGaH_syVV_CqWMxdg</work_uri>
+</work>
+  <average_rating>3.77</average_rating>
+  <num_pages><![CDATA[336]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1371]]></ratings_count>
+  <text_reviews_count><![CDATA[234]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36739330-spying-on-whales]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36739330-spying-on-whales]]></link>
+  <authors>
+<author>
+<id>15984816</id>
+<name>Nick Pyenson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15984816.Nick_Pyenson]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>1521</ratings_count>
+<text_reviews_count>259</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36739330-spying-on-whales">Spying on Whales Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0735224560&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36739330-spying-on-whales?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="16005"/>
+      <shelf name="currently-reading" count="350"/>
+      <shelf name="non-fiction" count="247"/>
+      <shelf name="science" count="203"/>
+      <shelf name="nonfiction" count="142"/>
+      <shelf name="animals" count="72"/>
+      <shelf name="nature" count="65"/>
+      <shelf name="history" count="22"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="audiobook" count="16"/>
+      <shelf name="natural-history" count="12"/>
+      <shelf name="to-read-non-fiction" count="12"/>
+      <shelf name="read-in-2019" count="10"/>
+      <shelf name="adult" count="10"/>
+      <shelf name="biology" count="10"/>
+      <shelf name="whales" count="10"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="library" count="9"/>
+      <shelf name="environment" count="9"/>
+      <shelf name="to-read-nonfiction" count="9"/>
+      <shelf name="wish-list" count="9"/>
+      <shelf name="giveaways" count="9"/>
+      <shelf name="2018-releases" count="8"/>
+      <shelf name="audiobooks" count="7"/>
+      <shelf name="science-and-nature" count="6"/>
+      <shelf name="books-i-own" count="6"/>
+      <shelf name="science-nature" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="audio" count="6"/>
+      <shelf name="ocean" count="6"/>
+      <shelf name="tbr-non-fiction" count="5"/>
+      <shelf name="kindle" count="5"/>
+      <shelf name="wildlife" count="5"/>
+      <shelf name="read-in-2018" count="5"/>
+      <shelf name="non-fiction-to-read" count="5"/>
+      <shelf name="nonfic" count="5"/>
+      <shelf name="2019-reads" count="4"/>
+      <shelf name="popular-science" count="4"/>
+      <shelf name="environmental" count="4"/>
+      <shelf name="conservation" count="4"/>
+      <shelf name="non-fic" count="4"/>
+      <shelf name="general-science" count="4"/>
+      <shelf name="nonfiction-to-read" count="4"/>
+      <shelf name="natural-world" count="3"/>
+      <shelf name="owned-tbr" count="3"/>
+      <shelf name="tbr-2019" count="3"/>
+      <shelf name="2019-reading-challenge" count="3"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="zoology" count="3"/>
+      <shelf name="goodreads-choice-awards" count="3"/>
+      <shelf name="read-2018" count="3"/>
+      <shelf name="pop-science" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="didn-t-finish" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="nf-science" count="3"/>
+      <shelf name="science-technology" count="3"/>
+      <shelf name="tbr-nonfiction" count="3"/>
+      <shelf name="marine-biology" count="3"/>
+      <shelf name="at-library" count="3"/>
+      <shelf name="first-reads" count="3"/>
+      <shelf name="evolution" count="3"/>
+      <shelf name="adult-nonfiction" count="3"/>
+      <shelf name="to-read-science" count="3"/>
+      <shelf name="research" count="3"/>
+      <shelf name="arc" count="3"/>
+      <shelf name="2020-reading-list" count="2"/>
+      <shelf name="nature-conservation" count="2"/>
+      <shelf name="knowledge" count="2"/>
+      <shelf name="wanted" count="2"/>
+      <shelf name="nonfiction-wtr" count="2"/>
+      <shelf name="2019-to-read" count="2"/>
+      <shelf name="book-club" count="2"/>
+      <shelf name="favourites" count="2"/>
+      <shelf name="tried-and-failed" count="2"/>
+      <shelf name="favorites" count="2"/>
+      <shelf name="other-non-fiction" count="2"/>
+      <shelf name="pop-sci" count="2"/>
+      <shelf name="2019-reading-list" count="2"/>
+      <shelf name="my-library" count="2"/>
+      <shelf name="science-fact" count="2"/>
+      <shelf name="reading-challenge-2019" count="2"/>
+      <shelf name="water" count="2"/>
+      <shelf name="american-author" count="2"/>
+      <shelf name="animal" count="2"/>
+      <shelf name="gcac_2019" count="2"/>
+      <shelf name="wtr-nonfiction" count="2"/>
+      <shelf name="2018-19" count="2"/>
+      <shelf name="animal-behavior" count="2"/>
+      <shelf name="gcac-2019" count="2"/>
+      <shelf name="gift-ideas" count="2"/>
+      <shelf name="science-medicine" count="2"/>
+      <shelf name="4-stars" count="2"/>
+      <shelf name="2018-reading-challenge" count="2"/>
+      <shelf name="audio-books" count="2"/>
+      <shelf name="historical" count="2"/>
+      <shelf name="must-read" count="2"/>
+      <shelf name="e-books" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>35068612</id>
+<title><![CDATA[The Rise and Fall of the Dinosaurs: A New History of a Lost World]]></title>
+<title_without_series><![CDATA[The Rise and Fall of the Dinosaurs: A New History of a Lost World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068612-the-rise-and-fall-of-the-dinosaurs]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516138953l/35068612._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516138953l/35068612._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>56364062</id>
+</work>
+<isbn>0062490451</isbn>
+<isbn13>9780062490452</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1212001</id>
+<name>Stephen Brusatte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1212001.Stephen_Brusatte]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42079235</id>
+<title><![CDATA[Emperors of the Deep: Sharks--The Ocean's Most Mysterious, Most Misunderstood, and Most Important Guardians]]></title>
+<title_without_series><![CDATA[Emperors of the Deep: Sharks--The Ocean's Most Mysterious, Most Misunderstood, and Most Important Guardians]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42079235-emperors-of-the-deep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552870474l/42079235._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552870474l/42079235._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>65621032</id>
+</work>
+<isbn>0062880322</isbn>
+<isbn13>9780062880321</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>18005650</id>
+<name>William McKeever</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18005650.William_McKeever]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39345591</id>
+<title><![CDATA[Eager: The Surprising, Secret Life of Beavers and Why They Matter]]></title>
+<title_without_series><![CDATA[Eager: The Surprising, Secret Life of Beavers and Why They Matter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39345591-eager]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521720745l/39345591._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521720745l/39345591._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>60994905</id>
+</work>
+<isbn>160358739X</isbn>
+<isbn13>9781603587396</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>18092405</id>
+<name>Ben  Goldfarb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18092405.Ben_Goldfarb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38212104</id>
+<title><![CDATA[End of the Megafauna: The Fate of the World's Hugest, Fiercest, and Strangest Animals]]></title>
+<title_without_series><![CDATA[End of the Megafauna: The Fate of the World's Hugest, Fiercest, and Strangest Animals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38212104-end-of-the-megafauna]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519674713l/38212104._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519674713l/38212104._SX98_.jpg]]></image_url>
+<num_pages>236</num_pages>
+<work>
+<id>59883938</id>
+</work>
+<isbn>0393249298</isbn>
+<isbn13>9780393249293</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3178732</id>
+<name>Ross D.E. MacPhee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3178732.Ross_D_E_MacPhee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36391536</id>
+<title><![CDATA[She Has Her Mother's Laugh: The Powers, Perversions, and Potential of Heredity]]></title>
+<title_without_series><![CDATA[She Has Her Mother's Laugh: The Powers, Perversions, and Potential of Heredity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36391536-she-has-her-mother-s-laugh]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511221974l/36391536._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511221974l/36391536._SX98_.jpg]]></image_url>
+<num_pages>657</num_pages>
+<work>
+<id>58083603</id>
+</work>
+<isbn>1101984597</isbn>
+<isbn13>9781101984598</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>12815</id>
+<name>Carl Zimmer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12815.Carl_Zimmer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39074646</id>
+<title><![CDATA[18 Miles: The Epic Drama of Our Atmosphere and Its Weather]]></title>
+<title_without_series><![CDATA[18 Miles: The Epic Drama of Our Atmosphere and Its Weather]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39074646-18-miles]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521066220l/39074646._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521066220l/39074646._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>60629936</id>
+</work>
+<isbn>1770413464</isbn>
+<isbn13>9781770413467</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>267112</id>
+<name>Christopher Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/267112.Christopher_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38746164</id>
+<title><![CDATA[Seaweed Chronicles: A World at the Water’s Edge]]></title>
+<title_without_series><![CDATA[Seaweed Chronicles: A World at the Water’s Edge]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38746164-seaweed-chronicles]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532868523l/38746164._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532868523l/38746164._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>60335257</id>
+</work>
+<isbn>1616205741</isbn>
+<isbn13>9781616205744</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>121695</id>
+<name>Susan Hand Shetterly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/121695.Susan_Hand_Shetterly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36896098</id>
+<title><![CDATA[Orca: How We Came to Know and Love the Ocean's Greatest Predator]]></title>
+<title_without_series><![CDATA[Orca: How We Came to Know and Love the Ocean's Greatest Predator]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36896098-orca]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515309510l/36896098._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515309510l/36896098._SX98_.jpg]]></image_url>
+<num_pages>408</num_pages>
+<work>
+<id>58656156</id>
+</work>
+<isbn>0190673095</isbn>
+<isbn13>9780190673093</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5441621</id>
+<name>Jason M. Colby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5441621.Jason_M_Colby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373639</id>
+<title><![CDATA[The Tangled Tree: A Radical New History of Life]]></title>
+<title_without_series><![CDATA[The Tangled Tree: A Radical New History of Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373639-the-tangled-tree]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529161058l/36373639._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529161058l/36373639._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>58060888</id>
+</work>
+<isbn>1476776628</isbn>
+<isbn13>9781476776620</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>32307</id>
+<name>David Quammen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32307.David_Quammen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23719330</id>
+<title><![CDATA[The Secret Lives of Bats: My Adventures with the World's Most Misunderstood Mammals]]></title>
+<title_without_series><![CDATA[The Secret Lives of Bats: My Adventures with the World's Most Misunderstood Mammals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23719330-the-secret-lives-of-bats]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421139960l/23719330._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421139960l/23719330._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>43328875</id>
+</work>
+<isbn>0544382277</isbn>
+<isbn13>9780544382275</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>10688387</id>
+<name>Merlin Tuttle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10688387.Merlin_Tuttle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40180060</id>
+<title><![CDATA[Mama's Last Hug: Animal Emotions and What They Tell Us about Ourselves]]></title>
+<title_without_series><![CDATA[Mama's Last Hug: Animal Emotions and What They Tell Us about Ourselves]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40180060-mama-s-last-hug]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543938852l/40180060._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543938852l/40180060._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>62339663</id>
+</work>
+<isbn>0393635066</isbn>
+<isbn13>9780393635065</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>112082</id>
+<name>Frans de Waal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112082.Frans_de_Waal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34758417</id>
+<title><![CDATA[Spineless: The Science of Jellyfish and the Art of Growing a Backbone]]></title>
+<title_without_series><![CDATA[Spineless: The Science of Jellyfish and the Art of Growing a Backbone]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34758417-spineless]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498858782l/34758417._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498858782l/34758417._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>55956388</id>
+</work>
+<isbn>0735211264</isbn>
+<isbn13>9780735211261</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>2070533</id>
+<name>Juli Berwald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2070533.Juli_Berwald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38743554</id>
+<title><![CDATA[The Dinosaur Artist: Obsession, Betrayal, and the Quest for Earth's Ultimate Trophy]]></title>
+<title_without_series><![CDATA[The Dinosaur Artist: Obsession, Betrayal, and the Quest for Earth's Ultimate Trophy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38743554-the-dinosaur-artist]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525270142l/38743554._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525270142l/38743554._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>60332639</id>
+</work>
+<isbn>0316382531</isbn>
+<isbn13>9780316382533</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>18236651</id>
+<name>Paige  Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18236651.Paige_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34211802</id>
+<title><![CDATA[The Unexpected Truth About Animals: A Menagerie of the Misunderstood]]></title>
+<title_without_series><![CDATA[The Unexpected Truth About Animals: A Menagerie of the Misunderstood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34211802-the-unexpected-truth-about-animals]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>55259304</id>
+</work>
+<isbn>0857524119</isbn>
+<isbn13>9780857524119</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>5398583</id>
+<name>Lucy Cooke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5398583.Lucy_Cooke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43131602</id>
+<title><![CDATA[Into the Planet: My Life as a Cave Diver]]></title>
+<title_without_series><![CDATA[Into the Planet: My Life as a Cave Diver]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43131602-into-the-planet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563335080l/43131602._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563335080l/43131602._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>55357537</id>
+</work>
+<isbn>0062691546</isbn>
+<isbn13>9780062691545</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>3393617</id>
+<name>Jill Heinerth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3393617.Jill_Heinerth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44153387</id>
+<title>The Feather Thief</title>
+<title_without_series>The Feather Thief</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44153387-the-feather-thief]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792197l/44153387._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551792197l/44153387._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>57423406</id>
+</work>
+<isbn>1101981636</isbn>
+<isbn13>9781101981634</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>17074309</id>
+<name>Kirk Wallace Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17074309.Kirk_Wallace_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36873421</id>
+<title><![CDATA[Eye of the Shoal: A Fishwatcher's Guide to Life, the Ocean and Everything]]></title>
+<title_without_series><![CDATA[Eye of the Shoal: A Fishwatcher's Guide to Life, the Ocean and Everything]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36873421-eye-of-the-shoal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517241356l/36873421._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517241356l/36873421._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>58639334</id>
+</work>
+<isbn>1472936841</isbn>
+<isbn13>9781472936844</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>2940288</id>
+<name>Helen Scales</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2940288.Helen_Scales]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39204074</id>
+<title><![CDATA[Timefulness: How Thinking Like a Geologist Can Help Save the World]]></title>
+<title_without_series><![CDATA[Timefulness: How Thinking Like a Geologist Can Help Save the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39204074-timefulness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529059360l/39204074._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529059360l/39204074._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>60783159</id>
+</work>
+<isbn>0691181209</isbn>
+<isbn13>9780691181202</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>568055</id>
+<name>Marcia Bjornerud</name>
+<link><![CDATA[https://www.goodreads.com/author/show/568055.Marcia_Bjornerud]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

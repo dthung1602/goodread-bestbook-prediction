@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>28789644</id>
+  <title><![CDATA[Blood at the Root: A Racial Cleansing in America]]></title>
+  <isbn><![CDATA[0393293017]]></isbn>
+  <isbn13><![CDATA[9780393293012]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456514346l/28789644._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456514346l/28789644._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>20</publication_day>
+  <publisher>W. W. Norton  Company</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A gripping tale of racial cleansing in Forsyth County, Georgia, and a harrowing testament to the deep roots of racial violence in America.<br /><br />Forsyth County, Georgia, at the turn of the twentieth century was home to a large African American community that included ministers and teachers, farmers and field hands, tradesmen, servants, and children. Many black residents were poor sharecroppers, but others owned their own farms and the land on which they’d founded the county’s thriving black churches.<br /><br />But then in September of 1912, three young black laborers were accused of raping and murdering a white girl. One man was dragged from a jail cell and lynched on the town square, two teenagers were hung after a one-day trial, and soon bands of white “night riders” launched a coordinated campaign of arson and terror, driving all 1,098 black citizens out of the county. In the wake of the expulsions, whites harvested the crops and took over the livestock of their former neighbors, and quietly laid claim to “abandoned” land. The charred ruins of homes and churches disappeared into the weeds, until the people and places of black Forsyth were forgotten.<br /><br />National Book Award finalist Patrick Phillips tells Forsyth’s tragic story in vivid detail and traces its long history of racial violence all the way back to antebellum Georgia. Recalling his own childhood in the 1970s and ’80s, Phillips sheds light on the communal crimes of his hometown and the violent means by which locals kept Forsyth “all white” well into the 1990s.<br /><br /><em>Blood at the Root</em> is a sweeping American tale that spans the Cherokee removals of the 1830s, the hope and promise of Reconstruction, and the crushing injustice of Forsyth’s racial cleansing. With bold storytelling and lyrical prose, Phillips breaks a century-long silence and uncovers a history of racial terrorism that continues to shape America in the twenty-first century.]]></description>
+  <work>
+  <id type="integer">48998545</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">28789644</best_book_id>
+  <reviews_count type="integer">11779</reviews_count>
+  <ratings_sum type="integer">10296</ratings_sum>
+  <ratings_count type="integer">2409</ratings_count>
+  <text_reviews_count type="integer">422</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">20</original_publication_day>
+  <original_title>Blood at the Root: A Racial Cleansing in America</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1056|4:1041|3:250|2:40|1:22|total:2409</rating_dist>
+  <desc_user_id type="integer">2330968</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.kJ4EX_9GZqYmpmkYVqMOww</work_uri>
+</work>
+  <average_rating>4.27</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2136]]></ratings_count>
+  <text_reviews_count><![CDATA[391]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/28789644-blood-at-the-root]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/28789644-blood-at-the-root]]></link>
+  <authors>
+<author>
+<id>316111</id>
+<name>Patrick Phillips</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444866682p5/316111.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444866682p2/316111.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/316111.Patrick_Phillips]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2779</ratings_count>
+<text_reviews_count>482</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/28789644-blood-at-the-root">Blood at the Root Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0393293017&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/28789644-blood-at-the-root?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8666"/>
+      <shelf name="currently-reading" count="229"/>
+      <shelf name="history" count="228"/>
+      <shelf name="non-fiction" count="199"/>
+      <shelf name="nonfiction" count="144"/>
+      <shelf name="race" count="65"/>
+      <shelf name="american-history" count="34"/>
+      <shelf name="politics" count="32"/>
+      <shelf name="audiobooks" count="23"/>
+      <shelf name="african-american" count="23"/>
+      <shelf name="library" count="18"/>
+      <shelf name="social-justice" count="18"/>
+      <shelf name="audiobook" count="16"/>
+      <shelf name="civil-rights" count="15"/>
+      <shelf name="racism" count="14"/>
+      <shelf name="historical" count="14"/>
+      <shelf name="crime" count="13"/>
+      <shelf name="united-states" count="11"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="social-issues" count="10"/>
+      <shelf name="america" count="10"/>
+      <shelf name="georgia" count="10"/>
+      <shelf name="audio-books" count="9"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="adult" count="9"/>
+      <shelf name="true-crime" count="8"/>
+      <shelf name="usa" count="7"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="to-read-nonfiction" count="7"/>
+      <shelf name="us-history" count="7"/>
+      <shelf name="adult-nonfiction" count="7"/>
+      <shelf name="political" count="7"/>
+      <shelf name="sociology" count="6"/>
+      <shelf name="read-2017" count="6"/>
+      <shelf name="favorites" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="nonfiction-to-read" count="6"/>
+      <shelf name="historical-nonfiction" count="6"/>
+      <shelf name="read-in-2018" count="5"/>
+      <shelf name="nonfiction-history" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="2017-reads" count="5"/>
+      <shelf name="overdrive" count="5"/>
+      <shelf name="overdrive" count="5"/>
+      <shelf name="2016-books" count="5"/>
+      <shelf name="south" count="5"/>
+      <shelf name="race-relations" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="african-americans" count="5"/>
+      <shelf name="non-fiction-to-read" count="5"/>
+      <shelf name="books-to-buy" count="5"/>
+      <shelf name="library-reads" count="5"/>
+      <shelf name="first-reads" count="5"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="books-read-in-2017" count="4"/>
+      <shelf name="black-history" count="4"/>
+      <shelf name="bookclub" count="4"/>
+      <shelf name="1910s" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="violence" count="4"/>
+      <shelf name="horror" count="4"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="tbr-nonfiction" count="4"/>
+      <shelf name="african-american-experience" count="4"/>
+      <shelf name="african-american-history" count="4"/>
+      <shelf name="maybe" count="4"/>
+      <shelf name="history-to-read" count="4"/>
+      <shelf name="black" count="4"/>
+      <shelf name="nf-history" count="4"/>
+      <shelf name="u-s-history" count="4"/>
+      <shelf name="race-in-america" count="4"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="historical-non-fiction" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="to-read-history" count="3"/>
+      <shelf name="journalism" count="3"/>
+      <shelf name="history-nonfiction" count="3"/>
+      <shelf name="history-biography" count="3"/>
+      <shelf name="history-biography" count="3"/>
+      <shelf name="history-american" count="3"/>
+      <shelf name="history-american" count="3"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="books-i-own" count="3"/>
+      <shelf name="2010s" count="3"/>
+      <shelf name="race-and-racism" count="3"/>
+      <shelf name="blacklivesmatter" count="3"/>
+      <shelf name="black-america" count="3"/>
+      <shelf name="southern" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="racial-justice" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="north-america" count="3"/>
+      <shelf name="npr" count="3"/>
+      <shelf name="the-south" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>28962954</id>
+<title><![CDATA[Truevine: Two Brothers, a Kidnapping, and a Mother's Quest: A True Story of the Jim Crow South]]></title>
+<title_without_series><![CDATA[Truevine: Two Brothers, a Kidnapping, and a Mother's Quest: A True Story of the Jim Crow South]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28962954-truevine]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469405941l/28962954._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469405941l/28962954._SX98_.jpg]]></image_url>
+<num_pages>420</num_pages>
+<work>
+<id>49190485</id>
+</work>
+<isbn>0316337544</isbn>
+<isbn13>9780316337540</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>7381867</id>
+<name>Beth Macy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7381867.Beth_Macy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27161226</id>
+<title><![CDATA[The Lynching: The Epic Courtroom Battle That Brought Down the Klan]]></title>
+<title_without_series><![CDATA[The Lynching: The Epic Courtroom Battle That Brought Down the Klan]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27161226-the-lynching]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451862483l/27161226._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451862483l/27161226._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>47200552</id>
+</work>
+<isbn>0062458345</isbn>
+<isbn13>9780062458346</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>251659</id>
+<name>Laurence Leamer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/251659.Laurence_Leamer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16029162</id>
+<title><![CDATA[Out of Order: Stories from the History of the Supreme Court]]></title>
+<title_without_series><![CDATA[Out of Order: Stories from the History of the Supreme Court]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16029162-out-of-order]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359063723l/16029162._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359063723l/16029162._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>21798101</id>
+</work>
+<isbn>0812993934</isbn>
+<isbn13>9780812993936</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>13780</id>
+<name>Sandra Day O&apos;Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13780.Sandra_Day_O_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23396040</id>
+<title><![CDATA[Ada's Algorithm: How Lord Byron's Daughter Ada Lovelace Launched the Digital Age]]></title>
+<title_without_series><![CDATA[Ada's Algorithm: How Lord Byron's Daughter Ada Lovelace Launched the Digital Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23396040-ada-s-algorithm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26524073</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>155959</id>
+<name>James Essinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155959.James_Essinger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41874059</id>
+<title><![CDATA[Spying on the South: Travels with Frederick Law Olmsted in a Fractured Land]]></title>
+<title_without_series><![CDATA[Spying on the South: Travels with Frederick Law Olmsted in a Fractured Land]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41874059-spying-on-the-south]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555105825l/41874059._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555105825l/41874059._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65364412</id>
+</work>
+<isbn>1984888641</isbn>
+<isbn13>9781984888648</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>16541</id>
+<name>Tony Horwitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16541.Tony_Horwitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44793034</id>
+<title><![CDATA[Live Up to Our Privileges: Women, Power, and Priesthood]]></title>
+<title_without_series><![CDATA[Live Up to Our Privileges: Women, Power, and Priesthood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44793034-live-up-to-our-privileges]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571797452l/44793034._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571797452l/44793034._SX98_.jpg]]></image_url>
+<num_pages>203</num_pages>
+<work>
+<id>69447808</id>
+</work>
+<isbn></isbn>
+<isbn13>9781629725819</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1234355</id>
+<name>Wendy Ulrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1234355.Wendy_Ulrich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2219076</id>
+<title><![CDATA[April 4, 1968: Martin Luther King, Jr.'s Death and How It Changed America]]></title>
+<title_without_series><![CDATA[April 4, 1968: Martin Luther King, Jr.'s Death and How It Changed America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2219076.April_4_1968]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328843531l/2219076._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328843531l/2219076._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>2224868</id>
+</work>
+<isbn>0465002129</isbn>
+<isbn13>9780465002122</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>39751</id>
+<name>Michael Eric Dyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39751.Michael_Eric_Dyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22715970</id>
+<title><![CDATA[We Believe the Children: The Story of a Moral Panic]]></title>
+<title_without_series><![CDATA[We Believe the Children: The Story of a Moral Panic]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22715970-we-believe-the-children]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430565619l/22715970._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430565619l/22715970._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>42243206</id>
+</work>
+<isbn>1610392876</isbn>
+<isbn13>9781610392877</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7771837</id>
+<name>Richard   Beck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7771837.Richard_Beck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9336614</id>
+<title><![CDATA[American Uprising: The Untold Story of America's Largest Slave Revolt]]></title>
+<title_without_series><![CDATA[American Uprising: The Untold Story of America's Largest Slave Revolt]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9336614-american-uprising]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>14219914</id>
+</work>
+<isbn>0061995215</isbn>
+<isbn13>9780061995217</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4361485</id>
+<name>Daniel Rasmussen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4361485.Daniel_Rasmussen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41452176</id>
+<title><![CDATA[American Cipher: Bowe Bergdahl and the U.S. Tragedy in Afghanistan]]></title>
+<title_without_series><![CDATA[American Cipher: Bowe Bergdahl and the U.S. Tragedy in Afghanistan]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41452176-american-cipher]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64706880</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15267772</id>
+<name>Matt Farwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15267772.Matt_Farwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42593023</id>
+<title>The Black Mage</title>
+<title_without_series>The Black Mage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42593023-the-black-mage]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545469772l/42593023._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545469772l/42593023._SX98_.jpg]]></image_url>
+<num_pages>153</num_pages>
+<work>
+<id>66284371</id>
+</work>
+<isbn>1620106523</isbn>
+<isbn13>9781620106525</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>5636539</id>
+<name>Daniel Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5636539.Daniel_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40697553</id>
+<title><![CDATA[Dying of Whiteness: How the Politics of Racial Resentment Is Killing America's Heartland]]></title>
+<title_without_series><![CDATA[Dying of Whiteness: How the Politics of Racial Resentment Is Killing America's Heartland]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40697553-dying-of-whiteness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542018964l/40697553._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542018964l/40697553._SX98_.jpg]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>63297082</id>
+</work>
+<isbn>1541644980</isbn>
+<isbn13>9781541644984</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3107824</id>
+<name>Jonathan M. Metzl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3107824.Jonathan_M_Metzl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44643351</id>
+<title><![CDATA[Fentanyl, Inc.: How Rogue Chemists Are Creating the Deadliest Wave of the Opioid Epidemic]]></title>
+<title_without_series><![CDATA[Fentanyl, Inc.: How Rogue Chemists Are Creating the Deadliest Wave of the Opioid Epidemic]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44643351-fentanyl-inc]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565785243l/44643351._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565785243l/44643351._SX98_.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>69271457</id>
+</work>
+<isbn>0802127436</isbn>
+<isbn13>9780802127433</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4384032</id>
+<name>Ben Westhoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4384032.Ben_Westhoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40909438</id>
+<title><![CDATA[Stony the Road: Reconstruction, White Supremacy, and the Rise of Jim Crow]]></title>
+<title_without_series><![CDATA[Stony the Road: Reconstruction, White Supremacy, and the Rise of Jim Crow]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40909438-stony-the-road]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534284832l/40909438._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534284832l/40909438._SX98_.jpg]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>63779127</id>
+</work>
+<isbn>0525559531</isbn>
+<isbn13>9780525559535</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3862441</id>
+<name>Henry Louis Gates Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3862441.Henry_Louis_Gates_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36914464</id>
+<title><![CDATA[Trans* Policies & Experiences in Housing & Residence Life]]></title>
+<title_without_series><![CDATA[Trans* Policies & Experiences in Housing & Residence Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36914464-trans-policies-experiences-in-housing-residence-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516355181l/36914464._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516355181l/36914464._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>58673312</id>
+</work>
+<isbn>1620367696</isbn>
+<isbn13>9781620367698</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>17422604</id>
+<name>Jason C Garvey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17422604.Jason_C_Garvey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25953369</id>
+<title>Hidden Figures</title>
+<title_without_series>Hidden Figures</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25953369-hidden-figures]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481844518l/25953369._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481844518l/25953369._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>45855800</id>
+</work>
+<isbn>0062363603</isbn>
+<isbn13>9780062363602</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>12</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>14176929</id>
+<name>Margot Lee Shetterly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14176929.Margot_Lee_Shetterly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43845605</id>
+<title><![CDATA[Avatar: The Last Airbender: Imbalance, Part Three (Imbalance, #3)]]></title>
+<title_without_series><![CDATA[Avatar: The Last Airbender: Imbalance, Part Three]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43845605-avatar]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>68233097</id>
+</work>
+<isbn>1506708137</isbn>
+<isbn13>9781506708133</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>996558</id>
+<name>Faith Erin Hicks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/996558.Faith_Erin_Hicks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2590136</id>
+<title><![CDATA[Barracoon: The Story of the Last "Black Cargo"]]></title>
+<title_without_series><![CDATA[Barracoon: The Story of the Last "Black Cargo"]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2590136-barracoon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524663392l/2590136._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524663392l/2590136._SX98_.jpg]]></image_url>
+<num_pages>193</num_pages>
+<work>
+<id>2108582</id>
+</work>
+<isbn>0060921706</isbn>
+<isbn13>9780060921705</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2409</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>15151</id>
+<name>Zora Neale Hurston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

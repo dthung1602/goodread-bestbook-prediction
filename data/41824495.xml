@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>41824495</id>
+  <title>Fall, Or Dodge in Hell</title>
+  <isbn><![CDATA[006245871X]]></isbn>
+  <isbn13><![CDATA[9780062458711]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548719156l/41824495._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548719156l/41824495._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>William Morrow</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The #1 New York Times bestselling author of Seveneves, Anathem, Reamde, and Cryptonomicon returns with a wildly inventive and entertaining science fiction thriller—Paradise Lost by way of Phillip K. Dick—that unfolds in the near future, in parallel worlds.<br /><br />In his youth, Richard “Dodge” Forthrast founded Corporation 9592, a gaming company that made him a multibillionaire. Now in his middle years, Dodge appreciates his comfortable, unencumbered life, managing his myriad business interests, and spending time with his beloved niece Zula and her young daughter, Sophia.<br /><br />One beautiful autumn day, while he undergoes a routine medical procedure, something goes irrevocably wrong. Dodge is pronounced brain dead and put on life support, leaving his stunned family and close friends with difficult decisions. Long ago, when a much younger Dodge drew up his will, he directed that his body be given to a cryonics company now owned by enigmatic tech entrepreneur Elmo Shepherd. Legally bound to follow the directive despite their misgivings, Dodge’s family has his brain scanned and its data structures uploaded and stored in the cloud, until it can eventually be revived.<br /><br />In the coming years, technology allows Dodge’s brain to be turned back on. It is an achievement that is nothing less than the disruption of death itself. An eternal afterlife—the Bitworld—is created, in which humans continue to exist as digital souls.<br /><br />But this brave new immortal world is not the Utopia it might first seem . . .<br /><br />Fall, or Dodge in Hell is pure, unadulterated fun: a grand drama of analog and digital, man and machine, angels and demons, gods and followers, the finite and the eternal. In this exhilarating epic, Neal Stephenson raises profound existential questions and touches on the revolutionary breakthroughs that are transforming our future. Combining the technological, philosophical, and spiritual in one grand myth, he delivers a mind-blowing speculative literary saga for the modern age.]]></description>
+  <work>
+  <id type="integer">45833113</id>
+  <books_count type="integer">20</books_count>
+  <best_book_id type="integer">35429993</best_book_id>
+  <reviews_count type="integer">39043</reviews_count>
+  <ratings_sum type="integer">26521</ratings_sum>
+  <ratings_count type="integer">7354</ratings_count>
+  <text_reviews_count type="integer">1299</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">4</original_publication_day>
+  <original_title>Fall, or Dodge in Hell</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1685|4:2483|3:2054|2:870|1:262|total:7354</rating_dist>
+  <desc_user_id type="integer">36350813</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.THKPJ_ayERfBppEqFvID1g</work_uri>
+</work>
+  <average_rating>3.61</average_rating>
+  <num_pages><![CDATA[896]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[832]]></ratings_count>
+  <text_reviews_count><![CDATA[159]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/41824495-fall-or-dodge-in-hell]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/41824495-fall-or-dodge-in-hell]]></link>
+  <authors>
+<author>
+<id>545</id>
+<name>Neal Stephenson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p5/545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430920344p2/545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>755951</ratings_count>
+<text_reviews_count>47845</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/41824495-fall-or-dodge-in-hell">Fall, Or Dodge in Hell Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006245871X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/41824495-fall-or-dodge-in-hell?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="24666"/>
+      <shelf name="currently-reading" count="4179"/>
+      <shelf name="science-fiction" count="292"/>
+      <shelf name="fiction" count="235"/>
+      <shelf name="sci-fi" count="230"/>
+      <shelf name="fantasy" count="106"/>
+      <shelf name="scifi" count="63"/>
+      <shelf name="owned" count="56"/>
+      <shelf name="audiobook" count="30"/>
+      <shelf name="abandoned" count="29"/>
+      <shelf name="dnf" count="29"/>
+      <shelf name="library" count="28"/>
+      <shelf name="to-buy" count="27"/>
+      <shelf name="sf" count="27"/>
+      <shelf name="kindle" count="24"/>
+      <shelf name="sci-fi-fantasy" count="24"/>
+      <shelf name="did-not-finish" count="23"/>
+      <shelf name="ebook" count="23"/>
+      <shelf name="audible" count="21"/>
+      <shelf name="cyberpunk" count="21"/>
+      <shelf name="read-2019" count="19"/>
+      <shelf name="speculative-fiction" count="18"/>
+      <shelf name="read-in-2019" count="16"/>
+      <shelf name="audio" count="15"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="audiobooks" count="14"/>
+      <shelf name="scifi-fantasy" count="13"/>
+      <shelf name="fantasy-sci-fi" count="13"/>
+      <shelf name="2019-releases" count="13"/>
+      <shelf name="on-hold" count="12"/>
+      <shelf name="unfinished" count="11"/>
+      <shelf name="novels" count="11"/>
+      <shelf name="maybe" count="11"/>
+      <shelf name="giveaways" count="10"/>
+      <shelf name="novel" count="10"/>
+      <shelf name="to-read-fiction" count="9"/>
+      <shelf name="neal-stephenson" count="9"/>
+      <shelf name="2019-books" count="9"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="fiction-to-read" count="8"/>
+      <shelf name="to-get" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="didn-t-finish" count="7"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="mythology" count="7"/>
+      <shelf name="signed" count="7"/>
+      <shelf name="science-fiction-fantasy" count="7"/>
+      <shelf name="have" count="7"/>
+      <shelf name="science" count="6"/>
+      <shelf name="2019-reads" count="6"/>
+      <shelf name="sff" count="6"/>
+      <shelf name="recommended" count="6"/>
+      <shelf name="sciencefiction" count="6"/>
+      <shelf name="dystopian" count="6"/>
+      <shelf name="2019-read" count="5"/>
+      <shelf name="gave-up-on" count="5"/>
+      <shelf name="couldn-t-finish" count="5"/>
+      <shelf name="listened-to" count="5"/>
+      <shelf name="contemporary-fiction" count="5"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="shelved" count="5"/>
+      <shelf name="read-next" count="5"/>
+      <shelf name="technology" count="5"/>
+      <shelf name="tbr" count="5"/>
+      <shelf name="to-read-2019" count="5"/>
+      <shelf name="speculative" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="wanted" count="5"/>
+      <shelf name="gave-up" count="4"/>
+      <shelf name="e-books" count="4"/>
+      <shelf name="adventure" count="4"/>
+      <shelf name="listened" count="4"/>
+      <shelf name="laser" count="4"/>
+      <shelf name="could-not-finish" count="4"/>
+      <shelf name="books-read-in-2019" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="owned-tbr" count="4"/>
+      <shelf name="21st-century" count="4"/>
+      <shelf name="artificial-intelligence" count="4"/>
+      <shelf name="calibre" count="4"/>
+      <shelf name="stopped-reading" count="4"/>
+      <shelf name="e-book" count="4"/>
+      <shelf name="on-kindle" count="4"/>
+      <shelf name="interesting" count="4"/>
+      <shelf name="need-to-buy" count="4"/>
+      <shelf name="to-read-sci-fi" count="4"/>
+      <shelf name="2019-june" count="4"/>
+      <shelf name="next" count="4"/>
+      <shelf name="2019-fiction" count="4"/>
+      <shelf name="tsundoku" count="4"/>
+      <shelf name="fantasy-scifi" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="stephenson" count="4"/>
+      <shelf name="choice-awards" count="3"/>
+      <shelf name="audio_owned" count="3"/>
+      <shelf name="paused" count="3"/>
+      <shelf name="tbr-owned" count="3"/>
+      <shelf name="consideration" count="3"/>
+      <shelf name="dystopia" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>40859000</id>
+<title>Delta-V</title>
+<title_without_series>Delta-V</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40859000-delta-v]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531868275l/40859000._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531868275l/40859000._SX98_.jpg]]></image_url>
+<num_pages>437</num_pages>
+<work>
+<id>63641270</id>
+</work>
+<isbn>1524742414</isbn>
+<isbn13>9781524742416</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>1956402</id>
+<name>Daniel Suarez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1956402.Daniel_Suarez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40376072</id>
+<title><![CDATA[Children of Ruin (Children of Time #2)]]></title>
+<title_without_series>Children of Ruin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40376072-children-of-ruin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548701599l/40376072._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548701599l/40376072._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62663185</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1445909</id>
+<name>Adrian Tchaikovsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41160292</id>
+<title>Exhalation: Stories</title>
+<title_without_series>Exhalation: Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41160292-exhalation]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>64336454</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>130698</id>
+<name>Ted Chiang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/130698.Ted_Chiang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28335698</id>
+<title><![CDATA[Tiamat's Wrath (The Expanse, #8)]]></title>
+<title_without_series>Tiamat&apos;s Wrath</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28335698-tiamat-s-wrath]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522779721l/28335698._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522779721l/28335698._SX98_.jpg]]></image_url>
+<num_pages>534</num_pages>
+<work>
+<id>48382890</id>
+</work>
+<isbn>0316332879</isbn>
+<isbn13>9780316332873</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4192148</id>
+<name>James S.A. Corey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4192148.James_S_A_Corey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41447687</id>
+<title>Radicalized</title>
+<title_without_series>Radicalized</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41447687-radicalized]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547668215l/41447687._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547668215l/41447687._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>64697126</id>
+</work>
+<isbn>1789541093</isbn>
+<isbn13>9781789541090</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>12581</id>
+<name>Cory Doctorow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12581.Cory_Doctorow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42046112</id>
+<title>Recursion</title>
+<title_without_series>Recursion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42046112-recursion]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543687940l/42046112._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543687940l/42046112._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>64277987</id>
+</work>
+<isbn>1524759783</isbn>
+<isbn13>9781524759780</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>442240</id>
+<name>Blake Crouch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/442240.Blake_Crouch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40380954</id>
+<title>Empress of Forever</title>
+<title_without_series>Empress of Forever</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40380954-empress-of-forever]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539114269l/40380954._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539114269l/40380954._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>62679049</id>
+</work>
+<isbn>0765395819</isbn>
+<isbn13>9780765395818</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>3405346</id>
+<name>Max Gladstone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3405346.Max_Gladstone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40048442</id>
+<title>Permafrost</title>
+<title_without_series>Permafrost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40048442-permafrost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537475196l/40048442._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537475196l/40048442._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>62058421</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>51204</id>
+<name>Alastair Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51204.Alastair_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41893698</id>
+<title><![CDATA[Salvation Lost (Salvation Sequence #2)]]></title>
+<title_without_series>Salvation Lost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41893698-salvation-lost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553120919l/41893698._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553120919l/41893698._SX98_.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>65397826</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>25375</id>
+<name>Peter F. Hamilton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25375.Peter_F_Hamilton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40401926</id>
+<title>The Grand Dark</title>
+<title_without_series>The Grand Dark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40401926-the-grand-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541008134l/40401926._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541008134l/40401926._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>62718921</id>
+</work>
+<isbn>0062672533</isbn>
+<isbn13>9780062672537</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>37557</id>
+<name>Richard Kadrey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37557.Richard_Kadrey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32603079</id>
+<title>Wanderers</title>
+<title_without_series>Wanderers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32603079-wanderers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542215231l/32603079._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542215231l/32603079._SX98_.jpg]]></image_url>
+<num_pages>800</num_pages>
+<work>
+<id>53184096</id>
+</work>
+<isbn></isbn>
+<isbn13>9780399182112</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>17152</id>
+<name>Chuck Wendig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17152.Chuck_Wendig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43190272</id>
+<title>To Be Taught, If Fortunate</title>
+<title_without_series>To Be Taught, If Fortunate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43190272-to-be-taught-if-fortunate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552530326l/43190272._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552530326l/43190272._SX98_.jpg]]></image_url>
+<num_pages>153</num_pages>
+<work>
+<id>67034571</id>
+</work>
+<isbn>0062936018</isbn>
+<isbn13>9780062936011</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8389735</id>
+<name>Becky Chambers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8389735.Becky_Chambers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26159745</id>
+<title><![CDATA[Ancestral Night (White Space, #1)]]></title>
+<title_without_series>Ancestral Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26159745-ancestral-night]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549453849l/26159745._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549453849l/26159745._SX98_.jpg]]></image_url>
+<num_pages>499</num_pages>
+<work>
+<id>41186071</id>
+</work>
+<isbn>1473208742</isbn>
+<isbn13>9781473208742</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>108173</id>
+<name>Elizabeth Bear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108173.Elizabeth_Bear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41447722</id>
+<title>Stealing Worlds</title>
+<title_without_series>Stealing Worlds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41447722-stealing-worlds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539701027l/41447722._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539701027l/41447722._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>64697176</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>19169</id>
+<name>Karl Schroeder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19169.Karl_Schroeder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35606041</id>
+<title><![CDATA[A Little Hatred (The Age of Madness, #1)]]></title>
+<title_without_series>A Little Hatred</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35606041-a-little-hatred]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558367199l/35606041._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558367199l/35606041._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>57338685</id>
+</work>
+<isbn>031618716X</isbn>
+<isbn13>9780316187169</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>276660</id>
+<name>Joe Abercrombie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/276660.Joe_Abercrombie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41085049</id>
+<title><![CDATA[Velocity Weapon (The Protectorate #1)]]></title>
+<title_without_series>Velocity Weapon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41085049-velocity-weapon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551122969l/41085049._SX98_.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>64190668</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>8177132</id>
+<name>Megan E. O&apos;Keefe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8177132.Megan_E_O_Keefe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39395857</id>
+<title>The Raven Tower</title>
+<title_without_series>The Raven Tower</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39395857-the-raven-tower]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523646507l/39395857._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523646507l/39395857._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>61051116</id>
+</work>
+<isbn>0356506991</isbn>
+<isbn13>9780356506999</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>3365457</id>
+<name>Ann Leckie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3365457.Ann_Leckie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36516585</id>
+<title><![CDATA[This Is How You Lose the Time War]]></title>
+<title_without_series><![CDATA[This Is How You Lose the Time War]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36516585-this-is-how-you-lose-the-time-war]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543953962l/36516585._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543953962l/36516585._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>58237743</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>7354</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>4175512</id>
+<name>Amal El-Mohtar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4175512.Amal_El_Mohtar]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

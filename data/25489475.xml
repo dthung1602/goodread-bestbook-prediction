@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25489475</id>
+  <title><![CDATA[Snappsy the Alligator (Did Not Ask to Be in This Book)]]></title>
+  <isbn><![CDATA[0451469453]]></isbn>
+  <isbn13><![CDATA[9780451469458]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434189243l/25489475._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434189243l/25489475._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>Viking Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Snappsy the alligator is trying to go about his <i>very</i> ordinary day when a pesky narrator steps in to spice up the story with slanderous claims. Is Snappsy making crafty plans? Is he prowling for defenseless birds and soft, fuzzy bunnies? Is Snappsy a big, mean alligator who’s obsessed with snack foods that start with the letter P? It’s no wonder Snappsy won't invite the narrator to his party! <br /><br /><i>Snappsy the Alligator (Did Not Ask to Be in This Book)</i> is an irreverent look at storytelling, friendship, and creative differences from a pair of rising stars in the picture book world.]]></description>
+  <work>
+  <id type="integer">45263853</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">25489475</best_book_id>
+  <reviews_count type="integer">4309</reviews_count>
+  <ratings_sum type="integer">7650</ratings_sum>
+  <ratings_count type="integer">2008</ratings_count>
+  <text_reviews_count type="integer">374</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title>Snappsy the Alligator (Did Not Ask to Be in This Book)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:540|4:763|3:521|2:151|1:33|total:2008</rating_dist>
+  <desc_user_id type="integer">1703299</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.aXDVDNBCcj3pdb0fdq_cAg</work_uri>
+</work>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[36]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1992]]></ratings_count>
+  <text_reviews_count><![CDATA[370]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25489475-snappsy-the-alligator]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25489475-snappsy-the-alligator]]></link>
+  <authors>
+<author>
+<id>13922414</id>
+<name>Julie Falatko</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432635676p5/13922414.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432635676p2/13922414.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13922414.Julie_Falatko]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>3740</ratings_count>
+<text_reviews_count>779</text_reviews_count>
+</author>
+<author>
+<id>16847545</id>
+<name>Tim    Miller</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16847545.Tim_Miller]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>3533</ratings_count>
+<text_reviews_count>677</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25489475-snappsy-the-alligator">Snappsy the Alligator Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451469453&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25489475-snappsy-the-alligator?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1752"/>
+      <shelf name="picture-books" count="431"/>
+      <shelf name="picture-book" count="115"/>
+      <shelf name="humor" count="74"/>
+      <shelf name="childrens" count="60"/>
+      <shelf name="animals" count="53"/>
+      <shelf name="children-s" count="46"/>
+      <shelf name="children" count="37"/>
+      <shelf name="children-s-books" count="34"/>
+      <shelf name="fantasy" count="32"/>
+      <shelf name="fiction" count="28"/>
+      <shelf name="kids" count="27"/>
+      <shelf name="funny" count="23"/>
+      <shelf name="childrens-books" count="22"/>
+      <shelf name="storytime" count="21"/>
+      <shelf name="kids-books" count="19"/>
+      <shelf name="alligators" count="18"/>
+      <shelf name="read-in-2016" count="16"/>
+      <shelf name="picture" count="15"/>
+      <shelf name="picturebooks" count="15"/>
+      <shelf name="humorous" count="15"/>
+      <shelf name="read-aloud" count="11"/>
+      <shelf name="meta" count="11"/>
+      <shelf name="children-s-lit" count="10"/>
+      <shelf name="interactive" count="9"/>
+      <shelf name="2016-picture-books" count="9"/>
+      <shelf name="read-alouds" count="9"/>
+      <shelf name="primary-picture-books" count="8"/>
+      <shelf name="party" count="8"/>
+      <shelf name="childrens-picture-books" count="8"/>
+      <shelf name="preschool" count="8"/>
+      <shelf name="children-s-literature" count="8"/>
+      <shelf name="juvenile" count="8"/>
+      <shelf name="friendship" count="8"/>
+      <shelf name="2016-reads" count="8"/>
+      <shelf name="metafiction" count="8"/>
+      <shelf name="favorites" count="8"/>
+      <shelf name="pb" count="7"/>
+      <shelf name="currently-reading" count="7"/>
+      <shelf name="mock-caldecott-2017" count="7"/>
+      <shelf name="humour" count="7"/>
+      <shelf name="children-s-book" count="7"/>
+      <shelf name="children-s-picture-books" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="emergent-picture-books" count="6"/>
+      <shelf name="point-of-view" count="6"/>
+      <shelf name="for-kids" count="6"/>
+      <shelf name="food" count="6"/>
+      <shelf name="writing" count="6"/>
+      <shelf name="kid-lit" count="6"/>
+      <shelf name="parties" count="6"/>
+      <shelf name="library" count="5"/>
+      <shelf name="silly" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="picture-books-2016" count="5"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="storytime-books" count="4"/>
+      <shelf name="animal-stories" count="4"/>
+      <shelf name="storytelling" count="4"/>
+      <shelf name="chickens" count="4"/>
+      <shelf name="fourth-wall" count="4"/>
+      <shelf name="2016-books-read" count="4"/>
+      <shelf name="story-time" count="4"/>
+      <shelf name="for-the-kids" count="4"/>
+      <shelf name="to-read-picture-books" count="4"/>
+      <shelf name="creativity-imagination" count="3"/>
+      <shelf name="classroombookaday" count="3"/>
+      <shelf name="read-2018" count="3"/>
+      <shelf name="kids-picture-books" count="3"/>
+      <shelf name="2017-reads" count="3"/>
+      <shelf name="children-s-books-read" count="3"/>
+      <shelf name="yakids" count="3"/>
+      <shelf name="series" count="3"/>
+      <shelf name="primary-picture-book" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="books-for-kids" count="3"/>
+      <shelf name="children-picture" count="3"/>
+      <shelf name="mentor-text" count="3"/>
+      <shelf name="easy" count="3"/>
+      <shelf name="k-3" count="3"/>
+      <shelf name="pb-funny" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="concepts" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="alligators-and-crocodiles" count="3"/>
+      <shelf name="books-about-books" count="3"/>
+      <shelf name="picturebook" count="3"/>
+      <shelf name="childrens-picture" count="3"/>
+      <shelf name="read-picture-books" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="children-picture-books" count="3"/>
+      <shelf name="favorite-picture-books" count="3"/>
+      <shelf name="alligator" count="3"/>
+      <shelf name="alligators-crocodiles" count="3"/>
+      <shelf name="2015-2016" count="3"/>
+      <shelf name="perspective" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>978617</id>
+<user_position>1</user_position>
+<series>
+<id>191582</id>
+<title>
+<![CDATA[
+    Snappsy the Alligator
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>20307024</id>
+<title>Wolfie the Bunny</title>
+<title_without_series>Wolfie the Bunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20307024-wolfie-the-bunny]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>28141570</id>
+</work>
+<isbn>0316226149</isbn>
+<isbn13>9780316226141</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26030671</id>
+<title>Are We There Yet?</title>
+<title_without_series>Are We There Yet?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26030671-are-we-there-yet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439827023l/26030671._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439827023l/26030671._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45956847</id>
+</work>
+<isbn>0316199990</isbn>
+<isbn13>9780316199995</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24905361</id>
+<title>Leo: A Ghost Story</title>
+<title_without_series>Leo: A Ghost Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24905361-leo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443781444l/24905361._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443781444l/24905361._SX98_.jpg]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>44555766</id>
+</work>
+<isbn>1452131562</isbn>
+<isbn13>9781452131566</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25785760</id>
+<title>Ida, Always</title>
+<title_without_series>Ida, Always</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25785760-ida-always]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45636447</id>
+</work>
+<isbn>1481426400</isbn>
+<isbn13>9781481426404</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>5573824</id>
+<name>Caron Levis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5573824.Caron_Levis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41183554</id>
+<title>A Piglet Named Mercy</title>
+<title_without_series>A Piglet Named Mercy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41183554-a-piglet-named-mercy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64361636</id>
+</work>
+<isbn>0763677531</isbn>
+<isbn13>9780763677534</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40819218</id>
+<title>The Panda Problem</title>
+<title_without_series>The Panda Problem</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40819218-the-panda-problem]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531750083l/40819218._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531750083l/40819218._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>63580006</id>
+</work>
+<isbn>0735228507</isbn>
+<isbn13>9780735228504</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>231395</id>
+<name>Deborah Underwood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/231395.Deborah_Underwood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21965059</id>
+<title>The Bear Ate Your Sandwich</title>
+<title_without_series>The Bear Ate Your Sandwich</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21965059-the-bear-ate-your-sandwich]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403199685l/21965059._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403199685l/21965059._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>41275253</id>
+</work>
+<isbn>0375858601</isbn>
+<isbn13>9780375858604</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2445028</id>
+<name>Julia Sarcone-Roach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2445028.Julia_Sarcone_Roach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26030690</id>
+<title>Horrible Bear!</title>
+<title_without_series>Horrible Bear!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26030690-horrible-bear]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444603926l/26030690._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444603926l/26030690._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45956870</id>
+</work>
+<isbn>0316282839</isbn>
+<isbn13>9780316282833</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23507512</id>
+<title><![CDATA[If You Ever Want to Bring an Alligator to School, Don't!]]></title>
+<title_without_series><![CDATA[If You Ever Want to Bring an Alligator to School, Don't!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23507512-if-you-ever-want-to-bring-an-alligator-to-school-don-t]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768158l/23507512._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768158l/23507512._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>43111616</id>
+</work>
+<isbn>0316376574</isbn>
+<isbn13>9780316376570</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>9831156</id>
+<name>Elise Parsley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9831156.Elise_Parsley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25785644</id>
+<title><![CDATA[A Hungry Lion, or A Dwindling Assortment of Animals]]></title>
+<title_without_series><![CDATA[A Hungry Lion, or A Dwindling Assortment of Animals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25785644-a-hungry-lion-or-a-dwindling-assortment-of-animals]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452817600l/25785644._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452817600l/25785644._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45636363</id>
+</work>
+<isbn>1481448897</isbn>
+<isbn13>9781481448895</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>3390631</id>
+<name>Lucy Ruth Cummins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3390631.Lucy_Ruth_Cummins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18349884</id>
+<title><![CDATA[My Teacher Is a Monster! (No, I Am Not.)]]></title>
+<title_without_series>My Teacher Is a Monster!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18349884-my-teacher-is-a-monster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25947111</id>
+</work>
+<isbn>0316070297</isbn>
+<isbn13>9780316070294</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16650266</id>
+<title>Count the Monkeys</title>
+<title_without_series>Count the Monkeys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16650266-count-the-monkeys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564793l/16650266._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564793l/16650266._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22856763</id>
+</work>
+<isbn>1423160657</isbn>
+<isbn13>9781423160656</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41717242</id>
+<title><![CDATA[Harold & Hog Pretend For Real! (Elephant & Piggie Like Reading!, #6)]]></title>
+<title_without_series><![CDATA[Harold & Hog Pretend For Real!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41717242-harold-hog-pretend-for-real]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>65073199</id>
+</work>
+<isbn>1368027164</isbn>
+<isbn13>9781368027168</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28439554</id>
+<title>Penguin Problems</title>
+<title_without_series>Penguin Problems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28439554-penguin-problems]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453059424l/28439554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453059424l/28439554._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48558644</id>
+</work>
+<isbn>0553513370</isbn>
+<isbn13>9780553513370</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22292490</id>
+<title>Hoot Owl, Master of Disguise</title>
+<title_without_series>Hoot Owl, Master of Disguise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22292490-hoot-owl-master-of-disguise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587805l/22292490._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587805l/22292490._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>41679270</id>
+</work>
+<isbn>0763675784</isbn>
+<isbn13>9780763675783</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>4684872</id>
+<name>Sean  Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4684872.Sean_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25745002</id>
+<title>Mother Bruce</title>
+<title_without_series>Mother Bruce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25745002-mother-bruce]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435158711l/25745002._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435158711l/25745002._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>45585749</id>
+</work>
+<isbn>1484730887</isbn>
+<isbn13>9781484730881</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37969835</id>
+<title><![CDATA[The Wall in the Middle of the Book]]></title>
+<title_without_series><![CDATA[The Wall in the Middle of the Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37969835-the-wall-in-the-middle-of-the-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525113313l/37969835._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525113313l/37969835._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>59693899</id>
+</work>
+<isbn>0525555455</isbn>
+<isbn13>9780525555452</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>87516</id>
+<name>Jon Agee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87516.Jon_Agee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36764044</id>
+<title>Nobody Hugs a Cactus</title>
+<title_without_series>Nobody Hugs a Cactus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36764044-nobody-hugs-a-cactus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545495901l/36764044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545495901l/36764044._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>58551310</id>
+</work>
+<isbn>1534400907</isbn>
+<isbn13>9781534400900</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>676353</id>
+<name>Carter Goodrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/676353.Carter_Goodrich]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

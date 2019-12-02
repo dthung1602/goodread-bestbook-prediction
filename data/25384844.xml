@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25384844</id>
+  <title>Black Butterfly</title>
+  <isbn><![CDATA[0986262749]]></isbn>
+  <isbn13><![CDATA[9780986262746]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430317879l/25384844._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430317879l/25384844._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>Vintage Wild</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Black Butterfly is a symbol of transformation and rebirth after death. Drake wrote this book for those who have lost someone in death and in life. This book is a collection of memories and experiences Drake lived after the death of one of his brothers. He promised he would write him a few words after he failed to complete the task while his brother was alive. <br /><br />This book is everything… this book is for all who are breathing and for all who are no longer here. <br /><br />This book is for you.]]></description>
+  <work>
+  <id type="integer">45134610</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">25384844</best_book_id>
+  <reviews_count type="integer">15775</reviews_count>
+  <ratings_sum type="integer">13548</ratings_sum>
+  <ratings_count type="integer">3276</ratings_count>
+  <text_reviews_count type="integer">283</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title>Black Butterfly</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1579|4:926|3:509|2:160|1:102|total:3276</rating_dist>
+  <desc_user_id type="integer">15822735</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.driycWLD-gj-9fMx5EywJg</work_uri>
+</work>
+  <average_rating>4.14</average_rating>
+  <num_pages><![CDATA[272]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3098]]></ratings_count>
+  <text_reviews_count><![CDATA[269]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25384844-black-butterfly]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25384844-black-butterfly]]></link>
+  <authors>
+<author>
+<id>8445480</id>
+<name>Robert M. Drake</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8445480.Robert_M_Drake]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>12177</ratings_count>
+<text_reviews_count>1114</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25384844-black-butterfly">Black Butterfly Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0986262749&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25384844-black-butterfly?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10883"/>
+      <shelf name="poetry" count="434"/>
+      <shelf name="currently-reading" count="251"/>
+      <shelf name="favorites" count="48"/>
+      <shelf name="books-i-own" count="22"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="nonfiction" count="9"/>
+      <shelf name="to-read-poetry" count="8"/>
+      <shelf name="owned-books" count="8"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="non-fiction" count="6"/>
+      <shelf name="romance" count="6"/>
+      <shelf name="2015-releases" count="6"/>
+      <shelf name="need-to-buy" count="5"/>
+      <shelf name="on-my-shelf" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="read-in-2015" count="5"/>
+      <shelf name="have" count="4"/>
+      <shelf name="favorite" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="poems" count="4"/>
+      <shelf name="to-get" count="4"/>
+      <shelf name="want-to-buy" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="modern-poetry" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+      <shelf name="poets" count="3"/>
+      <shelf name="2017-reads" count="3"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="read-in-2016" count="3"/>
+      <shelf name="fiction" count="3"/>
+      <shelf name="poetry-to-read" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="stand-alone" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="2015-reads" count="3"/>
+      <shelf name="buy" count="3"/>
+      <shelf name="e-book" count="2"/>
+      <shelf name="interested" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="poetry-and-plays" count="2"/>
+      <shelf name="english-books" count="2"/>
+      <shelf name="hard-copy" count="2"/>
+      <shelf name="poetry-read" count="2"/>
+      <shelf name="poetry-prose" count="2"/>
+      <shelf name="poety-to-read" count="2"/>
+      <shelf name="do-not-own" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="poesía" count="2"/>
+      <shelf name="art-and-photography" count="2"/>
+      <shelf name="find" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="must-have" count="2"/>
+      <shelf name="poetry-books" count="2"/>
+      <shelf name="poetry-to-be-read" count="2"/>
+      <shelf name="verse" count="2"/>
+      <shelf name="i-want" count="2"/>
+      <shelf name="want-to-read-poetry" count="2"/>
+      <shelf name="ibooks" count="2"/>
+      <shelf name="really-want-to-read" count="2"/>
+      <shelf name="my-bookshelf" count="2"/>
+      <shelf name="grief-and-loss" count="2"/>
+      <shelf name="black-butterfly" count="2"/>
+      <shelf name="contemporary-poetry" count="2"/>
+      <shelf name="young-adult" count="2"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="p-o-e-t-r-y" count="2"/>
+      <shelf name="read-2015" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="verse-poetry" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="must-read" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="genre-poetry" count="2"/>
+      <shelf name="favs" count="2"/>
+      <shelf name="books-i-want" count="2"/>
+      <shelf name="robert-m-drake" count="2"/>
+      <shelf name="bought" count="2"/>
+      <shelf name="3-75-stars" count="1"/>
+      <shelf name="owned-tbr" count="1"/>
+      <shelf name="3-challenge2-blue-cover" count="1"/>
+      <shelf name="1-need2read" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="over-200" count="1"/>
+      <shelf name="in-my-bookshelf" count="1"/>
+      <shelf name="2019-books" count="1"/>
+      <shelf name="award-nom" count="1"/>
+      <shelf name="or-not-to-read" count="1"/>
+      <shelf name="books-i-already-own" count="1"/>
+      <shelf name="poetry-owned" count="1"/>
+      <shelf name="tbr-on-bookshelf" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="want" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23522212</id>
+<title>Mouthful of Forevers</title>
+<title_without_series>Mouthful of Forevers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23522212-mouthful-of-forevers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418614931l/23522212._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418614931l/23522212._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>43125314</id>
+</work>
+<isbn>1449470793</isbn>
+<isbn13>9781449470791</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7049028</id>
+<name>Clementine von Radics</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7049028.Clementine_von_Radics]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23627418</id>
+<title>Dirty Pretty Things</title>
+<title_without_series>Dirty Pretty Things</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23627418-dirty-pretty-things]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417162557l/23627418._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417162557l/23627418._SX98_.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>43232745</id>
+</work>
+<isbn>047329950X</isbn>
+<isbn13>9780473299507</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>8248926</id>
+<name>Michael Faudet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8248926.Michael_Faudet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25144676</id>
+<title><![CDATA[I Wrote This for You and Only You (I Wrote This For You #3)]]></title>
+<title_without_series><![CDATA[I Wrote This for You and Only You]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25144676-i-wrote-this-for-you-and-only-you]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>44447811</id>
+</work>
+<isbn>1771680423</isbn>
+<isbn13>9781771680424</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5349123</id>
+<name>pleasefindthis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5349123.pleasefindthis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25330489</id>
+<title>Memories</title>
+<title_without_series>Memories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25330489-memories]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459143456l/25330489._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459143456l/25330489._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>45065720</id>
+</work>
+<isbn>1449472397</isbn>
+<isbn13>9781449472399</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24611612</id>
+<title><![CDATA[All the Words Are Yours: Haiku on Love]]></title>
+<title_without_series><![CDATA[All the Words Are Yours: Haiku on Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24611612-all-the-words-are-yours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443657057l/24611612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443657057l/24611612._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>45895501</id>
+</work>
+<isbn>0399176004</isbn>
+<isbn13>9780399176005</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>7075956</id>
+<name>Tyler Knott Gregson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7075956.Tyler_Knott_Gregson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22151696</id>
+<title>Lullabies</title>
+<title_without_series>Lullabies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22151696-lullabies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404192714l/22151696._SX98_.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>41496977</id>
+</work>
+<isbn>1449461077</isbn>
+<isbn13>9781449461072</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20821097</id>
+<title><![CDATA[Chasers of the Light: Poems from the Typewriter Series]]></title>
+<title_without_series><![CDATA[Chasers of the Light: Poems from the Typewriter Series]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20821097-chasers-of-the-light]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025020l/20821097._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025020l/20821097._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>40166990</id>
+</work>
+<isbn>0399169733</isbn>
+<isbn13>9780399169731</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7075956</id>
+<name>Tyler Knott Gregson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7075956.Tyler_Knott_Gregson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19230408</id>
+<title><![CDATA[I Wrote This For You: Just the Words (I Wrote This For You #2)]]></title>
+<title_without_series><![CDATA[I Wrote This For You: Just the Words]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19230408-i-wrote-this-for-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386325273l/19230408._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386325273l/19230408._SX98_.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>44430917</id>
+</work>
+<isbn>1771680040</isbn>
+<isbn13>9781771680042</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5349123</id>
+<name>pleasefindthis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5349123.pleasefindthis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18003300</id>
+<title>Love &amp; Misadventure</title>
+<title_without_series>Love &amp; Misadventure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18003300-love-misadventure]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370084153l/18003300._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>25266150</id>
+</work>
+<isbn>0473235501</isbn>
+<isbn13>9780473235505</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28159939</id>
+<title><![CDATA[Whiskey, Words, and a Shovel I]]></title>
+<title_without_series><![CDATA[Whiskey, Words, and a Shovel I]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28159939-whiskey-words-and-a-shovel-i]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453301839l/28159939._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453301839l/28159939._SX98_.jpg]]></image_url>
+<num_pages>146</num_pages>
+<work>
+<id>48172730</id>
+</work>
+<isbn>1682410188</isbn>
+<isbn13>9781682410189</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>12</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>15080768</id>
+<name>R.H. Sin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15080768.R_H_Sin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29431081</id>
+<title>The Universe of Us</title>
+<title_without_series>The Universe of Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29431081-the-universe-of-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466948266l/29431081._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466948266l/29431081._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>49695644</id>
+</work>
+<isbn>1449480128</isbn>
+<isbn13>9781449480127</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7012565</id>
+<name>Lang Leav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29499443</id>
+<title>Whiskey Words &amp; a Shovel II</title>
+<title_without_series>Whiskey Words &amp; a Shovel II</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29499443-whiskey-words-a-shovel-ii]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465140029l/29499443._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465140029l/29499443._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>49785780</id>
+</work>
+<isbn>1449480357</isbn>
+<isbn13>9781449480356</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>15080768</id>
+<name>R.H. Sin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15080768.R_H_Sin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39939189</id>
+<title>Winter of Summers</title>
+<title_without_series>Winter of Summers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39939189-winter-of-summers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534653018l/39939189._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534653018l/39939189._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>61834490</id>
+</work>
+<isbn>1449496393</isbn>
+<isbn13>9781449496395</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>8248926</id>
+<name>Michael Faudet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8248926.Michael_Faudet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23552486</id>
+<title>Naked Human</title>
+<title_without_series>Naked Human</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23552486-naked-human]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415864476l/23552486._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415864476l/23552486._SX98_.jpg]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>43152160</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8197776</id>
+<name>Christopher Poindexter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8197776.Christopher_Poindexter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13105527</id>
+<title><![CDATA[I Wrote This For You (I Wrote This For You #4)]]></title>
+<title_without_series>I Wrote This For You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13105527-i-wrote-this-for-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413756174l/13105527._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413756174l/13105527._SX98_.jpg]]></image_url>
+<num_pages>194</num_pages>
+<work>
+<id>18278582</id>
+</work>
+<isbn>1926760689</isbn>
+<isbn13>9781926760681</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>12</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>5349123</id>
+<name>pleasefindthis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5349123.pleasefindthis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25784766</id>
+<title>The Dogs I Have Kissed</title>
+<title_without_series>The Dogs I Have Kissed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25784766-the-dogs-i-have-kissed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435125785l/25784766._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435125785l/25784766._SX98_.jpg]]></image_url>
+<num_pages>90</num_pages>
+<work>
+<id>45136438</id>
+</work>
+<isbn>1514287315</isbn>
+<isbn13>9781514287316</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>8382753</id>
+<name>Trista Mateer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8382753.Trista_Mateer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40680971</id>
+<title>Empty Bottles Full of Stories</title>
+<title_without_series>Empty Bottles Full of Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40680971-empty-bottles-full-of-stories]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537722941l/40680971._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537722941l/40680971._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>63258952</id>
+</work>
+<isbn>1449496474</isbn>
+<isbn13>9781449496470</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>15080768</id>
+<name>R.H. Sin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15080768.R_H_Sin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32468495</id>
+<title>Pillow Thoughts</title>
+<title_without_series>Pillow Thoughts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32468495-pillow-thoughts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>53058512</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3276</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14250517</id>
+<name>Courtney Peppernell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14250517.Courtney_Peppernell]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

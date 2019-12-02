@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22450859</id>
+  <title>The Boston Girl</title>
+  <isbn><![CDATA[1439199353]]></isbn>
+  <isbn13><![CDATA[9781439199350]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418103945l/22450859._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418103945l/22450859._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Scribner</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From the New York Times bestselling author of The Red Tent and Day After Night, comes an unforgettable coming-of-age novel about family ties and values, friendship and feminism told through the eyes of a young Jewish woman growing up in Boston in the early twentieth century.<br /><br />Addie Baum is The Boston Girl, born in 1900 to immigrant parents who were unprepared for and suspicious of America and its effect on their three daughters. Growing up in the North End, then a teeming multicultural neighborhood, Addie's intelligence and curiosity take her to a world her parents can't imagine - a world of short skirts, movies, celebrity culture and new opportunities for women. Addie wants to finish high school and dreams of going to college. She wants a career and to find true love.<br /><br />Eighty-five-year-old Addie tells the story of her life to her twenty-two-year-old granddaughter, who has asked her "How did you get to be the woman you are today?" She begins in 1915, the year she found her voice and made friends who would help shape the course of her life. From the one-room tenement apartment she shared with her parents and two sisters, to the library group for girls she joins at a neighborhood settlement house, to her first, disastrous love affair, Addie recalls her adventures with compassion for the naïve girl she was and a wicked sense of humor.<br /><br />Written with the same attention to historical detail and emotional resonance that made Anita Diamant's previous novels bestsellers, The Boston Girl is a moving portrait of one woman’s complicated life in twentieth-century America, and a fascinating look at a generation of women finding their places in a changing world.]]></description>
+  <work>
+  <id type="integer">21890979</id>
+  <books_count type="integer">28</books_count>
+  <best_book_id type="integer">22450859</best_book_id>
+  <reviews_count type="integer">156320</reviews_count>
+  <ratings_sum type="integer">278394</ratings_sum>
+  <ratings_count type="integer">73112</ratings_count>
+  <text_reviews_count type="integer">8510</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>The Boston Girl</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:16385|4:32007|3:19935|2:3851|1:934|total:73112</rating_dist>
+  <desc_user_id type="integer">44279580</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.TAeQq94QkSb-Ssu1WjpE5g</work_uri>
+</work>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[62127]]></ratings_count>
+  <text_reviews_count><![CDATA[7759]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22450859-the-boston-girl]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22450859-the-boston-girl]]></link>
+  <authors>
+<author>
+<id>626222</id>
+<name>Anita Diamant</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540697897p5/626222.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540697897p2/626222.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/626222.Anita_Diamant]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>598511</ratings_count>
+<text_reviews_count>31197</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22450859-the-boston-girl">The Boston Girl Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1439199353&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/22450859-the-boston-girl?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="70038"/>
+      <shelf name="currently-reading" count="1860"/>
+      <shelf name="historical-fiction" count="1248"/>
+      <shelf name="fiction" count="890"/>
+      <shelf name="book-club" count="656"/>
+      <shelf name="favorites" count="219"/>
+      <shelf name="audiobook" count="187"/>
+      <shelf name="audio" count="182"/>
+      <shelf name="historical" count="163"/>
+      <shelf name="audiobooks" count="147"/>
+      <shelf name="adult-fiction" count="118"/>
+      <shelf name="bookclub" count="101"/>
+      <shelf name="read-in-2015" count="94"/>
+      <shelf name="adult" count="92"/>
+      <shelf name="library" count="89"/>
+      <shelf name="boston" count="88"/>
+      <shelf name="books-i-own" count="86"/>
+      <shelf name="audio-books" count="82"/>
+      <shelf name="kindle" count="80"/>
+      <shelf name="coming-of-age" count="76"/>
+      <shelf name="jewish" count="76"/>
+      <shelf name="read-2015" count="68"/>
+      <shelf name="audio-book" count="65"/>
+      <shelf name="book-club-books" count="61"/>
+      <shelf name="owned" count="59"/>
+      <shelf name="family" count="49"/>
+      <shelf name="2015-books" count="48"/>
+      <shelf name="audible" count="47"/>
+      <shelf name="read-in-2016" count="45"/>
+      <shelf name="history" count="41"/>
+      <shelf name="book-group" count="39"/>
+      <shelf name="women" count="37"/>
+      <shelf name="to-buy" count="36"/>
+      <shelf name="novels" count="36"/>
+      <shelf name="read-in-2017" count="35"/>
+      <shelf name="book-club-reads" count="35"/>
+      <shelf name="literary-fiction" count="34"/>
+      <shelf name="feminism" count="33"/>
+      <shelf name="read-2016" count="32"/>
+      <shelf name="romance" count="32"/>
+      <shelf name="contemporary" count="31"/>
+      <shelf name="new-england" count="31"/>
+      <shelf name="2015-reads" count="30"/>
+      <shelf name="library-book" count="30"/>
+      <shelf name="general-fiction" count="29"/>
+      <shelf name="ebook" count="28"/>
+      <shelf name="friendship" count="28"/>
+      <shelf name="2016-books" count="26"/>
+      <shelf name="anita-diamant" count="26"/>
+      <shelf name="2015-read" count="25"/>
+      <shelf name="abandoned" count="25"/>
+      <shelf name="chick-lit" count="24"/>
+      <shelf name="to-read-fiction" count="24"/>
+      <shelf name="wish-list" count="24"/>
+      <shelf name="did-not-finish" count="23"/>
+      <shelf name="books-read-in-2015" count="23"/>
+      <shelf name="judaism" count="23"/>
+      <shelf name="2016-reads" count="22"/>
+      <shelf name="listened-to" count="22"/>
+      <shelf name="massachusetts" count="22"/>
+      <shelf name="novel" count="21"/>
+      <shelf name="overdrive" count="21"/>
+      <shelf name="family-relationships" count="20"/>
+      <shelf name="library-books" count="20"/>
+      <shelf name="relationships" count="20"/>
+      <shelf name="recommended" count="20"/>
+      <shelf name="2016-read" count="19"/>
+      <shelf name="contemporary-fiction" count="19"/>
+      <shelf name="owned-books" count="19"/>
+      <shelf name="read-in-2018" count="18"/>
+      <shelf name="netgalley" count="18"/>
+      <shelf name="immigrant" count="17"/>
+      <shelf name="2015-books-read" count="17"/>
+      <shelf name="finished" count="17"/>
+      <shelf name="ebooks" count="17"/>
+      <shelf name="20th-century" count="17"/>
+      <shelf name="fiction-historical" count="17"/>
+      <shelf name="2016-reading-challenge" count="16"/>
+      <shelf name="realistic-fiction" count="16"/>
+      <shelf name="2015-reading-challenge" count="16"/>
+      <shelf name="immigrants" count="16"/>
+      <shelf name="usa" count="16"/>
+      <shelf name="read-2017" count="15"/>
+      <shelf name="2017-reads" count="15"/>
+      <shelf name="memoir" count="15"/>
+      <shelf name="the-boston-girl" count="15"/>
+      <shelf name="books-read-2015" count="14"/>
+      <shelf name="american" count="14"/>
+      <shelf name="family-saga" count="13"/>
+      <shelf name="literature" count="13"/>
+      <shelf name="women-s-fiction" count="13"/>
+      <shelf name="2017-books" count="12"/>
+      <shelf name="historic-fiction" count="12"/>
+      <shelf name="own-it" count="12"/>
+      <shelf name="didn-t-finish" count="12"/>
+      <shelf name="jewish-fiction" count="12"/>
+      <shelf name="2018-books" count="11"/>
+      <shelf name="shelfari-favorites" count="11"/>
+      <shelf name="united-states" count="11"/>
+      <shelf name="summer-2015" count="11"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23209927</id>
+<title>At the Water&apos;s Edge</title>
+<title_without_series>At the Water&apos;s Edge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23209927-at-the-water-s-edge]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412194706l/23209927._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412194706l/23209927._SX98_.jpg]]></image_url>
+<num_pages>348</num_pages>
+<work>
+<id>42753039</id>
+</work>
+<isbn>0385523238</isbn>
+<isbn13>9780385523233</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>24556</id>
+<name>Sara Gruen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24556.Sara_Gruen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34912895</id>
+<title>The Great Alone</title>
+<title_without_series>The Great Alone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34912895-the-great-alone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56275107</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32148570</id>
+<title>Before We Were Yours</title>
+<title_without_series>Before We Were Yours</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32148570-before-we-were-yours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>52786185</id>
+</work>
+<isbn>0425284689</isbn>
+<isbn13>9780425284681</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>178832</id>
+<name>Lisa Wingate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178832.Lisa_Wingate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35133922</id>
+<title>Educated</title>
+<title_without_series>Educated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35133922-educated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>53814228</id>
+</work>
+<isbn>0399590501</isbn>
+<isbn13>9780399590504</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16121977</id>
+<name>Tara Westover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16121977.Tara_Westover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40914165</id>
+<title><![CDATA[The Book Woman of Troublesome Creek]]></title>
+<title_without_series><![CDATA[The Book Woman of Troublesome Creek]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40914165-the-book-woman-of-troublesome-creek]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543864786l/40914165._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543864786l/40914165._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>63789129</id>
+</work>
+<isbn>1492671525</isbn>
+<isbn13>9781492671527</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>2063992</id>
+<name>Kim Michele Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2063992.Kim_Michele_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25893693</id>
+<title>Lilac Girls (Lilac Girls, #1)</title>
+<title_without_series>Lilac Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25893693-lilac-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462850258l/25893693._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462850258l/25893693._SX98_.jpg]]></image_url>
+<num_pages>487</num_pages>
+<work>
+<id>45775594</id>
+</work>
+<isbn>1101883073</isbn>
+<isbn13>9781101883075</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14160478</id>
+<name>Martha Hall Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14160478.Martha_Hall_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39816076</id>
+<title>The Lost Girls of Paris</title>
+<title_without_series>The Lost Girls of Paris</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39816076-the-lost-girls-of-paris]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527997527l/39816076._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527997527l/39816076._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>61573651</id>
+</work>
+<isbn>0778330273</isbn>
+<isbn13>9780778330271</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>213562</id>
+<name>Pam Jenoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213562.Pam_Jenoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32051912</id>
+<title>The Alice Network</title>
+<title_without_series>The Alice Network</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32051912-the-alice-network]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492238040l/32051912._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492238040l/32051912._SX98_.jpg]]></image_url>
+<num_pages>532</num_pages>
+<work>
+<id>50492909</id>
+</work>
+<isbn>0062654195</isbn>
+<isbn13>9780062654199</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2974095</id>
+<name>Kate Quinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2974095.Kate_Quinn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42135029</id>
+<title>City of Girls</title>
+<title_without_series>City of Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42135029-city-of-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545498817l/42135029._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545498817l/42135029._SX98_.jpg]]></image_url>
+<num_pages>470</num_pages>
+<work>
+<id>65729493</id>
+</work>
+<isbn>1594634734</isbn>
+<isbn13>9781594634734</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>11679</id>
+<name>Elizabeth Gilbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11679.Elizabeth_Gilbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21853621</id>
+<title>The Nightingale</title>
+<title_without_series>The Nightingale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21853621-the-nightingale]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446316l/21853621._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446316l/21853621._SX98_.jpg]]></image_url>
+<num_pages>440</num_pages>
+<work>
+<id>41125521</id>
+</work>
+<isbn>0312577222</isbn>
+<isbn13>9780312577223</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42283286</id>
+<title>Summer of &apos;69</title>
+<title_without_series>Summer of &apos;69</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42283286-summer-of-69]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540085775l/42283286._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540085775l/42283286._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>66244148</id>
+</work>
+<isbn>0316420018</isbn>
+<isbn13>9780316420013</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>88301</id>
+<name>Elin Hilderbrand</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88301.Elin_Hilderbrand]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40988979</id>
+<title>Lost Roses (Lilac Girls #2)</title>
+<title_without_series>Lost Roses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40988979-lost-roses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536843020l/40988979._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536843020l/40988979._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>55023202</id>
+</work>
+<isbn>1524796379</isbn>
+<isbn13>9781524796372</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>14160478</id>
+<name>Martha Hall Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14160478.Martha_Hall_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40597810</id>
+<title>Daisy Jones &amp; The Six</title>
+<title_without_series>Daisy Jones &amp; The Six</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40597810-daisy-jones-the-six]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551887263l/40597810._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551887263l/40597810._SX98_.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>61127102</id>
+</work>
+<isbn>1524798622</isbn>
+<isbn13>9781524798628</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6572605</id>
+<name>Taylor Jenkins Reid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6572605.Taylor_Jenkins_Reid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40538657</id>
+<title>The Island of Sea Women</title>
+<title_without_series>The Island of Sea Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40538657-the-island-of-sea-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549839392l/40538657._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549839392l/40538657._SX98_.jpg]]></image_url>
+<num_pages>374</num_pages>
+<work>
+<id>62803411</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>713</id>
+<name>Lisa See</name>
+<link><![CDATA[https://www.goodreads.com/author/show/713.Lisa_See]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39893613</id>
+<title><![CDATA[The Gown: A Novel of the Royal Wedding]]></title>
+<title_without_series><![CDATA[The Gown: A Novel of the Royal Wedding]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39893613-the-gown]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535551119l/39893613._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535551119l/39893613._SX98_.jpg]]></image_url>
+<num_pages>371</num_pages>
+<work>
+<id>61723307</id>
+</work>
+<isbn>0062674951</isbn>
+<isbn13>9780062674951</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>7127292</id>
+<name>Jennifer Robson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7127292.Jennifer_Robson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39280445</id>
+<title>Nine Perfect Strangers</title>
+<title_without_series>Nine Perfect Strangers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39280445-nine-perfect-strangers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529076901l/39280445._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529076901l/39280445._SX98_.jpg]]></image_url>
+<num_pages>453</num_pages>
+<work>
+<id>62505329</id>
+</work>
+<isbn>1250069823</isbn>
+<isbn13>9781250069825</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>322069</id>
+<name>Liane Moriarty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/322069.Liane_Moriarty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44318414</id>
+<title>The Dutch House</title>
+<title_without_series>The Dutch House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44318414-the-dutch-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68864841</id>
+</work>
+<isbn>0062963678</isbn>
+<isbn13>9780062963673</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>73112</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7136914</id>
+<name>Ann Patchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7136914.Ann_Patchett]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

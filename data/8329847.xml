@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8329847</id>
+  <title>The Book of Men</title>
+  <isbn><![CDATA[0393079554]]></isbn>
+  <isbn13><![CDATA[9780393079555]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>W. W. Norton  Company</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The narrative poems in Dorianne Laux's fifth collection charge through the summer of love, where Vietnam casts a long shadow, and into the present day, where she compassionately paints the smoky bars, graffiti, and addiction of urban life. Laux is "continually engaging and, at her best, luminous" (San Diego Union-Tribune).<br /><br />from "To Kiss Frank,"<br /><i> make out with him a bit, this<br /> is what my friend would like to do<br /> oh these too many dead summers later,<br /> and as much as I want to stroll with her<br /> into the poet's hazy fancy<br /> all I can see is O'Hara's long gone lips<br /> fallen free of the bone, slumbering<br /> beneath the grainy soil.</i>]]></description>
+  <work>
+  <id type="integer">13179749</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">8329847</best_book_id>
+  <reviews_count type="integer">1207</reviews_count>
+  <ratings_sum type="integer">2068</ratings_sum>
+  <ratings_count type="integer">488</ratings_count>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <original_title>The Book of Men</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:236|4:156|3:76|2:16|1:4|total:488</rating_dist>
+  <desc_user_id type="integer">2330968</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.nKkl4wrHOojePLrsFxwutQ</work_uri>
+</work>
+  <average_rating>4.24</average_rating>
+  <num_pages><![CDATA[96]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[442]]></ratings_count>
+  <text_reviews_count><![CDATA[59]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8329847-the-book-of-men]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8329847-the-book-of-men]]></link>
+  <authors>
+<author>
+<id>155377</id>
+<name>Dorianne Laux</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199379173p5/155377.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199379173p2/155377.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/155377.Dorianne_Laux]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>5530</ratings_count>
+<text_reviews_count>549</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8329847-the-book-of-men">The Book of Men Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0393079554&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/8329847-the-book-of-men?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="621"/>
+      <shelf name="poetry" count="143"/>
+      <shelf name="currently-reading" count="15"/>
+      <shelf name="favorites" count="8"/>
+      <shelf name="poetry-to-read" count="3"/>
+      <shelf name="to-read-poetry" count="3"/>
+      <shelf name="read-2016" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="women" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="poetry-poetics" count="2"/>
+      <shelf name="poetry-books" count="2"/>
+      <shelf name="contemporary-poetry" count="2"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="re-reading" count="1"/>
+      <shelf name="all-kcf" count="1"/>
+      <shelf name="minuteman-to-request" count="1"/>
+      <shelf name="literary" count="1"/>
+      <shelf name="poems" count="1"/>
+      <shelf name="gca2011" count="1"/>
+      <shelf name="bottom-half" count="1"/>
+      <shelf name="zp-2011-e" count="1"/>
+      <shelf name="bookcart" count="1"/>
+      <shelf name="zformat-ebook" count="1"/>
+      <shelf name="zzz-w-w-norton-company" count="1"/>
+      <shelf name="read-in-my-twenties" count="1"/>
+      <shelf name="goodreads-choice-award-2011" count="1"/>
+      <shelf name="non-fiction" count="1"/>
+      <shelf name="favorite-list" count="1"/>
+      <shelf name="women-s-writing" count="1"/>
+      <shelf name="poetry-tbr" count="1"/>
+      <shelf name="victoria-read" count="1"/>
+      <shelf name="american" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="usc-library-books" count="1"/>
+      <shelf name="i-got-connections" count="1"/>
+      <shelf name="_owned-books" count="1"/>
+      <shelf name="feminism" count="1"/>
+      <shelf name="grad-school" count="1"/>
+      <shelf name="usa" count="1"/>
+      <shelf name="fiction" count="1"/>
+      <shelf name="pub-2011" count="1"/>
+      <shelf name="faves" count="1"/>
+      <shelf name="read-poetry" count="1"/>
+      <shelf name="poetry-proze" count="1"/>
+      <shelf name="on-shelf" count="1"/>
+      <shelf name="re-read" count="1"/>
+      <shelf name="to-reorganize" count="1"/>
+      <shelf name="11111111" count="1"/>
+      <shelf name="come-back-later" count="1"/>
+      <shelf name="books-read-in-2016" count="1"/>
+      <shelf name="facebook" count="1"/>
+      <shelf name="fantasybooks" count="1"/>
+      <shelf name="books-i-read-in-2012" count="1"/>
+      <shelf name="favorite-poetry" count="1"/>
+      <shelf name="awarded" count="1"/>
+      <shelf name="to-read-soon" count="1"/>
+      <shelf name="a-year-in-books-2015" count="1"/>
+      <shelf name="tbr" count="1"/>
+      <shelf name="inventory" count="1"/>
+      <shelf name="general-and-literary" count="1"/>
+      <shelf name="read-immediately" count="1"/>
+      <shelf name="2014-books" count="1"/>
+      <shelf name="read-in-2015" count="1"/>
+      <shelf name="want-to-read-in-2015" count="1"/>
+      <shelf name="2014-book-challenge" count="1"/>
+      <shelf name="catalog" count="1"/>
+      <shelf name="poesy" count="1"/>
+      <shelf name="finished-in-2014" count="1"/>
+      <shelf name="nonfiction" count="1"/>
+      <shelf name="choice-awards-11" count="1"/>
+      <shelf name="pomes" count="1"/>
+      <shelf name="nclf" count="1"/>
+      <shelf name="to-read-next-final-144" count="1"/>
+      <shelf name="school" count="1"/>
+      <shelf name="read-in-2013" count="1"/>
+      <shelf name="2011-release" count="1"/>
+      <shelf name="need-to-buy-to-read" count="1"/>
+      <shelf name="returned-before-read" count="1"/>
+      <shelf name="want-to-read-this-year" count="1"/>
+      <shelf name="dont-own" count="1"/>
+      <shelf name="read-for-college" count="1"/>
+      <shelf name="a-romance-and-poetry" count="1"/>
+      <shelf name="nxnw" count="1"/>
+      <shelf name="favorite" count="1"/>
+      <shelf name="issue-8-poetry" count="1"/>
+      <shelf name="auto-biography-memoirs" count="1"/>
+      <shelf name="american-literature" count="1"/>
+      <shelf name="from-the-stacks" count="1"/>
+      <shelf name="wanted" count="1"/>
+      <shelf name="read-in-2012" count="1"/>
+      <shelf name="i-can-watch-a-sunset-on-my-own" count="1"/>
+      <shelf name="umm-get-a-book-jacket" count="1"/>
+      <shelf name="shield-your-eyes-kids" count="1"/>
+      <shelf name="north-america-about-or-setting" count="1"/>
+      <shelf name="spl" count="1"/>
+      <shelf name="0-100" count="1"/>
+      <shelf name="all-time-faves" count="1"/>
+      <shelf name="genre-poetry-short-stories-plays" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>29875897</id>
+<title>Whereas</title>
+<title_without_series>Whereas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29875897-whereas]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463952757l/29875897._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463952757l/29875897._SX98_.jpg]]></image_url>
+<num_pages>110</num_pages>
+<work>
+<id>50248675</id>
+</work>
+<isbn>1555977677</isbn>
+<isbn13>9781555977672</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4037996</id>
+<name>Layli Long Soldier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4037996.Layli_Long_Soldier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13220873</id>
+<title>Slow Lightning</title>
+<title_without_series>Slow Lightning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13220873-slow-lightning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344668220l/13220873._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344668220l/13220873._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>18407553</id>
+</work>
+<isbn>030017893X</isbn>
+<isbn13>9780300178937</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2829680</id>
+<name>Eduardo C. Corral</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2829680.Eduardo_C_Corral]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6711397</id>
+<title>Lighthead</title>
+<title_without_series>Lighthead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6711397-lighthead]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>95</num_pages>
+<work>
+<id>6907255</id>
+</work>
+<isbn>0143116967</isbn>
+<isbn13>9780143116967</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>92372</id>
+<name>Terrance Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92372.Terrance_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26114310</id>
+<title>Look</title>
+<title_without_series>Look</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26114310-look]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444695417l/26114310._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444695417l/26114310._SX98_.jpg]]></image_url>
+<num_pages>98</num_pages>
+<work>
+<id>46061210</id>
+</work>
+<isbn>1555977448</isbn>
+<isbn13>9781555977443</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7052571</id>
+<name>Solmaz Sharif</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7052571.Solmaz_Sharif]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13124956</id>
+<title>When My Brother Was an Aztec</title>
+<title_without_series>When My Brother Was an Aztec</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13124956-when-my-brother-was-an-aztec]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758134l/13124956._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758134l/13124956._SX98_.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>18300753</id>
+</work>
+<isbn>155659383X</isbn>
+<isbn13>9781556593833</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5354524</id>
+<name>Natalie Díaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5354524.Natalie_D_az]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20702577</id>
+<title>The New Testament</title>
+<title_without_series>The New Testament</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20702577-the-new-testament]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415678109l/20702577._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415678109l/20702577._SX98_.jpg]]></image_url>
+<num_pages>73</num_pages>
+<work>
+<id>40022408</id>
+</work>
+<isbn></isbn>
+<isbn13>9781556594571</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1877139</id>
+<name>Jericho Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1877139.Jericho_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20702539</id>
+<title>Prelude to Bruise</title>
+<title_without_series>Prelude to Bruise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20702539-prelude-to-bruise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417624280l/20702539._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417624280l/20702539._SX98_.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>40022374</id>
+</work>
+<isbn>1566893747</isbn>
+<isbn13>9781566893749</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>5054643</id>
+<name>Saeed Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5054643.Saeed_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121980</id>
+<title>Deaf Republic: Poems</title>
+<title_without_series>Deaf Republic: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121980-deaf-republic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527398356l/40121980._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527398356l/40121980._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>62223064</id>
+</work>
+<isbn>1555978312</isbn>
+<isbn13>9781555978310</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>229975</id>
+<name>Ilya Kaminsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229975.Ilya_Kaminsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31944953</id>
+<title><![CDATA[When I Grow Up I Want to Be a List of Further Possibilities]]></title>
+<title_without_series><![CDATA[When I Grow Up I Want to Be a List of Further Possibilities]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31944953-when-i-grow-up-i-want-to-be-a-list-of-further-possibilities]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475302164l/31944953._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475302164l/31944953._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>52603609</id>
+</work>
+<isbn>1942683332</isbn>
+<isbn13>9781942683339</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15757000</id>
+<name>Chen  Chen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15757000.Chen_Chen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23281518</id>
+<title><![CDATA[This Present Moment: New Poems]]></title>
+<title_without_series><![CDATA[This Present Moment: New Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23281518-this-present-moment]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415678164l/23281518._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415678164l/23281518._SX98_.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>42819544</id>
+</work>
+<isbn>1619025248</isbn>
+<isbn13>9781619025240</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>1230</id>
+<name>Gary Snyder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1230.Gary_Snyder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30087886</id>
+<title>The Crown Ain&apos;t Worth Much</title>
+<title_without_series>The Crown Ain&apos;t Worth Much</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30087886-the-crown-ain-t-worth-much]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463568293l/30087886._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463568293l/30087886._SX98_.jpg]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>50507399</id>
+</work>
+<isbn>1943735042</isbn>
+<isbn13>9781943735044</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14133519</id>
+<name>Hanif Abdurraqib</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14133519.Hanif_Abdurraqib]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38402135</id>
+<title>The Carrying: Poems</title>
+<title_without_series>The Carrying: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38402135-the-carrying]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519915438l/38402135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519915438l/38402135._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>60057973</id>
+</work>
+<isbn>1571315128</isbn>
+<isbn13>9781571315120</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>291817</id>
+<name>Ada Limon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/291817.Ada_Limon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1580749</id>
+<title>Fire to Fire</title>
+<title_without_series>Fire to Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1580749.Fire_to_Fire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1573557</id>
+</work>
+<isbn>0060752475</isbn>
+<isbn13>9780060752477</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>61509</id>
+<name>Mark Doty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61509.Mark_Doty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35871486</id>
+<title>Oceanic</title>
+<title_without_series>Oceanic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35871486-oceanic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508978489l/35871486._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508978489l/35871486._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>57388909</id>
+</work>
+<isbn>1556595263</isbn>
+<isbn13>9781556595264</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>207022</id>
+<name>Aimee Nezhukumatathil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/207022.Aimee_Nezhukumatathil]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8396429</id>
+<title><![CDATA[One with Others: [a little book of her days]]]></title>
+<title_without_series><![CDATA[One with Others: [a little book of her days]]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8396429-one-with-others]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758116l/8396429._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328758116l/8396429._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>13255779</id>
+</work>
+<isbn>1556593244</isbn>
+<isbn13>9781556593246</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>80899</id>
+<name>C.D. Wright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80899.C_D_Wright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32566407</id>
+<title>Portrait of the Alcoholic</title>
+<title_without_series>Portrait of the Alcoholic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32566407-portrait-of-the-alcoholic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478793203l/32566407._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478793203l/32566407._SX98_.jpg]]></image_url>
+<num_pages>45</num_pages>
+<work>
+<id>53138935</id>
+</work>
+<isbn>1943977275</isbn>
+<isbn13>9781943977277</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>15957484</id>
+<name>Kaveh Akbar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15957484.Kaveh_Akbar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>331046</id>
+<title><![CDATA[The Continuum Concept: In Search of Happiness Lost]]></title>
+<title_without_series><![CDATA[The Continuum Concept: In Search of Happiness Lost]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/331046.The_Continuum_Concept]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339255068l/331046._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339255068l/331046._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>321619</id>
+</work>
+<isbn>0201050714</isbn>
+<isbn13>9780201050714</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>189947</id>
+<name>Jean Liedloff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/189947.Jean_Liedloff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25778603</id>
+<title>Wild Hundreds</title>
+<title_without_series>Wild Hundreds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25778603-wild-hundreds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444844281l/25778603._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444844281l/25778603._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>45628215</id>
+</work>
+<isbn>0822963833</isbn>
+<isbn13>9780822963837</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>7381597</id>
+<name>Nate Marshall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7381597.Nate_Marshall]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

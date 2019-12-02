@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>42785750</id>
+  <title>Sulwe</title>
+  <isbn><![CDATA[1534425365]]></isbn>
+  <isbn13><![CDATA[9781534425361]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554153712l/42785750._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554153712l/42785750._SX50_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Simon  Schuster Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A <i>New York Times </i>bestseller!</b><br /> <br /><b>From Academy Award–winning actress Lupita Nyong’o comes a powerful, moving picture book about colorism, self-esteem, and learning that true beauty comes from within.</b><br /><br />Sulwe has skin the color of midnight. She is darker than everyone in her family. She is darker than anyone in her school. Sulwe just wants to be beautiful and bright, like her mother and sister. Then a magical journey in the night sky opens her eyes and changes everything.<br /> <br />In this stunning debut picture book, actress Lupita Nyong’o creates a whimsical and heartwarming story to inspire children to see their own unique beauty.]]></description>
+  <work>
+  <id type="integer">59759904</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">38090144</best_book_id>
+  <reviews_count type="integer">4984</reviews_count>
+  <ratings_sum type="integer">5707</ratings_sum>
+  <ratings_count type="integer">1250</ratings_count>
+  <text_reviews_count type="integer">292</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>Sulwe</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:862|4:286|3:69|2:13|1:20|total:1250</rating_dist>
+  <desc_user_id type="integer">5825173</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.UpIjwdSLXqun88wzaOImXQ</work_uri>
+</work>
+  <average_rating>4.57</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[339]]></ratings_count>
+  <text_reviews_count><![CDATA[60]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/42785750-sulwe]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/42785750-sulwe]]></link>
+  <authors>
+<author>
+<id>17623053</id>
+<name>Lupita Nyong’o</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17623053.Lupita_Nyong_o]]></link>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<text_reviews_count>292</text_reviews_count>
+</author>
+<author>
+<id>16890089</id>
+<name>Vashti Harrison</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16890089.Vashti_Harrison]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>5321</ratings_count>
+<text_reviews_count>1143</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/42785750-sulwe">Sulwe Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1534425365&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/42785750-sulwe?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3413"/>
+      <shelf name="picture-books" count="177"/>
+      <shelf name="picture-book" count="56"/>
+      <shelf name="childrens" count="54"/>
+      <shelf name="children" count="29"/>
+      <shelf name="children-s" count="28"/>
+      <shelf name="currently-reading" count="24"/>
+      <shelf name="children-s-books" count="23"/>
+      <shelf name="kids-books" count="21"/>
+      <shelf name="kids" count="20"/>
+      <shelf name="read-in-2019" count="18"/>
+      <shelf name="diversity" count="18"/>
+      <shelf name="favorites" count="17"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="childrens-books" count="12"/>
+      <shelf name="poc" count="11"/>
+      <shelf name="self-esteem" count="10"/>
+      <shelf name="family" count="8"/>
+      <shelf name="picturebooks" count="8"/>
+      <shelf name="multicultural" count="7"/>
+      <shelf name="picture" count="7"/>
+      <shelf name="childrens-picture-books" count="7"/>
+      <shelf name="identity" count="7"/>
+      <shelf name="we-need-diverse-books" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="race" count="7"/>
+      <shelf name="illustrated" count="6"/>
+      <shelf name="2019-reads" count="6"/>
+      <shelf name="body-image" count="6"/>
+      <shelf name="africa" count="6"/>
+      <shelf name="bullying" count="6"/>
+      <shelf name="african-american" count="6"/>
+      <shelf name="ownvoices" count="6"/>
+      <shelf name="magical-realism" count="5"/>
+      <shelf name="self-acceptance" count="5"/>
+      <shelf name="children-s-picture-books" count="5"/>
+      <shelf name="diverse" count="5"/>
+      <shelf name="diverse-reads" count="5"/>
+      <shelf name="african" count="5"/>
+      <shelf name="fantasy" count="5"/>
+      <shelf name="inspirational" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="acceptance" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="children-s-literature" count="4"/>
+      <shelf name="2019-picture-books" count="4"/>
+      <shelf name="own-voices" count="4"/>
+      <shelf name="2019-reading-challenge" count="4"/>
+      <shelf name="diverse-books" count="4"/>
+      <shelf name="children-s-lit" count="4"/>
+      <shelf name="pb" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="families" count="3"/>
+      <shelf name="juvenile" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="classroom-library" count="3"/>
+      <shelf name="2019-read" count="3"/>
+      <shelf name="childrens-lit" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="to-purchase" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="gifts" count="3"/>
+      <shelf name="classroombookaday" count="3"/>
+      <shelf name="wndb" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="2019-releases" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="picture-books-to-read" count="3"/>
+      <shelf name="self-love" count="2"/>
+      <shelf name="2020" count="2"/>
+      <shelf name="2019-challenge" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="2019-pub" count="2"/>
+      <shelf name="poetry" count="2"/>
+      <shelf name="emotions" count="2"/>
+      <shelf name="goodreads-choice-awards" count="2"/>
+      <shelf name="weneeddiversebooks" count="2"/>
+      <shelf name="diverse-picture-books" count="2"/>
+      <shelf name="read-alouds" count="2"/>
+      <shelf name="grca19" count="2"/>
+      <shelf name="grace" count="2"/>
+      <shelf name="children-s-books-to-read" count="2"/>
+      <shelf name="mythology" count="2"/>
+      <shelf name="confidence" count="2"/>
+      <shelf name="people-of-color" count="2"/>
+      <shelf name="beautiful" count="2"/>
+      <shelf name="skin-color" count="2"/>
+      <shelf name="diverse-authors" count="2"/>
+      <shelf name="picturebook" count="2"/>
+      <shelf name="children-s-picture-book" count="2"/>
+      <shelf name="1st-grade" count="2"/>
+      <shelf name="sulwe" count="2"/>
+      <shelf name="wow" count="2"/>
+      <shelf name="racism" count="2"/>
+      <shelf name="bedtime" count="2"/>
+      <shelf name="3rd-grade" count="2"/>
+      <shelf name="2nd-grade" count="2"/>
+      <shelf name="elementary-books" count="2"/>
+      <shelf name="kid-s-books" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>43822431</id>
+<title><![CDATA[Parker Looks Up: An Extraordinary Moment]]></title>
+<title_without_series><![CDATA[Parker Looks Up: An Extraordinary Moment]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822431-parker-looks-up]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569152840l/43822431._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569152840l/43822431._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68194325</id>
+</work>
+<isbn>1534451862</isbn>
+<isbn13>9781534451865</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>18846034</id>
+<name>Parker Curry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18846034.Parker_Curry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43853210</id>
+<title>The Proudest Blue</title>
+<title_without_series>The Proudest Blue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43853210-the-proudest-blue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549414261l/43853210._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549414261l/43853210._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68238463</id>
+</work>
+<isbn>0316519006</isbn>
+<isbn13>9780316519007</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>17325166</id>
+<name>Ibtihaj Muhammad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17325166.Ibtihaj_Muhammad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43671848</id>
+<title>Just Because</title>
+<title_without_series>Just Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43671848-just-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67946194</id>
+</work>
+<isbn>0763696803</isbn>
+<isbn13>9780763696801</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40944115</id>
+<title>Hair Love</title>
+<title_without_series>Hair Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40944115-hair-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555477540l/40944115._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555477540l/40944115._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>63847832</id>
+</work>
+<isbn>0525553363</isbn>
+<isbn13>9780525553366</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>18238761</id>
+<name>Matthew A. Cherry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18238761.Matthew_A_Cherry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43885033</id>
+<title>A Big Bed for Little Snow</title>
+<title_without_series>A Big Bed for Little Snow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43885033-a-big-bed-for-little-snow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559608427l/43885033._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559608427l/43885033._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68278846</id>
+</work>
+<isbn>0316478369</isbn>
+<isbn13>9780316478366</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>59390</id>
+<name>Grace Lin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59390.Grace_Lin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42642044</id>
+<title><![CDATA[Fry Bread: A Native American Family Story]]></title>
+<title_without_series><![CDATA[Fry Bread: A Native American Family Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42642044-fry-bread]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552350029l/42642044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552350029l/42642044._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>66378695</id>
+</work>
+<isbn>1626727465</isbn>
+<isbn13>9781626727465</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>5848280</id>
+<name>Kevin Noble Maillard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5848280.Kevin_Noble_Maillard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45698429</id>
+<title>I Am Perfectly Designed</title>
+<title_without_series>I Am Perfectly Designed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45698429-i-am-perfectly-designed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557424013l/45698429._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557424013l/45698429._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>70466598</id>
+</work>
+<isbn>125023221X</isbn>
+<isbn13>9781250232212</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>18259221</id>
+<name>Karamo Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18259221.Karamo_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38595349</id>
+<title>Unicorn Day</title>
+<title_without_series>Unicorn Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38595349-unicorn-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>60200136</id>
+</work>
+<isbn>1492667226</isbn>
+<isbn13>9781492667223</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14153562</id>
+<name>Diana  Murray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14153562.Diana_Murray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35964863</id>
+<title>Amy Wu and the Perfect Bao</title>
+<title_without_series>Amy Wu and the Perfect Bao</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35964863-amy-wu-and-the-perfect-bao]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548299901l/35964863._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548299901l/35964863._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57524095</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4774478</id>
+<name>Kat Zhang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4774478.Kat_Zhang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41954471</id>
+<title><![CDATA[What If Everybody Thought That?]]></title>
+<title_without_series><![CDATA[What If Everybody Thought That?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41954471-what-if-everybody-thought-that]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554313139l/41954471._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554313139l/41954471._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>65462045</id>
+</work>
+<isbn>1542091373</isbn>
+<isbn13>9781542091374</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>493352</id>
+<name>Ellen Javernick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/493352.Ellen_Javernick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43269386</id>
+<title>Saturday</title>
+<title_without_series>Saturday</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43269386-saturday]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551986043l/43269386._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551986043l/43269386._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67153999</id>
+</work>
+<isbn>0316431273</isbn>
+<isbn13>9780316431279</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>16600636</id>
+<name>Oge Mora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16600636.Oge_Mora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38791999</id>
+<title>Because</title>
+<title_without_series>Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38791999-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60366827</id>
+</work>
+<isbn>1368019013</isbn>
+<isbn13>9781368019019</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221498</id>
+<title>The Good Egg</title>
+<title_without_series>The Good Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221498-the-good-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>62460576</id>
+</work>
+<isbn>0062866001</isbn>
+<isbn13>9780062866004</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44095598</id>
+<title><![CDATA[Sofia Valdez, Future Prez (Questioneers Picture Book, #4)]]></title>
+<title_without_series>Sofia Valdez, Future Prez</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44095598-sofia-valdez-future-prez]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68576997</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>379125</id>
+<name>Andrea Beaty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/379125.Andrea_Beaty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43884961</id>
+<title>Please Don&apos;t Eat Me</title>
+<title_without_series>Please Don&apos;t Eat Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43884961-please-don-t-eat-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550651328l/43884961._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550651328l/43884961._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68278754</id>
+</work>
+<isbn>0316315257</isbn>
+<isbn13>9780316315258</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>7126212</id>
+<name>Liz Climo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126212.Liz_Climo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822627</id>
+<title><![CDATA[M Is for Melanin: A Celebration of the Black Child]]></title>
+<title_without_series><![CDATA[M Is for Melanin: A Celebration of the Black Child]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822627-m-is-for-melanin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555271690l/43822627._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555271690l/43822627._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68194495</id>
+</work>
+<isbn>1499809166</isbn>
+<isbn13>9781499809169</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19592882</id>
+<name>Tiffany   Rose</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19592882.Tiffany_Rose]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43672308</id>
+<title>Just in Case You Want to Fly</title>
+<title_without_series>Just in Case You Want to Fly</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43672308-just-in-case-you-want-to-fly]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559600981l/43672308._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559600981l/43672308._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67947702</id>
+</work>
+<isbn>0823443442</isbn>
+<isbn13>9780823443444</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4999425</id>
+<name>Julie Fogliano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4999425.Julie_Fogliano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41183554</id>
+<title>A Piglet Named Mercy</title>
+<title_without_series>A Piglet Named Mercy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41183554-a-piglet-named-mercy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64361636</id>
+</work>
+<isbn>0763677531</isbn>
+<isbn13>9780763677534</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>1250</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

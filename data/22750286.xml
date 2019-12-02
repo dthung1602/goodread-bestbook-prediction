@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22750286</id>
+  <title>Sidewalk Flowers</title>
+  <isbn><![CDATA[1554984319]]></isbn>
+  <isbn13><![CDATA[9781554984312]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409185207l/22750286._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409185207l/22750286._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Groundwood Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In this wordless picture book, a little girl collects wildflowers while her distracted father pays her little attention. Each flower becomes a gift, and whether the gift is noticed or ignored, both giver and recipient are transformed by their encounter. "Written" by award-winning poet JonArno Lawson and brought to life by illustrator Sydney Smith, <i>Sidewalk Flowers</i> is an ode to the importance of small things, small people, and small gestures.]]></description>
+  <work>
+  <id type="integer">42295568</id>
+  <books_count type="integer">14</books_count>
+  <best_book_id type="integer">22750286</best_book_id>
+  <reviews_count type="integer">6871</reviews_count>
+  <ratings_sum type="integer">13025</ratings_sum>
+  <ratings_count type="integer">3050</ratings_count>
+  <text_reviews_count type="integer">640</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Sidewalk Flowers</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1475|4:1037|3:444|2:76|1:18|total:3050</rating_dist>
+  <desc_user_id type="integer">23051470</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.MLgRC0CHXAoFbhhPAK18gw</work_uri>
+</work>
+  <average_rating>4.27</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2811]]></ratings_count>
+  <text_reviews_count><![CDATA[570]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22750286-sidewalk-flowers]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22750286-sidewalk-flowers]]></link>
+  <authors>
+<author>
+<id>177113</id>
+<name>JonArno Lawson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/177113.JonArno_Lawson]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>3793</ratings_count>
+<text_reviews_count>840</text_reviews_count>
+</author>
+<author>
+<id>6434326</id>
+<name>Sydney  Smith</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6434326.Sydney_Smith]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>8154</ratings_count>
+<text_reviews_count>1881</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22750286-sidewalk-flowers">Sidewalk Flowers Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1554984319&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/22750286-sidewalk-flowers?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="picture-books" count="361"/>
+      <shelf name="to-read" count="306"/>
+      <shelf name="wordless" count="272"/>
+      <shelf name="picture-book" count="160"/>
+      <shelf name="childrens" count="120"/>
+      <shelf name="children-s-books" count="73"/>
+      <shelf name="children-s" count="70"/>
+      <shelf name="wordless-picture-books" count="68"/>
+      <shelf name="children" count="67"/>
+      <shelf name="favorites" count="44"/>
+      <shelf name="kids" count="42"/>
+      <shelf name="fiction" count="41"/>
+      <shelf name="nature" count="36"/>
+      <shelf name="wordless-picture-book" count="28"/>
+      <shelf name="family" count="27"/>
+      <shelf name="picturebooks" count="27"/>
+      <shelf name="childrens-books" count="26"/>
+      <shelf name="kindness" count="25"/>
+      <shelf name="wordless-books" count="25"/>
+      <shelf name="children-s-literature" count="22"/>
+      <shelf name="children-s-lit" count="20"/>
+      <shelf name="flowers" count="20"/>
+      <shelf name="picture" count="18"/>
+      <shelf name="graphic-novels" count="18"/>
+      <shelf name="read-in-2015" count="17"/>
+      <shelf name="canadian" count="17"/>
+      <shelf name="art" count="15"/>
+      <shelf name="children-books" count="14"/>
+      <shelf name="no-words" count="14"/>
+      <shelf name="kids-books" count="14"/>
+      <shelf name="currently-reading" count="13"/>
+      <shelf name="children-s-picture-books" count="12"/>
+      <shelf name="preschool" count="12"/>
+      <shelf name="graphic-novel" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="juvenile" count="11"/>
+      <shelf name="childrens-picture-books" count="11"/>
+      <shelf name="illustrated" count="10"/>
+      <shelf name="city" count="10"/>
+      <shelf name="mindfulness" count="9"/>
+      <shelf name="2015-picture-books" count="9"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="illustrations" count="8"/>
+      <shelf name="books-for-kids" count="8"/>
+      <shelf name="realistic-fiction" count="8"/>
+      <shelf name="kindergarten" count="7"/>
+      <shelf name="pb" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="beautiful-illustrations" count="7"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="children-s-book" count="6"/>
+      <shelf name="community" count="6"/>
+      <shelf name="ks1" count="5"/>
+      <shelf name="el-230" count="5"/>
+      <shelf name="death" count="5"/>
+      <shelf name="children-s-picture-book" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="childrens-book" count="5"/>
+      <shelf name="classroom-library" count="5"/>
+      <shelf name="theme" count="5"/>
+      <shelf name="wordless-pb" count="5"/>
+      <shelf name="fathers" count="5"/>
+      <shelf name="picture-books-wordless" count="5"/>
+      <shelf name="city-life" count="5"/>
+      <shelf name="for-the-kids" count="5"/>
+      <shelf name="2015-reads" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="read-2018" count="4"/>
+      <shelf name="plants" count="4"/>
+      <shelf name="read-in-2017" count="4"/>
+      <shelf name="edrd-614" count="4"/>
+      <shelf name="walking" count="4"/>
+      <shelf name="neighborhood" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="edrd-314" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="children-fiction" count="4"/>
+      <shelf name="storytime" count="4"/>
+      <shelf name="pre-k" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="books-without-words" count="4"/>
+      <shelf name="favorite-picture-books" count="4"/>
+      <shelf name="childhood" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="environment" count="4"/>
+      <shelf name="read-2015" count="4"/>
+      <shelf name="sequential-art" count="4"/>
+      <shelf name="animals" count="4"/>
+      <shelf name="juvenile-fiction" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="ks2" count="3"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="jeunesse" count="3"/>
+      <shelf name="beautiful-books" count="3"/>
+      <shelf name="exploring-quality" count="3"/>
+      <shelf name="exploring-all" count="3"/>
+      <shelf name="list-of-betterment" count="3"/>
+      <shelf name="children-picture" count="3"/>
+      <shelf name="edu-365" count="3"/>
+      <shelf name="2016-books-read" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>18475599</id>
+<title>The Farmer and the Clown</title>
+<title_without_series>The Farmer and the Clown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18475599-the-farmer-and-the-clown]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410977946l/18475599._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410977946l/18475599._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>26143585</id>
+</work>
+<isbn>1442497440</isbn>
+<isbn13>9781442497443</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>122662</id>
+<name>Marla Frazee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122662.Marla_Frazee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23309640</id>
+<title>Float</title>
+<title_without_series>Float</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23309640-float]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428630478l/23309640._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428630478l/23309640._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>42863993</id>
+</work>
+<isbn>1481415247</isbn>
+<isbn13>9781481415248</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>4108328</id>
+<name>Daniel Miyares</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4108328.Daniel_Miyares]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28118479</id>
+<title>The Sound of Silence</title>
+<title_without_series>The Sound of Silence</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28118479-the-sound-of-silence]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503426043l/28118479._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503426043l/28118479._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>48129271</id>
+</work>
+<isbn>0316203378</isbn>
+<isbn13>9780316203371</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6583731</id>
+<name>Katrina Goldsaito</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6583731.Katrina_Goldsaito]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18528005</id>
+<title>The Lion and the Bird</title>
+<title_without_series>The Lion and the Bird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18528005-the-lion-and-the-bird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400955465l/18528005._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400955465l/18528005._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>26233638</id>
+</work>
+<isbn>1592701515</isbn>
+<isbn13>9781592701513</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4201388</id>
+<name>Marianne Dubuc</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4201388.Marianne_Dubuc]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20708773</id>
+<title>Quest</title>
+<title_without_series>Quest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20708773-quest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400890167l/20708773._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400890167l/20708773._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>34983901</id>
+</work>
+<isbn>0763665959</isbn>
+<isbn13>9780763665951</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6897717</id>
+<name>Aaron Becker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6897717.Aaron_Becker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31213527</id>
+<title>Town Is by the Sea</title>
+<title_without_series>Town Is by the Sea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31213527-town-is-by-the-sea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473588574l/31213527._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473588574l/31213527._SX98_.jpg]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>51868055</id>
+</work>
+<isbn>1554988713</isbn>
+<isbn13>9781554988716</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>471616</id>
+<name>Joanne Schwartz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/471616.Joanne_Schwartz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35619275</id>
+<title>Under The Same Sky</title>
+<title_without_series>Under The Same Sky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35619275-under-the-same-sky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499464382l/35619275._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499464382l/35619275._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57063269</id>
+</work>
+<isbn>1848575866</isbn>
+<isbn13></isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>153061</id>
+<name>Britta Teckentrup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/153061.Britta_Teckentrup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41089856</id>
+<title>My Heart</title>
+<title_without_series>My Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41089856-my-heart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534149040l/41089856._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534149040l/41089856._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64200718</id>
+</work>
+<isbn>0735227934</isbn>
+<isbn13>9780735227934</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23282276</id>
+<title>The Little Gardener</title>
+<title_without_series>The Little Gardener</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23282276-the-little-gardener]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414003161l/23282276._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414003161l/23282276._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42820099</id>
+</work>
+<isbn>1909263435</isbn>
+<isbn13>9781909263437</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>8154773</id>
+<name>Emily Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8154773.Emily_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13591670</id>
+<title><![CDATA[Unspoken: A Story from the Underground Railroad]]></title>
+<title_without_series><![CDATA[Unspoken: A Story from the Underground Railroad]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13591670-unspoken]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361544923l/13591670._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361544923l/13591670._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19179742</id>
+</work>
+<isbn>0545399971</isbn>
+<isbn13>9780545399975</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>31597</id>
+<name>Henry Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31597.Henry_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43289978</id>
+<title>Small in the City</title>
+<title_without_series>Small in the City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43289978-small-in-the-city]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551843976l/43289978._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551843976l/43289978._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67177859</id>
+</work>
+<isbn>0823442616</isbn>
+<isbn13>9780823442614</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6434326</id>
+<name>Sydney  Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6434326.Sydney_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25330147</id>
+<title><![CDATA[Whatever Happened to My Sister?]]></title>
+<title_without_series><![CDATA[Whatever Happened to My Sister?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25330147-whatever-happened-to-my-sister]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435189869l/25330147._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435189869l/25330147._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45065403</id>
+</work>
+<isbn>1909263524</isbn>
+<isbn13>9781909263529</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>8077829</id>
+<name>Simona Ciraolo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8077829.Simona_Ciraolo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35232299</id>
+<title>The Night Box</title>
+<title_without_series>The Night Box</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35232299-the-night-box]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495872527l/35232299._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495872527l/35232299._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56580241</id>
+</work>
+<isbn>1405283769</isbn>
+<isbn13>9781405283762</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>15964909</id>
+<name>Louise Greig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15964909.Louise_Greig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42112749</id>
+<title>Up the Mountain</title>
+<title_without_series>Up the Mountain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42112749-up-the-mountain]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538431819l/42112749._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538431819l/42112749._SX98_.jpg]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>60332134</id>
+</work>
+<isbn>1911496093</isbn>
+<isbn13>9781911496090</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4201388</id>
+<name>Marianne Dubuc</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4201388.Marianne_Dubuc]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30613791</id>
+<title><![CDATA[Bee: A Peek-Through Picture Book]]></title>
+<title_without_series><![CDATA[Bee: A Peek-Through Picture Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30613791-bee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469412463l/30613791._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469412463l/30613791._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>51146185</id>
+</work>
+<isbn>1524715263</isbn>
+<isbn13>9781524715267</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>153061</id>
+<name>Britta Teckentrup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/153061.Britta_Teckentrup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31216973</id>
+<title>The Building Boy</title>
+<title_without_series>The Building Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31216973-the-building-boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475796324l/31216973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475796324l/31216973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>51872175</id>
+</work>
+<isbn>0571314104</isbn>
+<isbn13>9780571314102</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4689508</id>
+<name>Ross Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4689508.Ross_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17262290</id>
+<title>Journey</title>
+<title_without_series>Journey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17262290-journey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552528957l/17262290._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552528957l/17262290._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>23859090</id>
+</work>
+<isbn>0763660531</isbn>
+<isbn13>9780763660536</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6897717</id>
+<name>Aaron Becker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6897717.Aaron_Becker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15799165</id>
+<title>Bluebird</title>
+<title_without_series>Bluebird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15799165-bluebird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370720l/15799165._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370720l/15799165._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21522130</id>
+</work>
+<isbn>037597038X</isbn>
+<isbn13>9780375970382</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>24491</id>
+<name>Bob Staake</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24491.Bob_Staake]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16280882</id>
+  <title><![CDATA[Countdown (The 39 Clues: Unstoppable, #3)]]></title>
+  <isbn><![CDATA[0545521459]]></isbn>
+  <isbn13><![CDATA[9780545521451]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389053614l/16280882._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389053614l/16280882._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Scholastic Inc.</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The clock has finally run out for the Cahills. As the leaders of the world’s most powerful family, Dan and Amy have been in the crosshairs for too long. It was only a matter of time until luck failed them.<br /><br />Media tycoon and presidential candidate J. Rutherford Pierce has set his sights on destroying the siblings. And after numerous close calls, it looks like he’s about to get his wish.<br /><br />Now Dan is hopelessly trapped and nothing can save him. Nothing except unleashing an evil the Cahills have spent centuries trying to hide.<br /><br />The Cahills have always had a secret weapon, but it comes at a great cost. With everything to lose, Amy has to ask herself the question that haunts her nightmares:<br /><br />Just how far is she willing to go to save her little brother?]]></description>
+  <work>
+  <id type="integer">22382608</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">16280882</best_book_id>
+  <reviews_count type="integer">8952</reviews_count>
+  <ratings_sum type="integer">23205</ratings_sum>
+  <ratings_count type="integer">5466</ratings_count>
+  <text_reviews_count type="integer">113</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_title>Countdown</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2823|4:1459|3:950|2:170|1:64|total:5466</rating_dist>
+  <desc_user_id type="integer">104823</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.5a2UEV1OOB17_Z3uh2KaQg</work_uri>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[190]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5196]]></ratings_count>
+  <text_reviews_count><![CDATA[103]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16280882-countdown]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16280882-countdown]]></link>
+  <authors>
+<author>
+<id>136146</id>
+<name>Natalie Standiford</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1268675443p5/136146.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1268675443p2/136146.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/136146.Natalie_Standiford]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>27933</ratings_count>
+<text_reviews_count>2720</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16280882-countdown">Countdown Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545521459&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16280882-countdown?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2596"/>
+      <shelf name="39-clues" count="77"/>
+      <shelf name="currently-reading" count="65"/>
+      <shelf name="the-39-clues" count="33"/>
+      <shelf name="adventure" count="32"/>
+      <shelf name="mystery" count="26"/>
+      <shelf name="young-adult" count="19"/>
+      <shelf name="middle-grade" count="18"/>
+      <shelf name="series" count="16"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="ya" count="11"/>
+      <shelf name="audiobooks" count="10"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="kids" count="9"/>
+      <shelf name="childrens" count="8"/>
+      <shelf name="action" count="8"/>
+      <shelf name="39-clues-unstoppable" count="8"/>
+      <shelf name="audio-books" count="7"/>
+      <shelf name="children" count="7"/>
+      <shelf name="action-adventure" count="6"/>
+      <shelf name="read-2014" count="6"/>
+      <shelf name="fantasy" count="6"/>
+      <shelf name="audiobook" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="39-clues-series" count="5"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="read-2015" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="thriller" count="4"/>
+      <shelf name="children-s" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="children-s-books" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="science-fiction" count="3"/>
+      <shelf name="series-to-finish" count="3"/>
+      <shelf name="juvenile-fiction" count="3"/>
+      <shelf name="jfic" count="3"/>
+      <shelf name="39clues" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="the-39-clues-unstoppable" count="3"/>
+      <shelf name="suspense" count="2"/>
+      <shelf name="mystery-thriller" count="2"/>
+      <shelf name="hoopla" count="2"/>
+      <shelf name="childhood" count="2"/>
+      <shelf name="audible" count="2"/>
+      <shelf name="2017-reads" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="children-s-lit" count="2"/>
+      <shelf name="kids-books" count="2"/>
+      <shelf name="39" count="2"/>
+      <shelf name="5-star" count="2"/>
+      <shelf name="want-to-own" count="2"/>
+      <shelf name="historical-fiction" count="2"/>
+      <shelf name="novels" count="2"/>
+      <shelf name="4th-grade" count="2"/>
+      <shelf name="ya-fiction" count="2"/>
+      <shelf name="2015-reads" count="2"/>
+      <shelf name="middle-school-books" count="2"/>
+      <shelf name="middle-grades" count="2"/>
+      <shelf name="mysteries" count="2"/>
+      <shelf name="finished" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="dystopia-39-clues" count="2"/>
+      <shelf name="tween" count="2"/>
+      <shelf name="3-stars" count="2"/>
+      <shelf name="own-it" count="2"/>
+      <shelf name="realistic-fiction" count="2"/>
+      <shelf name="2014-reads" count="2"/>
+      <shelf name="grades-4-6" count="2"/>
+      <shelf name="chapter-books" count="2"/>
+      <shelf name="unstoppable" count="2"/>
+      <shelf name="books-to-buy" count="2"/>
+      <shelf name="have-unread" count="1"/>
+      <shelf name="wanttobuy" count="1"/>
+      <shelf name="mount-tbr" count="1"/>
+      <shelf name="2020" count="1"/>
+      <shelf name="ages-0-to-11" count="1"/>
+      <shelf name="nostalgia" count="1"/>
+      <shelf name="fiction-series" count="1"/>
+      <shelf name="fall-wrap-up" count="1"/>
+      <shelf name="young" count="1"/>
+      <shelf name="spec-ops" count="1"/>
+      <shelf name="demetri" count="1"/>
+      <shelf name="2019-reading-challenge" count="1"/>
+      <shelf name="39-clues-part-5" count="1"/>
+      <shelf name="read-in-high-school" count="1"/>
+      <shelf name="ll-read" count="1"/>
+      <shelf name="it-s-fine" count="1"/>
+      <shelf name="wishlist-39-clues" count="1"/>
+      <shelf name="buy-list" count="1"/>
+      <shelf name="any-series-with-multiple-authors" count="1"/>
+      <shelf name="gca2014" count="1"/>
+      <shelf name="books-for-c" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>514246</id>
+<user_position>3</user_position>
+<series>
+<id>105391</id>
+<title>
+<![CDATA[
+    The 39 Clues: Unstoppable
+]]>
+</title>
+<description>
+<![CDATA[
+    The 39 Clues have fallen into the wrong hands. Now the Cahills must find the serum antidote and stop J. Rutherford Pierce from using the serum to gain control over the entire world.
+    
+    A Spin Off to the Original 39 Clues Series
+    Original Series 
+    <a href="http://www.goodreads.com/series/45556-the-39-clues">The 39 Clues</a>
+    
+    Other Spin Off Series
+    <a href="http://www.goodreads.com/series/66620-the-39-clues-cahills-vs-vespers">The 39 Clues: Cahills vs. Vespers</a>
+    <a href="https://www.goodreads.com/series/127421-the-39-clues-doublecross">The 39 Clues: Doublecross</a>
+    <a href="http://www.goodreads.com/series/72020-the-39-clues-rapid-fire">The 39 Clues: Rapid Fire</a>
+    <a href="http://www.goodreads.com/series/76169-the-39-clues-the-cahill-files">The 39 Clues: The Cahill Files</a>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>24000711</id>
+<title><![CDATA[Mission Hindenburg (The 39 Clues: Doublecross, #2)]]></title>
+<title_without_series>Mission Hindenburg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24000711-mission-hindenburg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423358953l/24000711._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423358953l/24000711._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>41337977</id>
+</work>
+<isbn>0545767466</isbn>
+<isbn13>9780545767460</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>4070979</id>
+<name>C. Alexander London</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4070979.C_Alexander_London]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22749549</id>
+<title><![CDATA[Mission Titanic (The 39 Clues: Doublecross, #1)]]></title>
+<title_without_series>Mission Titanic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22749549-mission-titanic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410416228l/22749549._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410416228l/22749549._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>41337802</id>
+</work>
+<isbn>0545747813</isbn>
+<isbn13>9780545747813</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>11912</id>
+<name>Jude Watson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11912.Jude_Watson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23172734</id>
+<title><![CDATA[Mission Hurricane (The 39 Clues: Doublecross, #3)]]></title>
+<title_without_series>Mission Hurricane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23172734-mission-hurricane]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450886700l/23172734._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450886700l/23172734._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42716968</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7015032</id>
+<name>Jenny Goebel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7015032.Jenny_Goebel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12107927</id>
+<title><![CDATA[Trust No One (The 39 Clues: Cahills vs. Vespers, #5)]]></title>
+<title_without_series>Trust No One</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12107927-trust-no-one]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358266266l/12107927._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358266266l/12107927._SX98_.jpg]]></image_url>
+<num_pages>190</num_pages>
+<work>
+<id>17076928</id>
+</work>
+<isbn>0545298431</isbn>
+<isbn13>9780545298438</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>12</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>61707</id>
+<name>Linda Sue Park</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61707.Linda_Sue_Park]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12107925</id>
+<title><![CDATA[Day of Doom (The 39 Clues: Cahills vs. Vespers, #6)]]></title>
+<title_without_series>Day of Doom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12107925-day-of-doom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361785037l/12107925._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361785037l/12107925._SX98_.jpg]]></image_url>
+<num_pages>270</num_pages>
+<work>
+<id>17076926</id>
+</work>
+<isbn>054529844X</isbn>
+<isbn13>9780545298445</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23172739</id>
+<title><![CDATA[Mission Atomic (The 39 Clues: Doublecross, #4)]]></title>
+<title_without_series>Mission Atomic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23172739-mission-atomic]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468287017l/23172739._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468287017l/23172739._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42716975</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2869550</id>
+<name>Sarwat Chadda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2869550.Sarwat_Chadda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11512688</id>
+<title><![CDATA[The Dead of Night (The 39 Clues: Cahills vs. Vespers, #3)]]></title>
+<title_without_series>The Dead of Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11512688-the-dead-of-night]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331686275l/11512688._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331686275l/11512688._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>16448834</id>
+</work>
+<isbn>0545298415</isbn>
+<isbn13>9780545298414</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>17216</id>
+<name>Peter Lerangis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17216.Peter_Lerangis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12107920</id>
+<title><![CDATA[Shatterproof (The 39 Clues: Cahills vs. Vespers, #4)]]></title>
+<title_without_series>Shatterproof</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12107920-shatterproof]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331078007l/12107920._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331078007l/12107920._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>17076921</id>
+</work>
+<isbn>0545298423</isbn>
+<isbn13>9780545298421</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>137554</id>
+<name>Roland Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/137554.Roland_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10706120</id>
+<title><![CDATA[A King's Ransom (The 39 Clues: Cahills vs. Vespers, #2)]]></title>
+<title_without_series>A King&apos;s Ransom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10706120-a-king-s-ransom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329085934l/10706120._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329085934l/10706120._SX98_.jpg]]></image_url>
+<num_pages>190</num_pages>
+<work>
+<id>15616456</id>
+</work>
+<isbn>0545298407</isbn>
+<isbn13>9780545298407</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>12</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>11912</id>
+<name>Jude Watson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11912.Jude_Watson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9465845</id>
+<title><![CDATA[Vespers Rising (The 39 Clues, #11)]]></title>
+<title_without_series>Vespers Rising</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9465845-vespers-rising]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211079l/9465845._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211079l/9465845._SX98_.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>14279652</id>
+</work>
+<isbn>0545290597</isbn>
+<isbn13>9780545290593</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11198312</id>
+<title><![CDATA[The Medusa Plot (39 Clues: Cahills vs. Vespers, #1)]]></title>
+<title_without_series>The Medusa Plot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11198312-the-medusa-plot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328836311l/11198312._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328836311l/11198312._SX98_.jpg]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>16505286</id>
+</work>
+<isbn>0545324092</isbn>
+<isbn13>9780545324090</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29241354</id>
+<title><![CDATA[The 39 Clues Superspecial: Outbreak]]></title>
+<title_without_series><![CDATA[The 39 Clues Superspecial: Outbreak]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29241354-the-39-clues-superspecial]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468458033l/29241354._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468458033l/29241354._SX98_.jpg]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>49484642</id>
+</work>
+<isbn>1338037056</isbn>
+<isbn13>9781338037050</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4070979</id>
+<name>C. Alexander London</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4070979.C_Alexander_London]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6545536</id>
+<title><![CDATA[The Emperor's Code (The 39 Clues, #8)]]></title>
+<title_without_series>The Emperor&apos;s Code</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6545536-the-emperor-s-code]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211054l/6545536._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211054l/6545536._SX98_.jpg]]></image_url>
+<num_pages>190</num_pages>
+<work>
+<id>6737901</id>
+</work>
+<isbn>0545060486</isbn>
+<isbn13>9780545060486</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6697305</id>
+<title><![CDATA[Storm Warning (The 39 Clues, #9)]]></title>
+<title_without_series>Storm Warning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6697305-storm-warning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211087l/6697305._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211087l/6697305._SX98_.jpg]]></image_url>
+<num_pages>190</num_pages>
+<work>
+<id>6892987</id>
+</work>
+<isbn>0545060494</isbn>
+<isbn13>9780545060493</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>61707</id>
+<name>Linda Sue Park</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61707.Linda_Sue_Park]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6389704</id>
+<title><![CDATA[In Too Deep (The 39 Clues, #6)]]></title>
+<title_without_series>In Too Deep</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6389704-in-too-deep]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211047l/6389704._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211047l/6389704._SX98_.jpg]]></image_url>
+<num_pages>206</num_pages>
+<work>
+<id>6578095</id>
+</work>
+<isbn>054506046X</isbn>
+<isbn13>9780545060462</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>11912</id>
+<name>Jude Watson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11912.Jude_Watson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6393047</id>
+<title><![CDATA[The Viper's Nest (39 Clues, #7)]]></title>
+<title_without_series>The Viper&apos;s Nest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6393047-the-viper-s-nest]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211053l/6393047._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211053l/6393047._SX98_.jpg]]></image_url>
+<num_pages>190</num_pages>
+<work>
+<id>6581527</id>
+</work>
+<isbn>0545060478</isbn>
+<isbn13>9780545060479</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>17216</id>
+<name>Peter Lerangis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17216.Peter_Lerangis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13435623</id>
+<title><![CDATA[Operation Trinity (The 39 Clues: The Cahill Files, #1)]]></title>
+<title_without_series>Operation Trinity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13435623-operation-trinity]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>142</num_pages>
+<work>
+<id>18938319</id>
+</work>
+<isbn>0545431433</isbn>
+<isbn13>9780545431439</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4365772</id>
+<name>Clifford Riley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4365772.Clifford_Riley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6255144</id>
+<title><![CDATA[The Black Circle (The 39 Clues, #5)]]></title>
+<title_without_series>The Black Circle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6255144-the-black-circle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211043l/6255144._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357211043l/6255144._SX98_.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>6438210</id>
+</work>
+<isbn>0545060451</isbn>
+<isbn13>9780545060455</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5466</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>46474</id>
+<name>Patrick Carman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46474.Patrick_Carman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

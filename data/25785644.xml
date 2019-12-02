@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25785644</id>
+  <title><![CDATA[A Hungry Lion, or A Dwindling Assortment of Animals]]></title>
+  <isbn><![CDATA[1481448897]]></isbn>
+  <isbn13><![CDATA[9781481448895]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452817600l/25785644._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452817600l/25785644._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Once upon a time there was a very hungry lion and some adorable little animals...<br /><br />What do you think happened next?]]></description>
+  <work>
+  <id type="integer">45636363</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">25785644</best_book_id>
+  <reviews_count type="integer">3106</reviews_count>
+  <ratings_sum type="integer">6231</ratings_sum>
+  <ratings_count type="integer">1518</ratings_count>
+  <text_reviews_count type="integer">335</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>A Hungry Lion, or A Dwindling Assortment of Animals</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:612|4:563|3:252|2:72|1:19|total:1518</rating_dist>
+  <desc_user_id type="integer">-44</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.QqKFRJANVZgEblUDLLK3iA</work_uri>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1487]]></ratings_count>
+  <text_reviews_count><![CDATA[326]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25785644-a-hungry-lion-or-a-dwindling-assortment-of-animals]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25785644-a-hungry-lion-or-a-dwindling-assortment-of-animals]]></link>
+  <authors>
+<author>
+<id>3390631</id>
+<name>Lucy Ruth Cummins</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3390631.Lucy_Ruth_Cummins]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>3706</ratings_count>
+<text_reviews_count>881</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25785644-a-hungry-lion-or-a-dwindling-assortment-of-animals">A Hungry Lion, or A Dwindling Assortment of Animals Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1481448897&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/25785644-a-hungry-lion-or-a-dwindling-assortment-of-animals?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1228"/>
+      <shelf name="picture-books" count="373"/>
+      <shelf name="animals" count="86"/>
+      <shelf name="picture-book" count="86"/>
+      <shelf name="childrens" count="52"/>
+      <shelf name="humor" count="36"/>
+      <shelf name="children-s" count="34"/>
+      <shelf name="storytime" count="31"/>
+      <shelf name="children" count="28"/>
+      <shelf name="children-s-books" count="27"/>
+      <shelf name="funny" count="25"/>
+      <shelf name="picturebooks" count="20"/>
+      <shelf name="kids" count="18"/>
+      <shelf name="lions" count="17"/>
+      <shelf name="fiction" count="16"/>
+      <shelf name="childrens-books" count="16"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="picture" count="13"/>
+      <shelf name="fantasy" count="12"/>
+      <shelf name="food" count="12"/>
+      <shelf name="birthdays" count="11"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="read-alouds" count="11"/>
+      <shelf name="preschool" count="9"/>
+      <shelf name="pb" count="9"/>
+      <shelf name="currently-reading" count="9"/>
+      <shelf name="childrens-picture-books" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="humorous" count="8"/>
+      <shelf name="favorite-picture-books" count="7"/>
+      <shelf name="surprise-ending" count="7"/>
+      <shelf name="picturebook" count="7"/>
+      <shelf name="children-s-literature" count="6"/>
+      <shelf name="kid-lit" count="6"/>
+      <shelf name="story-time" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="lion" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="ks1" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="elementary" count="5"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="children-s-lit" count="5"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="2016-reads" count="5"/>
+      <shelf name="2016-picture-books" count="5"/>
+      <shelf name="exploring-assignment" count="4"/>
+      <shelf name="mock-caldecott-2017" count="4"/>
+      <shelf name="children-s-picture-books" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="kids-books" count="4"/>
+      <shelf name="meta" count="4"/>
+      <shelf name="silly" count="4"/>
+      <shelf name="school-age" count="4"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="dinosaurs" count="4"/>
+      <shelf name="birthday" count="4"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="exploring-children" count="3"/>
+      <shelf name="henry" count="3"/>
+      <shelf name="to-read-picture-books" count="3"/>
+      <shelf name="mystery" count="3"/>
+      <shelf name="early-elementary" count="3"/>
+      <shelf name="animal-books" count="3"/>
+      <shelf name="animal" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="format-picture-book" count="3"/>
+      <shelf name="picture-books-read" count="3"/>
+      <shelf name="oliver" count="3"/>
+      <shelf name="dark-humor" count="3"/>
+      <shelf name="1000-books-before-kindergarten" count="3"/>
+      <shelf name="kiddos" count="3"/>
+      <shelf name="jp" count="3"/>
+      <shelf name="for-kids" count="3"/>
+      <shelf name="fiction-picture-books" count="3"/>
+      <shelf name="food-chain" count="3"/>
+      <shelf name="pre-k" count="3"/>
+      <shelf name="friendship" count="3"/>
+      <shelf name="read-picture-books" count="3"/>
+      <shelf name="humorous-stories" count="3"/>
+      <shelf name="turtles" count="3"/>
+      <shelf name="read-in-2019" count="2"/>
+      <shelf name="kids-books-to-read" count="2"/>
+      <shelf name="picturebooks-general" count="2"/>
+      <shelf name="eating" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="baby-books" count="2"/>
+      <shelf name="women-writers" count="2"/>
+      <shelf name="childrens-books-to-read" count="2"/>
+      <shelf name="emergent-picture-books" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="picture-books-2017" count="2"/>
+      <shelf name="good-for-read-aloud" count="2"/>
+      <shelf name="kids-want-to-read" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="children-s-picture-book" count="2"/>
+      <shelf name="children-s-fiction" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>38659075</id>
+<title>The Day War Came</title>
+<title_without_series>The Day War Came</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38659075-the-day-war-came]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527403816l/38659075._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527403816l/38659075._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>60269812</id>
+</work>
+<isbn>1536201731</isbn>
+<isbn13>9781536201734</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>22935</id>
+<name>Nicola Davies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22935.Nicola_Davies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36349383</id>
+<title>How To Be A Lion</title>
+<title_without_series>How To Be A Lion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36349383-how-to-be-a-lion]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511123960l/36349383._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511123960l/36349383._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>58031006</id>
+</work>
+<isbn>0525578056</isbn>
+<isbn13>9780525578055</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>703010</id>
+<name>Ed Vere</name>
+<link><![CDATA[https://www.goodreads.com/author/show/703010.Ed_Vere]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25785760</id>
+<title>Ida, Always</title>
+<title_without_series>Ida, Always</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25785760-ida-always]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456077882l/25785760._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45636447</id>
+</work>
+<isbn>1481426400</isbn>
+<isbn13>9781481426404</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>5573824</id>
+<name>Caron Levis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5573824.Caron_Levis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25489475</id>
+<title><![CDATA[Snappsy the Alligator (Did Not Ask to Be in This Book)]]></title>
+<title_without_series>Snappsy the Alligator</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25489475-snappsy-the-alligator]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434189243l/25489475._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434189243l/25489475._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>45263853</id>
+</work>
+<isbn>0451469453</isbn>
+<isbn13>9780451469458</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13922414</id>
+<name>Julie Falatko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13922414.Julie_Falatko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864850</id>
+<title>This Book of Mine</title>
+<title_without_series>This Book of Mine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864850-this-book-of-mine]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536710543l/40864850._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536710543l/40864850._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>63657588</id>
+</work>
+<isbn>0374305463</isbn>
+<isbn13>9780374305468</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>106537</id>
+<name>Sarah Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106537.Sarah_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40796053</id>
+<title><![CDATA[The Bear, the Piano, the Dog, and the Fiddle]]></title>
+<title_without_series><![CDATA[The Bear, the Piano, the Dog, and the Fiddle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40796053-the-bear-the-piano-the-dog-and-the-fiddle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535558875l/40796053._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535558875l/40796053._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>63521763</id>
+</work>
+<isbn>1328595897</isbn>
+<isbn13>9781328595898</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>135185</id>
+<name>David  Litchfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/135185.David_Litchfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26030671</id>
+<title>Are We There Yet?</title>
+<title_without_series>Are We There Yet?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26030671-are-we-there-yet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439827023l/26030671._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439827023l/26030671._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45956847</id>
+</work>
+<isbn>0316199990</isbn>
+<isbn13>9780316199995</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41546735</id>
+<title>The Tide</title>
+<title_without_series>The Tide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41546735-the-tide]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543008675l/41546735._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543008675l/41546735._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64820472</id>
+</work>
+<isbn>1680101412</isbn>
+<isbn13>9781680101416</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14592998</id>
+<name>Clare Helen Welsh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14592998.Clare_Helen_Welsh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25147791</id>
+<title>Animal Rescue</title>
+<title_without_series>Animal Rescue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25147791-animal-rescue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426432754l/25147791._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426432754l/25147791._SX98_.jpg]]></image_url>
+<num_pages>54</num_pages>
+<work>
+<id>44848457</id>
+</work>
+<isbn>1908473126</isbn>
+<isbn13>9781908473127</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3446556</id>
+<name>Patrick  George</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3446556.Patrick_George]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35887584</id>
+<title>The Rough Patch</title>
+<title_without_series>The Rough Patch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35887584-the-rough-patch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517721067l/35887584._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517721067l/35887584._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57404117</id>
+</work>
+<isbn>0062671278</isbn>
+<isbn13>9780062671271</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>77079</id>
+<name>Brian Lies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77079.Brian_Lies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>171230</id>
+<title>Wolves</title>
+<title_without_series>Wolves</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/171230.Wolves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1850574</id>
+</work>
+<isbn>1416914919</isbn>
+<isbn13>9781416914914</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>99790</id>
+<name>Emily Gravett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99790.Emily_Gravett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43861612</id>
+<title><![CDATA[Stormy: A Story About Finding a Forever Home]]></title>
+<title_without_series><![CDATA[Stormy: A Story About Finding a Forever Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43861612-stormy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549431970l/43861612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549431970l/43861612._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>68246073</id>
+</work>
+<isbn>1524771767</isbn>
+<isbn13>9781524771768</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>9843219</id>
+<name>Guojing</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9843219.Guojing]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101012</id>
+<title>The Hueys in... It Wasn&apos;t Me</title>
+<title_without_series>The Hueys in... It Wasn&apos;t Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101012-the-hueys-in-it-wasn-t-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366869867l/16101012._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366869867l/16101012._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21911313</id>
+</work>
+<isbn>0399257683</isbn>
+<isbn13>9780399257681</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864913</id>
+<title><![CDATA[It Feels Good to Be Yourself: A Book about Gender Identity]]></title>
+<title_without_series><![CDATA[It Feels Good to Be Yourself: A Book about Gender Identity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864913-it-feels-good-to-be-yourself]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538423336l/40864913._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538423336l/40864913._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>63657625</id>
+</work>
+<isbn>1250302951</isbn>
+<isbn13>9781250302953</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15298725</id>
+<name>Theresa Thorn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15298725.Theresa_Thorn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28645670</id>
+<title>They All Saw A Cat</title>
+<title_without_series>They All Saw A Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28645670-they-all-saw-a-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460909821l/28645670._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460909821l/28645670._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>48107115</id>
+</work>
+<isbn>1452150133</isbn>
+<isbn13>9781452150130</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7126026</id>
+<name>Brendan Wenzel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126026.Brendan_Wenzel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35487359</id>
+<title><![CDATA[Follow the Firefly / Run, Rabbit, Run]]></title>
+<title_without_series><![CDATA[Follow the Firefly / Run, Rabbit, Run]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35487359-follow-the-firefly-run-rabbit-run]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56886396</id>
+</work>
+<isbn>0994109822</isbn>
+<isbn13>9780994109828</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14731131</id>
+<name>Bernardo P. Carvalho</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14731131.Bernardo_P_Carvalho]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39992292</id>
+<title>Another</title>
+<title_without_series>Another</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39992292-another]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625328l/39992292._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625328l/39992292._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>61930263</id>
+</work>
+<isbn>153442167X</isbn>
+<isbn13>9781534421677</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3240810</id>
+<name>Christian Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3240810.Christian_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34002075</id>
+<title><![CDATA[The Wolf, the Duck, and the Mouse]]></title>
+<title_without_series><![CDATA[The Wolf, the Duck, and the Mouse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34002075-the-wolf-the-duck-and-the-mouse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498839230l/34002075._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498839230l/34002075._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54999269</id>
+</work>
+<isbn>076367754X</isbn>
+<isbn13>9780763677541</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1518</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

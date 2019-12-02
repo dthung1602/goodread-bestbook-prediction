@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8396337</id>
+  <title>Blackveil (Green Rider, #4)</title>
+  <isbn><![CDATA[0756406609]]></isbn>
+  <isbn13><![CDATA[9780756406608]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373992640l/8396337._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373992640l/8396337._SY75_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Daw Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Read Kristen Britain's blogs and other content on the Penguin Community. </b><br /><br /><b>The long-awaited sequel to <i>Green Rider, First Rider's Call,</i> and <i>The High King's Tomb</i>. </b><br /><br /> Once a simple student, Karigan G'ladheon finds herself in a world of deadly danger and complex magic, compelled by forces she cannot understand when she becomes a legendary Green Rider-one of the magical messengers of the king. Forced by magic to accept a dangerous fate she would never have chosen, headstrong Karigan has become completely devoted to the king and her fellow Riders.<br /><br /> But now, an insurrection led by dark magicians threatens to break the boundaries of ancient, evil Blackveil Forest-releasing powerful dark magics that have been shut away for a millennium.<br /><br />]]></description>
+  <work>
+  <id type="integer">13008233</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">8396337</best_book_id>
+  <reviews_count type="integer">17014</reviews_count>
+  <ratings_sum type="integer">43322</ratings_sum>
+  <ratings_count type="integer">10384</ratings_count>
+  <text_reviews_count type="integer">597</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4399|4:3888|3:1672|2:334|1:91|total:10384</rating_dist>
+  <desc_user_id type="integer">2494726</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.VqNWf3HkQkTNdYfHolXlrg</work_uri>
+</work>
+  <average_rating>4.17</average_rating>
+  <num_pages><![CDATA[672]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9067]]></ratings_count>
+  <text_reviews_count><![CDATA[513]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8396337-blackveil]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8396337-blackveil]]></link>
+  <authors>
+<author>
+<id>85545</id>
+<name>Kristen Britain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1266020934p5/85545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1266020934p2/85545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/85545.Kristen_Britain]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>90301</ratings_count>
+<text_reviews_count>4589</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8396337-blackveil">Blackveil Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0756406609&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/8396337-blackveil?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1681"/>
+      <shelf name="fantasy" count="429"/>
+      <shelf name="currently-reading" count="195"/>
+      <shelf name="favorites" count="79"/>
+      <shelf name="fiction" count="66"/>
+      <shelf name="owned" count="63"/>
+      <shelf name="high-fantasy" count="49"/>
+      <shelf name="books-i-own" count="42"/>
+      <shelf name="adventure" count="41"/>
+      <shelf name="young-adult" count="40"/>
+      <shelf name="epic-fantasy" count="38"/>
+      <shelf name="green-rider" count="34"/>
+      <shelf name="default" count="33"/>
+      <shelf name="magic" count="32"/>
+      <shelf name="series" count="30"/>
+      <shelf name="adult" count="27"/>
+      <shelf name="kristen-britain" count="26"/>
+      <shelf name="romance" count="25"/>
+      <shelf name="sci-fi-fantasy" count="24"/>
+      <shelf name="fantasy-sci-fi" count="18"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="horses" count="16"/>
+      <shelf name="owned-books" count="16"/>
+      <shelf name="library" count="16"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="kindle" count="14"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="ebooks" count="11"/>
+      <shelf name="ya" count="11"/>
+      <shelf name="paranormal" count="11"/>
+      <shelf name="ya-fantasy" count="11"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="favorite" count="10"/>
+      <shelf name="science-fiction-fantasy" count="10"/>
+      <shelf name="time-travel" count="9"/>
+      <shelf name="audio" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="science-fiction" count="8"/>
+      <shelf name="audiobooks" count="8"/>
+      <shelf name="action" count="8"/>
+      <shelf name="favorite-books" count="8"/>
+      <shelf name="fantasy-fiction" count="8"/>
+      <shelf name="scifi-fantasy" count="8"/>
+      <shelf name="adult-fiction" count="8"/>
+      <shelf name="read-in-2011" count="8"/>
+      <shelf name="fae" count="8"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="female-author" count="7"/>
+      <shelf name="medieval" count="7"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="calibre" count="6"/>
+      <shelf name="royalty" count="6"/>
+      <shelf name="audible" count="6"/>
+      <shelf name="audio-book" count="6"/>
+      <shelf name="need-to-buy" count="6"/>
+      <shelf name="sci-fi" count="6"/>
+      <shelf name="female-protagonist" count="6"/>
+      <shelf name="fantasy-science-fiction" count="6"/>
+      <shelf name="unfinished-series" count="6"/>
+      <shelf name="read-2011" count="6"/>
+      <shelf name="elves" count="6"/>
+      <shelf name="adult-fantasy" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="books" count="5"/>
+      <shelf name="mystery" count="5"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="supernatural" count="5"/>
+      <shelf name="ya-fiction" count="5"/>
+      <shelf name="read-in-2013" count="5"/>
+      <shelf name="novels" count="5"/>
+      <shelf name="ongoing-series" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="to-read-fantasy" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="green-rider-series" count="5"/>
+      <shelf name="want-to-own" count="5"/>
+      <shelf name="4-stars" count="4"/>
+      <shelf name="fantasy-series" count="4"/>
+      <shelf name="love-triangle" count="4"/>
+      <shelf name="fantasy-scifi" count="4"/>
+      <shelf name="re-read" count="4"/>
+      <shelf name="tbr-pile" count="4"/>
+      <shelf name="epic" count="4"/>
+      <shelf name="fantasy-to-read" count="4"/>
+      <shelf name="fantasy-magic" count="4"/>
+      <shelf name="re-reads" count="4"/>
+      <shelf name="animals" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="love" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="sff" count="4"/>
+      <shelf name="britain-kristen" count="4"/>
+      <shelf name="read-2012" count="4"/>
+      <shelf name="books-to-buy" count="4"/>
+      <shelf name="buy" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="fantasy-epic" count="4"/>
+      <shelf name="part-of-a-series" count="4"/>
+      <shelf name="personal-library" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>177310</id>
+<user_position>4</user_position>
+<series>
+<id>41335</id>
+<title>
+<![CDATA[
+    Green Rider
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>1022209</id>
+<title><![CDATA[Song in the Silence (The Tale of Lanen Kaelar, #1)]]></title>
+<title_without_series>Song in the Silence</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1022209.Song_in_the_Silence]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312020773l/1022209._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312020773l/1022209._SY160_.jpg]]></image_url>
+<num_pages>401</num_pages>
+<work>
+<id>229589</id>
+</work>
+<isbn>0812550447</isbn>
+<isbn13>9780812550443</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>138702</id>
+<name>Elizabeth Kerner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138702.Elizabeth_Kerner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7911068</id>
+<title><![CDATA[Conviction (Star Wars: Fate of the Jedi, #7)]]></title>
+<title_without_series>Conviction</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7911068-conviction]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288137120l/7911068._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288137120l/7911068._SX98_.jpg]]></image_url>
+<num_pages>380</num_pages>
+<work>
+<id>6278069</id>
+</work>
+<isbn>184605690X</isbn>
+<isbn13>9781846056901</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3651</id>
+<name>Aaron Allston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3651.Aaron_Allston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6621968</id>
+<title><![CDATA[Bound in Blood (Kencyrath, #5)]]></title>
+<title_without_series>Bound in Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6621968-bound-in-blood]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>6816144</id>
+</work>
+<isbn>1439133409</isbn>
+<isbn13>9781439133408</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>38968</id>
+<name>P.C. Hodgell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38968.P_C_Hodgell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69173</id>
+<title><![CDATA[Dark of the Moon (Kencyrath, #2)]]></title>
+<title_without_series>Dark of the Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69173.Dark_of_the_Moon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>351</num_pages>
+<work>
+<id>67028</id>
+</work>
+<isbn>0425095614</isbn>
+<isbn13>9780425095614</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>38968</id>
+<name>P.C. Hodgell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38968.P_C_Hodgell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>383923</id>
+<title><![CDATA[Shadow Dawn (Chronicles of the Shadow War, #2)]]></title>
+<title_without_series>Shadow Dawn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/383923.Shadow_Dawn]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>155261</id>
+</work>
+<isbn>0553095978</isbn>
+<isbn13>9780553095975</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15091</id>
+<name>Chris Claremont</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15091.Chris_Claremont]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>383921</id>
+<title><![CDATA[Shadow Star (Chronicles of the Shadow War, #3)]]></title>
+<title_without_series>Shadow Star</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/383921.Shadow_Star]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399801797l/383921._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399801797l/383921._SX98_.jpg]]></image_url>
+<num_pages>467</num_pages>
+<work>
+<id>573007</id>
+</work>
+<isbn>0553095986</isbn>
+<isbn13>9780553095982</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>15091</id>
+<name>Chris Claremont</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15091.Chris_Claremont]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160859</id>
+<title><![CDATA[Shadow Moon (Chronicles of the Shadow War, #1)]]></title>
+<title_without_series>Shadow Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160859.Shadow_Moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399801627l/160859._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399801627l/160859._SY160_.jpg]]></image_url>
+<num_pages>452</num_pages>
+<work>
+<id>155260</id>
+</work>
+<isbn>0553572857</isbn>
+<isbn13>9780553572858</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3231</id>
+<name>George Lucas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3231.George_Lucas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7913023</id>
+<title><![CDATA[Vortex (Star Wars: Fate of the Jedi, #6)]]></title>
+<title_without_series>Vortex</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7913023-vortex]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>363</num_pages>
+<work>
+<id>6278071</id>
+</work>
+<isbn>034550920X</isbn>
+<isbn13>9780345509208</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>8154</id>
+<name>Troy Denning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8154.Troy_Denning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37712577</id>
+<title><![CDATA[Sweep of the Blade (Innkeeper Chronicles, #4)]]></title>
+<title_without_series>Sweep of the Blade</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37712577-sweep-of-the-blade]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544318270l/37712577._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544318270l/37712577._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59348185</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>176788</id>
+<title><![CDATA[Arrow's Flight (Heralds of Valdemar, #2)]]></title>
+<title_without_series>Arrow&apos;s Flight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/176788.Arrow_s_Flight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>318</num_pages>
+<work>
+<id>2612</id>
+</work>
+<isbn>0886773776</isbn>
+<isbn13>9780886773779</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8685</id>
+<name>Mercedes Lackey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8685.Mercedes_Lackey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>230994</id>
+<title>Katherine</title>
+<title_without_series>Katherine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/230994.Katherine]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>2292063</id>
+</work>
+<isbn>0425180239</isbn>
+<isbn13>9780425180235</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>686103</id>
+<name>Anchee Min</name>
+<link><![CDATA[https://www.goodreads.com/author/show/686103.Anchee_Min]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>427067</id>
+<title>Lady in Gil (Gil Trilogy, #1)</title>
+<title_without_series>Lady in Gil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/427067.Lady_in_Gil]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>277</num_pages>
+<work>
+<id>416091</id>
+</work>
+<isbn>0441007090</isbn>
+<isbn13>9780441007097</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>240709</id>
+<name>Rebecca Bradley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/240709.Rebecca_Bradley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46015227</id>
+<title><![CDATA[Secrets Bound By Sand (Dragon Ridden Chronicles, #4)]]></title>
+<title_without_series>Secrets Bound By Sand</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46015227-secrets-bound-by-sand]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>70891255</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6886477</id>
+<name>T.A. White</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6886477.T_A_White]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>153800</id>
+<title><![CDATA[Lady Knight (Protector of the Small, #4)]]></title>
+<title_without_series>Lady Knight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/153800.Lady_Knight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1215394344l/153800._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1215394344l/153800._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1031900</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8596</id>
+<name>Tamora Pierce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8596.Tamora_Pierce]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21059</id>
+<title><![CDATA[Crown of Stars (Crown of Stars, #7)]]></title>
+<title_without_series>Crown of Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21059.Crown_of_Stars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570613398l/21059._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570613398l/21059._SX98_.jpg]]></image_url>
+<num_pages>609</num_pages>
+<work>
+<id>3333408</id>
+</work>
+<isbn>0756404061</isbn>
+<isbn13>9780756404062</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8660</id>
+<name>Kate Elliott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8660.Kate_Elliott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>210201</id>
+<title><![CDATA[In the Ruins (Crown of Stars, #6)]]></title>
+<title_without_series>In the Ruins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/210201.In_the_Ruins]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>606</num_pages>
+<work>
+<id>959033</id>
+</work>
+<isbn>0756402689</isbn>
+<isbn13>9780756402686</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>8660</id>
+<name>Kate Elliott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8660.Kate_Elliott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73935</id>
+<title><![CDATA[The Iron Lance (The Celtic Crusades, #1)]]></title>
+<title_without_series>The Iron Lance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73935.The_Iron_Lance]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>630</num_pages>
+<work>
+<id>344010</id>
+</work>
+<isbn>0061051098</isbn>
+<isbn13>9780061051098</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>28083</id>
+<name>Stephen R. Lawhead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28083.Stephen_R_Lawhead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13986</id>
+<title><![CDATA[Arrows of the Queen (Heralds of Valdemar, #1)]]></title>
+<title_without_series>Arrows of the Queen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13986.Arrows_of_the_Queen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296358547l/13986._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296358547l/13986._SY160_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>834071</id>
+</work>
+<isbn>0886773784</isbn>
+<isbn13>9780886773786</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>10384</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8685</id>
+<name>Mercedes Lackey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8685.Mercedes_Lackey]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

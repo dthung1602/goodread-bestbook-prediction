@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11133791</id>
+  <title>Tilt</title>
+  <isbn><![CDATA[1416983309]]></isbn>
+  <isbn13><![CDATA[9781416983309]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346263814l/11133791._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346263814l/11133791._SX50_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>Margaret K. McElderry Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Love—good and bad—forces three teens’ worlds to tilt in a riveting novel from <i>New York Times </i>bestselling author Ellen Hopkins.</b><br /><br />Three teens, three stories—all interconnected through their parents’ family relationships. As the adults pull away, caught up in their own dilemmas, the lives of the teens begin to tilt….<br /><br />Mikayla, almost eighteen, is over-the-top in love with Dylan, who loves her back jealously. But what happens to that love when Mikayla gets pregnant the summer before their senior year—and decides to keep the baby?<br /><br />Shane turns sixteen that same summer and falls hard in love with his first boyfriend, Alex, who happens to be HIV positive. Shane has lived for four years with his little sister’s impending death. Can he accept Alex’s love, knowing that his life, too, will be shortened?<br /><br />Harley is fourteen—a good girl searching for new experiences, especially love from an older boy. She never expects to hurdle toward self-destructive extremes in order to define who she is and who she wants to be.<br /><br />Love, in all its forms, has crucial consequences in this standalone novel.]]></description>
+  <work>
+  <id type="integer">16057047</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">11133791</best_book_id>
+  <reviews_count type="integer">44845</reviews_count>
+  <ratings_sum type="integer">60529</ratings_sum>
+  <ratings_count type="integer">14424</ratings_count>
+  <text_reviews_count type="integer">1080</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">11</original_publication_day>
+  <original_title>Tilt</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6938|4:4393|3:2313|2:548|1:232|total:14424</rating_dist>
+  <desc_user_id type="integer">2075644</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.amZNYy0uqByPAmkA29yMWQ</work_uri>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[608]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13698]]></ratings_count>
+  <text_reviews_count><![CDATA[1008]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11133791-tilt]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11133791-tilt]]></link>
+  <authors>
+<author>
+<id>2821144</id>
+<name>Ellen Hopkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1317081848p5/2821144.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1317081848p2/2821144.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2821144.Ellen_Hopkins]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>513087</ratings_count>
+<text_reviews_count>34011</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11133791-tilt">Tilt Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1416983309&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/11133791-tilt?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9473"/>
+      <shelf name="young-adult" count="354"/>
+      <shelf name="poetry" count="186"/>
+      <shelf name="favorites" count="170"/>
+      <shelf name="currently-reading" count="140"/>
+      <shelf name="books-i-own" count="126"/>
+      <shelf name="contemporary" count="108"/>
+      <shelf name="fiction" count="99"/>
+      <shelf name="owned" count="86"/>
+      <shelf name="realistic-fiction" count="76"/>
+      <shelf name="ya" count="69"/>
+      <shelf name="romance" count="56"/>
+      <shelf name="to-buy" count="55"/>
+      <shelf name="ellen-hopkins" count="52"/>
+      <shelf name="verse" count="39"/>
+      <shelf name="lgbt" count="35"/>
+      <shelf name="novels-in-verse" count="35"/>
+      <shelf name="teen" count="35"/>
+      <shelf name="wish-list" count="32"/>
+      <shelf name="library" count="30"/>
+      <shelf name="realistic" count="25"/>
+      <shelf name="stand-alone" count="23"/>
+      <shelf name="lgbtq" count="22"/>
+      <shelf name="my-books" count="21"/>
+      <shelf name="i-own" count="20"/>
+      <shelf name="need-to-buy" count="19"/>
+      <shelf name="owned-books" count="18"/>
+      <shelf name="read-in-2013" count="18"/>
+      <shelf name="ya-fiction" count="18"/>
+      <shelf name="mental-health" count="17"/>
+      <shelf name="ya-contemporary" count="17"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="ya-lit" count="16"/>
+      <shelf name="series" count="16"/>
+      <shelf name="glbt" count="15"/>
+      <shelf name="ya-books" count="14"/>
+      <shelf name="abuse" count="14"/>
+      <shelf name="read-in-2012" count="14"/>
+      <shelf name="stand-alones" count="14"/>
+      <shelf name="ebooks" count="14"/>
+      <shelf name="maybe" count="14"/>
+      <shelf name="tbr" count="13"/>
+      <shelf name="young-adult-fiction" count="13"/>
+      <shelf name="family" count="13"/>
+      <shelf name="want" count="13"/>
+      <shelf name="novel-in-verse" count="12"/>
+      <shelf name="love" count="12"/>
+      <shelf name="teen-fiction" count="12"/>
+      <shelf name="books-to-buy" count="12"/>
+      <shelf name="real-life" count="11"/>
+      <shelf name="must-read" count="11"/>
+      <shelf name="drugs" count="10"/>
+      <shelf name="high-school" count="10"/>
+      <shelf name="audiobook" count="9"/>
+      <shelf name="read-in-2014" count="9"/>
+      <shelf name="mental-illness" count="9"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="poetry-verse" count="9"/>
+      <shelf name="2013-reads" count="9"/>
+      <shelf name="buy" count="9"/>
+      <shelf name="signed" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="verse-novels" count="9"/>
+      <shelf name="on-my-shelf" count="8"/>
+      <shelf name="standalone" count="8"/>
+      <shelf name="read-2013" count="8"/>
+      <shelf name="pregnancy" count="8"/>
+      <shelf name="books-in-verse" count="8"/>
+      <shelf name="have" count="8"/>
+      <shelf name="hopkins" count="8"/>
+      <shelf name="dark" count="8"/>
+      <shelf name="ya-to-read" count="8"/>
+      <shelf name="2012-releases" count="8"/>
+      <shelf name="want-to-read" count="8"/>
+      <shelf name="read-in-2018" count="7"/>
+      <shelf name="coming-of-age" count="7"/>
+      <shelf name="in-verse" count="7"/>
+      <shelf name="summer-2013" count="7"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="ellen-hopkins-books" count="7"/>
+      <shelf name="to-get" count="7"/>
+      <shelf name="poems" count="6"/>
+      <shelf name="audiobooks" count="6"/>
+      <shelf name="2014-reads" count="6"/>
+      <shelf name="book-club" count="6"/>
+      <shelf name="dnf" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="want-to-buy" count="6"/>
+      <shelf name="owned-tbr" count="6"/>
+      <shelf name="depression" count="6"/>
+      <shelf name="free-verse" count="6"/>
+      <shelf name="death" count="6"/>
+      <shelf name="young-adult-to-read" count="6"/>
+      <shelf name="tilt" count="6"/>
+      <shelf name="ebook" count="6"/>
+      <shelf name="cover-love" count="6"/>
+      <shelf name="2012-release" count="6"/>
+      <shelf name="books" count="6"/>
+      <shelf name="drama" count="6"/>
+      <shelf name="to-read-ya" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6323474</id>
+<title>Beautiful</title>
+<title_without_series>Beautiful</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6323474-beautiful]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338718877l/6323474._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338718877l/6323474._SX98_.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>6508949</id>
+</work>
+<isbn>1416978305</isbn>
+<isbn13>9781416978305</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2871046</id>
+<name>Amy Reed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2871046.Amy_Reed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>662597</id>
+<title>Cut</title>
+<title_without_series>Cut</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/662597.Cut]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>151</num_pages>
+<work>
+<id>2051065</id>
+</work>
+<isbn>0439324599</isbn>
+<isbn13>9780439324595</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>26250</id>
+<name>Patricia McCormick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26250.Patricia_McCormick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12755252</id>
+<title>Lucy in the Sky</title>
+<title_without_series>Lucy in the Sky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12755252-lucy-in-the-sky]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17896701</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9491739</id>
+<title>Clean</title>
+<title_without_series>Clean</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9491739-clean]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338722449l/9491739._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338722449l/9491739._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>14377200</id>
+</work>
+<isbn>144241345X</isbn>
+<isbn13>9781442413450</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>2871046</id>
+<name>Amy Reed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2871046.Amy_Reed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>489830</id>
+<title>Skin</title>
+<title_without_series>Skin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/489830.Skin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>227</num_pages>
+<work>
+<id>478071</id>
+</work>
+<isbn>141690655X</isbn>
+<isbn13>9781416906551</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>273519</id>
+<name>Adrienne Maria Vrettos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/273519.Adrienne_Maria_Vrettos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>65066</id>
+<title><![CDATA[What My Girlfriend Doesn't Know (What My Mother Doesn't Know, #2)]]></title>
+<title_without_series><![CDATA[What My Girlfriend Doesn't Know]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/65066.What_My_Girlfriend_Doesn_t_Know]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>2882964</id>
+</work>
+<isbn>0689876025</isbn>
+<isbn13>9780689876028</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>36718</id>
+<name>Sonya Sones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36718.Sonya_Sones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46799</id>
+<title>Go Ask Alice</title>
+<title_without_series>Go Ask Alice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46799.Go_Ask_Alice]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870536l/46799._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870536l/46799._SX98_.jpg]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>2115708</id>
+</work>
+<isbn>1416914633</isbn>
+<isbn13>9781416914631</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>69007</id>
+<name>Beatrice Sparks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/69007.Beatrice_Sparks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1240370</id>
+<title>Exit Here.</title>
+<title_without_series>Exit Here.</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1240370.Exit_Here_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>1229041</id>
+</work>
+<isbn>1416917489</isbn>
+<isbn13>9781416917489</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>599516</id>
+<name>Jason Myers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/599516.Jason_Myers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9930875</id>
+<title>Cracked</title>
+<title_without_series>Cracked</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9930875-cracked]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305728287l/9930875._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305728287l/9930875._SX98_.jpg]]></image_url>
+<num_pages>311</num_pages>
+<work>
+<id>14823909</id>
+</work>
+<isbn></isbn>
+<isbn13>9781442434424</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4515355</id>
+<name>K.M. Walton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4515355.K_M_Walton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>944715</id>
+<title><![CDATA[Eleanor's Story: An American Girl in Hitler's Germany]]></title>
+<title_without_series><![CDATA[Eleanor's Story: An American Girl in Hitler's Germany]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/944715.Eleanor_s_Story]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>269</num_pages>
+<work>
+<id>929650</id>
+</work>
+<isbn>1561452963</isbn>
+<isbn13>9781561452965</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>480433</id>
+<name>Eleanor Ramrath Garner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/480433.Eleanor_Ramrath_Garner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45173060</id>
+<title>I Don&apos;t Want To Be Crazy</title>
+<title_without_series>I Don&apos;t Want To Be Crazy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45173060-i-don-t-want-to-be-crazy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555667590l/45173060._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555667590l/45173060._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>32567</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18233</id>
+<name>Samantha Schutz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18233.Samantha_Schutz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8320987</id>
+<title>Exposed</title>
+<title_without_series>Exposed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8320987-exposed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320440852l/8320987._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320440852l/8320987._SX98_.jpg]]></image_url>
+<num_pages>255</num_pages>
+<work>
+<id>13170426</id>
+</work>
+<isbn>0375866930</isbn>
+<isbn13>9780375866937</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4044314</id>
+<name>Kimberly Marcus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4044314.Kimberly_Marcus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>183087</id>
+<title>Rx</title>
+<title_without_series>Rx</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/183087.Rx]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>176934</id>
+</work>
+<isbn>1416911553</isbn>
+<isbn13>9781416911555</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>106823</id>
+<name>Tracy Lynn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106823.Tracy_Lynn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>162086</id>
+<title>Such a Pretty Girl</title>
+<title_without_series>Such a Pretty Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162086.Such_a_Pretty_Girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336185676l/162086._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336185676l/162086._SX98_.jpg]]></image_url>
+<num_pages>212</num_pages>
+<work>
+<id>156439</id>
+</work>
+<isbn>1416521836</isbn>
+<isbn13>9781416521839</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>93971</id>
+<name>Laura Wiess</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93971.Laura_Wiess]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>228539</id>
+<title>Jay&apos;s Journal</title>
+<title_without_series>Jay&apos;s Journal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/228539.Jay_s_Journal]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>221331</id>
+</work>
+<isbn>0671735594</isbn>
+<isbn13>9780671735593</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>69007</id>
+<name>Beatrice Sparks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/69007.Beatrice_Sparks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1101118</id>
+<title>Street Pharm</title>
+<title_without_series>Street Pharm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1101118.Street_Pharm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>297</num_pages>
+<work>
+<id>1088002</id>
+</work>
+<isbn>1416911545</isbn>
+<isbn13>9781416911548</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>498980</id>
+<name>Allison van Diepen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/498980.Allison_van_Diepen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>354518</id>
+<title>Major Crush </title>
+<title_without_series>Major Crush</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/354518.Major_Crush]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>344710</id>
+</work>
+<isbn>1416918302</isbn>
+<isbn13>9781416918301</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>203238</id>
+<name>Jennifer Echols</name>
+<link><![CDATA[https://www.goodreads.com/author/show/203238.Jennifer_Echols]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>124683</id>
+<title><![CDATA[Puzzle for the Secret Seven (The Secret Seven, #10)]]></title>
+<title_without_series>Puzzle for the Secret Seven</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/124683.Puzzle_for_the_Secret_Seven]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587539l/124683._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587539l/124683._SX98_.jpg]]></image_url>
+<num_pages>154</num_pages>
+<work>
+<id>2219796</id>
+</work>
+<isbn>0340917636</isbn>
+<isbn13>9780340917633</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14424</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10657</id>
+<name>Enid Blyton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10657.Enid_Blyton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

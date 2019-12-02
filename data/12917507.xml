@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12917507</id>
+  <title>My Cross to Bear</title>
+  <isbn><![CDATA[0062112031]]></isbn>
+  <isbn13><![CDATA[9780062112033]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330899625l/12917507._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330899625l/12917507._SY75_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>William Morrow</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[For the first time, rock music icon Gregg Allman, one of the founding members of The Allman Brothers Band, tells the full story of his life and career in <em>My Cross to Bear</em>. No subject is taboo, as one of the true giants of rock ’n’ roll opens up about his Georgia youth, his long struggle with substance abuse, his string of bad marriages (including his brief union with superstar Cher), the tragic death of  brother Duane Allman, and life on the road in one of rock’s most legendary bands.<br />]]></description>
+  <work>
+  <id type="integer">18072581</id>
+  <books_count type="integer">11</books_count>
+  <best_book_id type="integer">12917507</best_book_id>
+  <reviews_count type="integer">8056</reviews_count>
+  <ratings_sum type="integer">17355</ratings_sum>
+  <ratings_count type="integer">4534</ratings_count>
+  <text_reviews_count type="integer">566</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>My Cross to Bear</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1272|4:1701|3:1148|2:334|1:79|total:4534</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.5V0uf9fDii5620HJLgzymQ</work_uri>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[400]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3494]]></ratings_count>
+  <text_reviews_count><![CDATA[499]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12917507-my-cross-to-bear]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12917507-my-cross-to-bear]]></link>
+  <authors>
+<author>
+<id>1114408</id>
+<name>Gregg Allman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207762754p5/1114408.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207762754p2/1114408.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1114408.Gregg_Allman]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>4541</ratings_count>
+<text_reviews_count>566</text_reviews_count>
+</author>
+<author>
+<id>30902</id>
+<name>Alan Light</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1447865921p5/30902.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1447865921p2/30902.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30902.Alan_Light]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>7121</ratings_count>
+<text_reviews_count>1083</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12917507-my-cross-to-bear">My Cross to Bear Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062112031&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/12917507-my-cross-to-bear?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1803"/>
+      <shelf name="currently-reading" count="604"/>
+      <shelf name="music" count="101"/>
+      <shelf name="non-fiction" count="53"/>
+      <shelf name="biography" count="52"/>
+      <shelf name="memoir" count="36"/>
+      <shelf name="autobiography" count="28"/>
+      <shelf name="nonfiction" count="28"/>
+      <shelf name="biographies" count="23"/>
+      <shelf name="memoirs" count="14"/>
+      <shelf name="favorites" count="11"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="audio" count="7"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="rock" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="ebooks" count="5"/>
+      <shelf name="autobiography-biography" count="5"/>
+      <shelf name="autobiography-memoir" count="4"/>
+      <shelf name="bio" count="4"/>
+      <shelf name="history" count="4"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="audiobooks" count="4"/>
+      <shelf name="calibre" count="4"/>
+      <shelf name="bios" count="4"/>
+      <shelf name="pop-culture" count="4"/>
+      <shelf name="audible" count="4"/>
+      <shelf name="audiobook" count="4"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="entertainment" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="southern" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="music-biographies" count="3"/>
+      <shelf name="autobiographies" count="3"/>
+      <shelf name="rock-and-roll" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="biographies-memoirs" count="3"/>
+      <shelf name="rock-n-roll" count="3"/>
+      <shelf name="m-title" count="2"/>
+      <shelf name="books-i-own-but-haven-t-read" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="true-story" count="2"/>
+      <shelf name="kindle-tbr" count="2"/>
+      <shelf name="music-memoirs" count="2"/>
+      <shelf name="nook" count="2"/>
+      <shelf name="rock-biographies" count="2"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="someday-maybe" count="2"/>
+      <shelf name="non-fiction-music" count="2"/>
+      <shelf name="read-in-2014" count="2"/>
+      <shelf name="biography-autobiography" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="memoir-bio" count="2"/>
+      <shelf name="2014-books" count="2"/>
+      <shelf name="rock-star-bios" count="2"/>
+      <shelf name="auto-biography" count="2"/>
+      <shelf name="music-biography" count="2"/>
+      <shelf name="autobiographical" count="2"/>
+      <shelf name="memoir-biography" count="2"/>
+      <shelf name="owned-ebook" count="2"/>
+      <shelf name="ebook" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="read-2012" count="2"/>
+      <shelf name="auto-bio" count="2"/>
+      <shelf name="rnr-to-read" count="1"/>
+      <shelf name="ku-curently-reading" count="1"/>
+      <shelf name="it-wikipedia" count="1"/>
+      <shelf name="m" count="1"/>
+      <shelf name="own-print" count="1"/>
+      <shelf name="art-music" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="2010s" count="1"/>
+      <shelf name="tricia" count="1"/>
+      <shelf name="our-books" count="1"/>
+      <shelf name="prime-reading" count="1"/>
+      <shelf name="Äänikirjat" count="1"/>
+      <shelf name="musicians" count="1"/>
+      <shelf name="elämänkerrat" count="1"/>
+      <shelf name="tgt-c-78" count="1"/>
+      <shelf name="southern-setting" count="1"/>
+      <shelf name="hbo" count="1"/>
+      <shelf name="to-find" count="1"/>
+      <shelf name="gca2012" count="1"/>
+      <shelf name="00-pages-351-400" count="1"/>
+      <shelf name="01-gone-thru" count="1"/>
+      <shelf name="to-go-thru-b" count="1"/>
+      <shelf name="read-in-2019" count="1"/>
+      <shelf name="rock-biographies-and-reference" count="1"/>
+      <shelf name="music-novels-memoirs-etc" count="1"/>
+      <shelf name="favourites" count="1"/>
+      <shelf name="top-favourites" count="1"/>
+      <shelf name="on-the-kindle" count="1"/>
+      <shelf name="will-patton" count="1"/>
+      <shelf name="audiobook-performance" count="1"/>
+      <shelf name="narrative-nonfiction" count="1"/>
+      <shelf name="a-author" count="1"/>
+      <shelf name="1a-118" count="1"/>
+      <shelf name="co_audio" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17934522</id>
+<title><![CDATA[One Way Out: The Inside History of the Allman Brothers Band]]></title>
+<title_without_series><![CDATA[One Way Out: The Inside History of the Allman Brothers Band]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17934522-one-way-out]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372036833l/17934522._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372036833l/17934522._SX98_.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>21474178</id>
+</work>
+<isbn>1250040493</isbn>
+<isbn13>9781250040497</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1010203</id>
+<name>Alan Paul</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010203.Alan_Paul]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13609867</id>
+<title>Who I Am</title>
+<title_without_series>Who I Am</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13609867-who-i-am]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334931711l/13609867._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334931711l/13609867._SX98_.jpg]]></image_url>
+<num_pages>538</num_pages>
+<work>
+<id>19207504</id>
+</work>
+<isbn></isbn>
+<isbn13>9780062127242</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>282494</id>
+<name>Pete Townshend</name>
+<link><![CDATA[https://www.goodreads.com/author/show/282494.Pete_Townshend]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13623901</id>
+<title><![CDATA[Kicking and Dreaming: A Story of Heart, Soul, and Rock and Roll]]></title>
+<title_without_series><![CDATA[Kicking and Dreaming: A Story of Heart, Soul, and Rock and Roll]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13623901-kicking-and-dreaming]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346991555l/13623901._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346991555l/13623901._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>19227649</id>
+</work>
+<isbn>0062101676</isbn>
+<isbn13>9780062101679</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>6521524</id>
+<name>Ann  Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6521524.Ann_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18050183</id>
+<title><![CDATA[Please Be with Me: A Song for My Father, Duane Allman]]></title>
+<title_without_series><![CDATA[Please Be with Me: A Song for My Father, Duane Allman]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18050183-please-be-with-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384025022l/18050183._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384025022l/18050183._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>25411304</id>
+</work>
+<isbn>1400068940</isbn>
+<isbn13>9781400068944</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7126424</id>
+<name>Galadrielle Allman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7126424.Galadrielle_Allman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2265789</id>
+<title><![CDATA[Heaven And Hell: My Life In The Eagles (1974 2001)]]></title>
+<title_without_series><![CDATA[Heaven And Hell: My Life In The Eagles]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2265789.Heaven_And_Hell]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329227091l/2265789._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329227091l/2265789._SX98_.jpg]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>2271806</id>
+</work>
+<isbn>0297844628</isbn>
+<isbn13>9780297844624</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>907560</id>
+<name>Don Felder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/907560.Don_Felder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>286045</id>
+<title><![CDATA[This Wheel's on Fire: Levon Helm and the Story of the Band]]></title>
+<title_without_series><![CDATA[This Wheel's on Fire: Levon Helm and the Story of the Band]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/286045.This_Wheel_s_on_Fire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>277511</id>
+</work>
+<isbn>1556524056</isbn>
+<isbn13>9781556524059</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>165978</id>
+<name>Levon Helm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/165978.Levon_Helm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>176491</id>
+<title><![CDATA[Skydog - The Duane Allman Story]]></title>
+<title_without_series><![CDATA[Skydog - The Duane Allman Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/176491.Skydog_The_Duane_Allman_Story]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>324</num_pages>
+<work>
+<id>170521</id>
+</work>
+<isbn>0879308915</isbn>
+<isbn13>9780879308919</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>102937</id>
+<name>Randy Poe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/102937.Randy_Poe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62837</id>
+<title><![CDATA[Shakey: Neil Young's Biography]]></title>
+<title_without_series><![CDATA[Shakey: Neil Young's Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62837.Shakey]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>816</num_pages>
+<work>
+<id>61030</id>
+</work>
+<isbn>0679750967</isbn>
+<isbn13>9780679750963</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>35285</id>
+<name>Jimmy McDonough</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35285.Jimmy_McDonough]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>387218</id>
+<title>Love, Janis</title>
+<title_without_series>Love, Janis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/387218.Love_Janis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>394</num_pages>
+<work>
+<id>376855</id>
+</work>
+<isbn>0060755229</isbn>
+<isbn13>9780060755225</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>220134</id>
+<name>Laura Joplin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/220134.Laura_Joplin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9439303</id>
+<title>Life</title>
+<title_without_series>Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9439303-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SX98_.jpg]]></image_url>
+<num_pages>564</num_pages>
+<work>
+<id>14323907</id>
+</work>
+<isbn>0297854399</isbn>
+<isbn13>9780297854395</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>45539</id>
+<name>Keith Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45539.Keith_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>573106</id>
+<title><![CDATA[I'll Sleep When I'm Dead: The Dirty Life and Times of Warren Zevon]]></title>
+<title_without_series><![CDATA[I'll Sleep When I'm Dead: The Dirty Life and Times of Warren Zevon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/573106.I_ll_Sleep_When_I_m_Dead]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>452</num_pages>
+<work>
+<id>560123</id>
+</work>
+<isbn>0060763450</isbn>
+<isbn13>9780060763459</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>313143</id>
+<name>Crystal Zevon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/313143.Crystal_Zevon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1207904</id>
+<title>Clapton: The Autobiography</title>
+<title_without_series>Clapton: The Autobiography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1207904.Clapton]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>343</num_pages>
+<work>
+<id>3219177</id>
+</work>
+<isbn>038551851X</isbn>
+<isbn13>9780385518512</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>134964</id>
+<name>Eric Clapton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134964.Eric_Clapton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>279410</id>
+<title><![CDATA[Searching for the Sound: My Life with the Grateful Dead]]></title>
+<title_without_series><![CDATA[Searching for the Sound: My Life with the Grateful Dead]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/279410.Searching_for_the_Sound]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>271018</id>
+</work>
+<isbn>0316009989</isbn>
+<isbn13>9780316009980</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>162623</id>
+<name>Phil Lesh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/162623.Phil_Lesh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15784590</id>
+<title>Bruce</title>
+<title_without_series>Bruce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15784590-bruce]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348447121l/15784590._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348447121l/15784590._SX98_.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>21502454</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>35119</id>
+<name>Peter Ames Carlin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35119.Peter_Ames_Carlin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25982551</id>
+<title>Testimony: A Memoir</title>
+<title_without_series>Testimony: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25982551-testimony]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457293798l/25982551._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457293798l/25982551._SX98_.jpg]]></image_url>
+<num_pages>500</num_pages>
+<work>
+<id>45105521</id>
+</work>
+<isbn>0307401391</isbn>
+<isbn13>9780307401397</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>182018</id>
+<name>Robbie Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/182018.Robbie_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17320832</id>
+<title><![CDATA[Wild Tales: A Rock & Roll Life]]></title>
+<title_without_series><![CDATA[Wild Tales: A Rock & Roll Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17320832-wild-tales]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366897692l/17320832._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366897692l/17320832._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>24017449</id>
+</work>
+<isbn>0385367538</isbn>
+<isbn13>9780385367530</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>177471</id>
+<name>Graham Nash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/177471.Graham_Nash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18599653</id>
+<title><![CDATA[Face the Music: A Life Exposed]]></title>
+<title_without_series><![CDATA[Face the Music: A Life Exposed]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18599653-face-the-music]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391417603l/18599653._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391417603l/18599653._SX98_.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>26365827</id>
+</work>
+<isbn>0062114069</isbn>
+<isbn13>9780062114068</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>186266</id>
+<name>Paul Stanley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/186266.Paul_Stanley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17559245</id>
+<title><![CDATA[Simple Dreams: A Musical Memoir]]></title>
+<title_without_series><![CDATA[Simple Dreams: A Musical Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17559245-simple-dreams]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379891991l/17559245._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379891991l/17559245._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>24485307</id>
+</work>
+<isbn>1451668724</isbn>
+<isbn13>9781451668728</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4534</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>164543</id>
+<name>Linda Ronstadt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164543.Linda_Ronstadt]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

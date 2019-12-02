@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10836585</id>
+  <title>Life Itself</title>
+  <isbn><![CDATA[0446584975]]></isbn>
+  <isbn13><![CDATA[9780446584975]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>13</publication_day>
+  <publisher>Grand Central Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Roger Ebert is the best-known film critic of our time. He has been reviewing films for the <em>Chicago Sun-Times</em> since 1967, and was the first film critic ever to win a Pulitzer Prize. He has appeared on television for four decades, including twenty-three years as cohost of <em>Siskel &amp; Ebert at the Movies</em>.<br /><br />In 2006, complications from thyroid cancer treatment resulted in the loss of his ability to eat, drink, or speak. But with the loss of his voice, Ebert has only become a more prolific and influential writer. And now, for the first time, he tells the full, dramatic story of his life and career.<br /><br />Roger Ebert's journalism carried him on a path far from his nearly idyllic childhood in Urbana, Illinois. It is a journey that began as a reporter for his local daily, and took him to Chicago, where he was unexpectedly given the job of film critic for the <em>Sun-Times</em>, launching a lifetime's adventures.<br /><br />In this candid, personal history, Ebert chronicles it all: his loves, losses, and obsessions; his struggle and recovery from alcoholism; his marriage; his politics; and his spiritual beliefs. He writes about his years at the <em>Sun-Times</em>, his colorful newspaper friends, and his life-changing collaboration with Gene Siskel. He remembers his friendships with Studs Terkel, Mike Royko, Oprah Winfrey, and Russ Meyer (for whom he wrote <em>Beyond the Valley of the Dolls</em> and an ill-fated Sex Pistols movie). He shares his insights into movie stars and directors like John Wayne, Werner Herzog, and Martin Scorsese.<br /><br />This is a story that only Roger Ebert could tell. Filled with the same deep insight, dry wit, and sharp observations that his readers have long cherished, this is more than a memoir-it is a singular, warm-hearted, inspiring look at life itself.<br /><br />"I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn't always know this, and am happy I lived long enough to find it out."<br />-from <em>LIFE ITSELF</em>]]></description>
+  <work>
+  <id type="integer">15750735</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">10836585</best_book_id>
+  <reviews_count type="integer">14958</reviews_count>
+  <ratings_sum type="integer">22098</ratings_sum>
+  <ratings_count type="integer">5665</ratings_count>
+  <text_reviews_count type="integer">883</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">13</original_publication_day>
+  <original_title>Life Itself</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1651|4:2328|3:1263|2:319|1:104|total:5665</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.DQPxxsxRd1BWHE-jUUXQMQ</work_uri>
+</work>
+  <average_rating>3.90</average_rating>
+  <num_pages><![CDATA[436]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5011]]></ratings_count>
+  <text_reviews_count><![CDATA[782]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10836585-life-itself]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10836585-life-itself]]></link>
+  <authors>
+<author>
+<id>13300</id>
+<name>Roger Ebert</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1516824142p5/13300.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1516824142p2/13300.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13300.Roger_Ebert]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>15185</ratings_count>
+<text_reviews_count>1783</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10836585-life-itself">Life Itself Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446584975&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/10836585-life-itself?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8298"/>
+      <shelf name="currently-reading" count="318"/>
+      <shelf name="non-fiction" count="236"/>
+      <shelf name="memoir" count="200"/>
+      <shelf name="biography" count="158"/>
+      <shelf name="nonfiction" count="111"/>
+      <shelf name="film" count="73"/>
+      <shelf name="autobiography" count="57"/>
+      <shelf name="biography-memoir" count="54"/>
+      <shelf name="memoirs" count="53"/>
+      <shelf name="audiobook" count="49"/>
+      <shelf name="favorites" count="46"/>
+      <shelf name="audiobooks" count="39"/>
+      <shelf name="audio" count="35"/>
+      <shelf name="movies" count="33"/>
+      <shelf name="owned" count="27"/>
+      <shelf name="library" count="24"/>
+      <shelf name="biographies" count="20"/>
+      <shelf name="chicago" count="17"/>
+      <shelf name="books-i-own" count="14"/>
+      <shelf name="audio-books" count="14"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="kindle" count="11"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="hollywood" count="11"/>
+      <shelf name="book-club" count="10"/>
+      <shelf name="entertainment" count="10"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="memoir-biography" count="9"/>
+      <shelf name="history" count="9"/>
+      <shelf name="audible" count="9"/>
+      <shelf name="read-in-2013" count="8"/>
+      <shelf name="didn-t-finish" count="8"/>
+      <shelf name="read-in-2012" count="8"/>
+      <shelf name="cinema" count="8"/>
+      <shelf name="calibre" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="bio" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="biographies-memoirs" count="7"/>
+      <shelf name="cinéma" count="7"/>
+      <shelf name="bio-memoir" count="7"/>
+      <shelf name="journalism" count="7"/>
+      <shelf name="non-fiction-to-read" count="7"/>
+      <shelf name="contemporary" count="7"/>
+      <shelf name="writing" count="6"/>
+      <shelf name="biography-autobiography" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="on-hold" count="6"/>
+      <shelf name="essays" count="6"/>
+      <shelf name="nonfic" count="6"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="to-read-nonfiction" count="5"/>
+      <shelf name="bios-memoirs" count="5"/>
+      <shelf name="2012-books" count="5"/>
+      <shelf name="criticism" count="5"/>
+      <shelf name="biographical" count="5"/>
+      <shelf name="read-in-2011" count="5"/>
+      <shelf name="auto-biography" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="memoir-autobiography" count="5"/>
+      <shelf name="read-2015" count="4"/>
+      <shelf name="filmmaking" count="4"/>
+      <shelf name="couldn-t-finish" count="4"/>
+      <shelf name="nonfiction-to-read" count="4"/>
+      <shelf name="autobiography-biography" count="4"/>
+      <shelf name="overdrive" count="4"/>
+      <shelf name="gave-up-on" count="4"/>
+      <shelf name="movie" count="4"/>
+      <shelf name="bios" count="4"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="gave-up" count="4"/>
+      <shelf name="memoirs-biographies" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="cancer" count="4"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="shelfari-wishlist" count="3"/>
+      <shelf name="film-criticism" count="3"/>
+      <shelf name="unread" count="3"/>
+      <shelf name="collection" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="brainpickings" count="3"/>
+      <shelf name="autobiographies" count="3"/>
+      <shelf name="on-kindle" count="3"/>
+      <shelf name="biography-and-memoir" count="3"/>
+      <shelf name="default" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="bookclub" count="3"/>
+      <shelf name="pop-culture" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="male-author" count="3"/>
+      <shelf name="books-about-movies" count="3"/>
+      <shelf name="bio-memoirs" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="celebrity" count="3"/>
+      <shelf name="film-history" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>10112793</id>
+<title><![CDATA[Grand Pursuit: A History of Economic Genius]]></title>
+<title_without_series><![CDATA[Grand Pursuit: A History of Economic Genius]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10112793-grand-pursuit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312155087l/10112793._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312155087l/10112793._SX98_.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>15010302</id>
+</work>
+<isbn>0684872986</isbn>
+<isbn13>9780684872988</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>8644</id>
+<name>Sylvia Nasar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8644.Sylvia_Nasar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11101760</id>
+<title>Drama: An Actor&apos;s Education</title>
+<title_without_series>Drama: An Actor&apos;s Education</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11101760-drama]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>16023878</id>
+</work>
+<isbn>0061734977</isbn>
+<isbn13>9780061734977</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>106523</id>
+<name>John Lithgow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106523.John_Lithgow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18490752</id>
+<title><![CDATA[Duty: Memoirs of a Secretary at War]]></title>
+<title_without_series><![CDATA[Duty: Memoirs of a Secretary at War]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18490752-duty]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380493942l/18490752._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380493942l/18490752._SX98_.jpg]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>26174492</id>
+</work>
+<isbn>0307959473</isbn>
+<isbn13>9780307959478</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6257</id>
+<name>Robert M. Gates</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6257.Robert_M_Gates]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10885</id>
+<title><![CDATA[The Wise Men: Six Friends and the World They Made]]></title>
+<title_without_series><![CDATA[The Wise Men: Six Friends and the World They Made]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10885.The_Wise_Men]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870158l/10885._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870158l/10885._SX98_.jpg]]></image_url>
+<num_pages>864</num_pages>
+<work>
+<id>1205942</id>
+</work>
+<isbn>0684837714</isbn>
+<isbn13>9780684837710</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7111</id>
+<name>Walter Isaacson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7111.Walter_Isaacson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27652</id>
+<title>Accidental Empires</title>
+<title_without_series>Accidental Empires</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27652.Accidental_Empires]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>28257</id>
+</work>
+<isbn>0887308554</isbn>
+<isbn13>9780887308550</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>15566</id>
+<name>Robert X. Cringely</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15566.Robert_X_Cringely]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164323</id>
+<title><![CDATA[The Google Story: Inside the Hottest Business, Media, and Technology Success of Our Time]]></title>
+<title_without_series><![CDATA[The Google Story: Inside the Hottest Business, Media, and Technology Success of Our Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164323.The_Google_Story]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320394284l/164323._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320394284l/164323._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>2888612</id>
+</work>
+<isbn>0553383663</isbn>
+<isbn13>9780553383669</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>105508</id>
+<name>David A. Vise</name>
+<link><![CDATA[https://www.goodreads.com/author/show/105508.David_A_Vise]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>56825</id>
+<title><![CDATA[Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything]]></title>
+<title_without_series><![CDATA[Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/56825.Insanely_Great]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>55364</id>
+</work>
+<isbn>0140291776</isbn>
+<isbn13>9780140291773</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32131</id>
+<name>Steven Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32131.Steven_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13383957</id>
+<title><![CDATA[Insanely Simple: The Obsession That Drives Apple's Success]]></title>
+<title_without_series><![CDATA[Insanely Simple: The Obsession That Drives Apple's Success]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13383957-insanely-simple]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329361021l/13383957._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329361021l/13383957._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>18614238</id>
+</work>
+<isbn>1591844835</isbn>
+<isbn13>9781591844839</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>5434108</id>
+<name>Ken Segall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5434108.Ken_Segall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9871673</id>
+<title><![CDATA[I'm Feeling Lucky: The Confessions of Google Employee Number 59]]></title>
+<title_without_series><![CDATA[I'm Feeling Lucky: The Confessions of Google Employee Number 59]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9871673-i-m-feeling-lucky]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>14763328</id>
+</work>
+<isbn>0547416997</isbn>
+<isbn13>9780547416991</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4325674</id>
+<name>Douglas Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4325674.Douglas_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7518289</id>
+<title><![CDATA[The Facebook Effect: The Inside Story of the Company That is Connecting the World]]></title>
+<title_without_series><![CDATA[The Facebook Effect: The Inside Story of the Company That is Connecting the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7518289-the-facebook-effect]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>9732949</id>
+</work>
+<isbn>1439102112</isbn>
+<isbn13>9781439102114</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>17998571</id>
+<name>David   Kirkpatrick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17998571.David_Kirkpatrick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15803728</id>
+<title><![CDATA[Mary and Lou and Rhoda and Ted: And All the Brilliant Minds Who Made The Mary Tyler Moore Show a Classic]]></title>
+<title_without_series><![CDATA[Mary and Lou and Rhoda and Ted: And All the Brilliant Minds Who Made The Mary Tyler Moore Show a Classic]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15803728-mary-and-lou-and-rhoda-and-ted]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362536973l/15803728._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362536973l/15803728._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>21527147</id>
+</work>
+<isbn>1451659202</isbn>
+<isbn13>9781451659207</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4619632</id>
+<name>Jennifer Keishin Armstrong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4619632.Jennifer_Keishin_Armstrong]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9428981</id>
+<title>Here Comes Trouble</title>
+<title_without_series>Here Comes Trouble</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9428981-here-comes-trouble]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327895854l/9428981._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327895854l/9428981._SX98_.jpg]]></image_url>
+<num_pages>429</num_pages>
+<work>
+<id>14313457</id>
+</work>
+<isbn>044653224X</isbn>
+<isbn13>9780446532242</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>3154596</id>
+<name>Michael Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3154596.Michael_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>49312</id>
+<title><![CDATA[iCon: Steve Jobs, the Greatest Second Act in the History of Business]]></title>
+<title_without_series><![CDATA[iCon: Steve Jobs, the Greatest Second Act in the History of Business]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/49312.iCon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284942395l/49312._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284942395l/49312._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>48234</id>
+</work>
+<isbn>0471787841</isbn>
+<isbn13>9780471787846</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>27721</id>
+<name>Jeffrey S. Young</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27721.Jeffrey_S_Young]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>658332</id>
+<title><![CDATA[Free as in Freedom: Richard Stallman's Crusade for Free Software]]></title>
+<title_without_series><![CDATA[Free as in Freedom: Richard Stallman's Crusade for Free Software]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/658332.Free_as_in_Freedom]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344675393l/658332._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344675393l/658332._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>644416</id>
+</work>
+<isbn>0596002874</isbn>
+<isbn13>9780596002879</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7795799</id>
+<name>Sam  Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7795799.Sam_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8148515</id>
+<title>HTML5 for Web Designers</title>
+<title_without_series>HTML5 for Web Designers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8148515-html5-for-web-designers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284658134l/8148515._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284658134l/8148515._SX98_.jpg]]></image_url>
+<num_pages>87</num_pages>
+<work>
+<id>12948009</id>
+</work>
+<isbn>0984442502</isbn>
+<isbn13>9780984442508</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>25514</id>
+<name>Jeremy Keith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25514.Jeremy_Keith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>356920</id>
+<title>Let Me Go</title>
+<title_without_series>Let Me Go</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/356920.Let_Me_Go]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>166</num_pages>
+<work>
+<id>347090</id>
+</work>
+<isbn>0143035177</isbn>
+<isbn13>9780143035176</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>13241</id>
+<name>Helga Schneider</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13241.Helga_Schneider]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>54284</id>
+<title><![CDATA[Surviving Hitler: A Boy in the Nazi Death Camps]]></title>
+<title_without_series><![CDATA[Surviving Hitler: A Boy in the Nazi Death Camps]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/54284.Surviving_Hitler]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>146</num_pages>
+<work>
+<id>840587</id>
+</work>
+<isbn>0060007672</isbn>
+<isbn13>9780060007676</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>30704</id>
+<name>Andrea Warren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30704.Andrea_Warren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>52470</id>
+<title><![CDATA[Makes Me Wanna Holler: A Young Black Man in America]]></title>
+<title_without_series><![CDATA[Makes Me Wanna Holler: A Young Black Man in America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/52470.Makes_Me_Wanna_Holler]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>1285592</id>
+</work>
+<isbn>0679740708</isbn>
+<isbn13>9780679740704</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5665</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>29615</id>
+<name>Nathan McCall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29615.Nathan_McCall]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

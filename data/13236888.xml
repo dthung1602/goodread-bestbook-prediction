@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13236888</id>
+  <title>Snowflake</title>
+  <isbn><![CDATA[1933517581]]></isbn>
+  <isbn13><![CDATA[9781933517582]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Wave Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In her first book of poetry since 2007, legendary poet, critic, and novelist Eileen Myles creates poet and poem anew as she pushes the boundaries of her craft ever closer to the enigmatic core. <i>Snowflake</i> finds the poet awash in an extended and distressed landscape mediated by technology and its distortion of time and space. In <i>different streets</i>, the poet returns home, to the familiar world of human connection. Two books meet as one: more Eileen Myles, more indelible connection, more fleeting ecstasy.]]></description>
+  <work>
+  <id type="integer">18434710</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">13236888</best_book_id>
+  <reviews_count type="integer">1269</reviews_count>
+  <ratings_sum type="integer">1339</ratings_sum>
+  <ratings_count type="integer">331</ratings_count>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">10</original_publication_day>
+  <original_title>Snowflake</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:125|4:123|3:60|2:19|1:4|total:331</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.XlGU3EWkaPbrOUDG7BNqtA</work_uri>
+</work>
+  <average_rating>4.05</average_rating>
+  <num_pages><![CDATA[232]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[331]]></ratings_count>
+  <text_reviews_count><![CDATA[32]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13236888-snowflake]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13236888-snowflake]]></link>
+  <authors>
+<author>
+<id>29605</id>
+<name>Eileen Myles</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1203806884p5/29605.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1203806884p2/29605.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29605.Eileen_Myles]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>22457</ratings_count>
+<text_reviews_count>2183</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13236888-snowflake">Snowflake Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1933517581&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13236888-snowflake?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="816"/>
+      <shelf name="poetry" count="128"/>
+      <shelf name="currently-reading" count="15"/>
+      <shelf name="queer" count="10"/>
+      <shelf name="favorites" count="6"/>
+      <shelf name="lgbt" count="5"/>
+      <shelf name="poetry-to-read" count="4"/>
+      <shelf name="lgbtq" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="to-read-poetry" count="2"/>
+      <shelf name="poems" count="2"/>
+      <shelf name="owned" count="2"/>
+      <shelf name="contemporary-poetry" count="2"/>
+      <shelf name="21st-century" count="1"/>
+      <shelf name="20-in-2020" count="1"/>
+      <shelf name="over-200" count="1"/>
+      <shelf name="award-nom" count="1"/>
+      <shelf name="tbr-p" count="1"/>
+      <shelf name="read-in-2019" count="1"/>
+      <shelf name="gca2012" count="1"/>
+      <shelf name="to-borrow-from-the-library" count="1"/>
+      <shelf name="queer-author" count="1"/>
+      <shelf name="nb-author" count="1"/>
+      <shelf name="babel_poetry" count="1"/>
+      <shelf name="babel" count="1"/>
+      <shelf name="author-recs" count="1"/>
+      <shelf name="humor" count="1"/>
+      <shelf name="miscellaneous" count="1"/>
+      <shelf name="make-my-heart-sing" count="1"/>
+      <shelf name="not-at-library" count="1"/>
+      <shelf name="want-to-buy-and-read" count="1"/>
+      <shelf name="demorest-collection" count="1"/>
+      <shelf name="also-new" count="1"/>
+      <shelf name="favourite-poetry" count="1"/>
+      <shelf name="wish-list" count="1"/>
+      <shelf name="women-s-writing-things" count="1"/>
+      <shelf name="nonfiction" count="1"/>
+      <shelf name="xx" count="1"/>
+      <shelf name="teaching-material-poetry-workshops" count="1"/>
+      <shelf name="tr-poetry" count="1"/>
+      <shelf name="read-in-2017" count="1"/>
+      <shelf name="poetry-to-do" count="1"/>
+      <shelf name="eileen-myles-texts" count="1"/>
+      <shelf name="library-books" count="1"/>
+      <shelf name="lambda-award-and-nominees" count="1"/>
+      <shelf name="poetryy" count="1"/>
+      <shelf name="poetry-and-such" count="1"/>
+      <shelf name="2010-through-2014" count="1"/>
+      <shelf name="finished-in-2017" count="1"/>
+      <shelf name="diversity-library" count="1"/>
+      <shelf name="small-press" count="1"/>
+      <shelf name="urgent-reads" count="1"/>
+      <shelf name="queer-lit" count="1"/>
+      <shelf name="lgbtq-adult" count="1"/>
+      <shelf name="collections-poetry" count="1"/>
+      <shelf name="queermos" count="1"/>
+      <shelf name="o-n" count="1"/>
+      <shelf name="women" count="1"/>
+      <shelf name="queer-fiction" count="1"/>
+      <shelf name="staff-recommended-queer-themed" count="1"/>
+      <shelf name="summer-2016" count="1"/>
+      <shelf name="to-reorganize" count="1"/>
+      <shelf name="poetry-short-stories" count="1"/>
+      <shelf name="queer-books" count="1"/>
+      <shelf name="female-authors" count="1"/>
+      <shelf name="red" count="1"/>
+      <shelf name="your-mouth-is-champagne-roses" count="1"/>
+      <shelf name="great-art-or-design" count="1"/>
+      <shelf name="glbtq" count="1"/>
+      <shelf name="check" count="1"/>
+      <shelf name="american-literature" count="1"/>
+      <shelf name="novels" count="1"/>
+      <shelf name="buy-borrow" count="1"/>
+      <shelf name="only-the-poets" count="1"/>
+      <shelf name="awarded" count="1"/>
+      <shelf name="later" count="1"/>
+      <shelf name="poetry-tbr" count="1"/>
+      <shelf name="recentlyread" count="1"/>
+      <shelf name="mirrors" count="1"/>
+      <shelf name="95books-2015" count="1"/>
+      <shelf name="must-reads" count="1"/>
+      <shelf name="library" count="1"/>
+      <shelf name="poems-things" count="1"/>
+      <shelf name="poesia" count="1"/>
+      <shelf name="pl201a" count="1"/>
+      <shelf name="home-library" count="1"/>
+      <shelf name="my-favourite-poetry" count="1"/>
+      <shelf name="my-favourite-writers" count="1"/>
+      <shelf name="favorite-contemporary" count="1"/>
+      <shelf name="new-york" count="1"/>
+      <shelf name="queers" count="1"/>
+      <shelf name="poems-for-life" count="1"/>
+      <shelf name="to-read-alternative" count="1"/>
+      <shelf name="pre-mfa-reading-list" count="1"/>
+      <shelf name="catalog" count="1"/>
+      <shelf name="at-local-library" count="1"/>
+      <shelf name="california" count="1"/>
+      <shelf name="ca-conrad-s-favorites" count="1"/>
+      <shelf name="la" count="1"/>
+      <shelf name="environment" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>26889825</id>
+<title>Last Sext</title>
+<title_without_series>Last Sext</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26889825-last-sext]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445393775l/26889825._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445393775l/26889825._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>46938209</id>
+</work>
+<isbn>1941040330</isbn>
+<isbn13>9781941040331</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>3192838</id>
+<name>Melissa Broder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3192838.Melissa_Broder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5290639</id>
+<title>Poemland</title>
+<title_without_series>Poemland</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5290639-poemland]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354903639l/5290639._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354903639l/5290639._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>5358059</id>
+</work>
+<isbn>1933517417</isbn>
+<isbn13>9781933517414</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>406177</id>
+<name>Chelsey Minnis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/406177.Chelsey_Minnis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25326609</id>
+<title>TENDER DATA</title>
+<title_without_series>TENDER DATA</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25326609-tender-data]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429215026l/25326609._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429215026l/25326609._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>45061096</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7326381</id>
+<name>Monica McClure</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7326381.Monica_McClure]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36477260</id>
+<title>Milk</title>
+<title_without_series>Milk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36477260-milk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508973378l/36477260._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508973378l/36477260._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>58187130</id>
+</work>
+<isbn>194069664X</isbn>
+<isbn13>9781940696645</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>683293</id>
+<name>Dorothea Lasky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/683293.Dorothea_Lasky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13447281</id>
+<title>Thunderbird</title>
+<title_without_series>Thunderbird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13447281-thunderbird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340743343l/13447281._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340743343l/13447281._SX98_.jpg]]></image_url>
+<num_pages>105</num_pages>
+<work>
+<id>18963663</id>
+</work>
+<isbn>1933517638</isbn>
+<isbn13>9781933517636</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>683293</id>
+<name>Dorothea Lasky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/683293.Dorothea_Lasky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>263258</id>
+<title>Something Bright, Then Holes</title>
+<title_without_series>Something Bright, Then Holes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/263258.Something_Bright_Then_Holes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>255194</id>
+</work>
+<isbn>1933368802</isbn>
+<isbn13>9781933368801</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>58605</id>
+<name>Maggie Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58605.Maggie_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43841537</id>
+<title>Dunce</title>
+<title_without_series>Dunce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43841537-dunce]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551808951l/43841537._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551808951l/43841537._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>68228113</id>
+</work>
+<isbn>1940696852</isbn>
+<isbn13>9781940696850</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>282933</id>
+<name>Mary Ruefle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/282933.Mary_Ruefle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34419228</id>
+<title>Madness</title>
+<title_without_series>Madness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34419228-madness]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500908145l/34419228._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500908145l/34419228._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>55523595</id>
+</work>
+<isbn>0143131702</isbn>
+<isbn13>9780143131700</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>14051904</id>
+<name>Sam Sax</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14051904.Sam_Sax]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35438018</id>
+<title>Wade in the Water: Poems</title>
+<title_without_series>Wade in the Water: Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35438018-wade-in-the-water]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56819357</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>255167</id>
+<name>Tracy K. Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/255167.Tracy_K_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36479356</id>
+<title><![CDATA[American Sonnets for My Past and Future Assassin]]></title>
+<title_without_series><![CDATA[American Sonnets for My Past and Future Assassin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36479356-american-sonnets-for-my-past-and-future-assassin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>58190092</id>
+</work>
+<isbn>0143133187</isbn>
+<isbn13>9780143133186</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>92372</id>
+<name>Terrance Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92372.Terrance_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33375618</id>
+<title>Don&apos;t Call Us Dead</title>
+<title_without_series>Don&apos;t Call Us Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33375618-don-t-call-us-dead]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485966636l/33375618._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>54116419</id>
+</work>
+<isbn>1555977855</isbn>
+<isbn13>9781555977856</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8473734</id>
+<name>Danez Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8473734.Danez_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32311036</id>
+<title>Nature Poem</title>
+<title_without_series>Nature Poem</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32311036-nature-poem]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477088802l/32311036._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477088802l/32311036._SX98_.jpg]]></image_url>
+<num_pages>78</num_pages>
+<work>
+<id>52938942</id>
+</work>
+<isbn>1941040632</isbn>
+<isbn13>9781941040638</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>8157984</id>
+<name>Tommy Pico</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8157984.Tommy_Pico]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35838277</id>
+<title><![CDATA[Paul Takes the Form of a Mortal Girl]]></title>
+<title_without_series><![CDATA[Paul Takes the Form of a Mortal Girl]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35838277-paul-takes-the-form-of-a-mortal-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501169577l/35838277._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501169577l/35838277._SX98_.jpg]]></image_url>
+<num_pages>354</num_pages>
+<work>
+<id>57346921</id>
+</work>
+<isbn>0986086991</isbn>
+<isbn13>9780986086991</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1048542</id>
+<name>Andrea Lawlor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1048542.Andrea_Lawlor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26114310</id>
+<title>Look</title>
+<title_without_series>Look</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26114310-look]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444695417l/26114310._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444695417l/26114310._SX98_.jpg]]></image_url>
+<num_pages>98</num_pages>
+<work>
+<id>46061210</id>
+</work>
+<isbn>1555977448</isbn>
+<isbn13>9781555977443</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7052571</id>
+<name>Solmaz Sharif</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7052571.Solmaz_Sharif]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34953002</id>
+<title><![CDATA[Good Talk: A Memoir in Conversations]]></title>
+<title_without_series><![CDATA[Good Talk: A Memoir in Conversations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34953002-good-talk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540088521l/34953002._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540088521l/34953002._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>56227420</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7273922</id>
+<name>Mira Jacob</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7273922.Mira_Jacob]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9639765</id>
+<title>Life on Mars</title>
+<title_without_series>Life on Mars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9639765-life-on-mars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344317187l/9639765._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344317187l/9639765._SX98_.jpg]]></image_url>
+<num_pages>75</num_pages>
+<work>
+<id>14527177</id>
+</work>
+<isbn>1555975844</isbn>
+<isbn13>9781555975845</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>255167</id>
+<name>Tracy K. Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/255167.Tracy_K_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36477228</id>
+<title>Orlando</title>
+<title_without_series>Orlando</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36477228-orlando]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508973028l/36477228._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508973028l/36477228._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>58187095</id>
+</work>
+<isbn>1940696607</isbn>
+<isbn13>9781940696607</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2737441</id>
+<name>Sandra Simonds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2737441.Sandra_Simonds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36514744</id>
+<title>Ghost Of</title>
+<title_without_series>Ghost Of</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36514744-ghost-of]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509533543l/36514744._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509533543l/36514744._SX98_.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>58235797</id>
+</work>
+<isbn>1632430525</isbn>
+<isbn13>9781632430526</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>331</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17285620</id>
+<name>Diana Khoi Nguyen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17285620.Diana_Khoi_Nguyen]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

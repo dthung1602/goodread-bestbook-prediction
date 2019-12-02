@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>29812803</id>
+  <title><![CDATA[Black Panther #1 (Black Panther (2016) (Single Issues) #1)]]></title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B01BCPZBWI]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Marvel Comics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A new era for the Black Panther starts here! Written by MacArthur Genius and National Book Award winner TA-NEHISI COATES (Between the World and Me) and illustrated by living legend BRIAN STELFREEZE, "A Nation Under Our Feet" is a story about dramatic upheaval in Wakanda and the Black Panther's struggle to do right by his people as their ruler. The indomitable will of Wakanda -- the famed African nation known for its vast wealth, advanced technology and warrior traditions -- has long been reflected in the will of its monarchs, the Black Panthers. But now the current Black Panther, T'Challa, finds that will tested by a superhuman terrorist group called The People that has sparked a violent uprising among the citizens of Wakanda. T'Challa knows the country must change to survive -- the question is, will the Black Panther survive the change?]]></description>
+  <work>
+  <id type="integer">49491277</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">29812803</best_book_id>
+  <reviews_count type="integer">17540</reviews_count>
+  <ratings_sum type="integer">24810</ratings_sum>
+  <ratings_count type="integer">6382</ratings_count>
+  <text_reviews_count type="integer">522</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">6</original_publication_day>
+  <original_title>Black Panther (2016-) #1</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>periodical</media_type>
+  <rating_dist>5:2282|4:1978|3:1478|2:410|1:234|total:6382</rating_dist>
+  <desc_user_id type="integer">10380339</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.1xmIB9UEk9Nr3FaIGDtObA</work_uri>
+</work>
+  <average_rating>3.89</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Digital Comic]]></edition_information>
+  <ratings_count><![CDATA[6380]]></ratings_count>
+  <text_reviews_count><![CDATA[522]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/29812803-black-panther-1-black-panther-2016]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/29812803-black-panther-1-black-panther-2016]]></link>
+  <authors>
+<author>
+<id>1214964</id>
+<name>Ta-Nehisi Coates</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1557149849p5/1214964.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1557149849p2/1214964.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>240685</ratings_count>
+<text_reviews_count>27213</text_reviews_count>
+</author>
+<author>
+<id>611842</id>
+<name>Brian Stelfreeze</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1544399882p5/611842.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1544399882p2/611842.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/611842.Brian_Stelfreeze]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>30575</ratings_count>
+<text_reviews_count>2587</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/29812803-black-panther-1-black-panther-2016">Black Panther #1 (Black Panther (2016) Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B01BCPZBWI&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/29812803-black-panther-1-black-panther-2016?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9838"/>
+      <shelf name="comics" count="259"/>
+      <shelf name="graphic-novels" count="243"/>
+      <shelf name="currently-reading" count="176"/>
+      <shelf name="graphic-novel" count="155"/>
+      <shelf name="fiction" count="64"/>
+      <shelf name="comics-graphic-novels" count="53"/>
+      <shelf name="fantasy" count="35"/>
+      <shelf name="marvel" count="31"/>
+      <shelf name="graphic-novels-comics" count="31"/>
+      <shelf name="comic" count="29"/>
+      <shelf name="superheroes" count="28"/>
+      <shelf name="comic-books" count="25"/>
+      <shelf name="read-in-2016" count="22"/>
+      <shelf name="superhero" count="19"/>
+      <shelf name="science-fiction" count="19"/>
+      <shelf name="graphic" count="17"/>
+      <shelf name="marvel-comics" count="17"/>
+      <shelf name="sci-fi" count="15"/>
+      <shelf name="favorites" count="15"/>
+      <shelf name="graphic-novels-and-comics" count="14"/>
+      <shelf name="comics-and-graphic-novels" count="14"/>
+      <shelf name="read-in-2018" count="13"/>
+      <shelf name="young-adult" count="10"/>
+      <shelf name="series" count="10"/>
+      <shelf name="owned" count="10"/>
+      <shelf name="comic-book" count="10"/>
+      <shelf name="black-panther" count="10"/>
+      <shelf name="ya" count="10"/>
+      <shelf name="graphicnovels" count="9"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="african-american" count="9"/>
+      <shelf name="africa" count="9"/>
+      <shelf name="read-in-2017" count="8"/>
+      <shelf name="2017-reads" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="read-harder-2018" count="7"/>
+      <shelf name="ebook" count="7"/>
+      <shelf name="comic-graphic-novel" count="7"/>
+      <shelf name="adventure" count="7"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="lgbt" count="6"/>
+      <shelf name="comics-manga" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="2018-read-harder" count="6"/>
+      <shelf name="graphic-novel-comics" count="6"/>
+      <shelf name="cómics" count="5"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="sequential-art" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="graphic-novels-manga" count="5"/>
+      <shelf name="comix" count="5"/>
+      <shelf name="black" count="5"/>
+      <shelf name="2018-reading-challenge" count="5"/>
+      <shelf name="to-read-comics" count="5"/>
+      <shelf name="lgbtqia" count="5"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="multicultural" count="4"/>
+      <shelf name="poc" count="4"/>
+      <shelf name="manga-and-comics" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="graphic-novel-comic" count="4"/>
+      <shelf name="diversity" count="4"/>
+      <shelf name="comics-to-read" count="4"/>
+      <shelf name="comic-issues" count="4"/>
+      <shelf name="comic-graphic" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="african" count="4"/>
+      <shelf name="action-adventure" count="4"/>
+      <shelf name="21st-century" count="4"/>
+      <shelf name="2018-reads" count="4"/>
+      <shelf name="2018-read" count="4"/>
+      <shelf name="graphics" count="4"/>
+      <shelf name="to-read-fiction" count="4"/>
+      <shelf name="sff" count="4"/>
+      <shelf name="audio_wanted" count="3"/>
+      <shelf name="freshman-year" count="3"/>
+      <shelf name="read-harder" count="3"/>
+      <shelf name="read-for-school" count="3"/>
+      <shelf name="scifi" count="3"/>
+      <shelf name="sci-fi-fantasy" count="3"/>
+      <shelf name="didn-t-finish" count="3"/>
+      <shelf name="african-american-literature" count="3"/>
+      <shelf name="super-hero" count="3"/>
+      <shelf name="marvel-unlimited" count="3"/>
+      <shelf name="manga-comics" count="3"/>
+      <shelf name="male-author" count="3"/>
+      <shelf name="comixology" count="3"/>
+      <shelf name="comic-books-graphic-novels" count="3"/>
+      <shelf name="authors-of-color" count="3"/>
+      <shelf name="2016-releases" count="3"/>
+      <shelf name="2016-read" count="3"/>
+      <shelf name="super-heroes" count="3"/>
+      <shelf name="challenge" count="3"/>
+      <shelf name="book-riot-2018" count="2"/>
+      <shelf name="2019-reads" count="2"/>
+      <shelf name="classroom-library" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1016990</id>
+<user_position>1</user_position>
+<series>
+<id>198756</id>
+<title>
+<![CDATA[
+    Black Panther (2016) (Single Issues)
+]]>
+</title>
+<description>
+<![CDATA[
+    All-New, All-Different Marvel | Collected editions: <A href="https://www.goodreads.com/series/205147">Black Panther (2016)</a>
+    
+    An All-New, All-Different Marvel series. In this groundbreaking series, a civil-war rages in Wakanda! After issue 18, the Marvel Legacy event starts, in which all of the issues of the previous volume's of Black Panther are counted together, making the 19th issue the 166th in total. From #7 the series is part of Marvel NOW! 2.0
+    
+    Black Panther (1977) #1-15
+    Black Panther (1998) #1-62 (#16-77)
+    Black Panther (2005) #1-41 (#78-118)
+    Black Panther (2009) #1-12 (#119-130)
+    Black Panther: The Man Without Fear (2011) #513-523 (#131-141)
+    Black Panther: The Most Dangerous Man Alive (2011) #524-529 (#142-147)
+    Black Panther (2016) #1-18 (#148-165)
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>33</series_works_count>
+<primary_work_count>24</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>28765516</id>
+<title>Storm #1</title>
+<title_without_series>Storm #1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28765516-storm-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42418148</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>89393</id>
+<name>Greg Pak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89393.Greg_Pak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17277819</id>
+<title><![CDATA[The Fearless Defenders, Vol. 1: Doom Maidens]]></title>
+<title_without_series><![CDATA[The Fearless Defenders, Vol. 1: Doom Maidens]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17277819-the-fearless-defenders-vol-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>23891190</id>
+</work>
+<isbn>0785168486</isbn>
+<isbn13>9780785168485</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>591619</id>
+<name>Cullen Bunn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/591619.Cullen_Bunn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25843338</id>
+<title>Captain Marvel (2014-2015) #2</title>
+<title_without_series>Captain Marvel (2014-2015) #2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25843338-captain-marvel-2014-2015-2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>41321959</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16587</id>
+<name>Kelly Sue DeConnick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16587.Kelly_Sue_DeConnick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28167546</id>
+<title><![CDATA[Lumberjanes: Beyond Bay Leaf Special #1]]></title>
+<title_without_series><![CDATA[Lumberjanes: Beyond Bay Leaf Special #1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28167546-lumberjanes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>45985936</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>996558</id>
+<name>Faith Erin Hicks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/996558.Faith_Erin_Hicks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32498369</id>
+<title><![CDATA[Black Panther: World of Wakanda]]></title>
+<title_without_series><![CDATA[Black Panther: World of Wakanda]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32498369-black-panther]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493249101l/32498369._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493249101l/32498369._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>54918434</id>
+</work>
+<isbn>130290650X</isbn>
+<isbn13>9781302906504</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3360355</id>
+<name>Roxane Gay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3360355.Roxane_Gay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27279102</id>
+<title>Monstress #2</title>
+<title_without_series>Monstress #2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27279102-monstress-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449062296l/27279102._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449062296l/27279102._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>47334260</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>12</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>35022</id>
+<name>Marjorie M. Liu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35022.Marjorie_M_Liu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25821779</id>
+<title><![CDATA[Fantastic Four (1961-1998) #52]]></title>
+<title_without_series><![CDATA[Fantastic Four (1961-1998) #52]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25821779-fantastic-four-1961-1998-52]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>45679243</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10303</id>
+<name>Stan Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10303.Stan_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26113979</id>
+<title>Ms. Marvel (2014-2015) #6</title>
+<title_without_series>Ms. Marvel (2014-2015) #6</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26113979-ms-marvel-2014-2015-6]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42020208</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>815259</id>
+<name>G. Willow Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/815259.G_Willow_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>627201</id>
+<title><![CDATA[Black Panther: Who Is the Black Panther?]]></title>
+<title_without_series><![CDATA[Black Panther: Who Is the Black Panther?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/627201.Black_Panther]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524190466l/627201._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524190466l/627201._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>613548</id>
+</work>
+<isbn>0785120483</isbn>
+<isbn13>9780785120483</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>29850</id>
+<name>Reginald Hudlin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29850.Reginald_Hudlin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>142182</id>
+<title>Black Panther: The Client</title>
+<title_without_series>Black Panther: The Client</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/142182.Black_Panther]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530873858l/142182._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530873858l/142182._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>137133</id>
+</work>
+<isbn>0785107894</isbn>
+<isbn13>9780785107897</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>12757</id>
+<name>Christopher J. Priest</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12757.Christopher_J_Priest]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>388975</id>
+<title>Civil War: Black Panther</title>
+<title_without_series>Civil War: Black Panther</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/388975.Civil_War]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524190738l/388975._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524190738l/388975._SX98_.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>378593</id>
+</work>
+<isbn>0785122354</isbn>
+<isbn13>9780785122357</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>29850</id>
+<name>Reginald Hudlin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29850.Reginald_Hudlin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26859387</id>
+<title>Thor (2014-2015) #2</title>
+<title_without_series>Thor (2014-2015) #2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26859387-thor-2014-2015-2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42855576</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>580494</id>
+<name>Jason Aaron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/580494.Jason_Aaron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43518739</id>
+<title>Captain Marvel (2019-) #1</title>
+<title_without_series>Captain Marvel (2019-) #1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43518739-captain-marvel-2019--1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67684660</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6543330</id>
+<name>Kelly Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6543330.Kelly_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25838140</id>
+<title>Black Widow #8</title>
+<title_without_series>Black Widow #8</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25838140-black-widow-8]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42163693</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3247665</id>
+<name>Nathan Edmondson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3247665.Nathan_Edmondson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30329248</id>
+<title>Civil War II #1</title>
+<title_without_series>Civil War II #1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30329248-civil-war-ii-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>50824999</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12424</id>
+<name>Brian Michael Bendis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12424.Brian_Michael_Bendis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27163019</id>
+<title><![CDATA[The Vision, Volume 1: Little Worse Than A Man]]></title>
+<title_without_series><![CDATA[The Vision, Volume 1: Little Worse Than A Man]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27163019-the-vision-volume-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466479787l/27163019._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466479787l/27163019._SX98_.jpg]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>49571362</id>
+</work>
+<isbn>0785196579</isbn>
+<isbn13>9780785196570</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6423138</id>
+<name>Tom King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6423138.Tom_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20898019</id>
+<title>Ms. Marvel, Vol. 1: No Normal</title>
+<title_without_series>Ms. Marvel, Vol. 1: No Normal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20898019-ms-marvel-vol-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413031883l/20898019._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413031883l/20898019._SX98_.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>41250341</id>
+</work>
+<isbn>078519021X</isbn>
+<isbn13>9780785190219</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>815259</id>
+<name>G. Willow Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/815259.G_Willow_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25808308</id>
+<title>Fantastic Four (1961-1998) #1</title>
+<title_without_series>Fantastic Four (1961-1998) #1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25808308-fantastic-four-1961-1998-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>30448082</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10303</id>
+<name>Stan Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10303.Stan_Lee]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

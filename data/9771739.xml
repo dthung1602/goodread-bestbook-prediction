@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9771739</id>
+  <title>Say Hello to Zorro!</title>
+  <isbn><![CDATA[1416938931]]></isbn>
+  <isbn13><![CDATA[9781416938934]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>22</publication_day>
+  <publisher>Simon  Schuster Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Mister Bud is a dog of routine. He has wake up time, nap time, rest time, dinner time, etc. And everyone knows to follow his schedule. <br /><br />Then disaster strikes.<br /><br />A stranger comes home at "make a fuss time" and throws everything off! Zorro is little bit bossy and Mister Bud wants nothing to do with him. But when the dogs discover they like the same things (like chasing the cat and napping), everything becomes more fun. As long as everyone follows the schedule.]]></description>
+  <work>
+  <id type="integer">14661327</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">9771739</best_book_id>
+  <reviews_count type="integer">4474</reviews_count>
+  <ratings_sum type="integer">12461</ratings_sum>
+  <ratings_count type="integer">3050</ratings_count>
+  <text_reviews_count type="integer">300</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">22</original_publication_day>
+  <original_title>Say Hello to Zorro!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1205|4:1116|3:563|2:117|1:49|total:3050</rating_dist>
+  <desc_user_id type="integer">8099273</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.b3aPhn_Fvjfec25qbNOM1g</work_uri>
+</work>
+  <average_rating>4.09</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3031]]></ratings_count>
+  <text_reviews_count><![CDATA[297]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9771739-say-hello-to-zorro]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9771739-say-hello-to-zorro]]></link>
+  <authors>
+<author>
+<id>676353</id>
+<name>Carter Goodrich</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415409138p5/676353.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415409138p2/676353.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/676353.Carter_Goodrich]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>6674</ratings_count>
+<text_reviews_count>979</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9771739-say-hello-to-zorro">Say Hello to Zorro! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1416938931&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9771739-say-hello-to-zorro?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1118"/>
+      <shelf name="picture-books" count="321"/>
+      <shelf name="picture-book" count="100"/>
+      <shelf name="childrens" count="79"/>
+      <shelf name="dogs" count="59"/>
+      <shelf name="animals" count="57"/>
+      <shelf name="children-s-books" count="38"/>
+      <shelf name="children-s" count="31"/>
+      <shelf name="children" count="30"/>
+      <shelf name="storytime" count="30"/>
+      <shelf name="friendship" count="28"/>
+      <shelf name="kids" count="25"/>
+      <shelf name="humor" count="25"/>
+      <shelf name="childrens-books" count="22"/>
+      <shelf name="favorites" count="21"/>
+      <shelf name="pets" count="21"/>
+      <shelf name="picturebooks" count="18"/>
+      <shelf name="fiction" count="17"/>
+      <shelf name="preschool" count="16"/>
+      <shelf name="kids-books" count="16"/>
+      <shelf name="friends" count="12"/>
+      <shelf name="children-s-picture-books" count="11"/>
+      <shelf name="picture" count="10"/>
+      <shelf name="library" count="9"/>
+      <shelf name="read-aloud" count="8"/>
+      <shelf name="311" count="7"/>
+      <shelf name="storytime-books" count="7"/>
+      <shelf name="sharing" count="7"/>
+      <shelf name="funny" count="7"/>
+      <shelf name="dog-books" count="7"/>
+      <shelf name="monarch-2014" count="6"/>
+      <shelf name="dog" count="6"/>
+      <shelf name="animal" count="6"/>
+      <shelf name="kindergarten" count="6"/>
+      <shelf name="children-s-lit" count="6"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="read-alouds" count="5"/>
+      <shelf name="humorous" count="5"/>
+      <shelf name="story-time" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="monarch" count="4"/>
+      <shelf name="favorite-picture-books" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="currently-reading" count="4"/>
+      <shelf name="for-work" count="4"/>
+      <shelf name="easy" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="acceptance" count="4"/>
+      <shelf name="childrens-picture-books" count="4"/>
+      <shelf name="preschool-storytime" count="4"/>
+      <shelf name="siblings" count="4"/>
+      <shelf name="great-illustrations" count="4"/>
+      <shelf name="children-s-literature" count="4"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="humour" count="3"/>
+      <shelf name="2014-monarch" count="3"/>
+      <shelf name="tolerance" count="3"/>
+      <shelf name="format-picture-book" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="311-books" count="3"/>
+      <shelf name="mockingbird-2013" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="series" count="3"/>
+      <shelf name="e-books" count="3"/>
+      <shelf name="childrens-lit" count="3"/>
+      <shelf name="fun" count="3"/>
+      <shelf name="kids-picture-books" count="3"/>
+      <shelf name="read-2011" count="3"/>
+      <shelf name="picturebook" count="3"/>
+      <shelf name="children-picture-book" count="3"/>
+      <shelf name="childrens-literature" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="picture_books" count="3"/>
+      <shelf name="illustrations" count="3"/>
+      <shelf name="read-in-2011" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="library-wishlist" count="2"/>
+      <shelf name="classroombookaday" count="2"/>
+      <shelf name="to-review" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="pb" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="behavior" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="pug-books" count="2"/>
+      <shelf name="kid-s-books" count="2"/>
+      <shelf name="21st-century" count="2"/>
+      <shelf name="storytime-picks" count="2"/>
+      <shelf name="library-read" count="2"/>
+      <shelf name="kid-lit" count="2"/>
+      <shelf name="children-to-read" count="2"/>
+      <shelf name="from-the-library" count="2"/>
+      <shelf name="adorable" count="2"/>
+      <shelf name="animals-dogs" count="2"/>
+      <shelf name="family" count="2"/>
+      <shelf name="author-g" count="2"/>
+      <shelf name="monarch2014" count="2"/>
+      <shelf name="animal-stories" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>859760</id>
+<user_position></user_position>
+<series>
+<id>169820</id>
+<title>
+<![CDATA[
+    Zorro and Mister Bud
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>11051230</id>
+<title>You Will Be My Friend!</title>
+<title_without_series>You Will Be My Friend!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11051230-you-will-be-my-friend]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327971419l/11051230._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327971419l/11051230._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>15972285</id>
+</work>
+<isbn>0316070300</isbn>
+<isbn13>9780316070300</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8471012</id>
+<title>Little White Rabbit</title>
+<title_without_series>Little White Rabbit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8471012-little-white-rabbit]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>13335679</id>
+</work>
+<isbn>0062006428</isbn>
+<isbn13>9780062006424</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9465166</id>
+<title><![CDATA[Hooray for Amanda & Her Alligator!]]></title>
+<title_without_series><![CDATA[Hooray for Amanda & Her Alligator!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9465166-hooray-for-amanda-her-alligator]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>69</num_pages>
+<work>
+<id>14350160</id>
+</work>
+<isbn>006200400X</isbn>
+<isbn13>9780062004000</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2277310</id>
+<title><![CDATA[The Way Back Home (The Boy, #3)]]></title>
+<title_without_series>The Way Back Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2277310.The_Way_Back_Home]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2333292</id>
+</work>
+<isbn>0399250743</isbn>
+<isbn13>9780399250743</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10725489</id>
+<title>Blue Chicken</title>
+<title_without_series>Blue Chicken</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10725489-blue-chicken]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567171489l/10725489._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567171489l/10725489._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>15636241</id>
+</work>
+<isbn>0670012939</isbn>
+<isbn13>9780670012930</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>401059</id>
+<name>Deborah Freedman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/401059.Deborah_Freedman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31423547</id>
+<title>Be Quiet!</title>
+<title_without_series>Be Quiet!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31423547-be-quiet]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479414740l/31423547._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>52115181</id>
+</work>
+<isbn>148473162X</isbn>
+<isbn13>9781484731628</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17333265</id>
+<title>Mr. Tiger Goes Wild</title>
+<title_without_series>Mr. Tiger Goes Wild</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333265-mr-tiger-goes-wild]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24064569</id>
+</work>
+<isbn>0316200638</isbn>
+<isbn13>9780316200639</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13547235</id>
+<title>Boot &amp; Shoe</title>
+<title_without_series>Boot &amp; Shoe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13547235-boot-shoe]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407162471l/13547235._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407162471l/13547235._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>19112375</id>
+</work>
+<isbn>1442422475</isbn>
+<isbn13>9781442422476</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>122662</id>
+<name>Marla Frazee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122662.Marla_Frazee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16285053</id>
+<title>That Is Not a Good Idea!</title>
+<title_without_series>That Is Not a Good Idea!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>22400269</id>
+</work>
+<isbn>0062203096</isbn>
+<isbn13>9780062203090</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11477076</id>
+<title>Red Sled</title>
+<title_without_series>Red Sled</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11477076-red-sled]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320149477l/11477076._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320149477l/11477076._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16411965</id>
+</work>
+<isbn>1442420073</isbn>
+<isbn13>9781442420076</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>663265</id>
+<name>Lita Judge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/663265.Lita_Judge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5530988</id>
+<title>The Curious Garden</title>
+<title_without_series>The Curious Garden</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5530988-the-curious-garden]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>5702021</id>
+</work>
+<isbn>0316015474</isbn>
+<isbn13>9780316015479</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10803061</id>
+<title>Stars</title>
+<title_without_series>Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10803061-stars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>15716423</id>
+</work>
+<isbn>1442422491</isbn>
+<isbn13>9781442422490</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>241682</id>
+<name>Mary Lyn Ray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/241682.Mary_Lyn_Ray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7949530</id>
+<title>Children Make Terrible Pets</title>
+<title_without_series>Children Make Terrible Pets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7949530-children-make-terrible-pets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289507052l/7949530._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289507052l/7949530._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>11559857</id>
+</work>
+<isbn>0316015482</isbn>
+<isbn13>9780316015486</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11477054</id>
+<title>Is Everyone Ready for Fun?</title>
+<title_without_series>Is Everyone Ready for Fun?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11477054-is-everyone-ready-for-fun]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16411940</id>
+</work>
+<isbn>1442423641</isbn>
+<isbn13>9781442423640</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>871172</id>
+<name>Jan  Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/871172.Jan_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38090144</id>
+<title>Sulwe</title>
+<title_without_series>Sulwe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38090144-sulwe]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>59759904</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17623053</id>
+<name>Lupita Nyong’o</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17623053.Lupita_Nyong_o]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19565411</id>
+<title>Gaston</title>
+<title_without_series>Gaston</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19565411-gaston]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>27692373</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>223840</id>
+<name>Kelly DiPucchio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/223840.Kelly_DiPucchio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23341839</id>
+<title>Rude Cakes</title>
+<title_without_series>Rude Cakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23341839-rude-cakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587606l/23341839._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415587606l/23341839._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>42901324</id>
+</work>
+<isbn>1452138516</isbn>
+<isbn13>9781452138510</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>8962128</id>
+<name>Rowboat Watkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8962128.Rowboat_Watkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2904907</id>
+<title>Dinosaur vs. Bedtime</title>
+<title_without_series>Dinosaur vs. Bedtime</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2904907-dinosaur-vs-bedtime]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2932055</id>
+</work>
+<isbn>1423113357</isbn>
+<isbn13>9781423113355</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>3050</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12180277</id>
+  <title>Chloe and the Lion</title>
+  <isbn><![CDATA[1423113349]]></isbn>
+  <isbn13><![CDATA[9781423113348]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331633872l/12180277._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331633872l/12180277._SX50_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Disney-Hyperion</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Meet Chloe: Every week, she collects loose change so she can buy tickets to ride the merry-go-round. But one fateful day, she gets lost in the woods on her way home, and a large dragon leaps out from-"Wait! It's supposed to be a lion," says Mac Barnett, the author of this book. But Adam Rex, the illustrator, thinks a dragon would be so much cooler (don't you agree?). <br /><br />Mac's power of the pen is at odds with Adam's brush, and Chloe's story hangs in the balance. Can she help them out of this quandary to be the heroine of her own story? <br />Mac Barnett and Adam Rex are a dynamic duo, and two of the strongest contemporary voices in picture books today. In an accessible and funny way, <i>Chloe and the Lion</i> talks about the creative process and the joys and trials of collaboration.]]></description>
+  <work>
+  <id type="integer">17152027</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">12180277</best_book_id>
+  <reviews_count type="integer">5064</reviews_count>
+  <ratings_sum type="integer">13788</ratings_sum>
+  <ratings_count type="integer">3423</ratings_count>
+  <text_reviews_count type="integer">475</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Chloe and the Lion</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1437|4:1051|3:623|2:218|1:94|total:3423</rating_dist>
+  <desc_user_id type="integer">4622038</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.xUDjzRlGFXVIsekovYE06A</work_uri>
+</work>
+  <average_rating>4.03</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3418]]></ratings_count>
+  <text_reviews_count><![CDATA[474]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12180277-chloe-and-the-lion]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12180277-chloe-and-the-lion]]></link>
+  <authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1551206377p5/2855221.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1551206377p2/2855221.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>77489</ratings_count>
+<text_reviews_count>12105</text_reviews_count>
+</author>
+<author>
+<id>11137</id>
+<name>Adam Rex</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233600684p5/11137.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233600684p2/11137.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11137.Adam_Rex]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>54030</ratings_count>
+<text_reviews_count>10143</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12180277-chloe-and-the-lion">Chloe and the Lion Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1423113349&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/12180277-chloe-and-the-lion?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1328"/>
+      <shelf name="picture-books" count="406"/>
+      <shelf name="picture-book" count="124"/>
+      <shelf name="humor" count="79"/>
+      <shelf name="childrens" count="74"/>
+      <shelf name="children" count="41"/>
+      <shelf name="children-s" count="37"/>
+      <shelf name="kids" count="34"/>
+      <shelf name="children-s-books" count="31"/>
+      <shelf name="picturebooks" count="25"/>
+      <shelf name="animals" count="24"/>
+      <shelf name="children-s-literature" count="21"/>
+      <shelf name="fiction" count="19"/>
+      <shelf name="metafiction" count="19"/>
+      <shelf name="art" count="18"/>
+      <shelf name="childrens-books" count="18"/>
+      <shelf name="favorites" count="16"/>
+      <shelf name="funny" count="16"/>
+      <shelf name="picture" count="13"/>
+      <shelf name="humorous" count="12"/>
+      <shelf name="children-s-lit" count="12"/>
+      <shelf name="lions" count="12"/>
+      <shelf name="childrens-picture-books" count="12"/>
+      <shelf name="fantasy" count="11"/>
+      <shelf name="read-aloud" count="11"/>
+      <shelf name="children-s-picture-books" count="11"/>
+      <shelf name="writing" count="11"/>
+      <shelf name="read-alouds" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="imagination" count="10"/>
+      <shelf name="friendship" count="10"/>
+      <shelf name="currently-reading" count="9"/>
+      <shelf name="adventure" count="9"/>
+      <shelf name="elementary" count="9"/>
+      <shelf name="kids-books" count="9"/>
+      <shelf name="pb" count="8"/>
+      <shelf name="juvenile" count="8"/>
+      <shelf name="read-in-2012" count="8"/>
+      <shelf name="cooperation" count="7"/>
+      <shelf name="meta" count="7"/>
+      <shelf name="picture-books-read" count="7"/>
+      <shelf name="books-about-books" count="7"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="picture-story-books" count="6"/>
+      <shelf name="read-in-2013" count="5"/>
+      <shelf name="school" count="5"/>
+      <shelf name="authors" count="5"/>
+      <shelf name="storytime" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="fourth-wall" count="5"/>
+      <shelf name="dragons" count="5"/>
+      <shelf name="illustrator" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="illustrators" count="4"/>
+      <shelf name="for-the-kids" count="4"/>
+      <shelf name="great-illustrations" count="4"/>
+      <shelf name="mock-caldecott" count="4"/>
+      <shelf name="mock-caldecott-2013" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="interactive" count="4"/>
+      <shelf name="favorite-picture-books" count="4"/>
+      <shelf name="humour" count="4"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="picture_book" count="4"/>
+      <shelf name="book-about-writer-writing" count="3"/>
+      <shelf name="silly" count="3"/>
+      <shelf name="preschool" count="3"/>
+      <shelf name="kiddos" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="childrens-lit" count="3"/>
+      <shelf name="lion" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="picture-books-to-read" count="3"/>
+      <shelf name="writers-workshop" count="3"/>
+      <shelf name="read-2012" count="3"/>
+      <shelf name="2nd" count="3"/>
+      <shelf name="cats" count="3"/>
+      <shelf name="meta-fiction" count="2"/>
+      <shelf name="picture-story-book" count="2"/>
+      <shelf name="k-2nd" count="2"/>
+      <shelf name="humor-comedy" count="2"/>
+      <shelf name="children-s-books-to-read" count="2"/>
+      <shelf name="picture-books-i-own" count="2"/>
+      <shelf name="2016-reads" count="2"/>
+      <shelf name="children-picture" count="2"/>
+      <shelf name="1st-grade" count="2"/>
+      <shelf name="working-together" count="2"/>
+      <shelf name="author" count="2"/>
+      <shelf name="a-mac-barnett" count="2"/>
+      <shelf name="edu-365" count="2"/>
+      <shelf name="edrd-314" count="2"/>
+      <shelf name="edrd314" count="2"/>
+      <shelf name="fiction-picture-books" count="2"/>
+      <shelf name="girl-power" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="graham" count="2"/>
+      <shelf name="writing-process" count="2"/>
+      <shelf name="pic-books" count="2"/>
+      <shelf name="read-in-2015" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>7128581</id>
+<title>Shark vs. Train</title>
+<title_without_series>Shark vs. Train</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7128581-shark-vs-train]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270335l/7128581._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270335l/7128581._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>7390624</id>
+</work>
+<isbn>0316007625</isbn>
+<isbn13>9780316007627</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8472101</id>
+<name>Chris  Barton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8472101.Chris_Barton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13448343</id>
+<title>I&apos;m Bored</title>
+<title_without_series>I&apos;m Bored</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13448343-i-m-bored]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328099505l/13448343._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328099505l/13448343._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18967692</id>
+</work>
+<isbn>1442414030</isbn>
+<isbn13>9781442414037</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1233745</id>
+<name>Michael Ian Black</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1233745.Michael_Ian_Black]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12576704</id>
+<title>Z Is for Moose</title>
+<title_without_series>Z Is for Moose</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12576704-z-is-for-moose]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>17587424</id>
+</work>
+<isbn>0060799846</isbn>
+<isbn13>9780060799847</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>333002</id>
+<name>Kelly Bingham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/333002.Kelly_Bingham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11737306</id>
+<title>One Cool Friend</title>
+<title_without_series>One Cool Friend</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11737306-one-cool-friend]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982383l/11737306._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982383l/11737306._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>16686492</id>
+</work>
+<isbn>0803734131</isbn>
+<isbn13>9780803734135</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>64208</id>
+<name>Toni Buzzeo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64208.Toni_Buzzeo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13259987</id>
+<title>Creepy Carrots!</title>
+<title_without_series>Creepy Carrots!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13259987-creepy-carrots]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982083l/13259987._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982083l/13259987._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18461490</id>
+</work>
+<isbn>1442402970</isbn>
+<isbn13>9781442402973</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>19748106</id>
+<name>Aaron Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19748106.Aaron_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13330633</id>
+<title>Oh, No!</title>
+<title_without_series>Oh, No!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13330633-oh-no]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344369676l/13330633._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344369676l/13330633._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18538285</id>
+</work>
+<isbn>0375945571</isbn>
+<isbn13>9780375945571</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>46273</id>
+<name>Candace Fleming</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46273.Candace_Fleming]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12159951</id>
+<title>Green</title>
+<title_without_series>Green</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12159951-green]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982311l/12159951._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424982311l/12159951._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>17130964</id>
+</work>
+<isbn>1596433973</isbn>
+<isbn13>9781596433977</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>99360</id>
+<name>Laura Vaccaro Seeger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99360.Laura_Vaccaro_Seeger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12098668</id>
+<title>Chopsticks</title>
+<title_without_series>Chopsticks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12098668-chopsticks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359124529l/12098668._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359124529l/12098668._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>17067386</id>
+</work>
+<isbn>1423107969</isbn>
+<isbn13>9781423107965</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>21674</id>
+<name>Amy Krouse Rosenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21674.Amy_Krouse_Rosenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17333265</id>
+<title>Mr. Tiger Goes Wild</title>
+<title_without_series>Mr. Tiger Goes Wild</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333265-mr-tiger-goes-wild]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24064569</id>
+</work>
+<isbn>0316200638</isbn>
+<isbn13>9780316200639</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12321949</id>
+<title>The Lonely Book</title>
+<title_without_series>The Lonely Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12321949-the-lonely-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578084l/12321949._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578084l/12321949._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>17300152</id>
+</work>
+<isbn>0375962263</isbn>
+<isbn13>9780375962264</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>70885</id>
+<name>Kate Bernheimer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70885.Kate_Bernheimer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28954193</id>
+<title><![CDATA[Lift Your Light a Little Higher: The Story of Stephen Bishop: Slave-Explorer]]></title>
+<title_without_series><![CDATA[Lift Your Light a Little Higher: The Story of Stephen Bishop: Slave-Explorer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28954193-lift-your-light-a-little-higher]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470579444l/28954193._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470579444l/28954193._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>49179219</id>
+</work>
+<isbn>148142095X</isbn>
+<isbn13>9781481420952</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>232254</id>
+<name>Heather Henson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232254.Heather_Henson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16250904</id>
+<title><![CDATA[Unicorn Thinks He's Pretty Great]]></title>
+<title_without_series><![CDATA[Unicorn Thinks He's Pretty Great]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16250904-unicorn-thinks-he-s-pretty-great]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374215373l/16250904._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>22292082</id>
+</work>
+<isbn>1423159527</isbn>
+<isbn13>9781423159520</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>897680</id>
+<title><![CDATA[When Sophie Gets Angry -- Really, Really Angry]]></title>
+<title_without_series><![CDATA[When Sophie Gets Angry -- Really, Really Angry]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/897680.When_Sophie_Gets_Angry_Really_Really_Angry]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1274190503l/897680._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1274190503l/897680._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1029777</id>
+</work>
+<isbn>0590189794</isbn>
+<isbn13>9780590189798</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14105</id>
+<name>Molly Bang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14105.Molly_Bang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7095136</id>
+<title>The Pirate of Kindergarten</title>
+<title_without_series>The Pirate of Kindergarten</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7095136-the-pirate-of-kindergarten]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>7352072</id>
+</work>
+<isbn>1416950249</isbn>
+<isbn13>9781416950240</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>48547</id>
+<name>George Ella Lyon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48547.George_Ella_Lyon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2769831</id>
+<title><![CDATA[A Couple of Boys Have the Best Week Ever]]></title>
+<title_without_series><![CDATA[A Couple of Boys Have the Best Week Ever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2769831-a-couple-of-boys-have-the-best-week-ever]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2795555</id>
+</work>
+<isbn>0152060200</isbn>
+<isbn13>9780152060206</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>122662</id>
+<name>Marla Frazee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122662.Marla_Frazee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34791768</id>
+<title><![CDATA[Klondike, Do Not Eat Those Cupcakes!]]></title>
+<title_without_series><![CDATA[Klondike, Do Not Eat Those Cupcakes!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34791768-klondike-do-not-eat-those-cupcakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499189902l/34791768._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499189902l/34791768._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55989817</id>
+</work>
+<isbn>1524713163</isbn>
+<isbn13>9781524713164</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>5047838</id>
+<name>Amanda Driscoll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5047838.Amanda_Driscoll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42350073</id>
+<title>How to Read a Book</title>
+<title_without_series>How to Read a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42350073-how-to-read-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65997738</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11211540</id>
+<title>Stuck</title>
+<title_without_series>Stuck</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11211540-stuck]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>16136950</id>
+</work>
+<isbn>0399257373</isbn>
+<isbn13>9780399257377</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>3423</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

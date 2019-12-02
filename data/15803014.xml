@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15803014</id>
+  <title><![CDATA[After Visiting Friends: A Son's Story]]></title>
+  <isbn><![CDATA[1451676565]]></isbn>
+  <isbn13><![CDATA[9781451676563]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288570l/15803014._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288570l/15803014._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>19</publication_day>
+  <publisher>Scribner</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Michael Hainey had just turned six when his uncle knocked on his family’s back door one morning with the tragic news: Bob Hainey, Michael’s father, was found alone near his car on Chicago’s North Side, dead, of an apparent heart attack. Thirty-five years old, a young assistant copy desk chief at the Chicago Sun-Times, Bob was a bright and shining star in the competitive, hard-living world of newspapers, one that involved booze-soaked nights that bled into dawn. And then suddenly he was gone, leaving behind a young widow, two sons, a fractured family—and questions surrounding the mysterious nature of his death that would obsess Michael throughout adolescence and long into adulthood. Finally, roughly his father’s age when he died, and a seasoned reporter himself, Michael set out to learn what happened that night. Died “after visiting friends,” the obituaries said. But the details beyond that were inconsistent. What friends? Where? At the heart of his quest is Michael’s all-too-silent, opaque mother, a woman of great courage and tenacity—and a steely determination not to look back. Prodding and cajoling his relatives, and working through a network of his father’s buddies who abide by an honor code of silence and secrecy, Michael sees beyond the long-held myths and ultimately reconciles the father he’d imagined with the one he comes to know—and in the journey discovers new truths about his mother.<br /><br />A stirring portrait of a family and its legacy of secrets, After Visiting Friends is the story of a son who goes in search of the truth and finds not only his father, but a rare window into a world of men and newspapers and fierce loyalties that no longer exists.]]></description>
+  <work>
+  <id type="integer">21526096</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">15803014</best_book_id>
+  <reviews_count type="integer">16177</reviews_count>
+  <ratings_sum type="integer">24384</ratings_sum>
+  <ratings_count type="integer">6640</ratings_count>
+  <text_reviews_count type="integer">992</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <original_title>After Visiting Friends: A Son's Story</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1289|4:2677|3:2008|2:541|1:125|total:6640</rating_dist>
+  <desc_user_id type="integer">171430</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.ZxFhri8l3GL-EWpQCdK_DA</work_uri>
+</work>
+  <average_rating>3.67</average_rating>
+  <num_pages><![CDATA[307]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5788]]></ratings_count>
+  <text_reviews_count><![CDATA[938]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15803014-after-visiting-friends]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15803014-after-visiting-friends]]></link>
+  <authors>
+<author>
+<id>552124</id>
+<name>Michael Hainey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360013344p5/552124.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360013344p2/552124.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/552124.Michael_Hainey]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<text_reviews_count>992</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15803014-after-visiting-friends">After Visiting Friends Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1451676565&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15803014-after-visiting-friends?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8621"/>
+      <shelf name="non-fiction" count="205"/>
+      <shelf name="memoir" count="195"/>
+      <shelf name="currently-reading" count="161"/>
+      <shelf name="nonfiction" count="115"/>
+      <shelf name="memoirs" count="56"/>
+      <shelf name="biography" count="45"/>
+      <shelf name="book-club" count="39"/>
+      <shelf name="mystery" count="31"/>
+      <shelf name="kindle" count="22"/>
+      <shelf name="chicago" count="20"/>
+      <shelf name="biography-memoir" count="17"/>
+      <shelf name="read-in-2013" count="16"/>
+      <shelf name="favorites" count="12"/>
+      <shelf name="owned" count="12"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="autobiography" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="adult" count="10"/>
+      <shelf name="family" count="10"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="audio" count="8"/>
+      <shelf name="to-read-nonfiction" count="8"/>
+      <shelf name="abandoned" count="7"/>
+      <shelf name="true-crime" count="7"/>
+      <shelf name="journalism" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="read-2014" count="6"/>
+      <shelf name="true-story" count="6"/>
+      <shelf name="library-book" count="6"/>
+      <shelf name="biographies" count="6"/>
+      <shelf name="adult-non-fiction" count="6"/>
+      <shelf name="2013-books" count="6"/>
+      <shelf name="read-2013" count="6"/>
+      <shelf name="memoir-biography" count="6"/>
+      <shelf name="memoirs-biographies" count="6"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="audiobook" count="5"/>
+      <shelf name="american" count="5"/>
+      <shelf name="npr" count="5"/>
+      <shelf name="grief" count="5"/>
+      <shelf name="crime" count="5"/>
+      <shelf name="first-reads" count="5"/>
+      <shelf name="fathers" count="4"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="gave-up-on" count="4"/>
+      <shelf name="book-group" count="4"/>
+      <shelf name="books-read-2013" count="4"/>
+      <shelf name="biography-autobiography" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="want-to-get" count="4"/>
+      <shelf name="autobiography-memoir" count="4"/>
+      <shelf name="biographies-memoirs" count="4"/>
+      <shelf name="nonfic" count="4"/>
+      <shelf name="mystery-thriller" count="4"/>
+      <shelf name="to-purchase" count="4"/>
+      <shelf name="memoir-bio" count="4"/>
+      <shelf name="scribd" count="3"/>
+      <shelf name="hoopla" count="3"/>
+      <shelf name="2015-books" count="3"/>
+      <shelf name="biography-memoirs" count="3"/>
+      <shelf name="didn-t-finish" count="3"/>
+      <shelf name="biography-autobio" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="to-read-memoir" count="3"/>
+      <shelf name="audiobooks" count="3"/>
+      <shelf name="to-read-non-fiction" count="3"/>
+      <shelf name="bios-memoirs" count="3"/>
+      <shelf name="non-fiction-to-read" count="3"/>
+      <shelf name="best-of-2013" count="3"/>
+      <shelf name="bookclub" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="adult-nonfiction" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="nebraska" count="3"/>
+      <shelf name="e-books" count="3"/>
+      <shelf name="history" count="3"/>
+      <shelf name="calibre" count="3"/>
+      <shelf name="illinois" count="3"/>
+      <shelf name="non-fic" count="3"/>
+      <shelf name="2013-read" count="3"/>
+      <shelf name="on-kindle" count="3"/>
+      <shelf name="family-relationships" count="3"/>
+      <shelf name="family-drama" count="3"/>
+      <shelf name="nonfiction-to-read" count="3"/>
+      <shelf name="2013-books-read" count="3"/>
+      <shelf name="physical-book" count="2"/>
+      <shelf name="memoir-autobiography" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="american-literature" count="2"/>
+      <shelf name="books-read-in-2016" count="2"/>
+      <shelf name="fathers-and-sons" count="2"/>
+      <shelf name="shelfari-wishlist" count="2"/>
+      <shelf name="to-be-read" count="2"/>
+      <shelf name="2015-reading-challenge" count="2"/>
+      <shelf name="i-own-it" count="2"/>
+      <shelf name="mystery-crime" count="2"/>
+      <shelf name="listened-to" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17553448</id>
+<title><![CDATA[Until I Say Goodbye: A Book about Living]]></title>
+<title_without_series><![CDATA[Until I Say Goodbye: A Book about Living]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17553448-until-i-say-goodbye]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366214565l/17553448._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366214565l/17553448._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>24466037</id>
+</work>
+<isbn>1444762184</isbn>
+<isbn13>9781444762181</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6466790</id>
+<name>Susan Spencer-Wendel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6466790.Susan_Spencer_Wendel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15782709</id>
+<title>With or Without You</title>
+<title_without_series>With or Without You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15782709-with-or-without-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345749357l/15782709._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345749357l/15782709._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>21499356</id>
+</work>
+<isbn></isbn>
+<isbn13>9780812993240</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6454503</id>
+<name>Domenica Ruta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6454503.Domenica_Ruta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16241141</id>
+<title><![CDATA[Fairyland: A Memoir of My Father]]></title>
+<title_without_series><![CDATA[Fairyland: A Memoir of My Father]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16241141-fairyland]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357665293l/16241141._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357665293l/16241141._SX98_.jpg]]></image_url>
+<num_pages>326</num_pages>
+<work>
+<id>22251264</id>
+</work>
+<isbn>0393082520</isbn>
+<isbn13>9780393082524</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6620818</id>
+<name>Alysia Abbott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6620818.Alysia_Abbott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15794110</id>
+<title>Her</title>
+<title_without_series>Her</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15794110-her]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366215570l/15794110._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366215570l/15794110._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>21586563</id>
+</work>
+<isbn>0805096531</isbn>
+<isbn13>9780805096538</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6458054</id>
+<name>Christa Parravani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6458054.Christa_Parravani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414676</id>
+<title><![CDATA[The End of Your Life Book Club]]></title>
+<title_without_series><![CDATA[The End of Your Life Book Club]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414676-the-end-of-your-life-book-club]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576665l/13414676._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576665l/13414676._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>18713903</id>
+</work>
+<isbn>0307594033</isbn>
+<isbn13>9780307594037</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>274511</id>
+<name>Will Schwalbe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/274511.Will_Schwalbe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16218778</id>
+<title>Coming Clean</title>
+<title_without_series>Coming Clean</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16218778-coming-clean]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381962759l/16218778._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381962759l/16218778._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>23326865</id>
+</work>
+<isbn>0544025830</isbn>
+<isbn13>9780544025837</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>6820562</id>
+<name>Kimberly Rae Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6820562.Kimberly_Rae_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16158572</id>
+<title><![CDATA[She Left Me the Gun: My Mother's Life Before Me]]></title>
+<title_without_series><![CDATA[She Left Me the Gun: My Mother's Life Before Me]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16158572-she-left-me-the-gun]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367226478l/16158572._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367226478l/16158572._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>21998988</id>
+</work>
+<isbn>1594204594</isbn>
+<isbn13>9781594204593</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>173521</id>
+<name>Emma Brockes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173521.Emma_Brockes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22237163</id>
+<title><![CDATA[One of Us: The Story of Anders Breivik and the Massacre in Norway]]></title>
+<title_without_series><![CDATA[One of Us: The Story of Anders Breivik and the Massacre in Norway]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22237163-one-of-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420944739l/22237163._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420944739l/22237163._SX98_.jpg]]></image_url>
+<num_pages>530</num_pages>
+<work>
+<id>26029348</id>
+</work>
+<isbn>0374277893</isbn>
+<isbn13>9780374277895</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>769979</id>
+<name>Åsne Seierstad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/769979._sne_Seierstad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15771862</id>
+<title>Wave</title>
+<title_without_series>Wave</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15771862-wave]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362126716l/15771862._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362126716l/15771862._SY160_.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>21480584</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6450261</id>
+<name>Sonali Deraniyagala</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6450261.Sonali_Deraniyagala]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>869406</id>
+<title><![CDATA[Lydia Cassatt Reading the Morning Paper]]></title>
+<title_without_series><![CDATA[Lydia Cassatt Reading the Morning Paper]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/869406.Lydia_Cassatt_Reading_the_Morning_Paper]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309212545l/869406._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309212545l/869406._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>697176</id>
+</work>
+<isbn>0452283507</isbn>
+<isbn13>9780452283503</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>57504</id>
+<name>Harriet Scott Chessman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57504.Harriet_Scott_Chessman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44033949</id>
+<title><![CDATA[One Base at a Time: How I Survived PTSD and Found My Field of Dreams]]></title>
+<title_without_series><![CDATA[One Base at a Time: How I Survived PTSD and Found My Field of Dreams]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44033949-one-base-at-a-time]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556340404l/44033949._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556340404l/44033949._SX98_.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>68470285</id>
+</work>
+<isbn>1642932523</isbn>
+<isbn13>9781642932522</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>54117</id>
+<name>David R. Mellor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54117.David_R_Mellor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>189265</id>
+<title><![CDATA[Fifty Acres and a Poodle: A Story of Love, Livestock, and Finding Myself on a Farm]]></title>
+<title_without_series><![CDATA[Fifty Acres and a Poodle: A Story of Love, Livestock, and Finding Myself on a Farm]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/189265.Fifty_Acres_and_a_Poodle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>182964</id>
+</work>
+<isbn>055338015X</isbn>
+<isbn13>9780553380156</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>110306</id>
+<name>Jeanne Marie Laskas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110306.Jeanne_Marie_Laskas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45201472</id>
+<title>The Beautiful Ones</title>
+<title_without_series>The Beautiful Ones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45201472-the-beautiful-ones]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565068002l/45201472._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565068002l/45201472._SX98_.jpg]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>69924315</id>
+</work>
+<isbn>0399589651</isbn>
+<isbn13>9780399589652</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>197199</id>
+<name>Prince</name>
+<link><![CDATA[https://www.goodreads.com/author/show/197199.Prince]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15793858</id>
+<title><![CDATA[Give Me Everything You Have: On Being Stalked]]></title>
+<title_without_series><![CDATA[Give Me Everything You Have: On Being Stalked]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15793858-give-me-everything-you-have]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362226238l/15793858._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362226238l/15793858._SX98_.jpg]]></image_url>
+<num_pages>218</num_pages>
+<work>
+<id>21515848</id>
+</work>
+<isbn>0374219079</isbn>
+<isbn13>9780374219079</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>71177</id>
+<name>James Lasdun</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71177.James_Lasdun]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8724144</id>
+<title><![CDATA[An Idiot Abroad: The Travel Diaries of Karl Pilkington]]></title>
+<title_without_series><![CDATA[An Idiot Abroad: The Travel Diaries of Karl Pilkington]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8724144-an-idiot-abroad]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327950848l/8724144._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327950848l/8724144._SX98_.jpg]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>13597098</id>
+</work>
+<isbn>1847679269</isbn>
+<isbn13>9781847679260</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>21077</id>
+<name>Karl Pilkington</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21077.Karl_Pilkington]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1166135</id>
+<title>A Suitable Boy (Volume 1)</title>
+<title_without_series>A Suitable Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1166135.A_Suitable_Boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408939736l/1166135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408939736l/1166135._SY160_.jpg]]></image_url>
+<num_pages>678</num_pages>
+<work>
+<id>44095251</id>
+</work>
+<isbn>1857993578</isbn>
+<isbn13>9781857993578</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>28345</id>
+<name>Vikram Seth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28345.Vikram_Seth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>179335</id>
+<title>Artemisia</title>
+<title_without_series>Artemisia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/179335.Artemisia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>427</num_pages>
+<work>
+<id>2026632</id>
+</work>
+<isbn>0802138578</isbn>
+<isbn13>9780802138576</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>104471</id>
+<name>Alexandra Lapierre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104471.Alexandra_Lapierre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>382778</id>
+<title><![CDATA[Piano Lessons: Music, Love, and True Adventures]]></title>
+<title_without_series><![CDATA[Piano Lessons: Music, Love, and True Adventures]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/382778.Piano_Lessons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320401817l/382778._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320401817l/382778._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>3039147</id>
+</work>
+<isbn>0385318219</isbn>
+<isbn13>9780385318211</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6640</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>3</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>35931</id>
+<name>Noah Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35931.Noah_Adams]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

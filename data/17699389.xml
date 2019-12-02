@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17699389</id>
+  <title>CyberStorm</title>
+  <isbn><![CDATA[0991677196]]></isbn>
+  <isbn13><![CDATA[9780991677191]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364500221l/17699389._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364500221l/17699389._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>23</publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Sometimes the worst storms aren't caused by Mother Nature, and sometimes the worst nightmares aren't in the ones in our heads...<br /><br />Mike Mitchell, an average New Yorker already struggling to keep his family together, suddenly finds himself fighting just to keep them alive when an increasingly bizarre string of disasters start appearing on the world’s news networks. As the world and cyberworlds come crashing down, bending perception and reality, a monster snowstorm cuts New York off from the world, becoming a wintry tomb where no one can be trusted, and nothing is what it seems...<br /><br />CyberStorm is a techno-thriller set in present-day New York City that will appeal to fans of Michael Chichton and Tom Clancy as well as devotees of William Gibson and Neal Stephenson. It is an exploration of the human condition as the cyberworld collides with our own, a compelling portrait of a possible future that is all too terrifyingly real.]]></description>
+  <work>
+  <id type="integer">24581193</id>
+  <books_count type="integer">36</books_count>
+  <best_book_id type="integer">17699389</best_book_id>
+  <reviews_count type="integer">42649</reviews_count>
+  <ratings_sum type="integer">76213</ratings_sum>
+  <ratings_count type="integer">20199</ratings_count>
+  <text_reviews_count type="integer">1808</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title>CyberStorm</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5268|4:7601|3:5273|2:1593|1:464|total:20199</rating_dist>
+  <desc_user_id type="integer">45232006</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.zBcYX0WuE8FWCLtDob8PMA</work_uri>
+</work>
+  <average_rating>3.77</average_rating>
+  <num_pages><![CDATA[364]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[First Edition]]></edition_information>
+  <ratings_count><![CDATA[6742]]></ratings_count>
+  <text_reviews_count><![CDATA[853]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17699389-cyberstorm]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17699389-cyberstorm]]></link>
+  <authors>
+<author>
+<id>6151827</id>
+<name>Matthew Mather</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342838843p5/6151827.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342838843p2/6151827.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6151827.Matthew_Mather]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>49815</ratings_count>
+<text_reviews_count>4404</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17699389-cyberstorm">CyberStorm Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0991677196&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17699389-cyberstorm?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10115"/>
+      <shelf name="currently-reading" count="8653"/>
+      <shelf name="science-fiction" count="194"/>
+      <shelf name="fiction" count="185"/>
+      <shelf name="sci-fi" count="149"/>
+      <shelf name="kindle" count="126"/>
+      <shelf name="thriller" count="106"/>
+      <shelf name="post-apocalyptic" count="48"/>
+      <shelf name="dystopian" count="43"/>
+      <shelf name="scifi" count="42"/>
+      <shelf name="apocalyptic" count="41"/>
+      <shelf name="ebook" count="38"/>
+      <shelf name="kindle-unlimited" count="35"/>
+      <shelf name="dystopia" count="30"/>
+      <shelf name="owned" count="29"/>
+      <shelf name="audible" count="28"/>
+      <shelf name="audiobook" count="27"/>
+      <shelf name="favorites" count="24"/>
+      <shelf name="apocalypse" count="21"/>
+      <shelf name="audio" count="20"/>
+      <shelf name="ebooks" count="19"/>
+      <shelf name="abandoned" count="19"/>
+      <shelf name="suspense" count="19"/>
+      <shelf name="audiobooks" count="18"/>
+      <shelf name="techno-thriller" count="16"/>
+      <shelf name="kindle-books" count="15"/>
+      <shelf name="amazon" count="15"/>
+      <shelf name="survival" count="14"/>
+      <shelf name="cyberpunk" count="14"/>
+      <shelf name="books-i-own" count="13"/>
+      <shelf name="fantasy" count="13"/>
+      <shelf name="sf" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="technology" count="12"/>
+      <shelf name="sci-fi-fantasy" count="12"/>
+      <shelf name="did-not-finish" count="10"/>
+      <shelf name="matthew-mather" count="10"/>
+      <shelf name="dnf" count="10"/>
+      <shelf name="thrillers" count="10"/>
+      <shelf name="scifi-fantasy" count="9"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="mystery" count="8"/>
+      <shelf name="action-adventure" count="8"/>
+      <shelf name="technothriller" count="8"/>
+      <shelf name="maybe" count="8"/>
+      <shelf name="e-book" count="8"/>
+      <shelf name="read-2017" count="7"/>
+      <shelf name="read-2016" count="7"/>
+      <shelf name="on-kindle" count="7"/>
+      <shelf name="on-my-kindle" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="cyber" count="7"/>
+      <shelf name="mather-matthew" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="action" count="6"/>
+      <shelf name="audio-books" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="mystery-thriller" count="6"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="mystery-suspense" count="5"/>
+      <shelf name="default" count="5"/>
+      <shelf name="unlimited" count="5"/>
+      <shelf name="speculative-fiction" count="5"/>
+      <shelf name="read-2015" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="to-read-sci-fi" count="5"/>
+      <shelf name="novel" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="english" count="5"/>
+      <shelf name="science-fiction-fantasy" count="5"/>
+      <shelf name="post-apocalypse" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="owned-kindle" count="5"/>
+      <shelf name="2019-books" count="4"/>
+      <shelf name="audible-books" count="4"/>
+      <shelf name="read-in-2017" count="4"/>
+      <shelf name="finished" count="4"/>
+      <shelf name="terrorism" count="4"/>
+      <shelf name="kindleunlimited" count="4"/>
+      <shelf name="fantasy-sci-fi" count="4"/>
+      <shelf name="crime" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="own-kindle" count="4"/>
+      <shelf name="owned-to-read" count="4"/>
+      <shelf name="didn-t-finish" count="4"/>
+      <shelf name="done" count="4"/>
+      <shelf name="apocalyptic-dystopian" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="own-on-kindle" count="4"/>
+      <shelf name="gave-up-on" count="4"/>
+      <shelf name="might-read" count="4"/>
+      <shelf name="my-ebooks" count="4"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="2019-read" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="kindle-unread" count="3"/>
+      <shelf name="thriller-suspense" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="to-read-not-owned" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>34795912</id>
+<title><![CDATA[No More Heroes #1 Dystopian Thriller]]></title>
+<title_without_series><![CDATA[No More Heroes #1 Dystopian Thriller]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34795912-no-more-heroes-1-dystopian-thriller]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>50528088</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15154038</id>
+<name>Roo I. MacLeod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15154038.Roo_I_MacLeod]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43720168</id>
+<title><![CDATA[Winter World (The Long Winter Trilogy, #1)]]></title>
+<title_without_series>Winter World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43720168-winter-world]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67669278</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3087199</id>
+<name>A.G. Riddle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3087199.A_G_Riddle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30123906</id>
+<title>Left Horse Black</title>
+<title_without_series>Left Horse Black</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30123906-left-horse-black]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462565904l/30123906._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462565904l/30123906._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2553714</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1126558</id>
+<name>S.J. Reisner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1126558.S_J_Reisner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44164651</id>
+<title><![CDATA[The Solar War (The Long Winter Trilogy #2)]]></title>
+<title_without_series>The Solar War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44164651-the-solar-war]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565236451l/44164651._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565236451l/44164651._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68693239</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3087199</id>
+<name>A.G. Riddle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3087199.A_G_Riddle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25843420</id>
+<title><![CDATA[The Atlantis Gene (The Origin Mystery, #1)]]></title>
+<title_without_series>The Atlantis Gene</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25843420-the-atlantis-gene]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435944019l/25843420._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435944019l/25843420._SX98_.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>24748164</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3087199</id>
+<name>A.G. Riddle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3087199.A_G_Riddle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43697790</id>
+<title>The Price of Time</title>
+<title_without_series>The Price of Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43697790-the-price-of-time]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551116993l/43697790._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551116993l/43697790._SX98_.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>67993630</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7322410</id>
+<name>Tim Tigner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7322410.Tim_Tigner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46630889</id>
+<title><![CDATA[The Lost Colony (The Long Winter Trilogy, #3)]]></title>
+<title_without_series>The Lost Colony</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46630889-the-lost-colony]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573044395l/46630889._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573044395l/46630889._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>71643611</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3087199</id>
+<name>A.G. Riddle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3087199.A_G_Riddle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34811896</id>
+<title><![CDATA[Pandemic (The Extinction Files, #1)]]></title>
+<title_without_series>Pandemic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34811896-pandemic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56028599</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3087199</id>
+<name>A.G. Riddle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3087199.A_G_Riddle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37946554</id>
+<title>Time Frame (Split Second, #2)</title>
+<title_without_series>Time Frame</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37946554-time-frame]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59674571</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>374164</id>
+<name>Douglas E. Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/374164.Douglas_E_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20824260</id>
+<title>Mind&apos;s Eye</title>
+<title_without_series>Mind&apos;s Eye</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20824260-mind-s-eye]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395890411l/20824260._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395890411l/20824260._SX98_.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>39914373</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>374164</id>
+<name>Douglas E. Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/374164.Douglas_E_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26216031</id>
+<title><![CDATA[Split Second (Split Second, #1)]]></title>
+<title_without_series>Split Second</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26216031-split-second]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>46197826</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>374164</id>
+<name>Douglas E. Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/374164.Douglas_E_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40881542</id>
+<title>Wired (Wired, #1)</title>
+<title_without_series>Wired</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40881542-wired]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532090114l/40881542._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532090114l/40881542._SX98_.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>16805777</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>374164</id>
+<name>Douglas E. Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/374164.Douglas_E_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41632412</id>
+<title>The Rescue (Ryan Decker #1)</title>
+<title_without_series>The Rescue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41632412-the-rescue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538808789l/41632412._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538808789l/41632412._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64969169</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4442737</id>
+<name>Steven Konkoly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4442737.Steven_Konkoly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36355792</id>
+<title>Extinction Code</title>
+<title_without_series>Extinction Code</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36355792-extinction-code]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545812442l/36355792._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545812442l/36355792._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58038471</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16519319</id>
+<name>James D. Prescott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16519319.James_D_Prescott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35038829</id>
+<title>Infinity Born</title>
+<title_without_series>Infinity Born</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35038829-infinity-born]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56323596</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>374164</id>
+<name>Douglas E. Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/374164.Douglas_E_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40379964</id>
+<title>Seeker</title>
+<title_without_series>Seeker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40379964-seeker]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>62676715</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>374164</id>
+<name>Douglas E. Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/374164.Douglas_E_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34850181</id>
+<title><![CDATA[Genome (The Extinction Files, #2)]]></title>
+<title_without_series>Genome</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34850181-genome]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494844808l/34850181._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494844808l/34850181._SX98_.jpg]]></image_url>
+<num_pages>517</num_pages>
+<work>
+<id>56087152</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3087199</id>
+<name>A.G. Riddle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3087199.A_G_Riddle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7663</id>
+<title>A Case of Need</title>
+<title_without_series>A Case of Need</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7663.A_Case_of_Need]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327963749l/7663._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327963749l/7663._SY160_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>2651727</id>
+</work>
+<isbn>0451210638</isbn>
+<isbn13>9780451210630</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>20199</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>607284</id>
+<name>Jeffery Hudson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/607284.Jeffery_Hudson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

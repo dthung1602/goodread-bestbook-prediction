@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15926775</id>
+  <title>Sophie&apos;s Squash</title>
+  <isbn><![CDATA[0307978966]]></isbn>
+  <isbn13><![CDATA[9780307978967]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404959958l/15926775._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404959958l/15926775._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Schwartz &amp; Wade</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[On a trip to the farmers' market with her parents, Sophie chooses a squash, but instead of letting her mom cook it, she names it Bernice. From then on, Sophie brings Bernice everywhere, despite her parents' gentle warnings that Bernice will begin to rot. As winter nears, Sophie does start to notice changes.... What's a girl to do when the squash she loves is in trouble?]]></description>
+  <work>
+  <id type="integer">21677370</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">15926775</best_book_id>
+  <reviews_count type="integer">4745</reviews_count>
+  <ratings_sum type="integer">12549</ratings_sum>
+  <ratings_count type="integer">2950</ratings_count>
+  <text_reviews_count type="integer">423</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">6</original_publication_day>
+  <original_title>Sophie's Squash</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1393|4:1033|3:426|2:76|1:22|total:2950</rating_dist>
+  <desc_user_id type="integer">1153732</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.VT94xZy0AhzM1QYIO8v70w</work_uri>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2895]]></ratings_count>
+  <text_reviews_count><![CDATA[416]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15926775-sophie-s-squash]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15926775-sophie-s-squash]]></link>
+  <authors>
+<author>
+<id>6506402</id>
+<name>Pat Zietlow Miller</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1356578997p5/6506402.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1356578997p2/6506402.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6506402.Pat_Zietlow_Miller]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>7479</ratings_count>
+<text_reviews_count>1366</text_reviews_count>
+</author>
+<author>
+<id>304287</id>
+<name>Anne Wilsdorf</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/304287.Anne_Wilsdorf]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>5848</ratings_count>
+<text_reviews_count>1036</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15926775-sophie-s-squash">Sophie&#39;s Squash Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307978966&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15926775-sophie-s-squash?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1276"/>
+      <shelf name="picture-books" count="407"/>
+      <shelf name="picture-book" count="107"/>
+      <shelf name="childrens" count="74"/>
+      <shelf name="friendship" count="63"/>
+      <shelf name="children-s-books" count="59"/>
+      <shelf name="children-s" count="49"/>
+      <shelf name="children" count="40"/>
+      <shelf name="kids" count="37"/>
+      <shelf name="fall" count="35"/>
+      <shelf name="fiction" count="28"/>
+      <shelf name="04-realistic-fiction" count="26"/>
+      <shelf name="food" count="26"/>
+      <shelf name="storytime" count="23"/>
+      <shelf name="realistic-fiction" count="20"/>
+      <shelf name="imagination" count="20"/>
+      <shelf name="favorites" count="19"/>
+      <shelf name="childrens-books" count="19"/>
+      <shelf name="kids-books" count="18"/>
+      <shelf name="humor" count="18"/>
+      <shelf name="currently-reading" count="18"/>
+      <shelf name="nature" count="18"/>
+      <shelf name="autumn" count="17"/>
+      <shelf name="read-aloud" count="17"/>
+      <shelf name="library" count="16"/>
+      <shelf name="picture" count="16"/>
+      <shelf name="00-in-class" count="15"/>
+      <shelf name="family" count="15"/>
+      <shelf name="gardening" count="14"/>
+      <shelf name="seasons" count="14"/>
+      <shelf name="children-s-picture-books" count="14"/>
+      <shelf name="childrens-picture-books" count="14"/>
+      <shelf name="picturebooks" count="14"/>
+      <shelf name="preschool" count="12"/>
+      <shelf name="vegetables" count="10"/>
+      <shelf name="favorite-picture-books" count="10"/>
+      <shelf name="children-s-lit" count="9"/>
+      <shelf name="friends" count="9"/>
+      <shelf name="love" count="9"/>
+      <shelf name="exploring-quality" count="8"/>
+      <shelf name="kindergarten" count="8"/>
+      <shelf name="funny" count="8"/>
+      <shelf name="plants" count="8"/>
+      <shelf name="gardens" count="8"/>
+      <shelf name="exploring-assignment" count="7"/>
+      <shelf name="squash" count="7"/>
+      <shelf name="story-time" count="7"/>
+      <shelf name="garden" count="7"/>
+      <shelf name="science" count="7"/>
+      <shelf name="families" count="7"/>
+      <shelf name="imaginary-friends" count="6"/>
+      <shelf name="picture-books-read" count="6"/>
+      <shelf name="kids-picture-books" count="6"/>
+      <shelf name="pets" count="6"/>
+      <shelf name="read-in-2013" count="6"/>
+      <shelf name="pb" count="5"/>
+      <shelf name="thanksgiving" count="5"/>
+      <shelf name="harvest" count="5"/>
+      <shelf name="read-alouds" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="kiddos" count="5"/>
+      <shelf name="preschool-storytime" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="read-in-2017" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="storytime-favorites" count="4"/>
+      <shelf name="zolotow-award" count="4"/>
+      <shelf name="march" count="4"/>
+      <shelf name="classroom-library" count="4"/>
+      <shelf name="childrens-lit" count="4"/>
+      <shelf name="classroom" count="4"/>
+      <shelf name="children-books" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="kid-s-books" count="4"/>
+      <shelf name="humorous" count="4"/>
+      <shelf name="2018-picture-books" count="3"/>
+      <shelf name="read-to-kids" count="3"/>
+      <shelf name="october" count="3"/>
+      <shelf name="homeschool" count="3"/>
+      <shelf name="1st-grade" count="3"/>
+      <shelf name="kids-books-read" count="3"/>
+      <shelf name="fall-books" count="3"/>
+      <shelf name="read-kids" count="3"/>
+      <shelf name="seasonal" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="picture-books-friendship" count="3"/>
+      <shelf name="work" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="golden-kite-award" count="3"/>
+      <shelf name="growing" count="3"/>
+      <shelf name="younger-readers" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="female-protagonist" count="3"/>
+      <shelf name="change" count="3"/>
+      <shelf name="storytime-possibilities" count="3"/>
+      <shelf name="kids-seasonal" count="3"/>
+      <shelf name="storytime-books" count="3"/>
+      <shelf name="2013-picture-books" count="3"/>
+      <shelf name="feelings" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1009431</id>
+<user_position></user_position>
+<series>
+<id>197369</id>
+<title>
+<![CDATA[
+    Sophie's Squash
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>1133446</id>
+<title>Too Many Pumpkins</title>
+<title_without_series>Too Many Pumpkins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1133446.Too_Many_Pumpkins]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1120661</id>
+</work>
+<isbn>0823413209</isbn>
+<isbn13>9780823413201</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>219591</id>
+<name>Linda White</name>
+<link><![CDATA[https://www.goodreads.com/author/show/219591.Linda_White]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164532</id>
+<title><![CDATA[Fletcher and the Falling Leaves]]></title>
+<title_without_series><![CDATA[Fletcher and the Falling Leaves]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164532.Fletcher_and_the_Falling_Leaves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>158849</id>
+</work>
+<isbn>0061134015</isbn>
+<isbn13>9780061134012</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>95595</id>
+<name>Julia Rawlinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95595.Julia_Rawlinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1298513</id>
+<title>The Little Scarecrow Boy</title>
+<title_without_series>The Little Scarecrow Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1298513.The_Little_Scarecrow_Boy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>3342542</id>
+</work>
+<isbn>0060778911</isbn>
+<isbn13>9780060778910</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>18479</id>
+<name>Margaret Wise Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18479.Margaret_Wise_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33385246</id>
+<title>In the Middle of Fall</title>
+<title_without_series>In the Middle of Fall</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33385246-in-the-middle-of-fall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494340196l/33385246._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494340196l/33385246._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54129480</id>
+</work>
+<isbn>006257311X</isbn>
+<isbn13>9780062573117</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1873420</id>
+<title>How Many Seeds in a Pumpkin?</title>
+<title_without_series>How Many Seeds in a Pumpkin?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1873420.How_Many_Seeds_in_a_Pumpkin_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1874341</id>
+</work>
+<isbn>0375840141</isbn>
+<isbn13>9780375840142</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>135113</id>
+<name>Margaret McNamara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/135113.Margaret_McNamara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>696340</id>
+<title>Leaf Man</title>
+<title_without_series>Leaf Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/696340.Leaf_Man]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412746781l/696340._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412746781l/696340._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>682659</id>
+</work>
+<isbn>0152053042</isbn>
+<isbn13>9780152053048</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10950</id>
+<name>Lois Ehlert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10950.Lois_Ehlert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13170028</id>
+<title>Bear Has a Story to Tell</title>
+<title_without_series>Bear Has a Story to Tell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13170028-bear-has-a-story-to-tell]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362667189l/13170028._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362667189l/13170028._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18349343</id>
+</work>
+<isbn>1596437456</isbn>
+<isbn13>9781596437456</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4902018</id>
+<name>Philip C. Stead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4902018.Philip_C_Stead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43208925</id>
+<title>The Scarecrow</title>
+<title_without_series>The Scarecrow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43208925-the-scarecrow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554068414l/43208925._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554068414l/43208925._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67049699</id>
+</work>
+<isbn>0062475762</isbn>
+<isbn13>9780062475763</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8393959</id>
+<name>Beth Ferry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8393959.Beth_Ferry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>585174</id>
+<title>Cranberry Thanksgiving</title>
+<title_without_series>Cranberry Thanksgiving</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/585174.Cranberry_Thanksgiving]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573825972l/585174._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573825972l/585174._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>572023</id>
+</work>
+<isbn>0819304980</isbn>
+<isbn13>9780819304988</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>172180</id>
+<name>Wende Devlin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172180.Wende_Devlin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3367827</id>
+<title>The Little Yellow Leaf</title>
+<title_without_series>The Little Yellow Leaf</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3367827-the-little-yellow-leaf]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541552704l/3367827._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541552704l/3367827._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>3407164</id>
+</work>
+<isbn>0061452238</isbn>
+<isbn13>9780061452239</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>749294</id>
+<name>Carin Berger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/749294.Carin_Berger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6617021</id>
+<title>Count Down to Fall</title>
+<title_without_series>Count Down to Fall</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6617021-count-down-to-fall]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>6811125</id>
+</work>
+<isbn>1607180391</isbn>
+<isbn13>9781607180395</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>306916</id>
+<name>Fran Hawk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/306916.Fran_Hawk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>908958</id>
+<title>Red Leaf, Yellow Leaf</title>
+<title_without_series>Red Leaf, Yellow Leaf</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/908958.Red_Leaf_Yellow_Leaf]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>894096</id>
+</work>
+<isbn>0152661972</isbn>
+<isbn13>9780152661977</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>10950</id>
+<name>Lois Ehlert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10950.Lois_Ehlert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14820856</id>
+<title>Building Our House</title>
+<title_without_series>Building Our House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14820856-building-our-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344318354l/14820856._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344318354l/14820856._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>20474374</id>
+</work>
+<isbn>0374380236</isbn>
+<isbn13>9780374380236</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>732517</id>
+<name>Jonathan Bean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/732517.Jonathan_Bean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2094776</id>
+<title>The Pumpkin Book</title>
+<title_without_series>The Pumpkin Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2094776.The_Pumpkin_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2100152</id>
+</work>
+<isbn>0823416364</isbn>
+<isbn13>9780823416363</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21633</id>
+<name>Gail Gibbons</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21633.Gail_Gibbons]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1012082</id>
+<title>Apples and Pumpkins</title>
+<title_without_series>Apples and Pumpkins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1012082.Apples_and_Pumpkins]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>2175272</id>
+</work>
+<isbn>0689718616</isbn>
+<isbn13>9780689718618</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3473990</id>
+<name>Anne Rockwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3473990.Anne_Rockwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1213891</id>
+<title>Scarecrow</title>
+<title_without_series>Scarecrow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1213891.Scarecrow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>3042314</id>
+</work>
+<isbn>015201084X</isbn>
+<isbn13>9780152010843</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5411</id>
+<name>Cynthia Rylant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5411.Cynthia_Rylant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>981587</id>
+<title>Three Pebbles and A Song</title>
+<title_without_series>Three Pebbles and A Song</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/981587.Three_Pebbles_and_A_Song]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203805l/981587._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203805l/981587._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>966476</id>
+</work>
+<isbn>0803725280</isbn>
+<isbn13>9780803725287</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>59282</id>
+<name>Eileen Spinelli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59282.Eileen_Spinelli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>758939</id>
+<title>Leaves</title>
+<title_without_series>Leaves</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/758939.Leaves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>745048</id>
+</work>
+<isbn>0399246363</isbn>
+<isbn13>9780399246364</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2950</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>400898</id>
+<name>David Ezra Stein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/400898.David_Ezra_Stein]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34219824</id>
+  <title>Malala&apos;s Magic Pencil</title>
+  <isbn><![CDATA[0316319570]]></isbn>
+  <isbn13><![CDATA[9780316319577]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494921199l/34219824._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494921199l/34219824._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Nobel Peace Prize winner and New York Times bestselling author Malala Yousafzai's first picture book, inspired by her own childhood.</b><br /><br />Malala's first picture book will inspire young readers everywhere to find the magic all around them.<br /><br />As a child in Pakistan, Malala made a wish for a magic pencil. She would use it to make everyone happy, to erase the smell of garbage from her city, to sleep an extra hour in the morning. But as she grew older, Malala saw that there were more important things to wish for. She saw a world that needed fixing. And even if she never found a magic pencil, Malala realized that she could still work hard every day to make her wishes come true. <br /><br />This beautifully illustrated volume tells Malala's story for a younger audience and shows them the worldview that allowed Malala to hold on to hope even in the most difficult of times.]]></description>
+  <work>
+  <id type="integer">57552364</id>
+  <books_count type="integer">25</books_count>
+  <best_book_id type="integer">31932921</best_book_id>
+  <reviews_count type="integer">10946</reviews_count>
+  <ratings_sum type="integer">14242</ratings_sum>
+  <ratings_count type="integer">3136</ratings_count>
+  <text_reviews_count type="integer">607</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Malala's Magic Pencil</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2035|4:854|3:187|2:30|1:30|total:3136</rating_dist>
+  <desc_user_id type="integer">489381</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.QkTyxCkVrR-zurArU4Jpvw</work_uri>
+</work>
+  <average_rating>4.54</average_rating>
+  <num_pages><![CDATA[48]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[932]]></ratings_count>
+  <text_reviews_count><![CDATA[145]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34219824-malala-s-magic-pencil]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34219824-malala-s-magic-pencil]]></link>
+  <authors>
+<author>
+<id>7064545</id>
+<name>Malala Yousafzai</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552924304p5/7064545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552924304p2/7064545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7064545.Malala_Yousafzai]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>379689</ratings_count>
+<text_reviews_count>22516</text_reviews_count>
+</author>
+<author>
+<id>752696</id>
+<name>Kerascoët</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/752696.Kerasco_t]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>18091</ratings_count>
+<text_reviews_count>3150</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34219824-malala-s-magic-pencil">Malala&#39;s Magic Pencil Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316319570&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/34219824-malala-s-magic-pencil?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6645"/>
+      <shelf name="picture-books" count="340"/>
+      <shelf name="biography" count="137"/>
+      <shelf name="non-fiction" count="111"/>
+      <shelf name="picture-book" count="101"/>
+      <shelf name="childrens" count="95"/>
+      <shelf name="nonfiction" count="86"/>
+      <shelf name="children" count="67"/>
+      <shelf name="children-s-books" count="62"/>
+      <shelf name="currently-reading" count="52"/>
+      <shelf name="children-s" count="52"/>
+      <shelf name="kids" count="37"/>
+      <shelf name="childrens-books" count="36"/>
+      <shelf name="favorites" count="34"/>
+      <shelf name="diversity" count="34"/>
+      <shelf name="memoir" count="31"/>
+      <shelf name="feminism" count="29"/>
+      <shelf name="kids-books" count="29"/>
+      <shelf name="biography-memoir" count="26"/>
+      <shelf name="multicultural" count="25"/>
+      <shelf name="girl-power" count="24"/>
+      <shelf name="read-in-2017" count="20"/>
+      <shelf name="social-justice" count="18"/>
+      <shelf name="exploring-diversity" count="16"/>
+      <shelf name="exploring-assignment" count="16"/>
+      <shelf name="women" count="16"/>
+      <shelf name="family" count="16"/>
+      <shelf name="school" count="16"/>
+      <shelf name="pakistan" count="16"/>
+      <shelf name="autobiography" count="16"/>
+      <shelf name="education" count="16"/>
+      <shelf name="library" count="15"/>
+      <shelf name="picture" count="15"/>
+      <shelf name="biographies" count="15"/>
+      <shelf name="picturebooks" count="14"/>
+      <shelf name="children-s-literature" count="13"/>
+      <shelf name="ks2" count="13"/>
+      <shelf name="history" count="13"/>
+      <shelf name="children-s-picture-books" count="12"/>
+      <shelf name="children-s-lit" count="12"/>
+      <shelf name="inspirational" count="11"/>
+      <shelf name="childrens-lit" count="10"/>
+      <shelf name="read-aloud" count="10"/>
+      <shelf name="civil-rights" count="10"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="monarch-2020" count="8"/>
+      <shelf name="international-lit" count="8"/>
+      <shelf name="for-the-kids" count="8"/>
+      <shelf name="girls" count="8"/>
+      <shelf name="ks1" count="8"/>
+      <shelf name="bio-memoir" count="8"/>
+      <shelf name="kid-books" count="8"/>
+      <shelf name="childrens-literature" count="8"/>
+      <shelf name="children-books" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="imagination" count="7"/>
+      <shelf name="informational" count="7"/>
+      <shelf name="religion" count="7"/>
+      <shelf name="own-voices" count="7"/>
+      <shelf name="activism" count="7"/>
+      <shelf name="feminist" count="7"/>
+      <shelf name="2020-monarch" count="6"/>
+      <shelf name="read-2019" count="6"/>
+      <shelf name="poc" count="6"/>
+      <shelf name="2018-reads" count="6"/>
+      <shelf name="middle-east" count="6"/>
+      <shelf name="children-s-nonfiction" count="6"/>
+      <shelf name="mini-library" count="6"/>
+      <shelf name="war" count="6"/>
+      <shelf name="kid-lit" count="6"/>
+      <shelf name="pb" count="6"/>
+      <shelf name="diverse" count="6"/>
+      <shelf name="children-picture-books" count="6"/>
+      <shelf name="biography-autobiography" count="6"/>
+      <shelf name="classroom" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="monarch" count="5"/>
+      <shelf name="asia" count="5"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="inspiring" count="5"/>
+      <shelf name="international" count="5"/>
+      <shelf name="childrens-picture-books" count="5"/>
+      <shelf name="social-studies" count="5"/>
+      <shelf name="read-alouds" count="5"/>
+      <shelf name="fiction" count="5"/>
+      <shelf name="classroombookaday" count="5"/>
+      <shelf name="memoirs" count="5"/>
+      <shelf name="childrens-nonfiction" count="5"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="writing" count="5"/>
+      <shelf name="classroom-books" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="j-nonfiction" count="5"/>
+      <shelf name="cultural" count="5"/>
+      <shelf name="juvenile-nonfiction" count="5"/>
+      <shelf name="j-non-fiction" count="5"/>
+      <shelf name="storytime" count="5"/>
+      <shelf name="bravery" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>34506926</id>
+<title><![CDATA[The Truth About Bears: Seriously Funny Facts About Your Favorite Animals]]></title>
+<title_without_series><![CDATA[The Truth About Bears: Seriously Funny Facts About Your Favorite Animals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34506926-the-truth-about-bears]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497965874l/34506926._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497965874l/34506926._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55632811</id>
+</work>
+<isbn>1626726663</isbn>
+<isbn13>9781626726666</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>393330</id>
+<name>Maxwell Eaton III</name>
+<link><![CDATA[https://www.goodreads.com/author/show/393330.Maxwell_Eaton_III]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38532584</id>
+<title>Yasmin the Explorer</title>
+<title_without_series>Yasmin the Explorer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38532584-yasmin-the-explorer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524068778l/38532584._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524068778l/38532584._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>60165570</id>
+</work>
+<isbn>1515827291</isbn>
+<isbn13>9781515827290</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4428781</id>
+<name>Saadia Faruqi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4428781.Saadia_Faruqi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20670612</id>
+<title><![CDATA[The Youngest Marcher: The Story of Audrey Faye Hendricks, a Young Civil Rights Activist]]></title>
+<title_without_series><![CDATA[The Youngest Marcher: The Story of Audrey Faye Hendricks, a Young Civil Rights Activist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20670612-the-youngest-marcher]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460835l/20670612._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475460835l/20670612._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>39968140</id>
+</work>
+<isbn>1481400703</isbn>
+<isbn13>9781481400701</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5231111</id>
+<name>Cynthia Levinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5231111.Cynthia_Levinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33163387</id>
+<title><![CDATA[Not So Different: What You Really Want to Ask About Having a Disability]]></title>
+<title_without_series><![CDATA[Not So Different: What You Really Want to Ask About Having a Disability]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33163387-not-so-different]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495319159l/33163387._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495319159l/33163387._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>53855732</id>
+</work>
+<isbn>1626727716</isbn>
+<isbn13>9781626727717</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7760168</id>
+<name>Shane Burcaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7760168.Shane_Burcaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36567728</id>
+<title><![CDATA[Saving Fiona: The Story of the World’s Most Famous Baby Hippo]]></title>
+<title_without_series><![CDATA[Saving Fiona: The Story of the World’s Most Famous Baby Hippo]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36567728-saving-fiona]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520607548l/36567728._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520607548l/36567728._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>58307212</id>
+</work>
+<isbn>1328485137</isbn>
+<isbn13>9781328485137</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>318919</id>
+<name>Thane Maynard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/318919.Thane_Maynard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37506301</id>
+<title>The Day You Begin</title>
+<title_without_series>The Day You Begin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37506301-the-day-you-begin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525273235l/37506301._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>59116604</id>
+</work>
+<isbn>0399246533</isbn>
+<isbn13>9780399246531</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33376257</id>
+<title><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title>
+<title_without_series><![CDATA[After the Fall: How Humpty Dumpty Got Back up Again]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33376257-after-the-fall]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483556250l/33376257._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54117215</id>
+</work>
+<isbn>1626726825</isbn>
+<isbn13>9781626726826</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35553581</id>
+<title><![CDATA[Joan Procter, Dragon Doctor: The Woman Who Loved Reptiles]]></title>
+<title_without_series><![CDATA[Joan Procter, Dragon Doctor: The Woman Who Loved Reptiles]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35553581-joan-procter-dragon-doctor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499128154l/35553581._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499128154l/35553581._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>49641701</id>
+</work>
+<isbn>0399557261</isbn>
+<isbn13>9780399557262</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>15050086</id>
+<name>Patricia Valdez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15050086.Patricia_Valdez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34608694</id>
+<title>She Persisted</title>
+<title_without_series>She Persisted</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34608694-she-persisted]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489680762l/34608694._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489680762l/34608694._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55758109</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1432092</id>
+<name>Chelsea Clinton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1432092.Chelsea_Clinton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34137106</id>
+<title>A Different Pond</title>
+<title_without_series>A Different Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34137106-a-different-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489605385l/34137106._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55174398</id>
+</work>
+<isbn>1479597465</isbn>
+<isbn13>9781479597468</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5042071</id>
+<name>Bao Phi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5042071.Bao_Phi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34473262</id>
+<title>The Little Red Fort</title>
+<title_without_series>The Little Red Fort</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34473262-the-little-red-fort]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498685309l/34473262._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498685309l/34473262._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>55596893</id>
+</work>
+<isbn>0545859190</isbn>
+<isbn13>9780545859196</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16529899</id>
+<name>Brenda Maier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16529899.Brenda_Maier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35879393</id>
+<title><![CDATA[Rescue & Jessica: A Life-Changing Friendship]]></title>
+<title_without_series><![CDATA[Rescue & Jessica: A Life-Changing Friendship]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35879393-rescue-jessica]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511757333l/35879393._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511757333l/35879393._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57396165</id>
+</work>
+<isbn>0763696048</isbn>
+<isbn13>9780763696047</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>17068860</id>
+<name>Jessica Kensky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17068860.Jessica_Kensky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34227634</id>
+<title><![CDATA[Alfie: (The Turtle That Disappeared)]]></title>
+<title_without_series>Alfie:</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34227634-alfie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490295860l/34227634._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490295860l/34227634._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>55281383</id>
+</work>
+<isbn>1419725297</isbn>
+<isbn13>9781419725296</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6907866</id>
+<name>Thyra Heder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6907866.Thyra_Heder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31456756</id>
+<title>The Book of Mistakes</title>
+<title_without_series>The Book of Mistakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31456756-the-book-of-mistakes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482921647l/31456756._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>52161728</id>
+</work>
+<isbn>0735227926</isbn>
+<isbn13>9780735227927</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>15616480</id>
+<name>Corinna Luyken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15616480.Corinna_Luyken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35892618</id>
+<title>Perfectly Norman</title>
+<title_without_series>Perfectly Norman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35892618-perfectly-norman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501588490l/35892618._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501588490l/35892618._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57411252</id>
+</work>
+<isbn>1408880962</isbn>
+<isbn13>9781408880968</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2161876</id>
+<name>Tom Percival</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2161876.Tom_Percival]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30364127</id>
+<title>Over and Under the Pond</title>
+<title_without_series>Over and Under the Pond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30364127-over-and-under-the-pond]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483834166l/30364127._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>50874368</id>
+</work>
+<isbn>1452145423</isbn>
+<isbn13>9781452145426</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1010796</id>
+<name>Kate Messner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1010796.Kate_Messner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34144489</id>
+<title><![CDATA[Crown: An Ode to the Fresh Cut]]></title>
+<title_without_series><![CDATA[Crown: An Ode to the Fresh Cut]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34144489-crown]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520007342l/34144489._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>55181311</id>
+</work>
+<isbn>1572842245</isbn>
+<isbn13>9781572842243</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>229556</id>
+<name>Derrick Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229556.Derrick_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30340888</id>
+<title><![CDATA[Grace Hopper: Queen of Computer Code]]></title>
+<title_without_series><![CDATA[Grace Hopper: Queen of Computer Code]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30340888-grace-hopper]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486610791l/30340888._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486610791l/30340888._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>50840684</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>3136</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>13278986</id>
+<name>Laurie Wallmark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13278986.Laurie_Wallmark]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

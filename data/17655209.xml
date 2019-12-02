@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17655209</id>
+  <title><![CDATA[Deck the Walls: A Wacky Christmas Carol]]></title>
+  <isbn><![CDATA[1627530673]]></isbn>
+  <isbn13><![CDATA[9781627530675]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384124116l/17655209._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384124116l/17655209._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Sleeping Bear Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Deck the halls with boughs of holly, Fa la la la la la la la la. How wonderful the old carol sounds. A vision of warm family gatherings peacefully celebrating the holiday season comes to mind. But wait, this doesn’t sound like a peaceful family get-together. What is happening here? Deck the walls with mashed potatoes! Fa la la la la la la la la. Make a snowman with tomatoes. Fa la la la la la la la la. Author Erin Dealey has taken the old holiday classic and turned it on its head. In her riotous, raucous rendition of a family meal gone hilariously awry, you’ll find food hockey, vegetable sculptures, crashing dishes, and grown-ups wondering what has gone wrong. From “Feed the dog our peas and carrots” to “Food tastes better when you wear it,” readers young and old will never forget this new take on an old holiday carol!]]></description>
+  <work>
+  <id type="integer">24632941</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">17655209</best_book_id>
+  <reviews_count type="integer">1650</reviews_count>
+  <ratings_sum type="integer">789</ratings_sum>
+  <ratings_count type="integer">208</ratings_count>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Deck the Walls: A Wacky Christmas Carol</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:62|4:60|3:70|2:13|1:3|total:208</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.IT9uDs2746tWIjbpE0kzhg</work_uri>
+</work>
+  <average_rating>3.79</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[170]]></ratings_count>
+  <text_reviews_count><![CDATA[47]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17655209-deck-the-walls]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17655209-deck-the-walls]]></link>
+  <authors>
+<author>
+<id>158351</id>
+<name>Erin Dealey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364060308p5/158351.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364060308p2/158351.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/158351.Erin_Dealey]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>989</ratings_count>
+<text_reviews_count>189</text_reviews_count>
+</author>
+<author>
+<id>30315</id>
+<name>Nick Ward</name>
+<role>Illustrations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30315.Nick_Ward]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>1568</ratings_count>
+<text_reviews_count>326</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17655209-deck-the-walls">Deck the Walls Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1627530673&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17655209-deck-the-walls?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1371"/>
+      <shelf name="picture-books" count="34"/>
+      <shelf name="christmas" count="33"/>
+      <shelf name="children" count="10"/>
+      <shelf name="childrens" count="10"/>
+      <shelf name="picture-book" count="9"/>
+      <shelf name="holiday" count="8"/>
+      <shelf name="humor" count="8"/>
+      <shelf name="children-s" count="4"/>
+      <shelf name="storytime" count="4"/>
+      <shelf name="currently-reading" count="3"/>
+      <shelf name="kids" count="3"/>
+      <shelf name="song" count="3"/>
+      <shelf name="food" count="3"/>
+      <shelf name="humorous" count="3"/>
+      <shelf name="children-christmas" count="3"/>
+      <shelf name="family" count="3"/>
+      <shelf name="songs" count="3"/>
+      <shelf name="childrens-books" count="3"/>
+      <shelf name="children-s-books" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="kids-books" count="2"/>
+      <shelf name="holiday-books" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="kids-seasonal" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="kiddos" count="2"/>
+      <shelf name="storytime-reads" count="2"/>
+      <shelf name="read-in-2013" count="2"/>
+      <shelf name="preschool" count="2"/>
+      <shelf name="music" count="2"/>
+      <shelf name="childrens-picture-books" count="2"/>
+      <shelf name="picture-books-read" count="2"/>
+      <shelf name="mess" count="2"/>
+      <shelf name="children-s-picture-books" count="2"/>
+      <shelf name="juvenile" count="2"/>
+      <shelf name="holidays" count="2"/>
+      <shelf name="families" count="2"/>
+      <shelf name="2019-20-classroombookaday" count="1"/>
+      <shelf name="stars-1" count="1"/>
+      <shelf name="genre-fiction-42" count="1"/>
+      <shelf name="winter" count="1"/>
+      <shelf name="age-picture" count="1"/>
+      <shelf name="k-3-level" count="1"/>
+      <shelf name="good-read-aloud" count="1"/>
+      <shelf name="abandoned" count="1"/>
+      <shelf name="gca2013" count="1"/>
+      <shelf name="books-for-c" count="1"/>
+      <shelf name="gr-award-nom" count="1"/>
+      <shelf name="children-s-lit" count="1"/>
+      <shelf name="childrens-christmas-books" count="1"/>
+      <shelf name="youth-wishlist" count="1"/>
+      <shelf name="e-books" count="1"/>
+      <shelf name="izzy-s-summer-1-000" count="1"/>
+      <shelf name="holiday-christmas" count="1"/>
+      <shelf name="read-with-liv" count="1"/>
+      <shelf name="2018-2019" count="1"/>
+      <shelf name="read-with-girls-2018" count="1"/>
+      <shelf name="books-for-the-boys" count="1"/>
+      <shelf name="illustration-children" count="1"/>
+      <shelf name="jeremiah" count="1"/>
+      <shelf name="elinoah" count="1"/>
+      <shelf name="childrens-christmas" count="1"/>
+      <shelf name="z-childrens" count="1"/>
+      <shelf name="read-2018" count="1"/>
+      <shelf name="ebook" count="1"/>
+      <shelf name="1-and-a-half-stars" count="1"/>
+      <shelf name="to-buy" count="1"/>
+      <shelf name="children-book" count="1"/>
+      <shelf name="childrens-old" count="1"/>
+      <shelf name="read-fiction-child" count="1"/>
+      <shelf name="goodreads-author" count="1"/>
+      <shelf name="2010s-written" count="1"/>
+      <shelf name="jane" count="1"/>
+      <shelf name="classroom-library-wishlist" count="1"/>
+      <shelf name="to-review" count="1"/>
+      <shelf name="notes" count="1"/>
+      <shelf name="children-books" count="1"/>
+      <shelf name="little-louie" count="1"/>
+      <shelf name="childrenbooks-awards" count="1"/>
+      <shelf name="advent-2017" count="1"/>
+      <shelf name="read-with-effie" count="1"/>
+      <shelf name="read-with-eleanor" count="1"/>
+      <shelf name="read-with-clara" count="1"/>
+      <shelf name="read-in-2017" count="1"/>
+      <shelf name="owen-books" count="1"/>
+      <shelf name="child-picture-book" count="1"/>
+      <shelf name="removed-from-shelf" count="1"/>
+      <shelf name="choice-awards" count="1"/>
+      <shelf name="bmw" count="1"/>
+      <shelf name="seasonal" count="1"/>
+      <shelf name="read-2017" count="1"/>
+      <shelf name="tylor" count="1"/>
+      <shelf name="weber-physical" count="1"/>
+      <shelf name="do-not-own" count="1"/>
+      <shelf name="caroline-age-7" count="1"/>
+      <shelf name="adam-age-5" count="1"/>
+      <shelf name="sing-along" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>96128</id>
+<title>Duck for President</title>
+<title_without_series>Duck for President</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/96128.Duck_for_President]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2819058</id>
+</work>
+<isbn>0689863772</isbn>
+<isbn13>9780689863776</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32333298</id>
+<title>Life</title>
+<title_without_series>Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32333298-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488107917l/32333298._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488107917l/32333298._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>52969531</id>
+</work>
+<isbn>1481451626</isbn>
+<isbn13>9781481451628</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>5411</id>
+<name>Cynthia Rylant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5411.Cynthia_Rylant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10246781</id>
+<title>Astonishing Animal ABC</title>
+<title_without_series>Astonishing Animal ABC</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10246781-astonishing-animal-abc]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767546l/10246781._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328767546l/10246781._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>15146886</id>
+</work>
+<isbn>140278645X</isbn>
+<isbn13>9781402786457</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>67598</id>
+<name>Charles Fuge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67598.Charles_Fuge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7961855</id>
+<title>Llama Llama Holiday Drama</title>
+<title_without_series>Llama Llama Holiday Drama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7961855-llama-llama-holiday-drama]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704997l/7961855._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704997l/7961855._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>11843276</id>
+</work>
+<isbn>0670011614</isbn>
+<isbn13>9780670011612</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38507509</id>
+<title>The Broken Ornament</title>
+<title_without_series>The Broken Ornament</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38507509-the-broken-ornament]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531684156l/38507509._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531684156l/38507509._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>60145671</id>
+</work>
+<isbn>1481479946</isbn>
+<isbn13>9781481479943</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>25421</id>
+<name>Tony DiTerlizzi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25421.Tony_DiTerlizzi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18615267</id>
+<title>This Day in June</title>
+<title_without_series>This Day in June</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18615267-this-day-in-june]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585992l/18615267._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392585992l/18615267._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>26390662</id>
+</work>
+<isbn>143381658X</isbn>
+<isbn13>9781433816581</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5142181</id>
+<name>Gayle E. Pitman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5142181.Gayle_E_Pitman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>196940</id>
+<title>The Umbrella</title>
+<title_without_series>The Umbrella</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/196940.The_Umbrella]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556979480l/196940._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556979480l/196940._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>190486</id>
+</work>
+<isbn>0399242155</isbn>
+<isbn13>9780399242151</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33616</id>
+<title>Apple Pie 4th of July</title>
+<title_without_series>Apple Pie 4th of July</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33616.Apple_Pie_4th_of_July]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410978413l/33616._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410978413l/33616._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>33669</id>
+</work>
+<isbn>0152057080</isbn>
+<isbn13>9780152057084</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18937</id>
+<name>Janet S. Wong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18937.Janet_S_Wong]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6543235</id>
+<title>How Do You Wokka-Wokka?</title>
+<title_without_series>How Do You Wokka-Wokka?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6543235-how-do-you-wokka-wokka]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320450823l/6543235._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320450823l/6543235._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>6735496</id>
+</work>
+<isbn>0763632287</isbn>
+<isbn13>9780763632281</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>551327</id>
+<name>Elizabeth Bluemle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/551327.Elizabeth_Bluemle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2904907</id>
+<title>Dinosaur vs. Bedtime</title>
+<title_without_series>Dinosaur vs. Bedtime</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2904907-dinosaur-vs-bedtime]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2932055</id>
+</work>
+<isbn>1423113357</isbn>
+<isbn13>9781423113355</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414900</id>
+<title><![CDATA[The Goldilocks Variations, or Who's Been Snopperink in My Woodootog?]]></title>
+<title_without_series><![CDATA[The Goldilocks Variations, or Who's Been Snopperink in My Woodootog?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414900-the-goldilocks-variations-or-who-s-been-snopperink-in-my-woodootog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367929778l/13414900._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367929778l/13414900._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18714430</id>
+</work>
+<isbn>0763662682</isbn>
+<isbn13>9780763662684</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>45317</id>
+<name>Allan Ahlberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45317.Allan_Ahlberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>920780</id>
+<title>Duck on a Bike</title>
+<title_without_series>Duck on a Bike</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/920780.Duck_on_a_Bike]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328870602l/920780._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328870602l/920780._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>905812</id>
+</work>
+<isbn>0439050235</isbn>
+<isbn13>9780439050234</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1398196</id>
+<title>The Secret to Freedom</title>
+<title_without_series>The Secret to Freedom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1398196.The_Secret_to_Freedom]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1388372</id>
+</work>
+<isbn>1584302518</isbn>
+<isbn13>9781584302513</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3871896</id>
+<name>Marcia K. Vaughan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3871896.Marcia_K_Vaughan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20945932</id>
+<title><![CDATA[This is the Greatest Place!: The Forbidden City and the World of Small Animals]]></title>
+<title_without_series><![CDATA[This is the Greatest Place!: The Forbidden City and the World of Small Animals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20945932-this-is-the-greatest-place]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395629968l/20945932._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395629968l/20945932._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>40317309</id>
+</work>
+<isbn>0989377628</isbn>
+<isbn13>9780989377621</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7913206</id>
+<name>Brian Tse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7913206.Brian_Tse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8740110</id>
+<title><![CDATA[All the Way to America: The Story of a Big Italian Family and a Little Shovel]]></title>
+<title_without_series><![CDATA[All the Way to America: The Story of a Big Italian Family and a Little Shovel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8740110-all-the-way-to-america]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320454997l/8740110._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320454997l/8740110._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>13613243</id>
+</work>
+<isbn>0375966420</isbn>
+<isbn13>9780375966422</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>44885</id>
+<name>Dan Yaccarino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44885.Dan_Yaccarino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1519358</id>
+<title>Old Cricket</title>
+<title_without_series>Old Cricket</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1519358.Old_Cricket]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>532322</id>
+</work>
+<isbn>0689845103</isbn>
+<isbn13>9780689845109</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3166</id>
+<name>Lisa Wheeler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3166.Lisa_Wheeler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1887093</id>
+<title>Millie Waits for the Mail</title>
+<title_without_series>Millie Waits for the Mail</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1887093.Millie_Waits_for_the_Mail]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>1888344</id>
+</work>
+<isbn>0802796621</isbn>
+<isbn13>9780802796622</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>859740</id>
+<name>Alexander Steffensmeier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/859740.Alexander_Steffensmeier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2228926</id>
+<title>Pinocchio: The Boy</title>
+<title_without_series>Pinocchio: The Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2228926.Pinocchio]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2234724</id>
+</work>
+<isbn>0670035858</isbn>
+<isbn13>9780670035854</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>23573</id>
+<name>Lane Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23573.Lane_Smith]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

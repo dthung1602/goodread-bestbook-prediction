@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10518423</id>
+  <title>The Soldier&apos;s Wife</title>
+  <isbn><![CDATA[1401341705]]></isbn>
+  <isbn13><![CDATA[9781401341701]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Hachette Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[As World War II draws closer and closer to Guernsey, Vivienne de la Mare knows that there will be sacrifices to be made. Not just for herself, but for her two young daughters and for her mother-in-law, for whom she cares while her husband is away fighting. What she does not expect is that she will fall in love with one of the enigmatic German soldiers who take up residence in the house next door to her home. As their relationship intensifies, so do the pressures on Vivienne. Food and resources grow scant, and the restrictions placed upon the residents of the island grow with each passing week. Though Vivienne knows the perils of her love affair with Gunther, she believes that she can keep their relationship and her family safe. But when she becomes aware of the full brutality of the Occupation, she must decide if she is willing to risk her personal happiness for the life of a stranger.]]></description>
+  <work>
+  <id type="integer">15424477</id>
+  <books_count type="integer">27</books_count>
+  <best_book_id type="integer">10518423</best_book_id>
+  <reviews_count type="integer">37570</reviews_count>
+  <ratings_sum type="integer">53729</ratings_sum>
+  <ratings_count type="integer">13809</ratings_count>
+  <text_reviews_count type="integer">1474</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Collaborator</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3689|4:6002|3:3255|2:648|1:215|total:13809</rating_dist>
+  <desc_user_id type="integer">1090898</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.d4esGWA55NRnJokv8hVk3Q</work_uri>
+</work>
+  <average_rating>3.89</average_rating>
+  <num_pages><![CDATA[416]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12706]]></ratings_count>
+  <text_reviews_count><![CDATA[1341]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10518423-the-soldier-s-wife]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10518423-the-soldier-s-wife]]></link>
+  <authors>
+<author>
+<id>501929</id>
+<name>Margaret Leroy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1408793364p5/501929.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1408793364p2/501929.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/501929.Margaret_Leroy]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>16485</ratings_count>
+<text_reviews_count>1921</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10518423-the-soldier-s-wife">The Soldier&#39;s Wife Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1401341705&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/10518423-the-soldier-s-wife?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="22346"/>
+      <shelf name="historical-fiction" count="508"/>
+      <shelf name="currently-reading" count="171"/>
+      <shelf name="fiction" count="158"/>
+      <shelf name="wwii" count="97"/>
+      <shelf name="romance" count="75"/>
+      <shelf name="historical" count="75"/>
+      <shelf name="favorites" count="62"/>
+      <shelf name="kindle" count="56"/>
+      <shelf name="book-club" count="52"/>
+      <shelf name="world-war-ii" count="51"/>
+      <shelf name="books-i-own" count="40"/>
+      <shelf name="war" count="37"/>
+      <shelf name="ww2" count="35"/>
+      <shelf name="adult-fiction" count="26"/>
+      <shelf name="library" count="25"/>
+      <shelf name="history" count="25"/>
+      <shelf name="read-in-2012" count="19"/>
+      <shelf name="chick-lit" count="18"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="guernsey" count="17"/>
+      <shelf name="arc" count="17"/>
+      <shelf name="world-war-2" count="17"/>
+      <shelf name="england" count="16"/>
+      <shelf name="ebooks" count="15"/>
+      <shelf name="adult" count="15"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="owned" count="14"/>
+      <shelf name="historical-romance" count="13"/>
+      <shelf name="read-in-2011" count="13"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="europe" count="11"/>
+      <shelf name="novels" count="10"/>
+      <shelf name="want-to-read" count="9"/>
+      <shelf name="read-in-2013" count="8"/>
+      <shelf name="e-books" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="british" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="first-reads" count="8"/>
+      <shelf name="default" count="7"/>
+      <shelf name="family-relationships" count="7"/>
+      <shelf name="nook" count="7"/>
+      <shelf name="overdrive" count="7"/>
+      <shelf name="relationships" count="7"/>
+      <shelf name="channel-islands" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="ww-ii" count="7"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="women-s-fiction" count="6"/>
+      <shelf name="nook-books" count="6"/>
+      <shelf name="did-not-finish" count="6"/>
+      <shelf name="my-ebooks" count="6"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="womens-fiction" count="6"/>
+      <shelf name="wwi-wwii" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="read-2013" count="5"/>
+      <shelf name="to-read-fiction" count="5"/>
+      <shelf name="abandoned" count="5"/>
+      <shelf name="kobo" count="5"/>
+      <shelf name="drama" count="5"/>
+      <shelf name="read-2012" count="5"/>
+      <shelf name="recommended" count="5"/>
+      <shelf name="2012-books" count="5"/>
+      <shelf name="fiction-historical" count="5"/>
+      <shelf name="didn-t-finish" count="5"/>
+      <shelf name="women" count="5"/>
+      <shelf name="wwii-fiction" count="5"/>
+      <shelf name="world-war-two" count="5"/>
+      <shelf name="20th-century" count="5"/>
+      <shelf name="read-2011" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="france" count="5"/>
+      <shelf name="forbidden-love-affair" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="paperback" count="4"/>
+      <shelf name="need-to-buy" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="goodreads-awards" count="4"/>
+      <shelf name="to-read-historical-fiction" count="4"/>
+      <shelf name="4-stars" count="4"/>
+      <shelf name="ww2-fiction" count="4"/>
+      <shelf name="book-club-books" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="kindle-books" count="4"/>
+      <shelf name="on-my-bookshelf" count="4"/>
+      <shelf name="bookclub" count="4"/>
+      <shelf name="to-read-own" count="4"/>
+      <shelf name="2012-reads" count="4"/>
+      <shelf name="ww2-romance" count="4"/>
+      <shelf name="audiobooks" count="4"/>
+      <shelf name="world-wars" count="4"/>
+      <shelf name="british-literature" count="4"/>
+      <shelf name="holocaust" count="4"/>
+      <shelf name="couldn-t-finish" count="4"/>
+      <shelf name="e-book" count="4"/>
+      <shelf name="wwii-historical-fiction" count="4"/>
+      <shelf name="wwll" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11010251</id>
+<title>The Lost Wife</title>
+<title_without_series>The Lost Wife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11010251-the-lost-wife]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394994929l/11010251._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394994929l/11010251._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>15929266</id>
+</work>
+<isbn>042524413X</isbn>
+<isbn13>9780425244135</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>57239</id>
+<name>Alyson Richman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57239.Alyson_Richman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9678825</id>
+<title>The Last Time I Saw Paris</title>
+<title_without_series>The Last Time I Saw Paris</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9678825-the-last-time-i-saw-paris]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311703220l/9678825._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311703220l/9678825._SX98_.jpg]]></image_url>
+<num_pages>354</num_pages>
+<work>
+<id>14566724</id>
+</work>
+<isbn>0425240843</isbn>
+<isbn13>9780425240847</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4455250</id>
+<name>Lynn Sheene</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4455250.Lynn_Sheene]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>374494</id>
+<title><![CDATA[The Kommandant's Girl (The Kommandant's Girl, #1)]]></title>
+<title_without_series>The Kommandant&apos;s Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/374494.The_Kommandant_s_Girl]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>395</num_pages>
+<work>
+<id>1394552</id>
+</work>
+<isbn>0778323420</isbn>
+<isbn13>9780778323426</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>213562</id>
+<name>Pam Jenoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213562.Pam_Jenoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1998880</id>
+<title>My Enemy&apos;s Cradle</title>
+<title_without_series>My Enemy&apos;s Cradle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1998880.My_Enemy_s_Cradle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>365</num_pages>
+<work>
+<id>2002687</id>
+</work>
+<isbn>0151015376</isbn>
+<isbn13>9780151015375</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>908182</id>
+<name>Sara Young</name>
+<link><![CDATA[https://www.goodreads.com/author/show/908182.Sara_Young]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42045749</id>
+<title>Letters from Home</title>
+<title_without_series>Letters from Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42045749-letters-from-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538456369l/42045749._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538456369l/42045749._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>14297764</id>
+</work>
+<isbn>1496725948</isbn>
+<isbn13>9781496725943</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4384611</id>
+<name>Kristina McMorris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4384611.Kristina_McMorris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12547098</id>
+<title>The Baker&apos;s Daughter</title>
+<title_without_series>The Baker&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12547098-the-baker-s-daughter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404963150l/12547098._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404963150l/12547098._SX98_.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>17534296</id>
+</work>
+<isbn>0307460207</isbn>
+<isbn13>9780307460202</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2770941</id>
+<name>Sarah McCoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2770941.Sarah_McCoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10158656</id>
+<title>22 Britannia Road</title>
+<title_without_series>22 Britannia Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10158656-22-britannia-road]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354984677l/10158656._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354984677l/10158656._SX98_.jpg]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>15057137</id>
+</work>
+<isbn>1611760038</isbn>
+<isbn13>9781611760033</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4567126</id>
+<name>Amanda Hodgkinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4567126.Amanda_Hodgkinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6521868</id>
+<title>The Yellow House</title>
+<title_without_series>The Yellow House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6521868-the-yellow-house]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>6713772</id>
+</work>
+<isbn>1599952017</isbn>
+<isbn13>9781599952017</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2951648</id>
+<name>Patricia Falvey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2951648.Patricia_Falvey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9746256</id>
+<title>The Things We Cherished</title>
+<title_without_series>The Things We Cherished</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9746256-the-things-we-cherished]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320561508l/9746256._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320561508l/9746256._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>14635419</id>
+</work>
+<isbn>0385534205</isbn>
+<isbn13>9780385534208</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>213562</id>
+<name>Pam Jenoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213562.Pam_Jenoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11720964</id>
+<title>The Bungalow</title>
+<title_without_series>The Bungalow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11720964-the-bungalow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311141458l/11720964._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311141458l/11720964._SX98_.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>16669172</id>
+</work>
+<isbn>0452297672</isbn>
+<isbn13>9780452297678</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>12</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4467375</id>
+<name>Sarah Jio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4467375.Sarah_Jio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6578507</id>
+<title>The Postmistress</title>
+<title_without_series>The Postmistress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6578507-the-postmistress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409169468l/6578507._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409169468l/6578507._SX98_.jpg]]></image_url>
+<num_pages>11</num_pages>
+<work>
+<id>6771932</id>
+</work>
+<isbn>0143145444</isbn>
+<isbn13>9780143145448</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>179578</id>
+<name>Sarah Blake</name>
+<link><![CDATA[https://www.goodreads.com/author/show/179578.Sarah_Blake]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9367969</id>
+<title>When We Were Strangers</title>
+<title_without_series>When We Were Strangers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9367969-when-we-were-strangers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>14251493</id>
+</work>
+<isbn>0062003992</isbn>
+<isbn13>9780062003997</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4372306</id>
+<name>Pamela Schoenewaldt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4372306.Pamela_Schoenewaldt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>807108</id>
+<title>Julia&apos;s Chocolates</title>
+<title_without_series>Julia&apos;s Chocolates</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/807108.Julia_s_Chocolates]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>390</num_pages>
+<work>
+<id>3250025</id>
+</work>
+<isbn>0758214626</isbn>
+<isbn13>9780758214621</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>422343</id>
+<name>Cathy  Lamb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/422343.Cathy_Lamb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42034747</id>
+<title>The Soldier&apos;s Girl</title>
+<title_without_series>The Soldier&apos;s Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42034747-the-soldier-s-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542041669l/42034747._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542041669l/42034747._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65559273</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>456016</id>
+<name>Sharon Maas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/456016.Sharon_Maas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2017056</id>
+<title>Skeletons at the Feast</title>
+<title_without_series>Skeletons at the Feast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2017056.Skeletons_at_the_Feast]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320413130l/2017056._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320413130l/2017056._SX98_.jpg]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>2144298</id>
+</work>
+<isbn>0307394956</isbn>
+<isbn13>9780307394958</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3509</id>
+<name>Chris Bohjalian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3509.Chris_Bohjalian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15803233</id>
+<title><![CDATA[The Ambassador's Daughter (The Kommandant's Girl, #0.5)]]></title>
+<title_without_series>The Ambassador&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15803233-the-ambassador-s-daughter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352144636l/15803233._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352144636l/15803233._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>21526647</id>
+</work>
+<isbn>0778315096</isbn>
+<isbn13>9780778315094</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>213562</id>
+<name>Pam Jenoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213562.Pam_Jenoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>49465</id>
+<title>Those Who Save Us</title>
+<title_without_series>Those Who Save Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/49465.Those_Who_Save_Us]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>479</num_pages>
+<work>
+<id>3402913</id>
+</work>
+<isbn>0156031663</isbn>
+<isbn13>9780156031660</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>27857</id>
+<name>Jenna Blum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27857.Jenna_Blum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23492255</id>
+<title><![CDATA[The Last Summer at Chelsea Beach]]></title>
+<title_without_series><![CDATA[The Last Summer at Chelsea Beach]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23492255-the-last-summer-at-chelsea-beach]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436753427l/23492255._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436753427l/23492255._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>43082546</id>
+</work>
+<isbn>0778317544</isbn>
+<isbn13>9780778317548</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>13809</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>213562</id>
+<name>Pam Jenoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213562.Pam_Jenoff]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

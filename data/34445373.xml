@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34445373</id>
+  <title>Franklin&apos;s Flying Bookshop</title>
+  <isbn><![CDATA[0500651094]]></isbn>
+  <isbn13><![CDATA[9780500651094]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488612712l/34445373._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488612712l/34445373._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Thames &amp; Hudson</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Franklin the dragon loves stories and loves reading stories to people too, but everyone is too scared to even talk to him. One day, he meets a girl named Luna who, rather than being afraid, is fascinated to meet Franklin, having recently read all about dragons in one of her books. They instantly become friends and talk nonstop about what they’ve read: books about roller-skating, King Arthur, spiders, and how to do kung fu. Together they hatch a plan to share their love of books with others by opening a bookshop—a flying bookshop, that is—right on Franklin’s back!<br /><br /><b>Franklin, a well-read and peace-loving dragon, and Luna, a young girl with an independent spirit and an insatiable love of reading, make fantastic role models for young children. <em>Franklin’s Flying Bookshop</em> brings the magic of classic fairy tales into the twenty-first century through exquisite illustrations, and will enchant children as well as anyone who loves books.</b>]]></description>
+  <work>
+  <id type="integer">50800297</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">30313729</best_book_id>
+  <reviews_count type="integer">5379</reviews_count>
+  <ratings_sum type="integer">6271</ratings_sum>
+  <ratings_count type="integer">1466</ratings_count>
+  <text_reviews_count type="integer">296</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Franklin's Flying Bookshop</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:704|4:513|3:211|2:28|1:10|total:1466</rating_dist>
+  <desc_user_id type="integer">6492118</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.I6PuQLyT0bCAzS_-WeWFgQ</work_uri>
+</work>
+  <average_rating>4.28</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[327]]></ratings_count>
+  <text_reviews_count><![CDATA[58]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34445373-franklin-s-flying-bookshop]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34445373-franklin-s-flying-bookshop]]></link>
+  <authors>
+<author>
+<id>5211857</id>
+<name>Jen Campbell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533035124p5/5211857.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533035124p2/5211857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5211857.Jen_Campbell]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>31938</ratings_count>
+<text_reviews_count>6537</text_reviews_count>
+</author>
+<author>
+<id>14931724</id>
+<name>Katie Harnett</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487430229p5/14931724.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487430229p2/14931724.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14931724.Katie_Harnett]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>2930</ratings_count>
+<text_reviews_count>675</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34445373-franklin-s-flying-bookshop">Franklin&#39;s Flying Bookshop Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0500651094&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/34445373-franklin-s-flying-bookshop?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3529"/>
+      <shelf name="picture-books" count="191"/>
+      <shelf name="childrens" count="77"/>
+      <shelf name="fantasy" count="53"/>
+      <shelf name="picture-book" count="46"/>
+      <shelf name="children" count="41"/>
+      <shelf name="dragons" count="38"/>
+      <shelf name="children-s-books" count="36"/>
+      <shelf name="childrens-books" count="33"/>
+      <shelf name="children-s" count="31"/>
+      <shelf name="books-about-books" count="26"/>
+      <shelf name="fiction" count="25"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="kids" count="18"/>
+      <shelf name="friendship" count="18"/>
+      <shelf name="favorites" count="17"/>
+      <shelf name="read-in-2017" count="17"/>
+      <shelf name="graphic-novels" count="17"/>
+      <shelf name="kids-books" count="15"/>
+      <shelf name="read-in-2018" count="14"/>
+      <shelf name="library" count="13"/>
+      <shelf name="favourites" count="11"/>
+      <shelf name="2017-releases" count="11"/>
+      <shelf name="illustrated" count="10"/>
+      <shelf name="books" count="9"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="picturebooks" count="9"/>
+      <shelf name="children-books" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="graphic-novel" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="read-2018" count="6"/>
+      <shelf name="animals" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="children-s-literature" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="children-s-book" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="read-in-2019" count="5"/>
+      <shelf name="adventure" count="5"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="ks1" count="5"/>
+      <shelf name="to-read-picture-books" count="5"/>
+      <shelf name="currently-reading" count="4"/>
+      <shelf name="picture" count="4"/>
+      <shelf name="imagination" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="children-s-lit" count="4"/>
+      <shelf name="ks2" count="4"/>
+      <shelf name="art" count="4"/>
+      <shelf name="picturebook" count="4"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="children-s-fiction" count="4"/>
+      <shelf name="beautiful-books" count="4"/>
+      <shelf name="year-2" count="3"/>
+      <shelf name="year-1" count="3"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="plot-doorway" count="3"/>
+      <shelf name="bookstore" count="3"/>
+      <shelf name="kids-lit" count="3"/>
+      <shelf name="children-s-picture-book" count="3"/>
+      <shelf name="read-in-czech" count="3"/>
+      <shelf name="british" count="3"/>
+      <shelf name="on-my-shelf" count="3"/>
+      <shelf name="books-and-reading" count="3"/>
+      <shelf name="fairytales" count="3"/>
+      <shelf name="2018-reads" count="3"/>
+      <shelf name="borrowed-from-the-library" count="3"/>
+      <shelf name="books-and-libraries" count="3"/>
+      <shelf name="fear" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="fantasy-sci-fi" count="3"/>
+      <shelf name="books-on-books" count="3"/>
+      <shelf name="picture-books-read" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="women-authors" count="3"/>
+      <shelf name="cute" count="3"/>
+      <shelf name="2017-picture-books" count="3"/>
+      <shelf name="kiddos" count="3"/>
+      <shelf name="picture-books-to-read" count="3"/>
+      <shelf name="jeunesse" count="3"/>
+      <shelf name="children-s-picture-books" count="3"/>
+      <shelf name="youtubers" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="graphic-novels-comics" count="3"/>
+      <shelf name="tbr-childrens" count="3"/>
+      <shelf name="british-authors" count="3"/>
+      <shelf name="pictures" count="3"/>
+      <shelf name="2017-release" count="3"/>
+      <shelf name="childrens-books-to-read" count="2"/>
+      <shelf name="strong-female" count="2"/>
+      <shelf name="barnebøker" count="2"/>
+      <shelf name="children-middle-grade" count="2"/>
+      <shelf name="kindness" count="2"/>
+      <shelf name="mythical-creatures" count="2"/>
+      <shelf name="own-physical" count="2"/>
+      <shelf name="grayson" count="2"/>
+      <shelf name="school-library" count="2"/>
+      <shelf name="bookshops" count="2"/>
+      <shelf name="friendships" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1196528</id>
+<user_position>1</user_position>
+<series>
+<id>228409</id>
+<title>
+<![CDATA[
+    Franklin and Luna
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>41458425</id>
+<title>Sweep</title>
+<title_without_series>Sweep</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41458425-sweep]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64723371</id>
+</work>
+<isbn>1405283777</isbn>
+<isbn13>9781405283779</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15964909</id>
+<name>Louise Greig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15964909.Louise_Greig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44671932</id>
+<title>A Mouse Called Julian</title>
+<title_without_series>A Mouse Called Julian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44671932-a-mouse-called-julian]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554438972l/44671932._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554438972l/44671932._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69328858</id>
+</work>
+<isbn>1912497069</isbn>
+<isbn13>9781912497065</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15756999</id>
+<name>Joe Todd-Stanton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15756999.Joe_Todd_Stanton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35169327</id>
+<title><![CDATA[Here We Are: Notes for Living on Planet Earth]]></title>
+<title_without_series><![CDATA[Here We Are: Notes for Living on Planet Earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35169327-here-we-are]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511546665l/35169327._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511546665l/35169327._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>56500921</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33414849</id>
+<title><![CDATA[How to Make Friends with a Ghost]]></title>
+<title_without_series><![CDATA[How to Make Friends with a Ghost]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33414849-how-to-make-friends-with-a-ghost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498800452l/33414849._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498800452l/33414849._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>54174621</id>
+</work>
+<isbn>1101919019</isbn>
+<isbn13>9781101919019</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1391027</id>
+<name>Rebecca Green</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1391027.Rebecca_Green]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31216973</id>
+<title>The Building Boy</title>
+<title_without_series>The Building Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31216973-the-building-boy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475796324l/31216973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475796324l/31216973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>51872175</id>
+</work>
+<isbn>0571314104</isbn>
+<isbn13>9780571314102</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4689508</id>
+<name>Ross Montgomery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4689508.Ross_Montgomery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25330147</id>
+<title><![CDATA[Whatever Happened to My Sister?]]></title>
+<title_without_series><![CDATA[Whatever Happened to My Sister?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25330147-whatever-happened-to-my-sister]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435189869l/25330147._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435189869l/25330147._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>45065403</id>
+</work>
+<isbn>1909263524</isbn>
+<isbn13>9781909263529</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>8077829</id>
+<name>Simona Ciraolo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8077829.Simona_Ciraolo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48335194</id>
+<title>Das NEINhorn</title>
+<title_without_series>Das NEINhorn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48335194-das-neinhorn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569944871l/48335194._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569944871l/48335194._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>73607453</id>
+</work>
+<isbn>3551518416</isbn>
+<isbn13>9783551518415</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2863757</id>
+<name>Marc-Uwe Kling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2863757.Marc_Uwe_Kling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34816266</id>
+<title>Petra</title>
+<title_without_series>Petra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34816266-petra]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522443362l/34816266._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522443362l/34816266._SX98_.jpg]]></image_url>
+<num_pages>20</num_pages>
+<work>
+<id>56035728</id>
+</work>
+<isbn>8878744700</isbn>
+<isbn13>9788878744707</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>16313257</id>
+<name>Marianna Coppo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16313257.Marianna_Coppo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35619275</id>
+<title>Under The Same Sky</title>
+<title_without_series>Under The Same Sky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35619275-under-the-same-sky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499464382l/35619275._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499464382l/35619275._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57063269</id>
+</work>
+<isbn>1848575866</isbn>
+<isbn13></isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>153061</id>
+<name>Britta Teckentrup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/153061.Britta_Teckentrup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28118479</id>
+<title>The Sound of Silence</title>
+<title_without_series>The Sound of Silence</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28118479-the-sound-of-silence]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503426043l/28118479._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503426043l/28118479._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>48129271</id>
+</work>
+<isbn>0316203378</isbn>
+<isbn13>9780316203371</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6583731</id>
+<name>Katrina Goldsaito</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6583731.Katrina_Goldsaito]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44583788</id>
+<title>Ivy and the Lonely Raincloud</title>
+<title_without_series>Ivy and the Lonely Raincloud</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44583788-ivy-and-the-lonely-raincloud]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553446493l/44583788._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553446493l/44583788._SX98_.jpg]]></image_url>
+<num_pages>26</num_pages>
+<work>
+<id>52603797</id>
+</work>
+<isbn>1911171151</isbn>
+<isbn13>9781911171157</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14931724</id>
+<name>Katie Harnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14931724.Katie_Harnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34443968</id>
+<title>The Worm and the Bird</title>
+<title_without_series>The Worm and the Bird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34443968-the-worm-and-the-bird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528643533l/34443968._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528643533l/34443968._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>55552873</id>
+</work>
+<isbn>1846149223</isbn>
+<isbn13>9781846149221</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>2904450</id>
+<name>Coralie Bickford-Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2904450.Coralie_Bickford_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35232299</id>
+<title>The Night Box</title>
+<title_without_series>The Night Box</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35232299-the-night-box]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495872527l/35232299._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495872527l/35232299._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56580241</id>
+</work>
+<isbn>1405283769</isbn>
+<isbn13>9781405283762</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>15964909</id>
+<name>Louise Greig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15964909.Louise_Greig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22524036</id>
+<title><![CDATA[Wanted! Ralfy Rabbit, Book Burglar]]></title>
+<title_without_series><![CDATA[Wanted! Ralfy Rabbit, Book Burglar]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22524036-wanted-ralfy-rabbit-book-burglar]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407773147l/22524036._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407773147l/22524036._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41971876</id>
+</work>
+<isbn>1408843129</isbn>
+<isbn13>9781408843123</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6556640</id>
+<name>Emily MacKenzie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6556640.Emily_MacKenzie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39965111</id>
+<title>Gerda: Příběh velryby</title>
+<title_without_series>Gerda: Příběh velryby</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39965111-gerda]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524762804l/39965111._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524762804l/39965111._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>61871243</id>
+</work>
+<isbn></isbn>
+<isbn13>9788026419068</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>17982787</id>
+<name>Adrián Macho</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17982787.Adri_n_Macho]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29662645</id>
+<title>Tidy</title>
+<title_without_series>Tidy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29662645-tidy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459241769l/29662645._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459241769l/29662645._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>50028651</id>
+</work>
+<isbn></isbn>
+<isbn13>9781447273981</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>99790</id>
+<name>Emily Gravett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99790.Emily_Gravett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39932241</id>
+<title>The Way Home For Wolf</title>
+<title_without_series>The Way Home For Wolf</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39932241-the-way-home-for-wolf]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61816809</id>
+</work>
+<isbn>1408349205</isbn>
+<isbn13>9781408349205</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4101644</id>
+<name>Rachel Bright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4101644.Rachel_Bright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36359134</id>
+<title><![CDATA[Marcy and the Riddle of the Sphinx]]></title>
+<title_without_series><![CDATA[Marcy and the Riddle of the Sphinx]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36359134-marcy-and-the-riddle-of-the-sphinx]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507221118l/36359134._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507221118l/36359134._SX98_.jpg]]></image_url>
+<num_pages>54</num_pages>
+<work>
+<id>58042490</id>
+</work>
+<isbn>9781911171</isbn>
+<isbn13></isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>15756999</id>
+<name>Joe Todd-Stanton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15756999.Joe_Todd_Stanton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

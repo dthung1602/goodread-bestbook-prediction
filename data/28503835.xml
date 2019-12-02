@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>28503835</id>
+  <title>EveryDayCook</title>
+  <isbn><![CDATA[1101885718]]></isbn>
+  <isbn13><![CDATA[9781101885710]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459112231l/28503835._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459112231l/28503835._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Ballantine Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[My name is Alton Brown, and I wrote this book. It’s my first in a few years because I’ve been a little busy with TV stuff and interwebs stuff and live stage show stuff. Sure, I’ve been cooking, but it’s been mostly to feed myself and people in my immediate vicinity—which is really what a cook is supposed to do, right? Well, one day I was sitting around trying to organize my recipes, and I realized that I should put them into a personal collection. One thing led to another, and here’s EveryDayCook. There’s still plenty of science and hopefully some humor in here (my agent says that’s my “wheelhouse”), but unlike in my other books, a lot of attention went into the photos, which were all taken on my iPhone (take that, Instagram) and are suitable for framing. As for the recipes, which are arranged by time of day, they’re pretty darned tasty. Highlights include: <br /> <br />• Morning: Buttermilk Lassi, Overnight Coconut Oats, Nitrous Pancakes <br />• Coffee Break: Cold Brew Coffee, Lacquered Bacon, Seedy Date Bars<br />• Noon: Smoky the Meat Loaf, Grilled Cheese Grilled Sandwich, “EnchiLasagna” or “Lasagnalada”<br />• Afternoon: Green Grape Cobbler, Crispy Chickpeas, Savory Greek Yogurt Dip<br />• Evening: Bad Day Bitter Martini, Mussels-O-Miso, Garam Masalmon Steaks<br />• Anytime: The General’s Fried Chicken, Roasted Chile Salsa, Peach Punch Pops<br />• Later: Cider House Fondue, Open Sesame Noodles, Chocapocalypse Cookie<br /> <br />So let’s review: 101 recipes with mouthwatering photos, a plethora of useful insights on methods, tools, and ingredients all written by an “award-winning and influential educator and tastemaker.” That last part is from the PR office. Real people don’t talk like that.]]></description>
+  <work>
+  <id type="integer">48656132</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">28503835</best_book_id>
+  <reviews_count type="integer">8051</reviews_count>
+  <ratings_sum type="integer">8052</ratings_sum>
+  <ratings_count type="integer">1896</ratings_count>
+  <text_reviews_count type="integer">178</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>Alton Brown: EveryDayCook</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:912|4:646|3:257|2:56|1:25|total:1896</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.8FNhd9SCxm0JHGtMfnByAQ</work_uri>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1588]]></ratings_count>
+  <text_reviews_count><![CDATA[152]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/28503835-everydaycook]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/28503835-everydaycook]]></link>
+  <authors>
+<author>
+<id>58480</id>
+<name>Alton Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201189488p5/58480.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201189488p2/58480.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58480.Alton_Brown]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>40226</ratings_count>
+<text_reviews_count>919</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/28503835-everydaycook">EveryDayCook Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101885718&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/28503835-everydaycook?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4525"/>
+      <shelf name="currently-reading" count="927"/>
+      <shelf name="cookbooks" count="187"/>
+      <shelf name="cooking" count="81"/>
+      <shelf name="non-fiction" count="62"/>
+      <shelf name="food" count="58"/>
+      <shelf name="cookbook" count="56"/>
+      <shelf name="nonfiction" count="32"/>
+      <shelf name="kindle" count="16"/>
+      <shelf name="cook-books" count="15"/>
+      <shelf name="reference" count="15"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="food-cooking" count="8"/>
+      <shelf name="culinary" count="6"/>
+      <shelf name="library" count="5"/>
+      <shelf name="read-in-2019" count="4"/>
+      <shelf name="default" count="4"/>
+      <shelf name="foodie" count="4"/>
+      <shelf name="read-in-2017" count="4"/>
+      <shelf name="science" count="4"/>
+      <shelf name="favorites" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="cookbooks-to-read" count="4"/>
+      <shelf name="food-cookbooks" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="purchased" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="own-read" count="3"/>
+      <shelf name="to-read-nonfiction" count="3"/>
+      <shelf name="food-drink" count="3"/>
+      <shelf name="food-and-drink" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="e-title" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="read-in-2018" count="2"/>
+      <shelf name="cookbooks-owned" count="2"/>
+      <shelf name="to-read-cookbooks" count="2"/>
+      <shelf name="overdrive" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="food-cookbook" count="2"/>
+      <shelf name="cook" count="2"/>
+      <shelf name="kindle-books" count="2"/>
+      <shelf name="nonfic" count="2"/>
+      <shelf name="2017-reads" count="2"/>
+      <shelf name="cooking-baking" count="2"/>
+      <shelf name="kitchen-shelf" count="2"/>
+      <shelf name="paper" count="2"/>
+      <shelf name="to-read-non-fiction" count="2"/>
+      <shelf name="gift-ideas" count="2"/>
+      <shelf name="ebook" count="2"/>
+      <shelf name="cookbooks-and-food" count="2"/>
+      <shelf name="available-at-library" count="2"/>
+      <shelf name="cookery" count="2"/>
+      <shelf name="read-cookbooks" count="2"/>
+      <shelf name="cook-book" count="2"/>
+      <shelf name="abandoned" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="cooking-food" count="2"/>
+      <shelf name="tbr-nonfiction" count="2"/>
+      <shelf name="need-to-buy" count="2"/>
+      <shelf name="aw-food" count="1"/>
+      <shelf name="e" count="1"/>
+      <shelf name="n-s-c-not-started" count="1"/>
+      <shelf name="book_club" count="1"/>
+      <shelf name="food-bev-home" count="1"/>
+      <shelf name="2016nonfiction-grca" count="1"/>
+      <shelf name="shane-owns" count="1"/>
+      <shelf name="gift-from-me" count="1"/>
+      <shelf name="checked-in" count="1"/>
+      <shelf name="added-2019" count="1"/>
+      <shelf name="cooking-health" count="1"/>
+      <shelf name="postgrad" count="1"/>
+      <shelf name="no-strings-attached-book-club" count="1"/>
+      <shelf name="physical-books" count="1"/>
+      <shelf name="cookbook-good-eats" count="1"/>
+      <shelf name="interested" count="1"/>
+      <shelf name="google-design-library-challenge" count="1"/>
+      <shelf name="googles-bookshelf" count="1"/>
+      <shelf name="google-hardware-design-team" count="1"/>
+      <shelf name="general-cooking" count="1"/>
+      <shelf name="non-fiction-must-get" count="1"/>
+      <shelf name="to-read-september" count="1"/>
+      <shelf name="food-celebrity" count="1"/>
+      <shelf name="owned-other" count="1"/>
+      <shelf name="01-food" count="1"/>
+      <shelf name="owned-book" count="1"/>
+      <shelf name="for-reference" count="1"/>
+      <shelf name="owned-books-germany-pcs" count="1"/>
+      <shelf name="s-o-b" count="1"/>
+      <shelf name="n-s-not-started" count="1"/>
+      <shelf name="lng-in-english" count="1"/>
+      <shelf name="nonfic-cookbooks" count="1"/>
+      <shelf name="lws" count="1"/>
+      <shelf name="mybooks" count="1"/>
+      <shelf name="test-kitchen" count="1"/>
+      <shelf name="0-series-checked-a" count="1"/>
+      <shelf name="tgt-d" count="1"/>
+      <shelf name="gca2016" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>22716424</id>
+<title><![CDATA[Milk Bar Life: Recipes & Stories]]></title>
+<title_without_series><![CDATA[Milk Bar Life: Recipes & Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22716424-milk-bar-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408310764l/22716424._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408310764l/22716424._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>42243683</id>
+</work>
+<isbn>0770435106</isbn>
+<isbn13>9780770435103</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4693346</id>
+<name>Christina Tosi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4693346.Christina_Tosi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28925236</id>
+<title>Appetites: A Cookbook</title>
+<title_without_series>Appetites: A Cookbook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28925236-appetites]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462163749l/28925236._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462163749l/28925236._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>49037712</id>
+</work>
+<isbn>0062409956</isbn>
+<isbn13>9780062409959</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1124</id>
+<name>Anthony Bourdain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1124.Anthony_Bourdain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33656178</id>
+<title><![CDATA[Bobby Flay Fit: 200 Recipes for a Healthy Lifestyle: A Cookbook]]></title>
+<title_without_series><![CDATA[Bobby Flay Fit: 200 Recipes for a Healthy Lifestyle: A Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33656178-bobby-flay-fit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498794559l/33656178._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498794559l/33656178._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>54523642</id>
+</work>
+<isbn>0385345933</isbn>
+<isbn13>9780385345934</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>157654</id>
+<name>Bobby Flay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157654.Bobby_Flay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34497900</id>
+<title><![CDATA[Eat What You Watch: A Cookbook for Movie Lovers]]></title>
+<title_without_series><![CDATA[Eat What You Watch: A Cookbook for Movie Lovers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34497900-eat-what-you-watch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494352433l/34497900._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494352433l/34497900._SX98_.jpg]]></image_url>
+<num_pages>132</num_pages>
+<work>
+<id>55621342</id>
+</work>
+<isbn>0998739952</isbn>
+<isbn13>9780998739953</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>16536822</id>
+<name>Andrew Rea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16536822.Andrew_Rea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29902617</id>
+<title><![CDATA[The Complete Mediterranean Cookbook: 500 Vibrant, Kitchen-Tested Recipes for Living and Eating Well Every Day]]></title>
+<title_without_series><![CDATA[The Complete Mediterranean Cookbook: 500 Vibrant, Kitchen-Tested Recipes for Living and Eating Well Every Day]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29902617-the-complete-mediterranean-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465682829l/29902617._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465682829l/29902617._SX98_.jpg]]></image_url>
+<num_pages>440</num_pages>
+<work>
+<id>50276449</id>
+</work>
+<isbn>1940352649</isbn>
+<isbn13>9781940352640</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>12</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>6867702</id>
+<name>America&apos;s Test Kitchen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6867702.America_s_Test_Kitchen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41809788</id>
+<title><![CDATA[Spiced: Unlock the Power of Spices to Transform Your Cooking]]></title>
+<title_without_series><![CDATA[Spiced: Unlock the Power of Spices to Transform Your Cooking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41809788-spiced]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65237696</id>
+</work>
+<isbn>194525677X</isbn>
+<isbn13>9781945256776</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6867702</id>
+<name>America&apos;s Test Kitchen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6867702.America_s_Test_Kitchen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33897494</id>
+<title><![CDATA[The Home Cook: Recipes to Know by Heart: A Cookbook]]></title>
+<title_without_series><![CDATA[The Home Cook: Recipes to Know by Heart: A Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33897494-the-home-cook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498817546l/33897494._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498817546l/33897494._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>54858604</id>
+</work>
+<isbn>030795658X</isbn>
+<isbn13>9780307956583</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6582388</id>
+<name>Alex Guarnaschelli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6582388.Alex_Guarnaschelli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>335459</id>
+<title><![CDATA[Everyday Food: Great Food Fast]]></title>
+<title_without_series><![CDATA[Everyday Food: Great Food Fast]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/335459.Everyday_Food]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320479731l/335459._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320479731l/335459._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>325931</id>
+</work>
+<isbn>0307354164</isbn>
+<isbn13>9780307354167</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>2657</id>
+<name>Martha Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2657.Martha_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38358651</id>
+<title>Ottolenghi SIMPLE</title>
+<title_without_series>Ottolenghi SIMPLE</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38358651-ottolenghi-simple]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523357175l/38358651._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523357175l/38358651._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>60025396</id>
+</work>
+<isbn>1785031163</isbn>
+<isbn13>9781785031168</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>1397570</id>
+<name>Yotam Ottolenghi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1397570.Yotam_Ottolenghi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28813966</id>
+<title><![CDATA[Cooking for Jeffrey: A Barefoot Contessa Cookbook]]></title>
+<title_without_series><![CDATA[Cooking for Jeffrey: A Barefoot Contessa Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28813966-cooking-for-jeffrey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482257305l/28813966._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482257305l/28813966._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>49029910</id>
+</work>
+<isbn>0804187037</isbn>
+<isbn13>9780804187039</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2658</id>
+<name>Ina Garten</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2658.Ina_Garten]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32191664</id>
+<title><![CDATA[BraveTart: Iconic American Desserts]]></title>
+<title_without_series><![CDATA[BraveTart: Iconic American Desserts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32191664-bravetart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479535573l/32191664._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479535573l/32191664._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>52832551</id>
+</work>
+<isbn>0393239861</isbn>
+<isbn13>9780393239867</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>15862252</id>
+<name>Stella Parks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15862252.Stella_Parks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35416420</id>
+<title><![CDATA[Once Upon a Chef, the Cookbook: 100 Tested, Perfected, and Family-Approved Recipes (Easy Healthy Cookbook, Family Cookbook, American Cookbook)]]></title>
+<title_without_series><![CDATA[Once Upon a Chef, the Cookbook: 100 Tested, Perfected, and Family-Approved Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35416420-once-upon-a-chef-the-cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>56790632</id>
+</work>
+<isbn>1452156182</isbn>
+<isbn13>9781452156187</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>16944974</id>
+<name>Jennifer Segal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16944974.Jennifer_Segal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36185815</id>
+<title><![CDATA[Murder with Cinnamon Scones (Daisy's Tea Garden Mystery #2)]]></title>
+<title_without_series>Murder with Cinnamon Scones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36185815-murder-with-cinnamon-scones]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517482516l/36185815._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517482516l/36185815._SY160_.jpg]]></image_url>
+<num_pages>293</num_pages>
+<work>
+<id>57808374</id>
+</work>
+<isbn>1617739626</isbn>
+<isbn13>9781617739620</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21863</id>
+<name>Karen Rose Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21863.Karen_Rose_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40265587</id>
+<title><![CDATA[Dinner for Everyone: 100 Iconic Dishes Made 3 Ways--Easy, Vegan, or Perfect for Company: A Cookbook]]></title>
+<title_without_series><![CDATA[Dinner for Everyone: 100 Iconic Dishes Made 3 Ways--Easy, Vegan, or Perfect for Company: A Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40265587-dinner-for-everyone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531864390l/40265587._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531864390l/40265587._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>62548532</id>
+</work>
+<isbn>0385344767</isbn>
+<isbn13>9780385344760</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1785</id>
+<name>Mark Bittman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1785.Mark_Bittman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34272569</id>
+<title><![CDATA[Dining In: Highly Cookable Recipes]]></title>
+<title_without_series><![CDATA[Dining In: Highly Cookable Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34272569-dining-in]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498848730l/34272569._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498848730l/34272569._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>55331003</id>
+</work>
+<isbn>045149699X</isbn>
+<isbn13>9780451496997</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>16210884</id>
+<name>Alison Roman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16210884.Alison_Roman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25045466</id>
+<title><![CDATA[The Episcopal Handbook, Revised Edition]]></title>
+<title_without_series><![CDATA[The Episcopal Handbook, Revised Edition]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25045466-the-episcopal-handbook-revised-edition]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>44724367</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3046698</id>
+<name>Tobias Stanislas Haller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3046698.Tobias_Stanislas_Haller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22500966</id>
+<title><![CDATA[Ruhlman's How to Braise: Foolproof Techniques and Recipes for the Home Cook]]></title>
+<title_without_series><![CDATA[Ruhlman's How to Braise: Foolproof Techniques and Recipes for the Home Cook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22500966-ruhlman-s-how-to-braise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403541351l/22500966._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403541351l/22500966._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>41947718</id>
+</work>
+<isbn>0316254134</isbn>
+<isbn13>9780316254137</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>13623</id>
+<name>Michael Ruhlman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13623.Michael_Ruhlman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40226096</id>
+<title><![CDATA[Feminist Cross-Stitch: 40 Bold  Fierce Patterns]]></title>
+<title_without_series><![CDATA[Feminist Cross-Stitch: 40 Bold  Fierce Patterns]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40226096-feminist-cross-stitch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545468116l/40226096._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545468116l/40226096._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>62473897</id>
+</work>
+<isbn>1454710802</isbn>
+<isbn13>9781454710806</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6079406</id>
+<name>Stephanie Rohr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6079406.Stephanie_Rohr]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

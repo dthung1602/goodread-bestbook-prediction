@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23341903</id>
+  <title><![CDATA[I Will Take a Nap! (Elephant & Piggie, #23)]]></title>
+  <isbn><![CDATA[1484716302]]></isbn>
+  <isbn13><![CDATA[9781484716304]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423402212l/23341903._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423402212l/23341903._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>Hyperion Books for Children</publisher>
+  <language_code>en-GB</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Gerald is careful. Piggie is not.<br />Piggie cannot help smiling. Gerald can.<br />Gerald worries so that Piggie does not have to.<br /><br />Gerald and Piggie are best friends.<br /><br />In <i>I Will Take a Nap!</i> Gerald is tired and cranky. Will Piggie be in his dreams? Or will she keep Gerald from dreaming at all?]]></description>
+  <work>
+  <id type="integer">42901366</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">23341903</best_book_id>
+  <reviews_count type="integer">6177</reviews_count>
+  <ratings_sum type="integer">12134</ratings_sum>
+  <ratings_count type="integer">2795</ratings_count>
+  <text_reviews_count type="integer">343</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title>I Will Take a Nap!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1426|4:965|3:345|2:50|1:9|total:2795</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1._O7Q6GYvJlqVcCiTyWB5Ng</work_uri>
+</work>
+  <average_rating>4.34</average_rating>
+  <num_pages><![CDATA[64]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2792]]></ratings_count>
+  <text_reviews_count><![CDATA[343]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23341903-i-will-take-a-nap]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23341903-i-will-take-a-nap]]></link>
+  <authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p5/33274.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199684071p2/33274.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>478995</ratings_count>
+<text_reviews_count>33201</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23341903-i-will-take-a-nap">I Will Take a Nap! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1484716302&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23341903-i-will-take-a-nap?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1979"/>
+      <shelf name="picture-books" count="261"/>
+      <shelf name="childrens" count="75"/>
+      <shelf name="children-s" count="64"/>
+      <shelf name="children" count="63"/>
+      <shelf name="children-s-books" count="61"/>
+      <shelf name="picture-book" count="52"/>
+      <shelf name="humor" count="45"/>
+      <shelf name="easy-reader" count="41"/>
+      <shelf name="kids" count="38"/>
+      <shelf name="childrens-books" count="33"/>
+      <shelf name="easy-readers" count="32"/>
+      <shelf name="fiction" count="31"/>
+      <shelf name="early-reader" count="31"/>
+      <shelf name="animals" count="30"/>
+      <shelf name="early-readers" count="28"/>
+      <shelf name="friendship" count="24"/>
+      <shelf name="kids-books" count="20"/>
+      <shelf name="beginning-readers" count="20"/>
+      <shelf name="series" count="18"/>
+      <shelf name="favorites" count="17"/>
+      <shelf name="currently-reading" count="17"/>
+      <shelf name="bedtime" count="17"/>
+      <shelf name="funny" count="17"/>
+      <shelf name="elephant-and-piggie" count="16"/>
+      <shelf name="read-in-2015" count="16"/>
+      <shelf name="storytime" count="15"/>
+      <shelf name="mo-willems" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="preschool" count="13"/>
+      <shelf name="children-books" count="12"/>
+      <shelf name="beginning-reader" count="12"/>
+      <shelf name="children-s-lit" count="11"/>
+      <shelf name="juvenile" count="10"/>
+      <shelf name="exploring-children" count="9"/>
+      <shelf name="picture" count="9"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="elephants" count="9"/>
+      <shelf name="children-s-literature" count="9"/>
+      <shelf name="children-s-picture-books" count="8"/>
+      <shelf name="kindergarten" count="8"/>
+      <shelf name="read-aloud" count="8"/>
+      <shelf name="pigs" count="8"/>
+      <shelf name="exploring-assignment" count="7"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="picturebooks" count="7"/>
+      <shelf name="reader" count="7"/>
+      <shelf name="kiddos" count="6"/>
+      <shelf name="friends" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="picture-books-2015" count="6"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="first-grade" count="5"/>
+      <shelf name="humorous" count="5"/>
+      <shelf name="dreams" count="5"/>
+      <shelf name="naps" count="5"/>
+      <shelf name="elementary" count="5"/>
+      <shelf name="oliver" count="4"/>
+      <shelf name="kids-read" count="4"/>
+      <shelf name="4-stars" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="favorite-series" count="4"/>
+      <shelf name="elephant-and-piggy" count="4"/>
+      <shelf name="bedtime-stories" count="4"/>
+      <shelf name="kid-s-books" count="4"/>
+      <shelf name="2015-picture-books" count="4"/>
+      <shelf name="preschool-storytime" count="4"/>
+      <shelf name="readers" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="i-can-read" count="3"/>
+      <shelf name="elephant-piggie" count="3"/>
+      <shelf name="junior-fiction" count="3"/>
+      <shelf name="read-with-kids" count="3"/>
+      <shelf name="anna" count="3"/>
+      <shelf name="read-to-son" count="3"/>
+      <shelf name="kids-shelf" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="children-picture" count="3"/>
+      <shelf name="read-alouds" count="3"/>
+      <shelf name="juvenile-fiction" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="sleep" count="3"/>
+      <shelf name="storytime-books" count="3"/>
+      <shelf name="easy" count="3"/>
+      <shelf name="storytime-reads" count="3"/>
+      <shelf name="feelings" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="beginner-reader" count="3"/>
+      <shelf name="fun" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="books-we-own" count="3"/>
+      <shelf name="great-read-alouds" count="3"/>
+      <shelf name="picture-books-read" count="3"/>
+      <shelf name="story-time" count="3"/>
+      <shelf name="1000-books-before-kindergarten" count="3"/>
+      <shelf name="children-s-books-read" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>703459</id>
+<user_position>23</user_position>
+<series>
+<id>54820</id>
+<title>
+<![CDATA[
+    Elephant & Piggie
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>29</series_works_count>
+<primary_work_count>26</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>28450988</id>
+<title><![CDATA[The Cookie Fiasco (Elephant & Piggie Like Reading!, #1)]]></title>
+<title_without_series>The Cookie Fiasco</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28450988-the-cookie-fiasco]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463950813l/28450988._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463950813l/28450988._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>48577906</id>
+</work>
+<isbn>1484726367</isbn>
+<isbn13>9781484726365</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41717242</id>
+<title><![CDATA[Harold & Hog Pretend For Real! (Elephant & Piggie Like Reading!, #6)]]></title>
+<title_without_series><![CDATA[Harold & Hog Pretend For Real!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41717242-harold-hog-pretend-for-real]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>65073199</id>
+</work>
+<isbn>1368027164</isbn>
+<isbn13>9781368027168</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28450986</id>
+<title><![CDATA[We Are Growing! (Elephant & Piggie like reading!, #2)]]></title>
+<title_without_series>We Are Growing!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28450986-we-are-growing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463948908l/28450986._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463948908l/28450986._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>48577904</id>
+</work>
+<isbn>1484726359</isbn>
+<isbn13>9781484726358</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>60929</id>
+<name>Laurie Keller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60929.Laurie_Keller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36204671</id>
+<title><![CDATA[The Itchy Book! (Elephant & Piggie Like Reading!, #5)]]></title>
+<title_without_series>The Itchy Book!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36204671-the-itchy-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517632906l/36204671._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517632906l/36204671._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>57835244</id>
+</work>
+<isbn>1368005640</isbn>
+<isbn13>9781368005647</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>65333</id>
+<name>LeUyen Pham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65333.LeUyen_Pham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20452213</id>
+<title><![CDATA[Pete the Cat and the Bad Banana]]></title>
+<title_without_series><![CDATA[Pete the Cat and the Bad Banana]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20452213-pete-the-cat-and-the-bad-banana]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313299l/20452213._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313299l/20452213._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>31832185</id>
+</work>
+<isbn>0062329405</isbn>
+<isbn13>9780062329400</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28512697</id>
+<title>Pete the Cat: Snow Daze</title>
+<title_without_series>Pete the Cat: Snow Daze</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28512697-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460313745l/28512697._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460313745l/28512697._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48669542</id>
+</work>
+<isbn>0062404253</isbn>
+<isbn13>9780062404251</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164532</id>
+<title><![CDATA[Fletcher and the Falling Leaves]]></title>
+<title_without_series><![CDATA[Fletcher and the Falling Leaves]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164532.Fletcher_and_the_Falling_Leaves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>158849</id>
+</work>
+<isbn>0061134015</isbn>
+<isbn13>9780061134012</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>95595</id>
+<name>Julia Rawlinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95595.Julia_Rawlinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18085446</id>
+<title><![CDATA[Pete the Cat: Too Cool for School]]></title>
+<title_without_series><![CDATA[Pete the Cat: Too Cool for School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18085446-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394224883l/18085446._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394224883l/18085446._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>25396077</id>
+</work>
+<isbn>0062110764</isbn>
+<isbn13>9780062110763</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>7192113</id>
+<name>Kimberly  Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7192113.Kimberly_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31934478</id>
+<title><![CDATA[The Good for Nothing Button (Elephant & Piggie Like Reading!, #3)]]></title>
+<title_without_series>The Good for Nothing Button</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31934478-the-good-for-nothing-button]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474731902l/31934478._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474731902l/31934478._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>52589332</id>
+</work>
+<isbn>1484726464</isbn>
+<isbn13>9781484726464</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>32416</id>
+<name>Charise Mericle Harper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32416.Charise_Mericle_Harper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40605683</id>
+<title>Cyril and Pat</title>
+<title_without_series>Cyril and Pat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40605683-cyril-and-pat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63069182</id>
+</work>
+<isbn>1509857273</isbn>
+<isbn13>9781509857272</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>99790</id>
+<name>Emily Gravett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99790.Emily_Gravett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20452218</id>
+<title>Pete the Cat and the New Guy</title>
+<title_without_series>Pete the Cat and the New Guy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20452218-pete-the-cat-and-the-new-guy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403207296l/20452218._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403207296l/20452218._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>31832409</id>
+</work>
+<isbn>0062345737</isbn>
+<isbn13>9780062345738</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7192113</id>
+<name>Kimberly  Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7192113.Kimberly_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18599891</id>
+<title><![CDATA[Pete the Cat: Twinkle, Twinkle, Little Star]]></title>
+<title_without_series><![CDATA[Pete the Cat: Twinkle, Twinkle, Little Star]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18599891-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397423069l/18599891._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397423069l/18599891._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26366095</id>
+</work>
+<isbn>0062324802</isbn>
+<isbn13>9780062324801</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35887186</id>
+<title><![CDATA[Pete the Cat's Groovy Bake Sale]]></title>
+<title_without_series><![CDATA[Pete the Cat's Groovy Bake Sale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35887186-pete-the-cat-s-groovy-bake-sale]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515309214l/35887186._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515309214l/35887186._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57403703</id>
+</work>
+<isbn>0062675249</isbn>
+<isbn13>9780062675248</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373414</id>
+<title>Mr. Monkey Bakes a Cake</title>
+<title_without_series>Mr. Monkey Bakes a Cake</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373414-mr-monkey-bakes-a-cake]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530433115l/36373414._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530433115l/36373414._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>58060734</id>
+</work>
+<isbn>1534404317</isbn>
+<isbn13>9781534404311</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2519133</id>
+<name>Jeff Mack</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2519133.Jeff_Mack]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2874727</id>
+<title>Where&apos;s My Mummy?</title>
+<title_without_series>Where&apos;s My Mummy?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2874727-where-s-my-mummy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320520024l/2874727._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320520024l/2874727._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2900890</id>
+</work>
+<isbn>0763631965</isbn>
+<isbn13>9780763631963</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>37254</id>
+<name>Carolyn Crimi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37254.Carolyn_Crimi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15818184</id>
+<title><![CDATA[Play Ball! (Pete the Cat: I Can Read)]]></title>
+<title_without_series>Play Ball!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15818184-play-ball]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353400097l/15818184._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353400097l/15818184._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>21545790</id>
+</work>
+<isbn>0062110675</isbn>
+<isbn13>9780062110671</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1505445</id>
+<name>James Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1505445.James_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20604335</id>
+<title>Pinkalicious: Tutu-rrific</title>
+<title_without_series>Pinkalicious: Tutu-rrific</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20604335-pinkalicious]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393013684l/20604335._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393013684l/20604335._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>37106450</id>
+</work>
+<isbn>0062187961</isbn>
+<isbn13>9780062187963</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1128174</id>
+<name>Victoria Kann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1128174.Victoria_Kann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>967253</id>
+<title>Pumpkin Pumpkin</title>
+<title_without_series>Pumpkin Pumpkin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/967253.Pumpkin_Pumpkin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>952150</id>
+</work>
+<isbn>0688099300</isbn>
+<isbn13>9780688099305</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2795</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>301404</id>
+<name>Jeanne Titherington</name>
+<link><![CDATA[https://www.goodreads.com/author/show/301404.Jeanne_Titherington]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>43263491</id>
+  <title>Toil &amp; Trouble</title>
+  <isbn><![CDATA[1250019958]]></isbn>
+  <isbn13><![CDATA[9781250019950]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550776804l/43263491._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550776804l/43263491._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>St. Martin's Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>From the number one <i>New York Times</i> bestselling author comes another stunning memoir that is tender, touching...and just a little spooky. </b><br /><br />"Here’s a partial list of things I don’t believe in: God. The Devil. Heaven. Hell. Bigfoot. Ancient Aliens. Past lives. Life after death. Vampires. Zombies. Reiki. Homeopathy. Rolfing. Reflexology. Note that 'witches' and 'witchcraft' are absent from this list. The thing is, I wouldn’t believe in them, and I would privately ridicule any idiot who did, except for one thing: I <i>am</i> a witch."<br /><br />For as long as Augusten Burroughs could remember, he knew things he shouldn't have known. He manifested things that shouldn't have come to pass. And he told exactly no one about this, save one person: his mother. His mother reassured him that it was all perfectly normal, that he was descended from a long line of witches, going back to the days of the early American colonies. And that this family tree was filled with witches. It was a bond that he and his mother shared--until the day she left him in the care of her psychiatrist to be raised in his family (but that's a whole other story). After that, Augusten was on his own. On his own to navigate the world of this tricky power; on his own to either use or misuse this gift.<br /><br />From the hilarious to the terrifying, <i>Toil &amp; Trouble</i> is a chronicle of one man's journey to understand himself, to reconcile the powers he can wield with things with which he is helpless. There are very few things that are coincidences, as you will learn in <i>Toil &amp; Trouble.</i> Ghosts are real, trees can want to kill you, beavers are the spawn of Satan, houses are alive, and in the end, love is the most powerful magic of all.]]></description>
+  <work>
+  <id type="integer">67142315</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">43263491</best_book_id>
+  <reviews_count type="integer">24257</reviews_count>
+  <ratings_sum type="integer">6979</ratings_sum>
+  <ratings_count type="integer">1705</ratings_count>
+  <text_reviews_count type="integer">400</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Toil &amp; Trouble</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:686|4:637|3:267|2:85|1:30|total:1705</rating_dist>
+  <desc_user_id type="integer">-1040</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.iFUtOPopBn8h7brXbe5Qvw</work_uri>
+</work>
+  <average_rating>4.09</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1456]]></ratings_count>
+  <text_reviews_count><![CDATA[363]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/43263491-toil-trouble]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/43263491-toil-trouble]]></link>
+  <authors>
+<author>
+<id>3058</id>
+<name>Augusten Burroughs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459810857p5/3058.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1459810857p2/3058.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3058.Augusten_Burroughs]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>583319</ratings_count>
+<text_reviews_count>25556</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/43263491-toil-trouble">Toil &amp;amp; Trouble Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250019958&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/43263491-toil-trouble?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="19531"/>
+      <shelf name="currently-reading" count="593"/>
+      <shelf name="non-fiction" count="110"/>
+      <shelf name="memoir" count="110"/>
+      <shelf name="nonfiction" count="73"/>
+      <shelf name="biography" count="43"/>
+      <shelf name="memoirs" count="25"/>
+      <shelf name="giveaways" count="22"/>
+      <shelf name="humor" count="18"/>
+      <shelf name="read-in-2019" count="12"/>
+      <shelf name="favorites" count="11"/>
+      <shelf name="arc" count="11"/>
+      <shelf name="2019-releases" count="11"/>
+      <shelf name="library" count="11"/>
+      <shelf name="biography-memoir" count="11"/>
+      <shelf name="audiobooks" count="10"/>
+      <shelf name="magic" count="10"/>
+      <shelf name="witches" count="10"/>
+      <shelf name="dnf" count="9"/>
+      <shelf name="maybe" count="9"/>
+      <shelf name="memoir-biography" count="9"/>
+      <shelf name="audio" count="8"/>
+      <shelf name="netgalley" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="autobiography" count="8"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="to-read-nonfiction" count="7"/>
+      <shelf name="witchy" count="6"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="witch" count="6"/>
+      <shelf name="biographies" count="6"/>
+      <shelf name="fiction" count="6"/>
+      <shelf name="first-reads" count="6"/>
+      <shelf name="arcs" count="6"/>
+      <shelf name="non-fic" count="6"/>
+      <shelf name="tbr-nonfiction" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="bio-memoir" count="5"/>
+      <shelf name="book-club" count="5"/>
+      <shelf name="halloween" count="5"/>
+      <shelf name="lgbtq" count="5"/>
+      <shelf name="adult" count="5"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="giveaway" count="5"/>
+      <shelf name="lgbt" count="5"/>
+      <shelf name="witchcraft" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="2019-books" count="4"/>
+      <shelf name="audio-book" count="4"/>
+      <shelf name="fantasy" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="autobiography-memoir" count="4"/>
+      <shelf name="memoirs-biographies" count="4"/>
+      <shelf name="non-fiction-to-read" count="3"/>
+      <shelf name="adult-nonfiction" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="biographies-memoirs" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="not-interested" count="3"/>
+      <shelf name="audio-books" count="3"/>
+      <shelf name="paranormal" count="3"/>
+      <shelf name="2019-reading-challenge" count="3"/>
+      <shelf name="2019-october" count="3"/>
+      <shelf name="edelweiss" count="3"/>
+      <shelf name="adult-non-fiction" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="giveaway-wins" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="memoirs-and-biographies" count="3"/>
+      <shelf name="2019-reads" count="3"/>
+      <shelf name="unfinished" count="2"/>
+      <shelf name="memoirs-by-men" count="2"/>
+      <shelf name="memoir-autobiography" count="2"/>
+      <shelf name="goodreads-choice-awards" count="2"/>
+      <shelf name="mental-illness" count="2"/>
+      <shelf name="read-2019" count="2"/>
+      <shelf name="2019-goodreads-choice-awards" count="2"/>
+      <shelf name="spirituality" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="biography-memoirs" count="2"/>
+      <shelf name="did-not-finish" count="2"/>
+      <shelf name="biography-autobiography" count="2"/>
+      <shelf name="2019-read" count="2"/>
+      <shelf name="supernatural" count="2"/>
+      <shelf name="on-my-radar" count="2"/>
+      <shelf name="funny" count="2"/>
+      <shelf name="quirky" count="2"/>
+      <shelf name="biography-memoir-autobiography" count="2"/>
+      <shelf name="tbr-non-fiction" count="2"/>
+      <shelf name="lgbtqiap" count="2"/>
+      <shelf name="nonfiction-tbr" count="2"/>
+      <shelf name="need-to-buy" count="2"/>
+      <shelf name="memoir-bio" count="2"/>
+      <shelf name="stand-alone" count="2"/>
+      <shelf name="lgbtqia" count="2"/>
+      <shelf name="not-owned" count="2"/>
+      <shelf name="october-2019" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>44303730</id>
+<title>Me</title>
+<title_without_series>Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44303730-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68837791</id>
+</work>
+<isbn>1250147603</isbn>
+<isbn13>9781250147608</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>103812</id>
+<name>Elton John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103812.Elton_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38362811</id>
+<title>The Witches Are Coming</title>
+<title_without_series>The Witches Are Coming</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38362811-the-witches-are-coming]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552089064l/38362811._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552089064l/38362811._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>60027880</id>
+</work>
+<isbn>0316449881</isbn>
+<isbn13>9780316449885</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5365754</id>
+<name>Lindy West</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5365754.Lindy_West]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42478640</id>
+<title><![CDATA[Tuesday Mooney Talks to Ghosts]]></title>
+<title_without_series><![CDATA[Tuesday Mooney Talks to Ghosts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42478640-tuesday-mooney-talks-to-ghosts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547955025l/42478640._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547955025l/42478640._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>65079818</id>
+</work>
+<isbn>0358023939</isbn>
+<isbn13>9780358023937</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>3279983</id>
+<name>Kate Racculia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3279983.Kate_Racculia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43684727</id>
+<title>The Grammarians</title>
+<title_without_series>The Grammarians</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43684727-the-grammarians]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556830342l/43684727._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556830342l/43684727._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67966085</id>
+</work>
+<isbn>125024174X</isbn>
+<isbn13>9781250241740</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>127216</id>
+<name>Cathleen Schine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127216.Cathleen_Schine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44284906</id>
+<title>Little Weirds</title>
+<title_without_series>Little Weirds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44284906-little-weirds]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551816579l/44284906._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551816579l/44284906._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>68800663</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4799196</id>
+<name>Jenny Slate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4799196.Jenny_Slate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43697186</id>
+<title>Red at the Bone</title>
+<title_without_series>Red at the Bone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43697186-red-at-the-bone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555530960l/43697186._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555530960l/43697186._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>67992446</id>
+</work>
+<isbn>0525535276</isbn>
+<isbn13>9780525535270</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43984883</id>
+<title>Olive, Again</title>
+<title_without_series>Olive, Again</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43984883-olive-again]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555968216l/43984883._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555968216l/43984883._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>66502791</id>
+</work>
+<isbn>0812996542</isbn>
+<isbn13>9780812996548</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>97313</id>
+<name>Elizabeth Strout</name>
+<link><![CDATA[https://www.goodreads.com/author/show/97313.Elizabeth_Strout]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822062</id>
+<title>The World That We Knew</title>
+<title_without_series>The World That We Knew</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822062-the-world-that-we-knew]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567346309l/43822062._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567346309l/43822062._SX98_.jpg]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>68193271</id>
+</work>
+<isbn>1501137573</isbn>
+<isbn13>9781501137570</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3502</id>
+<name>Alice Hoffman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3502.Alice_Hoffman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43785830</id>
+<title><![CDATA[Will My Cat Eat My Eyeballs?: Big Questions from Tiny Mortals About Death]]></title>
+<title_without_series><![CDATA[Will My Cat Eat My Eyeballs?: Big Questions from Tiny Mortals About Death]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43785830-will-my-cat-eat-my-eyeballs]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554396038l/43785830._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554396038l/43785830._SX98_.jpg]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>68120089</id>
+</work>
+<isbn>039365270X</isbn>
+<isbn13>9780393652703</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7802044</id>
+<name>Caitlin Doughty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7802044.Caitlin_Doughty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45167624</id>
+<title>Inside Out</title>
+<title_without_series>Inside Out</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45167624-inside-out]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558586807l/45167624._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558586807l/45167624._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>69869756</id>
+</work>
+<isbn>0062049534</isbn>
+<isbn13>9780062049537</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2542810</id>
+<name>Demi Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2542810.Demi_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43522576</id>
+<title>Imaginary Friend</title>
+<title_without_series>Imaginary Friend</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43522576-imaginary-friend]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550723936l/43522576._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550723936l/43522576._SX98_.jpg]]></image_url>
+<num_pages>720</num_pages>
+<work>
+<id>60098809</id>
+</work>
+<isbn>1538731339</isbn>
+<isbn13>9781538731338</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12898</id>
+<name>Stephen Chbosky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12898.Stephen_Chbosky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44600621</id>
+<title><![CDATA[Dear Girls: Intimate Tales, Untold Secrets, and Advice for Living Your Best Life]]></title>
+<title_without_series><![CDATA[Dear Girls: Intimate Tales, Untold Secrets, and Advice for Living Your Best Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44600621-dear-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553635552l/44600621._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553635552l/44600621._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>69234815</id>
+</work>
+<isbn>052550883X</isbn>
+<isbn13>9780525508830</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>19001530</id>
+<name>Ali Wong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19001530.Ali_Wong]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42519313</id>
+<title>Nothing to See Here</title>
+<title_without_series>Nothing to See Here</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42519313-nothing-to-see-here]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559591792l/42519313._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559591792l/42519313._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>66239115</id>
+</work>
+<isbn>0062913484</isbn>
+<isbn13>9780062913487</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>73187</id>
+<name>Kevin    Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73187.Kevin_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43261190</id>
+<title>All This Could Be Yours</title>
+<title_without_series>All This Could Be Yours</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43261190-all-this-could-be-yours]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549479746l/43261190._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549479746l/43261190._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>67138969</id>
+</work>
+<isbn>0544824253</isbn>
+<isbn13>9780544824256</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>215765</id>
+<name>Jami Attenberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/215765.Jami_Attenberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41824023</id>
+<title><![CDATA[Over the Top: A Raw Journey to Self-Love]]></title>
+<title_without_series><![CDATA[Over the Top: A Raw Journey to Self-Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41824023-over-the-top]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564864774l/41824023._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564864774l/41824023._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65274850</id>
+</work>
+<isbn>0062906402</isbn>
+<isbn13>9780062906403</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>18259219</id>
+<name>Jonathan Van Ness</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18259219.Jonathan_Van_Ness]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43886044</id>
+<title>Initiated: Memoir of a Witch</title>
+<title_without_series>Initiated: Memoir of a Witch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43886044-initiated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566292576l/43886044._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566292576l/43886044._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68280418</id>
+</work>
+<isbn>1538763052</isbn>
+<isbn13>9781538763056</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>17913953</id>
+<name>Amanda Yates Garcia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17913953.Amanda_Yates_Garcia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43798285</id>
+<title>The Institute</title>
+<title_without_series>The Institute</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43798285-the-institute]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SX98_.jpg]]></image_url>
+<num_pages>561</num_pages>
+<work>
+<id>68147322</id>
+</work>
+<isbn>1982110562</isbn>
+<isbn13>9781982110567</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42202046</id>
+<title><![CDATA[Waking the Witch: Reflections on Women, Magic, and Power]]></title>
+<title_without_series><![CDATA[Waking the Witch: Reflections on Women, Magic, and Power]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42202046-waking-the-witch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555270399l/42202046._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555270399l/42202046._SY160_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>65814529</id>
+</work>
+<isbn>1982100702</isbn>
+<isbn13>9781982100704</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1705</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>13952214</id>
+<name>Pam Grossman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13952214.Pam_Grossman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

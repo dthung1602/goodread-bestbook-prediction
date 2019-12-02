@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9630403</id>
+  <title>Level Up</title>
+  <isbn><![CDATA[1596432357]]></isbn>
+  <isbn13><![CDATA[9781596432352]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327944177l/9630403._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327944177l/9630403._SX50_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>First Second</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Dennis Ouyang has always struggled in the shadow of his parents' expectations. His path is laid out for him: stay focused in high school, become a gastroenterologist. It may be hard work, but it isn't complicated … until suddenly it is.<br /><br />Between his father's death, his academic burnout, and his deep (and distracting) love of video games, Dennis is nowhere near where his family wanted him to be. In fact, he's just been kicked out of college.<br /><br />And that's when things get … weird.<br /><br />Four adorable—and bossy--angels, straight out of a sappy greeting card, appear and take charge of Dennis's life. And so Dennis finds himself herded back onto the straight and narrow: the path to gastroenterology. But nothing is ever what it seems when life, magic and video games collide.]]></description>
+  <work>
+  <id type="integer">14517713</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">9630403</best_book_id>
+  <reviews_count type="integer">12710</reviews_count>
+  <ratings_sum type="integer">20616</ratings_sum>
+  <ratings_count type="integer">5499</ratings_count>
+  <text_reviews_count type="integer">755</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Level Up</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1370|4:2026|3:1580|2:399|1:124|total:5499</rating_dist>
+  <desc_user_id type="integer">-1022</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.EjxOkvBTNAOCaRRSnnC59A</work_uri>
+</work>
+  <average_rating>3.75</average_rating>
+  <num_pages><![CDATA[160]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5299]]></ratings_count>
+  <text_reviews_count><![CDATA[708]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9630403-level-up]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9630403-level-up]]></link>
+  <authors>
+<author>
+<id>68959</id>
+<name>Gene Luen Yang</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415919636p5/68959.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415919636p2/68959.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/68959.Gene_Luen_Yang]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>259953</ratings_count>
+<text_reviews_count>21683</text_reviews_count>
+</author>
+<author>
+<id>4442162</id>
+<name>Thien Pham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1447270034p5/4442162.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1447270034p2/4442162.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4442162.Thien_Pham]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>7313</ratings_count>
+<text_reviews_count>1243</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9630403-level-up">Level Up Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1596432357&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9630403-level-up?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6600"/>
+      <shelf name="graphic-novels" count="551"/>
+      <shelf name="graphic-novel" count="345"/>
+      <shelf name="young-adult" count="169"/>
+      <shelf name="comics" count="153"/>
+      <shelf name="ya" count="111"/>
+      <shelf name="fiction" count="83"/>
+      <shelf name="teen" count="44"/>
+      <shelf name="currently-reading" count="42"/>
+      <shelf name="fantasy" count="40"/>
+      <shelf name="graphic" count="40"/>
+      <shelf name="library" count="33"/>
+      <shelf name="graphic-novels-comics" count="28"/>
+      <shelf name="comics-graphic-novels" count="28"/>
+      <shelf name="coming-of-age" count="27"/>
+      <shelf name="video-games" count="22"/>
+      <shelf name="favorites" count="19"/>
+      <shelf name="family" count="18"/>
+      <shelf name="gaming" count="18"/>
+      <shelf name="magical-realism" count="17"/>
+      <shelf name="asian-american" count="15"/>
+      <shelf name="adult" count="14"/>
+      <shelf name="comics-and-graphic-novels" count="13"/>
+      <shelf name="humor" count="13"/>
+      <shelf name="graphicnovels" count="13"/>
+      <shelf name="realistic-fiction" count="12"/>
+      <shelf name="ya-fiction" count="12"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="graphic-novels-and-comics" count="11"/>
+      <shelf name="first-second" count="11"/>
+      <shelf name="comic" count="10"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="school" count="9"/>
+      <shelf name="contemporary" count="9"/>
+      <shelf name="graphics" count="8"/>
+      <shelf name="ya-graphic-novels" count="8"/>
+      <shelf name="graphic-novels-manga" count="8"/>
+      <shelf name="realistic" count="8"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="poc-author" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="comic-graphic-novel" count="7"/>
+      <shelf name="graphic-novel-comics" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="angels" count="7"/>
+      <shelf name="comic-books" count="7"/>
+      <shelf name="friendship" count="7"/>
+      <shelf name="read-in-2011" count="7"/>
+      <shelf name="diversity" count="6"/>
+      <shelf name="read-in-2013" count="6"/>
+      <shelf name="read-in-2012" count="6"/>
+      <shelf name="ya-lit" count="6"/>
+      <shelf name="high-school" count="6"/>
+      <shelf name="games" count="6"/>
+      <shelf name="gn" count="6"/>
+      <shelf name="biography" count="6"/>
+      <shelf name="multicultural" count="6"/>
+      <shelf name="middle-grade" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="from-library" count="5"/>
+      <shelf name="medical" count="5"/>
+      <shelf name="young-adult-fiction" count="5"/>
+      <shelf name="sequential-art" count="5"/>
+      <shelf name="families" count="5"/>
+      <shelf name="teen-graphic-novel" count="5"/>
+      <shelf name="from-the-library" count="5"/>
+      <shelf name="illustrated" count="5"/>
+      <shelf name="college" count="5"/>
+      <shelf name="manga-comics" count="5"/>
+      <shelf name="youngadult" count="5"/>
+      <shelf name="ya-books" count="5"/>
+      <shelf name="graphicnovel" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="teen-fiction" count="5"/>
+      <shelf name="2016-reads" count="4"/>
+      <shelf name="fathers" count="4"/>
+      <shelf name="new-adult" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="we-need-diverse-books" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="graphic-comic" count="4"/>
+      <shelf name="teens" count="4"/>
+      <shelf name="2013-reads" count="4"/>
+      <shelf name="school-books" count="4"/>
+      <shelf name="teen-graphic-novels" count="4"/>
+      <shelf name="asian-americans" count="4"/>
+      <shelf name="medical-school" count="4"/>
+      <shelf name="graphic-novels-comic-books" count="4"/>
+      <shelf name="young-adult-lit" count="4"/>
+      <shelf name="comics-graphic-novel" count="4"/>
+      <shelf name="gns" count="4"/>
+      <shelf name="to-read-comics" count="4"/>
+      <shelf name="read-2012" count="4"/>
+      <shelf name="memoir" count="4"/>
+      <shelf name="want-to-read" count="4"/>
+      <shelf name="male-protagonist" count="4"/>
+      <shelf name="chinese-american" count="4"/>
+      <shelf name="ya-graphic-novel" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>8928004</id>
+<title>Page by Paige</title>
+<title_without_series>Page by Paige</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8928004-page-by-paige]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481585388l/8928004._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481585388l/8928004._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>13804487</id>
+</work>
+<isbn>0810997223</isbn>
+<isbn13>9780810997226</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4215822</id>
+<name>Laura Lee Gulledge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4215822.Laura_Lee_Gulledge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11222378</id>
+<title>Same Difference</title>
+<title_without_series>Same Difference</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11222378-same-difference]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312079710l/11222378._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312079710l/11222378._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>16148126</id>
+</work>
+<isbn>1596436573</isbn>
+<isbn13>9781596436572</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>12</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>150817</id>
+<name>Derek Kirk Kim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150817.Derek_Kirk_Kim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8044106</id>
+<title>Brain Camp</title>
+<title_without_series>Brain Camp</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8044106-brain-camp]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>12679817</id>
+</work>
+<isbn>1596433663</isbn>
+<isbn13>9781596433663</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>452117</id>
+<name>Susan Kim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/452117.Susan_Kim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9615347</id>
+<title>Anya&apos;s Ghost</title>
+<title_without_series>Anya&apos;s Ghost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9615347-anya-s-ghost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316739317l/9615347._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316739317l/9615347._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>14279456</id>
+</work>
+<isbn>1596437138</isbn>
+<isbn13>9781596437135</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>568999</id>
+<name>Vera Brosgol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/568999.Vera_Brosgol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6634538</id>
+<title>Mercury</title>
+<title_without_series>Mercury</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6634538-mercury]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288021804l/6634538._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288021804l/6634538._SX98_.jpg]]></image_url>
+<num_pages>234</num_pages>
+<work>
+<id>6828939</id>
+</work>
+<isbn>1416935851</isbn>
+<isbn13>9781416935858</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>150820</id>
+<name>Hope Larson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150820.Hope_Larson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21469148</id>
+<title><![CDATA[Princess Decomposia and Count Spatula]]></title>
+<title_without_series><![CDATA[Princess Decomposia and Count Spatula]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21469148-princess-decomposia-and-count-spatula]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404176232l/21469148._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404176232l/21469148._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>40787033</id>
+</work>
+<isbn>1626721491</isbn>
+<isbn13>9781626721494</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1022975</id>
+<name>Andi Watson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1022975.Andi_Watson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7293595</id>
+<title>Ghostopolis</title>
+<title_without_series>Ghostopolis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7293595-ghostopolis]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837790l/7293595._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837790l/7293595._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>8598086</id>
+</work>
+<isbn>0545210283</isbn>
+<isbn13>9780545210287</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45687</id>
+<name>Doug TenNapel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45687.Doug_TenNapel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13541584</id>
+<title>Will &amp; Whit</title>
+<title_without_series>Will &amp; Whit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13541584-will-whit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459240394l/13541584._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459240394l/13541584._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>19105354</id>
+</work>
+<isbn>1419705466</isbn>
+<isbn13>9781419705465</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4215822</id>
+<name>Laura Lee Gulledge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4215822.Laura_Lee_Gulledge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11389398</id>
+<title>Friends With Boys</title>
+<title_without_series>Friends With Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11389398-friends-with-boys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317794304l/11389398._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317794304l/11389398._SX98_.jpg]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>16321405</id>
+</work>
+<isbn>1596435569</isbn>
+<isbn13>9781596435568</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>996558</id>
+<name>Faith Erin Hicks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/996558.Faith_Erin_Hicks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20575446</id>
+<title>In Real Life</title>
+<title_without_series>In Real Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20575446-in-real-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391127564l/20575446._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391127564l/20575446._SX98_.jpg]]></image_url>
+<num_pages>175</num_pages>
+<work>
+<id>39843450</id>
+</work>
+<isbn>1596436581</isbn>
+<isbn13>9781596436589</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>12581</id>
+<name>Cory Doctorow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12581.Cory_Doctorow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40629849</id>
+<title><![CDATA[Ink Knows No Borders: Poems of the Immigrant and Refugee Experience]]></title>
+<title_without_series><![CDATA[Ink Knows No Borders: Poems of the Immigrant and Refugee Experience]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40629849-ink-knows-no-borders]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541784135l/40629849._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541784135l/40629849._SX98_.jpg]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>63133137</id>
+</work>
+<isbn>1609809076</isbn>
+<isbn13>9781609809072</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13963475</id>
+<name>Patrice Vecchione</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13963475.Patrice_Vecchione]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16002011</id>
+<title>Nothing Can Possibly Go Wrong</title>
+<title_without_series>Nothing Can Possibly Go Wrong</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16002011-nothing-can-possibly-go-wrong]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352781088l/16002011._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352781088l/16002011._SX98_.jpg]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>21763967</id>
+</work>
+<isbn>159643659X</isbn>
+<isbn13>9781596436596</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>6558611</id>
+<name>Prudence Shen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6558611.Prudence_Shen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31145130</id>
+<title>Shattered Warrior</title>
+<title_without_series>Shattered Warrior</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31145130-shattered-warrior]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477492213l/31145130._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477492213l/31145130._SX98_.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>51774780</id>
+</work>
+<isbn>1626720894</isbn>
+<isbn13>9781626720893</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>28544</id>
+<name>Sharon Shinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28544.Sharon_Shinn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39741376</id>
+<title>Grand Theft Horse</title>
+<title_without_series>Grand Theft Horse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39741376-grand-theft-horse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529939226l/39741376._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529939226l/39741376._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>61438365</id>
+</work>
+<isbn>1620148552</isbn>
+<isbn13>9781620148556</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>998418</id>
+<name>G. Neri</name>
+<link><![CDATA[https://www.goodreads.com/author/show/998418.G_Neri]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18465566</id>
+<title>This One Summer</title>
+<title_without_series>This One Summer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18465566-this-one-summer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456895195l/18465566._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456895195l/18465566._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>26123543</id>
+</work>
+<isbn>1626720940</isbn>
+<isbn13>9781626720947</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>483588</id>
+<name>Mariko Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/483588.Mariko_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12180222</id>
+<title>Ichiro</title>
+<title_without_series>Ichiro</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12180222-ichiro]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>17151972</id>
+</work>
+<isbn>0547252692</isbn>
+<isbn13>9780547252698</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>57724</id>
+<name>Ryan Inzana</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57724.Ryan_Inzana]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25689013</id>
+<title>Cast No Shadow</title>
+<title_without_series>Cast No Shadow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25689013-cast-no-shadow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487087797l/25689013._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487087797l/25689013._SX98_.jpg]]></image_url>
+<num_pages>219</num_pages>
+<work>
+<id>45517418</id>
+</work>
+<isbn>1596438770</isbn>
+<isbn13>9781596438774</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>820017</id>
+<name>Nick Tapalansky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/820017.Nick_Tapalansky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33163360</id>
+<title>Pashmina</title>
+<title_without_series>Pashmina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33163360-pashmina]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488162000l/33163360._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488162000l/33163360._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>41194056</id>
+</work>
+<isbn>1626720878</isbn>
+<isbn13>9781626720879</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>5499</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8139656</id>
+<name>Nidhi Chanani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8139656.Nidhi_Chanani]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

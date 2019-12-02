@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>41451728</id>
+  <title>We Are (Not) Friends</title>
+  <isbn><![CDATA[1542044286]]></isbn>
+  <isbn13><![CDATA[9781542044288]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560770509l/41451728._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560770509l/41451728._SX50_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Two Lions</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Two fuzzy friends are having a fun playdate when a new pal hops in. As the day continues, each friend feels left out at times. It isn’t so easy to figure out how to act when everything seems to change. With humor and heart, the beloved characters from Theodor Seuss Geisel Award winner <i>You Are (Not) Small</i> navigate a friendship triangle as only they can.]]></description>
+  <work>
+  <id type="integer">64706451</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">41451728</best_book_id>
+  <reviews_count type="integer">7009</reviews_count>
+  <ratings_sum type="integer">5897</ratings_sum>
+  <ratings_count type="integer">1530</ratings_count>
+  <text_reviews_count type="integer">157</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:574|4:455|3:304|2:98|1:99|total:1530</rating_dist>
+  <desc_user_id type="integer">-1010</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.l2hvRSpoy3v6VAexHYC4UQ</work_uri>
+</work>
+  <average_rating>3.85</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1106]]></ratings_count>
+  <text_reviews_count><![CDATA[93]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/41451728-we-are-not-friends]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/41451728-we-are-not-friends]]></link>
+  <authors>
+<author>
+<id>7889837</id>
+<name>Anna Kang</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533758478p5/7889837.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533758478p2/7889837.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7889837.Anna_Kang]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>10814</ratings_count>
+<text_reviews_count>1526</text_reviews_count>
+</author>
+<author>
+<id>7889838</id>
+<name>Christopher Weyant</name>
+<role>Illustrations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7889838.Christopher_Weyant]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>11249</ratings_count>
+<text_reviews_count>1628</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/41451728-we-are-not-friends">We Are (Not) Friends Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1542044286&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/41451728-we-are-not-friends?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4842"/>
+      <shelf name="currently-reading" count="96"/>
+      <shelf name="picture-books" count="88"/>
+      <shelf name="picture-book" count="42"/>
+      <shelf name="friendship" count="38"/>
+      <shelf name="childrens" count="22"/>
+      <shelf name="children" count="17"/>
+      <shelf name="animals" count="14"/>
+      <shelf name="children-s" count="14"/>
+      <shelf name="read-in-2019" count="10"/>
+      <shelf name="children-s-books" count="10"/>
+      <shelf name="friends" count="9"/>
+      <shelf name="kids-books" count="9"/>
+      <shelf name="kids" count="8"/>
+      <shelf name="storytime" count="7"/>
+      <shelf name="2019-picture-books" count="5"/>
+      <shelf name="humor" count="5"/>
+      <shelf name="library" count="4"/>
+      <shelf name="jealousy" count="4"/>
+      <shelf name="read-2019" count="4"/>
+      <shelf name="picture" count="4"/>
+      <shelf name="childrens-books" count="4"/>
+      <shelf name="kindle" count="4"/>
+      <shelf name="read-aloud" count="3"/>
+      <shelf name="2019-releases" count="3"/>
+      <shelf name="bears" count="3"/>
+      <shelf name="kid-s-books" count="3"/>
+      <shelf name="feelings" count="3"/>
+      <shelf name="pb" count="3"/>
+      <shelf name="sharing" count="3"/>
+      <shelf name="children-s-lit" count="3"/>
+      <shelf name="picture-books-2019" count="3"/>
+      <shelf name="juvenile" count="3"/>
+      <shelf name="favorites" count="3"/>
+      <shelf name="children-fiction" count="3"/>
+      <shelf name="kindle-books" count="3"/>
+      <shelf name="giveaways" count="3"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="story-time" count="2"/>
+      <shelf name="age-children" count="2"/>
+      <shelf name="grca19" count="2"/>
+      <shelf name="emotions" count="2"/>
+      <shelf name="teaching" count="2"/>
+      <shelf name="pre-k" count="2"/>
+      <shelf name="2019-read" count="2"/>
+      <shelf name="easy-readers" count="2"/>
+      <shelf name="play" count="2"/>
+      <shelf name="children-s-picture-books" count="2"/>
+      <shelf name="children-s-picture-book" count="2"/>
+      <shelf name="kid" count="2"/>
+      <shelf name="1st-grade" count="2"/>
+      <shelf name="easy" count="2"/>
+      <shelf name="early-reader" count="2"/>
+      <shelf name="picture-book-or-board-book" count="2"/>
+      <shelf name="preschool" count="2"/>
+      <shelf name="funny" count="2"/>
+      <shelf name="not-interested" count="2"/>
+      <shelf name="making-friends" count="2"/>
+      <shelf name="children-picture-books" count="2"/>
+      <shelf name="kindergarten" count="2"/>
+      <shelf name="2019-picture-book" count="2"/>
+      <shelf name="kiddos" count="2"/>
+      <shelf name="m-s-2-000-books" count="1"/>
+      <shelf name="hn" count="1"/>
+      <shelf name="goodreads-choice-nominee" count="1"/>
+      <shelf name="classroom" count="1"/>
+      <shelf name="choices" count="1"/>
+      <shelf name="want-to-read-h2" count="1"/>
+      <shelf name="children-s-library" count="1"/>
+      <shelf name="plain-old-fiction" count="1"/>
+      <shelf name="week-6" count="1"/>
+      <shelf name="2019-choice-awards" count="1"/>
+      <shelf name="dashiell" count="1"/>
+      <shelf name="children-fiction-l2" count="1"/>
+      <shelf name="wndb" count="1"/>
+      <shelf name="kid-stuff" count="1"/>
+      <shelf name="books-for-mirabel" count="1"/>
+      <shelf name="bookaday-prospects-2020" count="1"/>
+      <shelf name="pb-preschool-story-time" count="1"/>
+      <shelf name="2019-bibliography" count="1"/>
+      <shelf name="zv-tbr" count="1"/>
+      <shelf name="to-read-maybe" count="1"/>
+      <shelf name="classics-literary-fiction" count="1"/>
+      <shelf name="buy-for-library-potential" count="1"/>
+      <shelf name="books-for-gus" count="1"/>
+      <shelf name="for-the-kids" count="1"/>
+      <shelf name="read-to-olivia" count="1"/>
+      <shelf name="family-story-time" count="1"/>
+      <shelf name="shelf-1" count="1"/>
+      <shelf name="booklist-goodreads-best-of-year" count="1"/>
+      <shelf name="k-3" count="1"/>
+      <shelf name="future-children" count="1"/>
+      <shelf name="2020" count="1"/>
+      <shelf name="children-s-picturebooks" count="1"/>
+      <shelf name="group-gr-read4-2020" count="1"/>
+      <shelf name="stand-alone" count="1"/>
+      <shelf name="picture-books-kids" count="1"/>
+      <shelf name="for-alanna" count="1"/>
+      <shelf name="books-read-in-2019" count="1"/>
+      <shelf name="pub2019" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1519694</id>
+<user_position>4</user_position>
+<series>
+<id>275764</id>
+<title>
+<![CDATA[
+    You Are (Not) Small
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>5</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>41183554</id>
+<title>A Piglet Named Mercy</title>
+<title_without_series>A Piglet Named Mercy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41183554-a-piglet-named-mercy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546467777l/41183554._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64361636</id>
+</work>
+<isbn>0763677531</isbn>
+<isbn13>9780763677534</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41451729</id>
+<title><![CDATA[Vacation for Dexter! (Dexter T. Rexter, #3)]]></title>
+<title_without_series>Vacation for Dexter!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41451729-vacation-for-dexter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541502318l/41451729._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541502318l/41451729._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>64706452</id>
+</work>
+<isbn>1542043204</isbn>
+<isbn13>9781542043205</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3426409</id>
+<name>Lindsay Ward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3426409.Lindsay_Ward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41954471</id>
+<title><![CDATA[What If Everybody Thought That?]]></title>
+<title_without_series><![CDATA[What If Everybody Thought That?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41954471-what-if-everybody-thought-that]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554313139l/41954471._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554313139l/41954471._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>65462045</id>
+</work>
+<isbn>1542091373</isbn>
+<isbn13>9781542091374</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>493352</id>
+<name>Ellen Javernick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/493352.Ellen_Javernick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38595349</id>
+<title>Unicorn Day</title>
+<title_without_series>Unicorn Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38595349-unicorn-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545944648l/38595349._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>60200136</id>
+</work>
+<isbn>1492667226</isbn>
+<isbn13>9781492667223</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14153562</id>
+<name>Diana  Murray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14153562.Diana_Murray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43671848</id>
+<title>Just Because</title>
+<title_without_series>Just Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43671848-just-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67946194</id>
+</work>
+<isbn>0763696803</isbn>
+<isbn13>9780763696801</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43382142</id>
+<title><![CDATA[Rosie the Dragon and Charlie Make Waves]]></title>
+<title_without_series><![CDATA[Rosie the Dragon and Charlie Make Waves]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43382142-rosie-the-dragon-and-charlie-make-waves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67397359</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2313938</id>
+<name>Lauren H. Kerstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2313938.Lauren_H_Kerstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42931503</id>
+<title>A Tiger Like Me</title>
+<title_without_series>A Tiger Like Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42931503-a-tiger-like-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666035l/42931503._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666035l/42931503._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>66714130</id>
+</work>
+<isbn>1542044561</isbn>
+<isbn13>9781542044561</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>876551</id>
+<name>Michael Engler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/876551.Michael_Engler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36236592</id>
+<title><![CDATA[It's Not Hansel and Gretel (It's Not a Fairy Tale, #2)]]></title>
+<title_without_series>It&apos;s Not Hansel and Gretel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36236592-it-s-not-hansel-and-gretel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532702149l/36236592._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532702149l/36236592._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57879022</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8642874</id>
+<name>Josh Funk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8642874.Josh_Funk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41954472</id>
+<title><![CDATA[Pirates Don't Go to Kindergarten!]]></title>
+<title_without_series><![CDATA[Pirates Don't Go to Kindergarten!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41954472-pirates-don-t-go-to-kindergarten]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544906514l/41954472._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544906514l/41954472._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>65462046</id>
+</work>
+<isbn>1542092752</isbn>
+<isbn13>9781542092753</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18701472</id>
+<name>Lisa     Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18701472.Lisa_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42350073</id>
+<title>How to Read a Book</title>
+<title_without_series>How to Read a Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42350073-how-to-read-a-book]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546472087l/42350073._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65997738</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>326609</id>
+<name>Kwame Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326609.Kwame_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38791999</id>
+<title>Because</title>
+<title_without_series>Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38791999-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535502005l/38791999._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60366827</id>
+</work>
+<isbn>1368019013</isbn>
+<isbn13>9781368019019</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221498</id>
+<title>The Good Egg</title>
+<title_without_series>The Good Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221498-the-good-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>62460576</id>
+</work>
+<isbn>0062866001</isbn>
+<isbn13>9780062866004</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40546097</id>
+<title>Spiky</title>
+<title_without_series>Spiky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40546097-spiky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534954660l/40546097._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534954660l/40546097._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>62959218</id>
+</work>
+<isbn>1542040434</isbn>
+<isbn13>9781542040433</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8118744</id>
+<name>Ilaria Guarducci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8118744.Ilaria_Guarducci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38090144</id>
+<title>Sulwe</title>
+<title_without_series>Sulwe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38090144-sulwe]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561399659l/38090144._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>59759904</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17623053</id>
+<name>Lupita Nyong’o</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17623053.Lupita_Nyong_o]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42873833</id>
+<title>Camp</title>
+<title_without_series>Camp</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42873833-camp]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545529613l/42873833._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545529613l/42873833._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>66664214</id>
+</work>
+<isbn>1328530825</isbn>
+<isbn13>9781328530820</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>7562420</id>
+<name>Kayla Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7562420.Kayla_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40944115</id>
+<title>Hair Love</title>
+<title_without_series>Hair Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40944115-hair-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555477540l/40944115._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555477540l/40944115._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>63847832</id>
+</work>
+<isbn>0525553363</isbn>
+<isbn13>9780525553366</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>18238761</id>
+<name>Matthew A. Cherry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18238761.Matthew_A_Cherry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43853210</id>
+<title>The Proudest Blue</title>
+<title_without_series>The Proudest Blue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43853210-the-proudest-blue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549414261l/43853210._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549414261l/43853210._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>68238463</id>
+</work>
+<isbn>0316519006</isbn>
+<isbn13>9780316519007</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>17325166</id>
+<name>Ibtihaj Muhammad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17325166.Ibtihaj_Muhammad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40864492</id>
+<title><![CDATA[A Beautiful Day in the Neighborhood: The Poetry of Mister Rogers]]></title>
+<title_without_series><![CDATA[A Beautiful Day in the Neighborhood: The Poetry of Mister Rogers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40864492-a-beautiful-day-in-the-neighborhood]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550949484l/40864492._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550949484l/40864492._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63657025</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32106</id>
+<name>Fred Rogers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32106.Fred_Rogers]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

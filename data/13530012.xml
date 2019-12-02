@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13530012</id>
+  <title><![CDATA[October Mourning: A Song for Matthew Shepard]]></title>
+  <isbn><![CDATA[0763658073]]></isbn>
+  <isbn13><![CDATA[9780763658076]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331488166l/13530012._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331488166l/13530012._SY75_.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Candlewick</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<br />A masterful poetic exploration of the impact of Matthew Shepard’s murder on the world.<br /><br />On the night of October 6, 1998, a gay twenty-one-year-old college student named Matthew Shepard was lured from a Wyoming bar by two young men, savagely beaten, tied to a remote fence, and left to die. Gay Awareness Week was beginning at the University of Wyoming, and the keynote speaker was Lesléa Newman, discussing her book <i>Heather Has Two Mommies</i>. Shaken, the author addressed the large audience that gathered, but she remained haunted by Matthew’s murder. <i>October Mourning, </i>a novel in verse, is her deeply felt response to the events of that tragic day. Using her poetic imagination, the author creates fictitious monologues from various points of view, including the fence Matthew was tied to, the stars that watched over him, the deer that kept him company, and Matthew himself. More than a decade later, this stunning cycle of sixty-eight poems serves as an illumination for readers too young to remember, and as a powerful, enduring tribute to Matthew Shepard’s life.]]></description>
+  <work>
+  <id type="integer">19091033</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">13530012</best_book_id>
+  <reviews_count type="integer">11381</reviews_count>
+  <ratings_sum type="integer">15611</ratings_sum>
+  <ratings_count type="integer">3762</ratings_count>
+  <text_reviews_count type="integer">668</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1869|4:1029|3:549|2:188|1:127|total:3762</rating_dist>
+  <desc_user_id type="integer">620387</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.dNTVx3_lj9EtEd3afNZCVw</work_uri>
+</work>
+  <average_rating>4.15</average_rating>
+  <num_pages><![CDATA[111]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3721]]></ratings_count>
+  <text_reviews_count><![CDATA[647]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13530012-october-mourning]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13530012-october-mourning]]></link>
+  <authors>
+<author>
+<id>226812</id>
+<name>Lesléa Newman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309373083p5/226812.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309373083p2/226812.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/226812.Lesl_a_Newman]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>18894</ratings_count>
+<text_reviews_count>2782</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13530012-october-mourning">October Mourning Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0763658073&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13530012-october-mourning?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="7226"/>
+      <shelf name="poetry" count="387"/>
+      <shelf name="young-adult" count="132"/>
+      <shelf name="lgbtq" count="88"/>
+      <shelf name="lgbt" count="78"/>
+      <shelf name="ya" count="73"/>
+      <shelf name="non-fiction" count="44"/>
+      <shelf name="favorites" count="43"/>
+      <shelf name="currently-reading" count="41"/>
+      <shelf name="nonfiction" count="40"/>
+      <shelf name="glbt" count="36"/>
+      <shelf name="historical-fiction" count="34"/>
+      <shelf name="glbtq" count="29"/>
+      <shelf name="verse" count="28"/>
+      <shelf name="novel-in-verse" count="26"/>
+      <shelf name="novels-in-verse" count="26"/>
+      <shelf name="realistic-fiction" count="20"/>
+      <shelf name="teen" count="18"/>
+      <shelf name="bullying" count="18"/>
+      <shelf name="lgbtqia" count="15"/>
+      <shelf name="read-in-8th-grade" count="15"/>
+      <shelf name="adult" count="15"/>
+      <shelf name="audiobooks" count="14"/>
+      <shelf name="library" count="14"/>
+      <shelf name="death" count="14"/>
+      <shelf name="audiobook" count="13"/>
+      <shelf name="queer" count="13"/>
+      <shelf name="read-in-2013" count="13"/>
+      <shelf name="history" count="13"/>
+      <shelf name="read-in-2014" count="12"/>
+      <shelf name="historical" count="12"/>
+      <shelf name="verse-novels" count="12"/>
+      <shelf name="fiction" count="11"/>
+      <shelf name="ya-lit" count="10"/>
+      <shelf name="to-buy" count="10"/>
+      <shelf name="novels-class" count="9"/>
+      <shelf name="gay" count="9"/>
+      <shelf name="books-in-verse" count="8"/>
+      <shelf name="realistic" count="8"/>
+      <shelf name="abe-lincoln-2017" count="7"/>
+      <shelf name="audio-books" count="7"/>
+      <shelf name="sync" count="7"/>
+      <shelf name="audio" count="7"/>
+      <shelf name="violence" count="7"/>
+      <shelf name="verse-novel" count="7"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="poems" count="6"/>
+      <shelf name="ya-poetry" count="6"/>
+      <shelf name="ya-books" count="6"/>
+      <shelf name="made-me-cry" count="6"/>
+      <shelf name="audio-book" count="6"/>
+      <shelf name="grief" count="6"/>
+      <shelf name="reading-olympics" count="5"/>
+      <shelf name="school" count="5"/>
+      <shelf name="queer-lit" count="5"/>
+      <shelf name="poetry-verse" count="5"/>
+      <shelf name="stonewall" count="5"/>
+      <shelf name="award-winner" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="murder" count="5"/>
+      <shelf name="teen-fiction" count="5"/>
+      <shelf name="youngadult" count="5"/>
+      <shelf name="novels" count="5"/>
+      <shelf name="read-in-2012" count="5"/>
+      <shelf name="ya-fiction" count="5"/>
+      <shelf name="biography" count="5"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="diversity" count="4"/>
+      <shelf name="read-for-school" count="4"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="really-want-to-read" count="4"/>
+      <shelf name="adult-fiction" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="hub-reading-challenge" count="4"/>
+      <shelf name="2013-reads" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="free-verse" count="4"/>
+      <shelf name="ya-realistic-fiction" count="4"/>
+      <shelf name="ya-nonfiction" count="4"/>
+      <shelf name="bullies" count="4"/>
+      <shelf name="written-in-verse" count="4"/>
+      <shelf name="teens" count="4"/>
+      <shelf name="young-adult-literature" count="4"/>
+      <shelf name="queer-reads" count="3"/>
+      <shelf name="need" count="3"/>
+      <shelf name="non-fic" count="3"/>
+      <shelf name="diverse-books" count="3"/>
+      <shelf name="wirc" count="3"/>
+      <shelf name="8th-grade" count="3"/>
+      <shelf name="21st-century" count="3"/>
+      <shelf name="to-read-poetry" count="3"/>
+      <shelf name="audio-version" count="3"/>
+      <shelf name="multicultural" count="3"/>
+      <shelf name="stonewall-honor" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="poetry-and-verse" count="3"/>
+      <shelf name="high-school" count="3"/>
+      <shelf name="abuse" count="3"/>
+      <shelf name="lgbtqi" count="3"/>
+      <shelf name="quick-reads" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>12510885</id>
+<title><![CDATA[Moonbird: A Year on the Wind with the Great Survivor B95]]></title>
+<title_without_series><![CDATA[Moonbird: A Year on the Wind with the Great Survivor B95]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12510885-moonbird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359803840l/12510885._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359803840l/12510885._SX98_.jpg]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>17496628</id>
+</work>
+<isbn>0374304688</isbn>
+<isbn13>9780374304683</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>66579</id>
+<name>Phillip Hoose</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66579.Phillip_Hoose]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15798674</id>
+<title>Fat Angie</title>
+<title_without_series>Fat Angie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15798674-fat-angie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213550l/15798674._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213550l/15798674._SX98_.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>21521615</id>
+</work>
+<isbn>0763661198</isbn>
+<isbn13>9780763661199</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>354572</id>
+<name>E.E. Charlton-Trujillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/354572.E_E_Charlton_Trujillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13160329</id>
+<title>My Book of Life by Angel</title>
+<title_without_series>My Book of Life by Angel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13160329-my-book-of-life-by-angel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343931320l/13160329._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343931320l/13160329._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>18339067</id>
+</work>
+<isbn>0374351236</isbn>
+<isbn13>9780374351236</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>190403</id>
+<name>Martine Leavitt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/190403.Martine_Leavitt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17237214</id>
+<title>Two Boys Kissing</title>
+<title_without_series>Two Boys Kissing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17237214-two-boys-kissing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364194940l/17237214._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364194940l/17237214._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>23756923</id>
+</work>
+<isbn>0307931900</isbn>
+<isbn13>9780307931900</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>11664</id>
+<name>David Levithan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11664.David_Levithan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13221769</id>
+<title><![CDATA[Beautiful Music for Ugly Children]]></title>
+<title_without_series><![CDATA[Beautiful Music for Ugly Children]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13221769-beautiful-music-for-ugly-children]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330538287l/13221769._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330538287l/13221769._SX98_.jpg]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>18408748</id>
+</work>
+<isbn>0738732516</isbn>
+<isbn13>9780738732510</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>2897172</id>
+<name>Kirstin Cronn-Mills</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2897172.Kirstin_Cronn_Mills]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12597227</id>
+<title>The Good Braider</title>
+<title_without_series>The Good Braider</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12597227-the-good-braider]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346185274l/12597227._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346185274l/12597227._SX98_.jpg]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>17612271</id>
+</work>
+<isbn>0761462678</isbn>
+<isbn13>9780761462675</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>513276</id>
+<name>Terry Farish</name>
+<link><![CDATA[https://www.goodreads.com/author/show/513276.Terry_Farish]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22552026</id>
+<title>Long Way Down</title>
+<title_without_series>Long Way Down</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22552026-long-way-down]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520008013l/22552026._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520008013l/22552026._SX98_.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>42009801</id>
+</work>
+<isbn>1481438255</isbn>
+<isbn13>9781481438254</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1229281</id>
+<name>Jason Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1229281.Jason_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>51296</id>
+<title>Oh the Glory of it All</title>
+<title_without_series>Oh the Glory of it All</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/51296.Oh_the_Glory_of_it_All]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>482</num_pages>
+<work>
+<id>50061</id>
+</work>
+<isbn>0143036912</isbn>
+<isbn13>9780143036913</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>28854</id>
+<name>Sean Wilsey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28854.Sean_Wilsey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7144221</id>
+<title>The Firefly Letters</title>
+<title_without_series>The Firefly Letters</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7144221-the-firefly-letters]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737726l/7144221._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316737726l/7144221._SX98_.jpg]]></image_url>
+<num_pages>151</num_pages>
+<work>
+<id>7408654</id>
+</work>
+<isbn>0805090827</isbn>
+<isbn13>9780805090826</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>103963</id>
+<name>Margarita Engle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103963.Margarita_Engle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16075929</id>
+<title><![CDATA[Salt: A Story of Friendship in a Time of War]]></title>
+<title_without_series><![CDATA[Salt: A Story of Friendship in a Time of War]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16075929-salt]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390036676l/16075929._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390036676l/16075929._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>21871386</id>
+</work>
+<isbn>0374363870</isbn>
+<isbn13>9780374363871</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>49193</id>
+<name>Helen Frost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49193.Helen_Frost]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9372419</id>
+<title>Personal Effects</title>
+<title_without_series>Personal Effects</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9372419-personal-effects]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330545297l/9372419._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330545297l/9372419._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>14255981</id>
+</work>
+<isbn>0763655279</isbn>
+<isbn13>9780763655273</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4373408</id>
+<name>E.M. Kokie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4373408.E_M_Kokie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40519254</id>
+<title>Shout</title>
+<title_without_series>Shout</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40519254-shout]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536542610l/40519254._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536542610l/40519254._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>62882044</id>
+</work>
+<isbn></isbn>
+<isbn13>9780698195264</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>10003</id>
+<name>Laurie Halse Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10003.Laurie_Halse_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17261129</id>
+<title>Freakboy</title>
+<title_without_series>Freakboy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17261129-freakboy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362151375l/17261129._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362151375l/17261129._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>23848271</id>
+</work>
+<isbn>0374324727</isbn>
+<isbn13>9780374324728</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>6894995</id>
+<name>Kristin Elizabeth Clark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6894995.Kristin_Elizabeth_Clark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6555407</id>
+<title><![CDATA[Three Rivers Rising: A Novel of the Johnstown Flood]]></title>
+<title_without_series><![CDATA[Three Rivers Rising: A Novel of the Johnstown Flood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6555407-three-rivers-rising]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320430991l/6555407._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320430991l/6555407._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6748003</id>
+</work>
+<isbn>0375858857</isbn>
+<isbn13>9780375858857</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2964397</id>
+<name>Jame Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2964397.Jame_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30734222</id>
+<title>I, Claudia</title>
+<title_without_series>I, Claudia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30734222-i-claudia]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526069005l/30734222._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526069005l/30734222._SX98_.jpg]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>51273698</id>
+</work>
+<isbn>1541530675</isbn>
+<isbn13>9781541530676</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7371757</id>
+<name>Mary  McCoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7371757.Mary_McCoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18656002</id>
+<title><![CDATA[Rapture Practice: A True Story About Growing Up Gay in an Evangelical Family]]></title>
+<title_without_series><![CDATA[Rapture Practice: A True Story About Growing Up Gay in an Evangelical Family]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18656002-rapture-practice]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392326250l/18656002._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392326250l/18656002._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>19042639</id>
+</work>
+<isbn>0316094641</isbn>
+<isbn13>9780316094641</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4719762</id>
+<name>Aaron Hartzler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4719762.Aaron_Hartzler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41859658</id>
+<title>Who Wet My Pants?</title>
+<title_without_series>Who Wet My Pants?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41859658-who-wet-my-pants]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555733657l/41859658._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555733657l/41859658._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>65347109</id>
+</work>
+<isbn>0316525219</isbn>
+<isbn13>9780316525213</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33294200</id>
+<title>The Poet X</title>
+<title_without_series>The Poet X</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33294200-the-poet-x]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498766234l/33294200._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498766234l/33294200._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>54024746</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3762</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>15253645</id>
+<name>Elizabeth Acevedo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15253645.Elizabeth_Acevedo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

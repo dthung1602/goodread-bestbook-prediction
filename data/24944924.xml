@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24944924</id>
+  <title><![CDATA[The Big Book of Kombucha: Brewing, Flavoring, and Enjoying the Health Benefits of Fermented Tea]]></title>
+  <isbn><![CDATA[161212433X]]></isbn>
+  <isbn13><![CDATA[9781612124339]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454256879l/24944924._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454256879l/24944924._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Storey Publishing, LLC</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>2016 Silver Nautilus Book Award Winner </b><br /><br /> Brew your own kombucha at home! With more than 400 recipes, including 268 unique flavor combinations, you can get exactly the taste you want — for a fraction of the store-bought price. This complete guide, from the proprietors of Kombucha Kamp, shows you how to do it from start to finish, with illustrated step-by-step instructions and troubleshooting tips. The book also includes information on the many health benefits of kombucha, fascinating details of the drink’s history, and recipes for delicious foods and drinks you can make with kombucha (including some irresistible cocktails!).<br /><br /> “This is the one go-to resource for all things kombucha.”<br /> — Andrew Zimmern, James Beard Award–winning author and host of Travel Channel’s <i>Bizarre Foods </i>]]></description>
+  <work>
+  <id type="integer">44603350</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">24944924</best_book_id>
+  <reviews_count type="integer">4163</reviews_count>
+  <ratings_sum type="integer">4104</ratings_sum>
+  <ratings_count type="integer">913</ratings_count>
+  <text_reviews_count type="integer">92</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">8</original_publication_day>
+  <original_title>The Big Book of Kombucha: Brewing, Flavoring, and Enjoying the Health Benefits of Fermented Tea</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:558|4:273|3:63|2:14|1:5|total:913</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.eRk-t5nYIvyql7w5LazIiw</work_uri>
+</work>
+  <average_rating>4.50</average_rating>
+  <num_pages><![CDATA[400]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[731]]></ratings_count>
+  <text_reviews_count><![CDATA[84]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24944924-the-big-book-of-kombucha]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24944924-the-big-book-of-kombucha]]></link>
+  <authors>
+<author>
+<id>13509298</id>
+<name>Hannah Crum</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13509298.Hannah_Crum]]></link>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<text_reviews_count>92</text_reviews_count>
+</author>
+<author>
+<id>13509299</id>
+<name>Alex LaGory</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13509299.Alex_LaGory]]></link>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<text_reviews_count>92</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24944924-the-big-book-of-kombucha">The Big Book of Kombucha Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=161212433X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/24944924-the-big-book-of-kombucha?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2295"/>
+      <shelf name="currently-reading" count="643"/>
+      <shelf name="cookbooks" count="59"/>
+      <shelf name="food" count="38"/>
+      <shelf name="non-fiction" count="27"/>
+      <shelf name="health" count="19"/>
+      <shelf name="cooking" count="19"/>
+      <shelf name="reference" count="9"/>
+      <shelf name="cookbook" count="9"/>
+      <shelf name="nonfiction" count="8"/>
+      <shelf name="fermentation" count="7"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="nutrition" count="6"/>
+      <shelf name="cook-books" count="5"/>
+      <shelf name="health-food" count="4"/>
+      <shelf name="default" count="3"/>
+      <shelf name="kombucha" count="3"/>
+      <shelf name="healthy-living" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="favorites" count="3"/>
+      <shelf name="brewing" count="2"/>
+      <shelf name="kitchen" count="2"/>
+      <shelf name="physical-health" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="recipes" count="2"/>
+      <shelf name="science" count="2"/>
+      <shelf name="food-drinks" count="2"/>
+      <shelf name="recipe" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="how-to" count="2"/>
+      <shelf name="library-book" count="2"/>
+      <shelf name="food-health" count="2"/>
+      <shelf name="female-authors" count="2"/>
+      <shelf name="_ebook" count="2"/>
+      <shelf name="gca2016" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="cookery" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="e-collection" count="1"/>
+      <shelf name="nutrition-and-health" count="1"/>
+      <shelf name="pr-nonfic" count="1"/>
+      <shelf name="austin-public-library" count="1"/>
+      <shelf name="2016nonfiction-grca" count="1"/>
+      <shelf name="home-collection" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="non-fiction-interests" count="1"/>
+      <shelf name="tbr-health" count="1"/>
+      <shelf name="read-it-again" count="1"/>
+      <shelf name="2019-reads" count="1"/>
+      <shelf name="beverage-cookbooks" count="1"/>
+      <shelf name="kost" count="1"/>
+      <shelf name="dnf" count="1"/>
+      <shelf name="nonfic-cookbooks" count="1"/>
+      <shelf name="finished" count="1"/>
+      <shelf name="in-my-library" count="1"/>
+      <shelf name="companion-reference" count="1"/>
+      <shelf name="adult-non-fiction" count="1"/>
+      <shelf name="health-diet" count="1"/>
+      <shelf name="to-read-personal-development" count="1"/>
+      <shelf name="food-and-drinks" count="1"/>
+      <shelf name="19" count="1"/>
+      <shelf name="homestead" count="1"/>
+      <shelf name="the-essential-library" count="1"/>
+      <shelf name="fermenting-cb" count="1"/>
+      <shelf name="cozinha" count="1"/>
+      <shelf name="cookbooks-and-cocktails" count="1"/>
+      <shelf name="resource" count="1"/>
+      <shelf name="want-to-read-cookbooks" count="1"/>
+      <shelf name="health-nutrition-spiritual" count="1"/>
+      <shelf name="wannit" count="1"/>
+      <shelf name="oa-korea" count="1"/>
+      <shelf name="oa-japan" count="1"/>
+      <shelf name="oa-china" count="1"/>
+      <shelf name="always-reading-or-referencing" count="1"/>
+      <shelf name="home-stuff" count="1"/>
+      <shelf name="zu-kaufen_physical-copies" count="1"/>
+      <shelf name="tea" count="1"/>
+      <shelf name="223" count="1"/>
+      <shelf name="f-d" count="1"/>
+      <shelf name="food-and-nutrition" count="1"/>
+      <shelf name="read-in-2019" count="1"/>
+      <shelf name="natural-health" count="1"/>
+      <shelf name="my-cookbooks" count="1"/>
+      <shelf name="limon" count="1"/>
+      <shelf name="google" count="1"/>
+      <shelf name="lifestyle-resources" count="1"/>
+      <shelf name="ffc" count="1"/>
+      <shelf name="kpl-paper" count="1"/>
+      <shelf name="natural-healing-and-health" count="1"/>
+      <shelf name="kindle-cookbooks" count="1"/>
+      <shelf name="did-not-finish" count="1"/>
+      <shelf name="for-the-love-of-food" count="1"/>
+      <shelf name="will-be-back" count="1"/>
+      <shelf name="books-for-learning-tbr" count="1"/>
+      <shelf name="on-our-shelf" count="1"/>
+      <shelf name="my-books" count="1"/>
+      <shelf name="how-to-guides" count="1"/>
+      <shelf name="don-t-own" count="1"/>
+      <shelf name="home-health" count="1"/>
+      <shelf name="non-fiction-health" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>109800</id>
+<title><![CDATA[Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods]]></title>
+<title_without_series><![CDATA[Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109800.Wild_Fermentation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415589337l/109800._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415589337l/109800._SX98_.jpg]]></image_url>
+<num_pages>187</num_pages>
+<work>
+<id>105822</id>
+</work>
+<isbn>1931498237</isbn>
+<isbn13>9781931498234</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>63537</id>
+<name>Sandor Ellix Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63537.Sandor_Ellix_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18465932</id>
+<title><![CDATA[Kombucha Revolution: 75 Recipes for Homemade Brews, Fixers, Elixirs, and Mixers]]></title>
+<title_without_series><![CDATA[Kombucha Revolution: 75 Recipes for Homemade Brews, Fixers, Elixirs, and Mixers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18465932-kombucha-revolution]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384715039l/18465932._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384715039l/18465932._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>26124049</id>
+</work>
+<isbn>1607745984</isbn>
+<isbn13>9781607745983</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>143390</id>
+<name>Stephen Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/143390.Stephen_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23503465</id>
+<title><![CDATA[Fermented Vegetables: Creative Recipes for Fermenting 64 Vegetables & Herbs in Krauts, Kimchis, Brined Pickles, Chutneys, Relishes & Pastes]]></title>
+<title_without_series><![CDATA[Fermented Vegetables: Creative Recipes for Fermenting 64 Vegetables & Herbs in Krauts, Kimchis, Brined Pickles, Chutneys, Relishes & Pastes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23503465-fermented-vegetables]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42932198</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15374575</id>
+<name>Kirsten K. Shockey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15374575.Kirsten_K_Shockey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30648724</id>
+<title><![CDATA[Fiery Ferments: 70 Stimulating Recipes for Hot Sauces, Spicy Chutneys, Kimchis with Kick, and Other Blazing Fermented Condiments]]></title>
+<title_without_series><![CDATA[Fiery Ferments: 70 Stimulating Recipes for Hot Sauces, Spicy Chutneys, Kimchis with Kick, and Other Blazing Fermented Condiments]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30648724-fiery-ferments]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489931866l/30648724._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489931866l/30648724._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>51191012</id>
+</work>
+<isbn>1612127282</isbn>
+<isbn13>9781612127286</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>15374575</id>
+<name>Kirsten K. Shockey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15374575.Kirsten_K_Shockey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13598307</id>
+<title><![CDATA[The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World]]></title>
+<title_without_series><![CDATA[The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13598307-the-art-of-fermentation]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334185796l/13598307._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334185796l/13598307._SX98_.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>19188832</id>
+</work>
+<isbn>160358286X</isbn>
+<isbn13>9781603582865</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>63537</id>
+<name>Sandor Ellix Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63537.Sandor_Ellix_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15841930</id>
+<title><![CDATA[True Brews: How to Craft Fermented Cider, Beer, Wine, Sake, Soda, Mead, Kefir, and Kombucha at Home]]></title>
+<title_without_series><![CDATA[True Brews: How to Craft Fermented Cider, Beer, Wine, Sake, Soda, Mead, Kefir, and Kombucha at Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15841930-true-brews]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213368l/15841930._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213368l/15841930._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>21583941</id>
+</work>
+<isbn>1607743388</isbn>
+<isbn13>9781607743385</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6475116</id>
+<name>Emma Christensen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6475116.Emma_Christensen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37590384</id>
+<title><![CDATA[Foundations of Flavor: The Noma Guide to Fermentation]]></title>
+<title_without_series><![CDATA[Foundations of Flavor: The Noma Guide to Fermentation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37590384-foundations-of-flavor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523893043l/37590384._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523893043l/37590384._SX98_.jpg]]></image_url>
+<num_pages>440</num_pages>
+<work>
+<id>59199471</id>
+</work>
+<isbn>1579657184</isbn>
+<isbn13>9781579657185</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3482496</id>
+<name>Rene Redzepi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3482496.Rene_Redzepi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37507561</id>
+<title><![CDATA[DIY Kombucha: Sparkling Homebrews Made Easy]]></title>
+<title_without_series><![CDATA[DIY Kombucha: Sparkling Homebrews Made Easy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37507561-diy-kombucha]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>59117893</id>
+</work>
+<isbn>0865718873</isbn>
+<isbn13>9780865718876</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>17491150</id>
+<name>Andrea Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17491150.Andrea_Potter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41840639</id>
+<title><![CDATA[Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy Instant Pot Recipes]]></title>
+<title_without_series><![CDATA[Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy Instant Pot Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41840639-instant-pot-pressure-cooker-cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65319955</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24631</id>
+<name>Jennifer Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24631.Jennifer_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30771300</id>
+<title><![CDATA[My Zero-Waste Kitchen: Easy Ways to Eat Waste Free]]></title>
+<title_without_series><![CDATA[My Zero-Waste Kitchen: Easy Ways to Eat Waste Free]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30771300-my-zero-waste-kitchen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483026142l/30771300._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483026142l/30771300._SX98_.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>51355115</id>
+</work>
+<isbn>1465462295</isbn>
+<isbn13>9781465462299</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3104146</id>
+<name>Kate Turner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3104146.Kate_Turner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24396874</id>
+<title><![CDATA[Cabin Porn: Inspiration for Your Quiet Place Somewhere]]></title>
+<title_without_series><![CDATA[Cabin Porn: Inspiration for Your Quiet Place Somewhere]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24396874-cabin-porn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440601519l/24396874._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440601519l/24396874._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>43981450</id>
+</work>
+<isbn>0316378216</isbn>
+<isbn13>9780316378215</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>14246073</id>
+<name>Zach Klein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14246073.Zach_Klein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17659671</id>
+<title><![CDATA[Walking Your Octopus: A Guidebook to the Domesticated Cephalopod]]></title>
+<title_without_series><![CDATA[Walking Your Octopus: A Guidebook to the Domesticated Cephalopod]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17659671-walking-your-octopus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364768685l/17659671._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364768685l/17659671._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>24647999</id>
+</work>
+<isbn>1614040060</isbn>
+<isbn13>9781614040064</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7008988</id>
+<name>Brian Kesinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7008988.Brian_Kesinger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48470914</id>
+<title><![CDATA[Friday Night Bites (Magic Market Mysteries #2)]]></title>
+<title_without_series>Friday Night Bites</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48470914-friday-night-bites]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73780759</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6605673</id>
+<name>Erin Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6605673.Erin_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35278921</id>
+<title><![CDATA[Along Came a Ghost (Beechwood Harbor Magic Mystery, #4.5)]]></title>
+<title_without_series>Along Came a Ghost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35278921-along-came-a-ghost]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56639932</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15569181</id>
+<name>Danielle Garrett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15569181.Danielle_Garrett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36494968</id>
+<title><![CDATA[Lucky Witch (Beechwood Harbor Magic Mystery, #5)]]></title>
+<title_without_series>Lucky Witch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36494968-lucky-witch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58210281</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15569181</id>
+<name>Danielle Garrett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15569181.Danielle_Garrett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1214583</id>
+<title><![CDATA[Farmhouse Ales: Culture and Craftsmanship in the Belgian Tradition]]></title>
+<title_without_series><![CDATA[Farmhouse Ales: Culture and Craftsmanship in the Belgian Tradition]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1214583.Farmhouse_Ales]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>198</num_pages>
+<work>
+<id>1203021</id>
+</work>
+<isbn>0937381845</isbn>
+<isbn13>9780937381847</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>589194</id>
+<name>Phil Markowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/589194.Phil_Markowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25356178</id>
+<title><![CDATA[Modern Homebrew Recipes: Exploring Styles and Contemporary Techniques]]></title>
+<title_without_series><![CDATA[Modern Homebrew Recipes: Exploring Styles and Contemporary Techniques]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25356178-modern-homebrew-recipes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>45098447</id>
+</work>
+<isbn>1938469143</isbn>
+<isbn13>9781938469145</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>15000242</id>
+<name>Gordon   Strong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15000242.Gordon_Strong]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30820811</id>
+<title><![CDATA[Thug Kitchen 101: Fast as F*ck]]></title>
+<title_without_series><![CDATA[Thug Kitchen 101: Fast as F*ck]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30820811-thug-kitchen-101]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>51412545</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>913</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7811273</id>
+<name>Thug Kitchen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7811273.Thug_Kitchen]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

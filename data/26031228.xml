@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>26031228</id>
+  <title><![CDATA[It's All Easy: Delicious Weekday Recipes for the Super-Busy Home Cook]]></title>
+  <isbn><![CDATA[1455584215]]></isbn>
+  <isbn13><![CDATA[9781455584215]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453060682l/26031228._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453060682l/26031228._SX50_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Grand Central Life &amp; Style</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The #1 <i>New York Times </i>bestselling cookbook that will help anyone make delectable, healthy meals in no time!</b><br /><b>
+  <br />
+</b>Gwyneth Paltrow is back to share more than 125 of her favorite recipes that can be made in the time it would take to order takeout (which often contains high quantities of fat, sugar, and processed ingredients). All the dishes are surprisingly tasty, with little or no sugar, fat, or gluten. From easy breakfasts to lazy suppers, this book has something for everybody. Yummy recipes include Chocolate Cinnamon Overnight Oats, Soft Polenta with Cherry Tomatoes, Chicken Enchiladas, Pita Bread Pizzas, Quick Sesame Noodles, and more! Plus, an innovative chapter for "on-the-go" meals (Moroccan Chicken Salad Wrap, Chopped Salad with Grilled Shrimp, and others) that you can take for lunch to work or school, to a picnic, or to eat while watching soccer practice!]]></description>
+  <work>
+  <id type="integer">45957527</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">26031228</best_book_id>
+  <reviews_count type="integer">8445</reviews_count>
+  <ratings_sum type="integer">4762</ratings_sum>
+  <ratings_count type="integer">1302</ratings_count>
+  <text_reviews_count type="integer">123</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>It's All Easy: Delicious Weekday Recipes for the Super-Busy Home Cook</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:383|4:377|3:333|2:131|1:78|total:1302</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.iq1zHHs8D3DyjyaNsuFePg</work_uri>
+</work>
+  <average_rating>3.66</average_rating>
+  <num_pages><![CDATA[288]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1217]]></ratings_count>
+  <text_reviews_count><![CDATA[118]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/26031228-it-s-all-easy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/26031228-it-s-all-easy]]></link>
+  <authors>
+<author>
+<id>293994</id>
+<name>Gwyneth Paltrow</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1381760005p5/293994.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1381760005p2/293994.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/293994.Gwyneth_Paltrow]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>12891</ratings_count>
+<text_reviews_count>1101</text_reviews_count>
+</author>
+<author>
+<id>15270912</id>
+<name>Thea Baumann</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15270912.Thea_Baumann]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>1217</ratings_count>
+<text_reviews_count>118</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/26031228-it-s-all-easy">It&#39;s All Easy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1455584215&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/26031228-it-s-all-easy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6563"/>
+      <shelf name="cookbooks" count="145"/>
+      <shelf name="currently-reading" count="124"/>
+      <shelf name="cooking" count="45"/>
+      <shelf name="non-fiction" count="26"/>
+      <shelf name="cookbook" count="23"/>
+      <shelf name="food" count="22"/>
+      <shelf name="nonfiction" count="14"/>
+      <shelf name="health" count="10"/>
+      <shelf name="cook-books" count="9"/>
+      <shelf name="cook" count="6"/>
+      <shelf name="library" count="4"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="foodie" count="4"/>
+      <shelf name="food-and-drink" count="4"/>
+      <shelf name="food-cooking" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="cook-book" count="3"/>
+      <shelf name="cooking-baking" count="3"/>
+      <shelf name="cookery" count="3"/>
+      <shelf name="nutrition" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="libros-que-tengo" count="2"/>
+      <shelf name="rwbookclub" count="2"/>
+      <shelf name="rw-book-club" count="2"/>
+      <shelf name="reference" count="2"/>
+      <shelf name="chefs-restaurants" count="2"/>
+      <shelf name="buy" count="2"/>
+      <shelf name="real-life" count="2"/>
+      <shelf name="gcac-17" count="2"/>
+      <shelf name="from-library" count="2"/>
+      <shelf name="gca2016" count="2"/>
+      <shelf name="lifestyle" count="2"/>
+      <shelf name="library-book" count="2"/>
+      <shelf name="2016-read" count="2"/>
+      <shelf name="2016-books-read" count="2"/>
+      <shelf name="female-authors" count="2"/>
+      <shelf name="cookbook-club" count="2"/>
+      <shelf name="2016-reads" count="2"/>
+      <shelf name="book" count="2"/>
+      <shelf name="books-i-own" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="signed" count="2"/>
+      <shelf name="recipe-books" count="2"/>
+      <shelf name="2019-lus" count="1"/>
+      <shelf name="10th-p" count="1"/>
+      <shelf name="2026-title-vowels" count="1"/>
+      <shelf name="2016nonfiction-grca" count="1"/>
+      <shelf name="coobook" count="1"/>
+      <shelf name="cookbooks-food-writing" count="1"/>
+      <shelf name="1-umzug-kauf" count="1"/>
+      <shelf name="4-paper" count="1"/>
+      <shelf name="on-my-shelves" count="1"/>
+      <shelf name="unread-nonfiction" count="1"/>
+      <shelf name="8-below-50k" count="1"/>
+      <shelf name="7-below-4" count="1"/>
+      <shelf name="6n-food-health" count="1"/>
+      <shelf name="5-2013-to-2019" count="1"/>
+      <shelf name="3-nonfiction" count="1"/>
+      <shelf name="2-unread" count="1"/>
+      <shelf name="1-temp" count="1"/>
+      <shelf name="1-all" count="1"/>
+      <shelf name="reese-witherspoon" count="1"/>
+      <shelf name="shoppinglist" count="1"/>
+      <shelf name="unsorted-want-to-read" count="1"/>
+      <shelf name="read-2019" count="1"/>
+      <shelf name="to-read-nonfiction" count="1"/>
+      <shelf name="read-in-2019" count="1"/>
+      <shelf name="rr2016" count="1"/>
+      <shelf name="hello-sunshine" count="1"/>
+      <shelf name="hs-booklist" count="1"/>
+      <shelf name="books-to-finish" count="1"/>
+      <shelf name="cookbooks-to-try" count="1"/>
+      <shelf name="newbooks" count="1"/>
+      <shelf name="misc-nonfiction" count="1"/>
+      <shelf name="overdrive-catch-up" count="1"/>
+      <shelf name="available-in-overdrive" count="1"/>
+      <shelf name="20-somethings" count="1"/>
+      <shelf name="2019-challenge" count="1"/>
+      <shelf name="2019-reese-w" count="1"/>
+      <shelf name="don-t-own" count="1"/>
+      <shelf name="reese-witherspoons-book-picks" count="1"/>
+      <shelf name="2019-non-fiction" count="1"/>
+      <shelf name="owned-not-going-read-reference" count="1"/>
+      <shelf name="kitchen-books" count="1"/>
+      <shelf name="tbr" count="1"/>
+      <shelf name="04-health-nutrition-fitness" count="1"/>
+      <shelf name="non-fic-read" count="1"/>
+      <shelf name="adult-books" count="1"/>
+      <shelf name="delete" count="1"/>
+      <shelf name="reese-bookclub" count="1"/>
+      <shelf name="people-magazine" count="1"/>
+      <shelf name="z-check-into" count="1"/>
+      <shelf name="nutrition-and-naturals" count="1"/>
+      <shelf name="goop" count="1"/>
+      <shelf name="cookbook-wish-list" count="1"/>
+      <shelf name="collection" count="1"/>
+      <shelf name="gr-16" count="1"/>
+      <shelf name="reese-s-list" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>22716562</id>
+<title><![CDATA[Food52 Genius Recipes: 100 Recipes That Will Change the Way You Cook]]></title>
+<title_without_series><![CDATA[Food52 Genius Recipes: 100 Recipes That Will Change the Way You Cook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22716562-food52-genius-recipes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418772568l/22716562._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418772568l/22716562._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>42243805</id>
+</work>
+<isbn>1607747979</isbn>
+<isbn13>9781607747970</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>8384318</id>
+<name>Kristen Miglore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8384318.Kristen_Miglore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25937378</id>
+<title><![CDATA[Simply Nigella: Feel Good Food]]></title>
+<title_without_series><![CDATA[Simply Nigella: Feel Good Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25937378-simply-nigella]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>43458306</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21686</id>
+<name>Nigella Lawson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21686.Nigella_Lawson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34228508</id>
+<title><![CDATA[How to Instant Pot: Mastering All the Functions of the One Pot That Will Change the Way You Cook]]></title>
+<title_without_series><![CDATA[How to Instant Pot: Mastering All the Functions of the One Pot That Will Change the Way You Cook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34228508-how-to-instant-pot]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501538532l/34228508._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501538532l/34228508._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>55282162</id>
+</work>
+<isbn>1523502061</isbn>
+<isbn13>9781523502066</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>7750783</id>
+<name>Daniel Shumski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7750783.Daniel_Shumski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23834580</id>
+<title><![CDATA[The Homemade Kitchen: Recipes for Cooking with Pleasure]]></title>
+<title_without_series><![CDATA[The Homemade Kitchen: Recipes for Cooking with Pleasure]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23834580-the-homemade-kitchen]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435859510l/23834580._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435859510l/23834580._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>43446221</id>
+</work>
+<isbn>0385346166</isbn>
+<isbn13>9780385346160</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5175867</id>
+<name>Alana Chernila</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5175867.Alana_Chernila]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152723</id>
+<title><![CDATA[The Zuni Cafe Cookbook: A Compendium of Recipes and Cooking Lessons from San Francisco's Beloved Restaurant]]></title>
+<title_without_series><![CDATA[The Zuni Cafe Cookbook: A Compendium of Recipes and Cooking Lessons from San Francisco's Beloved Restaurant]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152723.The_Zuni_Cafe_Cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386606914l/152723._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386606914l/152723._SX98_.jpg]]></image_url>
+<num_pages>552</num_pages>
+<work>
+<id>147413</id>
+</work>
+<isbn>0393020436</isbn>
+<isbn13>9780393020434</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>88326</id>
+<name>Judy Rodgers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88326.Judy_Rodgers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>56913</id>
+<title>Barefoot in Paris</title>
+<title_without_series>Barefoot in Paris</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/56913.Barefoot_in_Paris]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>55442</id>
+</work>
+<isbn>1400049350</isbn>
+<isbn13>9781400049356</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>2658</id>
+<name>Ina Garten</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2658.Ina_Garten]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28186250</id>
+<title><![CDATA[Oh She Glows Every Day: Simply Satisfying Plant-Based Recipes to Keep You Glowing from the Inside Out]]></title>
+<title_without_series><![CDATA[Oh She Glows Every Day: Simply Satisfying Plant-Based Recipes to Keep You Glowing from the Inside Out]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28186250-oh-she-glows-every-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469408266l/28186250._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469408266l/28186250._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>48208025</id>
+</work>
+<isbn>0143196510</isbn>
+<isbn13>9780143196518</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7135854</id>
+<name>Angela Liddon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7135854.Angela_Liddon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33516589</id>
+<title><![CDATA[Coming to My Senses: The Making of a Counterculture Cook]]></title>
+<title_without_series><![CDATA[Coming to My Senses: The Making of a Counterculture Cook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33516589-coming-to-my-senses]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494333642l/33516589._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494333642l/33516589._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>54272881</id>
+</work>
+<isbn>030771828X</isbn>
+<isbn13>9780307718280</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>88314</id>
+<name>Alice Waters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88314.Alice_Waters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12519893</id>
+<title><![CDATA[The Homemade Pantry: 101 Foods You Can Stop Buying and Start Making]]></title>
+<title_without_series><![CDATA[The Homemade Pantry: 101 Foods You Can Stop Buying and Start Making]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12519893-the-homemade-pantry]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576869l/12519893._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576869l/12519893._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>17506073</id>
+</work>
+<isbn>030788726X</isbn>
+<isbn13>9780307887269</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5175867</id>
+<name>Alana Chernila</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5175867.Alana_Chernila]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24388391</id>
+<title><![CDATA[Lucky Peach Presents 101 Easy Asian Recipes]]></title>
+<title_without_series><![CDATA[Lucky Peach Presents 101 Easy Asian Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24388391-lucky-peach-presents-101-easy-asian-recipes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444682988l/24388391._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444682988l/24388391._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>43972332</id>
+</work>
+<isbn>0804187797</isbn>
+<isbn13>9780804187794</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>80375</id>
+<name>Peter Meehan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80375.Peter_Meehan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>688663</id>
+<title><![CDATA[The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution]]></title>
+<title_without_series><![CDATA[The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/688663.The_Art_of_Simple_Food]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320458644l/688663._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320458644l/688663._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>675016</id>
+</work>
+<isbn>0307336794</isbn>
+<isbn13>9780307336798</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>88314</id>
+<name>Alice Waters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88314.Alice_Waters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40004097</id>
+<title>Cravings: Hungry for More</title>
+<title_without_series>Cravings: Hungry for More</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40004097-cravings]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529940061l/40004097._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529940061l/40004097._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>61949868</id>
+</work>
+<isbn>1524759724</isbn>
+<isbn13>9781524759728</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>14184445</id>
+<name>Chrissy Teigen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14184445.Chrissy_Teigen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>458333</id>
+<title>The Best Recipe</title>
+<title_without_series>The Best Recipe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/458333.The_Best_Recipe]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>573</num_pages>
+<work>
+<id>42000741</id>
+</work>
+<isbn>0936184388</isbn>
+<isbn13>9780936184388</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7417657</id>
+<name>Cook&apos;s Illustrated Magazine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7417657.Cook_s_Illustrated_Magazine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24861842</id>
+<title><![CDATA[The Food Lab: Better Home Cooking Through Science]]></title>
+<title_without_series><![CDATA[The Food Lab: Better Home Cooking Through Science]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24861842-the-food-lab]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>960</num_pages>
+<work>
+<id>44509454</id>
+</work>
+<isbn>0393081087</isbn>
+<isbn13>9780393081084</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>7958610</id>
+<name>J. Kenji López-Alt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7958610.J_Kenji_L_pez_Alt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22609287</id>
+<title><![CDATA[Deliciously Ella: 100+ Easy, Healthy, and Delicious Plant-Based, Gluten-Free Recipes]]></title>
+<title_without_series><![CDATA[Deliciously Ella: 100+ Easy, Healthy, and Delicious Plant-Based, Gluten-Free Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22609287-deliciously-ella]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410170440l/22609287._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410170440l/22609287._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>42099309</id>
+</work>
+<isbn>147679328X</isbn>
+<isbn13>9781476793283</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>17762954</id>
+<name>Ella Woodward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17762954.Ella_Woodward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29808215</id>
+<title><![CDATA[Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals]]></title>
+<title_without_series><![CDATA[Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29808215-instant-pot-electric-pressure-cooker-cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>50177124</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15034312</id>
+<name>Laurel Randolph</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15034312.Laurel_Randolph]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152712</id>
+<title><![CDATA[Alice Waters and Chez Panisse: The Romantic, Impractical, Often Eccentric, Ultimately Brilliant Making of a Food Revolution]]></title>
+<title_without_series><![CDATA[Alice Waters and Chez Panisse: The Romantic, Impractical, Often Eccentric, Ultimately Brilliant Making of a Food Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152712.Alice_Waters_and_Chez_Panisse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>147402</id>
+</work>
+<isbn>1594201153</isbn>
+<isbn13>9781594201158</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>88317</id>
+<name>Thomas McNamee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88317.Thomas_McNamee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>79503</id>
+<title>Bouchon</title>
+<title_without_series>Bouchon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/79503.Bouchon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404582056l/79503._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404582056l/79503._SX98_.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>76766</id>
+</work>
+<isbn>1579652395</isbn>
+<isbn13>9781579652395</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1302</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>45203</id>
+<name>Thomas Keller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45203.Thomas_Keller]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>33158525</id>
+  <title>Wishtree</title>
+  <isbn><![CDATA[1250043220]]></isbn>
+  <isbn13><![CDATA[9781250043221]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501324382l/33158525._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501324382l/33158525._SX50_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>Feiwel  Friends</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Trees can't tell jokes, but they can certainly tell stories. . . .</i><br /><br />Red is an oak tree who is many rings old. Red is the neighborhood "wishtree"—people write their wishes on pieces of cloth and tie them to Red's branches. Along with her crow friend Bongo and other animals who seek refuge in Red's hollows, this "wishtree" watches over the neighborhood.<br /><br />You might say Red has seen it all. Until a new family moves in. Not everyone is welcoming, and Red's experiences as a wishtree are more important than ever.]]></description>
+  <work>
+  <id type="integer">53851680</id>
+  <books_count type="integer">37</books_count>
+  <best_book_id type="integer">33158525</best_book_id>
+  <reviews_count type="integer">46299</reviews_count>
+  <ratings_sum type="integer">78481</ratings_sum>
+  <ratings_count type="integer">18239</ratings_count>
+  <text_reviews_count type="integer">3543</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">26</original_publication_day>
+  <original_title>Wishtree</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9211|4:6115|3:2327|2:399|1:187|total:18239</rating_dist>
+  <desc_user_id type="integer">1703299</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.R4IiDRY5a4rMPcMCtzKC2Q</work_uri>
+</work>
+  <average_rating>4.30</average_rating>
+  <num_pages><![CDATA[224]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16610]]></ratings_count>
+  <text_reviews_count><![CDATA[3271]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/33158525-wishtree]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/33158525-wishtree]]></link>
+  <authors>
+<author>
+<id>1036736</id>
+<name>Katherine Applegate</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1561184801p5/1036736.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1561184801p2/1036736.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1036736.Katherine_Applegate]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>433469</ratings_count>
+<text_reviews_count>33787</text_reviews_count>
+</author>
+<author>
+<id>7205182</id>
+<name>Charles Santoso</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7205182.Charles_Santoso]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>26994</ratings_count>
+<text_reviews_count>5351</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/33158525-wishtree">Wishtree Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250043220&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/33158525-wishtree?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="21803"/>
+      <shelf name="currently-reading" count="962"/>
+      <shelf name="middle-grade" count="498"/>
+      <shelf name="fantasy" count="356"/>
+      <shelf name="fiction" count="235"/>
+      <shelf name="childrens" count="199"/>
+      <shelf name="favorites" count="132"/>
+      <shelf name="children" count="132"/>
+      <shelf name="kids" count="125"/>
+      <shelf name="friendship" count="122"/>
+      <shelf name="children-s" count="116"/>
+      <shelf name="animals" count="95"/>
+      <shelf name="children-s-books" count="92"/>
+      <shelf name="juvenile-fiction" count="89"/>
+      <shelf name="young-adult" count="88"/>
+      <shelf name="audiobook" count="82"/>
+      <shelf name="juvenile" count="82"/>
+      <shelf name="audio" count="70"/>
+      <shelf name="audiobooks" count="66"/>
+      <shelf name="middle-grades" count="58"/>
+      <shelf name="middle-school" count="54"/>
+      <shelf name="magical-realism" count="54"/>
+      <shelf name="kids-books" count="51"/>
+      <shelf name="read-in-2018" count="48"/>
+      <shelf name="nature" count="47"/>
+      <shelf name="children-s-lit" count="46"/>
+      <shelf name="ya" count="44"/>
+      <shelf name="children-s-literature" count="40"/>
+      <shelf name="diversity" count="40"/>
+      <shelf name="realistic-fiction" count="36"/>
+      <shelf name="multicultural" count="36"/>
+      <shelf name="library" count="35"/>
+      <shelf name="read-aloud" count="35"/>
+      <shelf name="contemporary" count="34"/>
+      <shelf name="j-fiction" count="33"/>
+      <shelf name="middle-grade-fiction" count="32"/>
+      <shelf name="chapter-books" count="32"/>
+      <shelf name="childrens-books" count="32"/>
+      <shelf name="read-in-2019" count="31"/>
+      <shelf name="read-alouds" count="31"/>
+      <shelf name="read-in-2017" count="31"/>
+      <shelf name="trees" count="31"/>
+      <shelf name="bullying" count="31"/>
+      <shelf name="read-2018" count="30"/>
+      <shelf name="kid-lit" count="30"/>
+      <shelf name="family" count="28"/>
+      <shelf name="2018-reads" count="27"/>
+      <shelf name="audio-books" count="27"/>
+      <shelf name="elementary" count="26"/>
+      <shelf name="audio-book" count="24"/>
+      <shelf name="children-s-fiction" count="24"/>
+      <shelf name="immigration" count="24"/>
+      <shelf name="mg" count="24"/>
+      <shelf name="books-i-own" count="23"/>
+      <shelf name="mock-newbery-2018" count="22"/>
+      <shelf name="2019-books" count="20"/>
+      <shelf name="childrens-fiction" count="20"/>
+      <shelf name="2018-books" count="19"/>
+      <shelf name="4th-grade" count="19"/>
+      <shelf name="book-club" count="19"/>
+      <shelf name="2017-reads" count="19"/>
+      <shelf name="youth" count="18"/>
+      <shelf name="j-fic" count="18"/>
+      <shelf name="community" count="17"/>
+      <shelf name="school" count="17"/>
+      <shelf name="to-buy" count="16"/>
+      <shelf name="juv" count="16"/>
+      <shelf name="childrens-lit" count="16"/>
+      <shelf name="read-2017" count="16"/>
+      <shelf name="middle-grade-books" count="16"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="junior-fiction" count="15"/>
+      <shelf name="children-s-chapter-books" count="15"/>
+      <shelf name="2017-releases" count="15"/>
+      <shelf name="bluestem-2020" count="14"/>
+      <shelf name="2019-reads" count="14"/>
+      <shelf name="read-2019" count="14"/>
+      <shelf name="project-lit" count="14"/>
+      <shelf name="classroom" count="14"/>
+      <shelf name="kindness" count="14"/>
+      <shelf name="wishes" count="14"/>
+      <shelf name="2019-read" count="13"/>
+      <shelf name="books-read-in-2018" count="13"/>
+      <shelf name="social-justice" count="13"/>
+      <shelf name="upper-elementary" count="13"/>
+      <shelf name="juv-fiction" count="13"/>
+      <shelf name="animal" count="12"/>
+      <shelf name="realistic" count="12"/>
+      <shelf name="ebook" count="12"/>
+      <shelf name="j" count="12"/>
+      <shelf name="middle-reader" count="12"/>
+      <shelf name="children-books" count="11"/>
+      <shelf name="jfic" count="11"/>
+      <shelf name="immigrants" count="11"/>
+      <shelf name="tween" count="11"/>
+      <shelf name="classroom-library" count="11"/>
+      <shelf name="young-readers" count="11"/>
+      <shelf name="5th-grade" count="11"/>
+      <shelf name="empathy" count="11"/>
+      <shelf name="arc" count="11"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>33986447</id>
+<title><![CDATA[Insignificant Events in the Life of a Cactus]]></title>
+<title_without_series><![CDATA[Insignificant Events in the Life of a Cactus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33986447-insignificant-events-in-the-life-of-a-cactus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520002885l/33986447._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520002885l/33986447._SX98_.jpg]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>54980101</id>
+</work>
+<isbn>1454923458</isbn>
+<isbn13>9781454923459</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5346515</id>
+<name>Dusti Bowling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5346515.Dusti_Bowling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30653713</id>
+<title>Hello, Universe</title>
+<title_without_series>Hello, Universe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30653713-hello-universe]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520006854l/30653713._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520006854l/30653713._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>51198713</id>
+</work>
+<isbn>0062414151</isbn>
+<isbn13>9780062414151</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>8343921</id>
+<name>Erin Entrada Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8343921.Erin_Entrada_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36127488</id>
+<title>Front Desk</title>
+<title_without_series>Front Desk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36127488-front-desk]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507986199l/36127488._SX98_.jpg]]></image_url>
+<num_pages>298</num_pages>
+<work>
+<id>51903030</id>
+</work>
+<isbn>1338157795</isbn>
+<isbn13>9781338157796</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>15524279</id>
+<name>Kelly Yang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15524279.Kelly_Yang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36039328</id>
+<title>Saving Winslow</title>
+<title_without_series>Saving Winslow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36039328-saving-winslow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525227416l/36039328._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525227416l/36039328._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>57611764</id>
+</work>
+<isbn>0062570730</isbn>
+<isbn13>9780062570734</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>11633</id>
+<name>Sharon Creech</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11633.Sharon_Creech]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33118312</id>
+<title>Refugee</title>
+<title_without_series>Refugee</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33118312-refugee]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487620933l/33118312._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487620933l/33118312._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>53784597</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>68794</id>
+<name>Alan Gratz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68794.Alan_Gratz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36443315</id>
+<title>Bob</title>
+<title_without_series>Bob</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36443315-bob]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511014740l/36443315._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511014740l/36443315._SX98_.jpg]]></image_url>
+<num_pages>201</num_pages>
+<work>
+<id>58145203</id>
+</work>
+<isbn>1250166624</isbn>
+<isbn13>9781250166623</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>99650</id>
+<name>Wendy Mass</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99650.Wendy_Mass]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39217633</id>
+<title>Louisiana&apos;s Way Home</title>
+<title_without_series>Louisiana&apos;s Way Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39217633-louisiana-s-way-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522256710l/39217633._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>60750180</id>
+</work>
+<isbn>0763694630</isbn>
+<isbn13>9780763694630</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37584983</id>
+<title>Harbor Me</title>
+<title_without_series>Harbor Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37584983-harbor-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526574263l/37584983._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526574263l/37584983._SX98_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>62648355</id>
+</work>
+<isbn>0399252525</isbn>
+<isbn13>9780399252525</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27426098</id>
+<title>The Losers Club</title>
+<title_without_series>The Losers Club</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27426098-the-losers-club]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493695607l/27426098._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493695607l/27426098._SX98_.jpg]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>47477502</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>63095</id>
+<name>Andrew Clements</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63095.Andrew_Clements]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35008529</id>
+<title><![CDATA[The Truth as Told by Mason Buttle]]></title>
+<title_without_series><![CDATA[The Truth as Told by Mason Buttle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35008529-the-truth-as-told-by-mason-buttle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>56288665</id>
+</work>
+<isbn>0062491490</isbn>
+<isbn13>9780062491497</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>463173</id>
+<name>Leslie Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/463173.Leslie_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33004208</id>
+<title><![CDATA[The Miscalculations of Lightning Girl]]></title>
+<title_without_series><![CDATA[The Miscalculations of Lightning Girl]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33004208-the-miscalculations-of-lightning-girl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511875058l/33004208._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511875058l/33004208._SX98_.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>53648561</id>
+</work>
+<isbn>1524767573</isbn>
+<isbn13>9781524767570</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4562864</id>
+<name>Stacy McAnulty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4562864.Stacy_McAnulty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32819894</id>
+<title>Restart</title>
+<title_without_series>Restart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32819894-restart]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484220170l/32819894._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484220170l/32819894._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>53421249</id>
+</work>
+<isbn>1338053779</isbn>
+<isbn13>9781338053777</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36086513</id>
+<title>Amal Unbound</title>
+<title_without_series>Amal Unbound</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36086513-amal-unbound]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509102472l/36086513._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509102472l/36086513._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>45632570</id>
+</work>
+<isbn>0399544682</isbn>
+<isbn13>9780399544682</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>8106586</id>
+<name>Aisha Saeed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8106586.Aisha_Saeed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30653731</id>
+<title><![CDATA[A Boy Called Bat (A Boy Called Bat, #1)]]></title>
+<title_without_series>A Boy Called Bat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30653731-a-boy-called-bat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467825940l/30653731._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467825940l/30653731._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>51198734</id>
+</work>
+<isbn>0062445820</isbn>
+<isbn13>9780062445827</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>5772357</id>
+<name>Elana K. Arnold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5772357.Elana_K_Arnold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34647324</id>
+<title>Ghost Boys</title>
+<title_without_series>Ghost Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34647324-ghost-boys]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513608390l/34647324._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513608390l/34647324._SX98_.jpg]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>55808344</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>135707</id>
+<name>Jewell Parker Rhodes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/135707.Jewell_Parker_Rhodes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32614258</id>
+<title>Walking with Miss Millie</title>
+<title_without_series>Walking with Miss Millie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32614258-walking-with-miss-millie]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487956525l/32614258._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487956525l/32614258._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>53199367</id>
+</work>
+<isbn>0399544569</isbn>
+<isbn13>9780399544569</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15973717</id>
+<name>Tamara Bundy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15973717.Tamara_Bundy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36292177</id>
+<title><![CDATA[The Remarkable Journey of Coyote Sunrise]]></title>
+<title_without_series><![CDATA[The Remarkable Journey of Coyote Sunrise]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36292177-the-remarkable-journey-of-coyote-sunrise]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526654090l/36292177._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526654090l/36292177._SX98_.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>57956893</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7544723</id>
+<name>Dan Gemeinhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7544723.Dan_Gemeinhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31448946</id>
+<title>Clayton Byrd Goes Underground</title>
+<title_without_series>Clayton Byrd Goes Underground</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31448946-clayton-byrd-goes-underground]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486803166l/31448946._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486803166l/31448946._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>52151767</id>
+</work>
+<isbn>0062215949</isbn>
+<isbn13>9780062215949</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>18239</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>123330</id>
+<name>Rita Williams-Garcia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/123330.Rita_Williams_Garcia]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

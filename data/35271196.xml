@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>35271196</id>
+  <title><![CDATA[Hello Stranger (The Ravenels, #4)]]></title>
+  <isbn><![CDATA[0062804154]]></isbn>
+  <isbn13><![CDATA[9780062804150]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516973492l/35271196._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516973492l/35271196._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Avon</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>A woman who defies her time</i><br /><br />Dr. Garrett Gibson, the only female physician in England, is as daring and independent as any man—why not take her pleasures like one? Yet she has never been tempted to embark on an affair, until now. Ethan Ransom, a former detective for Scotland Yard, is as gallant as he is secretive, a rumored assassin whose true loyalties are a mystery. For one exhilarating night, they give in to their potent attraction before becoming strangers again.<br /><br /><i>A man who breaks every rule</i><br /><br />As a Ravenel by-blow spurned by his father, Ethan has little interest in polite society, yet he is captivated by the bold and beautiful Garrett. Despite their vow to resist each other after that sublime night, she is soon drawn into his most dangerous assignment yet. When the mission goes wrong, it will take all of Garrett's skill and courage to save him. As they face the menace of a treacherous government plot, Ethan is willing to take any risk for the love of the most extraordinary woman he's ever known.]]></description>
+  <work>
+  <id type="integer">55467230</id>
+  <books_count type="integer">35</books_count>
+  <best_book_id type="integer">34379276</best_book_id>
+  <reviews_count type="integer">30981</reviews_count>
+  <ratings_sum type="integer">52268</ratings_sum>
+  <ratings_count type="integer">12849</ratings_count>
+  <text_reviews_count type="integer">1635</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>Hello Stranger</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4624|4:5192|3:2442|2:463|1:128|total:12849</rating_dist>
+  <desc_user_id type="integer">17861435</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.uhKc0vmtO8W2KxzNrR30ag</work_uri>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[286]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[637]]></ratings_count>
+  <text_reviews_count><![CDATA[47]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/35271196-hello-stranger]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/35271196-hello-stranger]]></link>
+  <authors>
+<author>
+<id>27847</id>
+<name>Lisa Kleypas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1288899037p5/27847.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1288899037p2/27847.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27847.Lisa_Kleypas]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>867805</ratings_count>
+<text_reviews_count>55997</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/35271196-hello-stranger">Hello Stranger Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062804154&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/35271196-hello-stranger?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11630"/>
+      <shelf name="currently-reading" count="1354"/>
+      <shelf name="romance" count="781"/>
+      <shelf name="historical-romance" count="760"/>
+      <shelf name="historical" count="370"/>
+      <shelf name="historical-fiction" count="173"/>
+      <shelf name="lisa-kleypas" count="122"/>
+      <shelf name="series" count="101"/>
+      <shelf name="read-in-2018" count="99"/>
+      <shelf name="fiction" count="89"/>
+      <shelf name="favorites" count="89"/>
+      <shelf name="audiobook" count="88"/>
+      <shelf name="library" count="64"/>
+      <shelf name="romance-historical" count="60"/>
+      <shelf name="adult" count="59"/>
+      <shelf name="read-2018" count="49"/>
+      <shelf name="2018-reads" count="46"/>
+      <shelf name="kindle" count="45"/>
+      <shelf name="ebook" count="44"/>
+      <shelf name="audiobooks" count="42"/>
+      <shelf name="audio" count="36"/>
+      <shelf name="regency" count="34"/>
+      <shelf name="victorian" count="33"/>
+      <shelf name="dnf" count="28"/>
+      <shelf name="2018-books" count="28"/>
+      <shelf name="regency-romance" count="28"/>
+      <shelf name="2018-read" count="28"/>
+      <shelf name="read-in-2019" count="27"/>
+      <shelf name="e-book" count="24"/>
+      <shelf name="2018-releases" count="24"/>
+      <shelf name="books-i-own" count="23"/>
+      <shelf name="owned" count="21"/>
+      <shelf name="part-of-a-series" count="20"/>
+      <shelf name="audio-books" count="18"/>
+      <shelf name="favorite-authors" count="18"/>
+      <shelf name="england" count="17"/>
+      <shelf name="overdrive" count="16"/>
+      <shelf name="library-book" count="16"/>
+      <shelf name="kleypas-lisa" count="16"/>
+      <shelf name="author-lisa-kleypas" count="16"/>
+      <shelf name="audio-book" count="15"/>
+      <shelf name="suspense" count="15"/>
+      <shelf name="4-stars" count="15"/>
+      <shelf name="genre-romance" count="14"/>
+      <shelf name="2019-reads" count="13"/>
+      <shelf name="3-stars" count="13"/>
+      <shelf name="5-stars" count="13"/>
+      <shelf name="british" count="13"/>
+      <shelf name="audible" count="13"/>
+      <shelf name="ebooks" count="13"/>
+      <shelf name="read-2019" count="12"/>
+      <shelf name="romance-novels" count="12"/>
+      <shelf name="adult-fiction" count="12"/>
+      <shelf name="virgin-heroine" count="12"/>
+      <shelf name="hr" count="12"/>
+      <shelf name="did-not-finish" count="11"/>
+      <shelf name="steamy" count="11"/>
+      <shelf name="2018-reading-challenge" count="11"/>
+      <shelf name="arc" count="11"/>
+      <shelf name="favorite-author" count="11"/>
+      <shelf name="genre-historical" count="11"/>
+      <shelf name="2018-release" count="11"/>
+      <shelf name="historical-romances" count="11"/>
+      <shelf name="adult-romance" count="10"/>
+      <shelf name="part-of-series" count="10"/>
+      <shelf name="strong-heroine" count="10"/>
+      <shelf name="historic" count="10"/>
+      <shelf name="family" count="10"/>
+      <shelf name="historic-romance" count="10"/>
+      <shelf name="2019-read" count="9"/>
+      <shelf name="default" count="9"/>
+      <shelf name="chick-lit" count="9"/>
+      <shelf name="adventure" count="9"/>
+      <shelf name="reviewed" count="9"/>
+      <shelf name="spy" count="9"/>
+      <shelf name="doctor" count="9"/>
+      <shelf name="guilty-pleasures" count="9"/>
+      <shelf name="genre-historical-romance" count="9"/>
+      <shelf name="victorian-romance" count="9"/>
+      <shelf name="kickass-heroine" count="9"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="paperback" count="8"/>
+      <shelf name="maybe" count="8"/>
+      <shelf name="guilty-pleasure" count="8"/>
+      <shelf name="2019-books" count="7"/>
+      <shelf name="all-time-favorites" count="7"/>
+      <shelf name="m-f" count="7"/>
+      <shelf name="romantic" count="7"/>
+      <shelf name="kleypas" count="7"/>
+      <shelf name="favorite" count="7"/>
+      <shelf name="mystery" count="7"/>
+      <shelf name="2018-books-read" count="7"/>
+      <shelf name="5-star" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="alpha-male" count="6"/>
+      <shelf name="spies" count="6"/>
+      <shelf name="history" count="6"/>
+      <shelf name="heroines-i-love" count="6"/>
+      <shelf name="book-boyfriend" count="6"/>
+      <shelf name="badass-heroine" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1026354</id>
+<user_position>4</user_position>
+<series>
+<id>162445</id>
+<title>
+<![CDATA[
+    The Ravenels
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+    Series title as stated in the author's website: http://www.lisakleypas.com/historical.asp
+]]>
+</note>
+<series_works_count>6</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>35695972</id>
+<title><![CDATA[Wicked and the Wallflower (The Bareknuckle Bastards, #1)]]></title>
+<title_without_series>Wicked and the Wallflower</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35695972-wicked-and-the-wallflower]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515028066l/35695972._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515028066l/35695972._SX98_.jpg]]></image_url>
+<num_pages>396</num_pages>
+<work>
+<id>57185173</id>
+</work>
+<isbn>0062692062</isbn>
+<isbn13>9780062692061</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>1598076</id>
+<name>Sarah MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1598076.Sarah_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36111620</id>
+<title><![CDATA[The Governess Game (Girl Meets Duke, #2)]]></title>
+<title_without_series>The Governess Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36111620-the-governess-game]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517431977l/36111620._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517431977l/36111620._SY160_.jpg]]></image_url>
+<num_pages>373</num_pages>
+<work>
+<id>57700166</id>
+</work>
+<isbn>0062672126</isbn>
+<isbn13>9780062672124</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2752928</id>
+<name>Tessa Dare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2752928.Tessa_Dare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35298956</id>
+<title><![CDATA[The Other Miss Bridgerton (Rokesbys, #3)]]></title>
+<title_without_series>The Other Miss Bridgerton</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35298956-the-other-miss-bridgerton]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515706132l/35298956._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515706132l/35298956._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>56666009</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>63898</id>
+<name>Julia Quinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63898.Julia_Quinn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40972652</id>
+<title><![CDATA[The Wallflower Wager (Girl Meets Duke, #3)]]></title>
+<title_without_series>The Wallflower Wager</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40972652-the-wallflower-wager]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552950403l/40972652._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552950403l/40972652._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>63928422</id>
+</work>
+<isbn>0062672150</isbn>
+<isbn13>9780062672155</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>2752928</id>
+<name>Tessa Dare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2752928.Tessa_Dare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35887284</id>
+<title><![CDATA[Too Wilde to Wed (The Wildes of Lindow Castle, #2)]]></title>
+<title_without_series>Too Wilde to Wed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35887284-too-wilde-to-wed]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515521512l/35887284._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515521512l/35887284._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>57403800</id>
+</work>
+<isbn>0062692402</isbn>
+<isbn13>9780062692405</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>86778</id>
+<name>Eloisa James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86778.Eloisa_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221961</id>
+<title><![CDATA[Brazen and the Beast (The Bareknuckle Bastards, #2)]]></title>
+<title_without_series>Brazen and the Beast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221961-brazen-and-the-beast]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543966730l/40221961._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543966730l/40221961._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>57373068</id>
+</work>
+<isbn>0062691988</isbn>
+<isbn13>9780062691989</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1598076</id>
+<name>Sarah MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1598076.Sarah_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38739567</id>
+<title><![CDATA[Born to Be Wilde (The Wildes of Lindow Castle, #3)]]></title>
+<title_without_series>Born to Be Wilde</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38739567-born-to-be-wilde]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531161662l/38739567._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531161662l/38739567._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>60327043</id>
+</work>
+<isbn>0062692410</isbn>
+<isbn13>9780062692412</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>86778</id>
+<name>Eloisa James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86778.Eloisa_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33259027</id>
+<title><![CDATA[The Duchess Deal (Girl Meets Duke, #1)]]></title>
+<title_without_series>The Duchess Deal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33259027-the-duchess-deal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490030736l/33259027._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490030736l/33259027._SY160_.jpg]]></image_url>
+<num_pages>389</num_pages>
+<work>
+<id>53979944</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>2752928</id>
+<name>Tessa Dare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2752928.Tessa_Dare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068744</id>
+<title><![CDATA[Beyond Scandal and Desire (Sins for All Seasons, #1)]]></title>
+<title_without_series>Beyond Scandal and Desire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068744-beyond-scandal-and-desire]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501897181l/35068744._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501897181l/35068744._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>56364174</id>
+</work>
+<isbn>0062676016</isbn>
+<isbn13>9780062676016</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>104926</id>
+<name>Lorraine Heath</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104926.Lorraine_Heath]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40220892</id>
+<title><![CDATA[Say No to the Duke (The Wildes of Lindow Castle, #4)]]></title>
+<title_without_series>Say No to the Duke</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40220892-say-no-to-the-duke]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545574146l/40220892._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545574146l/40220892._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>62459059</id>
+</work>
+<isbn>0062877844</isbn>
+<isbn13>9780062877840</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>86778</id>
+<name>Eloisa James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86778.Eloisa_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33020122</id>
+<title><![CDATA[Wilde in Love (The Wildes of Lindow Castle, #1)]]></title>
+<title_without_series>Wilde in Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33020122-wilde-in-love]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492628386l/33020122._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492628386l/33020122._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>53671782</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>86778</id>
+<name>Eloisa James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86778.Eloisa_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13424032</id>
+<title><![CDATA[One Good Earl Deserves a Lover (The Rules of Scoundrels, #2)]]></title>
+<title_without_series><![CDATA[One Good Earl Deserves a Lover]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13424032-one-good-earl-deserves-a-lover]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360543002l/13424032._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360543002l/13424032._SX98_.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>18886693</id>
+</work>
+<isbn>0062068539</isbn>
+<isbn13>9780062068538</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>1598076</id>
+<name>Sarah MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1598076.Sarah_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35564579</id>
+<title><![CDATA[When a Duke Loves a Woman (Sins for All Seasons, #2)]]></title>
+<title_without_series>When a Duke Loves a Woman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35564579-when-a-duke-loves-a-woman]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513999307l/35564579._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513999307l/35564579._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>56993487</id>
+</work>
+<isbn>0062676040</isbn>
+<isbn13>9780062676047</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>104926</id>
+<name>Lorraine Heath</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104926.Lorraine_Heath]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35927208</id>
+<title>Someone to Care (Westcott #4)</title>
+<title_without_series>Someone to Care</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35927208-someone-to-care]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502145677l/35927208._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502145677l/35927208._SX98_.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>57462759</id>
+</work>
+<isbn>0399586083</isbn>
+<isbn13>9780399586088</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9759</id>
+<name>Mary Balogh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9759.Mary_Balogh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31307650</id>
+<title><![CDATA[The Day of the Duchess (Scandal & Scoundrel, #3)]]></title>
+<title_without_series>The Day of the Duchess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31307650-the-day-of-the-duchess]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477616140l/31307650._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477616140l/31307650._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>51979220</id>
+</work>
+<isbn>0062379461</isbn>
+<isbn13>9780062379467</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1598076</id>
+<name>Sarah MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1598076.Sarah_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17828895</id>
+<title><![CDATA[Never Judge a Lady by Her Cover (The Rules of Scoundrels, #4)]]></title>
+<title_without_series><![CDATA[Never Judge a Lady by Her Cover]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17828895-never-judge-a-lady-by-her-cover]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402596750l/17828895._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402596750l/17828895._SX98_.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>24942717</id>
+</work>
+<isbn>0062068512</isbn>
+<isbn13>9780062068514</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1598076</id>
+<name>Sarah MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1598076.Sarah_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27067875</id>
+<title><![CDATA[A Scot in the Dark (Scandal & Scoundrel, #2)]]></title>
+<title_without_series>A Scot in the Dark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27067875-a-scot-in-the-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504741514l/27067875._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504741514l/27067875._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>46822469</id>
+</work>
+<isbn>0062465848</isbn>
+<isbn13>9780062465849</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1598076</id>
+<name>Sarah MacLean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1598076.Sarah_MacLean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27067876</id>
+<title><![CDATA[Do You Want to Start a Scandal (Spindle Cove, #5; Castles Ever After, #4)]]></title>
+<title_without_series><![CDATA[Do You Want to Start a Scandal]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27067876-do-you-want-to-start-a-scandal]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457268468l/27067876._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457268468l/27067876._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>47109482</id>
+</work>
+<isbn>0062465856</isbn>
+<isbn13>9780062465856</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12849</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>2752928</id>
+<name>Tessa Dare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2752928.Tessa_Dare]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

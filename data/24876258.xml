@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24876258</id>
+  <title><![CDATA[The Aeronaut's Windlass (The Cinder Spires, #1)]]></title>
+  <isbn><![CDATA[0451466802]]></isbn>
+  <isbn13><![CDATA[9780451466808]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425415066l/24876258._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425415066l/24876258._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>Roc</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Jim Butcher, the #1 New York Times bestselling author of The Dresden Files and the Codex Alera novels, conjures up a new series set in a fantastic world of noble families, steam-powered technology, and magic-wielding warriors…<br /><br />Since time immemorial, the Spires have sheltered humanity, towering for miles over the mist-shrouded surface of the world. Within their halls, aristocratic houses have ruled for generations, developing scientific marvels, fostering trade alliances, and building fleets of airships to keep the peace.<br /><br />Captain Grimm commands the merchant ship, <i>Predator</i>. Fiercely loyal to Spire Albion, he has taken their side in the cold war with Spire Aurora, disrupting the enemy’s shipping lines by attacking their cargo vessels. But when the <i>Predator</i> is severely damaged in combat, leaving captain and crew grounded, Grimm is offered a proposition from the Spirearch of Albion—to join a team of agents on a vital mission in exchange for fully restoring <i>Predator</i> to its fighting glory.<br /><br />And even as Grimm undertakes this dangerous task, he will learn that the conflict between the Spires is merely a premonition of things to come. Humanity’s ancient enemy, silent for more than ten thousand years, has begun to stir once more. And death will follow in its wake…]]></description>
+  <work>
+  <id type="integer">24239884</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">24876258</best_book_id>
+  <reviews_count type="integer">76168</reviews_count>
+  <ratings_sum type="integer">143677</ratings_sum>
+  <ratings_count type="integer">34407</ratings_count>
+  <text_reviews_count type="integer">3877</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_title>The Aeronaut's Windlass </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:14476|4:13507|3:4840|2:1165|1:419|total:34407</rating_dist>
+  <desc_user_id type="integer">25638423</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.pV-V3ndPRENP6PgqOhK9UA</work_uri>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[630]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[27554]]></ratings_count>
+  <text_reviews_count><![CDATA[3299]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24876258-the-aeronaut-s-windlass]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24876258-the-aeronaut-s-windlass]]></link>
+  <authors>
+<author>
+<id>10746</id>
+<name>Jim Butcher</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1400640324p5/10746.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1400640324p2/10746.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>2283353</ratings_count>
+<text_reviews_count>93745</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24876258-the-aeronaut-s-windlass">The Aeronaut&#39;s Windlass Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451466802&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/24876258-the-aeronaut-s-windlass?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8444"/>
+      <shelf name="fantasy" count="2344"/>
+      <shelf name="steampunk" count="855"/>
+      <shelf name="currently-reading" count="656"/>
+      <shelf name="fiction" count="321"/>
+      <shelf name="science-fiction" count="315"/>
+      <shelf name="sci-fi" count="246"/>
+      <shelf name="favorites" count="231"/>
+      <shelf name="audiobook" count="202"/>
+      <shelf name="owned" count="192"/>
+      <shelf name="series" count="139"/>
+      <shelf name="audiobooks" count="134"/>
+      <shelf name="adventure" count="126"/>
+      <shelf name="jim-butcher" count="117"/>
+      <shelf name="steam-punk" count="108"/>
+      <shelf name="audio" count="105"/>
+      <shelf name="library" count="103"/>
+      <shelf name="sci-fi-fantasy" count="100"/>
+      <shelf name="books-i-own" count="78"/>
+      <shelf name="adult" count="78"/>
+      <shelf name="kindle" count="71"/>
+      <shelf name="audible" count="69"/>
+      <shelf name="ebook" count="59"/>
+      <shelf name="scifi" count="56"/>
+      <shelf name="epic-fantasy" count="55"/>
+      <shelf name="urban-fantasy" count="52"/>
+      <shelf name="default" count="50"/>
+      <shelf name="audio-book" count="49"/>
+      <shelf name="read-in-2015" count="49"/>
+      <shelf name="dnf" count="47"/>
+      <shelf name="abandoned" count="46"/>
+      <shelf name="read-in-2016" count="43"/>
+      <shelf name="audio-books" count="43"/>
+      <shelf name="magic" count="41"/>
+      <shelf name="scifi-fantasy" count="41"/>
+      <shelf name="high-fantasy" count="40"/>
+      <shelf name="to-buy" count="38"/>
+      <shelf name="action" count="37"/>
+      <shelf name="fantasy-sci-fi" count="36"/>
+      <shelf name="read-2016" count="35"/>
+      <shelf name="read-2015" count="35"/>
+      <shelf name="owned-books" count="31"/>
+      <shelf name="maybe" count="30"/>
+      <shelf name="first-in-series" count="30"/>
+      <shelf name="did-not-finish" count="29"/>
+      <shelf name="to-read-fantasy" count="26"/>
+      <shelf name="borrowed" count="24"/>
+      <shelf name="ebooks" count="24"/>
+      <shelf name="action-adventure" count="23"/>
+      <shelf name="butcher" count="23"/>
+      <shelf name="e-book" count="22"/>
+      <shelf name="cinder-spires" count="22"/>
+      <shelf name="science-fiction-fantasy" count="22"/>
+      <shelf name="adult-fiction" count="21"/>
+      <shelf name="2015-releases" count="21"/>
+      <shelf name="2015-reads" count="21"/>
+      <shelf name="young-adult" count="21"/>
+      <shelf name="adult-fantasy" count="21"/>
+      <shelf name="tbr" count="21"/>
+      <shelf name="fantasy-scifi" count="20"/>
+      <shelf name="read-in-2017" count="19"/>
+      <shelf name="sf" count="19"/>
+      <shelf name="wish-list" count="19"/>
+      <shelf name="my-books" count="18"/>
+      <shelf name="war" count="17"/>
+      <shelf name="cats" count="17"/>
+      <shelf name="fantasy-to-read" count="17"/>
+      <shelf name="book-club" count="17"/>
+      <shelf name="read-2017" count="16"/>
+      <shelf name="novels" count="16"/>
+      <shelf name="netgalley" count="16"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="speculative-fiction" count="16"/>
+      <shelf name="the-cinder-spires" count="16"/>
+      <shelf name="butcher-jim" count="16"/>
+      <shelf name="2016-reading-challenge" count="15"/>
+      <shelf name="library-book" count="15"/>
+      <shelf name="military" count="15"/>
+      <shelf name="sff" count="15"/>
+      <shelf name="books" count="14"/>
+      <shelf name="ya" count="14"/>
+      <shelf name="on-hold" count="14"/>
+      <shelf name="pirates" count="14"/>
+      <shelf name="unfinished" count="13"/>
+      <shelf name="overdrive" count="13"/>
+      <shelf name="own-it" count="13"/>
+      <shelf name="reviewed" count="13"/>
+      <shelf name="calibre" count="13"/>
+      <shelf name="arc" count="13"/>
+      <shelf name="fantasy-series" count="13"/>
+      <shelf name="to-read-fiction" count="13"/>
+      <shelf name="2016-read" count="12"/>
+      <shelf name="didn-t-finish" count="12"/>
+      <shelf name="listened-to" count="12"/>
+      <shelf name="sub" count="12"/>
+      <shelf name="sf-f" count="12"/>
+      <shelf name="post-apocalyptic" count="12"/>
+      <shelf name="epic" count="12"/>
+      <shelf name="e-books" count="12"/>
+      <shelf name="dystopian" count="12"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>473730</id>
+<user_position>1</user_position>
+<series>
+<id>98053</id>
+<title>
+<![CDATA[
+    The Cinder Spires
+]]>
+</title>
+<description>
+<![CDATA[
+    Polish: Żwirowe Kasztele
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>36642458</id>
+<title>Skyward (Skyward, #1)</title>
+<title_without_series>Skyward</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36642458-skyward]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531845177l/36642458._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531845177l/36642458._SX98_.jpg]]></image_url>
+<num_pages>513</num_pages>
+<work>
+<id>58411143</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>38550</id>
+<name>Brandon Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9533378</id>
+<title><![CDATA[Hounded (The Iron Druid Chronicles, #1)]]></title>
+<title_without_series>Hounded</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9533378-hounded]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883998l/9533378._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883998l/9533378._SY160_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>14419515</id>
+</work>
+<isbn>0345522478</isbn>
+<isbn13>9780345522474</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4414255</id>
+<name>Kevin Hearne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4414255.Kevin_Hearne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34002132</id>
+<title><![CDATA[Oathbringer (The Stormlight Archive, #3)]]></title>
+<title_without_series>Oathbringer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34002132-oathbringer]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307833l/34002132._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307833l/34002132._SX98_.jpg]]></image_url>
+<num_pages>1248</num_pages>
+<work>
+<id>23840254</id>
+</work>
+<isbn>076532637X</isbn>
+<isbn13>9780765326379</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>38550</id>
+<name>Brandon Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7165300</id>
+<title><![CDATA[The Black Prism (Lightbringer, #1)]]></title>
+<title_without_series>The Black Prism</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7165300-the-black-prism]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327921884l/7165300._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327921884l/7165300._SX98_.jpg]]></image_url>
+<num_pages>629</num_pages>
+<work>
+<id>7534979</id>
+</work>
+<isbn>0316075558</isbn>
+<isbn13>9780316075558</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1370283</id>
+<name>Brent Weeks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1370283.Brent_Weeks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15790883</id>
+<title><![CDATA[Promise of Blood (Powder Mage, #1)]]></title>
+<title_without_series>Promise of Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15790883-promise-of-blood]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350337505l/15790883._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350337505l/15790883._SX98_.jpg]]></image_url>
+<num_pages>545</num_pages>
+<work>
+<id>21512438</id>
+</work>
+<isbn>0316219037</isbn>
+<isbn13>9780316219037</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6524620</id>
+<name>Brian  McClellan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6524620.Brian_McClellan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29467232</id>
+<title><![CDATA[The Blood Mirror (Lightbringer, #4)]]></title>
+<title_without_series>The Blood Mirror</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29467232-the-blood-mirror]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458662967l/29467232._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458662967l/29467232._SX98_.jpg]]></image_url>
+<num_pages>704</num_pages>
+<work>
+<id>24509684</id>
+</work>
+<isbn>031625133X</isbn>
+<isbn13>9780316251334</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1370283</id>
+<name>Brent Weeks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1370283.Brent_Weeks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37173847</id>
+<title>Foundryside (Founders, #1)</title>
+<title_without_series>Foundryside</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37173847-foundryside]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520460880l/37173847._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520460880l/37173847._SX98_.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>58951160</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2916869</id>
+<name>Robert Jackson Bennett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2916869.Robert_Jackson_Bennett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22443261</id>
+<title><![CDATA[The Rithmatist (The Rithmatist, #1)]]></title>
+<title_without_series>The Rithmatist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22443261-the-rithmatist]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15035866</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>38550</id>
+<name>Brandon Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40604556</id>
+<title><![CDATA[Red Seas Under Red Skies (Gentleman Bastard, #2)]]></title>
+<title_without_series>Red Seas Under Red Skies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40604556-red-seas-under-red-skies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529603335l/40604556._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529603335l/40604556._SX98_.jpg]]></image_url>
+<num_pages>578</num_pages>
+<work>
+<id>856785</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>73149</id>
+<name>Scott Lynch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73149.Scott_Lynch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12499290</id>
+<title><![CDATA[The Blinding Knife (Lightbringer, #2)]]></title>
+<title_without_series>The Blinding Knife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12499290-the-blinding-knife]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338432693l/12499290._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338432693l/12499290._SX98_.jpg]]></image_url>
+<num_pages>671</num_pages>
+<work>
+<id>17484647</id>
+</work>
+<isbn>031607991X</isbn>
+<isbn13>9780316079914</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>1370283</id>
+<name>Brent Weeks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1370283.Brent_Weeks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12652457</id>
+<title><![CDATA[The Broken Eye (Lightbringer, #3)]]></title>
+<title_without_series>The Broken Eye</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12652457-the-broken-eye]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376583941l/12652457._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376583941l/12652457._SX98_.jpg]]></image_url>
+<num_pages>846</num_pages>
+<work>
+<id>17766175</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1370283</id>
+<name>Brent Weeks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1370283.Brent_Weeks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9595650</id>
+<title><![CDATA[Hexed (The Iron Druid Chronicles, #2)]]></title>
+<title_without_series>Hexed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9595650-hexed]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>14482685</id>
+</work>
+<isbn>0345522494</isbn>
+<isbn13>9780345522498</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4414255</id>
+<name>Kevin Hearne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4414255.Kevin_Hearne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22878967</id>
+<title><![CDATA[The Shadow of What Was Lost (The Licanius Trilogy, #1)]]></title>
+<title_without_series>The Shadow of What Was Lost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22878967-the-shadow-of-what-was-lost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507308087l/22878967._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507308087l/22878967._SX98_.jpg]]></image_url>
+<num_pages>602</num_pages>
+<work>
+<id>42428433</id>
+</work>
+<isbn>099258020X</isbn>
+<isbn13>9780992580209</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>8427407</id>
+<name>James Islington</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8427407.James_Islington]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2890090</id>
+<title><![CDATA[The Republic of Thieves (Gentleman Bastard, #3)]]></title>
+<title_without_series>The Republic of Thieves</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2890090-the-republic-of-thieves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>650</num_pages>
+<work>
+<id>2916344</id>
+</work>
+<isbn>0553804693</isbn>
+<isbn13>9780553804690</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>73149</id>
+<name>Scott Lynch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73149.Scott_Lynch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18739426</id>
+<title><![CDATA[The Bands of Mourning (Mistborn, #6)]]></title>
+<title_without_series>The Bands of Mourning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18739426-the-bands-of-mourning]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450134973l/18739426._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450134973l/18739426._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>26616838</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>38550</id>
+<name>Brandon Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16065004</id>
+<title><![CDATA[Shadows of Self (Mistborn, #5)]]></title>
+<title_without_series>Shadows of Self</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16065004-shadows-of-self]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435053013l/16065004._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435053013l/16065004._SX98_.jpg]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>21855448</id>
+</work>
+<isbn>0765378558</isbn>
+<isbn13>9780765378552</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>38550</id>
+<name>Brandon Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20887238</id>
+<title><![CDATA[Traitor's Blade (Greatcoats, #1)]]></title>
+<title_without_series>Traitor&apos;s Blade</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20887238-traitor-s-blade]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26734625</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7390210</id>
+<name>Sebastien de Castell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7390210.Sebastien_de_Castell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16043804</id>
+<title><![CDATA[The Crown Tower (The Riyria Chronicles, #1)]]></title>
+<title_without_series>The Crown Tower</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16043804-the-crown-tower]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375570227l/16043804._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375570227l/16043804._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>21821161</id>
+</work>
+<isbn>031624371X</isbn>
+<isbn13>9780316243711</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>34407</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>2063919</id>
+<name>Michael J. Sullivan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2063919.Michael_J_Sullivan]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

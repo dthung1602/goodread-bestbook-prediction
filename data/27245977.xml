@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>27245977</id>
+  <title><![CDATA[Housebroken: Admissions of an Untidy Life]]></title>
+  <isbn><![CDATA[1101886080]]></isbn>
+  <isbn13><![CDATA[9781101886083]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457891550l/27245977._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457891550l/27245977._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Ballantine Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[#1 <i>New York Times</i> bestselling author Laurie Notaro isn’t exactly a domestic goddess—unless that means she fully embraces her genetic hoarding predisposition, sneaks peeks at her husband’s daily journal, or has made a list of the people she wants on her Apocalypse Survival team (her husband’s not on it). <br /><br />Inspired by Victorian household manuals, Notaro chronicles her chronic misfortune in the domestic arts, including cooking, cleaning, and putting on Spanx while sweaty (which should technically qualify as an Olympic sport). <br /><br /><i>Housebroken</i> is a rollicking new collection of essays showcasing her irreverent wit and inability to feel shame. From defying nature in the quest to making her own Twinkies, to begging her new neighbors not to become urban livestock keepers, to teaching her eight-year-old nephew about hobos, Notaro recounts her best efforts—and hilarious failures—in keeping a household inches away from being condemned. After all, home wasn’t built in a day.]]></description>
+  <work>
+  <id type="integer">47294323</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">27245798</best_book_id>
+  <reviews_count type="integer">8282</reviews_count>
+  <ratings_sum type="integer">6760</ratings_sum>
+  <ratings_count type="integer">1770</ratings_count>
+  <text_reviews_count type="integer">276</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">12</original_publication_day>
+  <original_title>Housebroken: Admissions of an Untidy Life</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:463|4:702|3:461|2:110|1:34|total:1770</rating_dist>
+  <desc_user_id type="integer">722608</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.nVR5RzXcLAuFAP5Cd5mF5w</work_uri>
+</work>
+  <average_rating>3.82</average_rating>
+  <num_pages><![CDATA[288]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[268]]></ratings_count>
+  <text_reviews_count><![CDATA[45]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/27245977-housebroken]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/27245977-housebroken]]></link>
+  <authors>
+<author>
+<id>5098</id>
+<name>Laurie Notaro</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1308905854p5/5098.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1308905854p2/5098.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5098.Laurie_Notaro]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>78815</ratings_count>
+<text_reviews_count>6201</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/27245977-housebroken">Housebroken Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1101886080&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/27245977-housebroken?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5855"/>
+      <shelf name="currently-reading" count="193"/>
+      <shelf name="humor" count="92"/>
+      <shelf name="non-fiction" count="80"/>
+      <shelf name="nonfiction" count="45"/>
+      <shelf name="memoir" count="43"/>
+      <shelf name="essays" count="20"/>
+      <shelf name="memoirs" count="16"/>
+      <shelf name="audiobook" count="14"/>
+      <shelf name="library" count="11"/>
+      <shelf name="funny" count="9"/>
+      <shelf name="humour" count="7"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="kindle" count="7"/>
+      <shelf name="abandoned" count="6"/>
+      <shelf name="audio" count="6"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="audible" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="comedy" count="4"/>
+      <shelf name="favorites" count="4"/>
+      <shelf name="read-in-2018" count="3"/>
+      <shelf name="autobiography" count="3"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="interested" count="3"/>
+      <shelf name="to-read-non-fiction" count="3"/>
+      <shelf name="memoir-biography" count="3"/>
+      <shelf name="biography" count="3"/>
+      <shelf name="read-2019" count="2"/>
+      <shelf name="e-books" count="2"/>
+      <shelf name="2018-books-read" count="2"/>
+      <shelf name="shelved" count="2"/>
+      <shelf name="chick-lit" count="2"/>
+      <shelf name="library-books" count="2"/>
+      <shelf name="laurie-notaro" count="2"/>
+      <shelf name="2018-books" count="2"/>
+      <shelf name="fun" count="2"/>
+      <shelf name="bios-memoirs" count="2"/>
+      <shelf name="biography-autobiography-memoir" count="2"/>
+      <shelf name="listened-to" count="2"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="published-2016" count="2"/>
+      <shelf name="books-read-in-2017" count="2"/>
+      <shelf name="library-borrowed" count="2"/>
+      <shelf name="to-read-need-to-buy" count="2"/>
+      <shelf name="5-stars" count="2"/>
+      <shelf name="feel-good" count="2"/>
+      <shelf name="biography-memoir" count="2"/>
+      <shelf name="books-of-2016" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="essay-collections" count="2"/>
+      <shelf name="non-fic" count="2"/>
+      <shelf name="memoirs-and-biographies" count="2"/>
+      <shelf name="books-read-in-2016" count="2"/>
+      <shelf name="library-book" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="women" count="2"/>
+      <shelf name="giveaway-wins" count="2"/>
+      <shelf name="non-fiction-to-read" count="2"/>
+      <shelf name="adult-fiction" count="2"/>
+      <shelf name="amazon-vine" count="2"/>
+      <shelf name="arc" count="2"/>
+      <shelf name="netgalley" count="2"/>
+      <shelf name="first-reads" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="partially-read" count="1"/>
+      <shelf name="popsugar-2017" count="1"/>
+      <shelf name="libby" count="1"/>
+      <shelf name="biographical" count="1"/>
+      <shelf name="c-2-c-2019" count="1"/>
+      <shelf name="books-on-disc" count="1"/>
+      <shelf name="nonfiction-to-read" count="1"/>
+      <shelf name="light-reading" count="1"/>
+      <shelf name="tried-but-didn-t-like-it" count="1"/>
+      <shelf name="memoirs-biography" count="1"/>
+      <shelf name="audiobook-listened-not-read" count="1"/>
+      <shelf name="2016nonfiction-grca" count="1"/>
+      <shelf name="rpl" count="1"/>
+      <shelf name="not-in-local-libs" count="1"/>
+      <shelf name="priority-reading" count="1"/>
+      <shelf name="will-not-finish-right-now" count="1"/>
+      <shelf name="owned-borrowed-tbr" count="1"/>
+      <shelf name="library-book-physical" count="1"/>
+      <shelf name="2016-readers-choice" count="1"/>
+      <shelf name="memoirs-true-stories" count="1"/>
+      <shelf name="didn-t-finish" count="1"/>
+      <shelf name="august-2019" count="1"/>
+      <shelf name="stories-and-essays" count="1"/>
+      <shelf name="me-books" count="1"/>
+      <shelf name="get-from-library" count="1"/>
+      <shelf name="favorite-books" count="1"/>
+      <shelf name="2021-11" count="1"/>
+      <shelf name="1-playster" count="1"/>
+      <shelf name="x" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23398854</id>
+<title>I Regret Nothing</title>
+<title_without_series>I Regret Nothing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23398854-i-regret-nothing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421531010l/23398854._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421531010l/23398854._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>42955375</id>
+</work>
+<isbn>0451471075</isbn>
+<isbn13>9780451471079</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>14577</id>
+<name>Jen Lancaster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14577.Jen_Lancaster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6561352</id>
+<title><![CDATA[You Can't Drink All Day If You Don't Start in the Morning]]></title>
+<title_without_series><![CDATA[You Can't Drink All Day If You Don't Start in the Morning]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6561352-you-can-t-drink-all-day-if-you-don-t-start-in-the-morning]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>6754135</id>
+</work>
+<isbn>031236301X</isbn>
+<isbn13>9780312363017</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>114442</id>
+<name>Celia Rivenbark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114442.Celia_Rivenbark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15808650</id>
+<title><![CDATA[The Tao of Martha: My Year of LIVING; Or, Why I'm Never Getting All That Glitter Off of the Dog]]></title>
+<title_without_series><![CDATA[The Tao of Martha: My Year of LIVING; Or, Why I'm Never Getting All That Glitter Off of the Dog]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15808650-the-tao-of-martha]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353351021l/15808650._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353351021l/15808650._SX98_.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>21533290</id>
+</work>
+<isbn>0451417631</isbn>
+<isbn13>9780451417633</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14577</id>
+<name>Jen Lancaster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14577.Jen_Lancaster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35670250</id>
+<title>Stories I&apos;d Tell in Bars</title>
+<title_without_series>Stories I&apos;d Tell in Bars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35670250-stories-i-d-tell-in-bars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500047563l/35670250._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500047563l/35670250._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>57133982</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>14577</id>
+<name>Jen Lancaster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14577.Jen_Lancaster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12332573</id>
+<title><![CDATA[Jeneration X: One Reluctant Adult's Attempt to Unarrest Her Arrested Development; Or, Why It's  Never Too Late for Her Dumb Ass to Learn Why Froot Loops Are Not for Dinner]]></title>
+<title_without_series><![CDATA[Jeneration X: One Reluctant Adult's Attempt to Unarrest Her Arrested Development; Or, Why It's  Never Too Late for Her Dumb Ass to Learn Why Froot Loops Are Not for Dinner]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12332573-jeneration-x]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>17311607</id>
+</work>
+<isbn>0451233174</isbn>
+<isbn13>9780451233172</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14577</id>
+<name>Jen Lancaster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14577.Jen_Lancaster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8520878</id>
+<title><![CDATA[It's All Relative: Two Families, Three Dogs, 34 Holidays, and 50 Boxes of Wine (A Memoir)]]></title>
+<title_without_series><![CDATA[It's All Relative: Two Families, Three Dogs, 34 Holidays, and 50 Boxes of Wine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8520878-it-s-all-relative]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397539l/8520878._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397539l/8520878._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>13387671</id>
+</work>
+<isbn>0307718719</isbn>
+<isbn13>9780307718716</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>47517</id>
+<name>Wade Rouse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47517.Wade_Rouse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25817690</id>
+<title><![CDATA[I Want My Epidural Back: Adventures in Mediocre Parenting]]></title>
+<title_without_series><![CDATA[I Want My Epidural Back: Adventures in Mediocre Parenting]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25817690-i-want-my-epidural-back]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457893082l/25817690._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457893082l/25817690._SX98_.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>45674566</id>
+</work>
+<isbn>0062427083</isbn>
+<isbn13>9780062427083</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7091170</id>
+<name>Karen Alpert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7091170.Karen_Alpert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24904361</id>
+<title><![CDATA[Spending the Holidays with People I Want to Punch in the Throat: Yuletide Yahoos, Ho-Ho-Humblebraggers, and Other Seasonal Scourges]]></title>
+<title_without_series><![CDATA[Spending the Holidays with People I Want to Punch in the Throat: Yuletide Yahoos, Ho-Ho-Humblebraggers, and Other Seasonal Scourges]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24904361-spending-the-holidays-with-people-i-want-to-punch-in-the-throat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439917636l/24904361._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439917636l/24904361._SX98_.jpg]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>21860464</id>
+</work>
+<isbn>0345549996</isbn>
+<isbn13>9780345549990</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>6549080</id>
+<name>Jen Mann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6549080.Jen_Mann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42202016</id>
+<title><![CDATA[I Ain't Doin' It: Unfiltered Thoughts From a Sarcastic Southern Sweetheart]]></title>
+<title_without_series><![CDATA[I Ain't Doin' It: Unfiltered Thoughts From a Sarcastic Southern Sweetheart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42202016-i-ain-t-doin-it]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555840974l/42202016._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555840974l/42202016._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>65814503</id>
+</work>
+<isbn>1982104090</isbn>
+<isbn13>9781982104092</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>12838786</id>
+<name>Heather Land</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12838786.Heather_Land]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9935322</id>
+<title><![CDATA[Rebellion in Newark: Official Violence and Ghetto Response]]></title>
+<title_without_series><![CDATA[Rebellion in Newark: Official Violence and Ghetto Response]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9935322-rebellion-in-newark]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>14828489</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>1967</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>109728</id>
+<name>Tom Hayden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/109728.Tom_Hayden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35520998</id>
+<title>My Neighbor Seki, Vol. 10</title>
+<title_without_series>My Neighbor Seki, Vol. 10</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35520998-my-neighbor-seki-vol-10]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499239570l/35520998._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499239570l/35520998._SX98_.jpg]]></image_url>
+<num_pages>162</num_pages>
+<work>
+<id>56936975</id>
+</work>
+<isbn>1945054506</isbn>
+<isbn13>9781945054501</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>7812809</id>
+<name>Takuma Morishige</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7812809.Takuma_Morishige]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31671518</id>
+<title>My Neighbor Seki, Vol. 9</title>
+<title_without_series>My Neighbor Seki, Vol. 9</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31671518-my-neighbor-seki-vol-9]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490781157l/31671518._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490781157l/31671518._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>52340092</id>
+</work>
+<isbn>1945054018</isbn>
+<isbn13>9781945054013</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7812809</id>
+<name>Takuma Morishige</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7812809.Takuma_Morishige]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34068527</id>
+<title><![CDATA[A Most Improbable Journey: A Big History of Our Planet and Ourselves]]></title>
+<title_without_series><![CDATA[A Most Improbable Journey: A Big History of Our Planet and Ourselves]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34068527-a-most-improbable-journey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505507051l/34068527._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505507051l/34068527._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>48998607</id>
+</work>
+<isbn>0393355195</isbn>
+<isbn13>9780393355192</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>48103</id>
+<name>Walter Álvarez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48103.Walter_lvarez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101206</id>
+<title><![CDATA[Whisperers: The Secret History of the Spirit World]]></title>
+<title_without_series><![CDATA[Whisperers: The Secret History of the Spirit World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101206-whisperers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356203854l/16101206._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356203854l/16101206._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>21911507</id>
+</work>
+<isbn>1590208625</isbn>
+<isbn13>9781590208625</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>72854</id>
+<name>J.H. Brennan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72854.J_H_Brennan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>681878</id>
+<title><![CDATA[Nothing Remains the Same: Rereading and Remembering]]></title>
+<title_without_series><![CDATA[Nothing Remains the Same: Rereading and Remembering]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/681878.Nothing_Remains_the_Same]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382944901l/681878._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382944901l/681878._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>668271</id>
+</work>
+<isbn>0618340815</isbn>
+<isbn13>9780618340811</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>63383</id>
+<name>Wendy Lesser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63383.Wendy_Lesser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41070067</id>
+<title><![CDATA[Geeky Fab 5 vol. 1: It's Not Rocket Science (Geeky Fab Five)]]></title>
+<title_without_series><![CDATA[Geeky Fab 5 vol. 1: It's Not Rocket Science]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41070067-geeky-fab-5-vol-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64154791</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17441424</id>
+<name>Liz Lareau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17441424.Liz_Lareau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43822272</id>
+<title>Unplugged and Unpopular</title>
+<title_without_series>Unplugged and Unpopular</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43822272-unplugged-and-unpopular]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551249243l/43822272._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551249243l/43822272._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>68194180</id>
+</work>
+<isbn>1620106698</isbn>
+<isbn13>9781620106693</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>6521082</id>
+<name>Mat Heagerty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6521082.Mat_Heagerty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18248422</id>
+<title><![CDATA[People I Want to Punch in the Throat: Competitive Crafters, Drop-Off Despots, and Other Suburban Scourges]]></title>
+<title_without_series><![CDATA[People I Want to Punch in the Throat: Competitive Crafters, Drop-Off Despots, and Other Suburban Scourges]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18248422-people-i-want-to-punch-in-the-throat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413747861l/18248422._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413747861l/18248422._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>25701205</id>
+</work>
+<isbn>034554983X</isbn>
+<isbn13>9780345549839</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1770</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6549080</id>
+<name>Jen Mann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6549080.Jen_Mann]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13260645</id>
+  <title>A Little Book of Sloth</title>
+  <isbn><![CDATA[1442445572]]></isbn>
+  <isbn13><![CDATA[9781442445581]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376784442l/13260645._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376784442l/13260645._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Margaret K. McElderry Books</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Cozy up with adorable baby sloths in this irresistible photographic picture book.</b>Hang around just like a sloth and get to know the delightful residents of the Avarios Sloth Sanctuary in Costa Rica, the world’s largest sloth orphanage. You’ll fall in love with bad-boy Mateo, ooh and ahh over baby Biscuit, and want to wrap your arms around champion cuddle buddy Ubu!<br /><br />From British filmmaker and sloth expert Lucy Cooke comes a hilarious, heart-melting photographic picture book starring the laziest—and one of the cutest—animals on the planet.]]></description>
+  <work>
+  <id type="integer">18462151</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">13260645</best_book_id>
+  <reviews_count type="integer">3035</reviews_count>
+  <ratings_sum type="integer">6256</ratings_sum>
+  <ratings_count type="integer">1445</ratings_count>
+  <text_reviews_count type="integer">378</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>A Little Book of Sloth</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:757|4:466|3:175|2:35|1:12|total:1445</rating_dist>
+  <desc_user_id type="integer">2799203</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.520DSPzwHj8I2P99_7f2kg</work_uri>
+</work>
+  <average_rating>4.33</average_rating>
+  <num_pages><![CDATA[64]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1215]]></ratings_count>
+  <text_reviews_count><![CDATA[342]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13260645-a-little-book-of-sloth]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13260645-a-little-book-of-sloth]]></link>
+  <authors>
+<author>
+<id>5398583</id>
+<name>Lucy Cooke</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5398583.Lucy_Cooke]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>3626</ratings_count>
+<text_reviews_count>780</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13260645-a-little-book-of-sloth">A Little Book of Sloth Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1442445572&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/13260645-a-little-book-of-sloth?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1321"/>
+      <shelf name="non-fiction" count="135"/>
+      <shelf name="picture-books" count="128"/>
+      <shelf name="nonfiction" count="95"/>
+      <shelf name="animals" count="77"/>
+      <shelf name="childrens" count="42"/>
+      <shelf name="picture-book" count="39"/>
+      <shelf name="children-s" count="23"/>
+      <shelf name="children" count="22"/>
+      <shelf name="children-s-books" count="18"/>
+      <shelf name="science" count="14"/>
+      <shelf name="kids" count="14"/>
+      <shelf name="childrens-books" count="14"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="nature" count="13"/>
+      <shelf name="sloths" count="12"/>
+      <shelf name="currently-reading" count="10"/>
+      <shelf name="juvenile-nonfiction" count="10"/>
+      <shelf name="photography" count="10"/>
+      <shelf name="monarch-2015" count="9"/>
+      <shelf name="read-in-2013" count="8"/>
+      <shelf name="children-s-lit" count="7"/>
+      <shelf name="animal" count="7"/>
+      <shelf name="childrens-nonfiction" count="7"/>
+      <shelf name="picture" count="7"/>
+      <shelf name="juvenile" count="7"/>
+      <shelf name="kids-books" count="6"/>
+      <shelf name="childrens-non-fiction" count="5"/>
+      <shelf name="elementary" count="5"/>
+      <shelf name="costa-rica" count="5"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="2015-monarch" count="4"/>
+      <shelf name="picturebooks" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="informational" count="4"/>
+      <shelf name="humor" count="4"/>
+      <shelf name="children-non-fiction" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="childrens-picture-books" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="preschool" count="4"/>
+      <shelf name="1st-grade" count="4"/>
+      <shelf name="children-s-picture-books" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="give-your-child-the-world" count="3"/>
+      <shelf name="read-2014" count="3"/>
+      <shelf name="j-nonfic" count="3"/>
+      <shelf name="monarch" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="nonfic" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="school-age" count="3"/>
+      <shelf name="animal-books" count="3"/>
+      <shelf name="non-fiction-picture-books" count="3"/>
+      <shelf name="juvenile-non-fiction" count="3"/>
+      <shelf name="narrative-nonfiction" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="juv-non-fiction" count="3"/>
+      <shelf name="informative" count="3"/>
+      <shelf name="cute" count="3"/>
+      <shelf name="kids-read" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="recommendations" count="2"/>
+      <shelf name="oliver" count="2"/>
+      <shelf name="sloth" count="2"/>
+      <shelf name="award-winners" count="2"/>
+      <shelf name="young-adult" count="2"/>
+      <shelf name="juv-nf" count="2"/>
+      <shelf name="children-nonfiction" count="2"/>
+      <shelf name="read-picture-books" count="2"/>
+      <shelf name="favorite-kids-books" count="2"/>
+      <shelf name="coffee-table" count="2"/>
+      <shelf name="monarch-nominee-2015" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="childrens-literature" count="2"/>
+      <shelf name="bookaday" count="2"/>
+      <shelf name="baby-books" count="2"/>
+      <shelf name="kid-books" count="2"/>
+      <shelf name="new-books" count="2"/>
+      <shelf name="j-nonfiction" count="2"/>
+      <shelf name="vocabulary" count="2"/>
+      <shelf name="wild-animals" count="2"/>
+      <shelf name="kids-science" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="grades-2-4" count="2"/>
+      <shelf name="kids-book" count="2"/>
+      <shelf name="animals-nature" count="2"/>
+      <shelf name="kids-non-fiction" count="2"/>
+      <shelf name="animal-stories" count="2"/>
+      <shelf name="environment" count="2"/>
+      <shelf name="children-picture" count="2"/>
+      <shelf name="art-photography" count="2"/>
+      <shelf name="pb-nonfiction" count="2"/>
+      <shelf name="nonfiction-children-s" count="2"/>
+      <shelf name="grades-3-5" count="2"/>
+      <shelf name="non-fic" count="2"/>
+      <shelf name="south-america" count="2"/>
+      <shelf name="central-america" count="2"/>
+      <shelf name="2013-reads" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>33413895</id>
+<title><![CDATA[The Girl Who Drew Butterflies: How Maria Merian's Art Changed Science]]></title>
+<title_without_series><![CDATA[The Girl Who Drew Butterflies: How Maria Merian's Art Changed Science]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33413895-the-girl-who-drew-butterflies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494057493l/33413895._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494057493l/33413895._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>54173012</id>
+</work>
+<isbn>0544717139</isbn>
+<isbn13>9780544717138</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>386001</id>
+<name>Joyce Sidman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/386001.Joyce_Sidman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39292619</id>
+<title><![CDATA[Little Dreamers: Visionary Women Around the World]]></title>
+<title_without_series><![CDATA[Little Dreamers: Visionary Women Around the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39292619-little-dreamers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535771604l/39292619._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535771604l/39292619._SX98_.jpg]]></image_url>
+<num_pages>90</num_pages>
+<work>
+<id>60865115</id>
+</work>
+<isbn>0241346878</isbn>
+<isbn13>9780241346877</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>16890089</id>
+<name>Vashti Harrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16890089.Vashti_Harrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18842296</id>
+<title>Polar Bears and Penguins</title>
+<title_without_series>Polar Bears and Penguins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18842296-polar-bears-and-penguins]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385350551l/18842296._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385350551l/18842296._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26784877</id>
+</work>
+<isbn>1628552093</isbn>
+<isbn13>9781628552096</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3145132</id>
+<name>Katharine Hall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3145132.Katharine_Hall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18229546</id>
+<title>Wild About Bears</title>
+<title_without_series>Wild About Bears</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18229546-wild-about-bears]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375676820l/18229546._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375676820l/18229546._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>25665768</id>
+</work>
+<isbn>1580894186</isbn>
+<isbn13>9781580894180</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>239135</id>
+<name>Jeannie Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/239135.Jeannie_Brett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29102863</id>
+<title>Becoming Bach</title>
+<title_without_series>Becoming Bach</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29102863-becoming-bach]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483081387l/29102863._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483081387l/29102863._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>49340917</id>
+</work>
+<isbn>1626722862</isbn>
+<isbn13>9781626722866</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>71027</id>
+<name>Tom Leonard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71027.Tom_Leonard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35797220</id>
+<title><![CDATA[On Our Street: Our First Talk about Poverty]]></title>
+<title_without_series><![CDATA[On Our Street: Our First Talk about Poverty]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35797220-on-our-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502134736l/35797220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502134736l/35797220._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>57296819</id>
+</work>
+<isbn>145981617X</isbn>
+<isbn13>9781459816176</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>1226221</id>
+<name>Jillian Roberts</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1226221.Jillian_Roberts]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14823914</id>
+<title>Elizabeth, Queen of the Seas</title>
+<title_without_series>Elizabeth, Queen of the Seas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14823914-elizabeth-queen-of-the-seas]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378708304l/14823914._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378708304l/14823914._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>20477459</id>
+</work>
+<isbn>0375958886</isbn>
+<isbn13>9780375958885</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>88893</id>
+<name>Lynne Cox</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88893.Lynne_Cox]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6995384</id>
+<title>A Polar Bear&apos;s World</title>
+<title_without_series>A Polar Bear&apos;s World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6995384-a-polar-bear-s-world]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>7238298</id>
+</work>
+<isbn>1404857435</isbn>
+<isbn13>9781404857438</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>80869</id>
+<name>Caroline Arnold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80869.Caroline_Arnold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8448392</id>
+<title>Guide Dog Heroes</title>
+<title_without_series>Guide Dog Heroes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8448392-guide-dog-heroes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>13312300</id>
+</work>
+<isbn>0766031985</isbn>
+<isbn13>9780766031982</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1258838</id>
+<name>Linda Bozzo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1258838.Linda_Bozzo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21813665</id>
+<title>A Paramedic&apos;s Job</title>
+<title_without_series>A Paramedic&apos;s Job</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21813665-a-paramedic-s-job]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410797386l/21813665._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410797386l/21813665._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>41080725</id>
+</work>
+<isbn>1627129960</isbn>
+<isbn13>9781627129961</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8113230</id>
+<name>Miguel Rosario</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8113230.Miguel_Rosario]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17243895</id>
+<title><![CDATA[Hanukkah (Rookie Read-About Holidays)]]></title>
+<title_without_series>Hanukkah</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17243895-hanukkah]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367222431l/17243895._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367222431l/17243895._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>23800179</id>
+</work>
+<isbn>053127201X</isbn>
+<isbn13>9780531272015</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4909733</id>
+<name>Lisa M. Herrington</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4909733.Lisa_M_Herrington]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11360892</id>
+<title><![CDATA[Balloons Over Broadway: The True Story of the Puppeteer of Macy's Parade]]></title>
+<title_without_series><![CDATA[Balloons Over Broadway: The True Story of the Puppeteer of Macy's Parade]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11360892-balloons-over-broadway]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353518234l/11360892._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353518234l/11360892._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16290970</id>
+</work>
+<isbn>0547199457</isbn>
+<isbn13>9780547199450</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>427613</id>
+<name>Melissa Sweet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/427613.Melissa_Sweet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58382</id>
+<title>Through My Eyes</title>
+<title_without_series>Through My Eyes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58382.Through_My_Eyes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>63</num_pages>
+<work>
+<id>2634779</id>
+</work>
+<isbn>0590189239</isbn>
+<isbn13>9780590189231</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32933</id>
+<name>Ruby Bridges</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32933.Ruby_Bridges]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>958211</id>
+<title>One Fine Day</title>
+<title_without_series>One Fine Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/958211.One_Fine_Day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1941049</id>
+</work>
+<isbn>0020436203</isbn>
+<isbn13>9780020436201</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>322976</id>
+<name>Nonny Hogrogian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/322976.Nonny_Hogrogian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35638833</id>
+<title><![CDATA[Dog Days of History: The Incredible Story of Our Best Friends]]></title>
+<title_without_series><![CDATA[Dog Days of History: The Incredible Story of Our Best Friends]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35638833-dog-days-of-history]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521147107l/35638833._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521147107l/35638833._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>57089463</id>
+</work>
+<isbn>1426329725</isbn>
+<isbn13>9781426329722</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>19243</id>
+<name>Sarah Albee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19243.Sarah_Albee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13722312</id>
+<title><![CDATA[Who Says Women Can't Be Doctors?: The Story of Elizabeth Blackwell]]></title>
+<title_without_series><![CDATA[Who Says Women Can't Be Doctors?: The Story of Elizabeth Blackwell]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13722312-who-says-women-can-t-be-doctors]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343967250l/13722312._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343967250l/13722312._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>19355145</id>
+</work>
+<isbn>0805090487</isbn>
+<isbn13>9780805090482</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>75499</id>
+<name>Tanya Lee Stone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75499.Tanya_Lee_Stone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>826582</id>
+<title>If You Take a Mouse to School</title>
+<title_without_series>If You Take a Mouse to School</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/826582.If_You_Take_a_Mouse_to_School]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>976480</id>
+</work>
+<isbn>0060283289</isbn>
+<isbn13>9780060283285</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>87184</id>
+<name>Laura Joffe Numeroff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87184.Laura_Joffe_Numeroff]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

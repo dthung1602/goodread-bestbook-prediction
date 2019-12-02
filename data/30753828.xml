@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>30753828</id>
+  <title><![CDATA[The Road to Jonestown: Jim Jones and Peoples Temple]]></title>
+  <isbn><![CDATA[1476763828]]></isbn>
+  <isbn13><![CDATA[9781476763828]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486855833l/30753828._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486855833l/30753828._SY75_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>Simon  Schuster</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[By the <i>New York Times</i> bestselling author of <i>Manson</i>, the comprehensive, authoritative, and tragic story of preacher Jim Jones, who was responsible for the Jonestown Massacre—the largest murder-suicide in American history.<br /><br />In the 1950s, a young Indianapolis minister named Jim Jones preached a curious blend of the gospel and Marxism. His congregation was racially integrated, and he was a much-lauded leader in the contemporary civil rights movement. Eventually, Jones moved his church, Peoples Temple, to northern California. He became involved in electoral politics, and soon was a prominent Bay Area leader.<br /><br />In this riveting narrative, Jeff Guinn examines Jones’s life, from his extramarital affairs, drug use, and fraudulent faith healing to the fraught decision to move almost a thousand of his followers to a settlement in the jungles of Guyana in South America. Guinn provides stunning new details of the events leading to the fatal day in November, 1978 when more than nine hundred people died—including almost three hundred infants and children—after being ordered to swallow a cyanide-laced drink.<br /><br />Guinn examined thousands of pages of FBI files on the case, including material released during the course of his research. He traveled to Jones’s Indiana hometown, where he spoke to people never previously interviewed, and uncovered fresh information from Jonestown survivors. He even visited the Jonestown site with the same pilot who flew there the day that Congressman Leo Ryan was murdered on Jones’s orders.<i> The Road to Jonestown</i> is the definitive book about Jim Jones and the events that led to the tragedy at Jonestown.]]></description>
+  <work>
+  <id type="integer">51302243</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">40726412</best_book_id>
+  <reviews_count type="integer">33042</reviews_count>
+  <ratings_sum type="integer">33282</ratings_sum>
+  <ratings_count type="integer">8020</ratings_count>
+  <text_reviews_count type="integer">1272</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">11</original_publication_day>
+  <original_title>The Road to Jonestown: Jim Jones and Peoples Temple</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2864|4:3757|3:1181|2:173|1:45|total:8020</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.jIo4BlcvU5qYjxMwMxichg</work_uri>
+</work>
+  <average_rating>4.15</average_rating>
+  <num_pages><![CDATA[531]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4458]]></ratings_count>
+  <text_reviews_count><![CDATA[825]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/30753828-the-road-to-jonestown]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/30753828-the-road-to-jonestown]]></link>
+  <authors>
+<author>
+<id>149171</id>
+<name>Jeff Guinn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372860123p5/149171.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372860123p2/149171.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/149171.Jeff_Guinn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>26775</ratings_count>
+<text_reviews_count>3948</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/30753828-the-road-to-jonestown">The Road to Jonestown Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1476763828&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/30753828-the-road-to-jonestown?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="21864"/>
+      <shelf name="currently-reading" count="1291"/>
+      <shelf name="non-fiction" count="644"/>
+      <shelf name="true-crime" count="472"/>
+      <shelf name="nonfiction" count="363"/>
+      <shelf name="history" count="314"/>
+      <shelf name="biography" count="180"/>
+      <shelf name="religion" count="129"/>
+      <shelf name="crime" count="101"/>
+      <shelf name="audiobook" count="95"/>
+      <shelf name="audiobooks" count="87"/>
+      <shelf name="cults" count="72"/>
+      <shelf name="library" count="49"/>
+      <shelf name="favorites" count="47"/>
+      <shelf name="audio" count="40"/>
+      <shelf name="psychology" count="37"/>
+      <shelf name="audible" count="36"/>
+      <shelf name="owned" count="33"/>
+      <shelf name="to-buy" count="31"/>
+      <shelf name="historical" count="28"/>
+      <shelf name="read-in-2018" count="23"/>
+      <shelf name="biographies" count="23"/>
+      <shelf name="american-history" count="22"/>
+      <shelf name="read-in-2017" count="21"/>
+      <shelf name="books-i-own" count="21"/>
+      <shelf name="kindle" count="21"/>
+      <shelf name="dnf" count="20"/>
+      <shelf name="audio-books" count="19"/>
+      <shelf name="read-2018" count="18"/>
+      <shelf name="book-club" count="18"/>
+      <shelf name="to-read-non-fiction" count="17"/>
+      <shelf name="adult" count="16"/>
+      <shelf name="biography-memoir" count="16"/>
+      <shelf name="audio-book" count="15"/>
+      <shelf name="2017-reads" count="15"/>
+      <shelf name="to-read-nonfiction" count="14"/>
+      <shelf name="did-not-finish" count="13"/>
+      <shelf name="mystery" count="13"/>
+      <shelf name="read-2017" count="13"/>
+      <shelf name="cult" count="13"/>
+      <shelf name="politics" count="12"/>
+      <shelf name="non-fiction-to-read" count="12"/>
+      <shelf name="nonfic" count="12"/>
+      <shelf name="maybe" count="12"/>
+      <shelf name="2018-books" count="11"/>
+      <shelf name="abandoned" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="ebooks" count="11"/>
+      <shelf name="ebook" count="11"/>
+      <shelf name="2019-reads" count="10"/>
+      <shelf name="2018-reading-list" count="10"/>
+      <shelf name="on-hold" count="10"/>
+      <shelf name="horror" count="10"/>
+      <shelf name="non-fic" count="10"/>
+      <shelf name="2018-reads" count="9"/>
+      <shelf name="guyana" count="9"/>
+      <shelf name="overdrive" count="9"/>
+      <shelf name="america" count="9"/>
+      <shelf name="usa" count="9"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="1970s" count="9"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="owned-books" count="8"/>
+      <shelf name="2017-releases" count="8"/>
+      <shelf name="tbr-nonfiction" count="8"/>
+      <shelf name="20th-century" count="8"/>
+      <shelf name="nonfiction-to-read" count="8"/>
+      <shelf name="california" count="8"/>
+      <shelf name="bio-memoir" count="8"/>
+      <shelf name="scribd" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="books-read-in-2017" count="7"/>
+      <shelf name="paused" count="7"/>
+      <shelf name="murder" count="7"/>
+      <shelf name="journalism" count="7"/>
+      <shelf name="biography-and-memoir" count="7"/>
+      <shelf name="netgalley" count="7"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="lpotl" count="6"/>
+      <shelf name="tbr-owned" count="6"/>
+      <shelf name="e-book" count="6"/>
+      <shelf name="true-story" count="6"/>
+      <shelf name="memoir-biography" count="6"/>
+      <shelf name="american" count="6"/>
+      <shelf name="united-states" count="6"/>
+      <shelf name="auto-biography" count="6"/>
+      <shelf name="library-reads" count="6"/>
+      <shelf name="books-to-buy" count="6"/>
+      <shelf name="biography-autobiography" count="6"/>
+      <shelf name="up-next" count="6"/>
+      <shelf name="read-in-2019" count="5"/>
+      <shelf name="2019-reading-challenge" count="5"/>
+      <shelf name="owned-tbr" count="5"/>
+      <shelf name="2018-reading-challenge" count="5"/>
+      <shelf name="books-read-2018" count="5"/>
+      <shelf name="2018-read" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="san-francisco" count="5"/>
+      <shelf name="tbr" count="5"/>
+      <shelf name="south-america" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1335479</id>
+<title><![CDATA[Raven: The Untold Story of the Rev. Jim Jones and His People]]></title>
+<title_without_series><![CDATA[Raven: The Untold Story of the Rev. Jim Jones and His People]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1335479.Raven]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327287932l/1335479._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327287932l/1335479.jpg]]></image_url>
+<num_pages>622</num_pages>
+<work>
+<id>1325016</id>
+</work>
+<isbn>0525241361</isbn>
+<isbn13>9780525241362</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>816954</id>
+<name>Tim Reiterman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/816954.Tim_Reiterman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068432</id>
+<title><![CDATA[I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer]]></title>
+<title_without_series><![CDATA[I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>56363890</id>
+</work>
+<isbn>0062319809</isbn>
+<isbn13>9780062319807</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16819959</id>
+<name>Michelle McNamara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16819959.Michelle_McNamara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>345220</id>
+<title><![CDATA[Seductive Poison: A Jonestown Survivor's Story of Life and Death in the Peoples Temple]]></title>
+<title_without_series><![CDATA[Seductive Poison: A Jonestown Survivor's Story of Life and Death in the Peoples Temple]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/345220.Seductive_Poison]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403173652l/345220._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403173652l/345220._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>1537530</id>
+</work>
+<isbn>0385489846</isbn>
+<isbn13>9780385489843</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>198051</id>
+<name>Deborah Layton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/198051.Deborah_Layton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15654</id>
+<title><![CDATA[The Stranger Beside Me: Ted Bundy: The Shocking Inside Story]]></title>
+<title_without_series><![CDATA[The Stranger Beside Me: Ted Bundy: The Shocking Inside Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15654.The_Stranger_Beside_Me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330072383l/15654._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330072383l/15654._SY160_.jpg]]></image_url>
+<num_pages>548</num_pages>
+<work>
+<id>1353958</id>
+</work>
+<isbn>0451203267</isbn>
+<isbn13>9780451203267</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9678</id>
+<name>Ann Rule</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9678.Ann_Rule]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34217494</id>
+<title><![CDATA[Member of the Family: My Story of Charles Manson, Life Inside His Cult, and the Darkness That Ended the Sixties]]></title>
+<title_without_series><![CDATA[Member of the Family: My Story of Charles Manson, Life Inside His Cult, and the Darkness That Ended the Sixties]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34217494-member-of-the-family]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494406743l/34217494._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494406743l/34217494._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>55268395</id>
+</work>
+<isbn>0062695576</isbn>
+<isbn13>9780062695574</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>4306558</id>
+<name>Dianne Lake</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4306558.Dianne_Lake]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>208644</id>
+<title><![CDATA[A Place Called Waco: A Survivor's Story]]></title>
+<title_without_series><![CDATA[A Place Called Waco: A Survivor's Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/208644.A_Place_Called_Waco]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>201954</id>
+</work>
+<isbn>1891620428</isbn>
+<isbn13>9781891620423</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>122089</id>
+<name>David Thibodeau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122089.David_Thibodeau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16142053</id>
+<title><![CDATA[Going Clear: Scientology, Hollywood, and the Prison of Belief]]></title>
+<title_without_series><![CDATA[Going Clear: Scientology, Hollywood, and the Prison of Belief]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16142053-going-clear]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358119149l/16142053._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358119149l/16142053._SX98_.jpg]]></image_url>
+<num_pages>430</num_pages>
+<work>
+<id>21973918</id>
+</work>
+<isbn>0307700666</isbn>
+<isbn13>9780307700667</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>4258</id>
+<name>Lawrence Wright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4258.Lawrence_Wright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40538681</id>
+<title><![CDATA[Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster]]></title>
+<title_without_series><![CDATA[Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40538681-midnight-in-chernobyl]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545577007l/40538681._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545577007l/40538681._SX98_.jpg]]></image_url>
+<num_pages>538</num_pages>
+<work>
+<id>62941305</id>
+</work>
+<isbn>1501134612</isbn>
+<isbn13>9781501134616</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4627346</id>
+<name>Adam Higginbotham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4627346.Adam_Higginbotham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43231095</id>
+<title><![CDATA[American Predator: The Hunt for the Most Meticulous Serial Killer of the 21st Century]]></title>
+<title_without_series><![CDATA[American Predator: The Hunt for the Most Meticulous Serial Killer of the 21st Century]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43231095-american-predator]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547217501l/43231095._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547217501l/43231095._SX98_.jpg]]></image_url>
+<num_pages>285</num_pages>
+<work>
+<id>67079877</id>
+</work>
+<isbn>052542864X</isbn>
+<isbn13>9780525428640</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>394655</id>
+<name>Maureen Callahan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/394655.Maureen_Callahan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>105992</id>
+<title><![CDATA[Helter Skelter: The True Story of the Manson Murders]]></title>
+<title_without_series><![CDATA[Helter Skelter: The True Story of the Manson Murders]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/105992.Helter_Skelter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>689</num_pages>
+<work>
+<id>1077715</id>
+</work>
+<isbn>0393322238</isbn>
+<isbn13>9780393322231</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>28828</id>
+<name>Vincent Bugliosi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28828.Vincent_Bugliosi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28007903</id>
+<title><![CDATA[American Heiress: The Wild Saga of the Kidnapping, Crimes and Trial of Patty Hearst]]></title>
+<title_without_series><![CDATA[American Heiress: The Wild Saga of the Kidnapping, Crimes and Trial of Patty Hearst]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28007903-american-heiress]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459725255l/28007903._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459725255l/28007903._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>47869116</id>
+</work>
+<isbn>0385536712</isbn>
+<isbn13>9780385536714</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>163130</id>
+<name>Jeffrey Toobin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163130.Jeffrey_Toobin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41068144</id>
+<title><![CDATA[Stay Sexy & Don’t Get Murdered: The Definitive How-To Guide]]></title>
+<title_without_series><![CDATA[Stay Sexy & Don’t Get Murdered: The Definitive How-To Guide]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41068144-stay-sexy-don-t-get-murdered]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548032116l/41068144._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548032116l/41068144._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>64147082</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13438660</id>
+<name>Karen Kilgariff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13438660.Karen_Kilgariff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5632446</id>
+<title>Columbine</title>
+<title_without_series>Columbine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5632446-columbine]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>417</num_pages>
+<work>
+<id>5803859</id>
+</work>
+<isbn>0446546933</isbn>
+<isbn13>9780446546935</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>1116816</id>
+<name>Dave Cullen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1116816.Dave_Cullen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40163119</id>
+<title><![CDATA[Say Nothing: A True Story of Murder and Memory in Northern Ireland]]></title>
+<title_without_series><![CDATA[Say Nothing: A True Story of Murder and Memory in Northern Ireland]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40163119-say-nothing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537315266l/40163119._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537315266l/40163119._SX98_.jpg]]></image_url>
+<num_pages>441</num_pages>
+<work>
+<id>62303430</id>
+</work>
+<isbn>0385521316</isbn>
+<isbn13>9780385521314</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>197852</id>
+<name>Patrick Radden Keefe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/197852.Patrick_Radden_Keefe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37486540</id>
+<title><![CDATA[Dopesick: Dealers, Doctors, and the Drug Company that Addicted America]]></title>
+<title_without_series><![CDATA[Dopesick: Dealers, Doctors, and the Drug Company that Addicted America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37486540-dopesick]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533010748l/37486540._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533010748l/37486540._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>59097428</id>
+</work>
+<isbn>0316523178</isbn>
+<isbn13>9780316523172</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7381867</id>
+<name>Beth Macy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7381867.Beth_Macy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29496076</id>
+<title><![CDATA[Killers of the Flower Moon: The Osage Murders and the Birth of the FBI]]></title>
+<title_without_series><![CDATA[Killers of the Flower Moon: The Osage Murders and the Birth of the FBI]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29496076-killers-of-the-flower-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470699853l/29496076._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470699853l/29496076._SX98_.jpg]]></image_url>
+<num_pages>359</num_pages>
+<work>
+<id>49782213</id>
+</work>
+<isbn>0385534256</isbn>
+<isbn13>9780385534253</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>4</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1431785</id>
+<name>David Grann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1431785.David_Grann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>225384</id>
+<title><![CDATA[Green River, Running Red: The Real Story of the Green River Killer - America's Deadliest Serial Murderer]]></title>
+<title_without_series><![CDATA[Green River, Running Red: The Real Story of the Green River Killer - America's Deadliest Serial Murderer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/225384.Green_River_Running_Red]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>665</num_pages>
+<work>
+<id>218291</id>
+</work>
+<isbn>0743460502</isbn>
+<isbn13>9780743460507</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9678</id>
+<name>Ann Rule</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9678.Ann_Rule]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>486050</id>
+<title>The Night Stalker</title>
+<title_without_series>The Night Stalker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/486050.The_Night_Stalker]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>592</num_pages>
+<work>
+<id>474336</id>
+</work>
+<isbn>0786018100</isbn>
+<isbn13>9780786018109</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45145</id>
+<name>Philip Carlo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45145.Philip_Carlo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

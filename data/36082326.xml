@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>36082326</id>
+  <title>Every Note Played</title>
+  <isbn><![CDATA[147671780X]]></isbn>
+  <isbn13><![CDATA[9781476717807]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521364066l/36082326._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521364066l/36082326._SY75_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>20</publication_day>
+  <publisher>Scout Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>From neuroscientist and <i>New York Times</i> bestselling author of <i>Still Alice</i> comes a powerful exploration of regret, forgiveness, freedom, and what it means to be alive.</b><br /><br />An accomplished concert pianist, Richard received standing ovations from audiences all over the world in awe of his rare combination of emotional resonance and flawless technique. Every finger of his hands was a finely calibrated instrument, dancing across the keys and striking each note with exacting precision. That was eight months ago.<br /><br />Richard now has ALS, and his entire right arm is paralyzed. His fingers are impotent, still, devoid of possibility. The loss of his hand feels like a death, a loss of true love, a divorce—his divorce.<br /><br />He knows his left arm will go next.<br /><br />Three years ago, Karina removed their framed wedding picture from the living room wall and hung a mirror there instead. But she still hasn’t moved on. Karina is paralyzed by excuses and fear, stuck in an unfulfilling life as a piano teacher, afraid to pursue the path she abandoned as a young woman, blaming Richard and their failed marriage for all of it.<br /><br />When Richard becomes increasingly paralyzed and is no longer able to live on his own, Karina becomes his reluctant caretaker. As Richard’s muscles, voice, and breath fade, both he and Karina try to reconcile their past before it’s too late.<br /><br />Poignant and powerful, <i>Every Note Played </i>is a masterful exploration of redemption and what it means to find peace inside of forgiveness.]]></description>
+  <work>
+  <id type="integer">57639412</id>
+  <books_count type="integer">31</books_count>
+  <best_book_id type="integer">36082326</best_book_id>
+  <reviews_count type="integer">118554</reviews_count>
+  <ratings_sum type="integer">127394</ratings_sum>
+  <ratings_count type="integer">31038</ratings_count>
+  <text_reviews_count type="integer">4909</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">20</original_publication_day>
+  <original_title>Every Note Played</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11093|4:13550|3:5212|2:910|1:273|total:31038</rating_dist>
+  <desc_user_id type="integer">80907371</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.r14IkXJ7EEcZbB_TgzN-EQ</work_uri>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[307]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[25398]]></ratings_count>
+  <text_reviews_count><![CDATA[4195]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/36082326-every-note-played]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/36082326-every-note-played]]></link>
+  <authors>
+<author>
+<id>978484</id>
+<name>Lisa Genova</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1410537635p5/978484.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1410537635p2/978484.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/978484.Lisa_Genova]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>451582</ratings_count>
+<text_reviews_count>47916</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/36082326-every-note-played">Every Note Played Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=147671780X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/36082326-every-note-played?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="71069"/>
+      <shelf name="currently-reading" count="2083"/>
+      <shelf name="fiction" count="678"/>
+      <shelf name="contemporary" count="209"/>
+      <shelf name="book-club" count="121"/>
+      <shelf name="read-in-2018" count="107"/>
+      <shelf name="favorites" count="96"/>
+      <shelf name="audiobooks" count="86"/>
+      <shelf name="audiobook" count="81"/>
+      <shelf name="adult-fiction" count="78"/>
+      <shelf name="library" count="74"/>
+      <shelf name="read-2018" count="71"/>
+      <shelf name="audio" count="68"/>
+      <shelf name="contemporary-fiction" count="68"/>
+      <shelf name="adult" count="62"/>
+      <shelf name="kindle" count="61"/>
+      <shelf name="music" count="55"/>
+      <shelf name="medical" count="55"/>
+      <shelf name="2018-reads" count="55"/>
+      <shelf name="netgalley" count="49"/>
+      <shelf name="2018-books" count="48"/>
+      <shelf name="giveaways" count="45"/>
+      <shelf name="books-i-own" count="44"/>
+      <shelf name="audio-books" count="42"/>
+      <shelf name="read-in-2019" count="41"/>
+      <shelf name="to-buy" count="39"/>
+      <shelf name="owned" count="37"/>
+      <shelf name="2018-read" count="36"/>
+      <shelf name="health" count="36"/>
+      <shelf name="general-fiction" count="32"/>
+      <shelf name="read-2019" count="31"/>
+      <shelf name="books-read-in-2018" count="31"/>
+      <shelf name="family" count="31"/>
+      <shelf name="realistic-fiction" count="30"/>
+      <shelf name="bookclub" count="28"/>
+      <shelf name="2018-releases" count="28"/>
+      <shelf name="wish-list" count="27"/>
+      <shelf name="lisa-genova" count="25"/>
+      <shelf name="literary-fiction" count="25"/>
+      <shelf name="to-read-fiction" count="25"/>
+      <shelf name="relationships" count="24"/>
+      <shelf name="library-book" count="22"/>
+      <shelf name="als" count="21"/>
+      <shelf name="audio-book" count="20"/>
+      <shelf name="2019-reads" count="19"/>
+      <shelf name="2018-books-read" count="19"/>
+      <shelf name="arc" count="19"/>
+      <shelf name="maybe" count="18"/>
+      <shelf name="2019-books" count="17"/>
+      <shelf name="did-not-finish" count="17"/>
+      <shelf name="audible" count="17"/>
+      <shelf name="novels" count="17"/>
+      <shelf name="novel" count="17"/>
+      <shelf name="ebooks" count="17"/>
+      <shelf name="medicine" count="17"/>
+      <shelf name="drama" count="17"/>
+      <shelf name="science" count="16"/>
+      <shelf name="illness" count="16"/>
+      <shelf name="dnf" count="15"/>
+      <shelf name="ebook" count="15"/>
+      <shelf name="death" count="14"/>
+      <shelf name="best-of-2018" count="14"/>
+      <shelf name="favourites" count="13"/>
+      <shelf name="books-read-2018" count="13"/>
+      <shelf name="2018-reading-challenge" count="13"/>
+      <shelf name="disability" count="13"/>
+      <shelf name="book-club-reads" count="12"/>
+      <shelf name="didn-t-finish" count="12"/>
+      <shelf name="fiction-to-read" count="12"/>
+      <shelf name="4-stars" count="12"/>
+      <shelf name="family-drama" count="12"/>
+      <shelf name="book-club-ideas" count="11"/>
+      <shelf name="net-galley" count="11"/>
+      <shelf name="books-read-in-2019" count="10"/>
+      <shelf name="abandoned" count="10"/>
+      <shelf name="scribd" count="10"/>
+      <shelf name="first-reads" count="10"/>
+      <shelf name="stand-alone" count="10"/>
+      <shelf name="2019-read" count="9"/>
+      <shelf name="2019-challenge" count="9"/>
+      <shelf name="non-fiction" count="9"/>
+      <shelf name="listened-to" count="9"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="books-2018" count="9"/>
+      <shelf name="borrowed" count="9"/>
+      <shelf name="book-club-books" count="9"/>
+      <shelf name="recommended" count="9"/>
+      <shelf name="need-to-buy" count="9"/>
+      <shelf name="favorite-authors" count="9"/>
+      <shelf name="overdrive" count="9"/>
+      <shelf name="2018-release" count="9"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="marriage" count="8"/>
+      <shelf name="on-my-kindle" count="8"/>
+      <shelf name="finished" count="8"/>
+      <shelf name="e-book" count="8"/>
+      <shelf name="book-club-suggestions" count="8"/>
+      <shelf name="medical-fiction" count="8"/>
+      <shelf name="5-stars" count="8"/>
+      <shelf name="library-books" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>39072210</id>
+<title>A Spark of Light</title>
+<title_without_series>A Spark of Light</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39072210-a-spark-of-light]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524516512l/39072210._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524516512l/39072210._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>60625260</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7128</id>
+<name>Jodi Picoult</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7128.Jodi_Picoult]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36344555</id>
+<title>All We Ever Wanted</title>
+<title_without_series>All We Ever Wanted</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36344555-all-we-ever-wanted]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512578976l/36344555._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512578976l/36344555._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58025501</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13370</id>
+<name>Emily Giffin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13370.Emily_Giffin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373463</id>
+<title>Us Against You (Beartown, #2)</title>
+<title_without_series>Us Against You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373463-us-against-you]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516019348l/36373463._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516019348l/36373463._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>56772779</id>
+</work>
+<isbn>1501160796</isbn>
+<isbn13>9781501160790</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6485178</id>
+<name>Fredrik Backman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6485178.Fredrik_Backman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39280445</id>
+<title>Nine Perfect Strangers</title>
+<title_without_series>Nine Perfect Strangers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39280445-nine-perfect-strangers]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529076901l/39280445._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529076901l/39280445._SX98_.jpg]]></image_url>
+<num_pages>453</num_pages>
+<work>
+<id>62505329</id>
+</work>
+<isbn>1250069823</isbn>
+<isbn13>9781250069825</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>322069</id>
+<name>Liane Moriarty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/322069.Liane_Moriarty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34912895</id>
+<title>The Great Alone</title>
+<title_without_series>The Great Alone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34912895-the-great-alone]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56275107</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54493</id>
+<name>Kristin Hannah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54493.Kristin_Hannah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36525343</id>
+<title>Alternate Side</title>
+<title_without_series>Alternate Side</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36525343-alternate-side]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58248812</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3500</id>
+<name>Anna Quindlen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3500.Anna_Quindlen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36249638</id>
+<title>How to Walk Away</title>
+<title_without_series>How to Walk Away</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36249638-how-to-walk-away]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507579931l/36249638._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507579931l/36249638._SX98_.jpg]]></image_url>
+<num_pages>302</num_pages>
+<work>
+<id>57897359</id>
+</work>
+<isbn>1250149061</isbn>
+<isbn13>9781250149060</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>409113</id>
+<name>Katherine Center</name>
+<link><![CDATA[https://www.goodreads.com/author/show/409113.Katherine_Center]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33590210</id>
+<title>An American Marriage</title>
+<title_without_series>An American Marriage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33590210-an-american-marriage]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491493625l/33590210._SX98_.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>54403192</id>
+</work>
+<isbn>1616201347</isbn>
+<isbn13>9781616201340</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>292970</id>
+<name>Tayari Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292970.Tayari_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35068763</id>
+<title>The Home for Unwanted Girls</title>
+<title_without_series>The Home for Unwanted Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35068763-the-home-for-unwanted-girls]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512278185l/35068763._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512278185l/35068763._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>56364191</id>
+</work>
+<isbn>0062684248</isbn>
+<isbn13>9780062684240</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>704507</id>
+<name>Joanna Goodman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/704507.Joanna_Goodman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36809135</id>
+<title>Where the Crawdads Sing</title>
+<title_without_series>Where the Crawdads Sing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524102644l/36809135._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>58589364</id>
+</work>
+<isbn>0735219117</isbn>
+<isbn13>9780735219113</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7043934</id>
+<name>Delia Owens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7043934.Delia_Owens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34964864</id>
+<title>After Anna</title>
+<title_without_series>After Anna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34964864-after-anna]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498680076l/34964864._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498680076l/34964864._SX98_.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>56239863</id>
+</work>
+<isbn>125009965X</isbn>
+<isbn13>9781250099655</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>20258</id>
+<name>Lisa Scottoline</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20258.Lisa_Scottoline]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35506211</id>
+<title>The Flight Attendant</title>
+<title_without_series>The Flight Attendant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35506211-the-flight-attendant]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498628313l/35506211._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498628313l/35506211._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56914238</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3509</id>
+<name>Chris Bohjalian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3509.Chris_Bohjalian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34275212</id>
+<title>Girls Burn Brighter</title>
+<title_without_series>Girls Burn Brighter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34275212-girls-burn-brighter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520279618l/34275212._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520279618l/34275212._SX98_.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>55334599</id>
+</work>
+<isbn>1250074258</isbn>
+<isbn13>9781250074256</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7085305</id>
+<name>Shobha Rao</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7085305.Shobha_Rao]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34262106</id>
+<title>Everything Here Is Beautiful</title>
+<title_without_series>Everything Here Is Beautiful</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34262106-everything-here-is-beautiful]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492886846l/34262106._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492886846l/34262106._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>55319821</id>
+</work>
+<isbn>0735221960</isbn>
+<isbn13>9780735221963</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>16437249</id>
+<name>Mira T. Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16437249.Mira_T_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36840397</id>
+<title>A Place for Us</title>
+<title_without_series>A Place for Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36840397-a-place-for-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517006183l/36840397._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517006183l/36840397._SX98_.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>56945150</id>
+</work>
+<isbn>1524763551</isbn>
+<isbn13>9781524763558</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>16984671</id>
+<name>Fatima Farheen Mirza</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16984671.Fatima_Farheen_Mirza]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41839602</id>
+<title>Still Me (Me Before You, #3)</title>
+<title_without_series>Still Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41839602-still-me]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>469</num_pages>
+<work>
+<id>57291583</id>
+</work>
+<isbn>039956246X</isbn>
+<isbn13>9780399562464</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>281810</id>
+<name>Jojo Moyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/281810.Jojo_Moyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37638145</id>
+<title>The Dream Daughter</title>
+<title_without_series>The Dream Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37638145-the-dream-daughter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516310410l/37638145._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516310410l/37638145._SX98_.jpg]]></image_url>
+<num_pages>371</num_pages>
+<work>
+<id>59225552</id>
+</work>
+<isbn>1250087309</isbn>
+<isbn13>9781250087300</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>93345</id>
+<name>Diane Chamberlain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93345.Diane_Chamberlain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35133922</id>
+<title>Educated</title>
+<title_without_series>Educated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35133922-educated]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506026635l/35133922._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>53814228</id>
+</work>
+<isbn>0399590501</isbn>
+<isbn13>9780399590504</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>31038</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16121977</id>
+<name>Tara Westover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16121977.Tara_Westover]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

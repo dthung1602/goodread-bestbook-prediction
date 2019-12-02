@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23846010</id>
+  <title><![CDATA[If You Feel Too Much: Thoughts on Things Found and Lost and Hoped For]]></title>
+  <isbn><![CDATA[0399176497]]></isbn>
+  <isbn13><![CDATA[9780399176494]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433625582l/23846010._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433625582l/23846010._SX50_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>TarcherPerigee</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The <i>New York Times</i> Bestseller</b><br /><br />In 2006 Jamie Tworkowski wrote a story called “To Write Love on Her Arms,” about helping a friend through her struggle with drug addiction, depression, and self-injury. The piece was so hauntingly beautiful that it quickly went viral, giving birth to a non-profit organization of the same name. Now, To Write Love on Her Arms (TWLOHA) is an internationally recognized leader in suicide prevention and a source of hope, encouragement, and support for people worldwide.<br /><br /><i>If You Feel Too Much</i> is a celebration of hope, wonder, and what it means to be human. From personal stories of struggling on days most people celebrate to words of strength and encouragement in moments of loss, the essays in this book invite readers to believe that it’s okay to admit to pain and okay to ask for help. <i>If You Feel Too Much</i> is an important book from one of this generation’s most important voices.]]></description>
+  <work>
+  <id type="integer">43456293</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">23846010</best_book_id>
+  <reviews_count type="integer">16281</reviews_count>
+  <ratings_sum type="integer">15632</ratings_sum>
+  <ratings_count type="integer">3740</ratings_count>
+  <text_reviews_count type="integer">429</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">12</original_publication_day>
+  <original_title>If You Feel Too Much: Thoughts on Things Found and Lost and Hoped For</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1903|4:989|3:556|2:201|1:91|total:3740</rating_dist>
+  <desc_user_id type="integer">1378820</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1._jNy4a6Lk1a4_CHV6dae3w</work_uri>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[208]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3367]]></ratings_count>
+  <text_reviews_count><![CDATA[384]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23846010-if-you-feel-too-much]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23846010-if-you-feel-too-much]]></link>
+  <authors>
+<author>
+<id>9790529</id>
+<name>Jamie Tworkowski</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501639101p5/9790529.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501639101p2/9790529.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9790529.Jamie_Tworkowski]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>3748</ratings_count>
+<text_reviews_count>429</text_reviews_count>
+</author>
+<author>
+<id>4829</id>
+<name>Donald Miller</name>
+<role>Foreword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198545955p5/4829.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198545955p2/4829.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4829.Donald_Miller]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>174909</ratings_count>
+<text_reviews_count>9168</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23846010-if-you-feel-too-much">If You Feel Too Much Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399176497&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23846010-if-you-feel-too-much?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11300"/>
+      <shelf name="currently-reading" count="385"/>
+      <shelf name="non-fiction" count="159"/>
+      <shelf name="favorites" count="109"/>
+      <shelf name="nonfiction" count="79"/>
+      <shelf name="mental-health" count="50"/>
+      <shelf name="memoir" count="45"/>
+      <shelf name="self-help" count="34"/>
+      <shelf name="books-i-own" count="33"/>
+      <shelf name="psychology" count="30"/>
+      <shelf name="mental-illness" count="21"/>
+      <shelf name="owned" count="19"/>
+      <shelf name="memoirs" count="15"/>
+      <shelf name="read-in-2016" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="biography" count="10"/>
+      <shelf name="owned-books" count="10"/>
+      <shelf name="short-stories" count="10"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="essays" count="9"/>
+      <shelf name="biographies" count="8"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="self-improvement" count="7"/>
+      <shelf name="poetry" count="7"/>
+      <shelf name="biography-memoir" count="7"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="autobiography" count="6"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="health" count="6"/>
+      <shelf name="memoir-biography" count="6"/>
+      <shelf name="to-read-non-fiction" count="6"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="on-my-shelf" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="non-fiction-to-read" count="5"/>
+      <shelf name="to-read-nonfiction" count="5"/>
+      <shelf name="abandoned" count="5"/>
+      <shelf name="memoir-autobiography" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="audiobook" count="4"/>
+      <shelf name="audio" count="4"/>
+      <shelf name="4-stars" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="2016-read" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="scribd" count="3"/>
+      <shelf name="read-in-2018" count="3"/>
+      <shelf name="books-read-in-2018" count="3"/>
+      <shelf name="2018-reading-list" count="3"/>
+      <shelf name="2018-reads" count="3"/>
+      <shelf name="philosophy" count="3"/>
+      <shelf name="self-development" count="3"/>
+      <shelf name="real-life" count="3"/>
+      <shelf name="read-2017" count="3"/>
+      <shelf name="non-fic" count="3"/>
+      <shelf name="to-read-not-owned" count="3"/>
+      <shelf name="reread" count="3"/>
+      <shelf name="thought-provoking" count="3"/>
+      <shelf name="must-read" count="3"/>
+      <shelf name="contemporary" count="3"/>
+      <shelf name="mine" count="3"/>
+      <shelf name="recovery" count="3"/>
+      <shelf name="inspiration" count="3"/>
+      <shelf name="psych" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="christian" count="3"/>
+      <shelf name="buy" count="3"/>
+      <shelf name="books-read-in-2015" count="3"/>
+      <shelf name="summer-2015" count="3"/>
+      <shelf name="personal" count="3"/>
+      <shelf name="first-reads" count="3"/>
+      <shelf name="essays-short-stories" count="2"/>
+      <shelf name="self" count="2"/>
+      <shelf name="emotional-health" count="2"/>
+      <shelf name="own-it" count="2"/>
+      <shelf name="read-2018" count="2"/>
+      <shelf name="my-bookshelf" count="2"/>
+      <shelf name="made-me-cry" count="2"/>
+      <shelf name="non-fic-to-read" count="2"/>
+      <shelf name="auto-bio-memoir" count="2"/>
+      <shelf name="hard-copy" count="2"/>
+      <shelf name="personal-growth" count="2"/>
+      <shelf name="to-read-memoir" count="2"/>
+      <shelf name="owned-unread" count="2"/>
+      <shelf name="e-book" count="2"/>
+      <shelf name="selfhelp" count="2"/>
+      <shelf name="e-books" count="2"/>
+      <shelf name="faith" count="2"/>
+      <shelf name="life-changing" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="tr-nonfiction" count="2"/>
+      <shelf name="religion-spirituality" count="2"/>
+      <shelf name="spiritual" count="2"/>
+      <shelf name="read-again" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23995294</id>
+<title><![CDATA[Boy Meets Depression: Or Life Sucks and Then You Live]]></title>
+<title_without_series><![CDATA[Boy Meets Depression: Or Life Sucks and Then You Live]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23995294-boy-meets-depression]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433782932l/23995294._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433782932l/23995294._SX98_.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>44960943</id>
+</work>
+<isbn>0553418378</isbn>
+<isbn13>9780553418378</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>11097830</id>
+<name>Kevin Breel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11097830.Kevin_Breel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5288813</id>
+<title>Purpose for the Pain</title>
+<title_without_series>Purpose for the Pain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5288813-purpose-for-the-pain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>397</num_pages>
+<work>
+<id>5356225</id>
+</work>
+<isbn>0615223184</isbn>
+<isbn13>9780615223186</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6094469</id>
+<name>Renee Yohe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6094469.Renee_Yohe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25733573</id>
+<title>Reasons to Stay Alive</title>
+<title_without_series>Reasons to Stay Alive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25733573-reasons-to-stay-alive]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057036l/25733573._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057036l/25733573._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>42923140</id>
+</work>
+<isbn>0143128728</isbn>
+<isbn13>9780143128724</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>76360</id>
+<name>Matt Haig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76360.Matt_Haig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23271418</id>
+<title><![CDATA[Scary Close: Dropping the Act and Finding True Intimacy]]></title>
+<title_without_series><![CDATA[Scary Close: Dropping the Act and Finding True Intimacy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23271418-scary-close]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413337664l/23271418._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413337664l/23271418._SY160_.jpg]]></image_url>
+<num_pages>229</num_pages>
+<work>
+<id>41954075</id>
+</work>
+<isbn>1501222325</isbn>
+<isbn13>9781501222320</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4829</id>
+<name>Donald Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4829.Donald_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2931120</id>
+<title>Gray</title>
+<title_without_series>Gray</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2931120-gray]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356328212l/2931120._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356328212l/2931120._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>2958549</id>
+</work>
+<isbn>1416567828</isbn>
+<isbn13>9781416567820</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>1267442</id>
+<name>Pete Wentz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1267442.Pete_Wentz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22859551</id>
+<title><![CDATA[The Crossroads of Should and Must: Find and Follow Your Passion]]></title>
+<title_without_series><![CDATA[The Crossroads of Should and Must: Find and Follow Your Passion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22859551-the-crossroads-of-should-and-must]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486467l/22859551._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423486467l/22859551._SX98_.jpg]]></image_url>
+<num_pages>161</num_pages>
+<work>
+<id>42427467</id>
+</work>
+<isbn>0761184880</isbn>
+<isbn13>9780761184881</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>8427218</id>
+<name>Elle Luna</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8427218.Elle_Luna]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7214</id>
+<title><![CDATA[Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality]]></title>
+<title_without_series><![CDATA[Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7214.Blue_Like_Jazz]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531261584l/7214._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531261584l/7214._SX98_.jpg]]></image_url>
+<num_pages>243</num_pages>
+<work>
+<id>10352</id>
+</work>
+<isbn>0785263705</isbn>
+<isbn13>9780785263708</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4829</id>
+<name>Donald Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4829.Donald_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7515197</id>
+<title><![CDATA[Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut]]></title>
+<title_without_series><![CDATA[Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7515197-talking-to-girls-about-duran-duran]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>9721697</id>
+</work>
+<isbn>0525951563</isbn>
+<isbn13>9780525951568</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>25839</id>
+<name>Rob Sheffield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25839.Rob_Sheffield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6193216</id>
+<title><![CDATA[Organic Leadership: Leading Naturally Right Where You Are]]></title>
+<title_without_series><![CDATA[Organic Leadership: Leading Naturally Right Where You Are]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6193216-organic-leadership]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>314</num_pages>
+<work>
+<id>6373634</id>
+</work>
+<isbn>0801013100</isbn>
+<isbn13>9780801013102</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>249457</id>
+<name>Neil Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/249457.Neil_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1592628</id>
+<title><![CDATA[Be Nice (Or Else!): and what's in it for you]]></title>
+<title_without_series><![CDATA[Be Nice (Or Else!): and what's in it for you]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1592628.Be_Nice_Or_Else_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>207</num_pages>
+<work>
+<id>1585660</id>
+</work>
+<isbn>0974993999</isbn>
+<isbn13>9780974993997</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>739034</id>
+<name>Winn Claybaugh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/739034.Winn_Claybaugh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40079076</id>
+<title><![CDATA[Wild Wild: From lost to found on the pacific crest trail]]></title>
+<title_without_series><![CDATA[Wild Wild: From lost to found on the pacific crest trail]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40079076-wild-wild]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62116798</id>
+</work>
+<isbn>1986661628</isbn>
+<isbn13>9781986661621</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18014110</id>
+<name>Cheryl S.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18014110.Cheryl_S_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6729834</id>
+<title><![CDATA[Tea with Hezbollah: Sitting at the Enemies' Table Our Journey Through the Middle East]]></title>
+<title_without_series><![CDATA[Tea with Hezbollah: Sitting at the Enemies' Table Our Journey Through the Middle East]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6729834-tea-with-hezbollah]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320467321l/6729834._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320467321l/6729834._SX98_.jpg]]></image_url>
+<num_pages>244</num_pages>
+<work>
+<id>6926058</id>
+</work>
+<isbn>0307588270</isbn>
+<isbn13>9780307588272</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1441</id>
+<name>Ted Dekker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1441.Ted_Dekker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9791910</id>
+<title>Unchanged (Unremembered, #3)</title>
+<title_without_series>Unchanged</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9791910-unchanged]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406128677l/9791910._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406128677l/9791910._SX98_.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>14681995</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1164465</id>
+<name>Jessica Brody</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1164465.Jessica_Brody]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33510058</id>
+<title><![CDATA[Life's Too Short to Go So F*cking Slow: Lessons from an Epic Friendship That Went the Distance]]></title>
+<title_without_series><![CDATA[Life's Too Short to Go So F*cking Slow: Lessons from an Epic Friendship That Went the Distance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33510058-life-s-too-short-to-go-so-f-cking-slow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493216099l/33510058._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493216099l/33510058._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>54270159</id>
+</work>
+<isbn>1937715655</isbn>
+<isbn13>9781937715656</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5846210</id>
+<name>Susan Lacke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5846210.Susan_Lacke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11365999</id>
+<title>Schoßgebete</title>
+<title_without_series>Schoßgebete</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11365999-scho-gebete]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327588439l/11365999._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327588439l/11365999._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>16296809</id>
+</work>
+<isbn>349205420X</isbn>
+<isbn13>9783492054201</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>880630</id>
+<name>Charlotte Roche</name>
+<link><![CDATA[https://www.goodreads.com/author/show/880630.Charlotte_Roche]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39656141</id>
+<title>Lord of the Butterflies</title>
+<title_without_series>Lord of the Butterflies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39656141-lord-of-the-butterflies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532369250l/39656141._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532369250l/39656141._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>61226488</id>
+</work>
+<isbn>1943735425</isbn>
+<isbn13>9781943735426</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>457281</id>
+<name>Andrea Gibson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/457281.Andrea_Gibson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18332666</id>
+<title>Skin and Bones</title>
+<title_without_series>Skin and Bones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18332666-skin-and-bones]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382547795l/18332666._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382547795l/18332666._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>25879244</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7961</id>
+<name>Sherry Shahan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7961.Sherry_Shahan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45115</id>
+<title>The Tinder Box</title>
+<title_without_series>The Tinder Box</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45115.The_Tinder_Box]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>1601858</id>
+</work>
+<isbn>0330438506</isbn>
+<isbn13>9780330438506</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3740</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>23280</id>
+<name>Minette Walters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23280.Minette_Walters]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

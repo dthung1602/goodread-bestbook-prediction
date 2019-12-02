@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23316499</id>
+  <title><![CDATA[Pig Tales: An Omnivore's Quest for Sustainable Meat]]></title>
+  <isbn><![CDATA[039324024X]]></isbn>
+  <isbn13><![CDATA[9780393240245]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413748703l/23316499._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413748703l/23316499._SY75_.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>W. W. Norton  Company</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<strong>An eye-opening investigation of the commercial pork industry and an inspiring alternative to the way pigs are raised and consumed in America.</strong><br /><br />Barry Estabrook, author of the <em>New York Times</em> bestseller <em>Tomatoland</em> and a writer of “great skill and compassion” (Eric Schlosser), now explores the dark side of the American pork industry. Drawing on his personal experiences raising pigs as well as his sharp investigative instincts, Estabrook covers the range of the human-porcine experience. He embarks on nocturnal feral pig hunts in Texas. He visits farmers who raise animals in vast confinement barns for Smithfield and Tyson, two of the country’s biggest pork producers. And he describes the threat of infectious disease and the possible contamination of our food supply. Through these stories shines Estabrook’s abiding love for these remarkable creatures. Pigs are social, self-aware, and playful, not to mention smart enough to master the typical house dog commands of “sit, stay, come” twice as fast as your average pooch. With the cognitive abilities of at least three-year-olds, they can even learn to operate a modified computer. Unfortunately for the pigs, they’re also delicious to eat.<br /><br />Estabrook shows how these creatures are all too often subjected to lives of suffering in confinement and squalor, sustained on a drug-laced diet just long enough to reach slaughter weight, then killed on mechanized disassembly lines. But it doesn’t have to be this way. <em>Pig Tales</em> presents a lively portrait of those farmers who are taking an alternative approach, like one Danish producer that has a far more eco-friendly and humane system of pork production, and new, small family farms with free-range heritage pigs raised on antibiotic-free diets. It is possible to raise pigs responsibly and respectfully in a way that is good for producers, consumers, and some of the top chefs in America.<br /><br />Provocative, witty, and deeply informed, <em>Pig Tales</em> is bound to spark conversation at dinner tables across America.]]></description>
+  <work>
+  <id type="integer">42871220</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">26530366</best_book_id>
+  <reviews_count type="integer">2871</reviews_count>
+  <ratings_sum type="integer">1604</ratings_sum>
+  <ratings_count type="integer">383</ratings_count>
+  <text_reviews_count type="integer">73</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">4</original_publication_day>
+  <original_title>Pig Tales: An Omnivore's Quest for Sustainable Meat</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:146|4:177|3:48|2:10|1:2|total:383</rating_dist>
+  <desc_user_id type="integer">2330968</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.xFBgGwOcvhAFeEhCqaePPA</work_uri>
+</work>
+  <average_rating>4.19</average_rating>
+  <num_pages><![CDATA[336]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[233]]></ratings_count>
+  <text_reviews_count><![CDATA[47]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23316499-pig-tales]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23316499-pig-tales]]></link>
+  <authors>
+<author>
+<id>1344606</id>
+<name>Barry Estabrook</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424469136p5/1344606.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424469136p2/1344606.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1344606.Barry_Estabrook]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>4030</ratings_count>
+<text_reviews_count>582</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23316499-pig-tales">Pig Tales Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=039324024X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23316499-pig-tales?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="354"/>
+      <shelf name="food" count="49"/>
+      <shelf name="currently-reading" count="40"/>
+      <shelf name="non-fiction" count="40"/>
+      <shelf name="nonfiction" count="24"/>
+      <shelf name="animals" count="12"/>
+      <shelf name="agriculture" count="10"/>
+      <shelf name="botm" count="8"/>
+      <shelf name="environment" count="8"/>
+      <shelf name="science" count="7"/>
+      <shelf name="sustainability" count="7"/>
+      <shelf name="food-and-drink" count="4"/>
+      <shelf name="food-books" count="4"/>
+      <shelf name="pigs" count="4"/>
+      <shelf name="to-read-non-fiction" count="4"/>
+      <shelf name="book-of-the-month" count="3"/>
+      <shelf name="audiobook" count="3"/>
+      <shelf name="health" count="3"/>
+      <shelf name="food-cooking" count="3"/>
+      <shelf name="to-read-food" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="cookbooks" count="3"/>
+      <shelf name="first-reads" count="3"/>
+      <shelf name="cooking" count="3"/>
+      <shelf name="botm-books" count="2"/>
+      <shelf name="to-read-nonfiction" count="2"/>
+      <shelf name="ethics" count="2"/>
+      <shelf name="book-of-the-month-club" count="2"/>
+      <shelf name="microhistory" count="2"/>
+      <shelf name="to-read-health" count="2"/>
+      <shelf name="homesteading" count="2"/>
+      <shelf name="food-drink" count="2"/>
+      <shelf name="nonfiction-to-read" count="2"/>
+      <shelf name="food-and-farming" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="farming" count="2"/>
+      <shelf name="books-i-own" count="2"/>
+      <shelf name="food-and-nutrition" count="2"/>
+      <shelf name="food-and-health" count="2"/>
+      <shelf name="nature" count="2"/>
+      <shelf name="history" count="2"/>
+      <shelf name="non-fiction-to-read" count="2"/>
+      <shelf name="hoopla" count="1"/>
+      <shelf name="06" count="1"/>
+      <shelf name="2015nonfiction-grca" count="1"/>
+      <shelf name="botm-2015" count="1"/>
+      <shelf name="meat" count="1"/>
+      <shelf name="others" count="1"/>
+      <shelf name="botm-june-2015" count="1"/>
+      <shelf name="food-and-grocery" count="1"/>
+      <shelf name="interested" count="1"/>
+      <shelf name="2019-reads" count="1"/>
+      <shelf name="didn-t-finish" count="1"/>
+      <shelf name="unread-books-i-own" count="1"/>
+      <shelf name="gca2015" count="1"/>
+      <shelf name="botm-2015-2016" count="1"/>
+      <shelf name="gastropod" count="1"/>
+      <shelf name="food-ag" count="1"/>
+      <shelf name="scientific" count="1"/>
+      <shelf name="garden-nature" count="1"/>
+      <shelf name="owned" count="1"/>
+      <shelf name="personal-library" count="1"/>
+      <shelf name="to-read-meat-fish-protein" count="1"/>
+      <shelf name="audio_wanted" count="1"/>
+      <shelf name="a-non-fiction-short" count="1"/>
+      <shelf name="gardening" count="1"/>
+      <shelf name="kcmo-library" count="1"/>
+      <shelf name="culture" count="1"/>
+      <shelf name="nice-humans-xyz" count="1"/>
+      <shelf name="lapl" count="1"/>
+      <shelf name="5-social-criticism" count="1"/>
+      <shelf name="old" count="1"/>
+      <shelf name="outside-knowledge" count="1"/>
+      <shelf name="dl" count="1"/>
+      <shelf name="the-real-world" count="1"/>
+      <shelf name="ethics-in-food" count="1"/>
+      <shelf name="corporate-greed" count="1"/>
+      <shelf name="to-read-eventually" count="1"/>
+      <shelf name="holding-tank" count="1"/>
+      <shelf name="holiday-to-read" count="1"/>
+      <shelf name="recreational" count="1"/>
+      <shelf name="future-read" count="1"/>
+      <shelf name="maybe-later" count="1"/>
+      <shelf name="not-at-library" count="1"/>
+      <shelf name="nonfiction-farming-sustainability" count="1"/>
+      <shelf name="_toread_human" count="1"/>
+      <shelf name="brown-covers" count="1"/>
+      <shelf name="to-be-read" count="1"/>
+      <shelf name="gr-15" count="1"/>
+      <shelf name="up-next" count="1"/>
+      <shelf name="tbr" count="1"/>
+      <shelf name="oc-public-library" count="1"/>
+      <shelf name="cooking-and-food" count="1"/>
+      <shelf name="veganism" count="1"/>
+      <shelf name="animal-intelligence" count="1"/>
+      <shelf name="0-audiobook-unavailable" count="1"/>
+      <shelf name="prev-wtr" count="1"/>
+      <shelf name="read-2018" count="1"/>
+      <shelf name="clean-meat" count="1"/>
+      <shelf name="book-of-the-month-selections" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>23399050</id>
+<title><![CDATA[Lesser Beasts: A Snout-to-Tail History of the Humble Pig]]></title>
+<title_without_series><![CDATA[Lesser Beasts: A Snout-to-Tail History of the Humble Pig]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23399050-lesser-beasts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426797941l/23399050._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426797941l/23399050._SX98_.jpg]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>42955530</id>
+</work>
+<isbn>0465052746</isbn>
+<isbn13>9780465052745</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>258289</id>
+<name>Mark Essig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/258289.Mark_Essig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18667790</id>
+<title><![CDATA[The Third Plate: Field Notes on the Future of Food]]></title>
+<title_without_series><![CDATA[The Third Plate: Field Notes on the Future of Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18667790-the-third-plate]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394997914l/18667790._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394997914l/18667790._SX98_.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>26493453</id>
+</work>
+<isbn>1594204071</isbn>
+<isbn13>9781594204074</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>491170</id>
+<name>Dan Barber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/491170.Dan_Barber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>213280</id>
+<title><![CDATA[Setting the Table: The Transforming Power of Hospitality in Business]]></title>
+<title_without_series><![CDATA[Setting the Table: The Transforming Power of Hospitality in Business]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/213280.Setting_the_Table]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>206464</id>
+</work>
+<isbn>0060742755</isbn>
+<isbn13>9780060742751</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>125077</id>
+<name>Danny Meyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/125077.Danny_Meyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43197389</id>
+<title>High School</title>
+<title_without_series>High School</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43197389-high-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569378102l/43197389._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569378102l/43197389._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>67028553</id>
+</work>
+<isbn>0374169942</isbn>
+<isbn13>9780374169947</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3162228</id>
+<name>Tegan Quin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162228.Tegan_Quin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26266676</id>
+<title><![CDATA[Remarkable!: Maximizing Results Through Value Creation]]></title>
+<title_without_series><![CDATA[Remarkable!: Maximizing Results Through Value Creation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26266676-remarkable]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057157l/26266676._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057157l/26266676._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>46267559</id>
+</work>
+<isbn>0801018838</isbn>
+<isbn13>9780801018831</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>16013890</id>
+<name>Randy    Ross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16013890.Randy_Ross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36204374</id>
+<title><![CDATA[The Fair Chase: The Epic Story of Hunting in America]]></title>
+<title_without_series><![CDATA[The Fair Chase: The Epic Story of Hunting in America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36204374-the-fair-chase]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522274369l/36204374._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522274369l/36204374._SX98_.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>57834893</id>
+</work>
+<isbn>0465061729</isbn>
+<isbn13>9780465061723</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>273189</id>
+<name>Philip Dray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/273189.Philip_Dray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16073132</id>
+<title><![CDATA[The Ethical Butcher: How to Eat Meat in a Responsible and Sustainable Way]]></title>
+<title_without_series><![CDATA[The Ethical Butcher: How to Eat Meat in a Responsible and Sustainable Way]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16073132-the-ethical-butcher]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356351633l/16073132._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356351633l/16073132._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>21867374</id>
+</work>
+<isbn>1593765053</isbn>
+<isbn13>9781593765057</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6550774</id>
+<name>Berlin Reed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6550774.Berlin_Reed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1492777</id>
+<title><![CDATA[Kitchen Literacy: How We Lost Knowledge of Where Food Comes from and Why We Need to Get It Back]]></title>
+<title_without_series><![CDATA[Kitchen Literacy: How We Lost Knowledge of Where Food Comes from and Why We Need to Get It Back]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1492777.Kitchen_Literacy]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328749914l/1492777._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328749914l/1492777._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1484057</id>
+</work>
+<isbn>1597261440</isbn>
+<isbn13>9781597261449</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>233932</id>
+<name>Ann Vileisis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233932.Ann_Vileisis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32714100</id>
+<title><![CDATA[A Really Big Lunch: Meditations on Food and Life from the Roving Gourmand]]></title>
+<title_without_series><![CDATA[A Really Big Lunch: Meditations on Food and Life from the Roving Gourmand]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32714100-a-really-big-lunch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481113198l/32714100._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481113198l/32714100._SX98_.jpg]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>53293835</id>
+</work>
+<isbn>0802126464</isbn>
+<isbn13>9780802126467</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>3</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>17055</id>
+<name>Jim Harrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17055.Jim_Harrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7993140</id>
+<title><![CDATA[American Terroir: Savoring the Flavors of Our Woods, Waters, and Fields]]></title>
+<title_without_series><![CDATA[American Terroir: Savoring the Flavors of Our Woods, Waters, and Fields]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7993140-american-terroir]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12480146</id>
+</work>
+<isbn>1596916486</isbn>
+<isbn13>9781596916487</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>16940</id>
+<name>Rowan Jacobsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16940.Rowan_Jacobsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13504054</id>
+<title><![CDATA[Garbology: Our Dirty Love Affair with Trash]]></title>
+<title_without_series><![CDATA[Garbology: Our Dirty Love Affair with Trash]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13504054-garbology]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330461473l/13504054._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330461473l/13504054._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>19053591</id>
+</work>
+<isbn>1583334343</isbn>
+<isbn13>9781583334348</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>45727</id>
+<name>Edward Humes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45727.Edward_Humes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16112262</id>
+<title><![CDATA[I Told You So: Gore Vidal Talks Politics]]></title>
+<title_without_series><![CDATA[I Told You So: Gore Vidal Talks Politics]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16112262-i-told-you-so]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399494205l/16112262._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399494205l/16112262._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>21928180</id>
+</work>
+<isbn></isbn>
+<isbn13>9781935928089</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>5657</id>
+<name>Gore Vidal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5657.Gore_Vidal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16400317</id>
+<title>The Conscience of a Liberal</title>
+<title_without_series>The Conscience of a Liberal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16400317-the-conscience-of-a-liberal]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>22587574</id>
+</work>
+<isbn>5551189872</isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5814063</id>
+<name>Paul David Wellstone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5814063.Paul_David_Wellstone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>82243</id>
+<title><![CDATA[Take This Job and Ship It: How Corporate Greed and Brain-Dead Politics Are Selling Out America]]></title>
+<title_without_series><![CDATA[Take This Job and Ship It: How Corporate Greed and Brain-Dead Politics Are Selling Out America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/82243.Take_This_Job_and_Ship_It]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>79415</id>
+</work>
+<isbn>031235522X</isbn>
+<isbn13>9780312355227</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>739849</id>
+<name>Byron L. Dorgan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/739849.Byron_L_Dorgan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25434341</id>
+<title><![CDATA[It IS About Islam: Exposing the Truth About ISIS, Al Qaeda, Iran, and the Caliphate]]></title>
+<title_without_series><![CDATA[It IS About Islam: Exposing the Truth About ISIS, Al Qaeda, Iran, and the Caliphate]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25434341-it-is-about-islam]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439787116l/25434341._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439787116l/25434341._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>45195838</id>
+</work>
+<isbn>1501126121</isbn>
+<isbn13>9781501126123</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>188932</id>
+<name>Glenn Beck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/188932.Glenn_Beck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1253628</id>
+<title><![CDATA[Birds of North America: A Guide to Field Identification]]></title>
+<title_without_series><![CDATA[Birds of North America: A Guide to Field Identification]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1253628.Birds_of_North_America]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312137836l/1253628._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312137836l/1253628._SX98_.jpg]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>1242404</id>
+</work>
+<isbn>0307136566</isbn>
+<isbn13>9780307136565</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>1966</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>90124</id>
+<name>Chandler S. Robbins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90124.Chandler_S_Robbins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38390751</id>
+<title>The Infinite Game</title>
+<title_without_series>The Infinite Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38390751-the-infinite-game]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571114448l/38390751._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571114448l/38390751._SY160_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>60047666</id>
+</work>
+<isbn>073521350X</isbn>
+<isbn13>9780735213500</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>3158574</id>
+<name>Simon Sinek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3158574.Simon_Sinek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10467605</id>
+<title><![CDATA[Fair Food: Growing a Healthy, Sustainable Food System for All]]></title>
+<title_without_series><![CDATA[Fair Food: Growing a Healthy, Sustainable Food System for All]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10467605-fair-food]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>15372687</id>
+</work>
+<isbn>1610390067</isbn>
+<isbn13>9781610390064</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>383</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>4895327</id>
+<name>Oran B. Hesterman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4895327.Oran_B_Hesterman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

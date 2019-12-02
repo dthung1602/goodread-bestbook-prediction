@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>38495981</id>
+  <title><![CDATA[Franklin and Luna Go to the Moon]]></title>
+  <isbn><![CDATA[0500651469]]></isbn>
+  <isbn13><![CDATA[9780500651469]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520155590l/38495981._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520155590l/38495981._SX50_.jpg</small_image_url>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>20</publication_day>
+  <publisher>Thames &amp; Hudson</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Luna’s best friend, Franklin, is a dragon. They love to read stories about everything from trampolining to deep-sea diving. One day, they are reading about where werewolves live and Franklin begins to wonder where he is from. He is 605 years old and has no idea where to find other dragons!<br /><br />Luna suggests that they go on an adventure to find his family. They Google his family tree, they e-mail a princess, and along the way they find twenty yetis eating spaghetti, five vampires reading Shakespeare, not to mention disco-dancing unicorns . . . but no dragons!<br /><br />Where on earth could they be?<br /><br />Following the success of Franklin’s Flying Bookshop, Franklin and Luna Go to the Moon― a book about the joys of reading, exploring, and coming home― continues to bring the magic of classic fairy tales into the twenty-first century.]]></description>
+  <work>
+  <id type="integer">60136191</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">38495981</best_book_id>
+  <reviews_count type="integer">2159</reviews_count>
+  <ratings_sum type="integer">1581</ratings_sum>
+  <ratings_count type="integer">384</ratings_count>
+  <text_reviews_count type="integer">71</text_reviews_count>
+  <original_publication_year type="integer">2018</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">20</original_publication_day>
+  <original_title>Franklin and Luna Go to the Moon</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:159|4:135|3:68|2:20|1:2|total:384</rating_dist>
+  <desc_user_id type="integer">6492118</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.ZwpIy16VYv_zdaGhge018g</work_uri>
+</work>
+  <average_rating>4.12</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[372]]></ratings_count>
+  <text_reviews_count><![CDATA[69]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/38495981-franklin-and-luna-go-to-the-moon]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/38495981-franklin-and-luna-go-to-the-moon]]></link>
+  <authors>
+<author>
+<id>5211857</id>
+<name>Jen Campbell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533035124p5/5211857.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533035124p2/5211857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5211857.Jen_Campbell]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>31938</ratings_count>
+<text_reviews_count>6537</text_reviews_count>
+</author>
+<author>
+<id>14931724</id>
+<name>Katie Harnett</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487430229p5/14931724.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487430229p2/14931724.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14931724.Katie_Harnett]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>2930</ratings_count>
+<text_reviews_count>675</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/38495981-franklin-and-luna-go-to-the-moon">Franklin and Luna Go to the Moon Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0500651469&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/38495981-franklin-and-luna-go-to-the-moon?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1621"/>
+      <shelf name="picture-books" count="62"/>
+      <shelf name="childrens" count="21"/>
+      <shelf name="fantasy" count="16"/>
+      <shelf name="kids" count="15"/>
+      <shelf name="children-s-books" count="12"/>
+      <shelf name="picture-book" count="12"/>
+      <shelf name="childrens-books" count="12"/>
+      <shelf name="children-s" count="11"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="dragons" count="8"/>
+      <shelf name="read-in-2019" count="6"/>
+      <shelf name="kids-books" count="6"/>
+      <shelf name="children" count="6"/>
+      <shelf name="2018-releases" count="6"/>
+      <shelf name="currently-reading" count="5"/>
+      <shelf name="library" count="4"/>
+      <shelf name="space" count="4"/>
+      <shelf name="friendship" count="4"/>
+      <shelf name="family" count="4"/>
+      <shelf name="favorites" count="4"/>
+      <shelf name="read-in-2018" count="4"/>
+      <shelf name="series" count="4"/>
+      <shelf name="read-2019" count="3"/>
+      <shelf name="childrens-picture-books" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="2018-picture-books" count="3"/>
+      <shelf name="adventure" count="3"/>
+      <shelf name="illustrated" count="3"/>
+      <shelf name="poetry" count="3"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="read-2018" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="female-author" count="2"/>
+      <shelf name="children-s-book" count="2"/>
+      <shelf name="books-about-books" count="2"/>
+      <shelf name="english" count="2"/>
+      <shelf name="picture" count="2"/>
+      <shelf name="picturebook" count="2"/>
+      <shelf name="picture-books-read" count="2"/>
+      <shelf name="read-aloud" count="2"/>
+      <shelf name="magic" count="2"/>
+      <shelf name="animals" count="2"/>
+      <shelf name="illustrations" count="2"/>
+      <shelf name="to-read-picture-books" count="2"/>
+      <shelf name="children-s-literature" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="kids-lit" count="2"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="children-s-picture-books" count="2"/>
+      <shelf name="female-authors" count="2"/>
+      <shelf name="whats-on-the-enthu_kidlets-shelf" count="1"/>
+      <shelf name="gifts" count="1"/>
+      <shelf name="pamunkey-library" count="1"/>
+      <shelf name="rr2019" count="1"/>
+      <shelf name="read-to-others" count="1"/>
+      <shelf name="too-long-for-storytime" count="1"/>
+      <shelf name="ages-5-and-up" count="1"/>
+      <shelf name="mia" count="1"/>
+      <shelf name="under-100-pages" count="1"/>
+      <shelf name="based-on-a-fairy-tale" count="1"/>
+      <shelf name="baby-walser" count="1"/>
+      <shelf name="reading-women-challenge-19" count="1"/>
+      <shelf name="fiction-fantasy-sci-fi" count="1"/>
+      <shelf name="arts-theatre-library-elv" count="1"/>
+      <shelf name="kid-friendly" count="1"/>
+      <shelf name="ideas-for-josie" count="1"/>
+      <shelf name="signed-special" count="1"/>
+      <shelf name="graphic-novels" count="1"/>
+      <shelf name="published-in-2010s" count="1"/>
+      <shelf name="izzy-reads" count="1"/>
+      <shelf name="gabby-reads" count="1"/>
+      <shelf name="amelia" count="1"/>
+      <shelf name="location-shelf" count="1"/>
+      <shelf name="wonderful-kids-books" count="1"/>
+      <shelf name="genre-children" count="1"/>
+      <shelf name="1000-books-before-kindergarten" count="1"/>
+      <shelf name="default" count="1"/>
+      <shelf name="ys" count="1"/>
+      <shelf name="dtbs" count="1"/>
+      <shelf name="corbin-s-books" count="1"/>
+      <shelf name="woman-writer" count="1"/>
+      <shelf name="for-my-kids" count="1"/>
+      <shelf name="to-borrow" count="1"/>
+      <shelf name="dont-want-to-read" count="1"/>
+      <shelf name="2018childrens-grca" count="1"/>
+      <shelf name="6-9-år" count="1"/>
+      <shelf name="roland" count="1"/>
+      <shelf name="need-to-buy" count="1"/>
+      <shelf name="book-rating-4-stars" count="1"/>
+      <shelf name="2000s" count="1"/>
+      <shelf name="books-for-leo" count="1"/>
+      <shelf name="logan-s" count="1"/>
+      <shelf name="tbr-books-i-own" count="1"/>
+      <shelf name="juvenile-lit" count="1"/>
+      <shelf name="girl-power-books" count="1"/>
+      <shelf name="books-of-rhythm-and-rhyme" count="1"/>
+      <shelf name="haven-read" count="1"/>
+      <shelf name="dragon" count="1"/>
+      <shelf name="19-12-holiday" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1196529</id>
+<user_position>2</user_position>
+<series>
+<id>228409</id>
+<title>
+<![CDATA[
+    Franklin and Luna
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>34816266</id>
+<title>Petra</title>
+<title_without_series>Petra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34816266-petra]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522443362l/34816266._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522443362l/34816266._SX98_.jpg]]></image_url>
+<num_pages>20</num_pages>
+<work>
+<id>56035728</id>
+</work>
+<isbn>8878744700</isbn>
+<isbn13>9788878744707</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>16313257</id>
+<name>Marianna Coppo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16313257.Marianna_Coppo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36373562</id>
+<title>Ocean Meets Sky</title>
+<title_without_series>Ocean Meets Sky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36373562-ocean-meets-sky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511798347l/36373562._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511798347l/36373562._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>58060834</id>
+</work>
+<isbn>148147037X</isbn>
+<isbn13>9781481470377</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>7031735</id>
+<name>Terry Fan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7031735.Terry_Fan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39835043</id>
+<title>Lulu Is a Rhinoceros</title>
+<title_without_series>Lulu Is a Rhinoceros</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39835043-lulu-is-a-rhinoceros]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523753881l/39835043._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523753881l/39835043._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>61594408</id>
+</work>
+<isbn>0692070982</isbn>
+<isbn13>9780692070987</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>17938746</id>
+<name>Jason Flom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17938746.Jason_Flom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35248504</id>
+<title>The Rabbit Listened</title>
+<title_without_series>The Rabbit Listened</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35248504-the-rabbit-listened]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56599297</id>
+</work>
+<isbn>073522935X</isbn>
+<isbn13>9780735229358</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>2851649</id>
+<name>Cori Doerrfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2851649.Cori_Doerrfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34204247</id>
+<title>Prince &amp; Knight</title>
+<title_without_series>Prince &amp; Knight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34204247-prince-knight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508286286l/34204247._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508286286l/34204247._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>55250949</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16420906</id>
+<name>Daniel Haack</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16420906.Daniel_Haack]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36359134</id>
+<title><![CDATA[Marcy and the Riddle of the Sphinx]]></title>
+<title_without_series><![CDATA[Marcy and the Riddle of the Sphinx]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36359134-marcy-and-the-riddle-of-the-sphinx]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507221118l/36359134._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507221118l/36359134._SX98_.jpg]]></image_url>
+<num_pages>54</num_pages>
+<work>
+<id>58042490</id>
+</work>
+<isbn>9781911171</isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>15756999</id>
+<name>Joe Todd-Stanton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15756999.Joe_Todd_Stanton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35566693</id>
+<title>The Word Collector</title>
+<title_without_series>The Word Collector</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35566693-the-word-collector]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503754239l/35566693._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503754239l/35566693._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>56996629</id>
+</work>
+<isbn>0545865026</isbn>
+<isbn13>9780545865029</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>198837</id>
+<name>Peter H. Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/198837.Peter_H_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41458425</id>
+<title>Sweep</title>
+<title_without_series>Sweep</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41458425-sweep]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>64723371</id>
+</work>
+<isbn>1405283777</isbn>
+<isbn13>9781405283779</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15964909</id>
+<name>Louise Greig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15964909.Louise_Greig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35580105</id>
+<title>Hello Lighthouse</title>
+<title_without_series>Hello Lighthouse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35580105-hello-lighthouse]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515624086l/35580105._SY160_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>57013848</id>
+</work>
+<isbn>0316362387</isbn>
+<isbn13>9780316362382</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>63115</id>
+<name>Sophie Blackall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63115.Sophie_Blackall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35795913</id>
+<title>Stegothesaurus</title>
+<title_without_series>Stegothesaurus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35795913-stegothesaurus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513399409l/35795913._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513399409l/35795913._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>57295717</id>
+</work>
+<isbn>1250134889</isbn>
+<isbn13>9781250134882</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3081786</id>
+<name>Bridget Heos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3081786.Bridget_Heos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35833840</id>
+<title>They Say Blue</title>
+<title_without_series>They Say Blue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35833840-they-say-blue]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520017963l/35833840._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520017963l/35833840._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>57340554</id>
+</work>
+<isbn>1773060201</isbn>
+<isbn13>9781773060200</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>634455</id>
+<name>Jillian Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/634455.Jillian_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43671848</id>
+<title>Just Because</title>
+<title_without_series>Just Because</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43671848-just-because]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552872055l/43671848._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>67946194</id>
+</work>
+<isbn>0763696803</isbn>
+<isbn13>9780763696801</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26532714</id>
+<title>Julián Is a Mermaid</title>
+<title_without_series>Julián Is a Mermaid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26532714-juli-n-is-a-mermaid]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503977423l/26532714._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503977423l/26532714._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>46532501</id>
+</work>
+<isbn>0763690457</isbn>
+<isbn13>9780763690458</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>14347579</id>
+<name>Jessica    Love</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14347579.Jessica_Love]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44671932</id>
+<title>A Mouse Called Julian</title>
+<title_without_series>A Mouse Called Julian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44671932-a-mouse-called-julian]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554438972l/44671932._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554438972l/44671932._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69328858</id>
+</work>
+<isbn>1912497069</isbn>
+<isbn13>9781912497065</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15756999</id>
+<name>Joe Todd-Stanton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15756999.Joe_Todd_Stanton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39695417</id>
+<title>The Restless Girls</title>
+<title_without_series>The Restless Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39695417-the-restless-girls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55096686</id>
+</work>
+<isbn>140888691X</isbn>
+<isbn13>9781408886915</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7125422</id>
+<name>Jessie Burton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7125422.Jessie_Burton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35396839</id>
+<title>I Am Enough</title>
+<title_without_series>I Am Enough</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35396839-i-am-enough]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497851625l/35396839._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497851625l/35396839._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56764928</id>
+</work>
+<isbn>0062667122</isbn>
+<isbn13>9780062667120</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>16939947</id>
+<name>Grace Byers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16939947.Grace_Byers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39858134</id>
+<title>Me And My Fear</title>
+<title_without_series>Me And My Fear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39858134-me-and-my-fear]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525188060l/39858134._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525188060l/39858134._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61647259</id>
+</work>
+<isbn>1911171534</isbn>
+<isbn13>9781911171539</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14931739</id>
+<name>Francesca Sanna</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14931739.Francesca_Sanna]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35631757</id>
+<title>Islandborn</title>
+<title_without_series>Islandborn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35631757-islandborn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501509374l/35631757._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501509374l/35631757._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>57202276</id>
+</work>
+<isbn>0735229864</isbn>
+<isbn13>9780735229860</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>384</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>55215</id>
+<name>Junot Díaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55215.Junot_D_az]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

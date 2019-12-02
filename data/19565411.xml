@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>19565411</id>
+  <title>Gaston</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00FNVSV52]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">27692373</id>
+  <books_count type="integer">12</books_count>
+  <best_book_id type="integer">19565411</best_book_id>
+  <reviews_count type="integer">7473</reviews_count>
+  <ratings_sum type="integer">19457</ratings_sum>
+  <ratings_count type="integer">4570</ratings_count>
+  <text_reviews_count type="integer">665</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Gaston</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2118|4:1672|3:646|2:107|1:27|total:4570</rating_dist>
+  <desc_user_id type="integer">-9</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.X5X8qJwxqn2WIlXkEFht8g</work_uri>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3946]]></ratings_count>
+  <text_reviews_count><![CDATA[545]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/19565411-gaston]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/19565411-gaston]]></link>
+  <authors>
+<author>
+<id>223840</id>
+<name>Kelly DiPucchio</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1216527350p5/223840.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1216527350p2/223840.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/223840.Kelly_DiPucchio]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>24984</ratings_count>
+<text_reviews_count>4318</text_reviews_count>
+</author>
+<author>
+<id>3240810</id>
+<name>Christian Robinson</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1484501753p5/3240810.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1484501753p2/3240810.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3240810.Christian_Robinson]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>30718</ratings_count>
+<text_reviews_count>6101</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/19565411-gaston">Gaston Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00FNVSV52&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/19565411-gaston?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1913"/>
+      <shelf name="picture-books" count="693"/>
+      <shelf name="picture-book" count="193"/>
+      <shelf name="childrens" count="121"/>
+      <shelf name="dogs" count="113"/>
+      <shelf name="animals" count="99"/>
+      <shelf name="family" count="98"/>
+      <shelf name="children-s-books" count="93"/>
+      <shelf name="children" count="76"/>
+      <shelf name="children-s" count="70"/>
+      <shelf name="kids" count="52"/>
+      <shelf name="favorites" count="43"/>
+      <shelf name="storytime" count="40"/>
+      <shelf name="childrens-books" count="39"/>
+      <shelf name="fiction" count="35"/>
+      <shelf name="picture" count="28"/>
+      <shelf name="kids-books" count="27"/>
+      <shelf name="children-s-lit" count="26"/>
+      <shelf name="humor" count="25"/>
+      <shelf name="adoption" count="24"/>
+      <shelf name="individuality" count="24"/>
+      <shelf name="picturebooks" count="24"/>
+      <shelf name="children-s-literature" count="22"/>
+      <shelf name="preschool" count="19"/>
+      <shelf name="pets" count="19"/>
+      <shelf name="read-alouds" count="18"/>
+      <shelf name="favorite-picture-books" count="18"/>
+      <shelf name="children-s-picture-books" count="18"/>
+      <shelf name="families" count="17"/>
+      <shelf name="library" count="16"/>
+      <shelf name="currently-reading" count="16"/>
+      <shelf name="identity" count="13"/>
+      <shelf name="read-aloud" count="13"/>
+      <shelf name="fitting-in" count="13"/>
+      <shelf name="childrens-picture-books" count="13"/>
+      <shelf name="children-books" count="11"/>
+      <shelf name="diversity" count="11"/>
+      <shelf name="dog" count="11"/>
+      <shelf name="acceptance" count="11"/>
+      <shelf name="childrens-lit" count="11"/>
+      <shelf name="siblings" count="10"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="humorous" count="10"/>
+      <shelf name="friendship" count="10"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="classroombookaday" count="9"/>
+      <shelf name="illustrated" count="9"/>
+      <shelf name="juvenile" count="9"/>
+      <shelf name="state-award" count="8"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="exploring-assignment" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="story-time" count="8"/>
+      <shelf name="storytime-books" count="8"/>
+      <shelf name="pb" count="8"/>
+      <shelf name="kiddos" count="8"/>
+      <shelf name="being-different" count="8"/>
+      <shelf name="preschool-storytime" count="8"/>
+      <shelf name="funny" count="8"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="children-picture-books" count="7"/>
+      <shelf name="picture-books-read" count="7"/>
+      <shelf name="elementary" count="7"/>
+      <shelf name="read-2014" count="7"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="monarch-2017" count="6"/>
+      <shelf name="exploring-quality" count="6"/>
+      <shelf name="belonging" count="6"/>
+      <shelf name="for-the-kids" count="6"/>
+      <shelf name="theme" count="6"/>
+      <shelf name="differences" count="6"/>
+      <shelf name="mock-caldecott-2015" count="6"/>
+      <shelf name="read-in-2018" count="5"/>
+      <shelf name="monarch" count="5"/>
+      <shelf name="1000-books-before-kindergarten" count="5"/>
+      <shelf name="kid-books" count="5"/>
+      <shelf name="animal" count="5"/>
+      <shelf name="fun" count="5"/>
+      <shelf name="kids-picture-books" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="youth" count="5"/>
+      <shelf name="primary" count="5"/>
+      <shelf name="dog-books" count="5"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="state-award-books" count="4"/>
+      <shelf name="2017-monarch" count="4"/>
+      <shelf name="golden-sower" count="4"/>
+      <shelf name="children-picture" count="4"/>
+      <shelf name="book-selection" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="mock-caldecott" count="4"/>
+      <shelf name="picturebook" count="4"/>
+      <shelf name="animal-stories" count="4"/>
+      <shelf name="pre-k" count="4"/>
+      <shelf name="illustrations" count="4"/>
+      <shelf name="favorite-children-s-books" count="4"/>
+      <shelf name="love" count="4"/>
+      <shelf name="storytime-picks" count="4"/>
+      <shelf name="fantasy" count="4"/>
+      <shelf name="feelings" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1217679</id>
+<user_position></user_position>
+<series>
+<id>231832</id>
+<title>
+<![CDATA[
+    Gaston and Friends
+]]>
+</title>
+<description>
+<![CDATA[
+    Find more information on the series on publisher's website: http://www.simonandschuster.com/series/Gaston-and-Friends
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>20307024</id>
+<title>Wolfie the Bunny</title>
+<title_without_series>Wolfie the Bunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20307024-wolfie-the-bunny]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415583212l/20307024._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>28141570</id>
+</work>
+<isbn>0316226149</isbn>
+<isbn13>9780316226141</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5156415</id>
+<name>Ame Dyckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5156415.Ame_Dyckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18349884</id>
+<title><![CDATA[My Teacher Is a Monster! (No, I Am Not.)]]></title>
+<title_without_series>My Teacher Is a Monster!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18349884-my-teacher-is-a-monster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385353988l/18349884._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25947111</id>
+</work>
+<isbn>0316070297</isbn>
+<isbn13>9780316070294</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17471114</id>
+<title>Sparky!</title>
+<title_without_series>Sparky!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17471114-sparky]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406511241l/17471114._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406511241l/17471114._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>24380109</id>
+</work>
+<isbn>0375870237</isbn>
+<isbn13>9780375870231</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>33794</id>
+<name>Jenny Offill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33794.Jenny_Offill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15937111</id>
+<title>Extraordinary Jane</title>
+<title_without_series>Extraordinary Jane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15937111-extraordinary-jane]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372037980l/15937111._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372037980l/15937111._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21687987</id>
+</work>
+<isbn>0803739141</isbn>
+<isbn13>9780803739147</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5556765</id>
+<name>Hannah E. Harrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5556765.Hannah_E_Harrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20708761</id>
+<title>Sam and Dave Dig a Hole</title>
+<title_without_series>Sam and Dave Dig a Hole</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20708761-sam-and-dave-dig-a-hole]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423771325l/20708761._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>39789300</id>
+</work>
+<isbn>0763662291</isbn>
+<isbn13>9780763662295</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18295821</id>
+<title><![CDATA[The Adventures of Beekle: The Unimaginary Friend]]></title>
+<title_without_series><![CDATA[The Adventures of Beekle: The Unimaginary Friend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18295821-the-adventures-of-beekle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424308067l/18295821._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25778595</id>
+</work>
+<isbn>0316199982</isbn>
+<isbn13>9780316199988</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39992292</id>
+<title>Another</title>
+<title_without_series>Another</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39992292-another]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625328l/39992292._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529625328l/39992292._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>61930263</id>
+</work>
+<isbn>153442167X</isbn>
+<isbn13>9781534421677</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3240810</id>
+<name>Christian Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3240810.Christian_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23735067</id>
+<title>Waiting</title>
+<title_without_series>Waiting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23735067-waiting]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>43347119</id>
+</work>
+<isbn>0062368435</isbn>
+<isbn13>9780062368430</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24905361</id>
+<title>Leo: A Ghost Story</title>
+<title_without_series>Leo: A Ghost Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24905361-leo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443781444l/24905361._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443781444l/24905361._SX98_.jpg]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>44555766</id>
+</work>
+<isbn>1452131562</isbn>
+<isbn13>9781452131566</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34642482</id>
+<title>Thank You, Omu!</title>
+<title_without_series>Thank You, Omu!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34642482-thank-you-omu]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518363514l/34642482._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>55803453</id>
+</work>
+<isbn>0316431249</isbn>
+<isbn13>9780316431248</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>16600636</id>
+<name>Oge Mora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16600636.Oge_Mora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35248504</id>
+<title>The Rabbit Listened</title>
+<title_without_series>The Rabbit Listened</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35248504-the-rabbit-listened]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56599297</id>
+</work>
+<isbn>073522935X</isbn>
+<isbn13>9780735229358</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>2851649</id>
+<name>Cori Doerrfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2851649.Cori_Doerrfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25745002</id>
+<title>Mother Bruce</title>
+<title_without_series>Mother Bruce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25745002-mother-bruce]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435158711l/25745002._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435158711l/25745002._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>45585749</id>
+</work>
+<isbn>1484730887</isbn>
+<isbn13>9781484730881</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>15059113</id>
+<name>Ryan T.  Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15059113.Ryan_T_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40221498</id>
+<title>The Good Egg</title>
+<title_without_series>The Good Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40221498-the-good-egg]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530030870l/40221498._SX98_.jpg]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>62460576</id>
+</work>
+<isbn>0062866001</isbn>
+<isbn13>9780062866004</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18222766</id>
+<title>Hooray for Hat!</title>
+<title_without_series>Hooray for Hat!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18222766-hooray-for-hat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391340364l/18222766._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391340364l/18222766._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>25656431</id>
+</work>
+<isbn>0544159039</isbn>
+<isbn13>9780544159037</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7182578</id>
+<name>Brian Won</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7182578.Brian_Won]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36711245</id>
+<title>We Are Grateful: Otsaliheliga</title>
+<title_without_series>We Are Grateful: Otsaliheliga</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36711245-we-are-grateful]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525825917l/36711245._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525825917l/36711245._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>58508012</id>
+</work>
+<isbn>1632896338</isbn>
+<isbn13>9781632896339</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>17385615</id>
+<name>Traci Sorell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17385615.Traci_Sorell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22521973</id>
+<title>Last Stop on Market Street</title>
+<title_without_series>Last Stop on Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22521973-last-stop-on-market-street]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342770l/22521973._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>41969141</id>
+</work>
+<isbn>0399257748</isbn>
+<isbn13>9780399257742</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>204966</id>
+<name>Matt de la Pena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204966.Matt_de_la_Pena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40641149</id>
+<title>When Sadness Is at Your Door</title>
+<title_without_series>When Sadness Is at Your Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40641149-when-sadness-is-at-your-door]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530004182l/40641149._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530004182l/40641149._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>63146227</id>
+</work>
+<isbn>0525707182</isbn>
+<isbn13>9780525707189</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>17933204</id>
+<name>Eva Eland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17933204.Eva_Eland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15778384</id>
+<title>Ribbit!</title>
+<title_without_series>Ribbit!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15778384-ribbit]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344369832l/15778384._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344369832l/15778384._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>21491705</id>
+</work>
+<isbn>0307981460</isbn>
+<isbn13>9780307981462</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4570</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>524046</id>
+<name>Rodrigo Folgueira</name>
+<link><![CDATA[https://www.goodreads.com/author/show/524046.Rodrigo_Folgueira]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

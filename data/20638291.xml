@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20638291</id>
+  <title><![CDATA[Pretty Deadly, Vol. 1: The Shrike]]></title>
+  <isbn><![CDATA[1607069628]]></isbn>
+  <isbn13><![CDATA[9781607069621]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400007010l/20638291._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400007010l/20638291._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>13</publication_day>
+  <publisher>Image Comics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Kelly Sue DeConnick (Avengers Assemble, Captain Marvel) and Emma Rios (Dr. Strange, Osborn) present the collected opening arc of their surprise-hit series that marries the magical realism of Sandman with the western brutality of Preacher. Death's daughter rides the wind on a horse made of smoke and her face bears the skull marks of her father. Her origin story is a tale of retribution as beautifully lush as it is unflinchingly savage. <br /><br />"It's a perfect match for the gorgeous, dizzying artwork in a sumptuous palette-overlaid panels add intricate choreography to fight scenes, and detailed, whirling splash pages beg for long-lingering looks. Couple that, along with a handful of Eisner nominations, with a multicultural cast of tough-as-nails women who all fight for their own honor, and this is a series to watch out for." - Booklist<br /><br />"It's ambitious and challenging (two qualities that are not often valued, but that probably should be), under a façade of violence and sacrifice. Rio's art is lush and detailed, and is more than capable of keeping up with the far-reaching story." - PW]]></description>
+  <work>
+  <id type="integer">39928058</id>
+  <books_count type="integer">12</books_count>
+  <best_book_id type="integer">20638291</best_book_id>
+  <reviews_count type="integer">25387</reviews_count>
+  <ratings_sum type="integer">44110</ratings_sum>
+  <ratings_count type="integer">11611</ratings_count>
+  <text_reviews_count type="integer">1253</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_title>The Shrike (Pretty Deadly, #1)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3449|4:4045|3:2810|2:948|1:359|total:11611</rating_dist>
+  <desc_user_id type="integer">19636920</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.e6eABSIDFoEyFhdxeKflhQ</work_uri>
+</work>
+  <average_rating>3.80</average_rating>
+  <num_pages><![CDATA[120]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11333]]></ratings_count>
+  <text_reviews_count><![CDATA[1219]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20638291-pretty-deadly-vol-1]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20638291-pretty-deadly-vol-1]]></link>
+  <authors>
+<author>
+<id>16587</id>
+<name>Kelly Sue DeConnick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298397680p5/16587.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298397680p2/16587.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16587.Kelly_Sue_DeConnick]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>129072</ratings_count>
+<text_reviews_count>11253</text_reviews_count>
+</author>
+<author>
+<id>2888650</id>
+<name>Emma Ríos</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2888650.Emma_R_os]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>46688</ratings_count>
+<text_reviews_count>4274</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20638291-pretty-deadly-vol-1">Pretty Deadly, Vol. 1 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1607069628&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20638291-pretty-deadly-vol-1?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="12285"/>
+      <shelf name="graphic-novels" count="1103"/>
+      <shelf name="comics" count="935"/>
+      <shelf name="fantasy" count="465"/>
+      <shelf name="graphic-novel" count="400"/>
+      <shelf name="western" count="159"/>
+      <shelf name="comics-graphic-novels" count="154"/>
+      <shelf name="fiction" count="123"/>
+      <shelf name="favorites" count="116"/>
+      <shelf name="currently-reading" count="110"/>
+      <shelf name="graphic-novels-comics" count="106"/>
+      <shelf name="cómics" count="105"/>
+      <shelf name="comic" count="92"/>
+      <shelf name="comics-and-graphic-novels" count="77"/>
+      <shelf name="horror" count="76"/>
+      <shelf name="comic-books" count="65"/>
+      <shelf name="owned" count="59"/>
+      <shelf name="image" count="57"/>
+      <shelf name="books-i-own" count="54"/>
+      <shelf name="series" count="51"/>
+      <shelf name="graphic-novels-and-comics" count="49"/>
+      <shelf name="library" count="43"/>
+      <shelf name="graphic" count="43"/>
+      <shelf name="image-comics" count="43"/>
+      <shelf name="read-in-2016" count="35"/>
+      <shelf name="adult" count="35"/>
+      <shelf name="supernatural" count="32"/>
+      <shelf name="mythology" count="27"/>
+      <shelf name="read-in-2015" count="26"/>
+      <shelf name="read-in-2014" count="26"/>
+      <shelf name="adventure" count="24"/>
+      <shelf name="comics-to-read" count="23"/>
+      <shelf name="paranormal" count="22"/>
+      <shelf name="comics-manga" count="21"/>
+      <shelf name="female-author" count="21"/>
+      <shelf name="to-read-comics" count="21"/>
+      <shelf name="read-2015" count="20"/>
+      <shelf name="ebook" count="20"/>
+      <shelf name="historical" count="20"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="read-2014" count="19"/>
+      <shelf name="to-read-graphic-novels" count="19"/>
+      <shelf name="westerns" count="18"/>
+      <shelf name="death" count="18"/>
+      <shelf name="sequential-art" count="18"/>
+      <shelf name="comic-graphic-novel" count="17"/>
+      <shelf name="read-in-2017" count="15"/>
+      <shelf name="comics-read" count="15"/>
+      <shelf name="graphics" count="15"/>
+      <shelf name="cómic" count="14"/>
+      <shelf name="borrowed" count="14"/>
+      <shelf name="comics-image" count="14"/>
+      <shelf name="read-comics" count="14"/>
+      <shelf name="comic-book" count="14"/>
+      <shelf name="read-in-2018" count="12"/>
+      <shelf name="read-2016" count="12"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="library-book" count="12"/>
+      <shelf name="library-books" count="12"/>
+      <shelf name="graphic_novel" count="12"/>
+      <shelf name="comix" count="12"/>
+      <shelf name="graphic-novels-comics-manga" count="12"/>
+      <shelf name="read-2017" count="11"/>
+      <shelf name="comics-and-manga" count="11"/>
+      <shelf name="weird-west" count="11"/>
+      <shelf name="graphic-novel-comics" count="11"/>
+      <shelf name="historical-fiction" count="11"/>
+      <shelf name="action" count="11"/>
+      <shelf name="magic" count="11"/>
+      <shelf name="speculative-fiction" count="11"/>
+      <shelf name="netgalley" count="11"/>
+      <shelf name="4-and-5-star-books" count="10"/>
+      <shelf name="female-protagonist" count="10"/>
+      <shelf name="female-authors" count="10"/>
+      <shelf name="comixology" count="10"/>
+      <shelf name="graphic-novel-comic" count="10"/>
+      <shelf name="adult-fiction" count="10"/>
+      <shelf name="2014-reads" count="10"/>
+      <shelf name="sci-fi-fantasy" count="10"/>
+      <shelf name="graphicnovel" count="10"/>
+      <shelf name="manga-graphic-novels" count="10"/>
+      <shelf name="women-authors" count="9"/>
+      <shelf name="2010s" count="9"/>
+      <shelf name="women" count="9"/>
+      <shelf name="comics-graphic-novels-manga" count="9"/>
+      <shelf name="graphic-novels-comic-books" count="9"/>
+      <shelf name="book-club" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="graphic-novels-to-read" count="9"/>
+      <shelf name="graphicnovels" count="9"/>
+      <shelf name="humble-bundle" count="8"/>
+      <shelf name="hoopla" count="8"/>
+      <shelf name="gn" count="8"/>
+      <shelf name="sci-fi" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="weird-western" count="8"/>
+      <shelf name="digital" count="8"/>
+      <shelf name="genre-fantasy" count="8"/>
+      <shelf name="owned-comics" count="8"/>
+      <shelf name="dark-fantasy" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>937250</id>
+<user_position>1-5</user_position>
+<series>
+<id>158391</id>
+<title>
+<![CDATA[
+    Pretty Deadly
+]]>
+</title>
+<description>
+<![CDATA[
+    KELLY SUE DECONNICK (Avengers Assemble, Captain Marvel) & EMMA RÍOS (Dr. Strange, Osborn) reunite to bring you an all-new ongoing series that marries the magical realism of Sandman with the western brutality of Preacher. Death's daughter rides the wind on a horse made of smoke and her face bears the skull marks of her father. Her tale of retribution is as beautifully lush as it is unflinchingly savage.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>12</series_works_count>
+<primary_work_count>10</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>23093359</id>
+<title><![CDATA[The Faust Act (The Wicked + The Divine #1)]]></title>
+<title_without_series>The Faust Act</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23093359-the-faust-act]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415565992l/23093359._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415565992l/23093359._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>42643515</id>
+</work>
+<isbn>1632150190</isbn>
+<isbn13>9781632150196</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>439887</id>
+<name>Kieron Gillen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/439887.Kieron_Gillen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20299683</id>
+<title><![CDATA[Sass & Sorcery (Rat Queens, #1)]]></title>
+<title_without_series>Sass &amp; Sorcery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20299683-sass-sorcery]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489284113l/20299683._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489284113l/20299683._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>28133255</id>
+</work>
+<isbn>1607069458</isbn>
+<isbn13>9781607069454</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>5737121</id>
+<name>Kurtis J. Wiebe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5737121.Kurtis_J_Wiebe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29396738</id>
+<title>Monstress, Vol. 1: Awakening</title>
+<title_without_series>Monstress, Vol. 1: Awakening</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29396738-monstress-vol-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471648131l/29396738._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471648131l/29396738._SX98_.jpg]]></image_url>
+<num_pages>235</num_pages>
+<work>
+<id>51531861</id>
+</work>
+<isbn>1632157098</isbn>
+<isbn13>9781632157096</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>7</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>35022</id>
+<name>Marjorie M. Liu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35022.Marjorie_M_Liu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24666002</id>
+<title><![CDATA[Fandemonium (The Wicked + The Divine #2)]]></title>
+<title_without_series>Fandemonium</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24666002-fandemonium]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435757838l/24666002._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435757838l/24666002._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>44281240</id>
+</work>
+<isbn>1632153270</isbn>
+<isbn13>9781632153272</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>439887</id>
+<name>Kieron Gillen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/439887.Kieron_Gillen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45899240</id>
+<title>Monstress, Vol. 4: The Chosen</title>
+<title_without_series>Monstress, Vol. 4: The Chosen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45899240-monstress-vol-4]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559570414l/45899240._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559570414l/45899240._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>70742623</id>
+</work>
+<isbn>1534313362</isbn>
+<isbn13>9781534313361</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35022</id>
+<name>Marjorie M. Liu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35022.Marjorie_M_Liu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18809235</id>
+<title><![CDATA[East of West, Vol. 2: We Are All One]]></title>
+<title_without_series><![CDATA[East of West, Vol. 2: We Are All One]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18809235-east-of-west-vol-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384617054l/18809235._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384617054l/18809235._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>26742668</id>
+</work>
+<isbn>1607068559</isbn>
+<isbn13>9781607068556</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>356424</id>
+<name>Jonathan Hickman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/356424.Jonathan_Hickman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37491890</id>
+<title>Monstress, Vol. 3: Haven</title>
+<title_without_series>Monstress, Vol. 3: Haven</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37491890-monstress-vol-3]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531356957l/37491890._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531356957l/37491890._SX98_.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>59101846</id>
+</work>
+<isbn>1534306919</isbn>
+<isbn13>9781534306912</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>35022</id>
+<name>Marjorie M. Liu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35022.Marjorie_M_Liu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28762820</id>
+<title>Demons (Rat Queens, #3)</title>
+<title_without_series>Demons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28762820-demons]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489503059l/28762820._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489503059l/28762820._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>48893668</id>
+</work>
+<isbn>1632157357</isbn>
+<isbn13>9781632157355</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5737121</id>
+<name>Kurtis J. Wiebe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5737121.Kurtis_J_Wiebe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33540347</id>
+<title>Monstress, Vol. 2: The Blood</title>
+<title_without_series>Monstress, Vol. 2: The Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33540347-monstress-vol-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482340459l/33540347._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482340459l/33540347._SX98_.jpg]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>54307440</id>
+</work>
+<isbn>1534300414</isbn>
+<isbn13>9781534300415</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>35022</id>
+<name>Marjorie M. Liu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35022.Marjorie_M_Liu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41546163</id>
+<title>Man-Eaters, Vol. 1</title>
+<title_without_series>Man-Eaters, Vol. 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41546163-man-eaters-vol-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550237355l/41546163._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550237355l/41546163._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>64819029</id>
+</work>
+<isbn>1534311432</isbn>
+<isbn13>9781534311435</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>48557</id>
+<name>Chelsea Cain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48557.Chelsea_Cain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23012877</id>
+<title><![CDATA[The Far Reaching Tentacles of N'rygoth (Rat Queens, #2)]]></title>
+<title_without_series><![CDATA[The Far Reaching Tentacles of N'rygoth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23012877-the-far-reaching-tentacles-of-n-rygoth]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431019204l/23012877._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431019204l/23012877._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>42579247</id>
+</work>
+<isbn>1632150409</isbn>
+<isbn13>9781632150400</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5737121</id>
+<name>Kurtis J. Wiebe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5737121.Kurtis_J_Wiebe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28204534</id>
+<title>Paper Girls, Vol. 1</title>
+<title_without_series>Paper Girls, Vol. 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28204534-paper-girls-vol-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SX98_.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>49449510</id>
+</work>
+<isbn>1632156741</isbn>
+<isbn13>9781632156747</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>24514</id>
+<name>Brian K. Vaughan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24514.Brian_K_Vaughan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17929637</id>
+<title><![CDATA[East of West, Vol. 1: The Promise]]></title>
+<title_without_series><![CDATA[East of West, Vol. 1: The Promise]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17929637-east-of-west-vol-1]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368745851l/17929637._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368745851l/17929637._SX98_.jpg]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>25131343</id>
+</work>
+<isbn>1607067706</isbn>
+<isbn13>9781607067702</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>356424</id>
+<name>Jonathan Hickman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/356424.Jonathan_Hickman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35631919</id>
+<title><![CDATA[High Fantasies (Rat Queens, #4)]]></title>
+<title_without_series>High Fantasies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35631919-high-fantasies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57083568</id>
+</work>
+<isbn>163215899X</isbn>
+<isbn13>9781632158994</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5737121</id>
+<name>Kurtis J. Wiebe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5737121.Kurtis_J_Wiebe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23228585</id>
+<title><![CDATA[Sex Criminals: Volume Two: Two Worlds One Cop]]></title>
+<title_without_series><![CDATA[Sex Criminals: Volume Two: Two Worlds One Cop]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23228585-sex-criminals]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410891094l/23228585._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410891094l/23228585._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>42769900</id>
+</work>
+<isbn>1632151936</isbn>
+<isbn13>9781632151933</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>61382</id>
+<name>Matt Fraction</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61382.Matt_Fraction]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25853351</id>
+<title><![CDATA[Commercial Suicide (The Wicked + The Divine #3)]]></title>
+<title_without_series>Commercial Suicide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25853351-commercial-suicide]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453740622l/25853351._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453740622l/25853351._SX98_.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>45721400</id>
+</work>
+<isbn>1632156318</isbn>
+<isbn13>9781632156310</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>439887</id>
+<name>Kieron Gillen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/439887.Kieron_Gillen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43999495</id>
+<title>Man-Eaters, Vol. 2</title>
+<title_without_series>Man-Eaters, Vol. 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43999495-man-eaters-vol-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553109593l/43999495._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553109593l/43999495._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>68403162</id>
+</work>
+<isbn>1534313095</isbn>
+<isbn13>9781534313095</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>48557</id>
+<name>Chelsea Cain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48557.Chelsea_Cain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46634112</id>
+<title>November Volume I</title>
+<title_without_series>November Volume I</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46634112-november-volume-i]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562935142l/46634112._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562935142l/46634112._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>71647640</id>
+</work>
+<isbn>1534313540</isbn>
+<isbn13>9781534313545</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>11611</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>61382</id>
+<name>Matt Fraction</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61382.Matt_Fraction]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>44303730</id>
+  <title>Me</title>
+  <isbn><![CDATA[1250147603]]></isbn>
+  <isbn13><![CDATA[9781250147608]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SY75_.jpg</small_image_url>
+  <publication_year>2019</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Henry Holt &amp; Company</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In his only official autobiography, music icon Elton John writes about his extraordinary life, which is also the subject of the film <i>Rocketman</i>.<br /><br />Christened Reginald Dwight, he was a shy boy with Buddy Holly glasses who grew up in the London suburb of Pinner and dreamed of becoming a pop star. By the age of twenty-three, he was on his first tour of America, facing an astonished audience in his tight silver hotpants, bare legs and a T-shirt with ROCK AND ROLL emblazoned across it in sequins. Elton John had arrived and the music world would never be the same again.<br /><br />His life has been full of drama, from the early rejection of his work with song-writing partner Bernie Taupin to spinning out of control as a chart-topping superstar; from half-heartedly trying to drown himself in his LA swimming pool to disco-dancing with the Queen; from friendships with John Lennon, Freddie Mercury and George Michael to setting up his AIDS Foundation. All the while, Elton was hiding a drug addiction that would grip him for over a decade.<br /><br />In <i>Me</i> Elton also writes about getting clean and changing his life, about finding love with David Furnish and becoming a father.]]></description>
+  <work>
+  <id type="integer">68837791</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">44303730</best_book_id>
+  <reviews_count type="integer">25245</reviews_count>
+  <ratings_sum type="integer">18854</ratings_sum>
+  <ratings_count type="integer">4239</ratings_count>
+  <text_reviews_count type="integer">644</text_reviews_count>
+  <original_publication_year type="integer">2019</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">15</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2501|4:1281|3:357|2:54|1:46|total:4239</rating_dist>
+  <desc_user_id type="integer">1237196</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.27OnUMS5X4ggvDDJLS2Waw</work_uri>
+</work>
+  <average_rating>4.45</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3141]]></ratings_count>
+  <text_reviews_count><![CDATA[521]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/44303730-me]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/44303730-me]]></link>
+  <authors>
+<author>
+<id>103812</id>
+<name>Elton John</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207678127p5/103812.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207678127p2/103812.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/103812.Elton_John]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>5592</ratings_count>
+<text_reviews_count>827</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/44303730-me">Me Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1250147603&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/44303730-me?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="15838"/>
+      <shelf name="currently-reading" count="4176"/>
+      <shelf name="non-fiction" count="168"/>
+      <shelf name="biography" count="104"/>
+      <shelf name="memoir" count="97"/>
+      <shelf name="nonfiction" count="82"/>
+      <shelf name="music" count="73"/>
+      <shelf name="audiobooks" count="51"/>
+      <shelf name="audiobook" count="51"/>
+      <shelf name="autobiography" count="37"/>
+      <shelf name="read-in-2019" count="29"/>
+      <shelf name="audio" count="27"/>
+      <shelf name="biography-memoir" count="27"/>
+      <shelf name="books-i-own" count="27"/>
+      <shelf name="memoirs" count="26"/>
+      <shelf name="favorites" count="22"/>
+      <shelf name="library" count="21"/>
+      <shelf name="biographies" count="21"/>
+      <shelf name="lgbt" count="19"/>
+      <shelf name="audible" count="18"/>
+      <shelf name="audio-books" count="16"/>
+      <shelf name="owned" count="16"/>
+      <shelf name="lgbtq" count="15"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="adult" count="12"/>
+      <shelf name="2019-reads" count="10"/>
+      <shelf name="autobiography-memoir" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="read-2019" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="memoir-biography" count="8"/>
+      <shelf name="audio-book" count="8"/>
+      <shelf name="2019-releases" count="8"/>
+      <shelf name="listened-to" count="7"/>
+      <shelf name="2019-read" count="7"/>
+      <shelf name="entertainment" count="7"/>
+      <shelf name="biography-autobiography" count="7"/>
+      <shelf name="lgbtqia" count="7"/>
+      <shelf name="2019-books" count="7"/>
+      <shelf name="celebrity" count="7"/>
+      <shelf name="british" count="6"/>
+      <shelf name="bio" count="6"/>
+      <shelf name="history" count="6"/>
+      <shelf name="book-club" count="5"/>
+      <shelf name="memoir-autobiography" count="5"/>
+      <shelf name="biographies-and-memoirs" count="5"/>
+      <shelf name="owned-tbr" count="5"/>
+      <shelf name="biography-and-memoir" count="5"/>
+      <shelf name="want-to-buy" count="5"/>
+      <shelf name="to-read-nonfiction" count="5"/>
+      <shelf name="musicians" count="5"/>
+      <shelf name="books-2019" count="4"/>
+      <shelf name="memoir-bio" count="4"/>
+      <shelf name="tbr" count="4"/>
+      <shelf name="2019-books-read" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="bios" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="maybe" count="4"/>
+      <shelf name="queer" count="4"/>
+      <shelf name="tbr-non-fiction" count="4"/>
+      <shelf name="books-to-buy" count="4"/>
+      <shelf name="pop-culture" count="4"/>
+      <shelf name="stand-alone" count="3"/>
+      <shelf name="goodreads-choice-awards" count="3"/>
+      <shelf name="auto-biographies" count="3"/>
+      <shelf name="gay" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="auto-biography" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="bio-memoir" count="3"/>
+      <shelf name="adult-non-fiction" count="3"/>
+      <shelf name="rock-and-roll" count="3"/>
+      <shelf name="on-my-shelf" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="biographies-autobiographies" count="3"/>
+      <shelf name="at-the-library" count="3"/>
+      <shelf name="want-to-listen" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="autobiography-biography-memoir" count="3"/>
+      <shelf name="music-biography" count="3"/>
+      <shelf name="2019-challenge" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="lgbtqi" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="memoirs-biographies" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="autobiography-biography" count="3"/>
+      <shelf name="other" count="3"/>
+      <shelf name="to-read-non-fiction" count="3"/>
+      <shelf name="want-to-read-non-fiction" count="3"/>
+      <shelf name="bios-memoirs" count="3"/>
+      <shelf name="2019-all" count="2"/>
+      <shelf name="20th-century" count="2"/>
+      <shelf name="cpl" count="2"/>
+      <shelf name="people" count="2"/>
+      <shelf name="anticipated" count="2"/>
+      <shelf name="mental-illness" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="libby" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>45167624</id>
+<title>Inside Out</title>
+<title_without_series>Inside Out</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45167624-inside-out]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558586807l/45167624._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558586807l/45167624._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>69869756</id>
+</work>
+<isbn>0062049534</isbn>
+<isbn13>9780062049537</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2542810</id>
+<name>Demi Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2542810.Demi_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44418422</id>
+<title>Wham! George &amp; Me</title>
+<title_without_series>Wham! George &amp; Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44418422-wham-george-me]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68968443</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18943821</id>
+<name>Andrew Ridgeley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18943821.Andrew_Ridgeley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46059211</id>
+<title>Face It</title>
+<title_without_series>Face It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46059211-face-it]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565051801l/46059211._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565051801l/46059211._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>70967776</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>179527</id>
+<name>Debbie Harry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/179527.Debbie_Harry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44286431</id>
+<title><![CDATA[Home Work: A Memoir of My Hollywood Years]]></title>
+<title_without_series><![CDATA[Home Work: A Memoir of My Hollywood Years]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44286431-home-work]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556723540l/44286431._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556723540l/44286431._SX98_.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>68803433</id>
+</work>
+<isbn>0306845989</isbn>
+<isbn13>9780306845987</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>6781</id>
+<name>Julie Andrews Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6781.Julie_Andrews_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46650277</id>
+<title><![CDATA[Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators]]></title>
+<title_without_series><![CDATA[Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46650277-catch-and-kill]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570798239l/46650277._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570798239l/46650277._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>72177046</id>
+</work>
+<isbn>0316486639</isbn>
+<isbn13>9780316486637</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>17176042</id>
+<name>Ronan Farrow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17176042.Ronan_Farrow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45201472</id>
+<title>The Beautiful Ones</title>
+<title_without_series>The Beautiful Ones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45201472-the-beautiful-ones]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565068002l/45201472._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565068002l/45201472._SX98_.jpg]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>69924315</id>
+</work>
+<isbn>0399589651</isbn>
+<isbn13>9780399589652</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>197199</id>
+<name>Prince</name>
+<link><![CDATA[https://www.goodreads.com/author/show/197199.Prince]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45161334</id>
+<title><![CDATA[Touched by the Sun: My Friendship with Jackie]]></title>
+<title_without_series><![CDATA[Touched by the Sun: My Friendship with Jackie]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45161334-touched-by-the-sun]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559580523l/45161334._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559580523l/45161334._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>69856737</id>
+</work>
+<isbn>0374277729</isbn>
+<isbn13>9780374277727</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>173740</id>
+<name>Carly Simon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173740.Carly_Simon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43821567</id>
+<title>Janis: Her Life and Music</title>
+<title_without_series>Janis: Her Life and Music</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43821567-janis]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571583068l/43821567._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571583068l/43821567._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68193238</id>
+</work>
+<isbn>1508296367</isbn>
+<isbn13>9781508296362</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>39703</id>
+<name>Holly George-Warren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39703.Holly_George_Warren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39667068</id>
+<title>Acid For The Children</title>
+<title_without_series>Acid For The Children</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39667068-acid-for-the-children]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61247052</id>
+</work>
+<isbn>1472230825</isbn>
+<isbn13>9781472230829</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1233416</id>
+<name>Flea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1233416.Flea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44139380</id>
+<title>Long Way Home</title>
+<title_without_series>Long Way Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44139380-long-way-home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567536679l/44139380._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567536679l/44139380._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>68645297</id>
+</work>
+<isbn>052552083X</isbn>
+<isbn13>9780525520832</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>18704185</id>
+<name>Cameron Douglas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18704185.Cameron_Douglas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41824023</id>
+<title><![CDATA[Over the Top: A Raw Journey to Self-Love]]></title>
+<title_without_series><![CDATA[Over the Top: A Raw Journey to Self-Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41824023-over-the-top]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564864774l/41824023._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564864774l/41824023._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65274850</id>
+</work>
+<isbn>0062906402</isbn>
+<isbn13>9780062906403</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>18259219</id>
+<name>Jonathan Van Ness</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18259219.Jonathan_Van_Ness]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21198651</id>
+<title><![CDATA[The Rest Is Noise Series: Apparition from the Woods: The Loneliness of Jean Sibelius]]></title>
+<title_without_series><![CDATA[The Rest Is Noise Series: Apparition from the Woods: The Loneliness of Jean Sibelius]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21198651-the-rest-is-noise-series]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>40535878</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2870641</id>
+<name>Alex  Ross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2870641.Alex_Ross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44318414</id>
+<title>The Dutch House</title>
+<title_without_series>The Dutch House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44318414-the-dutch-house]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552334367l/44318414._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>68864841</id>
+</work>
+<isbn>0062963678</isbn>
+<isbn13>9780062963673</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7136914</id>
+<name>Ann Patchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7136914.Ann_Patchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43496775</id>
+<title>Who am I, again?</title>
+<title_without_series>Who am I, again?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43496775-who-am-i-again]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570242996l/43496775._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570242996l/43496775._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67647522</id>
+</work>
+<isbn>0571342590</isbn>
+<isbn13>9780571342594</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>860368</id>
+<name>Lenny Henry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/860368.Lenny_Henry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43925876</id>
+<title>The Giver of Stars</title>
+<title_without_series>The Giver of Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43925876-the-giver-of-stars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572879113l/43925876._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572879113l/43925876._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>68351635</id>
+</work>
+<isbn>0399562486</isbn>
+<isbn13>9780399562488</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>281810</id>
+<name>Jojo Moyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/281810.Jojo_Moyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42975172</id>
+<title><![CDATA[The Testaments (The Handmaid's Tale, #2)]]></title>
+<title_without_series>The Testaments</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42975172-the-testaments]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549292344l/42975172._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549292344l/42975172._SX98_.jpg]]></image_url>
+<num_pages>422</num_pages>
+<work>
+<id>66802198</id>
+</work>
+<isbn>0385543786</isbn>
+<isbn13>9780385543781</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3472</id>
+<name>Margaret Atwood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3472.Margaret_Atwood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43798285</id>
+<title>The Institute</title>
+<title_without_series>The Institute</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43798285-the-institute]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SX98_.jpg]]></image_url>
+<num_pages>561</num_pages>
+<work>
+<id>68147322</id>
+</work>
+<isbn>1982110562</isbn>
+<isbn13>9781982110567</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46404055</id>
+<title><![CDATA[The Book of Gutsy Women: Favorite Stories of Courage and Resilience]]></title>
+<title_without_series><![CDATA[The Book of Gutsy Women: Favorite Stories of Courage and Resilience]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46404055-the-book-of-gutsy-women]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566404674l/46404055._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566404674l/46404055._SX98_.jpg]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>71431728</id>
+</work>
+<isbn>1508299226</isbn>
+<isbn13>9781508299226</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>4239</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2778471</id>
+<name>Hillary Rodham Clinton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2778471.Hillary_Rodham_Clinton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

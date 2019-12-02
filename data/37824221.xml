@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>37824221</id>
+  <title>Craven Manor</title>
+  <isbn><![CDATA[0994630638]]></isbn>
+  <isbn13><![CDATA[9780994630636]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517527276l/37824221._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517527276l/37824221._SY75_.jpg</small_image_url>
+  <publication_year>2017</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>Black Owl Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Daniel is desperate for a job. When someone slides a note under his door offering him the groundskeeper's position at an old estate, it seems too good to be true.<br /> <br /> Alarm bells start ringing when he arrives at Craven Manor. The mansion's front door hangs open, and leaves and cobwebs coat the marble foyer. It's clear no one has lived there in a long time.<br /> <br /> But an envelope waits for him inside the doorway. It contains money, and promises more.<br /> <br /> Daniel is desperate. Against his better judgement, he moves into the groundskeeper's cottage behind the crypt. He's determined to ignore the strange occurrences that plague the estate.<br /> <br /> But when a candle flickers to life in the abandoned tower window, Daniel realises Craven Manor is hiding a terrible secret... one that threatens to bury him with it.]]></description>
+  <work>
+  <id type="integer">58368225</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">36582543</best_book_id>
+  <reviews_count type="integer">33049</reviews_count>
+  <ratings_sum type="integer">26839</ratings_sum>
+  <ratings_count type="integer">6721</ratings_count>
+  <text_reviews_count type="integer">786</text_reviews_count>
+  <original_publication_year type="integer">2017</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">11</original_publication_day>
+  <original_title>Craven Manor</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2421|4:2422|3:1405|2:358|1:115|total:6721</rating_dist>
+  <desc_user_id type="integer">1703299</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.kRIw_WOLxk4Z6t-H_DAzOQ</work_uri>
+</work>
+  <average_rating>3.99</average_rating>
+  <num_pages><![CDATA[298]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[503]]></ratings_count>
+  <text_reviews_count><![CDATA[82]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/37824221-craven-manor]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/37824221-craven-manor]]></link>
+  <authors>
+<author>
+<id>7734837</id>
+<name>Darcy Coates</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474091846p5/7734837.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474091846p2/7734837.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7734837.Darcy_Coates]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>43149</ratings_count>
+<text_reviews_count>4706</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/37824221-craven-manor">Craven Manor Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0994630638&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/37824221-craven-manor?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="21298"/>
+      <shelf name="currently-reading" count="2296"/>
+      <shelf name="horror" count="436"/>
+      <shelf name="paranormal" count="77"/>
+      <shelf name="mystery" count="64"/>
+      <shelf name="fiction" count="62"/>
+      <shelf name="fantasy" count="47"/>
+      <shelf name="thriller" count="43"/>
+      <shelf name="ghosts" count="41"/>
+      <shelf name="kindle" count="37"/>
+      <shelf name="to-buy" count="25"/>
+      <shelf name="kindle-unlimited" count="21"/>
+      <shelf name="supernatural" count="20"/>
+      <shelf name="owned" count="19"/>
+      <shelf name="favorites" count="19"/>
+      <shelf name="mystery-thriller" count="16"/>
+      <shelf name="ebooks" count="14"/>
+      <shelf name="darcy-coates" count="14"/>
+      <shelf name="maybe" count="13"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="halloween" count="11"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="ghost-stories" count="11"/>
+      <shelf name="read-in-2019" count="10"/>
+      <shelf name="horror-thriller" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="to-read-horror" count="10"/>
+      <shelf name="gothic" count="10"/>
+      <shelf name="ghost" count="10"/>
+      <shelf name="want-to-buy" count="9"/>
+      <shelf name="haunted-house" count="9"/>
+      <shelf name="read-2019" count="8"/>
+      <shelf name="not-at-library" count="8"/>
+      <shelf name="read-2018" count="8"/>
+      <shelf name="suspense" count="8"/>
+      <shelf name="ghost-story" count="8"/>
+      <shelf name="2019-reads" count="7"/>
+      <shelf name="standalone" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="thrillers" count="7"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="fiction-horror" count="7"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="need-to-buy" count="6"/>
+      <shelf name="horror-suspense" count="6"/>
+      <shelf name="thriller-suspense" count="5"/>
+      <shelf name="mystery-suspense" count="5"/>
+      <shelf name="interested" count="5"/>
+      <shelf name="thriller-horror" count="5"/>
+      <shelf name="tbr-horror" count="5"/>
+      <shelf name="horror-to-read" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="dnf" count="5"/>
+      <shelf name="stand-alone" count="5"/>
+      <shelf name="read-in-2018" count="5"/>
+      <shelf name="2017-releases" count="5"/>
+      <shelf name="read-next" count="5"/>
+      <shelf name="kindle-books" count="5"/>
+      <shelf name="consideration" count="4"/>
+      <shelf name="2019-read" count="4"/>
+      <shelf name="prime" count="4"/>
+      <shelf name="adult-fiction" count="4"/>
+      <shelf name="2019-reading-challenge" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="gothic-horror" count="4"/>
+      <shelf name="horror-paranormal" count="4"/>
+      <shelf name="goodreads-choice-awards" count="4"/>
+      <shelf name="scary" count="4"/>
+      <shelf name="to-read-fiction" count="4"/>
+      <shelf name="ku" count="4"/>
+      <shelf name="haunted" count="4"/>
+      <shelf name="mystery-horror" count="4"/>
+      <shelf name="audiobook" count="4"/>
+      <shelf name="paranormal-fiction" count="4"/>
+      <shelf name="2018-read" count="4"/>
+      <shelf name="mysteries" count="4"/>
+      <shelf name="creepy" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="knihovna" count="3"/>
+      <shelf name="autumn" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="really-want-to-read" count="3"/>
+      <shelf name="books-read-in-2019" count="3"/>
+      <shelf name="books-2019" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="to-purchase" count="3"/>
+      <shelf name="books-i-want" count="3"/>
+      <shelf name="2019-reading-list" count="3"/>
+      <shelf name="genre-horror" count="3"/>
+      <shelf name="books-in-the-freezer" count="3"/>
+      <shelf name="kindle-reads" count="3"/>
+      <shelf name="horror-scary" count="3"/>
+      <shelf name="october" count="3"/>
+      <shelf name="fantasy-paranormal" count="3"/>
+      <shelf name="maybe-read" count="3"/>
+      <shelf name="on-my-kindle" count="3"/>
+      <shelf name="spooky-reads" count="3"/>
+      <shelf name="horror-tbr" count="3"/>
+      <shelf name="considering" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>36643437</id>
+<title><![CDATA[Callie (The Bayou Hauntings #1)]]></title>
+<title_without_series>Callie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36643437-callie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58412519</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7351078</id>
+<name>Bill  Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7351078.Bill_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44246108</id>
+<title><![CDATA[The Haunting of Abram Mansion: A Riveting Haunted House Mystery]]></title>
+<title_without_series><![CDATA[The Haunting of Abram Mansion: A Riveting Haunted House Mystery]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44246108-the-haunting-of-abram-mansion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68778268</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15501695</id>
+<name>Alexandria Clarke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15501695.Alexandria_Clarke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40181353</id>
+<title>Forgotten Men</title>
+<title_without_series>Forgotten Men</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40181353-forgotten-men]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534436956l/40181353._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534436956l/40181353._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61946284</id>
+</work>
+<isbn></isbn>
+<isbn13>9780997912975</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7351078</id>
+<name>Bill  Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7351078.Bill_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39681954</id>
+<title><![CDATA[The House of Long Shadows (House of Souls #1)]]></title>
+<title_without_series>The House of Long Shadows</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39681954-the-house-of-long-shadows]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61287354</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14031995</id>
+<name>Ambrose Ibsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031995.Ambrose_Ibsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39077560</id>
+<title><![CDATA[Nightmare Abbey (Nightmare Series Book 1)]]></title>
+<title_without_series>Nightmare Abbey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39077560-nightmare-abbey]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>60635781</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6565854</id>
+<name>David Longhorn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6565854.David_Longhorn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33127341</id>
+<title>The End of Temperance Dare</title>
+<title_without_series>The End of Temperance Dare</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33127341-the-end-of-temperance-dare]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488922783l/33127341._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488922783l/33127341._SX98_.jpg]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>53798818</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3023926</id>
+<name>Wendy Webb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3023926.Wendy_Webb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47881134</id>
+<title><![CDATA[The Haunting of Beacon Hill (The Beckoning Dead, 1)]]></title>
+<title_without_series>The Haunting of Beacon Hill</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47881134-the-haunting-of-beacon-hill]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73026362</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14031995</id>
+<name>Ambrose Ibsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031995.Ambrose_Ibsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43144134</id>
+<title>Don&apos;t Look Back</title>
+<title_without_series>Don&apos;t Look Back</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43144134-don-t-look-back]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66937163</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4411299</id>
+<name>Ben Cheetham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4411299.Ben_Cheetham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39710590</id>
+<title>Malefic (House of Souls #2)</title>
+<title_without_series>Malefic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39710590-malefic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61366711</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14031995</id>
+<name>Ambrose Ibsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031995.Ambrose_Ibsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43063654</id>
+<title><![CDATA[The Nursery (The Bayou Hauntings Book 3)]]></title>
+<title_without_series>The Nursery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43063654-the-nursery]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66853073</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>120246</id>
+<name>Bill Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/120246.Bill_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40721000</id>
+<title><![CDATA[Black Acres: The Complete Collection]]></title>
+<title_without_series><![CDATA[Black Acres: The Complete Collection]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40721000-black-acres]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63341452</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14031995</id>
+<name>Ambrose Ibsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031995.Ambrose_Ibsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44418452</id>
+<title>The Coldwater Haunting</title>
+<title_without_series>The Coldwater Haunting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44418452-the-coldwater-haunting]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68968496</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7134729</id>
+<name>Michael Richan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7134729.Michael_Richan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38608066</id>
+<title>The Siren and the Specter</title>
+<title_without_series>The Siren and the Specter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38608066-the-siren-and-the-specter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518907734l/38608066._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518907734l/38608066._SX98_.jpg]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>60217479</id>
+</work>
+<isbn>1787580075</isbn>
+<isbn13>9781787580077</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4389526</id>
+<name>Jonathan Janz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4389526.Jonathan_Janz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43306293</id>
+<title>The Splendor of Fear</title>
+<title_without_series>The Splendor of Fear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43306293-the-splendor-of-fear]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67204266</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14031995</id>
+<name>Ambrose Ibsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031995.Ambrose_Ibsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38200785</id>
+<title><![CDATA[The Nightmare Room (The Messy Man, #1)]]></title>
+<title_without_series>The Nightmare Room</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38200785-the-nightmare-room]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>59869074</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1317657</id>
+<name>Chris   Sorensen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1317657.Chris_Sorensen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44550103</id>
+<title>The Purchase</title>
+<title_without_series>The Purchase</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44550103-the-purchase]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69140133</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5344482</id>
+<name>Amy Cross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5344482.Amy_Cross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37976209</id>
+<title>Haunted Hideout</title>
+<title_without_series>Haunted Hideout</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37976209-haunted-hideout]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59699060</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15164511</id>
+<name>Michelle Dorey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15164511.Michelle_Dorey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39354546</id>
+<title><![CDATA[The Haunting of Caldgrave House]]></title>
+<title_without_series><![CDATA[The Haunting of Caldgrave House]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39354546-the-haunting-of-caldgrave-house]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61015876</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5344482</id>
+<name>Amy Cross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5344482.Amy_Cross]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

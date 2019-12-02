@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20663085</id>
+  <title>Goodnight Already!</title>
+  <isbn><![CDATA[006228620X]]></isbn>
+  <isbn13><![CDATA[9780062286208]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458875340l/20663085._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458875340l/20663085._SX50_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Meet Bear. He's exhausted. All he wants is to go to sleep. Meet Duck, Bear's persistent next-door neighbor. All he wants is to hang out . . . with Bear.<br /><br />Jory John, author of <em>All My Friends Are Dead</em>, and Benji Davies join together to create this standout hilarious picture book that will make bedtime memorable.]]></description>
+  <work>
+  <id type="integer">39961728</id>
+  <books_count type="integer">20</books_count>
+  <best_book_id type="integer">20663085</best_book_id>
+  <reviews_count type="integer">6620</reviews_count>
+  <ratings_sum type="integer">9448</ratings_sum>
+  <ratings_count type="integer">2325</ratings_count>
+  <text_reviews_count type="integer">356</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">2</original_publication_day>
+  <original_title>Goodnight Already!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:803|4:973|3:454|2:84|1:11|total:2325</rating_dist>
+  <desc_user_id type="integer">-47</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.lJoYKSI9kjs7iqj5tiZHpw</work_uri>
+</work>
+  <average_rating>4.06</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[2212]]></ratings_count>
+  <text_reviews_count><![CDATA[340]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20663085-goodnight-already]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20663085-goodnight-already]]></link>
+  <authors>
+<author>
+<id>1977410</id>
+<name>Jory John</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1977410.Jory_John]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>59048</ratings_count>
+<text_reviews_count>7288</text_reviews_count>
+</author>
+<author>
+<id>2937001</id>
+<name>Benji Davies</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403622948p5/2937001.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403622948p2/2937001.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2937001.Benji_Davies]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>10704</ratings_count>
+<text_reviews_count>1866</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20663085-goodnight-already">Goodnight Already! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006228620X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/20663085-goodnight-already?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3498"/>
+      <shelf name="picture-books" count="399"/>
+      <shelf name="picture-book" count="99"/>
+      <shelf name="childrens" count="85"/>
+      <shelf name="animals" count="55"/>
+      <shelf name="children-s" count="55"/>
+      <shelf name="children" count="54"/>
+      <shelf name="children-s-books" count="53"/>
+      <shelf name="humor" count="51"/>
+      <shelf name="bedtime" count="49"/>
+      <shelf name="kids" count="46"/>
+      <shelf name="bears" count="45"/>
+      <shelf name="storytime" count="41"/>
+      <shelf name="friendship" count="31"/>
+      <shelf name="ducks" count="26"/>
+      <shelf name="childrens-books" count="26"/>
+      <shelf name="preschool" count="22"/>
+      <shelf name="fiction" count="22"/>
+      <shelf name="currently-reading" count="21"/>
+      <shelf name="favorites" count="18"/>
+      <shelf name="kids-books" count="17"/>
+      <shelf name="funny" count="16"/>
+      <shelf name="children-s-picture-books" count="15"/>
+      <shelf name="children-s-lit" count="14"/>
+      <shelf name="picturebooks" count="14"/>
+      <shelf name="picture" count="13"/>
+      <shelf name="sleep" count="12"/>
+      <shelf name="read-in-2015" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="story-time" count="12"/>
+      <shelf name="children-books" count="10"/>
+      <shelf name="humorous" count="9"/>
+      <shelf name="juvenile" count="9"/>
+      <shelf name="kindergarten" count="8"/>
+      <shelf name="children-s-literature" count="8"/>
+      <shelf name="storytime-books" count="8"/>
+      <shelf name="birds" count="8"/>
+      <shelf name="friends" count="8"/>
+      <shelf name="read-aloud" count="8"/>
+      <shelf name="childrens-picture-books" count="8"/>
+      <shelf name="night" count="7"/>
+      <shelf name="read-alouds" count="7"/>
+      <shelf name="read-2015" count="7"/>
+      <shelf name="1-000-books-before-kindergarten" count="6"/>
+      <shelf name="kuvakirjat" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="neighbors" count="6"/>
+      <shelf name="kids-picture-books" count="6"/>
+      <shelf name="series" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="elementary" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="picture-books-read" count="5"/>
+      <shelf name="nighttime" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="read-in-2018" count="4"/>
+      <shelf name="read-in-2017" count="4"/>
+      <shelf name="children-literature" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="for-kids" count="4"/>
+      <shelf name="1000-books-before-kindergarten" count="4"/>
+      <shelf name="storytime-reads" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="want-to-own" count="4"/>
+      <shelf name="kid-books" count="4"/>
+      <shelf name="pb" count="4"/>
+      <shelf name="key-stage-1" count="3"/>
+      <shelf name="2018-reads" count="3"/>
+      <shelf name="albums-jeunesse" count="3"/>
+      <shelf name="read-2018" count="3"/>
+      <shelf name="winter" count="3"/>
+      <shelf name="read-to-kids" count="3"/>
+      <shelf name="read-in-2016" count="3"/>
+      <shelf name="little-kids" count="3"/>
+      <shelf name="for-children" count="3"/>
+      <shelf name="kiddos" count="3"/>
+      <shelf name="childrens-literature" count="3"/>
+      <shelf name="kids-books-to-read" count="3"/>
+      <shelf name="gifts" count="3"/>
+      <shelf name="age-children" count="3"/>
+      <shelf name="children-s-fiction" count="3"/>
+      <shelf name="children-picture-books" count="3"/>
+      <shelf name="baby-books" count="3"/>
+      <shelf name="favorite-picture-books" count="3"/>
+      <shelf name="bear" count="3"/>
+      <shelf name="story-time-books" count="3"/>
+      <shelf name="funny-picture-books" count="3"/>
+      <shelf name="preschool-storytime" count="3"/>
+      <shelf name="kids-to-read" count="3"/>
+      <shelf name="bedtime-books" count="3"/>
+      <shelf name="silly" count="3"/>
+      <shelf name="storytime-bedtime" count="3"/>
+      <shelf name="duck" count="3"/>
+      <shelf name="bedtime-story" count="3"/>
+      <shelf name="bedtime-stories" count="3"/>
+      <shelf name="toddler" count="3"/>
+      <shelf name="cute" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1349905</id>
+<user_position>1</user_position>
+<series>
+<id>248973</id>
+<title>
+<![CDATA[
+    Bear & Duck
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>22553684</id>
+<title><![CDATA[A Funny Thing Happened on the Way to School...]]></title>
+<title_without_series><![CDATA[A Funny Thing Happened on the Way to School...]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22553684-a-funny-thing-happened-on-the-way-to-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415582066l/22553684._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415582066l/22553684._SX98_.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>42012504</id>
+</work>
+<isbn>1452131686</isbn>
+<isbn13>9781452131689</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>464393</id>
+<name>Davide Calì</name>
+<link><![CDATA[https://www.goodreads.com/author/show/464393.Davide_Cal_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18406707</id>
+<title><![CDATA[Oh, the Places You'll Eff Up: A Parody for Your Twenties]]></title>
+<title_without_series><![CDATA[Oh, the Places You'll Eff Up: A Parody for Your Twenties]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18406707-oh-the-places-you-ll-eff-up]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384158921l/18406707._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384158921l/18406707._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>26041820</id>
+</work>
+<isbn>1612432913</isbn>
+<isbn13>9781612432915</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>245594</id>
+<name>Joshua Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/245594.Joshua_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18743522</id>
+<title>Shh! We Have a Plan</title>
+<title_without_series>Shh! We Have a Plan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18743522-shh-we-have-a-plan]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383203897l/18743522._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383203897l/18743522._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>26624235</id>
+</work>
+<isbn>1406342327</isbn>
+<isbn13>9781406342321</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3483139</id>
+<name>Chris Haughton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3483139.Chris_Haughton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35248504</id>
+<title>The Rabbit Listened</title>
+<title_without_series>The Rabbit Listened</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35248504-the-rabbit-listened]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501511316l/35248504._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>56599297</id>
+</work>
+<isbn>073522935X</isbn>
+<isbn13>9780735229358</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>2851649</id>
+<name>Cori Doerrfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2851649.Cori_Doerrfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41717242</id>
+<title><![CDATA[Harold & Hog Pretend For Real! (Elephant & Piggie Like Reading!, #6)]]></title>
+<title_without_series><![CDATA[Harold & Hog Pretend For Real!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41717242-harold-hog-pretend-for-real]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553767473l/41717242._SX98_.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>65073199</id>
+</work>
+<isbn>1368027164</isbn>
+<isbn13>9781368027168</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17333265</id>
+<title>Mr. Tiger Goes Wild</title>
+<title_without_series>Mr. Tiger Goes Wild</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17333265-mr-tiger-goes-wild]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361746283l/17333265._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24064569</id>
+</work>
+<isbn>0316200638</isbn>
+<isbn13>9780316200639</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14553581</id>
+<title><![CDATA[K is for Knifeball: An Alphabet of Terrible Advice]]></title>
+<title_without_series><![CDATA[K is for Knifeball: An Alphabet of Terrible Advice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14553581-k-is-for-knifeball]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348424880l/14553581._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348424880l/14553581._SX98_.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>20196288</id>
+</work>
+<isbn>1452103313</isbn>
+<isbn13>9781452103310</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1977411</id>
+<name>Avery Monsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977411.Avery_Monsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36500380</id>
+<title>Grumpy Monkey</title>
+<title_without_series>Grumpy Monkey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36500380-grumpy-monkey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509373230l/36500380._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509373230l/36500380._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>58217120</id>
+</work>
+<isbn>0553537865</isbn>
+<isbn13>9780553537864</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4634332</id>
+<name>Suzanne Lang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4634332.Suzanne_Lang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25241595</id>
+<title>Get Out of My Bath!</title>
+<title_without_series>Get Out of My Bath!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25241595-get-out-of-my-bath]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428002756l/25241595._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428002756l/25241595._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>44961112</id>
+</work>
+<isbn>0763680060</isbn>
+<isbn13>9780763680060</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>153061</id>
+<name>Britta Teckentrup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/153061.Britta_Teckentrup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23735067</id>
+<title>Waiting</title>
+<title_without_series>Waiting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23735067-waiting]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453342607l/23735067._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>43347119</id>
+</work>
+<isbn>0062368435</isbn>
+<isbn13>9780062368430</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41554345</id>
+<title>Field Trip to the Moon</title>
+<title_without_series>Field Trip to the Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41554345-field-trip-to-the-moon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547248950l/41554345._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547248950l/41554345._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>64832736</id>
+</work>
+<isbn>0823442535</isbn>
+<isbn13>9780823442539</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>399885</id>
+<name>John L. Hare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/399885.John_L_Hare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39983499</id>
+<title><![CDATA[What Is Inside THIS Box? (Monkey & Cake, #1)]]></title>
+<title_without_series>What Is Inside THIS Box?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39983499-what-is-inside-this-box]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549837991l/39983499._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549837991l/39983499._SX98_.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>61906411</id>
+</work>
+<isbn>1338143867</isbn>
+<isbn13>9781338143867</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26257320</id>
+<title>The Lion Inside</title>
+<title_without_series>The Lion Inside</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26257320-the-lion-inside]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441808718l/26257320._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441808718l/26257320._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>46255423</id>
+</work>
+<isbn>1408331594</isbn>
+<isbn13>9781408331590</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4101644</id>
+<name>Rachel Bright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4101644.Rachel_Bright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35964812</id>
+<title><![CDATA[Tiny T. Rex and the Impossible Hug]]></title>
+<title_without_series><![CDATA[Tiny T. Rex and the Impossible Hug]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35964812-tiny-t-rex-and-the-impossible-hug]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537371207l/35964812._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537371207l/35964812._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57524029</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6506869</id>
+<name>Jonathan Stutzman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6506869.Jonathan_Stutzman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25774391</id>
+<title>Goodbye Summer, Hello Autumn</title>
+<title_without_series>Goodbye Summer, Hello Autumn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25774391-goodbye-summer-hello-autumn]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442821707l/25774391._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442821707l/25774391._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>45623197</id>
+</work>
+<isbn>1627794158</isbn>
+<isbn13>9781627794152</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>7182574</id>
+<name>Kenard Pak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7182574.Kenard_Pak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7949530</id>
+<title>Children Make Terrible Pets</title>
+<title_without_series>Children Make Terrible Pets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7949530-children-make-terrible-pets]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289507052l/7949530._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289507052l/7949530._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>11559857</id>
+</work>
+<isbn>0316015482</isbn>
+<isbn13>9780316015486</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3092248</id>
+<name>Peter  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3092248.Peter_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22553705</id>
+<title>Polar Bear&apos;s Underwear</title>
+<title_without_series>Polar Bear&apos;s Underwear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22553705-polar-bear-s-underwear]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415582181l/22553705._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415582181l/22553705._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>42012520</id>
+</work>
+<isbn>1452141991</isbn>
+<isbn13>9781452141992</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6149797</id>
+<name>Tupera Tupera</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6149797.Tupera_Tupera]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>653997</id>
+<title>New Socks</title>
+<title_without_series>New Socks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/653997.New_Socks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344268807l/653997._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344268807l/653997._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>640104</id>
+</work>
+<isbn>0316013579</isbn>
+<isbn13>9780316013574</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>351550</id>
+<name>Bob Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/351550.Bob_Shea]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

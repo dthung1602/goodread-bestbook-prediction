@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18108281</id>
+  <title><![CDATA[The King (Black Dagger Brotherhood, #12)]]></title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00DGZIC24]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371919011l/18108281._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371919011l/18108281._SY75_.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Signet</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[<b>
+  <i>Long live the King... </i>
+</b><br /><br />After turning his back on the throne for centuries, Wrath, son of Wrath, finally assumed his father’s mantle—with the help of his beloved mate. But the crown sets heavily on his head. As the war with the Lessening Society rages on, and the threat from the Band of Bastards truly hits home, he is forced to make choices that put everything—and everyone—at risk.<br /><br />Beth Randall thought she knew what she was getting into when she mated the last pure blooded vampire on the planet: An easy ride was not it. But when she decides she wants a child, she’s unprepared for Wrath’s response—or the distance it creates between them.<br /><br />The question is, will true love win out... or tortured legacy take over?]]></description>
+  <work>
+  <id type="integer">24749971</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">18108281</best_book_id>
+  <reviews_count type="integer">85300</reviews_count>
+  <ratings_sum type="integer">195930</ratings_sum>
+  <ratings_count type="integer">44721</ratings_count>
+  <text_reviews_count type="integer">4469</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>The King</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:25177|4:13075|3:5112|2:1052|1:305|total:44721</rating_dist>
+  <desc_user_id type="integer">66648866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.MGF1uRlyP6omlS3AOoN_xA</work_uri>
+</work>
+  <average_rating>4.38</average_rating>
+  <num_pages><![CDATA[591]]></num_pages>
+  <format><![CDATA[Kindle Edition]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[23069]]></ratings_count>
+  <text_reviews_count><![CDATA[1129]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18108281-the-king]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18108281-the-king]]></link>
+  <authors>
+<author>
+<id>20248</id>
+<name>J.R. Ward</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1437768069p5/20248.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1437768069p2/20248.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/20248.J_R_Ward]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>1850575</ratings_count>
+<text_reviews_count>104118</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18108281-the-king">The King Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00DGZIC24&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/18108281-the-king?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="26320"/>
+      <shelf name="currently-reading" count="1340"/>
+      <shelf name="paranormal" count="940"/>
+      <shelf name="vampires" count="825"/>
+      <shelf name="paranormal-romance" count="818"/>
+      <shelf name="romance" count="755"/>
+      <shelf name="favorites" count="570"/>
+      <shelf name="black-dagger-brotherhood" count="383"/>
+      <shelf name="fantasy" count="381"/>
+      <shelf name="vampire" count="356"/>
+      <shelf name="j-r-ward" count="347"/>
+      <shelf name="series" count="305"/>
+      <shelf name="urban-fantasy" count="261"/>
+      <shelf name="jr-ward" count="225"/>
+      <shelf name="adult" count="167"/>
+      <shelf name="pnr" count="144"/>
+      <shelf name="read-in-2014" count="143"/>
+      <shelf name="books-i-own" count="129"/>
+      <shelf name="kindle" count="124"/>
+      <shelf name="owned" count="123"/>
+      <shelf name="fiction" count="112"/>
+      <shelf name="bdb" count="106"/>
+      <shelf name="erotica" count="93"/>
+      <shelf name="supernatural" count="89"/>
+      <shelf name="vamps" count="85"/>
+      <shelf name="ebook" count="79"/>
+      <shelf name="audiobook" count="79"/>
+      <shelf name="read-2014" count="75"/>
+      <shelf name="default" count="70"/>
+      <shelf name="favorite-series" count="59"/>
+      <shelf name="library" count="56"/>
+      <shelf name="romance-paranormal" count="52"/>
+      <shelf name="part-of-a-series" count="52"/>
+      <shelf name="audible" count="52"/>
+      <shelf name="contemporary" count="50"/>
+      <shelf name="alpha-male" count="49"/>
+      <shelf name="black-dagger" count="49"/>
+      <shelf name="audio" count="46"/>
+      <shelf name="black-dagger-brotherhood-series" count="45"/>
+      <shelf name="ebooks" count="42"/>
+      <shelf name="audiobooks" count="41"/>
+      <shelf name="angels" count="41"/>
+      <shelf name="owned-books" count="40"/>
+      <shelf name="alpha-males" count="40"/>
+      <shelf name="paranormal-fantasy" count="38"/>
+      <shelf name="2014-reads" count="38"/>
+      <shelf name="ward-j-r" count="36"/>
+      <shelf name="favourites" count="36"/>
+      <shelf name="to-buy" count="35"/>
+      <shelf name="m-f" count="34"/>
+      <shelf name="erotic" count="34"/>
+      <shelf name="5-stars" count="33"/>
+      <shelf name="adult-fiction" count="32"/>
+      <shelf name="read-in-2015" count="31"/>
+      <shelf name="my-books" count="31"/>
+      <shelf name="2014-read" count="31"/>
+      <shelf name="favorite" count="30"/>
+      <shelf name="vampire-romance" count="29"/>
+      <shelf name="nook" count="29"/>
+      <shelf name="2014-books" count="29"/>
+      <shelf name="i-own" count="28"/>
+      <shelf name="favorite-authors" count="28"/>
+      <shelf name="e-book" count="28"/>
+      <shelf name="dnf" count="28"/>
+      <shelf name="wish-list" count="27"/>
+      <shelf name="fantasy-paranormal" count="27"/>
+      <shelf name="audio-books" count="26"/>
+      <shelf name="e-books" count="25"/>
+      <shelf name="suspense" count="25"/>
+      <shelf name="action" count="24"/>
+      <shelf name="contemporary-romance" count="24"/>
+      <shelf name="ward" count="23"/>
+      <shelf name="mf" count="23"/>
+      <shelf name="favorite-author" count="23"/>
+      <shelf name="fantasy-romance" count="23"/>
+      <shelf name="series-black-dagger-brotherhood" count="22"/>
+      <shelf name="paranormal-vampires" count="22"/>
+      <shelf name="my-favorites" count="22"/>
+      <shelf name="pnr-uf" count="22"/>
+      <shelf name="need-to-buy" count="21"/>
+      <shelf name="ward-jr" count="21"/>
+      <shelf name="pregnancy" count="21"/>
+      <shelf name="adult-romance" count="21"/>
+      <shelf name="read-in-2016" count="20"/>
+      <shelf name="steamy" count="20"/>
+      <shelf name="my-library" count="20"/>
+      <shelf name="erotic-romance" count="20"/>
+      <shelf name="4-stars" count="20"/>
+      <shelf name="royalty" count="19"/>
+      <shelf name="author-jr-ward" count="19"/>
+      <shelf name="kindle-books" count="19"/>
+      <shelf name="read-2015" count="18"/>
+      <shelf name="must-read" count="18"/>
+      <shelf name="hardcover" count="18"/>
+      <shelf name="faves" count="18"/>
+      <shelf name="all-time-favorites" count="18"/>
+      <shelf name="adult-paranormal" count="18"/>
+      <shelf name="re-read" count="17"/>
+      <shelf name="guilty-pleasures" count="17"/>
+      <shelf name="borrowed" count="17"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>488883</id>
+<user_position>12</user_position>
+<series>
+<id>41963</id>
+<title>
+<![CDATA[
+    Black Dagger Brotherhood
+]]>
+</title>
+<description>
+<![CDATA[
+    <a href="https://www.goodreads.com/series/146971-black-dagger-legacy">Black Dagger Legacy</a> is a spinoff of Black Dagger Brotherhood series.
+    (actually runs parallel – read within Black Dagger Brotherhood by publication date).
+    
+    Loosely related novella set in Caldwell: <i>The Story of Son</i>
+    
+    
+    
+    Also known as:
+    *Bulgarian: Братството на Черния Кинжал
+    *Croatian: Bratstvo crnog bodeža
+    *Czech: Bratrstvo černé dýky
+    *Finnish: Mustan Tikarin veljeskunta
+    *French: La Confrérie de la dague noire
+    *Galician: Irmandade da Adaga Negra
+    *German: <a href="http://www.goodreads.com/series/59190-black-dagger-german">Black Dagger</a>
+    *Greece:Η Αδελφότητα του Μαύρου Στιλέτου
+    *Hungarian: Fekete Tőr Testvériség
+    *Italian: La Confraternita del Pugnale Nero
+    *Norwegian: Den sorte dolks Brorskap
+    *Polish: Bractwo Czarnego Sztyletu
+    *Portuguese: Irmandade da Adaga Negra
+    *Romanian:Frăția Pumnalului Negru
+    *Russian: Братство Чёрного Кинжала
+    *Spanish: La Hermandad de la Daga Negra
+    *Turkish: Kara Hançer Kardeşliği
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>28</series_works_count>
+<primary_work_count>19</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>704043</id>
+<title><![CDATA[Kiss of Midnight (Midnight Breed,  #1)]]></title>
+<title_without_series>Kiss of Midnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/704043.Kiss_of_Midnight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327884885l/704043._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327884885l/704043._SY160_.jpg]]></image_url>
+<num_pages>402</num_pages>
+<work>
+<id>690332</id>
+</work>
+<isbn>0553589377</isbn>
+<isbn13>9780553589375</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>375626</id>
+<name>Lara Adrian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/375626.Lara_Adrian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>715791</id>
+<title><![CDATA[Kiss of Crimson (Midnight Breed, #2)]]></title>
+<title_without_series>Kiss of Crimson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/715791.Kiss_of_Crimson]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>387</num_pages>
+<work>
+<id>702043</id>
+</work>
+<isbn>0553589385</isbn>
+<isbn13>9780553589382</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>375626</id>
+<name>Lara Adrian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/375626.Lara_Adrian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1388813</id>
+<title><![CDATA[Midnight Awakening (Midnight Breed, #3)]]></title>
+<title_without_series>Midnight Awakening</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1388813.Midnight_Awakening]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343539714l/1388813._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343539714l/1388813._SY160_.jpg]]></image_url>
+<num_pages>369</num_pages>
+<work>
+<id>1378890</id>
+</work>
+<isbn>0553589393</isbn>
+<isbn13>9780553589399</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>375626</id>
+<name>Lara Adrian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/375626.Lara_Adrian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3373198</id>
+<title><![CDATA[Veil of Midnight (Midnight Breed, #5)]]></title>
+<title_without_series>Veil of Midnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3373198-veil-of-midnight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>3412710</id>
+</work>
+<isbn></isbn>
+<isbn13>9780440244493</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>375626</id>
+<name>Lara Adrian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/375626.Lara_Adrian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1928873</id>
+<title><![CDATA[Midnight Rising (Midnight Breed, #4)]]></title>
+<title_without_series>Midnight Rising</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1928873.Midnight_Rising]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320404514l/1928873._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320404514l/1928873._SY160_.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>1931181</id>
+</work>
+<isbn>0440244447</isbn>
+<isbn13>9780440244448</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>375626</id>
+<name>Lara Adrian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/375626.Lara_Adrian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17251422</id>
+<title><![CDATA[The Darkest Craving (Lords of The Underworld #10)]]></title>
+<title_without_series>The Darkest Craving</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17251422-the-darkest-craving]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358795310l/17251422._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358795310l/17251422._SX98_.jpg]]></image_url>
+<num_pages>472</num_pages>
+<work>
+<id>23846522</id>
+</work>
+<isbn>0373777752</isbn>
+<isbn13>9780373777754</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>48192</id>
+<name>Gena Showalter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48192.Gena_Showalter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2712967</id>
+<title><![CDATA[The Darkest Pleasure (Lords of the Underworld #3)]]></title>
+<title_without_series>The Darkest Pleasure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2712967-the-darkest-pleasure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>2738513</id>
+</work>
+<isbn>0373773102</isbn>
+<isbn13>9780373773107</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>48192</id>
+<name>Gena Showalter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48192.Gena_Showalter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44316010</id>
+<title><![CDATA[The Black Dagger Brotherhood Reading Order Checklist]]></title>
+<title_without_series><![CDATA[The Black Dagger Brotherhood Reading Order Checklist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44316010-the-black-dagger-brotherhood-reading-order-checklist]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68859134</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18847544</id>
+<name>Weird Journals</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18847544.Weird_Journals]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17975483</id>
+<title><![CDATA[Zakázaná přitažlivost (Bavettovi, #3)]]></title>
+<title_without_series>Zakázaná přitažlivost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17975483-zak-zan-p-ita-livost]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386847381l/17975483._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386847381l/17975483._SX98_.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>25201308</id>
+</work>
+<isbn>9788025320</isbn>
+<isbn13>9788025320495</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5444076</id>
+<name>Kateřina Petrusová</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5444076.Kate_ina_Petrusov_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4769247</id>
+<title><![CDATA[Ashes of Midnight (Midnight Breed, #6)]]></title>
+<title_without_series>Ashes of Midnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4769247-ashes-of-midnight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>4834062</id>
+</work>
+<isbn>0440244501</isbn>
+<isbn13>9780440244509</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>375626</id>
+<name>Lara Adrian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/375626.Lara_Adrian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13125234</id>
+<title><![CDATA[Twice Tempted (Night Prince, #2)]]></title>
+<title_without_series>Twice Tempted</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13125234-twice-tempted]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352947741l/13125234._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352947741l/13125234._SX98_.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>18301054</id>
+</work>
+<isbn>0062076108</isbn>
+<isbn13>9780062076106</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>669810</id>
+<name>Jeaniene Frost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/669810.Jeaniene_Frost]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2498983</id>
+<title><![CDATA[The Darkest Kiss (Lords of the Underworld #2)]]></title>
+<title_without_series>The Darkest Kiss</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2498983.The_Darkest_Kiss]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399691671l/2498983._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399691671l/2498983._SX98_.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>2506307</id>
+</work>
+<isbn>0373772327</isbn>
+<isbn13>9780373772322</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>48192</id>
+<name>Gena Showalter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48192.Gena_Showalter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16007956</id>
+<title><![CDATA[Nepřítel mého nepřítele (Bavettovi, #2)]]></title>
+<title_without_series>Nepřítel mého nepřítele</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16007956-nep-tel-m-ho-nep-tele]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355775769l/16007956._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355775769l/16007956._SX98_.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>21773887</id>
+</work>
+<isbn></isbn>
+<isbn13>9788025316702</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>5444076</id>
+<name>Kateřina Petrusová</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5444076.Kate_ina_Petrusov_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6944032</id>
+<title><![CDATA[Night Pleasures (Dark-Hunter, #1)]]></title>
+<title_without_series>Night Pleasures</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6944032-night-pleasures]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>4112814</id>
+</work>
+<isbn>0312593554</isbn>
+<isbn13>9780312593551</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4430</id>
+<name>Sherrilyn Kenyon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4430.Sherrilyn_Kenyon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7384801</id>
+<title><![CDATA[Taken by Midnight (Midnight Breed, #8)]]></title>
+<title_without_series>Taken by Midnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7384801-taken-by-midnight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>370</num_pages>
+<work>
+<id>7085183</id>
+</work>
+<isbn>0440245273</isbn>
+<isbn13>9780440245278</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>375626</id>
+<name>Lara Adrian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/375626.Lara_Adrian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18301663</id>
+<title><![CDATA[The Darkest Touch (Lords of the Underworld #11)]]></title>
+<title_without_series>The Darkest Touch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18301663-the-darkest-touch]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405821697l/18301663._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405821697l/18301663._SX98_.jpg]]></image_url>
+<num_pages>489</num_pages>
+<work>
+<id>25790272</id>
+</work>
+<isbn>0373778910</isbn>
+<isbn13>9780373778911</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>48192</id>
+<name>Gena Showalter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48192.Gena_Showalter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43481327</id>
+<title><![CDATA[Dark Obsession (Pure/Dark Ones #8)]]></title>
+<title_without_series>Dark Obsession</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43481327-dark-obsession]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546804821l/43481327._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546804821l/43481327._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67622654</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>970774</id>
+<name>Aja James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/970774.Aja_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16173427</id>
+<title><![CDATA[Bound by Flames (Night Prince, #3)]]></title>
+<title_without_series>Bound by Flames</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16173427-bound-by-flames]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402348126l/16173427._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402348126l/16173427._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>25628593</id>
+</work>
+<isbn>0062076086</isbn>
+<isbn13>9780062076083</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>44721</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>669810</id>
+<name>Jeaniene Frost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/669810.Jeaniene_Frost]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

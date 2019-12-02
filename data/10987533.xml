@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10987533</id>
+  <title>Good Eats: The Later Years</title>
+  <isbn><![CDATA[158479903X]]></isbn>
+  <isbn13><![CDATA[9781584799030]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327953594l/10987533._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327953594l/10987533._SX50_.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Harry N. Abrams</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[As Good Eats enjoys its 14th season on the Food Network, its popularity continues unabated. Fans can’t get enough of Alton Brown’s wildly inventive, science-geeky, food-loving spirit. It’s no wonder, then, that the first two volumes in STC’s Good Eats series were New York Times bestsellers.<br /><br />Like Volumes 1 and 2, Good Eats 3: The Later Years packs a bounty of information and entertainment between its covers. More than 200 recipes are accompanied by hundreds of photographs, drawings, and stills from the show, as well as lots of science-of-food facts, cooking tips, food trivia, behind-the-scenes glimpses—and bonus sock puppet instructions! In chapters devoted to everything from pomegranates to pretzels, mincemeat to molasses, Alton delivers delicious recipes along with fascinating background in a book that’s as fun to read as it is to cook from. Good Eats 3 will be a must-have addition to the bookshelves and kitchen counters of Alton lovers everywhere.]]></description>
+  <work>
+  <id type="integer">15906024</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">10987533</best_book_id>
+  <reviews_count type="integer">2594</reviews_count>
+  <ratings_sum type="integer">6059</ratings_sum>
+  <ratings_count type="integer">1348</ratings_count>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>Good Eats: The Later Years</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:832|4:391|3:94|2:22|1:9|total:1348</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.OHwe-PowSfic9H_kLjRQPg</work_uri>
+</work>
+  <average_rating>4.49</average_rating>
+  <num_pages><![CDATA[432]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1348]]></ratings_count>
+  <text_reviews_count><![CDATA[26]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10987533-good-eats]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10987533-good-eats]]></link>
+  <authors>
+<author>
+<id>58480</id>
+<name>Alton Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201189488p5/58480.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201189488p2/58480.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58480.Alton_Brown]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>40226</ratings_count>
+<text_reviews_count>919</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10987533-good-eats">Good Eats Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=158479903X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/10987533-good-eats?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1017"/>
+      <shelf name="cookbooks" count="114"/>
+      <shelf name="cooking" count="59"/>
+      <shelf name="food" count="34"/>
+      <shelf name="non-fiction" count="31"/>
+      <shelf name="cookbook" count="17"/>
+      <shelf name="currently-reading" count="14"/>
+      <shelf name="cook-books" count="12"/>
+      <shelf name="nonfiction" count="12"/>
+      <shelf name="owned" count="11"/>
+      <shelf name="reference" count="10"/>
+      <shelf name="science" count="7"/>
+      <shelf name="favorites" count="6"/>
+      <shelf name="books-i-own" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="culinary" count="5"/>
+      <shelf name="food-and-drink" count="4"/>
+      <shelf name="cookery" count="4"/>
+      <shelf name="series" count="4"/>
+      <shelf name="humor" count="4"/>
+      <shelf name="food-cooking" count="4"/>
+      <shelf name="food-drink" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="signed" count="3"/>
+      <shelf name="g-title" count="2"/>
+      <shelf name="cookbooks-to-buy" count="2"/>
+      <shelf name="my-library" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="media-tie-in" count="2"/>
+      <shelf name="on-bookshelf" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="read-in-2014" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="hardcover" count="2"/>
+      <shelf name="in-my-library" count="2"/>
+      <shelf name="television" count="2"/>
+      <shelf name="general" count="2"/>
+      <shelf name="foodie" count="2"/>
+      <shelf name="alton-brown" count="2"/>
+      <shelf name="reference-cookbooks" count="2"/>
+      <shelf name="kitchen" count="2"/>
+      <shelf name="tbr-na" count="1"/>
+      <shelf name="maricopa-print" count="1"/>
+      <shelf name="read-multiple-times" count="1"/>
+      <shelf name="highly-recomended" count="1"/>
+      <shelf name="4-41-4-60" count="1"/>
+      <shelf name="tgt-d" count="1"/>
+      <shelf name="gca2011" count="1"/>
+      <shelf name="to-go-thru-c" count="1"/>
+      <shelf name="to-go-thru-b" count="1"/>
+      <shelf name="mine" count="1"/>
+      <shelf name="chefs-i-ve-met" count="1"/>
+      <shelf name="b-author" count="1"/>
+      <shelf name="1a" count="1"/>
+      <shelf name="food-cooking-nutrition" count="1"/>
+      <shelf name="y-cookbooks-in-house" count="1"/>
+      <shelf name="family-room" count="1"/>
+      <shelf name="2019-books" count="1"/>
+      <shelf name="cookbooks-meal-planning" count="1"/>
+      <shelf name="books-i-own-physical" count="1"/>
+      <shelf name="04-a-thru-f" count="1"/>
+      <shelf name="06-words" count="1"/>
+      <shelf name="need-to-buy" count="1"/>
+      <shelf name="every-book-i-own" count="1"/>
+      <shelf name="goodreads-choice-awards" count="1"/>
+      <shelf name="goodreads-choice-award-2011" count="1"/>
+      <shelf name="to-be-read" count="1"/>
+      <shelf name="wanted-audio" count="1"/>
+      <shelf name="wanted" count="1"/>
+      <shelf name="05-words" count="1"/>
+      <shelf name="03" count="1"/>
+      <shelf name="02" count="1"/>
+      <shelf name="kelsey-s-cookbook-collection" count="1"/>
+      <shelf name="1000-nf" count="1"/>
+      <shelf name="1000-c" count="1"/>
+      <shelf name="1-2000" count="1"/>
+      <shelf name="2-cooking" count="1"/>
+      <shelf name="non-fiction-cooking" count="1"/>
+      <shelf name="want-to-buy-and-read" count="1"/>
+      <shelf name="shelf-3-cooking" count="1"/>
+      <shelf name="own-to-read" count="1"/>
+      <shelf name="owned-physical" count="1"/>
+      <shelf name="aacpl" count="1"/>
+      <shelf name="tpl" count="1"/>
+      <shelf name="cooking-literature" count="1"/>
+      <shelf name="0000-pre-goodreads" count="1"/>
+      <shelf name="need-to-get" count="1"/>
+      <shelf name="read-2017" count="1"/>
+      <shelf name="how-to-books" count="1"/>
+      <shelf name="cookbooks-to-find" count="1"/>
+      <shelf name="next-iron-chef" count="1"/>
+      <shelf name="iron-chef" count="1"/>
+      <shelf name="food-network" count="1"/>
+      <shelf name="not-interested" count="1"/>
+      <shelf name="2011-read-books" count="1"/>
+      <shelf name="to-read-food-books" count="1"/>
+      <shelf name="food-books-to-buy" count="1"/>
+      <shelf name="library-system" count="1"/>
+      <shelf name="personal-library" count="1"/>
+      <shelf name="inactive" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6361871</id>
+<title><![CDATA[The Pioneer Woman Cooks: Recipes from an Accidental Country Girl]]></title>
+<title_without_series><![CDATA[The Pioneer Woman Cooks: Recipes from an Accidental Country Girl]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6361871-the-pioneer-woman-cooks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775743l/6361871._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775743l/6361871._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>6548987</id>
+</work>
+<isbn>0061658197</isbn>
+<isbn13>9780061658198</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>2884275</id>
+<name>Ree Drummond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2884275.Ree_Drummond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12470265</id>
+<title><![CDATA[The Cook's Illustrated Cookbook]]></title>
+<title_without_series><![CDATA[The Cook's Illustrated Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12470265-the-cook-s-illustrated-cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941699l/12470265._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941699l/12470265._SX98_.jpg]]></image_url>
+<num_pages>890</num_pages>
+<work>
+<id>17454324</id>
+</work>
+<isbn>1933615893</isbn>
+<isbn13>9781933615899</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7417657</id>
+<name>Cook&apos;s Illustrated Magazine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7417657.Cook_s_Illustrated_Magazine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6455286</id>
+<title><![CDATA[Make It Fast, Cook It Slow: The Big Book of Everyday Slow Cooking]]></title>
+<title_without_series><![CDATA[Make It Fast, Cook It Slow: The Big Book of Everyday Slow Cooking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6455286-make-it-fast-cook-it-slow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>6645543</id>
+</work>
+<isbn>1401310044</isbn>
+<isbn13>9781401310042</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>2040920</id>
+<name>Stephanie O&apos;Dea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2040920.Stephanie_O_Dea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6695147</id>
+<title><![CDATA[The Complete America's Test Kitchen TV Show Cookbook 2001-2010]]></title>
+<title_without_series><![CDATA[The Complete America's Test Kitchen TV Show Cookbook 2001-2010]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6695147-the-complete-america-s-test-kitchen-tv-show-cookbook-2001-2010]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>646</num_pages>
+<work>
+<id>6890757</id>
+</work>
+<isbn>1933615559</isbn>
+<isbn13>9781933615554</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6867702</id>
+<name>America&apos;s Test Kitchen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6867702.America_s_Test_Kitchen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>120230</id>
+<title><![CDATA[Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again]]></title>
+<title_without_series><![CDATA[Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/120230.Barefoot_Contessa_at_Home]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320557161l/120230._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320557161l/120230._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>115766</id>
+</work>
+<isbn>1400054346</isbn>
+<isbn13>9781400054343</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2658</id>
+<name>Ina Garten</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2658.Ina_Garten]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1127996</id>
+<title>Betty Crocker&apos;s Cookbook</title>
+<title_without_series>Betty Crocker&apos;s Cookbook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1127996.Betty_Crocker_s_Cookbook]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431198491l/1127996._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431198491l/1127996._SX98_.jpg]]></image_url>
+<num_pages>575</num_pages>
+<work>
+<id>1425869</id>
+</work>
+<isbn>0307098222</isbn>
+<isbn13>9780307098221</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month>12</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4087929</id>
+<name>Betty Crocker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4087929.Betty_Crocker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12072362</id>
+<title><![CDATA[The Pioneer Woman Cooks: Food from My Frontier]]></title>
+<title_without_series><![CDATA[The Pioneer Woman Cooks: Food from My Frontier]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12072362-the-pioneer-woman-cooks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344712745l/12072362._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344712745l/12072362._SX98_.jpg]]></image_url>
+<num_pages>293</num_pages>
+<work>
+<id>18597688</id>
+</work>
+<isbn>0061997188</isbn>
+<isbn13>9780061997181</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>2884275</id>
+<name>Ree Drummond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2884275.Ree_Drummond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25770528</id>
+<title><![CDATA[Cooking for Geeks: Real Science, Great Cooks, and Good Food]]></title>
+<title_without_series><![CDATA[Cooking for Geeks: Real Science, Great Cooks, and Good Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25770528-cooking-for-geeks]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445789813l/25770528._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445789813l/25770528._SX98_.jpg]]></image_url>
+<num_pages>488</num_pages>
+<work>
+<id>12440866</id>
+</work>
+<isbn>1491928050</isbn>
+<isbn13>9781491928059</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>275310</id>
+<name>Jeff Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/275310.Jeff_Potter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1009996</id>
+<title><![CDATA[Artisan Bread in Five Minutes a Day: The Discovery That Revolutionizes Home Baking]]></title>
+<title_without_series><![CDATA[Artisan Bread in Five Minutes a Day: The Discovery That Revolutionizes Home Baking]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1009996.Artisan_Bread_in_Five_Minutes_a_Day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317064461l/1009996._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317064461l/1009996._SX98_.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>996120</id>
+</work>
+<isbn>0312362919</isbn>
+<isbn13>9780312362911</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>506633</id>
+<name>Jeff Hertzberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/506633.Jeff_Hertzberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14636971</id>
+<title><![CDATA[The Science of Good Cooking: Master 50 Simple Concepts to Enjoy a Lifetime of Success in the Kitchen]]></title>
+<title_without_series><![CDATA[The Science of Good Cooking: Master 50 Simple Concepts to Enjoy a Lifetime of Success in the Kitchen]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14636971-the-science-of-good-cooking]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350473300l/14636971._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350473300l/14636971._SX98_.jpg]]></image_url>
+<num_pages>486</num_pages>
+<work>
+<id>20282019</id>
+</work>
+<isbn></isbn>
+<isbn13>9781933615981</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7417657</id>
+<name>Cook&apos;s Illustrated Magazine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7417657.Cook_s_Illustrated_Magazine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8171915</id>
+<title><![CDATA[Cake Pops: Tips, Tricks, and Recipes for More Than 40 Irresistible Mini Treats]]></title>
+<title_without_series><![CDATA[Cake Pops: Tips, Tricks, and Recipes for More Than 40 Irresistible Mini Treats]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8171915-cake-pops]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310173944l/8171915._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310173944l/8171915._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>13018148</id>
+</work>
+<isbn>0811876373</isbn>
+<isbn13>9780811876377</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>3608468</id>
+<name>Bakerella</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3608468.Bakerella]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35069206</id>
+<title><![CDATA[5 Ingredients – Quick  Easy Food]]></title>
+<title_without_series><![CDATA[5 Ingredients – Quick  Easy Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35069206-5-ingredients-quick-easy-food]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500748295l/35069206._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500748295l/35069206._SX98_.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>56364632</id>
+</work>
+<isbn>1443455067</isbn>
+<isbn13>9781443455060</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>5801</id>
+<name>Jamie Oliver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5801.Jamie_Oliver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13237773</id>
+<title><![CDATA[Food in Jars: Preserving in Small Batches Year-Round]]></title>
+<title_without_series><![CDATA[Food in Jars: Preserving in Small Batches Year-Round]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13237773-food-in-jars]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344689525l/13237773._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344689525l/13237773._SX98_.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>18435788</id>
+</work>
+<isbn>0762441437</isbn>
+<isbn13>9780762441433</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>5391064</id>
+<name>Marisa McClellan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5391064.Marisa_McClellan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12519893</id>
+<title><![CDATA[The Homemade Pantry: 101 Foods You Can Stop Buying and Start Making]]></title>
+<title_without_series><![CDATA[The Homemade Pantry: 101 Foods You Can Stop Buying and Start Making]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12519893-the-homemade-pantry]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576869l/12519893._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576869l/12519893._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>17506073</id>
+</work>
+<isbn>030788726X</isbn>
+<isbn13>9780307887269</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5175867</id>
+<name>Alana Chernila</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5175867.Alana_Chernila]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76875</id>
+<title><![CDATA[CookWise: The Secrets of Cooking Revealed]]></title>
+<title_without_series><![CDATA[CookWise: The Secrets of Cooking Revealed]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76875.CookWise]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>74343</id>
+</work>
+<isbn>0688102298</isbn>
+<isbn13>9780688102296</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>3513855</id>
+<name>Shirley O. Corriher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3513855.Shirley_O_Corriher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6753849</id>
+<title>Baking</title>
+<title_without_series>Baking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6753849-baking]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320543167l/6753849._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320543167l/6753849._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>6950333</id>
+</work>
+<isbn>1580089917</isbn>
+<isbn13>9781580089913</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>49492</id>
+<name>James Peterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49492.James_Peterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>409061</id>
+<title><![CDATA[The Magnolia Bakery Cookbook: Old Fashioned Recipes From New York's Sweetest Bakery]]></title>
+<title_without_series><![CDATA[The Magnolia Bakery Cookbook: Old Fashioned Recipes From New York's Sweetest Bakery]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/409061.The_Magnolia_Bakery_Cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>398360</id>
+</work>
+<isbn>0684859106</isbn>
+<isbn13>9780684859101</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>231772</id>
+<name>Jennifer Appel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/231772.Jennifer_Appel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6409162</id>
+<title><![CDATA[The Hummingbird Bakery Cookbook]]></title>
+<title_without_series><![CDATA[The Hummingbird Bakery Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6409162-the-hummingbird-bakery-cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>6598089</id>
+</work>
+<isbn>1845978307</isbn>
+<isbn13>9781845978303</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2889213</id>
+<name>Tarek Malouf</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2889213.Tarek_Malouf]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

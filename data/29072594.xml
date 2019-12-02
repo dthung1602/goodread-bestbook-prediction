@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>29072594</id>
+  <title>Born to Run</title>
+  <isbn><![CDATA[1501141511]]></isbn>
+  <isbn13><![CDATA[9781501141515]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472979089l/29072594._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472979089l/29072594._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Simon  Schuster</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[“Writing about yourself is a funny business…But in a project like this, the writer has made one promise, to show the reader his mind. In these pages, I’ve tried to do this.” —Bruce Springsteen, from the pages of <i>Born to Run</i><br /><br />In 2009, Bruce Springsteen and the E Street Band performed at the Super Bowl’s halftime show. The experience was so exhilarating that Bruce decided to write about it. That’s how this extraordinary autobiography began.<br /> <br />Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humor, and originality found in his songs.<br /> <br />He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger, and darkness that fueled his imagination, leading up to the moment he refers to as “The Big Bang”: seeing Elvis Presley’s debut on <i>The Ed Sullivan Show</i>. He vividly recounts his relentless drive to become a musician, his early days as a bar band king in Asbury Park, and the rise of the E Street Band. With disarming candor, he also tells for the first time the story of the personal struggles that inspired his best work, and shows us why the song “Born to Run” reveals more than we previously realized.<br /> <br /><i>Born to Run</i> will be revelatory for anyone who has ever enjoyed Bruce Springsteen, but this book is much more than a legendary rock star’s memoir. This is a book for workers and dreamers, parents and children, lovers and loners, artists, freaks, or anyone who has ever wanted to be baptized in the holy river of rock and roll.<br /> <br />Rarely has a performer told his own story with such force and sweep. Like many of his songs (“Thunder Road,” “Badlands,” “Darkness on the Edge of Town,” “The River,” “Born in the U.S.A.,” “The Rising,” and “The Ghost of Tom Joad,” to name just a few), Bruce Springsteen’s autobiography is written with the lyricism of a singular songwriter and the wisdom of a man who has thought deeply about his experiences.]]></description>
+  <work>
+  <id type="integer">49302622</id>
+  <books_count type="integer">60</books_count>
+  <best_book_id type="integer">29072594</best_book_id>
+  <reviews_count type="integer">70034</reviews_count>
+  <ratings_sum type="integer">131284</ratings_sum>
+  <ratings_count type="integer">31320</ratings_count>
+  <text_reviews_count type="integer">4284</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>Born to run</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:13922|4:11504|3:4408|2:948|1:538|total:31320</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.JVYAmDOvvCIPq-d8EiboUA</work_uri>
+</work>
+  <average_rating>4.19</average_rating>
+  <num_pages><![CDATA[528]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[25868]]></ratings_count>
+  <text_reviews_count><![CDATA[3702]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/29072594-born-to-run]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/29072594-born-to-run]]></link>
+  <authors>
+<author>
+<id>236007</id>
+<name>Bruce Springsteen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1488228224p5/236007.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1488228224p2/236007.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/236007.Bruce_Springsteen]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>33340</ratings_count>
+<text_reviews_count>4508</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/29072594-born-to-run">Born to Run Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1501141511&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/29072594-born-to-run?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="29860"/>
+      <shelf name="currently-reading" count="4095"/>
+      <shelf name="non-fiction" count="600"/>
+      <shelf name="music" count="523"/>
+      <shelf name="biography" count="469"/>
+      <shelf name="memoir" count="341"/>
+      <shelf name="nonfiction" count="241"/>
+      <shelf name="favorites" count="175"/>
+      <shelf name="audiobook" count="157"/>
+      <shelf name="audiobooks" count="145"/>
+      <shelf name="autobiography" count="136"/>
+      <shelf name="biographies" count="120"/>
+      <shelf name="audio" count="116"/>
+      <shelf name="biography-memoir" count="93"/>
+      <shelf name="memoirs" count="91"/>
+      <shelf name="owned" count="80"/>
+      <shelf name="books-i-own" count="52"/>
+      <shelf name="audio-books" count="51"/>
+      <shelf name="audio-book" count="50"/>
+      <shelf name="audible" count="46"/>
+      <shelf name="library" count="43"/>
+      <shelf name="read-in-2017" count="36"/>
+      <shelf name="book-club" count="36"/>
+      <shelf name="memoir-biography" count="36"/>
+      <shelf name="kindle" count="33"/>
+      <shelf name="abandoned" count="31"/>
+      <shelf name="read-in-2016" count="31"/>
+      <shelf name="bio" count="30"/>
+      <shelf name="read-2017" count="28"/>
+      <shelf name="ebook" count="24"/>
+      <shelf name="autobiography-memoir" count="22"/>
+      <shelf name="biographies-memoirs" count="22"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="pop-culture" count="21"/>
+      <shelf name="biography-autobiography" count="20"/>
+      <shelf name="didn-t-finish" count="19"/>
+      <shelf name="bio-memoir" count="19"/>
+      <shelf name="to-buy" count="19"/>
+      <shelf name="read-in-2018" count="18"/>
+      <shelf name="did-not-finish" count="18"/>
+      <shelf name="american" count="18"/>
+      <shelf name="2017-books" count="17"/>
+      <shelf name="listened-to" count="17"/>
+      <shelf name="unfinished" count="16"/>
+      <shelf name="auto-biography" count="16"/>
+      <shelf name="bios" count="16"/>
+      <shelf name="2017-reads" count="15"/>
+      <shelf name="default" count="15"/>
+      <shelf name="art" count="15"/>
+      <shelf name="new-jersey" count="15"/>
+      <shelf name="autobiographies" count="14"/>
+      <shelf name="musica" count="14"/>
+      <shelf name="biografie" count="14"/>
+      <shelf name="read-2016" count="14"/>
+      <shelf name="english" count="14"/>
+      <shelf name="rock-n-roll" count="13"/>
+      <shelf name="usa" count="13"/>
+      <shelf name="adult" count="13"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="tbr" count="12"/>
+      <shelf name="overdrive" count="12"/>
+      <shelf name="my-books" count="12"/>
+      <shelf name="entertainment" count="12"/>
+      <shelf name="library-book" count="12"/>
+      <shelf name="wish-list" count="12"/>
+      <shelf name="2018-books" count="11"/>
+      <shelf name="listened" count="11"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="bruce-springsteen" count="11"/>
+      <shelf name="best-of-2016" count="11"/>
+      <shelf name="memoir-autobiography" count="11"/>
+      <shelf name="memoir-bio" count="11"/>
+      <shelf name="to-read-non-fiction" count="11"/>
+      <shelf name="música" count="10"/>
+      <shelf name="read-in-2019" count="10"/>
+      <shelf name="2017-read" count="10"/>
+      <shelf name="maybe" count="10"/>
+      <shelf name="biografia" count="10"/>
+      <shelf name="contemporary" count="10"/>
+      <shelf name="21st-century" count="10"/>
+      <shelf name="rock-and-roll" count="10"/>
+      <shelf name="never-finished" count="9"/>
+      <shelf name="bios-memoirs" count="9"/>
+      <shelf name="books-to-buy" count="9"/>
+      <shelf name="on-the-shelf" count="9"/>
+      <shelf name="favourites" count="9"/>
+      <shelf name="finished" count="9"/>
+      <shelf name="2016-reads" count="9"/>
+      <shelf name="biographical" count="9"/>
+      <shelf name="rock" count="9"/>
+      <shelf name="read-2018" count="8"/>
+      <shelf name="couldn-t-finish" count="8"/>
+      <shelf name="mental-health" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="2016-books" count="8"/>
+      <shelf name="music-related" count="8"/>
+      <shelf name="read-in-english" count="8"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="memoirs-biographies" count="7"/>
+      <shelf name="gave-up" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>15784590</id>
+<title>Bruce</title>
+<title_without_series>Bruce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15784590-bruce]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348447121l/15784590._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348447121l/15784590._SX98_.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>21502454</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>35119</id>
+<name>Peter Ames Carlin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35119.Peter_Ames_Carlin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9439303</id>
+<title>Life</title>
+<title_without_series>Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9439303-life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327960451l/9439303._SX98_.jpg]]></image_url>
+<num_pages>564</num_pages>
+<work>
+<id>14323907</id>
+</work>
+<isbn>0297854399</isbn>
+<isbn13>9780297854395</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>45539</id>
+<name>Keith Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45539.Keith_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>676555</id>
+<title>The Beatles Anthology</title>
+<title_without_series>The Beatles Anthology</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/676555.The_Beatles_Anthology]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>35475</id>
+</work>
+<isbn>0811826848</isbn>
+<isbn13>9780811826846</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>20124</id>
+<name>The Beatles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20124.The_Beatles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14318</id>
+<title>Chronicles: Volume One</title>
+<title_without_series>Chronicles: Volume One</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14318.Chronicles]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>20014</id>
+</work>
+<isbn>0743244583</isbn>
+<isbn13>9780743244589</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>8898</id>
+<name>Bob Dylan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8898.Bob_Dylan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13235689</id>
+<title>How Music Works</title>
+<title_without_series>How Music Works</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13235689-how-music-works]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792878l/13235689._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792878l/13235689._SX98_.jpg]]></image_url>
+<num_pages>345</num_pages>
+<work>
+<id>18433052</id>
+</work>
+<isbn>1936365537</isbn>
+<isbn13>9781936365531</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>27078</id>
+<name>David Byrne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27078.David_Byrne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>691520</id>
+<title>No One Here Gets Out Alive</title>
+<title_without_series>No One Here Gets Out Alive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/691520.No_One_Here_Gets_Out_Alive]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270704l/691520._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>1422202</id>
+</work>
+<isbn>0446697338</isbn>
+<isbn13>9780446697330</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>7550235</id>
+<name>Danny Sugerman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7550235.Danny_Sugerman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>239404</id>
+<title><![CDATA[Psychotic Reactions and Carburetor Dung]]></title>
+<title_without_series><![CDATA[Psychotic Reactions and Carburetor Dung]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/239404.Psychotic_Reactions_and_Carburetor_Dung]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328126537l/239404._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328126537l/239404._SX98_.jpg]]></image_url>
+<num_pages>391</num_pages>
+<work>
+<id>62767</id>
+</work>
+<isbn>0679720456</isbn>
+<isbn13>9780679720454</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>25847</id>
+<name>Lester Bangs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25847.Lester_Bangs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>829313</id>
+<title>Miles: The Autobiography</title>
+<title_without_series>Miles: The Autobiography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/829313.Miles]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>120812</id>
+</work>
+<isbn>0671725823</isbn>
+<isbn13>9780671725822</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>54761</id>
+<name>Miles Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54761.Miles_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1207904</id>
+<title>Clapton: The Autobiography</title>
+<title_without_series>Clapton: The Autobiography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1207904.Clapton]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>343</num_pages>
+<work>
+<id>3219177</id>
+</work>
+<isbn>038551851X</isbn>
+<isbn13>9780385518512</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>134964</id>
+<name>Eric Clapton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134964.Eric_Clapton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35488</id>
+<title>Cash</title>
+<title_without_series>Cash</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35488.Cash]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>49239</id>
+</work>
+<isbn>0060727535</isbn>
+<isbn13>9780060727536</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>20062</id>
+<name>Johnny Cash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20062.Johnny_Cash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7742036</id>
+<title><![CDATA[Girls to the Front: The True Story of the Riot Grrrl Revolution]]></title>
+<title_without_series><![CDATA[Girls to the Front: The True Story of the Riot Grrrl Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7742036-girls-to-the-front]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273785498l/7742036._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1273785498l/7742036._SX98_.jpg]]></image_url>
+<num_pages>367</num_pages>
+<work>
+<id>10553943</id>
+</work>
+<isbn>0061806366</isbn>
+<isbn13>9780061806360</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3378991</id>
+<name>Sara Marcus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3378991.Sara_Marcus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46190</id>
+<title>Love Is a Mix Tape</title>
+<title_without_series>Love Is a Mix Tape</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46190.Love_Is_a_Mix_Tape]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>45332</id>
+</work>
+<isbn>1400083028</isbn>
+<isbn13>9781400083022</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>25839</id>
+<name>Rob Sheffield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25839.Rob_Sheffield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40780934</id>
+<title><![CDATA[Let's Go (So We Can Get Back): A Memoir of Recording and Discording with Wilco, Etc.]]></title>
+<title_without_series><![CDATA[Let's Go (So We Can Get Back): A Memoir of Recording and Discording with Wilco, Etc.]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40780934-let-s-go-so-we-can-get-back]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534187029l/40780934._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534187029l/40780934._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>63485104</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>288079</id>
+<name>Jeff Tweedy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/288079.Jeff_Tweedy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>272642</id>
+<title>Rip it Up and Start Again</title>
+<title_without_series>Rip it Up and Start Again</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/272642.Rip_it_Up_and_Start_Again]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925252l/272642._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925252l/272642._SX98_.jpg]]></image_url>
+<num_pages>577</num_pages>
+<work>
+<id>218313</id>
+</work>
+<isbn>0571215696</isbn>
+<isbn13>9780571215690</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>51552</id>
+<name>Simon Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51552.Simon_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29393</id>
+<title><![CDATA[Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991]]></title>
+<title_without_series><![CDATA[Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29393.Our_Band_Could_Be_Your_Life]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543095533l/29393._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543095533l/29393._SX98_.jpg]]></image_url>
+<num_pages>522</num_pages>
+<work>
+<id>522136</id>
+</work>
+<isbn>0316787531</isbn>
+<isbn13>9780316787536</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>16495</id>
+<name>Michael Azerrad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16495.Michael_Azerrad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18625064</id>
+<title>Autobiography</title>
+<title_without_series>Autobiography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18625064-autobiography]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380851512l/18625064._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380851512l/18625064._SX98_.jpg]]></image_url>
+<num_pages>457</num_pages>
+<work>
+<id>26334398</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>2654668</id>
+<name>Morrissey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2654668.Morrissey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58547</id>
+<title>Journals</title>
+<title_without_series>Journals</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58547.Journals]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>57016</id>
+</work>
+<isbn>157322359X</isbn>
+<isbn13>9781573223591</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>33041</id>
+<name>Kurt Donald Cobain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33041.Kurt_Donald_Cobain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24611671</id>
+<title><![CDATA[Unfaithful Music & Disappearing Ink]]></title>
+<title_without_series><![CDATA[Unfaithful Music & Disappearing Ink]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24611671-unfaithful-music-disappearing-ink]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438604246l/24611671._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438604246l/24611671._SX98_.jpg]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>44929044</id>
+</work>
+<isbn>0399167250</isbn>
+<isbn13>9780399167256</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>31320</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>230839</id>
+<name>Elvis Costello</name>
+<link><![CDATA[https://www.goodreads.com/author/show/230839.Elvis_Costello]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

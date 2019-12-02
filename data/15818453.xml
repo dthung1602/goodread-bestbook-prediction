@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15818453</id>
+  <title>My Brother&apos;s Book</title>
+  <isbn><![CDATA[0062234897]]></isbn>
+  <isbn13><![CDATA[9780062234896]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357588555l/15818453._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357588555l/15818453._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Fifty years after Where the Wild Things Are was published comes the last book Maurice Sendak completed before his death in May 2012, My Brother's Book. With influences from Shakespeare and William Blake, Sendak pays homage to his late brother, Jack, whom he credited for his passion for writing and drawing. Pairing Sendak's poignant poetry with his exquisite and dramatic artwork, this book redefines what mature readers expect from Maurice Sendak while continuing the lasting legacy he created over his long, illustrious career. Sendak's tribute to his brother is an expression of both grief and love and will resonate with his lifelong fans who may have read his children's books and will be ecstatic to discover something for them now. Pulitzer Prize–winning literary critic and Shakespearean scholar Stephen Greenblatt contributes a moving introduction.]]></description>
+  <work>
+  <id type="integer">21546072</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">15818453</best_book_id>
+  <reviews_count type="integer">5245</reviews_count>
+  <ratings_sum type="integer">5165</ratings_sum>
+  <ratings_count type="integer">1410</ratings_count>
+  <text_reviews_count type="integer">214</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>My Brother's Book</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:406|4:428|3:348|2:151|1:77|total:1410</rating_dist>
+  <desc_user_id type="integer">603238</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.oINPLnt_bF2TV15QfH00HQ</work_uri>
+</work>
+  <average_rating>3.66</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1396]]></ratings_count>
+  <text_reviews_count><![CDATA[212]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15818453-my-brother-s-book]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15818453-my-brother-s-book]]></link>
+  <authors>
+<author>
+<id>4489</id>
+<name>Maurice Sendak</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201028880p5/4489.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201028880p2/4489.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4489.Maurice_Sendak]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>992893</ratings_count>
+<text_reviews_count>19567</text_reviews_count>
+</author>
+<author>
+<id>4194881</id>
+<name>Stephen Greenblatt</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1302117239p5/4194881.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1302117239p2/4194881.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4194881.Stephen_Greenblatt]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>55618</ratings_count>
+<text_reviews_count>4613</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15818453-my-brother-s-book">My Brother&#39;s Book Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062234897&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/15818453-my-brother-s-book?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3654"/>
+      <shelf name="poetry" count="129"/>
+      <shelf name="picture-books" count="46"/>
+      <shelf name="art" count="26"/>
+      <shelf name="childrens" count="23"/>
+      <shelf name="picture-book" count="17"/>
+      <shelf name="children" count="15"/>
+      <shelf name="fantasy" count="14"/>
+      <shelf name="fiction" count="13"/>
+      <shelf name="non-fiction" count="12"/>
+      <shelf name="children-s-books" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="children-s" count="9"/>
+      <shelf name="favorites" count="8"/>
+      <shelf name="young-adult" count="8"/>
+      <shelf name="read-in-2013" count="8"/>
+      <shelf name="kids-books" count="7"/>
+      <shelf name="kids" count="7"/>
+      <shelf name="death" count="6"/>
+      <shelf name="read-2013" count="6"/>
+      <shelf name="illustrated" count="6"/>
+      <shelf name="currently-reading" count="6"/>
+      <shelf name="childrens-books" count="5"/>
+      <shelf name="biography" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="nonfiction" count="5"/>
+      <shelf name="graphic-novels" count="4"/>
+      <shelf name="maurice-sendak" count="4"/>
+      <shelf name="brothers" count="4"/>
+      <shelf name="family" count="4"/>
+      <shelf name="adult-fiction" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="picture" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="loss" count="3"/>
+      <shelf name="graphic-novel" count="3"/>
+      <shelf name="brainpickings" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="memoir" count="3"/>
+      <shelf name="middle-grade" count="3"/>
+      <shelf name="grief" count="3"/>
+      <shelf name="ya" count="3"/>
+      <shelf name="lgbtq" count="2"/>
+      <shelf name="read-in-2018" count="2"/>
+      <shelf name="usa" count="2"/>
+      <shelf name="literature" count="2"/>
+      <shelf name="death-and-dying" count="2"/>
+      <shelf name="to-read-poetry" count="2"/>
+      <shelf name="sibling-grief" count="2"/>
+      <shelf name="to-read-childrens" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="کودکانه-ها" count="2"/>
+      <shelf name="books" count="2"/>
+      <shelf name="gca-2014" count="2"/>
+      <shelf name="ya-poetry" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="mythology" count="2"/>
+      <shelf name="fairy-tale" count="2"/>
+      <shelf name="love" count="2"/>
+      <shelf name="picturebooks" count="2"/>
+      <shelf name="award-winner" count="2"/>
+      <shelf name="children-s-lit" count="2"/>
+      <shelf name="to-read-fiction" count="2"/>
+      <shelf name="read-aloud" count="2"/>
+      <shelf name="nf" count="2"/>
+      <shelf name="illustrations" count="2"/>
+      <shelf name="sendak" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="to-buy" count="2"/>
+      <shelf name="juvenile-non-fiction" count="2"/>
+      <shelf name="adult-nonfiction" count="2"/>
+      <shelf name="graphic-novels-comics" count="2"/>
+      <shelf name="biography-memoir" count="2"/>
+      <shelf name="to-purchase" count="2"/>
+      <shelf name="children-and-ya" count="2"/>
+      <shelf name="gifts" count="2"/>
+      <shelf name="not-interested" count="1"/>
+      <shelf name="audio_wanted" count="1"/>
+      <shelf name="fiction-very-good" count="1"/>
+      <shelf name="adoptee" count="1"/>
+      <shelf name="status-borrowed" count="1"/>
+      <shelf name="genre-short-fiction" count="1"/>
+      <shelf name="genre-art" count="1"/>
+      <shelf name="story-books" count="1"/>
+      <shelf name="book-books" count="1"/>
+      <shelf name="read-2010-to-2017" count="1"/>
+      <shelf name="2015-reading-list" count="1"/>
+      <shelf name="short-stories-poetry" count="1"/>
+      <shelf name="have-it" count="1"/>
+      <shelf name="gallery" count="1"/>
+      <shelf name="juvenile-nonfiction" count="1"/>
+      <shelf name="may-want-to-read" count="1"/>
+      <shelf name="picture-books-gr-choice-awards" count="1"/>
+      <shelf name="family-books" count="1"/>
+      <shelf name="twice-read-or-more" count="1"/>
+      <shelf name="children-s-book-adventure-2018" count="1"/>
+      <shelf name="365-picture" count="1"/>
+      <shelf name="visual-design" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>14517546</id>
+<title>100 Ideas that Changed Art</title>
+<title_without_series>100 Ideas that Changed Art</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14517546-100-ideas-that-changed-art]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792065l/14517546._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340792065l/14517546._SX98_.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>20160177</id>
+</work>
+<isbn>1856697959</isbn>
+<isbn13>9781856697958</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>80845</id>
+<name>Michael Bird</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80845.Michael_Bird]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20405516</id>
+<title><![CDATA[Art, Inc.: The Essential Guide for Building Your Career as an Artist (Art Books, Gifts for Artists, Learn The Artist's Way of Thinking)]]></title>
+<title_without_series><![CDATA[Art, Inc.: The Essential Guide for Building Your Career as an Artist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20405516-art-inc]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400878152l/20405516._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400878152l/20405516._SX98_.jpg]]></image_url>
+<num_pages>184</num_pages>
+<work>
+<id>28954659</id>
+</work>
+<isbn>145212826X</isbn>
+<isbn13>9781452128269</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4818908</id>
+<name>Lisa Congdon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4818908.Lisa_Congdon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15871945</id>
+<title><![CDATA[An Illustrated Journey: Inspiration From the Private Art Journals of Traveling Artists, Illustrators and Designers]]></title>
+<title_without_series><![CDATA[An Illustrated Journey: Inspiration From the Private Art Journals of Traveling Artists, Illustrators and Designers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15871945-an-illustrated-journey]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356179817l/15871945._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356179817l/15871945._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>21622382</id>
+</work>
+<isbn>144032025X</isbn>
+<isbn13>9781440320255</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>18678</id>
+<name>Danny Gregory</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18678.Danny_Gregory]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15843041</id>
+<title><![CDATA[The Icarus Deception: How High Will You Fly?]]></title>
+<title_without_series><![CDATA[The Icarus Deception: How High Will You Fly?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15843041-the-icarus-deception]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355795227l/15843041._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355795227l/15843041._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>21595639</id>
+</work>
+<isbn>1591846072</isbn>
+<isbn13>9781591846079</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>1791</id>
+<name>Seth Godin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1791.Seth_Godin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18079549</id>
+<title><![CDATA[The Trickster's Hat: A Mischievous Apprenticeship in Creativity]]></title>
+<title_without_series><![CDATA[The Trickster's Hat: A Mischievous Apprenticeship in Creativity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18079549-the-trickster-s-hat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372049595l/18079549._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372049595l/18079549._SX98_.jpg]]></image_url>
+<num_pages>194</num_pages>
+<work>
+<id>25386840</id>
+</work>
+<isbn>0399165029</isbn>
+<isbn13>9780399165023</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>28699</id>
+<name>Nick Bantock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28699.Nick_Bantock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12859410</id>
+<title><![CDATA[Damn Good Advice (For People with Talent!): How To Unleash Your Creative Potential by America's Master Communicator, George Lois]]></title>
+<title_without_series><![CDATA[Damn Good Advice (For People with Talent!): How To Unleash Your Creative Potential by America's Master Communicator, George Lois]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12859410-damn-good-advice-for-people-with-talent]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329592983l/12859410._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329592983l/12859410._SX98_.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>18011219</id>
+</work>
+<isbn>0714863483</isbn>
+<isbn13>9780714863481</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>46246</id>
+<name>George Lois</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46246.George_Lois]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11618127</id>
+<title><![CDATA[344 Questions: The Creative Person's Do-It-Yourself Guide to Insight, Survival, and Artistic Fulfillment]]></title>
+<title_without_series><![CDATA[344 Questions: The Creative Person's Do-It-Yourself Guide to Insight, Survival, and Artistic Fulfillment]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11618127-344-questions]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355080857l/11618127._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355080857l/11618127._SX98_.jpg]]></image_url>
+<num_pages>139</num_pages>
+<work>
+<id>16561165</id>
+</work>
+<isbn>0321733002</isbn>
+<isbn13>9780321733009</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>513644</id>
+<name>Stefan G. Bucher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/513644.Stefan_G_Bucher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12910715</id>
+<title>Designing for Emotion</title>
+<title_without_series>Designing for Emotion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12910715-designing-for-emotion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>18065512</id>
+</work>
+<isbn></isbn>
+<isbn13>9781937557003</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1017877</id>
+<name>Aarron Walter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1017877.Aarron_Walter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7292922</id>
+<title><![CDATA[The Handmade Marketplace: How to Sell Your Crafts Locally, Globally, and On-Line]]></title>
+<title_without_series><![CDATA[The Handmade Marketplace: How to Sell Your Crafts Locally, Globally, and On-Line]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7292922-the-handmade-marketplace]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>8587599</id>
+</work>
+<isbn>1603424776</isbn>
+<isbn13>9781603424776</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3222539</id>
+<name>Kari Chapin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3222539.Kari_Chapin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>118077</id>
+<title>A Hole is to Dig</title>
+<title_without_series>A Hole is to Dig</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118077.A_Hole_is_to_Dig]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>515786</id>
+</work>
+<isbn>006443205X</isbn>
+<isbn13>9780064432054</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>12961</id>
+<name>Ruth Krauss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12961.Ruth_Krauss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2282485</id>
+<title>Red Bird</title>
+<title_without_series>Red Bird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2282485.Red_Bird]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556463029l/2282485._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556463029l/2282485._SX98_.jpg]]></image_url>
+<num_pages>78</num_pages>
+<work>
+<id>2288681</id>
+</work>
+<isbn>0807068926</isbn>
+<isbn13>9780807068922</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>23988</id>
+<name>Mary Oliver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23988.Mary_Oliver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2293154</id>
+<title>Bears</title>
+<title_without_series>Bears</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2293154.Bears]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>1715123</id>
+</work>
+<isbn>006027994X</isbn>
+<isbn13>9780060279943</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>12961</id>
+<name>Ruth Krauss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12961.Ruth_Krauss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>120706</id>
+<title>I&apos;ll Be You and You Be Me</title>
+<title_without_series>I&apos;ll Be You and You Be Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/120706.I_ll_Be_You_and_You_Be_Me]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2957932</id>
+</work>
+<isbn>0060284595</isbn>
+<isbn13>9780060284596</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>12961</id>
+<name>Ruth Krauss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12961.Ruth_Krauss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18249910</id>
+<title><![CDATA[The Food Of Love Cookery School]]></title>
+<title_without_series><![CDATA[The Food Of Love Cookery School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18249910-the-food-of-love-cookery-school]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375061883l/18249910._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375061883l/18249910._SX98_.jpg]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>25703736</id>
+</work>
+<isbn>140913380X</isbn>
+<isbn13>9781409133803</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>559840</id>
+<name>Nicky Pellegrino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/559840.Nicky_Pellegrino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>906541</id>
+<title>Bedtime for Frances</title>
+<title_without_series>Bedtime for Frances</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/906541.Bedtime_for_Frances]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2127174</id>
+</work>
+<isbn>0064434516</isbn>
+<isbn13>9780064434515</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>12076</id>
+<name>Russell Hoban</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12076.Russell_Hoban]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3090109</id>
+<title><![CDATA[How to Be an Explorer of the World: Portable Life Museum]]></title>
+<title_without_series><![CDATA[How to Be an Explorer of the World: Portable Life Museum]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3090109-how-to-be-an-explorer-of-the-world]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>3121209</id>
+</work>
+<isbn>0399534601</isbn>
+<isbn13>9780399534607</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>117227</id>
+<name>Keri Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/117227.Keri_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8360431</id>
+<title><![CDATA[Accidental Genius: Using Writing to Generate Your Best Ideas, Insight, and Content]]></title>
+<title_without_series><![CDATA[Accidental Genius: Using Writing to Generate Your Best Ideas, Insight, and Content]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8360431-accidental-genius]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389052095l/8360431._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389052095l/8360431._SY160_.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>586013</id>
+</work>
+<isbn>1605095257</isbn>
+<isbn13>9781605095257</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>43818</id>
+<name>Mark Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43818.Mark_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>625061</id>
+<title><![CDATA[Craft, Inc.: Turn Your Creative Hobby into a Business]]></title>
+<title_without_series><![CDATA[Craft, Inc.: Turn Your Creative Hobby into a Business]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/625061.Craft_Inc_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>611419</id>
+</work>
+<isbn>0811858367</isbn>
+<isbn13>9780811858366</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1410</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>191002</id>
+<name>Meg Mateo Ilasco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/191002.Meg_Mateo_Ilasco]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

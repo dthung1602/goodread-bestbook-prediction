@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9803013</id>
+  <title>That This</title>
+  <isbn><![CDATA[0811219186]]></isbn>
+  <isbn13><![CDATA[9780811219181]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327959243l/9803013._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327959243l/9803013._SX50_.jpg</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>New Directions</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<p>“What treasures of knowledge we cluster around.” <b>That This</b> is a collection in three pieces. “Disappearance Approach,” an essay about the sudden death of the author’s husband (“land of darkness or darkness itself you shadow mouth”), begins the book with paintings by Poussin, an autopsy, Sarah Edwards and her sister-in-law Hannah, phantoms, elusive remnants, and snakes. “Frolic Architecture,” the second section — inspired by visits to the vast 18th-century Jonathan Edwards archives at the Beinecke and accompanied by six black-and-white photograms by James Welling — presents hauntingly lovely, oblique text-collages that Howe (with scissors and “invisible” Scotch Tape and a Canon copier) has twisted, flattened, and snipped into “inscapes of force.” The final section, “That This,” delivers beautiful short squares of verse that might look at home in a hymnal, although their orderly appearance packs startling power:</p><p>
+  <b> That this book is a history of </b>
+</p><p>a shadow that is a shadow of </p><p>Me mystically one in another </p><p>another another to subserve</p>]]></description>
+  <work>
+  <id type="integer">14693230</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">9803013</best_book_id>
+  <reviews_count type="integer">641</reviews_count>
+  <ratings_sum type="integer">1029</ratings_sum>
+  <ratings_count type="integer">256</ratings_count>
+  <text_reviews_count type="integer">30</text_reviews_count>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_title>That This</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:102|4:80|3:54|2:17|1:3|total:256</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.VZsDY2UBUujyrl1GZ9Dohg</work_uri>
+</work>
+  <average_rating>4.02</average_rating>
+  <num_pages><![CDATA[112]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[252]]></ratings_count>
+  <text_reviews_count><![CDATA[30]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9803013-that-this]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9803013-that-this]]></link>
+  <authors>
+<author>
+<id>49280</id>
+<name>Susan Howe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1203455830p5/49280.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1203455830p2/49280.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49280.Susan_Howe]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>3950</ratings_count>
+<text_reviews_count>348</text_reviews_count>
+</author>
+<author>
+<id>347926</id>
+<name>James Welling</name>
+<role>Photographer</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/347926.James_Welling]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>274</ratings_count>
+<text_reviews_count>30</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9803013-that-this">That This Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0811219186&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/9803013-that-this?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="303"/>
+      <shelf name="poetry" count="76"/>
+      <shelf name="favorites" count="5"/>
+      <shelf name="for-school" count="3"/>
+      <shelf name="american-literature" count="3"/>
+      <shelf name="currently-reading" count="3"/>
+      <shelf name="memoir" count="2"/>
+      <shelf name="female" count="2"/>
+      <shelf name="po-eh-tree" count="2"/>
+      <shelf name="read-in-2011" count="2"/>
+      <shelf name="form-focus" count="1"/>
+      <shelf name="toread-really" count="1"/>
+      <shelf name="owned" count="1"/>
+      <shelf name="to-listen" count="1"/>
+      <shelf name="indexed" count="1"/>
+      <shelf name="npl-to-read" count="1"/>
+      <shelf name="bread-loaf" count="1"/>
+      <shelf name="gca2011" count="1"/>
+      <shelf name="experimental" count="1"/>
+      <shelf name="blse-2019" count="1"/>
+      <shelf name="memorable" count="1"/>
+      <shelf name="marriage" count="1"/>
+      <shelf name="2010s" count="1"/>
+      <shelf name="memor-life-writing" count="1"/>
+      <shelf name="eng" count="1"/>
+      <shelf name="poesi-efter-1900" count="1"/>
+      <shelf name="short-stories-and-essays" count="1"/>
+      <shelf name="goodreads-choice-award-2011" count="1"/>
+      <shelf name="books_new-directions" count="1"/>
+      <shelf name="a-hymn-to-poetry_short-stories" count="1"/>
+      <shelf name="fiction" count="1"/>
+      <shelf name="blse" count="1"/>
+      <shelf name="m-a" count="1"/>
+      <shelf name="poetry-tbr" count="1"/>
+      <shelf name="waiting-list-non-fiction" count="1"/>
+      <shelf name="poetry-shorts-drama" count="1"/>
+      <shelf name="this-month" count="1"/>
+      <shelf name="in-storage" count="1"/>
+      <shelf name="american" count="1"/>
+      <shelf name="usa" count="1"/>
+      <shelf name="available" count="1"/>
+      <shelf name="school" count="1"/>
+      <shelf name="mine" count="1"/>
+      <shelf name="fall-2017" count="1"/>
+      <shelf name="women-authors" count="1"/>
+      <shelf name="poetry-plays-women" count="1"/>
+      <shelf name="essays-misc-writings" count="1"/>
+      <shelf name="biography-modern" count="1"/>
+      <shelf name="concrete" count="1"/>
+      <shelf name="new-directions" count="1"/>
+      <shelf name="graduate-work" count="1"/>
+      <shelf name="to-buy" count="1"/>
+      <shelf name="solmaz-sharif" count="1"/>
+      <shelf name="recentlyread" count="1"/>
+      <shelf name="essay" count="1"/>
+      <shelf name="libr" count="1"/>
+      <shelf name="z-usa" count="1"/>
+      <shelf name="x-f" count="1"/>
+      <shelf name="available-at-multcolib" count="1"/>
+      <shelf name="to-read-poetry" count="1"/>
+      <shelf name="later" count="1"/>
+      <shelf name="poetry-post-2010" count="1"/>
+      <shelf name="experimental-poetry" count="1"/>
+      <shelf name="to-reorganize" count="1"/>
+      <shelf name="21st-century" count="1"/>
+      <shelf name="existential" count="1"/>
+      <shelf name="portland-state" count="1"/>
+      <shelf name="hm" count="1"/>
+      <shelf name="non-fiction" count="1"/>
+      <shelf name="essays" count="1"/>
+      <shelf name="awarded" count="1"/>
+      <shelf name="reading-suggestions-fall-2015" count="1"/>
+      <shelf name="grief" count="1"/>
+      <shelf name="loss" count="1"/>
+      <shelf name="creative-nonfiction" count="1"/>
+      <shelf name="finished-in-2015" count="1"/>
+      <shelf name="american-poetry" count="1"/>
+      <shelf name="best-of-2010s" count="1"/>
+      <shelf name="books-to-read-in-2015" count="1"/>
+      <shelf name="themoon" count="1"/>
+      <shelf name="sacristy" count="1"/>
+      <shelf name="me" count="1"/>
+      <shelf name="literature" count="1"/>
+      <shelf name="poetry-drama" count="1"/>
+      <shelf name="cross" count="1"/>
+      <shelf name="non-fiction-and-essays" count="1"/>
+      <shelf name="choice-awards-11" count="1"/>
+      <shelf name="library" count="1"/>
+      <shelf name="year-2010s" count="1"/>
+      <shelf name="owned-and-not-read" count="1"/>
+      <shelf name="books-i-own" count="1"/>
+      <shelf name="grief-books" count="1"/>
+      <shelf name="favorite-books" count="1"/>
+      <shelf name="poetry-new" count="1"/>
+      <shelf name="class-reeds" count="1"/>
+      <shelf name="read-in-2012" count="1"/>
+      <shelf name="office" count="1"/>
+      <shelf name="college" count="1"/>
+      <shelf name="serious" count="1"/>
+      <shelf name="contemporary-poetry" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>144800</id>
+<title>The Raw Shark Texts</title>
+<title_without_series>The Raw Shark Texts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/144800.The_Raw_Shark_Texts]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405099268l/144800._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405099268l/144800._SX98_.jpg]]></image_url>
+<num_pages>427</num_pages>
+<work>
+<id>938197</id>
+</work>
+<isbn>1841959111</isbn>
+<isbn13>9781841959115</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>83727</id>
+<name>Steven Hall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83727.Steven_Hall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40511762</id>
+<title><![CDATA[Riddance: Or the Sybil Joines Vocational School for Ghost Speakers & Hearing-Mouth Children]]></title>
+<title_without_series><![CDATA[Riddance: Or the Sybil Joines Vocational School for Ghost Speakers & Hearing-Mouth Children]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40511762-riddance]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>59699044</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26414</id>
+<name>Shelley Jackson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26414.Shelley_Jackson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41746324</id>
+<title>The Tradition</title>
+<title_without_series>The Tradition</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41746324-the-tradition]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539265221l/41746324._SX98_.jpg]]></image_url>
+<num_pages>77</num_pages>
+<work>
+<id>65149638</id>
+</work>
+<isbn>1556594860</isbn>
+<isbn13>9781556594861</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1877139</id>
+<name>Jericho Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1877139.Jericho_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40230143</id>
+<title>The White Card: A Play</title>
+<title_without_series>The White Card: A Play</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40230143-the-white-card]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543055281l/40230143._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543055281l/40230143._SX98_.jpg]]></image_url>
+<num_pages>94</num_pages>
+<work>
+<id>62484518</id>
+</work>
+<isbn>1555978398</isbn>
+<isbn13>9781555978396</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>157979</id>
+<name>Claudia Rankine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157979.Claudia_Rankine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53417</id>
+<title>Save Twilight: Selected Poems</title>
+<title_without_series>Save Twilight: Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53417.Save_Twilight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328774835l/53417._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328774835l/53417._SX98_.jpg]]></image_url>
+<num_pages>172</num_pages>
+<work>
+<id>771448</id>
+</work>
+<isbn>0872863336</isbn>
+<isbn13>9780872863330</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>25824</id>
+<name>Julio Cortázar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25824.Julio_Cort_zar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17574856</id>
+<title><![CDATA[The Gorgeous Nothings: Emily Dickinson's Envelope Poems]]></title>
+<title_without_series><![CDATA[The Gorgeous Nothings: Emily Dickinson's Envelope Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17574856-the-gorgeous-nothings]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385964842l/17574856._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385964842l/17574856._SX98_.jpg]]></image_url>
+<num_pages>255</num_pages>
+<work>
+<id>24515026</id>
+</work>
+<isbn>081122175X</isbn>
+<isbn13>9780811221757</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7440</id>
+<name>Emily Dickinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7440.Emily_Dickinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>280470</id>
+<title>Complete Writings</title>
+<title_without_series>Complete Writings</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/280470.Complete_Writings]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375455266l/280470._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375455266l/280470._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>272064</id>
+</work>
+<isbn>014042430X</isbn>
+<isbn13>9780140424300</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>159918</id>
+<name>Phillis Wheatley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159918.Phillis_Wheatley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36514744</id>
+<title>Ghost Of</title>
+<title_without_series>Ghost Of</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36514744-ghost-of]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509533543l/36514744._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509533543l/36514744._SX98_.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>58235797</id>
+</work>
+<isbn>1632430525</isbn>
+<isbn13>9781632430526</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17285620</id>
+<name>Diana Khoi Nguyen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17285620.Diana_Khoi_Nguyen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>874809</id>
+<title><![CDATA[The Autobiography and Other Writings]]></title>
+<title_without_series><![CDATA[The Autobiography and Other Writings]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/874809.The_Autobiography_and_Other_Writings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>7602692</id>
+</work>
+<isbn>0140390529</isbn>
+<isbn13>9780140390520</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>289513</id>
+<name>Benjamin Franklin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/289513.Benjamin_Franklin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23293629</id>
+<title>Sono il fratello di XX</title>
+<title_without_series>Sono il fratello di XX</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23293629-sono-il-fratello-di-xx]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412170386l/23293629._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412170386l/23293629._SX98_.jpg]]></image_url>
+<num_pages>129</num_pages>
+<work>
+<id>42850561</id>
+</work>
+<isbn>8845929272</isbn>
+<isbn13>9788845929274</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>244169</id>
+<name>Fleur Jaeggy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/244169.Fleur_Jaeggy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40207220</id>
+<title>A Fortune for Your Disaster</title>
+<title_without_series>A Fortune for Your Disaster</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40207220-a-fortune-for-your-disaster]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567452027l/40207220._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567452027l/40207220._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62418902</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14133519</id>
+<name>Hanif Abdurraqib</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14133519.Hanif_Abdurraqib]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40121993</id>
+<title><![CDATA[The Collected Schizophrenias: Essays]]></title>
+<title_without_series><![CDATA[The Collected Schizophrenias: Essays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40121993-the-collected-schizophrenias]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527408064l/40121993._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527408064l/40121993._SX98_.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>56276422</id>
+</work>
+<isbn>1555978274</isbn>
+<isbn13>9781555978273</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8298504</id>
+<name>Esmé Weijun Wang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8298504.Esm_Weijun_Wang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40137758</id>
+<title>Cruel Fiction</title>
+<title_without_series>Cruel Fiction</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40137758-cruel-fiction]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526564118l/40137758._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526564118l/40137758._SX98_.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>62270291</id>
+</work>
+<isbn>1934639257</isbn>
+<isbn13>9781934639252</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>15242326</id>
+<name>Wendy Trevino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15242326.Wendy_Trevino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7428663</id>
+<title>Nox</title>
+<title_without_series>Nox</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7428663-nox]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>9403183</id>
+</work>
+<isbn>0811218708</isbn>
+<isbn13>9780811218702</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>34336</id>
+<name>Anne Carson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34336.Anne_Carson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36479356</id>
+<title><![CDATA[American Sonnets for My Past and Future Assassin]]></title>
+<title_without_series><![CDATA[American Sonnets for My Past and Future Assassin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36479356-american-sonnets-for-my-past-and-future-assassin]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524528877l/36479356._SX98_.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>58190092</id>
+</work>
+<isbn>0143133187</isbn>
+<isbn13>9780143133186</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>92372</id>
+<name>Terrance Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92372.Terrance_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>150251</id>
+<title>Plainwater: Essays and Poetry</title>
+<title_without_series>Plainwater: Essays and Poetry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/150251.Plainwater]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320482777l/150251._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320482777l/150251._SX98_.jpg]]></image_url>
+<num_pages>260</num_pages>
+<work>
+<id>145019</id>
+</work>
+<isbn>0375708421</isbn>
+<isbn13>9780375708428</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>34336</id>
+<name>Anne Carson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34336.Anne_Carson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35596959</id>
+<title><![CDATA[Registers of Illuminated Villages: Poems]]></title>
+<title_without_series><![CDATA[Registers of Illuminated Villages: Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35596959-registers-of-illuminated-villages]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>57030815</id>
+</work>
+<isbn>1555978002</isbn>
+<isbn13>9781555978006</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7096188</id>
+<name>Tarfia Faizullah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7096188.Tarfia_Faizullah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21986883</id>
+<title>The Little Edges</title>
+<title_without_series>The Little Edges</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21986883-the-little-edges]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403638379l/21986883._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403638379l/21986883._SX98_.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>41296618</id>
+</work>
+<isbn>0819575054</isbn>
+<isbn13>9780819575050</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>256</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>12</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>432658</id>
+<name>Fred Moten</name>
+<link><![CDATA[https://www.goodreads.com/author/show/432658.Fred_Moten]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

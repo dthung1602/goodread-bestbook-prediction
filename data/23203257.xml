@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23203257</id>
+  <title>Lily and Dunkin</title>
+  <isbn><![CDATA[0553536745]]></isbn>
+  <isbn13><![CDATA[9780553536744]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453060643l/23203257._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453060643l/23203257._SY75_.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Delacorte Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Author Donna Gephart crafts a dual narrative about two remarkable young people: Lily, a transgender girl, and Dunkin, a boy dealing with bipolar disorder.</b><br /> <br />Sometimes our hearts see things our eyes can’t.<br /> <br />Lily Jo McGrother, born Timothy McGrother, is a girl. But being a girl is not so easy when you look like a boy. Especially when you’re in the eighth grade. <br /> <br />Dunkin Dorfman, birth name Norbert Dorfman, is dealing with bipolar disorder and has just moved from the New Jersey town he’s called home for the past thirteen years. This would be hard enough, but the fact that he is also hiding from a painful secret makes it even worse. <br /> <br />One summer morning, Lily Jo McGrother meets Dunkin Dorfman, and their lives forever change.]]></description>
+  <work>
+  <id type="integer">42747317</id>
+  <books_count type="integer">14</books_count>
+  <best_book_id type="integer">23203257</best_book_id>
+  <reviews_count type="integer">17077</reviews_count>
+  <ratings_sum type="integer">23759</ratings_sum>
+  <ratings_count type="integer">5573</ratings_count>
+  <text_reviews_count type="integer">1095</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>Lily and Dunkin</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2585|4:2096|3:715|2:128|1:49|total:5573</rating_dist>
+  <desc_user_id type="integer">86948327</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.bQIKPP8jC5QIxxuBdS036Q</work_uri>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5228]]></ratings_count>
+  <text_reviews_count><![CDATA[1039]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23203257-lily-and-dunkin]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23203257-lily-and-dunkin]]></link>
+  <authors>
+<author>
+<id>596447</id>
+<name>Donna Gephart</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1527613303p5/596447.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1527613303p2/596447.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/596447.Donna_Gephart]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>11005</ratings_count>
+<text_reviews_count>1869</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23203257-lily-and-dunkin">Lily and Dunkin Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0553536745&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/23203257-lily-and-dunkin?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10077"/>
+      <shelf name="currently-reading" count="255"/>
+      <shelf name="middle-grade" count="234"/>
+      <shelf name="lgbtq" count="203"/>
+      <shelf name="lgbt" count="180"/>
+      <shelf name="young-adult" count="171"/>
+      <shelf name="ya" count="156"/>
+      <shelf name="realistic-fiction" count="144"/>
+      <shelf name="lgbtqia" count="82"/>
+      <shelf name="fiction" count="78"/>
+      <shelf name="mental-illness" count="73"/>
+      <shelf name="mental-health" count="72"/>
+      <shelf name="favorites" count="68"/>
+      <shelf name="friendship" count="59"/>
+      <shelf name="contemporary" count="54"/>
+      <shelf name="bullying" count="43"/>
+      <shelf name="audiobook" count="40"/>
+      <shelf name="realistic" count="36"/>
+      <shelf name="audiobooks" count="34"/>
+      <shelf name="family" count="34"/>
+      <shelf name="childrens" count="34"/>
+      <shelf name="middle-school" count="33"/>
+      <shelf name="audio" count="31"/>
+      <shelf name="queer" count="29"/>
+      <shelf name="teen" count="26"/>
+      <shelf name="trans" count="26"/>
+      <shelf name="transgender" count="24"/>
+      <shelf name="read-in-2016" count="23"/>
+      <shelf name="diversity" count="19"/>
+      <shelf name="children-s" count="18"/>
+      <shelf name="middle-grades" count="18"/>
+      <shelf name="glbt" count="18"/>
+      <shelf name="children" count="18"/>
+      <shelf name="ya-lit" count="17"/>
+      <shelf name="glbtq" count="17"/>
+      <shelf name="coming-of-age" count="17"/>
+      <shelf name="juvenile" count="17"/>
+      <shelf name="kids" count="17"/>
+      <shelf name="tween" count="17"/>
+      <shelf name="ya-fiction" count="16"/>
+      <shelf name="2016-releases" count="16"/>
+      <shelf name="gender" count="16"/>
+      <shelf name="school" count="15"/>
+      <shelf name="children-s-books" count="15"/>
+      <shelf name="read-in-2017" count="14"/>
+      <shelf name="library" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="caudill-2019" count="13"/>
+      <shelf name="read-in-8th-grade" count="13"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="lgbtqa" count="12"/>
+      <shelf name="mg" count="12"/>
+      <shelf name="young-adult-fiction" count="12"/>
+      <shelf name="we-need-diverse-books" count="12"/>
+      <shelf name="chapter-books" count="11"/>
+      <shelf name="read-in-2018" count="10"/>
+      <shelf name="juvenile-fiction" count="10"/>
+      <shelf name="disability" count="10"/>
+      <shelf name="read-in-2019" count="9"/>
+      <shelf name="dnf" count="9"/>
+      <shelf name="kid-lit" count="9"/>
+      <shelf name="book-club" count="8"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="contemporary-fiction" count="8"/>
+      <shelf name="diverse-books" count="8"/>
+      <shelf name="kids-books" count="8"/>
+      <shelf name="bipolar" count="8"/>
+      <shelf name="read-2016" count="8"/>
+      <shelf name="identity" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="childrens-fiction" count="8"/>
+      <shelf name="2019-caudill" count="7"/>
+      <shelf name="middle-grade-books" count="7"/>
+      <shelf name="diverse" count="7"/>
+      <shelf name="suicide" count="7"/>
+      <shelf name="middle-grade-fiction" count="7"/>
+      <shelf name="j-fiction" count="7"/>
+      <shelf name="lgtbq" count="7"/>
+      <shelf name="caudill" count="6"/>
+      <shelf name="grade-8-semester-2" count="6"/>
+      <shelf name="novels" count="6"/>
+      <shelf name="listened-to" count="6"/>
+      <shelf name="realistic-fic" count="6"/>
+      <shelf name="classroom-library" count="6"/>
+      <shelf name="middlegrade" count="6"/>
+      <shelf name="ya-to-read" count="6"/>
+      <shelf name="bipolar-disorder" count="6"/>
+      <shelf name="novel" count="6"/>
+      <shelf name="audio-books" count="6"/>
+      <shelf name="j-fic" count="6"/>
+      <shelf name="jfic" count="6"/>
+      <shelf name="arc" count="6"/>
+      <shelf name="ya-realistic-fiction" count="6"/>
+      <shelf name="2016-release" count="6"/>
+      <shelf name="read-2019" count="5"/>
+      <shelf name="grade-8" count="5"/>
+      <shelf name="standalone" count="5"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="childrens-books" count="5"/>
+      <shelf name="ya-contemporary" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>29230725</id>
+<title>Unbound: A Novel in Verse</title>
+<title_without_series>Unbound: A Novel in Verse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29230725-unbound]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455981994l/29230725._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455981994l/29230725._SX98_.jpg]]></image_url>
+<num_pages>347</num_pages>
+<work>
+<id>49470038</id>
+</work>
+<isbn>0545934273</isbn>
+<isbn13>9780545934275</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>3215469</id>
+<name>Ann E. Burg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3215469.Ann_E_Burg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28217813</id>
+<title>One Half from the East</title>
+<title_without_series>One Half from the East</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28217813-one-half-from-the-east]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457673324l/28217813._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457673324l/28217813._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>48245429</id>
+</work>
+<isbn>0062421921</isbn>
+<isbn13>9780062421920</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7273667</id>
+<name>Nadia Hashimi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7273667.Nadia_Hashimi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414183</id>
+<title><![CDATA[Better Nate Than Ever (Better Nate Than Ever, #1)]]></title>
+<title_without_series>Better Nate Than Ever</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414183-better-nate-than-ever]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391970255l/13414183._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391970255l/13414183._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>18707527</id>
+</work>
+<isbn>1442446897</isbn>
+<isbn13>9781442446892</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5446689</id>
+<name>Tim Federle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5446689.Tim_Federle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28675749</id>
+<title>Falling Over Sideways</title>
+<title_without_series>Falling Over Sideways</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28675749-falling-over-sideways]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459328677l/28675749._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459328677l/28675749._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>48866784</id>
+</work>
+<isbn>0545863244</isbn>
+<isbn13>9780545863247</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>183005</id>
+<name>Jordan Sonnenblick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/183005.Jordan_Sonnenblick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22747802</id>
+<title>Paper Things</title>
+<title_without_series>Paper Things</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22747802-paper-things]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415586683l/22747802._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415586683l/22747802._SX98_.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>42292738</id>
+</work>
+<isbn>0763663239</isbn>
+<isbn13>9780763663230</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>150702</id>
+<name>Jennifer Richard Jacobson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150702.Jennifer_Richard_Jacobson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25753099</id>
+<title>Me and Marvin Gardens</title>
+<title_without_series>Me and Marvin Gardens</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25753099-me-and-marvin-gardens]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468554741l/25753099._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468554741l/25753099._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>45595993</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>1651879</id>
+<name>A.S. King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1651879.A_S_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28954176</id>
+<title><![CDATA[Things Too Huge to Fix by Saying Sorry]]></title>
+<title_without_series><![CDATA[Things Too Huge to Fix by Saying Sorry]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28954176-things-too-huge-to-fix-by-saying-sorry]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457526347l/28954176._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457526347l/28954176._SX98_.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>49179213</id>
+</work>
+<isbn>1481422790</isbn>
+<isbn13>9781481422796</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>230018</id>
+<name>Susan Vaught</name>
+<link><![CDATA[https://www.goodreads.com/author/show/230018.Susan_Vaught]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25226215</id>
+<title><![CDATA[The Epic Fail of Arturo Zamora]]></title>
+<title_without_series><![CDATA[The Epic Fail of Arturo Zamora]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25226215-the-epic-fail-of-arturo-zamora]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478630504l/25226215._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478630504l/25226215._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>44942176</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3522146</id>
+<name>Pablo Cartaya</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3522146.Pablo_Cartaya]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33986447</id>
+<title><![CDATA[Insignificant Events in the Life of a Cactus]]></title>
+<title_without_series><![CDATA[Insignificant Events in the Life of a Cactus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33986447-insignificant-events-in-the-life-of-a-cactus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520002885l/33986447._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520002885l/33986447._SX98_.jpg]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>54980101</id>
+</work>
+<isbn>1454923458</isbn>
+<isbn13>9781454923459</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>5346515</id>
+<name>Dusti Bowling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5346515.Dusti_Bowling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35008529</id>
+<title><![CDATA[The Truth as Told by Mason Buttle]]></title>
+<title_without_series><![CDATA[The Truth as Told by Mason Buttle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35008529-the-truth-as-told-by-mason-buttle]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502092914l/35008529._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>56288665</id>
+</work>
+<isbn>0062491490</isbn>
+<isbn13>9780062491497</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>463173</id>
+<name>Leslie Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/463173.Leslie_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25897857</id>
+<title>It Ain&apos;t So Awful, Falafel</title>
+<title_without_series>It Ain&apos;t So Awful, Falafel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25897857-it-ain-t-so-awful-falafel]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436842493l/25897857._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436842493l/25897857._SX98_.jpg]]></image_url>
+<num_pages>378</num_pages>
+<work>
+<id>45780795</id>
+</work>
+<isbn>0544612310</isbn>
+<isbn13>9780544612310</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>25926</id>
+<name>Firoozeh Dumas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25926.Firoozeh_Dumas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35604722</id>
+<title><![CDATA[Ivy Aberdeen's Letter to the World]]></title>
+<title_without_series><![CDATA[Ivy Aberdeen's Letter to the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35604722-ivy-aberdeen-s-letter-to-the-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502132156l/35604722._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502132156l/35604722._SX98_.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>56037785</id>
+</work>
+<isbn>0316515469</isbn>
+<isbn13>9780316515467</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>8545130</id>
+<name>Ashley Herring Blake</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8545130.Ashley_Herring_Blake]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28217808</id>
+<title>Moo</title>
+<title_without_series>Moo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28217808-moo]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460310388l/28217808._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460310388l/28217808._SX98_.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>48245426</id>
+</work>
+<isbn>0062415271</isbn>
+<isbn13>9780062415271</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>11633</id>
+<name>Sharon Creech</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11633.Sharon_Creech]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27064348</id>
+<title>Ms. Bixby&apos;s Last Day</title>
+<title_without_series>Ms. Bixby&apos;s Last Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27064348-ms-bixby-s-last-day]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457894475l/27064348._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457894475l/27064348._SX98_.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>47104897</id>
+</work>
+<isbn>006233817X</isbn>
+<isbn13>9780062338174</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>6981617</id>
+<name>John David  Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6981617.John_David_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20873172</id>
+<title>Gracefully Grayson</title>
+<title_without_series>Gracefully Grayson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20873172-gracefully-grayson]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413143765l/20873172._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413143765l/20873172._SX98_.jpg]]></image_url>
+<num_pages>243</num_pages>
+<work>
+<id>40211796</id>
+</work>
+<isbn>1423185277</isbn>
+<isbn13>9781423185277</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>7893797</id>
+<name>Ami Polonsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7893797.Ami_Polonsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35890044</id>
+<title><![CDATA[The Benefits of Being an Octopus]]></title>
+<title_without_series><![CDATA[The Benefits of Being an Octopus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35890044-the-benefits-of-being-an-octopus]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522849548l/35890044._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522849548l/35890044._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57406781</id>
+</work>
+<isbn>1510737480</isbn>
+<isbn13>9781510737488</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>17071283</id>
+<name>Ann Braden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17071283.Ann_Braden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35464020</id>
+<title>The Night Diary</title>
+<title_without_series>The Night Diary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35464020-the-night-diary]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518428409l/35464020._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518428409l/35464020._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>50463490</id>
+</work>
+<isbn>0735228515</isbn>
+<isbn13>9780735228511</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3105905</id>
+<name>Veera Hiranandani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3105905.Veera_Hiranandani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22024494</id>
+<title>Mayday</title>
+<title_without_series>Mayday</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22024494-mayday]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452366120l/22024494._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452366120l/22024494._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>41342455</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5573</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>300129</id>
+<name>Karen Harrington</name>
+<link><![CDATA[https://www.goodreads.com/author/show/300129.Karen_Harrington]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

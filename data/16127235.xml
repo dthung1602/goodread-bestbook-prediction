@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16127235</id>
+  <title><![CDATA[The Darwin Elevator (Dire Earth Cycle, #1)]]></title>
+  <isbn><![CDATA[0345537122]]></isbn>
+  <isbn13><![CDATA[9780345537126]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383580448l/16127235._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383580448l/16127235._SY75_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>Del Rey</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In the mid-23rd century, Darwin, Australia, stands as the last human city on Earth. The world has succumbed to an alien plague, with most of the population transformed into mindless, savage creatures. The planet’s refugees flock to Darwin, where a space elevator—created by the architects of this apocalypse, the Builders—emits a plague-suppressing aura.<br /><br />Skyler Luiken has a rare immunity to the plague. Backed by an international crew of fellow “immunes,” he leads missions into the dangerous wasteland beyond the aura’s edge to find the resources Darwin needs to stave off collapse. But when the Elevator starts to malfunction, Skyler is tapped—along with the brilliant scientist, Dr. Tania Sharma—to solve the mystery of the failing alien technology and save the ragged remnants of humanity.]]></description>
+  <work>
+  <id type="integer">21951477</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">16127235</best_book_id>
+  <reviews_count type="integer">11348</reviews_count>
+  <ratings_sum type="integer">16615</ratings_sum>
+  <ratings_count type="integer">4508</ratings_count>
+  <text_reviews_count type="integer">608</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">13</original_publication_day>
+  <original_title>The Darwin Elevator</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:866|4:1927|3:1257|2:348|1:110|total:4508</rating_dist>
+  <desc_user_id type="integer">45232006</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.NZpvKFeSlh3rMboy_udRVQ</work_uri>
+</work>
+  <average_rating>3.69</average_rating>
+  <num_pages><![CDATA[472]]></num_pages>
+  <format><![CDATA[Mass Market Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[3259]]></ratings_count>
+  <text_reviews_count><![CDATA[471]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16127235-the-darwin-elevator]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16127235-the-darwin-elevator]]></link>
+  <authors>
+<author>
+<id>6571700</id>
+<name>Jason M. Hough</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1352397849p5/6571700.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1352397849p2/6571700.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6571700.Jason_M_Hough]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>13902</ratings_count>
+<text_reviews_count>1774</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16127235-the-darwin-elevator">The Darwin Elevator Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0345537122&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16127235-the-darwin-elevator?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="science-fiction" count="322"/>
+      <shelf name="sci-fi" count="211"/>
+      <shelf name="currently-reading" count="204"/>
+      <shelf name="to-read" count="91"/>
+      <shelf name="post-apocalyptic" count="65"/>
+      <shelf name="scifi" count="61"/>
+      <shelf name="fiction" count="56"/>
+      <shelf name="dystopia" count="45"/>
+      <shelf name="dystopian" count="41"/>
+      <shelf name="owned" count="29"/>
+      <shelf name="aliens" count="28"/>
+      <shelf name="kindle" count="28"/>
+      <shelf name="ebook" count="24"/>
+      <shelf name="series" count="23"/>
+      <shelf name="sf" count="22"/>
+      <shelf name="netgalley" count="20"/>
+      <shelf name="library" count="19"/>
+      <shelf name="zombies" count="18"/>
+      <shelf name="first-reads" count="17"/>
+      <shelf name="apocalyptic" count="15"/>
+      <shelf name="sci-fi-fantasy" count="15"/>
+      <shelf name="maybe" count="15"/>
+      <shelf name="audiobook" count="14"/>
+      <shelf name="thriller" count="14"/>
+      <shelf name="audiobooks" count="13"/>
+      <shelf name="fantasy" count="13"/>
+      <shelf name="default" count="12"/>
+      <shelf name="favorites" count="11"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="read-in-2013" count="10"/>
+      <shelf name="adventure" count="9"/>
+      <shelf name="arc" count="9"/>
+      <shelf name="kindle-books" count="8"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="did-not-finish" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="apocalypse" count="8"/>
+      <shelf name="action-adventure" count="8"/>
+      <shelf name="australia" count="8"/>
+      <shelf name="dnf" count="8"/>
+      <shelf name="zombie" count="8"/>
+      <shelf name="post-apocalypse" count="7"/>
+      <shelf name="audio-book" count="7"/>
+      <shelf name="adult-fiction" count="7"/>
+      <shelf name="book-club" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="calibre" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="mystery" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="action" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="e-book" count="6"/>
+      <shelf name="nook" count="6"/>
+      <shelf name="first-in-series" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="suspense" count="6"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="didn-t-finish" count="5"/>
+      <shelf name="ebooks" count="5"/>
+      <shelf name="space-opera" count="5"/>
+      <shelf name="2013-read" count="5"/>
+      <shelf name="reviewed" count="5"/>
+      <shelf name="dire-earth-cycle" count="5"/>
+      <shelf name="space" count="5"/>
+      <shelf name="not-interested" count="4"/>
+      <shelf name="2014-read" count="4"/>
+      <shelf name="on-hold" count="4"/>
+      <shelf name="audible" count="4"/>
+      <shelf name="new-series" count="4"/>
+      <shelf name="unfinished" count="4"/>
+      <shelf name="to-read-fiction" count="4"/>
+      <shelf name="jason-m-hough" count="4"/>
+      <shelf name="science-fiction-fantasy" count="4"/>
+      <shelf name="to-get" count="4"/>
+      <shelf name="scifi-fantasy" count="4"/>
+      <shelf name="2013-reads" count="4"/>
+      <shelf name="own-kindle" count="4"/>
+      <shelf name="sub" count="3"/>
+      <shelf name="read-2016" count="3"/>
+      <shelf name="horror" count="3"/>
+      <shelf name="overdrive" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="audio-books" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="military-science-fiction" count="3"/>
+      <shelf name="sci-fi-and-fantasy" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="to-read-owned" count="3"/>
+      <shelf name="to-read-own" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="military" count="3"/>
+      <shelf name="owned-not-read" count="3"/>
+      <shelf name="gave-up-on" count="3"/>
+      <shelf name="lemmed" count="3"/>
+      <shelf name="priority" count="3"/>
+      <shelf name="on-my-kindle" count="3"/>
+      <shelf name="near-future" count="3"/>
+      <shelf name="2013-reading-challenge" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>438811</id>
+<user_position>1</user_position>
+<series>
+<id>91109</id>
+<title>
+<![CDATA[
+    Dire Earth Cycle
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>16073073</id>
+<title><![CDATA[The Daedalus Incident (Daedalus #1)]]></title>
+<title_without_series>The Daedalus Incident</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16073073-the-daedalus-incident]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390433415l/16073073._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390433415l/16073073._SX98_.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>21867311</id>
+</work>
+<isbn>159780472X</isbn>
+<isbn13>9781597804721</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>6550753</id>
+<name>Michael J.  Martinez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6550753.Michael_J_Martinez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12328193</id>
+<title>Seven Wonders</title>
+<title_without_series>Seven Wonders</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12328193-seven-wonders]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342509995l/12328193._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342509995l/12328193._SX98_.jpg]]></image_url>
+<num_pages>411</num_pages>
+<work>
+<id>17306930</id>
+</work>
+<isbn>0857661965</isbn>
+<isbn13>9780857661968</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>590743</id>
+<name>Adam Christopher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/590743.Adam_Christopher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>169246</id>
+<title><![CDATA[Trauma Junkie: Memoirs of an Emergency Flight Nurse]]></title>
+<title_without_series><![CDATA[Trauma Junkie: Memoirs of an Emergency Flight Nurse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/169246.Trauma_Junkie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>163440</id>
+</work>
+<isbn>1552095738</isbn>
+<isbn13>9781552095737</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>98643</id>
+<name>Janice Hudson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/98643.Janice_Hudson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23493695</id>
+<title>Lights and Sirens</title>
+<title_without_series>Lights and Sirens</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23493695-lights-and-sirens]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430782006l/23493695._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430782006l/23493695._SX98_.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>43083742</id>
+</work>
+<isbn>042527523X</isbn>
+<isbn13>9780425275238</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4672568</id>
+<name>Kevin Grange</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4672568.Kevin_Grange]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36286066</id>
+<title>Memory&apos;s Blade (Starfire, #3)</title>
+<title_without_series>Memory&apos;s Blade</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36286066-memory-s-blade]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507213920l/36286066._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507213920l/36286066._SX98_.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>57948551</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4489562</id>
+<name>Spencer Ellsworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4489562.Spencer_Ellsworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18693738</id>
+<title>Tomorrow and Tomorrow</title>
+<title_without_series>Tomorrow and Tomorrow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18693738-tomorrow-and-tomorrow]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385966611l/18693738._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385966611l/18693738._SX98_.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>26099817</id>
+</work>
+<isbn>0399167498</isbn>
+<isbn13>9780399167492</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6981174</id>
+<name>Tom Sweterlitsch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6981174.Tom_Sweterlitsch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18594516</id>
+<title>I Got the Rhythm</title>
+<title_without_series>I Got the Rhythm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18594516-i-got-the-rhythm]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386381075l/18594516._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386381075l/18594516._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>26340863</id>
+</work>
+<isbn>1619631784</isbn>
+<isbn13>9781619631786</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7890429</id>
+<name>Connie Schofield-Morrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7890429.Connie_Schofield_Morrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24234832</id>
+<title>Letter 44, Volume 2: Redshift</title>
+<title_without_series>Letter 44, Volume 2: Redshift</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24234832-letter-44-volume-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429562638l/24234832._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429562638l/24234832._SX98_.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>43820923</id>
+</work>
+<isbn>1620102064</isbn>
+<isbn13>9781620102060</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1641284</id>
+<name>Charles Soule</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1641284.Charles_Soule]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31363503</id>
+<title><![CDATA[Terminal Alliance (Janitors of the Post-Apocalypse, #1)]]></title>
+<title_without_series>Terminal Alliance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31363503-terminal-alliance]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490019719l/31363503._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490019719l/31363503._SX98_.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>52048046</id>
+</work>
+<isbn>0756412749</isbn>
+<isbn13>9780756412746</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2017</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>172490</id>
+<name>Jim C. Hines</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172490.Jim_C_Hines]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43198682</id>
+<title>Writing Her In</title>
+<title_without_series>Writing Her In</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43198682-writing-her-in]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553742164l/43198682._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553742164l/43198682._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>67030619</id>
+</work>
+<isbn>1335215743</isbn>
+<isbn13>9781335215741</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>5755229</id>
+<name>Holley Trent</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5755229.Holley_Trent]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35036384</id>
+<title><![CDATA[Batman Beyond, Volume 2: Rise of the Demon]]></title>
+<title_without_series><![CDATA[Batman Beyond, Volume 2: Rise of the Demon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35036384-batman-beyond-volume-2]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523993796l/35036384._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523993796l/35036384._SX98_.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>56321314</id>
+</work>
+<isbn>1401275222</isbn>
+<isbn13>9781401275228</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>2688</id>
+<name>Dan Jurgens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2688.Dan_Jurgens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38389489</id>
+<title><![CDATA[Don Cherry's Hockey Greats and More]]></title>
+<title_without_series><![CDATA[Don Cherry's Hockey Greats and More]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38389489-don-cherry-s-hockey-greats-and-more]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524481265l/38389489._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524481265l/38389489._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>60046738</id>
+</work>
+<isbn>038569184X</isbn>
+<isbn13>9780385691840</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2018</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>269170</id>
+<name>Don Cherry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/269170.Don_Cherry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>264225</id>
+<title><![CDATA[The Sunrise Lands (Emberverse, #4)]]></title>
+<title_without_series>The Sunrise Lands</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/264225.The_Sunrise_Lands]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>450</num_pages>
+<work>
+<id>2894220</id>
+</work>
+<isbn>0451461703</isbn>
+<isbn13>9780451461704</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>14002</id>
+<name>S.M. Stirling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14002.S_M_Stirling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107654</id>
+<title><![CDATA[Zen Attitude (Rei Shimura, #2)]]></title>
+<title_without_series>Zen Attitude</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107654.Zen_Attitude]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1281642</id>
+</work>
+<isbn>0060899212</isbn>
+<isbn13>9780060899219</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>62293</id>
+<name>Sujata Massey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/62293.Sujata_Massey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22571489</id>
+<title><![CDATA[Team Dog: How to Train Your Dog--The Navy Seal Way]]></title>
+<title_without_series><![CDATA[Team Dog: How to Train Your Dog--The Navy Seal Way]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22571489-team-dog]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417981013l/22571489._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417981013l/22571489._SX98_.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>42037990</id>
+</work>
+<isbn>0399170758</isbn>
+<isbn13>9780399170751</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>7116298</id>
+<name>Mike Ritland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7116298.Mike_Ritland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6848857</id>
+<title><![CDATA[Hockey Dad: True Confessions of a (Crazy?) Hockey Parent]]></title>
+<title_without_series><![CDATA[Hockey Dad: True Confessions of a (Crazy?) Hockey Parent]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6848857-hockey-dad]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>7061300</id>
+</work>
+<isbn>0470159391</isbn>
+<isbn13>9780470159392</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1277657</id>
+<name>Bob McKenzie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1277657.Bob_McKenzie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>599521</id>
+<title>Remembering Guy Lafleur</title>
+<title_without_series>Remembering Guy Lafleur</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/599521.Remembering_Guy_Lafleur]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>586142</id>
+</work>
+<isbn>1551927012</isbn>
+<isbn13>9781551927015</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>256168</id>
+<name>Craig MacInnis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/256168.Craig_MacInnis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1670629</id>
+<title><![CDATA[Overtime: The Legend Of Guy Lafleur]]></title>
+<title_without_series><![CDATA[Overtime: The Legend Of Guy Lafleur]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1670629.Overtime]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361023601l/1670629._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361023601l/1670629._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1665593</id>
+</work>
+<isbn>0670831204</isbn>
+<isbn13>9780670831203</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>4508</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>386680</id>
+<name>Georges-Hébert Germain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/386680.Georges_H_bert_Germain]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

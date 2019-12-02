@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>16101018</id>
+  <title>The Day the Crayons Quit</title>
+  <isbn><![CDATA[0399255370]]></isbn>
+  <isbn13><![CDATA[9780399255373]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425766l/16101018._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Philomel Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Poor Duncan just wants to color. But when he opens his box of crayons, he finds only letters, all saying the same thing: We quit!<br /><br />Beige is tired of playing second fiddle to Brown. Blue needs a break from coloring all that water, while Pink just wants to be used. Green has no complaints, but Orange and Yellow are no longer speaking to each other. <br /><br />What is Duncan to do? Debut author Drew Daywalt and <i>New York Times</i> bestseller Oliver Jeffers create a colorful solution in this playful, imaginative story that will have children laughing and playing with their crayons in a whole new way.]]></description>
+  <work>
+  <id type="integer">21911319</id>
+  <books_count type="integer">44</books_count>
+  <best_book_id type="integer">16101018</best_book_id>
+  <reviews_count type="integer">67569</reviews_count>
+  <ratings_sum type="integer">174580</ratings_sum>
+  <ratings_count type="integer">39446</ratings_count>
+  <text_reviews_count type="integer">4170</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>The Day the Crayons Quit</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:24274|4:9985|3:3559|2:965|1:663|total:39446</rating_dist>
+  <desc_user_id type="integer">5008685</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.2Ldgrr-JVB-JSbAPGlagXg</work_uri>
+</work>
+  <average_rating>4.43</average_rating>
+  <num_pages><![CDATA[30]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[37766]]></ratings_count>
+  <text_reviews_count><![CDATA[3987]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit]]></link>
+  <authors>
+<author>
+<id>6561846</id>
+<name>Drew Daywalt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1436296531p5/6561846.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1436296531p2/6561846.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6561846.Drew_Daywalt]]></link>
+<average_rating>4.39</average_rating>
+<ratings_count>58802</ratings_count>
+<text_reviews_count>7366</text_reviews_count>
+</author>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1458057207p5/173545.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1458057207p2/173545.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>122711</ratings_count>
+<text_reviews_count>14880</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit">The Day the Crayons Quit Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399255370&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/16101018-the-day-the-crayons-quit?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="22505"/>
+      <shelf name="picture-books" count="2001"/>
+      <shelf name="childrens" count="623"/>
+      <shelf name="children-s-books" count="544"/>
+      <shelf name="picture-book" count="523"/>
+      <shelf name="children" count="414"/>
+      <shelf name="children-s" count="366"/>
+      <shelf name="currently-reading" count="351"/>
+      <shelf name="kids" count="350"/>
+      <shelf name="favorites" count="275"/>
+      <shelf name="childrens-books" count="247"/>
+      <shelf name="humor" count="244"/>
+      <shelf name="kids-books" count="210"/>
+      <shelf name="fiction" count="210"/>
+      <shelf name="colors" count="175"/>
+      <shelf name="art" count="149"/>
+      <shelf name="children-s-literature" count="145"/>
+      <shelf name="children-s-lit" count="122"/>
+      <shelf name="fantasy" count="96"/>
+      <shelf name="funny" count="76"/>
+      <shelf name="children-books" count="74"/>
+      <shelf name="picturebooks" count="74"/>
+      <shelf name="storytime" count="64"/>
+      <shelf name="library" count="61"/>
+      <shelf name="read-aloud" count="61"/>
+      <shelf name="children-s-picture-books" count="55"/>
+      <shelf name="picture" count="53"/>
+      <shelf name="owned" count="52"/>
+      <shelf name="books-i-own" count="48"/>
+      <shelf name="childrens-lit" count="48"/>
+      <shelf name="elementary" count="46"/>
+      <shelf name="creativity" count="46"/>
+      <shelf name="crayons" count="43"/>
+      <shelf name="humour" count="42"/>
+      <shelf name="childrens-picture-books" count="42"/>
+      <shelf name="imagination" count="41"/>
+      <shelf name="read-alouds" count="41"/>
+      <shelf name="ks1" count="40"/>
+      <shelf name="kid-books" count="38"/>
+      <shelf name="preschool" count="38"/>
+      <shelf name="school" count="36"/>
+      <shelf name="read-in-2013" count="36"/>
+      <shelf name="read-in-2015" count="32"/>
+      <shelf name="juvenile" count="31"/>
+      <shelf name="to-buy" count="30"/>
+      <shelf name="kid-lit" count="30"/>
+      <shelf name="edrd-314" count="29"/>
+      <shelf name="childrens-literature" count="29"/>
+      <shelf name="humorous" count="29"/>
+      <shelf name="favorite-picture-books" count="29"/>
+      <shelf name="read-in-2014" count="28"/>
+      <shelf name="kiddos" count="28"/>
+      <shelf name="classroom-library" count="27"/>
+      <shelf name="letters" count="26"/>
+      <shelf name="kindergarten" count="26"/>
+      <shelf name="favourites" count="25"/>
+      <shelf name="fantasy-4" count="24"/>
+      <shelf name="classroom" count="24"/>
+      <shelf name="story-time" count="24"/>
+      <shelf name="for-the-kids" count="24"/>
+      <shelf name="classroom-books" count="23"/>
+      <shelf name="teaching" count="23"/>
+      <shelf name="children-s-book" count="23"/>
+      <shelf name="for-kids" count="23"/>
+      <shelf name="friendship" count="23"/>
+      <shelf name="illustrated" count="22"/>
+      <shelf name="writing" count="22"/>
+      <shelf name="point-of-view" count="22"/>
+      <shelf name="default" count="21"/>
+      <shelf name="kid-s-books" count="20"/>
+      <shelf name="childhood" count="20"/>
+      <shelf name="children-s-fiction" count="20"/>
+      <shelf name="library-book" count="19"/>
+      <shelf name="kids-picture-books" count="19"/>
+      <shelf name="children-picture-books" count="18"/>
+      <shelf name="own-it" count="18"/>
+      <shelf name="epistolary" count="18"/>
+      <shelf name="picture-books-read" count="18"/>
+      <shelf name="borrowed" count="18"/>
+      <shelf name="read-in-2016" count="17"/>
+      <shelf name="owned-books" count="17"/>
+      <shelf name="school-books" count="17"/>
+      <shelf name="library-books" count="17"/>
+      <shelf name="personification" count="17"/>
+      <shelf name="storytime-books" count="17"/>
+      <shelf name="read-in-2017" count="16"/>
+      <shelf name="adventure" count="16"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="award-winners" count="16"/>
+      <shelf name="read-in-2019" count="15"/>
+      <shelf name="free-choice-5" count="15"/>
+      <shelf name="modern-fantasy" count="15"/>
+      <shelf name="oliver-jeffers" count="15"/>
+      <shelf name="read-2014" count="15"/>
+      <shelf name="books-for-kids" count="15"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="reviewed" count="15"/>
+      <shelf name="kids-lit" count="15"/>
+      <shelf name="read-2013" count="15"/>
+      <shelf name="mentor-texts" count="15"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>751057</id>
+<user_position></user_position>
+<series>
+<id>149056</id>
+<title>
+<![CDATA[
+    Crayons
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>9</series_works_count>
+<primary_work_count>9</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>191113</id>
+<title><![CDATA[Don't Let the Pigeon Drive the Bus!]]></title>
+<title_without_series><![CDATA[Don't Let the Pigeon Drive the Bus!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/191113.Don_t_Let_the_Pigeon_Drive_the_Bus_]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328495575l/191113._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328495575l/191113._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>884960</id>
+</work>
+<isbn>1844280136</isbn>
+<isbn13>9781844280131</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17846011</id>
+<title>The Pigeon Needs a Bath!</title>
+<title_without_series>The Pigeon Needs a Bath!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17846011-the-pigeon-needs-a-bath]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386579093l/17846011._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386579093l/17846011._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>24976916</id>
+</work>
+<isbn>1423190874</isbn>
+<isbn13>9781423190875</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11211540</id>
+<title>Stuck</title>
+<title_without_series>Stuck</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11211540-stuck]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>16136950</id>
+</work>
+<isbn>0399257373</isbn>
+<isbn13>9780399257377</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2604884</id>
+<title>Jim and the Beanstalk</title>
+<title_without_series>Jim and the Beanstalk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2604884-jim-and-the-beanstalk]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2629530</id>
+</work>
+<isbn>069820641X</isbn>
+<isbn13>9780698206410</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>5</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>77098</id>
+<name>Raymond Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77098.Raymond_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13337050</id>
+<title>Dragons Love Tacos</title>
+<title_without_series>Dragons Love Tacos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13337050-dragons-love-tacos]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326100121l/13337050._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326100121l/13337050._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>18545277</id>
+</work>
+<isbn>0803736800</isbn>
+<isbn13>9780803736801</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>132184</id>
+<name>Adam Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/132184.Adam_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>671427</id>
+<title><![CDATA[That Rabbit Belongs to Emily Brown]]></title>
+<title_without_series><![CDATA[That Rabbit Belongs to Emily Brown]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/671427.That_Rabbit_Belongs_to_Emily_Brown]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>529935</id>
+</work>
+<isbn>1423106458</isbn>
+<isbn13>9781423106456</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>23894</id>
+<name>Cressida Cowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23894.Cressida_Cowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7096916</id>
+<title>The Heart and the Bottle</title>
+<title_without_series>The Heart and the Bottle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7096916-the-heart-and-the-bottle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>7354175</id>
+</work>
+<isbn>0399254528</isbn>
+<isbn13>9780399254529</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>301141</id>
+<title>Lost and Found (The Boy, #2)</title>
+<title_without_series>Lost and Found</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/301141.Lost_and_Found]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309285365l/301141._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309285365l/301141._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1410555</id>
+</work>
+<isbn>0399245030</isbn>
+<isbn13>9780399245039</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8582833</id>
+<title>Mr Big</title>
+<title_without_series>Mr Big</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8582833-mr-big]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>13452064</id>
+</work>
+<isbn>0141500603</isbn>
+<isbn13>9780141500607</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>703010</id>
+<name>Ed Vere</name>
+<link><![CDATA[https://www.goodreads.com/author/show/703010.Ed_Vere]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20821299</id>
+<title>The Book with No Pictures</title>
+<title_without_series>The Book with No Pictures</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20821299-the-book-with-no-pictures]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400873472l/20821299._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400873472l/20821299._SX98_.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>40167157</id>
+</work>
+<isbn>0803741715</isbn>
+<isbn13>9780803741713</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7115158</id>
+<name>B.J. Novak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7115158.B_J_Novak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16285053</id>
+<title>That Is Not a Good Idea!</title>
+<title_without_series>That Is Not a Good Idea!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16285053-that-is-not-a-good-idea]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355994101l/16285053._SX98_.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>22400269</id>
+</work>
+<isbn>0062203096</isbn>
+<isbn13>9780062203090</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11233988</id>
+<title>I Want My Hat Back</title>
+<title_without_series>I Want My Hat Back</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11233988-i-want-my-hat-back]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888784l/11233988._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888784l/11233988._SX98_.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16160067</id>
+</work>
+<isbn>0763655988</isbn>
+<isbn13>9780763655983</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3118934</id>
+<name>Jon Klassen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118934.Jon_Klassen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>819910</id>
+<title><![CDATA[The Incredible Book Eating Boy]]></title>
+<title_without_series><![CDATA[The Incredible Book Eating Boy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/819910.The_Incredible_Book_Eating_Boy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>520982</id>
+</work>
+<isbn>0399247491</isbn>
+<isbn13>9780399247491</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>660100</id>
+<title>that pesky rat</title>
+<title_without_series>that pesky rat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/660100.that_pesky_rat]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408940224l/660100._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408940224l/660100._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1715081</id>
+</work>
+<isbn>1841212768</isbn>
+<isbn13>9781841212760</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42016</id>
+<name>Lauren Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42016.Lauren_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>716944</id>
+<title>Owl Babies</title>
+<title_without_series>Owl Babies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/716944.Owl_Babies]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408930554l/716944._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408930554l/716944._SX98_.jpg]]></image_url>
+<num_pages>25</num_pages>
+<work>
+<id>2961469</id>
+</work>
+<isbn>0744592704</isbn>
+<isbn13>9780744592702</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>36722</id>
+<name>Martin Waddell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36722.Martin_Waddell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>766020</id>
+<title>The Rainbow Fish</title>
+<title_without_series>The Rainbow Fish</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/766020.The_Rainbow_Fish]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328755881l/766020._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328755881l/766020._SX98_.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>56647</id>
+</work>
+<isbn>1558580093</isbn>
+<isbn13>9781558580091</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7518</id>
+<name>Marcus Pfister</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7518.Marcus_Pfister]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13595647</id>
+<title>This Moose Belongs to Me</title>
+<title_without_series>This Moose Belongs to Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13595647-this-moose-belongs-to-me]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356643086l/13595647._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356643086l/13595647._SX98_.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>19184212</id>
+</work>
+<isbn>0399161031</isbn>
+<isbn13>9780399161032</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>474858</id>
+<title>A Bad Case of Stripes</title>
+<title_without_series>A Bad Case of Stripes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/474858.A_Bad_Case_of_Stripes]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867924l/474858._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867924l/474858._SX98_.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>177766</id>
+</work>
+<isbn>0439598389</isbn>
+<isbn13>9780439598385</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>39446</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

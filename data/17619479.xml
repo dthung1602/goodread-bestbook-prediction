@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[Bmmge196qTJN0tHxh2qRKQ]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17619479</id>
+  <title>Terms of Enlistment</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00BUQWVDC]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[VN]]></country_code>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365637085l/17619479._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365637085l/17619479._SX50_.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>14</publication_day>
+  <publisher>Frostbite Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[The year is 2108, and the North American Commonwealth is bursting at the seams. For welfare rats like Andrew Grayson, there are only two ways out of the crime-ridden and filthy welfare tenements, where you're restricted to 2,000 calories of badly flavored soy every day. You can hope to win the lottery and draw a ticket on a colony ship settling off-world, or you can join the service.<br /><br />Andrew chooses to enlist in the armed forces of the North American Commonwealth, for a shot at real food, a retirement bonus, and maybe a ticket off Earth. But as he starts a career of supposed privilege, he soon learns that the good food and decent health care come at a steep price…and that the settled galaxy holds far greater dangers than military bureaucrats or angry welfare rats with guns.]]></description>
+  <work>
+  <id type="integer">24585130</id>
+  <books_count type="integer">22</books_count>
+  <best_book_id type="integer">18800655</best_book_id>
+  <reviews_count type="integer">38411</reviews_count>
+  <ratings_sum type="integer">85172</ratings_sum>
+  <ratings_count type="integer">21315</ratings_count>
+  <text_reviews_count type="integer">1365</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">14</original_publication_day>
+  <original_title>Terms of Enlistment</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6625|4:9261|3:4376|2:822|1:231|total:21315</rating_dist>
+  <desc_user_id type="integer">8000491</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <work_uri>kca://work/amzn1.gr.work.v1.tjfKCmHuZWiP1KBbmmW3WA</work_uri>
+</work>
+  <average_rating>4.00</average_rating>
+  <num_pages><![CDATA[282]]></num_pages>
+  <format><![CDATA[Kindle Edition]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[1863]]></ratings_count>
+  <text_reviews_count><![CDATA[150]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17619479-terms-of-enlistment]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17619479-terms-of-enlistment]]></link>
+  <authors>
+<author>
+<id>6606349</id>
+<name>Marko Kloos</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1565448645p5/6606349.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1565448645p2/6606349.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6606349.Marko_Kloos]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>77097</ratings_count>
+<text_reviews_count>4188</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17619479-terms-of-enlistment">Terms of Enlistment Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00BUQWVDC&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow noopener noreferrer" href="https://www.goodreads.com/book/show/17619479-terms-of-enlistment?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11142"/>
+      <shelf name="currently-reading" count="1783"/>
+      <shelf name="science-fiction" count="549"/>
+      <shelf name="sci-fi" count="517"/>
+      <shelf name="scifi" count="134"/>
+      <shelf name="military" count="120"/>
+      <shelf name="fiction" count="113"/>
+      <shelf name="kindle" count="86"/>
+      <shelf name="space-opera" count="72"/>
+      <shelf name="military-sci-fi" count="66"/>
+      <shelf name="owned" count="56"/>
+      <shelf name="sf" count="52"/>
+      <shelf name="military-science-fiction" count="52"/>
+      <shelf name="audible" count="51"/>
+      <shelf name="favorites" count="51"/>
+      <shelf name="audiobook" count="50"/>
+      <shelf name="kindle-unlimited" count="43"/>
+      <shelf name="audiobooks" count="40"/>
+      <shelf name="ebook" count="40"/>
+      <shelf name="series" count="34"/>
+      <shelf name="war" count="34"/>
+      <shelf name="military-sf" count="33"/>
+      <shelf name="audio" count="31"/>
+      <shelf name="space" count="29"/>
+      <shelf name="military-scifi" count="28"/>
+      <shelf name="dystopian" count="23"/>
+      <shelf name="sci-fi-fantasy" count="22"/>
+      <shelf name="ebooks" count="22"/>
+      <shelf name="frontlines" count="21"/>
+      <shelf name="dystopia" count="21"/>
+      <shelf name="aliens" count="20"/>
+      <shelf name="audio-books" count="17"/>
+      <shelf name="scifi-fantasy" count="16"/>
+      <shelf name="action" count="15"/>
+      <shelf name="adventure" count="13"/>
+      <shelf name="military-fiction" count="13"/>
+      <shelf name="science-fiction-fantasy" count="13"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="library" count="11"/>
+      <shelf name="audio-book" count="10"/>
+      <shelf name="marko-kloos" count="10"/>
+      <shelf name="e-books" count="10"/>
+      <shelf name="abandoned" count="9"/>
+      <shelf name="fantasy" count="9"/>
+      <shelf name="to-read-sci-fi" count="9"/>
+      <shelf name="e-book" count="9"/>
+      <shelf name="read-2016" count="8"/>
+      <shelf name="sff" count="8"/>
+      <shelf name="science-fiction-military" count="8"/>
+      <shelf name="sci-fi-military" count="8"/>
+      <shelf name="dnf" count="8"/>
+      <shelf name="first-in-series" count="8"/>
+      <shelf name="novels" count="8"/>
+      <shelf name="to-read-fiction" count="8"/>
+      <shelf name="to-get" count="8"/>
+      <shelf name="sciencefiction" count="8"/>
+      <shelf name="did-not-finish" count="8"/>
+      <shelf name="sci-fi-and-fantasy" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="default" count="7"/>
+      <shelf name="sf-f" count="6"/>
+      <shelf name="purchased" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="kindle-books" count="6"/>
+      <shelf name="read-2018" count="5"/>
+      <shelf name="sci-fi-to-read" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="new-series" count="5"/>
+      <shelf name="storybundle" count="5"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="amazon" count="5"/>
+      <shelf name="read-2015" count="5"/>
+      <shelf name="owned-ebook" count="5"/>
+      <shelf name="adult" count="5"/>
+      <shelf name="recommended" count="5"/>
+      <shelf name="fantasy-scifi" count="5"/>
+      <shelf name="to-read-scifi" count="5"/>
+      <shelf name="calibre" count="5"/>
+      <shelf name="favorite" count="5"/>
+      <shelf name="want" count="5"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="unfinished" count="5"/>
+      <shelf name="fantasy-sci-fi" count="5"/>
+      <shelf name="read-in-2019" count="4"/>
+      <shelf name="novel" count="4"/>
+      <shelf name="genre-science-fiction" count="4"/>
+      <shelf name="science" count="4"/>
+      <shelf name="alien-invasion" count="4"/>
+      <shelf name="thriller" count="4"/>
+      <shelf name="kindleunlimited" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="male-author" count="4"/>
+      <shelf name="finished" count="4"/>
+      <shelf name="scifi-military" count="4"/>
+      <shelf name="speculative-fiction" count="4"/>
+      <shelf name="listened-to" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Walmart eBooks</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple Books</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>615359</id>
+<user_position>1</user_position>
+<series>
+<id>125903</id>
+<title>
+<![CDATA[
+    Frontlines
+]]>
+</title>
+<description>
+<![CDATA[
+    Also known as:
+    Alien Wars
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>17280233</id>
+<title><![CDATA[Poor Man's Fight (Poor Man's Fight, #1)]]></title>
+<title_without_series>Poor Man&apos;s Fight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17280233-poor-man-s-fight]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358929657l/17280233._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358929657l/17280233._SX98_.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>23895563</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>4961671</id>
+<name>Elliott Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4961671.Elliott_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18889230</id>
+<title>Odyssey One (Odyssey One, #1)</title>
+<title_without_series>Odyssey One</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18889230-odyssey-one]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>16237035</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13645835</id>
+<title><![CDATA[The Heart of Matter (Odyssey One, #2)]]></title>
+<title_without_series>The Heart of Matter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13645835-the-heart-of-matter]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346990708l/13645835._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346990708l/13645835._SX98_.jpg]]></image_url>
+<num_pages>629</num_pages>
+<work>
+<id>19263129</id>
+</work>
+<isbn>1612182356</isbn>
+<isbn13>9781612182353</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18318651</id>
+<title><![CDATA[To Honor You Call Us (Man of War, #1)]]></title>
+<title_without_series>To Honor You Call Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18318651-to-honor-you-call-us]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384712533l/18318651._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384712533l/18318651._SX98_.jpg]]></image_url>
+<num_pages>454</num_pages>
+<work>
+<id>26889831</id>
+</work>
+<isbn>1477848894</isbn>
+<isbn13>9781477848890</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>5370827</id>
+<name>H. Paul Honsinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5370827.H_Paul_Honsinger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46382861</id>
+<title><![CDATA[Armageddon (Expeditionary Force, #8)]]></title>
+<title_without_series>Armageddon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46382861-armageddon]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561170517l/46382861._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561170517l/46382861._SX98_.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>71415158</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>14851776</id>
+<name>Craig Alanson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14851776.Craig_Alanson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18692689</id>
+<title><![CDATA[Out of the Black (Odyssey One, #4)]]></title>
+<title_without_series>Out of the Black</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18692689-out-of-the-black]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405288872l/18692689._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405288872l/18692689._SX98_.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>26540819</id>
+</work>
+<isbn>1477817875</isbn>
+<isbn13>9781477817872</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18600590</id>
+<title><![CDATA[Steel World (Undying Mercenaries, #1)]]></title>
+<title_without_series>Steel World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18600590-steel-world]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380573738l/18600590._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380573738l/18600590._SX98_.jpg]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>26370353</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>4087274</id>
+<name>B.V. Larson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4087274.B_V_Larson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18043147</id>
+<title>Homeworld (Odyssey One, #3)</title>
+<title_without_series>Homeworld</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18043147-homeworld]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370523301l/18043147._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370523301l/18043147._SX98_.jpg]]></image_url>
+<num_pages>507</num_pages>
+<work>
+<id>25319833</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28187442</id>
+<title><![CDATA[Warrior King (Odyssey One, #5)]]></title>
+<title_without_series>Warrior King</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28187442-warrior-king]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457608266l/28187442._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457608266l/28187442._SX98_.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>48209439</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18476108</id>
+<title><![CDATA[For Honor We Stand (Man of War, #2)]]></title>
+<title_without_series>For Honor We Stand</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18476108-for-honor-we-stand]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388375267l/18476108._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388375267l/18476108._SX98_.jpg]]></image_url>
+<num_pages>492</num_pages>
+<work>
+<id>24247059</id>
+</work>
+<isbn>1477849483</isbn>
+<isbn13>9781477849484</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>5370827</id>
+<name>H. Paul Honsinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5370827.H_Paul_Honsinger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43806072</id>
+<title>Archangel One</title>
+<title_without_series>Archangel One</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43806072-archangel-one]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554334044l/43806072._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554334044l/43806072._SX98_.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>68162514</id>
+</work>
+<isbn>1542004861</isbn>
+<isbn13>9781542004862</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2019</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36284236</id>
+<title>Genesis (First Colony, #1)</title>
+<title_without_series>Genesis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36284236-genesis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57946223</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7389638</id>
+<name>Ken Lozito</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7389638.Ken_Lozito]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24292492</id>
+<title><![CDATA[Warship (Black Fleet Trilogy, #1)]]></title>
+<title_without_series>Warship</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24292492-warship]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>43872999</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6953444</id>
+<name>Joshua Dalzelle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6953444.Joshua_Dalzelle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22797654</id>
+<title><![CDATA[Rich Man's War (Poor Man's Fight, #2)]]></title>
+<title_without_series>Rich Man&apos;s War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22797654-rich-man-s-war]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42345709</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4961671</id>
+<name>Elliott Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4961671.Elliott_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36662775</id>
+<title><![CDATA[Odysseus Ascendant (Odyssey One #7)]]></title>
+<title_without_series>Odysseus Ascendant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36662775-odysseus-ascendant]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522702062l/36662775._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522702062l/36662775._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>58442046</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35484277</id>
+<title><![CDATA[Odysseus Awakening (Odyssey One, #6)]]></title>
+<title_without_series>Odysseus Awakening</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35484277-odysseus-awakening]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502283267l/35484277._SX50_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502283267l/35484277._SX98_.jpg]]></image_url>
+<num_pages>318</num_pages>
+<work>
+<id>56881661</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15153514</id>
+<name>Evan Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15153514.Evan_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28525188</id>
+<title><![CDATA[Columbus Day (Expeditionary Force, #1)]]></title>
+<title_without_series>Columbus Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28525188-columbus-day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>48683561</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14851776</id>
+<name>Craig Alanson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14851776.Craig_Alanson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21816259</id>
+<title><![CDATA[Brothers in Valor (Man of War, #3)]]></title>
+<title_without_series>Brothers in Valor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21816259-brothers-in-valor]]></link>
+<small_image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423371859l/21816259._SY75_.jpg]]></small_image_url>
+<image_url><![CDATA[https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423371859l/21816259._SX98_.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>41084077</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21315</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>5370827</id>
+<name>H. Paul Honsinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5370827.H_Paul_Honsinger]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
