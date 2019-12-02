@@ -110,7 +110,7 @@ class Book:
             ratings_counts.append(float(author.findtext('ratings_count')))
         book_data.append(str(sum(x * y for x, y in zip(average_ratings, ratings_counts)) / sum(ratings_counts)))
 
-        for shelf in shelves:
+        for shelf in shelves[:10]:
             name = shelf.attrib['name']
             count = shelf.attrib['count']
             shelves_data[name] = count
