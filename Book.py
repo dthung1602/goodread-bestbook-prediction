@@ -30,7 +30,7 @@ class Book:
                 'books_count',
                 'reviews_count',
                 'ratings_sum',
-                'ratings_count',
+                'work_ratings_count',
                 'text_reviews_count',
                 'original_publication_date',
                 'rate_1_star',
@@ -40,12 +40,11 @@ class Book:
                 'rate_5_star',
                 'average_rating',
                 'num_pages',
-                'ratings_count',
+                'book_ratings_count',
                 'text_reviews_count',
                 'authors_count',
-                'authors_average_rating'
-                'shelves_count',
-            ] + ['shelf_' + n for n in cls.shelves_names]
+                'authors_average_rating',
+            ] + ['shelf_' + n.replace("-", "_") for n in cls.shelves_names]
         )
 
     shelves_names = []
@@ -97,7 +96,7 @@ class Book:
         for author in book.find('authors'):
             average_ratings.append(float(author.findtext('average_rating')))
             ratings_counts.append(float(author.findtext('ratings_count')))
-        book_data.append(str(sum(x*y for x, y in zip(average_ratings, ratings_counts))/sum(ratings_counts)))
+        book_data.append(str(sum(x * y for x, y in zip(average_ratings, ratings_counts)) / sum(ratings_counts)))
 
         for shelf in shelves:
             name = shelf.attrib['name']

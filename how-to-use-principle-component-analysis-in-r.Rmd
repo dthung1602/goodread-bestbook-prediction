@@ -37,7 +37,7 @@ http://stats.stackexchange.com/a/140579
 # 1. Load the data
 Let's take the set of students that study portugese, because it's bigger. 
 ```{r}
-ds=read.table("tmp5.csv",sep=",",header=TRUE)
+ds=read.table("tmp5.csv", sep=",", quote="\"", comment.char = "", header=TRUE)
 ```
 
 # 2. Take a look at the structure
@@ -48,20 +48,8 @@ str(ds)
 We can see lot's of numerical variables, which is good and a couple of categorial ones, which need to be transformed into numerical ones later on. Good news is that the categorical variables have only few levels, so we do not need to care to much about creating too many flag variables.
 
 ```{r}
-ds <- transform(ds, Ngữ.văn = as.numeric(Ngữ.văn), 
-                    Vật.lí = as.numeric(Vật.lí),
-                    Hóa.học = as.numeric(Hóa.học),
-                    Sinh.học = as.numeric(Sinh.học),
-                    KHTN = as.numeric(KHTN),
-                    Lịch.sử  = as.numeric(Lịch.sử ),
-                    Địa.lí = as.numeric(Địa.lí),
-                    GDCD = as.numeric(GDCD),
-                    KHXH = as.numeric(KHXH),
-                    Tiếng.Anh = as.numeric(Tiếng.Anh))
-```
-```{r}
 cor_tds <- cor(ds, ds, method = "pearson")
-cor_df<- data.frame(cor=cor_tds[1:10,11], varn = names(cor_tds[1:10,11])) 
+cor_df<- data.frame(cor=cor_tds[1:10,11], varn=names(cor_tds[1:10,1])) 
 cor_df<- cor_df%>%mutate(cor_abs = abs(cor)) %>% arrange(desc(cor_abs))
 plot(cor_df$cor_abs, type="l")
 ```
