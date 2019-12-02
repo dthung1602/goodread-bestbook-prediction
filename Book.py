@@ -1,11 +1,15 @@
 import csv
 import xml.etree.ElementTree as ET
+from datetime import date
 
 
 def get_date(node, date_name, default_year):
-    return (node.findtext(date_name + '_year') or str(default_year)) \
-           + "-" + (node.findtext(date_name + '_month') or "01") \
-           + "-" + (node.findtext(date_name + '_day') or "01")
+    return (date(default_year, 12, 10)
+            - date(
+                int(node.findtext(date_name + '_year') or default_year),
+                int(node.findtext(date_name + '_month') or 1),
+                int(node.findtext(date_name + '_day') or 1))
+            ).days
 
 
 class Book:
