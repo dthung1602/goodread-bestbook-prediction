@@ -44,7 +44,8 @@ class Book:
                 'text_reviews_count',
                 'authors_count',
                 'authors_average_rating',
-            ] + ['shelf_' + n.replace("-", "_") for n in cls.shelves_names]
+            ]
+            # + ['shelf_' + n.replace("-", "_") for n in cls.shelves_names]
         )
 
     shelves_names = []
@@ -98,12 +99,12 @@ class Book:
             ratings_counts.append(float(author.findtext('ratings_count')))
         book_data.append(str(sum(x * y for x, y in zip(average_ratings, ratings_counts)) / sum(ratings_counts)))
 
-        for shelf in shelves:
-            name = shelf.attrib['name']
-            count = shelf.attrib['count']
-            shelves_data[name] = count
-            if name not in Book.shelves_names:
-                Book.shelves_names.append(name)
+        # for shelf in shelves:
+        #     name = shelf.attrib['name']
+        #     count = shelf.attrib['count']
+        #     shelves_data[name] = count
+        #     if name not in Book.shelves_names:
+        #         Book.shelves_names.append(name)
 
     def write_to_csv(self, csv_writer):
         data = [
