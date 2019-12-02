@@ -1,11 +1,15 @@
 import csv
 import xml.etree.ElementTree as ET
+from datetime import date
 
 
 def get_date(node, date_name, default_year):
-    return (node.findtext(date_name + '_year') or str(default_year)) \
-           + "-" + (node.findtext(date_name + '_month') or "01") \
-           + "-" + (node.findtext(date_name + '_day') or "01")
+    return (date(default_year, 12, 10)
+            - date(
+                int(node.findtext(date_name + '_year') or default_year),
+                int(node.findtext(date_name + '_month') or 1),
+                int(node.findtext(date_name + '_day') or 1))
+            ).days
 
 
 class Book:
@@ -35,10 +39,15 @@ class Book:
                 'text_reviews_count',
                 'original_publication_date',
                 'rate_1_star',
+                'rate_1_proportion',
                 'rate_2_star',
+                'rate_2_proportion',
                 'rate_3_star',
+                'rate_3_proportion',
                 'rate_4_star',
+                'rate_4_proportion',
                 'rate_5_star',
+                'rate_5_proportion',
                 'average_rating',
                 'num_pages',
                 'book_ratings_count',
@@ -46,7 +55,7 @@ class Book:
                 'authors_count',
                 'authors_average_rating',
             ]
-            + ['shelf_' + n.replace("-", "_") for n in cls.shelves_names]
+            # + ['shelf_' + n.replace("-", "_") for n in cls.shelves_names]
         )
 
     shelves_names = []
@@ -91,8 +100,10 @@ class Book:
         book_data.append(work.findtext('text_reviews_count'))
         book_data.append(get_date(work, 'original_publication', year))
 
-        for rating_dist in work.findtext('rating_dist').split('|')[:5]:
-            book_data.append(rating_dist[2:])
+        rating_dist = work.findtext('rating_dist').split('|')
+        for rating in rating_dist[:5]:
+            book_data.append(rating[2:])
+            book_data.append(str(int(rating[2:])/int(rating_dist[5][6:])))
 
         book_data.append(book.findtext('average_rating'))
         book_data.append(self.missing_page.get(book_id, book.findtext('num_pages')))
@@ -123,7 +134,7 @@ class Book:
             self.debut, self.debut_vote, self.debut_rank,
         ]
         data += self.book_data
-        for sh in Book.shelves_names:
-            data.append(self.shelves_data.get(sh, 0))
+        # for sh in Book.shelves_names:
+        #   data.append(self.shelves_data.get(sh, 0))
 
         csv_writer.writerow(data)
