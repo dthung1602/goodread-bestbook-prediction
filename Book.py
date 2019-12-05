@@ -103,7 +103,7 @@ class Book:
         rating_dist = work.findtext('rating_dist').split('|')
         for rating in rating_dist[:5]:
             book_data.append(rating[2:])
-            book_data.append(str(int(rating[2:])/int(rating_dist[5][6:])))
+            book_data.append(str(int(rating[2:]) / int(rating_dist[5][6:])))
 
         book_data.append(book.findtext('average_rating'))
         book_data.append(self.missing_page.get(book_id, book.findtext('num_pages')))
@@ -135,6 +135,6 @@ class Book:
         ]
         data += self.book_data
         # for sh in Book.shelves_names:
-        #   data.append(self.shelves_data.get(sh, 0))
+        #     data.append(self.shelves_data.get(sh, 0))
 
         csv_writer.writerow(data)
