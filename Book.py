@@ -27,9 +27,6 @@ class Book:
                 'genre',
                 'vote',
                 'rank',
-                'debut',
-                'debut_vote',
-                'debut_rank',
                 'title',
                 'publication_date',
                 'books_count',
@@ -70,17 +67,12 @@ class Book:
             for line in reader:
                 cls.missing_page[line[1]] = line[3]
 
-    def __init__(self, xml_content, book_id, year, genre='', vote=0, rank=0,
-                 debut=0, debut_vote=0, debut_rank=0):
+    def __init__(self, xml_content, book_id, year, genre='', vote=0, rank=0):
         self.book_id = book_id
         self.year = year
         self.genre = genre
         self.vote = vote
         self.rank = rank
-        self.debut = debut
-        self.debut_vote = debut_vote
-        self.debut_rank = debut_rank
-
         root = ET.fromstring(xml_content)
 
         book = root.find('book')
@@ -129,10 +121,7 @@ class Book:
                 Book.shelves_names.append(name)
 
     def write_to_csv(self, csv_writer):
-        data = [
-            self.book_id, self.year, self.genre, self.vote, self.rank,
-            self.debut, self.debut_vote, self.debut_rank,
-        ]
+        data = [self.book_id, self.year, self.genre, self.vote, self.rank, ]
         data += self.book_data
         # for sh in Book.shelves_names:
         #     data.append(self.shelves_data.get(sh, 0))
