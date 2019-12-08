@@ -33,7 +33,8 @@ class Book:
                 'reviews_count',
                 'ratings_sum',
                 'work_ratings_count',
-                'text_reviews_count',
+                'work_text_reviews_count',
+                'work_text_reviews_proportion',
                 'original_publication_date',
                 'rate_1_star',
                 'rate_1_proportion',
@@ -48,14 +49,21 @@ class Book:
                 'average_rating',
                 'num_pages',
                 'book_ratings_count',
-                'text_reviews_count',
+                'book_text_reviews_count',
                 'authors_count',
                 'authors_average_rating',
+                'series_count',
+                'total_series_work_count',
+                'total_primary_work_count',
+                'primary_work_count_proportion',
             ]
-            # + ['shelf_' + n.replace("-", "_") for n in cls.shelves_names]
+            + ['shelf_' + n.replace("-", "_") for n in cls.shelves_names]
+            + [x for x in cls.genres]
         )
 
     shelves_names = []
+
+    genres = set()
 
     missing_page = None
 
@@ -68,11 +76,14 @@ class Book:
                 cls.missing_page[line[1]] = line[3]
 
     def __init__(self, xml_content, book_id, year, genre='', vote=0, rank=0):
+        Book.genres.add(genre)
+
         self.book_id = book_id
         self.year = year
         self.genre = genre
         self.vote = vote
         self.rank = rank
+
         root = ET.fromstring(xml_content)
 
         book = root.find('book')
@@ -85,11 +96,14 @@ class Book:
         book_data.append(book.findtext('title'))
         book_data.append(get_date(book, 'publication', year))
 
+        rc = work.findtext('reviews_count')
+        trc = work.findtext('text_reviews_count')
         book_data.append(work.findtext('books_count'))
-        book_data.append(work.findtext('reviews_count'))
+        book_data.append(rc)
         book_data.append(work.findtext('ratings_sum'))
         book_data.append(work.findtext('ratings_count'))
-        book_data.append(work.findtext('text_reviews_count'))
+        book_data.append(trc)
+        book_data.append(str(int(trc) / int(rc)))
         book_data.append(get_date(work, 'original_publication', year))
 
         rating_dist = work.findtext('rating_dist').split('|')
@@ -113,7 +127,20 @@ class Book:
             ratings_counts.append(float(author.findtext('ratings_count')))
         book_data.append(str(sum(x * y for x, y in zip(average_ratings, ratings_counts)) / sum(ratings_counts)))
 
-        for shelf in shelves[:10]:
+        total_series_work_count = 0
+        total_primary_work_count = 0
+        series_works = book.find('series_works')
+        for series in series_works:
+            series = series.find('series')
+            total_series_work_count += int(series.findtext('series_works_count'))
+            total_primary_work_count += int(series.findtext('primary_work_count'))
+        book_data.append(len(series_works))
+        book_data.append(total_series_work_count)
+        book_data.append(total_primary_work_count)
+        book_data.append(total_primary_work_count / total_series_work_count if total_series_work_count != 0 else 0)
+
+        # self.to_read = self.currently_reading = self.favorite = self.owned = self.audio = 0
+        for shelf in shelves[:3]:
             name = shelf.attrib['name']
             count = shelf.attrib['count']
             shelves_data[name] = count
@@ -121,9 +148,11 @@ class Book:
                 Book.shelves_names.append(name)
 
     def write_to_csv(self, csv_writer):
-        data = [self.book_id, self.year, self.genre, self.vote, self.rank, ]
+        data = [self.book_id, self.year, self.genre, self.vote, self.rank]
         data += self.book_data
-        # for sh in Book.shelves_names:
-        #     data.append(self.shelves_data.get(sh, 0))
+        for sh in Book.shelves_names:
+            data.append(self.shelves_data.get(sh, 0))
+        for g in Book.genres:
+            data.append(1 if self.genre == g else 0)
 
         csv_writer.writerow(data)

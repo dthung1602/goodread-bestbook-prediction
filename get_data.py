@@ -63,8 +63,8 @@ def main():
         for genre in nominees.values():
             for bid in genre:
                 sleep(1)
-                with open("data/" + str(bid) + '.xml', 'w') as xml_file:
-                    xml_file.write(get_book_raw_data(bid))
+                with open("data/" + str(bid[0]) + '.xml', 'w') as xml_file:
+                    xml_file.write(get_book_raw_data(bid[0]))
 
 
 if __name__ == "__main__":

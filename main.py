@@ -10,6 +10,7 @@ def main():
     for year, nominees in all_nominees.items():
         print(f"YEAR {year}")
         for genre, bids in nominees.items():
+            genre = "_".join(genre.split('-')[1:-1])
             if 'debut' not in genre:
                 print("  " + genre)
                 rank = 11
