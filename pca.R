@@ -36,9 +36,9 @@ cumulative_proportion <- summary(pca)$importance[3,]
 plot(cumulative_proportion, type = 'l', col = 'darkblue')
 
 # select features: 124 -> 85%, 134 -> 90%, 190 -> 100%
-new_pc <- data.frame(pca$x[, 1:135])
-# to orignal data (i.e. skip pca), uncomment the following line
-# new_pc <- xv
+new_pc <- data.frame(pca$x[, 1:134])
+# to use orignal data (i.e. skip pca), uncomment the following line
+# new_pc <-  data.frame(xv)
 
 # view corelations of new components
 new_pc_cor_matrix <- cor(new_pc, new_pc, method = 'pearson')
@@ -65,19 +65,28 @@ test_data <- data_before_2019[(smp_size + 1):row_count, ]%>% select(-vote)
 test_data_vote <- data_before_2019[(smp_size + 1):row_count, ]%>% select(vote)
 
 # train xgboost model
-start_time <- Sys.time()
-model <- xgboost(data = as.matrix(train_data),
-                 label = as.matrix(train_data_vote),
-                 nfold = 15,
-                 eta = 0.01,
-                 nrounds = 7500,
-                 gamma = 7.5,
-                 max_depth = 6,
-                 subsample = 0.7,
-                 colsample_bytree = 0.7,
-                 seed = 123,
-                 verbose = FALSE, nthread = 4)
-Sys.time() - start_time
+total_time <- 0
+for (i in c(0, 1, 2, 3)) {
+  start_time <- Sys.time()
+  model <- xgboost(data = as.matrix(train_data),
+                   label = as.matrix(train_data_vote),
+                   nfold = 15,
+                   eta = 0.01,
+                   nrounds = 7500,
+                   gamma = 7.5,
+                   max_depth = 6,
+                   subsample = 0.7,
+                   colsample_bytree = 0.7,
+                   seed = 123,
+                   verbose = FALSE,
+                   nthread = 4)
+  elapsed_time <- Sys.time() - start_time
+  print(elapsed_time)
+  if (i > 0)
+    total_time <- total_time + elapsed_time
+}
+print("TOTAL: ")
+print(total_time)
 
 # use xgboost model to predict
 predicted_vote <- predict(model, newdata = as.matrix(test_data))
@@ -98,3 +107,4 @@ result_2019 <- all_data %>%
   mutate(rank = order(order(predicted_vote, decreasing = TRUE))) %>%
   arrange(genre, rank)
 
+write.csv(result_2019, "predict_result_2019.csv", quote = TRUE, sep = ",")
