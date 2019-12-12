@@ -4,7 +4,8 @@ library(corrgram)
 library(xgboost)
 
 # read data
-all_data <- read.table("result.csv", sep = ",", quote = "\"", comment.char = "", header = TRUE)
+all_data <- read.table("result.csv", sep = ",", quote = "\"",
+                       comment.char = "", header = TRUE)
 
 # vote has exponential distribution -> convert to log(vote)
 all_data$vote = log(all_data$vote)
@@ -16,13 +17,16 @@ data_before_2019 <-  all_data %>%
   select(-year)
 
 # view corelation of features
-corrgram(data_before_2019[, 1:10], lower.panel = panel.cor, upper.panel = panel.pie, cor.method = "pearson")
-corrgram(data_before_2019[, 10:20], lower.panel = panel.cor, upper.panel = panel.pie, cor.method = "pearson")
+corrgram(data_before_2019[, 1:10], lower.panel = panel.cor,
+         upper.panel = panel.pie, cor.method = "pearson")
+corrgram(data_before_2019[, 10:20], lower.panel = panel.cor,
+         upper.panel = panel.pie, cor.method = "pearson")
 
 # view corelation of features to vote
 cor_matrix <- cor(data_before_2019, data_before_2019, method = "pearson")
 column_count <- ncol(cor_matrix)
-vote_cor <- data.frame(cor = cor_matrix[2:column_count, 1], varn = names(cor_matrix[2:column_count, 1]))
+vote_cor <- data.frame(cor = cor_matrix[2:column_count, 1],
+                       varn = names(cor_matrix[2:column_count, 1]))
 sorted_vote_cor <- vote_cor %>%
   mutate(cor_abs = abs(cor)) %>%
   arrange(desc(cor_abs))
@@ -42,8 +46,10 @@ new_pc <- data.frame(pca$x[, 1:134])
 
 # view corelations of new components
 new_pc_cor_matrix <- cor(new_pc, new_pc, method = 'pearson')
-corrgram(new_pc[, 1:10], lower.panel = panel.cor, upper.panel = panel.pie, cor.method = "pearson")
-corrgram(new_pc[, 10:20], lower.panel = panel.cor, upper.panel = panel.pie, cor.method = "pearson")
+corrgram(new_pc[, 1:10], lower.panel = panel.cor,
+         upper.panel = panel.pie, cor.method = "pearson")
+corrgram(new_pc[, 10:20], lower.panel = panel.cor,
+         upper.panel = panel.pie, cor.method = "pearson")
 
 # split data to 2019 and before 2019
 new_pc$vote <- all_data$vote
@@ -61,8 +67,8 @@ row_count <- nrow(data_before_2019)
 smp_size <- floor(0.8 * row_count)
 train_data <- data_before_2019[1:smp_size, ] %>% select(-vote)
 train_data_vote <- data_before_2019[1:smp_size, ] %>% select(vote)
-test_data <- data_before_2019[(smp_size + 1):row_count, ]%>% select(-vote)
-test_data_vote <- data_before_2019[(smp_size + 1):row_count, ]%>% select(vote)
+test_data <- data_before_2019[(smp_size + 1):row_count, ] %>% select(-vote)
+test_data_vote <- data_before_2019[(smp_size + 1):row_count, ] %>% select(vote)
 
 # train xgboost model
 total_time <- 0
